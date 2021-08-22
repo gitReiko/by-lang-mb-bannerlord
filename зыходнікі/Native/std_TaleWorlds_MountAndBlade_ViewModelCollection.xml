@@ -4,16 +4,15 @@
     <tag language="English" />
   </tags>
   <strings>
-    <string id="06V7fEV4" text="Press ESC to go back" />
     <string id="08KLQa3P" text="Waiting For Party Members" />
     <string id="0af2iQvw" text="Clan doesn't have any announcements" />
     <string id="0B27RrYJ" text="Battania" />
     <string id="0Itt3bZM" text="Current keybind document version is outdated. Keybinds have been reverted to defaults." />
     <string id="18yFEEIL" text="Estimated wait time" />
+    <string id="1hlaGzGI" text="Look" />
     <string id="1hnq3Kb1" text="Are you sure want to reset all properties? Your changes will be lost." />
     <string id="1JlzQIXE" text="Disabled" />
     <string id="1pwQgr04" text="Matchmaking Request" />
-    <string id="2Q6Mm9Jo" text="Gamepad Options" />
     <string id="2YIVRuRa" text="Remove From Friends" />
     <string id="2zcrC0h1" text="Gameplay" />
     <string id="3CpNUnVl" text="Cancel" />
@@ -22,7 +21,6 @@
     <string id="4Dd2xgPm" text="Weight" />
     <string id="4gCU2ykB" text="Reset all keys to default" />
     <string id="4NaOKslb" text="-" />
-    <string id="4OGDnOVE" text="with {OPPONENT_NAME}" />
     <string id="4PrfimcK" text="Badge" />
     <string id="4ZE6i9nW" text="Leave Clan" />
     <string id="5baU17n0" text="Matchmaking feature is currently disabled" />
@@ -39,15 +37,21 @@
     <string id="6syoutpV" text="From {WHISPER_TARGET}" />
     <string id="74PKmRWJ" text="Flip Hair" />
     <string id="76HlhP7r" text="You have to give leadership to another member to leave" />
+    <string id="76VR5o8h" text="You must wait {SECONDS} seconds before sending another message." />
+    <string id="7jMnNlXG" text="Change Arena Preference" />
     <string id="7KWjQwp3" text="Bannerlord ID" />
     <string id="7qySRF2T" text="Ping" />
     <string id="7R0i82Nw" text="Change Sigil" />
+    <string id="82LuSDnd" text="Fast Cursor Move Left" />
     <string id="89t1Bap8" text="This clan wants to join the clan match you created." />
     <string id="8nJFaJio" text="Password" />
     <string id="8OkPHu4f" text="No" />
     <string id="8pLf56db" text="Waiting for an opponent clan" />
     <string id="942B3LfA" text="Decline Friend Request" />
     <string id="9jdHEa0N" text="Friend Requests" />
+    <string id="9M4G8DDd" text="Your team was wiped out" />
+    <string id="9pgOGq7X" text="Log" />
+    <string id="9w9JsBYP" text="Leave party" />
     <string id="a9TcHtVw" text="Faction B" />
     <string id="AaAcmalE" text="You've been invited to join a party by" />
     <string id="aalbxe7z" text="Army Size" />
@@ -59,6 +63,7 @@
     <string id="ApD0xQXT" text="{STR1}: {STR2}" />
     <string id="aRzlp5XH" text="CREATE" />
     <string id="aseraifaction" text="Aserai" />
+    <string id="atUHbDeM" text="Map Camera Rotate" />
     <string id="aVixswW5" text="Team Selection" />
     <string id="aWzdkfvn" text="Currently you are not a member of a clan or you don't own a clan. You need to create a party from non-clan member players to form your own clan." />
     <string id="aZnS9ECC" text="Invite" />
@@ -71,6 +76,7 @@
     <string id="bfQLwMUp" text="Clans" />
     <string id="bIcFZT6L" text="Eyebrow Type" />
     <string id="bjJkW9dO" text="View Profile" />
+    <string id="bLPSaLNv" text="Fast Cursor Move Right" />
     <string id="bON4Kn6B" text="Auto Assign" />
     <string id="BrjpmaJH" text="Games Lost" />
     <string id="BrYUHFsg" text="CHOOSE GAME" />
@@ -79,12 +85,13 @@
     <string id="BXI1ObU8" text="Promote To Clan Officer" />
     <string id="bynNUfSr" text="Your party does not have enough members to create a clan." />
     <string id="c0ZdKSkn" text="Waiting" />
+    <string id="c6c9eYrD" text="Enemy team ran out of morale" />
     <string id="C7OHivNl" text="Your friend &lt;a style=&quot;Strong&quot;&gt;&lt;b&gt;{PLAYER_NAME}&lt;/b&gt;&lt;/a&gt; wants you to invite the player below to your party." />
     <string id="cDzWYQrz" text="Reset to default settings?" />
-    <string id="chfTxqZg" text="Invalid command." />
     <string id="cK5DE88I" text="N/A" />
     <string id="cLJdeUWz" text="Height:" />
     <string id="clxT9H4T" text="Type Your Name" />
+    <string id="cO2FDHCa" text="Duel with {OPPONENT_NAME} is starting in {DUEL_REMAINING_TIME} seconds." />
     <string id="CW2JkWzC" text="Are you sure want to delete this announcement?" />
     <string id="cw5QyeRU" text="Report Reason" />
     <string id="D0TbQm4r" text="BREACHED" />
@@ -94,10 +101,12 @@
     <string id="D9zIAw9y" text="Clan Invite" />
     <string id="DAVb2Pzg" text="Charge Dmg." />
     <string id="Dbkx4v90" text="ROUND LOST" />
+    <string id="Dc3fFblo" text="Enemy team had the upper hand at timeout" />
     <string id="DKqLY1aJ" text="Equip" />
     <string id="DmaP2qaR" text="Skin Type" />
     <string id="dMdmyb3Y" text="Password Protected" />
     <string id="DQvGNQ0g" text="There isn't any unit under command." />
+    <string id="DraJ6bxq" text="Vote for the Next Map" />
     <string id="DXczLzml" text="Status" />
     <string id="dxlkHhw5" text="Games Won" />
     <string id="ECb8IPbA" text="Create Clan" />
@@ -120,9 +129,12 @@
     <string id="fM9E7frB" text="Performance" />
     <string id="FRSGOfUJ" text="Toggle include Combat Log" />
     <string id="ftoSCQ0x" text="Length" />
+    <string id="FTXx0aRp" text="Play as" />
     <string id="g1lgiwn1" text="Not Logged In" />
     <string id="g5W32uf4" text="Type Your Announcement" />
     <string id="G6hYIR5k" text="Voice Pitch:" />
+    <string id="gamepadActionKeybind" text="Action" />
+    <string id="gamepadMapKeybind" text="Map" />
     <string id="gamevideo" text="Video" />
     <string id="gcl2duJH" text="Reset your badge" />
     <string id="gGa3ZhqN" text="This player will be muted automatically." />
@@ -138,19 +150,22 @@
     <string id="gzdNEM76" text="Create a Game" />
     <string id="H1emUb6k" text="Age:" />
     <string id="hazebV8x" text="Customize Character" />
-    <string id="hbwp3g3k" text="+{FRIEND_COUNT}\n{?PLURAL}friends{?}friend{\?}" />
+    <string id="hbwp3g3k" text="+{FRIEND_COUNT} {newline} {?PLURAL}friends{?}friend{\?}" />
+    <string id="hdGay8xc" text="Map Cursor Move" />
     <string id="HEEZhL90" text="Press to Equip" />
     <string id="hiKTvBgF" text="Are you sure want to reset changes done in this tab? Your changes will be lost." />
     <string id="hometab" text="Home" />
     <string id="hPbppi6E" text="Not At The Lobby" />
+    <string id="HXWpxvgT" text="{ACTION} ({SECONDS})" />
     <string id="HXxNfncd" text="End of Battle" />
     <string id="i0OEsfLt" text="Custom Battle Disabled" />
+    <string id="i28Kjuay" text="Move Character" />
+    <string id="i4Oo6aoM" text="Downloading Content..." />
     <string id="IBEJPlEj" text="Home" />
     <string id="iCaRFZpG" text="along with these players" />
     <string id="Ie9I2Bha" text="Thrust Dmg." />
     <string id="iKtIhlbo" text="Rounds" />
     <string id="IlQnJsUp" text="Flags Captured:" />
-    <string id="iLUiaRsj" text="Your" />
     <string id="iNqucBor" text="Logging In" />
     <string id="iPx4jep6" text="Exposure" />
     <string id="IS4SifJG" text="Won" />
@@ -159,8 +174,10 @@
     <string id="j35pgljM" text="Choose Faction" />
     <string id="j4F7tTzy" text="Clan" />
     <string id="j5pLIV91" text="Focus Start" />
-    <string id="Jd44GGJW" text="{TEAM} team had the upper hand at timeout" />
+    <string id="J5rb5YVV" text="/ {SCORE}" />
     <string id="JPimShCw" text="Game Type" />
+    <string id="jPXglGWT" text="Enemy team was wiped out" />
+    <string id="jQGJXGOo" text="Controller Keybinds" />
     <string id="jQJbU9Wl" text="Searching for a match" />
     <string id="JTMegIk4" text="Accepted" />
     <string id="JY2pBVHQ" text="Announcements" />
@@ -173,6 +190,7 @@
     <string id="kftE5nvv" text="Horse Armor" />
     <string id="kG0xuyfE" text="Armory" />
     <string id="klkYFik9" text="You've already reported this player." />
+    <string id="KOVHgkVq" text="Voting Ends In:" />
     <string id="koX9okuG" text="None" />
     <string id="l2CNxPXG" text="Teeth Type" />
     <string id="L3DJHTdY" text="Enter Bannerlord ID" />
@@ -188,12 +206,15 @@
     <string id="lX9Qx7Wo" text="Next Game Starts In:" />
     <string id="macpKFaG" text="Voice" />
     <string id="mAxXKaXp" text="Reset" />
+    <string id="MceLT3Zg" text="Wireless Controller" />
     <string id="meFS5F4V" text="-{DAMAGE}" />
     <string id="mFMPj9zg" text="Searching for matches" />
     <string id="MjnlWhih" text="Tag Length Is Invalid" />
+    <string id="MPgnsZoo" text="Waiting for response" />
     <string id="MS4Ng2iw" text="Are you sure want to promote {MEMBER_NAME} as clan officer?" />
-    <string id="MsAb6hed" text="{TEAM} team was wiped out" />
+    <string id="n23hFPye" text="Change Cursor Mode" />
     <string id="NaZ6xg33" text="Couldn't find an applicable server to join." />
+    <string id="nEpZvaEl" text="Fast Cursor Move Down" />
     <string id="NJolh9ye" text="Recent Games" />
     <string id="NLKmdNbt" text="Search" />
     <string id="NqarFr4P" text="Options" />
@@ -203,10 +224,12 @@
     <string id="nWJGjCgy" text="characters" />
     <string id="oBbiVeKE" text="Hit Points" />
     <string id="oeSrXaKt" text="You need to demote one of the officers" />
+    <string id="oF27vprQ" text="Vote for the Next Culture" />
     <string id="oFWcihyW" text="Disband Clan" />
     <string id="oHaWR73d" text="Ok" />
     <string id="oibdTnXP" text="Handling" />
     <string id="OiWquyWY" text="You have to be the leader of the party to create a clan" />
+    <string id="ol0rBSrb" text="{STR1}{newline}{STR2}" />
     <string id="oMiNaY1E" text="Posted By" />
     <string id="OSoAVlqc" text="Equipped" />
     <string id="OUvFT99g" text="Tag" />
@@ -252,11 +275,13 @@
     <string id="RCuCoVgd" text="ROUND WON" />
     <string id="RfXJdNye" text="Players" />
     <string id="rg7OuWS2" text="Maneuver" />
+    <string id="Rhcberxf" text="Awaiting Server" />
     <string id="rLozutts" text="Request Friendship" />
     <string id="RN6zHak0" text="Player" />
     <string id="RNgWFLIO" text="Swing Dmg." />
     <string id="RPCjrF5X" text="You must select a faction" />
     <string id="RVIKFCno" text="Reset to Defaults" />
+    <string id="Rvr1bcu8" text="Next" />
     <string id="rWm5udCd" text="You must enter a valid Bannerlord ID" />
     <string id="Rzor6tbG" text="Skins" />
     <string id="RzROgBkv" text="Invite To Party" />
@@ -265,10 +290,8 @@
     <string id="S8pZEPni" text="Kick From Clan" />
     <string id="saZ1OvPt" text="You can press the login button to establish connection" />
     <string id="sFDrUfNR" text="ban" />
-    <string id="SKjI2a8V" text="Leave from party" />
     <string id="socialtab" text="Social" />
     <string id="SoQcsslF" text="CURRENT TEAM" />
-    <string id="sPmQz21k" text="Enemy" />
     <string id="SrfYbg3x" text="Leader" />
     <string id="SyklU5aP" text="Information" />
     <string id="sZLd6VHi" text="Khuzait" />
@@ -276,11 +299,13 @@
     <string id="TAnabTdy" text="Accuracy" />
     <string id="tC9C8TLi" text="Add Friend" />
     <string id="tFLLx4J4" text="Most Played Classes" />
+    <string id="tidE1V1k" text="Accept duel" />
     <string id="tjioq56N" text="Friend List" />
     <string id="tTwQsP6j" text="Player does not exist" />
     <string id="TxphX8Uk" text="Deployment" />
     <string id="TzYWE9tA" text="No Recent Games Found" />
     <string id="U4dzbzNb" text="Please wait while you are being connected to the server" />
+    <string id="u78WUP9W" text="Fast Cursor Move Up" />
     <string id="UfK6ztFl" text="Clan Matches" />
     <string id="ulzyykHO" text="This Tag Already Exists" />
     <string id="uOrwqeQl" text="You must select a sigil icon" />
@@ -297,7 +322,6 @@
     <string id="vGF5S2hE" text="Leaderboard" />
     <string id="VOTau449" text="Locked" />
     <string id="vW1VgmaP" text="Are you sure want to disband your clan?" />
-    <string id="vZTWMqUp" text="Only party leaders can take action on other party members" />
     <string id="W4DLzPSb" text="Server not full" />
     <string id="w9m11T1y" text="Map" />
     <string id="wGjQgQlY" text="Next Game begins in:" />
@@ -310,18 +334,22 @@
     <string id="wubDWOlh" text="Select Profile" />
     <string id="wuKqRvc3" text="Game: {GAME_TYPES}  |  Region: {REGIONS}" />
     <string id="WVauJViF" text="Game Ends In:" />
+    <string id="WXAaWZVf" text="Previous" />
+    <string id="x1HZy70i" text="Your team had the upper hand at timeout" />
     <string id="xebFLnH2" text="Audio" />
     <string id="XJTX8w8M" text="Warmup Phase - {GAME_MODE}\nWaiting for players to join" />
     <string id="xkV9g4le" text="Do you accept them as your opponent?" />
     <string id="xTv4tCbZ" text="Everybody!! Listen to me" />
     <string id="xXSFaGW8" text="Disband" />
+    <string id="xxuzZJ3G" text="Your team ran out of morale" />
     <string id="Y94H6XnK" text="Accept" />
     <string id="yA45PqFc" text="FIND GAME" />
     <string id="YAaAlbkX" text="Avg. Playtime" />
     <string id="YjbNtFcw" text="This will reset ALL keys to their default states. You won't be able to undo this action. {newline} {newline}Are you sure?" />
     <string id="yJsE4Ayo" text="Swing Spd." />
-    <string id="yjyJgRVt" text="{TEAM} team ran out of morale" />
     <string id="YK3nXtoM" text="Friends" />
+    <string id="YLPJWgqF" text="Challenge" />
+    <string id="yQ0p8Glo" text="Select Culture" />
     <string id="yQtzabbe" text="Close" />
     <string id="yS7PvrTD" text="OK" />
     <string id="yUpH2mQ4" text="Ammo" />
@@ -335,7 +363,6 @@
     <string id="zravuI1b" text="Type Clan Information" />
     <string id="zSXXfnYY" text="Change Faction" />
     <string id="Zv1lg272" text="Offline" />
-    <string id="zxBBzoTH" text="Duel {DUEL_NAME} is starting in {DUEL_REMAINING_TIME} seconds." />
     <string id="ZYF2t1VI" text="Officer" />
   </strings>
 </base>

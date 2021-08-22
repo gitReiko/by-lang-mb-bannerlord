@@ -8,21 +8,25 @@
     <string id="02E0oSJm" text="FOUL! Your opponent was fighting outside the joust. {?OPPONENT_GENDER}He{?}She{\?} has been disqualified!" />
     <string id="03mPaWum" text="Kingdom" />
     <string id="04GuLxE1" text="You cannot disband your own party" />
+    <string id="07b4Wy0h" text="Choose Cavalry" />
     <string id="082FNWAD" text="Traits" />
     <string id="08aYzc2F" text="Headman" />
     <string id="09ooh9I3" text="Pawns travel toward the opponent's home-tile. Upon reaching the last tile, they will move back towards their own home-tile. Enemy pawns can be captured along the way." />
     <string id="0amC7X1h" text="War Declaration" />
     <string id="0DiBS84d" text="Merciful" />
+    <string id="0FssY1wG" text="You can see portraits of Important NPCs on the top bar.{newline}{newline}Press {CONSOLE_ACTION_KEY} while the cursor is on their portrait and choose talk from the menu." />
     <string id="0GZ19XHb" text="Harness" />
     <string id="0hCHIcVk" text="Skirmish on mount" />
     <string id="0IjUokET" text="How much? How much money? Be quick.[ib:hip][rb:trivial]" />
     <string id="0j9JnMNB" text="{ITEM_NAME} taken." />
     <string id="0JyRvjSF" text="Our plan is to form a defensive line." />
+    <string id="0LgxcCbL" text="Order {NUMBER}" />
     <string id="0mDkVTWn" text="Heroes" />
     <string id="0oGz5rVx" text="Honor" />
     <string id="0qCbsOif" text="Pistol" />
     <string id="0RkO7oHP" text="captain" />
-    <string id="0V4jIIju" text="Travelling to {SETTLEMENT_NAME} to besiege" />
+    <string id="0V4jIIju" text="Travelling to {SETTLEMENT_NAME} to besiege." />
+    <string id="0zNzaDGq" text="Blade" />
     <string id="0zz1iDMY" text="a chieftain" />
     <string id="11aiaODt" text="Foot Armor" />
     <string id="13q8IRfZ" text="my sister {REFERING_HERO.LINK}" />
@@ -33,7 +37,7 @@
     <string id="1cd6u0qn" text="Open the gates and sally out!" />
     <string id="1CPdu9K0" text="Stone" />
     <string id="1dLZLQsY" text="Donate to Troops{newline}You will not be able to undo this action." />
-    <string id="1E6hFc0r" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} screening against enemy moving behind our back." />
+    <string id="1E6hFc0r" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are screening against enemy moving behind our back." />
     <string id="1HPITLca" text="Prisoner Size Limit Exceeded" />
     <string id="1jqxlEkT" text="Spice{@Plural}sacks of spice{\@}" />
     <string id="1KcIeYe2" text="You need to be in the same location as the character in order to talk to them" />
@@ -43,6 +47,7 @@
     <string id="1o1TyPib" text="Additional Companion Limit" />
     <string id="1PwQxaOu" text="Preparations seem to be under way for a tournament. Prize is {ITEM}." />
     <string id="1pxLpZ4r" text="Calculating:" />
+    <string id="1sJcKkVP" text="Guard" />
     <string id="1wHTYnxh" text="You've supported the conspiracy against the Empire!" />
     <string id="1wkANMRC" text="Our plan is to try and hold this narrow pass." />
     <string id="1XE7yeaP" text="After this prisoner gains {CONFORMITY_AMOUNT} conformity, one more prisoner will be available for recruitment." />
@@ -50,10 +55,10 @@
     <string id="1Zq8mzzJ" text="Well now. Let's see what sort of fly has stumbled into our web." />
     <string id="22a9fyiQ" text="Father" />
     <string id="22FUKSQb" text="Gain {REQUIRED_XP_FOR_NEXT_LEVEL} xp for this skill by using it to level it up" />
-    <string id="24L5DoQt" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} defending key positions." />
+    <string id="24L5DoQt" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are defending key positions." />
     <string id="25MeMNbP" text="Right" />
     <string id="275LD0Gh" text="Shop Worker" />
-    <string id="29bsCzkn" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} retreating to safety." />
+    <string id="29bsCzkn" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are retreating to safety." />
     <string id="2a33tk2f" text="Daily Project" />
     <string id="2Af5HRJU" text="Village Notables" />
     <string id="2awf1tei" text="Tax" />
@@ -92,7 +97,7 @@
     <string id="3l8HsbHK" text="Heh. You made a wise choice. Come back this way and we can do business again.[ib:closed][rb:positive]" />
     <string id="3o6FDRsq" text="Captured Towns" />
     <string id="3PzgpFGq" text="Neutral" />
-    <string id="3qFPyJtB" text="Waiting in {SETTLEMENT_NAME}" />
+    <string id="3qFPyJtB" text="Waiting in {SETTLEMENT_NAME}." />
     <string id="3sRdGQou" text="Leave" />
     <string id="3sWa2Hmt" text="my son {REFERING_HERO.LINK}" />
     <string id="3syV6ymi" text="Blunt" />
@@ -100,7 +105,7 @@
     <string id="3TXGG01D" text="You chose well, {?PLAYER.GENDER}madam{?}sir{\?}. My lads know how to keep their word and earn their pay.[rb:very_positive]" />
     <string id="3uR8wLko" text="our liege {REFERING_HERO.LINK}" />
     <string id="3vT6TQmF" text="{PLAYER.LINK}, you are in {SIDE_STRING} {CLASS_NAME}." />
-    <string id="3wS4uOvU" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} skirmishing from behind." />
+    <string id="3wS4uOvU" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are skirmishing from behind." />
     <string id="3xeuA9VP" text="+{TROOP_AMOUNT} Troop{?ISPLURAL}s{?} {\?} to Settlement" />
     <string id="3xIv2cP9" text="Hold high ground" />
     <string id="3XsOeE2v" text="You will {?PAY_OR_GET}get{?}pay{\?} {TRADE_AMOUNT}{GOLD_ICON}" />
@@ -120,14 +125,16 @@
     <string id="4kvKQuXM" text="Hides{@Plural}loads of hide{\@}" />
     <string id="4KXvyxrK" text="Bound settlement" />
     <string id="4l3BLxBC" text="Shoot from siege tower" />
+    <string id="4M8h8ufy" text="Not Usable With Two Hands" />
     <string id="4ml9Bx6i" text="Multiplayer Perk" />
     <string id="4mMXsVGb" text="Tavern Game Host" />
     <string id="4nv6LzDp" text="Musket" />
     <string id="4okzoXIw" text="Companion" />
     <string id="4ol7MhA5" text="You are trapped by enemies. But your men are in no condition to fight." />
+    <string id="4QAwbFcQ" text="Nearby Hideout" />
     <string id="4rRsmX8i" text="Good. Sometimes it's better to shear the sheep than eat them." />
     <string id="4Skg9QhO" text="Trebuchet" />
-    <string id="4U6x48yQ" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} leading battle." />
+    <string id="4U6x48yQ" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are leading battle." />
     <string id="4WD0kJSR" text="Arrr.. You'd best not be toying with us." />
     <string id="4wYguFLZ" text="Solving issue" />
     <string id="4Y5T7wp1" text="Cannot kick family members from clan." />
@@ -155,7 +162,7 @@
     <string id="5SQaiYXi" text="FOUL! No hitting your opponent's horse. You have been disqualified!" />
     <string id="5T7nyzda" text="I am glad to hear that. Killing is thirsty work for us too." />
     <string id="5U70lB7k" text="Press {KEY} to hide" />
-    <string id="5WJbtDqp" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} skirmishing behind allies." />
+    <string id="5WJbtDqp" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are skirmishing behind allies." />
     <string id="5WWbQRQ5" text="A player wins if his opponent can't make any more jumps (captures)." />
     <string id="5X9Sq4T4" text="{NUM} Lord(s)" />
     <string id="5XFDdsHf" text="Abdicate Leadership" />
@@ -185,11 +192,12 @@
     <string id="7acrOvmJ" text="Ranged Weapons I" />
     <string id="7AFlpaem" text="{STR1} {STR2}" />
     <string id="7AOOQ5iB" text="Despite the hardship, you hear few murmurs of complaint, and people seem to trust their rulers to lead them through adversity." />
+    <string id="7aYV4L9z" text="+{NUMBER}" />
     <string id="7chepLLh" text="Destroy siege weapons{?IS_GENERAL_SIDE}{?} on {SIDE_STRING} side{\?}" />
     <string id="7cMUohRm" text="Command simulated battles. Win battles at difficult odds. Escape from encounters by sacrificing troops if necessary." />
-    <string id="7cnb2iEb" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} skirmishing." />
+    <string id="7cnb2iEb" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are skirmishing." />
     <string id="7EnFh9e5" text="Location: {LOCATION}" />
-    <string id="7EVjgrFW" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} skirmishing sparcely." />
+    <string id="7EVjgrFW" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are skirmishing sparsely." />
     <string id="7h6cXdW7" text="Engineer" />
     <string id="7hj7Kaoz" text="Total Income" />
     <string id="7IqpjCDY" text="Executing a prisoner will negatively affect your reputation and will decrease your relation with the prisoner's faction/clan.{newline}You will not be able to undo this action.{newline}Are you sure you want to execute this character?" />
@@ -205,9 +213,11 @@
     <string id="7t1daAel" text="Bad decision, friend.[if:idle_furious][ib:aggressive][rb:very_negative]" />
     <string id="7vdgxtwo" text="IV" />
     <string id="7vrdpDFK" text="&lt;b&gt;Mangonel&lt;/b&gt;{NEWLINE}Throws rocks over a distance using torsion strings.{NEWLINE}Equally effective against walls, enemy siege engines and their operators." />
+    <string id="7W79uw0y" text="Back To Default" />
     <string id="7WFFCVMa" text="Special" />
     <string id="7xFRFV0P" text="Form a defensive ring." />
     <string id="7Xynf4IA" text="Hand Armor" />
+    <string id="7Ywub9bC" text="Defenders are still holding the keep." />
     <string id="7zUWqY3O" text="Left" />
     <string id="80hwCw7B" text="-{BONUS_AMOUNT}% reduced militia during rebellion" />
     <string id="83Yt9rbK" text="Breached" />
@@ -216,7 +226,7 @@
     <string id="8apwrVjc" text="Additional Clan Party" />
     <string id="8B7V0qdT" text="You have lost the battle!" />
     <string id="8bSHlWBL" text="There is no tournament currently in this town." />
-    <string id="8byRf9zO" text="General" />
+    <string id="8byRf9zO" text="Generals" />
     <string id="8c8NDpAd" text="{HERO.NAME} has gained {TRAIT_NAME} trait." />
     <string id="8cY08v3s" text="The village is of average wealth. Humans and animals alike look well-fed. Villagers busily attend to the tasks of the seasons." />
     <string id="8geYNpC9" text="Missile {THRUST_DAMAGE_TYPE} Damage: " />
@@ -229,6 +239,7 @@
     <string id="8oaVYIlk" text="You are outside the {SETTLEMENT_NAME}. You cannot enter because the castle belongs to the enemy." />
     <string id="8OkPHu4f" text="No" />
     <string id="8Rkxc5jE" text="No Food" />
+    <string id="8rzcgCO5" text="Sort By" />
     <string id="8UBfIenN" text="Normal" />
     <string id="8ucLajpU" text="One Handed Axe" />
     <string id="8UFjXbbW" text="Flank{?IS_GENERAL_SIDE}{?} from {SIDE_STRING} side{\?}" />
@@ -252,12 +263,12 @@
     <string id="9NjDfz5Z" text="({LEFT} / {RIGHT})" />
     <string id="9PLNQrWw" text="You hear few complaints and people seem to have confidence in the authorities." />
     <string id="9pwIt4aa" text="Wax{@Plural}loads of wax{\@}" />
-    <string id="9yffPYUl" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} charging." />
+    <string id="9yffPYUl" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are charging." />
     <string id="a0mJ0cVV" text="Consumption(s)" />
     <string id="A0sT86A3" text="No War Selected" />
     <string id="a0YMy8E5" text="{REQUIRED_ITEM} is needed for upgrade." />
     <string id="a10WGnBr" text="FOUL! No fighting outside of the joust. You have been disqualified!" />
-    <string id="a15eUf3B" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} fighting enemy inside the walls." />
+    <string id="a15eUf3B" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are fighting enemy inside the walls." />
     <string id="A1tkQyBb" text="{KINGDOM_NAME} is now defeated. You've failed!" />
     <string id="a3hmB91k" text="Build and operate siege engines. Successfully use engines in sieges offensively or defensively." />
     <string id="A3T5z4Mv" text="Defensive" />
@@ -297,6 +308,7 @@
     <string id="aieN31uq" text="Companions ({COMPANION_COUNT}/{COMPANION_LIMIT})" />
     <string id="AIh1Ik4A" text="Calradian Empire" />
     <string id="aIkffnN6" text="Characters" />
+    <string id="aIwUX5EF" text="Press {CONSOLE_KEY_NAME} to continue" />
     <string id="aiX4b5kS" text="Completed Quests" />
     <string id="AIYWSAyK" text="Make profit from trading. Operate caravans." />
     <string id="aJoNj6JX" text="Fight with a two handed short weapon." />
@@ -313,6 +325,7 @@
     <string id="aNSAaHk9" text="Bagh Chal is a game of Sheep (white) versus Wolves (black).{newline}The wolves have four pawns that start on the four corners of the board. Every turn, one sheep is placed on the board, and one wolf makes a move or capture until all sheep have been placed on the board.{newline}After all sheep have been placed, the sheep can now also move on the board." />
     <string id="AONnsaao" text="You are the leader of the Empire!" />
     <string id="aOvxxLZ8" text="Food Variety" />
+    <string id="ap1wEfdW" text="V" />
     <string id="Aph8CcKO" text="Free Attribute Points: You can use these points to increase attributes. You'll gain one free attribute for every {ATTRIBUTE_EVERY_LEVEL} levels you gain. " />
     <string id="ar2Y8Xs9" text="{LEFT}: " />
     <string id="aR4e8B2A" text="II" />
@@ -321,7 +334,6 @@
     <string id="aseraifaction" text="Aserai" />
     <string id="aseraimembers" text="Aserai" />
     <string id="asHzEWnG" text="We shall stain the sands with your blood, then." />
-    <string id="aTLrmbVL" text="Tier IV" />
     <string id="aUNYlvbN" text="You have arrived at {SETTLEMENT} to raid it. Some of the residents have gathered to resist you." />
     <string id="AUOio5Tu" text="Daily Defaults" />
     <string id="AVoWvlue" text="{RANK} ({NUMBER})" />
@@ -331,7 +343,7 @@
     <string id="Ayrvf5yp" text="Kill" />
     <string id="aZrbxdat" text="Hold [{KEY_NAME}] to do all" />
     <string id="b0Mv6mZy" text="Retake castle position!" />
-    <string id="b0yJ9JsW" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} assaulting walls." />
+    <string id="b0yJ9JsW" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are assaulting the walls." />
     <string id="b1BiRmgI" text="You are setting your siege camp. You have to wait for the preparations to be over." />
     <string id="B1j4F6i7" text="{?DAY_IS_PLURAL}Days{?}Day{\?}" />
     <string id="b1Ra7gHa" text="Ranged Weapons II" />
@@ -340,9 +352,8 @@
     <string id="B5J6DbpG" text="Remaining Days With Food: {REMAINING_DAYS}{newline}{newline}Total Food: {TOTAL_FOOD_AMOUNT}{newline}Daily Consumption: {DAILY_FOOD_CONSUMPTION}" />
     <string id="b5t34yLX" text="Horse Harness" />
     <string id="b6biU4f1" text="Create New Party" />
-    <string id="B6g1ukB7" text="Tier I" />
     <string id="b778BvfW" text="This item is {PERCENTAGE}% more expensive than average" />
-    <string id="b7aDfCR9" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} defending." />
+    <string id="b7aDfCR9" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are defending." />
     <string id="b7bWCXbk" text="Run along now, little sheep. And be careful of the other wolfpacks out there." />
     <string id="b7U3Gvuu" text="Some of the angry villagers say that they have recently satisfied your demands. It looks like you'll have a fight on your hands if you continue." />
     <string id="BAaS5Dkc" text="Apply" />
@@ -374,13 +385,16 @@
     <string id="bh2v8n4K" text="Garment{@Plural}loads of garment{\@}" />
     <string id="bh9U2fsZ" text="Son-in-law" />
     <string id="BhGlPxqx" text="You can only disband mobile parties" />
+    <string id="BhiOmgst" text="Under Siege" />
     <string id="bIiBytSB" text="Archers" />
     <string id="BixmxJPX" text="Your vassals will be more inclined to take offensive actions against this enemy such as raids and sieges." />
     <string id="bj0Ko5uX" text="The Calradian Empire is in decline. Even before the murder of the Emperor Arenicos, the once united realm was torn by political rivalries. Today, those factions are in open war. Yet Calradians endure. They are technologically more advanced than their neighbors and their mastery of engineering is not just evident in their aqueducts, beautiful architecture and massive city walls. It also makes them experts in siege warfare." />
     <string id="bJ5SzaXp" text="Wounded" />
     <string id="bjxBjKH2" text="my lady" />
     <string id="BkB9aOhw" text="Can't access banner window right now!" />
+    <string id="BKFcRo7f" text="Grandson" />
     <string id="bkysJj7F" text="Siege Weapon" />
+    <string id="Bl7UdJup" text="Nephew" />
     <string id="BlidMNGT" text="Relation" />
     <string id="bLWyjOdS" text="Body Armor: " />
     <string id="Bm4yZBWb" text="You are in prison at {SETTLEMENT_NAME}." />
@@ -404,7 +418,7 @@
     <string id="Btglp7Ij" text="You cannot expel your own clan." />
     <string id="btil6Rdb" text="What have we here? Looks like the mountain spirits have answered our prayers, and granted us success in the hunt." />
     <string id="BtnJh0j4" text="At War" />
-    <string id="buQvCDbP" text="Travelling to {SETTLEMENT_NAME} to defend" />
+    <string id="buQvCDbP" text="Travelling to {SETTLEMENT_NAME} to defend." />
     <string id="BVaXBAr9" text="Roll Dice" />
     <string id="bw9HPIwa" text="New reinforcements have arrived for enemy side!" />
     <string id="bWcpv1ou" text="No Settlement Selected" />
@@ -422,7 +436,6 @@
     <string id="c1g7MC9D" text="Clan Tier Bonus" />
     <string id="c2pdihCB" text="Caravans" />
     <string id="c3cdHImi" text="Capture your opponent's pawns by surrounding them on both sides. If a pawn moves in between two opposing pawns, it does not get captured.{newline}In the first two images, white pawns get captured by the black pawns. In the last two, there are no captures." />
-    <string id="C3VxZFSy" text="Tier III" />
     <string id="C4n1rgBC" text="Seega" />
     <string id="C4qjBqLO" text="Sturgians" />
     <string id="c6Ei8Fqh" text="Vassal of {FACTION}" />
@@ -430,6 +443,7 @@
     <string id="c7bVbjD7" text="As you wish. From now on, we fight for you." />
     <string id="C9EDof32" text="No Army Selected" />
     <string id="caadBNhn" text="Siege Tower (Level 3)" />
+    <string id="caaxvMcY" text="Relative" />
     <string id="caFEBWSY" text="Your opponent has bested you. You've lost." />
     <string id="cAgI2lPn" text="Governor of {SETTLEMENT_NAME}" />
     <string id="caPP57v9" text="Move to Reserve" />
@@ -452,6 +466,7 @@
     <string id="CODsu5Ok" text="New Campaign" />
     <string id="COhJ2HsU" text="It will be automatically resolved in {HOUR} hours." />
     <string id="CoHPb7DL" text="Our plan is to crush them with our cavalry and sweep the rest with a follow up attack." />
+    <string id="CoXEjcu9" text="Can Couchable" />
     <string id="cpaUPZ4c" text="There's a toll for passin' through this land, payable to us, so if you don't mind we'll just be collectin' our due from your purse..." />
     <string id="cqI6P8fr" text="Shoot from castle walls" />
     <string id="cQWCp9F1" text="Daily Party Wage" />
@@ -485,10 +500,12 @@
     <string id="depxBZNO" text="Leadership Skill Level Bonus" />
     <string id="dgaf7Jpb" text="Setup" />
     <string id="di4MlBRx" text="{NUMBER_OF} {ITEM}" />
+    <string id="dIOOcbqU" text="Press {CONSOLE_ACTION_KEY} while the cursor is on the talk button to start conversation." />
     <string id="DItheHi7" text="Stay behind in reserve" />
     <string id="DIuI1moW" text="Gang Leader" />
+    <string id="Dj64aJKQ" text="Billhook" />
     <string id="dJbaRaAD" text="Days until no food" />
-    <string id="DJgeYv9X" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} moving in reserve." />
+    <string id="DJgeYv9X" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are moving in reserve." />
     <string id="DjoYTx2w" text="Mercenaries cannot gather armies" />
     <string id="DkaNhxpg" text="Are you sure you want to abdicate leadership?{?WILL_DESTROY}{newline}There are no other clans to take leadership. Your kingdom will be destroyed.{?}{\?}" />
     <string id="dKcvwi6V" text="Well well, look at this! You'd best start coughing up some silver, friend, or me and my boys'll have to break you." />
@@ -500,7 +517,6 @@
     <string id="dMKyWmJ6" text="You are trapped by enemies." />
     <string id="dO5tqXT8" text="Ex-Spouse" />
     <string id="DOKG38dF" text="Tutorials Enabled" />
-    <string id="dpylFaD1" text="Units" />
     <string id="DqJG7bvh" text="Capacity Exceeded" />
     <string id="dQRdP9eQ" text="Encounter" />
     <string id="DRaJ7hoz" text="The Winner is" />
@@ -518,7 +534,7 @@
     <string id="dxtuFW8b" text="You put up quite a good fight there. Some very good moves. A few errors, sure, but you definitely show promise. And you earned a prize of {PRIZE}{GOLD_ICON} for knocking down {OPPONENT_COUNT} opponents." />
     <string id="DyarV8i7" text="There is already a proposed decision for this policy." />
     <string id="dyLYsWPf" text="Assuring Presence Perk Bonus" />
-    <string id="dyY3hkH1" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} charging at {?IS_PLURAL}different enemy formations{?}an enemy formation{\?}." />
+    <string id="dyY3hkH1" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are charging at {?IS_PLURAL}different enemy formations{?}an enemy formation{\?}." />
     <string id="Dzntsudy" text="You have inflicted {AMOUNT} {DAMAGE_TYPE} damage to {VICTIM_NAME} ({LOST_HP_PERCENTAGE}% HP)." />
     <string id="E05lmb5n" text="Your relation with {HERO_NAME} will &lt;a style=&quot;DecreaseStyle&quot; &gt;&lt;b&gt;decrease&lt;/b&gt;&lt;/a&gt;" />
     <string id="E1OwmQFb" text="Back" />
@@ -541,6 +557,7 @@
     <string id="eIws123Z" text="Leg Armor" />
     <string id="ejhFyhyx" text="&lt;b&gt;Siege Tower&lt;/b&gt;&lt;br&gt;{NEWLINE}Brings the attackers to the same height as the wall and evens the odds against defenders." />
     <string id="eKwhGmbI" text="After this troop gains {XP_AMOUNT} xp, one more troop will be available for upgrade" />
+    <string id="EL7lZLXN" text="Can Knockdown" />
     <string id="elhSbQfW" text="my kinsman {REFERING_HERO.LINK}" />
     <string id="ELsDFwAD" text="Wine{@Plural}amphorae of wine{\@}" />
     <string id="EMCISbYJ" text="Battle Outfit" />
@@ -564,7 +581,7 @@
     <string id="eufhFrnC" text="Villagers of {VILLAGE_NAME}" />
     <string id="EuGCNdHG" text="Leave Kingdom" />
     <string id="EUmwEtap" text="That was fine fighting, {PLAYER.LINK}. You took down {OPPONENT_COUNT} opponents. Of course you deserve a prize with that performance: {PRIZE}{GOLD_ICON}. Nice, eh?" />
-    <string id="eURzhtb0" text="Gathering around {PARTY_NAME}" />
+    <string id="eURzhtb0" text="Gathering around {PARTY_NAME}." />
     <string id="EUzxzL9s" text="Head Armor: " />
     <string id="EV0av1mc" text="Leader Level Bonus" />
     <string id="EvAriC6s" text="Every character in Calradia has two equipment sets. Characters use their military set when they are expecting trouble. You can switch between their sets using the buttons over the character's model. Note that most of the armors and weapons are unusable while in civilian set because the civilian set is used when it is inappropriate or forbidden for your character to be heavily armed." />
@@ -597,10 +614,11 @@
     <string id="F8g1TzoX" text="You are outside {SETTLEMENT_NAME}. You see the banner of {LORD.LINK} flying over the castle gate." />
     <string id="Fa16r8MN" text="Execute Prisoner" />
     <string id="Fa2nKXxI" text="Governor" />
-    <string id="faYiCHXK" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} moving into missile range." />
+    <string id="fAEvWw8z" text="The defenders have pulled back and are mounting a last stand inside the keep." />
+    <string id="faYiCHXK" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are moving into missile range." />
     <string id="FbcC2loc" text="You have been knocked unconscious and your opponent is granted victory!" />
     <string id="fd35ahzV" text="&lt;b&gt;Fire Ballista&lt;/b&gt;{NEWLINE}Shoots bolts with tips dipped in tar.{NEWLINE}They will deal fire damage to enemy siege engines and wooden structures as well as being deadly against soldiers." />
-    <string id="FD9abtTo" text="If you wager 100&lt;img src=&quot;Icons\Coin@2x&quot;&gt; and win, you will get {NORMALIZED_EXPECTED_GOLD}&lt;img src=&quot;Icons\Coin@2x&quot;&gt;" />
+    <string id="FD9abtTo" text="If you wager 100&lt;img src=&quot;General\Icons\Coin@2x&quot;&gt; and win, you will get {NORMALIZED_EXPECTED_GOLD}&lt;img src=&quot;General\Icons\Coin@2x&quot;&gt;" />
     <string id="FdTd3yIx" text="Changes you made cannot be applied. Do you want to reset and change the screen?" />
     <string id="fEJQcb4U" text="Loyalty Drift" />
     <string id="fEqd7jXj" text="{EFFECT_NAME}: +{NUM}" />
@@ -619,6 +637,7 @@
     <string id="fpdXZ0fl" text="Recruitment" />
     <string id="FpI5JMZq" text="Transactions have been reset" />
     <string id="fpP2s7hX" text="+{BONUS_AMOUNT} increase to village growth." />
+    <string id="fQ2MAgD4" text="Some of your soldiers now have enough experience for an upgrade.{newline}{newline}This will be indicated by a small indicator over the party screen button.{newline}{newline}To review and upgrade your troops press {CONSOLE_ACTION_KEY} while the cursor is on this button." />
     <string id="fQ2RLaOa" text="Clan Does Not Own Any Fiefs" />
     <string id="fQAGU9GW" text="Generosity:" />
     <string id="FqwHAxuM" text="Two Handed Polearm" />
@@ -628,7 +647,8 @@
     <string id="fRu5Y4OT" text="I was wounded and left for dead" />
     <string id="FRuzuVyO" text="No Clan Selected" />
     <string id="FRZfpryn" text="Bring forward the proposal to give this settlement to someone else" />
-    <string id="FS78CuPs" text="The skills that are bound to {ATTRIBUTE_NAME} attribute are:" />
+    <string id="FS78CuPs" text="The skills that are bound to ({ATTRIBUTE_NAME}) attribute are:" />
+    <string id="fUNa6FAo" text="During battles, holding down {MISSION_INDICATORS_KEY} shows markers on enemy and allied formations." />
     <string id="FVEvjlis" text="Party Size Limit Exceeded" />
     <string id="FvYhaE3z" text="Banner" />
     <string id="fwbD1Jqo" text="Buy" />
@@ -642,10 +662,11 @@
     <string id="g1KLcfxT" text="The village is prosperous. Brimming sacks of grain, healthy animals and loaded carts testify to the bounty of the fields." />
     <string id="G4XXubLg" text="an emira" />
     <string id="G5yvspkZ" text="Can't retreat, duel is ongoing!" />
+    <string id="g6J4Oe6z" text="Clan name needs to be between {MIN} - {MAX} characters." />
     <string id="g7zo28KR" text="You have encountered {PARTY}. They have no chance against your overwhelming power, and they surrender." />
     <string id="g8nrakuu" text="Melee Weapons I" />
     <string id="G95mB3b3" text="Can't access character window right now!" />
-    <string id="gA5fByM2" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} trying to retake {#IS_LEFT}{#}right wall{#}walls on multiple sides{\#}{?IS_MIDDLE}middle wall{?}{\?}{?IS_RIGHT}left wall{?}{\?}." />
+    <string id="gA5fByM2" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are trying to retake {#IS_LEFT}{#}right wall{#}walls on multiple sides{\#}{?IS_MIDDLE}middle wall{?}{\?}{?IS_RIGHT}left wall{?}{\?}." />
     <string id="gamefinance" text="Finance" />
     <string id="gAX49b7b" text="You've constructed a barrier against your opponent, but you have an equal amount of pawns left. The game is a draw!" />
     <string id="GAzaM1RC" text="Can be slaughtered for meat and hide" />
@@ -655,6 +676,7 @@
     <string id="gdraqMso" text="You are outside of {SETTLEMENT_NAME}. You are not allowed inside." />
     <string id="GDugjWao" text="Here is {MONEY}{GOLD_ICON}. Just take it and let us go." />
     <string id="gflnRhhe" text="({PRIMARY_ROLE}/{SECONDARY_ROLE})" />
+    <string id="GfpRqcWN" text="Choose Archers" />
     <string id="gfQmYDRq" text="As you attempt to force the notables to give you recruits, some of the residents gather to resist you." />
     <string id="gFtu0j4T" text="Arrows" />
     <string id="ggMmjk31" text="Invalid" />
@@ -672,7 +694,6 @@
     <string id="GNkrUdwb" text="Your help was most welcome stranger. My name is {CONVERSATION_CHARACTER.LINK}. Can I learn yours?" />
     <string id="GnWy8WAW" text="Loyalty:" />
     <string id="gNzXoCrq" text="Be on your way, little fly." />
-    <string id="GOfwXbqv" text="#" />
     <string id="GopVkA1q" text="Outlaw" />
     <string id="gOSpzTrt" text="Stop right there. This is a robbery.[if:idle_furious]" />
     <string id="gPAkLi7l" text="({STR})" />
@@ -697,7 +718,7 @@
     <string id="h60wQVVX" text="Pike" />
     <string id="h6AJXR2e" text="Are you sure to retreat your party?" />
     <string id="h8Bcd7NE" text="{FACTION} Ruler Election" />
-    <string id="H9y9dLao" text="You can wager gold to increase the prize you take. Every round, the odds will be different and you can wager {MAX_AMOUNT}&lt;img src=&quot;Icons\Coin@2x&quot;&gt; each time." />
+    <string id="H9y9dLao" text="You can wager gold to increase the prize you take. Every round, the odds will be different and you can wager {MAX_AMOUNT}&lt;img src=&quot;General\Icons\Coin@2x&quot;&gt; each time." />
     <string id="haax8kMa" text="Polearm" />
     <string id="hAgZBZP8" text="Forfeit" />
     <string id="haLX0kbG" text="Click to continue" />
@@ -714,8 +735,10 @@
     <string id="HiSzYWeh" text="Beer{@Plural}casks of beer{\@}" />
     <string id="hJypvWMR" text="Refine" />
     <string id="HkfY3Ds5" text="Body Armor" />
+    <string id="HKrCB1Pa" text="Can Crush Through" />
     <string id="HkZ4E94O" text="The Khuzait confederation of steppe tribes used to live a nomadic life, but have recently settled in the eastern frontier of the Empire and are slowly transitioning into an agrarian society with permanent town centers. Despite this, they still retain many aspects of their nomadic life, including their affinity with horses. They are masters of mounted archery, shooting and then galloping out of reach." />
     <string id="hL3JIQbd" text="Lead this formation to battle." />
+    <string id="Hlusn1gG" text="Clan name has invalid characters." />
     <string id="HmbvM9Na" text="Do you want to skip current match?" />
     <string id="HMgrtLYa" text="Your champion has lost the duel. Your army is disheartened by this defeat. Your party loses morale." />
     <string id="hMIjbLjt" text="madame" />
@@ -729,7 +752,7 @@
     <string id="HPe7HaZx" text="Ransoming Prisoners" />
     <string id="hqIIEur1" text="You have encountered {ARMY}." />
     <string id="hroWCoqV" text="Support for enacting" />
-    <string id="hSsS5xAa" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} waiting for other siege machines to arrive." />
+    <string id="hSsS5xAa" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are waiting for other siege machines to arrive." />
     <string id="HuCClZqT" text="Wage" />
     <string id="husbandbrotherinlaw" text="brother-in-law" />
     <string id="husbandfatherinlaw" text="father-in-law" />
@@ -737,7 +760,7 @@
     <string id="husbandsisterinlaw" text="sister-in-law" />
     <string id="hVmamTJX" text="Gain party morale from food variety (Quartermaster). Improve settlement prosperity and build projects (Governor)." />
     <string id="hVZo7xdk" text="Castles" />
-    <string id="HWSKCne0" text="Boosting a project adds +{BOOST} construction and costs {COST}&lt;img src=&quot;Icons\Coin@2x&quot;&gt; / day." />
+    <string id="HWSKCne0" text="Boosting a project adds +{BOOST} construction and costs {COST}&lt;img src=&quot;General\Icons\Coin@2x&quot;&gt; / day." />
     <string id="Hx47TGrA" text="Hard" />
     <string id="hYgmzZJX" text="Denars" />
     <string id="HYVQKIhh" text="Defender Army" />
@@ -755,10 +778,11 @@
     <string id="IbGNaL0H" text="{HERO.LINK}   Level: {LEVEL}" />
     <string id="IbkODMHV" text="Spot tracks and hideouts. Travel through difficult terrain. (Scout)" />
     <string id="IcgVKFxZ" text="Ruler" />
-    <string id="iCirZbD8" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} shooting from the castle walls." />
+    <string id="iCirZbD8" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are shooting from the castle walls." />
     <string id="icmyseoo" text="My lord" />
     <string id="IcQ2doLo" text="x{QUANTITY}" />
     <string id="id62me1x" text="Press &quot;Besiege&quot;" />
+    <string id="IdYj8OJg" text="Pommel" />
     <string id="If65Vm9h" text="Child Education" />
     <string id="IF7zS5ia" text="You're over your prisoners limit.{newline}You will temporarily keep your prisoners but after some time they will quickly escape your party. You will also slow down.{newline}Are you sure?" />
     <string id="iffbWGBa" text="Aunt" />
@@ -773,7 +797,7 @@
     <string id="iLcfZ71B" text="Persuasion" />
     <string id="iLD5Lkto" text="Fire Onager" />
     <string id="ilE6nmWh" text="Autumn {DAY}, {YEAR}" />
-    <string id="ilhkpKfp" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} skirmishing on mount." />
+    <string id="ilhkpKfp" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are skirmishing on mount." />
     <string id="ImJ4hdke" text="Propose New Policy" />
     <string id="iNDKwJYJ" text="Troop Upgrade XP Cost" />
     <string id="InGwtrWt" text="Quit" />
@@ -806,6 +830,7 @@
     <string id="iyob7aH3" text="Defend your position" />
     <string id="izKWEAbY" text="Clan Does Not Have Any Additional Incomes" />
     <string id="J0hYxaaa" text="Sure, I'll give you a tip. I just bought some {ITEM_NAME} from {SETTLEMENT} at a price of {BUY_COST}{GOLD_ICON} and sold at {DESTINATION} for {SELL_COST}{GOLD_ICON}." />
+    <string id="j2OaZPQz" text="Your troops will gain {XP_AMOUNT} experience for donating weapons and/or armor depending on your perks. They can gain maximum of {XP_DONATION_LIMIT} experience." />
     <string id="J3ACAwbt" text="Your opponent constructed a barrier against you, but you have more pawns left. You win the game!" />
     <string id="J3L0MuEU" text="Battle lost. Press {leave_key} to view results." />
     <string id="j4F7tTzy" text="Clan" />
@@ -815,12 +840,14 @@
     <string id="J7DnK8Kv" text="Today's not your lucky day, friend. How about you hand over your silver? Be a real shame to have to cut anyone's throat." />
     <string id="j9Weia10" text="Easy" />
     <string id="JAFIo7cM" text=":" />
+    <string id="jAISxqxR" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are defending a siege weapon." />
     <string id="JbN0RwM2" text="You lost {INFLUENCE} influence for abandoning a defensive siege of your kingdom." />
     <string id="jbQ3LYBl" text="emperor" />
     <string id="JbTCDDb0" text="Bolt" />
     <string id="jCbYaCcg" text="Well met {PLAYER.LINK}. I am {CONVERSATION_CHARACTER.LINK}. Thanks for your help and I hope we meet again." />
     <string id="Jd0Kq9lD" text="Shield" />
     <string id="jd4ULLGr" text="Active Quests" />
+    <string id="JD7OlpIl" text="You can press {CONSOLE_ACTION_KEY} while the cursor is on the &quot;+&quot; button to add 10 cohesion. Be aware that boosting it costs some influence." />
     <string id="JdNTRtpJ" text=" Maintain high morale in your party. Assemble and lead armies. " />
     <string id="jEaglTuQ" text="You've united the Empire!" />
     <string id="Jelvod71" text="Capturing" />
@@ -832,7 +859,7 @@
     <string id="Jh7sayJB" text="Fail Chance" />
     <string id="JHBEwYGT" text="Bought by townsman" />
     <string id="JHbVw0BJ" text="Guild Master" />
-    <string id="jhosdZaX" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} defending key positions of the castle." />
+    <string id="jhosdZaX" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are defending key positions of the castle." />
     <string id="jIcGy6gI" text="{LEFT} : {RIGHT}" />
     <string id="jiKRLWD4" text="Show in encyclopedia" />
     <string id="JKH59XNp" text="Medicine" />
@@ -860,6 +887,7 @@
     <string id="jZYUdkXF" text="Starving" />
     <string id="K0mlQblA" text="Daily food consumption of army" />
     <string id="K0XVOalL" text="Current Wager" />
+    <string id="k1E9DuKi" text="Select All" />
     <string id="K2G3XJwZ" text="Hotheaded" />
     <string id="k3LajvfJ" text="Banner Editor" />
     <string id="k4TcX1wT" text="{HOUR_PREPARATION_TIME} {?PLURAL_HOURS}hours{?}hour{\?}" />
@@ -872,15 +900,16 @@
     <string id="k8QpbFnj" text="Cape" />
     <string id="k9QvIYaR" text="Focus points are used to increase the learning rate at any skill." />
     <string id="ka7vAxgo" text="Charge at enemy {TARGET_FORMATION}" />
-    <string id="KafFddmO" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} protecting general." />
+    <string id="KafFddmO" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are protecting the general." />
     <string id="KawqKhwh" text="Heavy Armor" />
     <string id="KC5AZohd" text="Greetings, traveler. Welcome to our forest. We're going to have to collect a small toll." />
     <string id="KcQiDE6b" text="Can sell at {SETTLEMENT_NAME} for: {SELL_PRICE}" />
     <string id="kdV0tx9K" text="Hello, traveler. Hope you brought your purse. See, we're what you might call brigands, and I'm afraid we can't let you pass without paying us a bit of coin.[if:convo_delighted]" />
     <string id="kDV7wCtI" text="Complete in: {PREPARATION_TIME}" />
+    <string id="KE9rdUhD" text="- {HERO_NAME}" />
     <string id="KFGfTXqE" text="Sumpter Horse" />
     <string id="kftE5nvv" text="Horse Armor" />
-    <string id="KGH8rjOP" text="Travelling to {SETTLEMENT_NAME} to raid" />
+    <string id="KGH8rjOP" text="Travelling to {SETTLEMENT_NAME} to raid." />
     <string id="KGHlXL8H" text="Very well - we shall cleanse this land with your blood." />
     <string id="KGjFnVsR" text="Concepts" />
     <string id="kgqCVvIb" text="my brother {REFERING_HERO.LINK}" />
@@ -906,12 +935,13 @@
     <string id="ktFeXrXl" text="You cannot make any moves. Skipping turn." />
     <string id="KTGG9EgL" text="Safe journeys! Don't let yourself get robbed by anyone but us!" />
     <string id="Ktk2FaFn" text="Parties ({CURRENT}\{LIMIT})" />
+    <string id="KTUcgvMZ" text="You will be over troop limit. This can negatively affect your party morale." />
     <string id="KUEHAD4U" text="Quests" />
     <string id="kUh3nsAF" text="You've found the third and final banner piece!" />
     <string id="kuKad3dj" text="{MISSION_MODE}" />
     <string id="kuLjsNgz" text="Rural Notable" />
     <string id="kVLfRWjE" text="+{BONUS_AMOUNT}% reduce at garrison wages." />
-    <string id="kvykuTJS" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} attacking siege weapons." />
+    <string id="kvykuTJS" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are attacking siege weapons." />
     <string id="Kw7awUCK" text="Balanced" />
     <string id="kwKT6zKq" text="Your unit is expected to: {BEHAVIOUR_NAME_BEGIN}{?IS_PLURAL} and {?}{\?}{BEHAVIOUR_NAME_END}" />
     <string id="KWXEMsHC" text="{LORD.LINK} is at {SETTLEMENT_NAME}" />
@@ -920,7 +950,9 @@
     <string id="kx8ZfaST" text="All right. So how much do you value your life?[ib:hip][rb:trivial]" />
     <string id="kXno6ZuU" text="Battle finished..." />
     <string id="kyiibFu2" text="You have won the battle!" />
+    <string id="kZ7gLqMz" text="If auto recruitment is enabled, the garrison will recruit troops from notables in the town center and nearby villages. The costs will be paid by the settlement owner." />
     <string id="KZAQHSa2" text="Yet the prosperity is clearly not benefiting everyone equally. People seem angry, complaining endlessly about new rural migrants, rising prices, and those who are profiting more than others." />
+    <string id="L3EE8bmx" text="Nobody in your party has enough {SKILL} skill to complete this order. (Need {AMOUNT} more)" />
     <string id="l4uTnJct" text="You need to select an outcome and how much you want to support that outcome." />
     <string id="l6a3grfK" text="your party" />
     <string id="L7teSXvq" text="You need to be the leader of an army to manage it" />
@@ -937,7 +969,7 @@
     <string id="Lc1vIEnM" text="Wolves and sheep move in the same way by sliding along the lines on the board, one tile per turn." />
     <string id="LEC8NhCV" text="Policies" />
     <string id="lfMgaBiJ" text="Make it worth our while not to kill you." />
-    <string id="Lg3zeoYi" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} protecting {#IS_LEFT}{#}left{#}multiple{\#}{?IS_MIDDLE}middle{?}{\?}{?IS_RIGHT}right{?}{\?} flank{#IS_LEFT}{#}{#}s{\#}." />
+    <string id="Lg3zeoYi" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are protecting {#IS_LEFT}{#}left{#}multiple{\#}{?IS_MIDDLE}middle{?}{\?}{?IS_RIGHT}right{?}{\?} flank{#IS_LEFT}{#}{#}s{\#}." />
     <string id="lh1yhgXw" text="Horse Equipment V" />
     <string id="lihYjOSc" text="pcs." />
     <string id="LJ6Krlbr" text="Scouting" />
@@ -964,13 +996,15 @@
     <string id="LwfILaRH" text="Horse" />
     <string id="lxLTCX5j" text="Occupation:" />
     <string id="LymKjMLk" text="Your men have just join your party" />
+    <string id="LyMuTRMu" text="You have arrived at {SETTLEMENT} to find it is under attack by {PARTY}. Do you want to join the defense?" />
     <string id="lZ1IDnpP" text="Give All" />
     <string id="LZhRP3PM" text="Wait for other siege machines" />
     <string id="Lzmtqif5" text="Army Size" />
     <string id="lznqF0oO" text="Disbanding" />
     <string id="M2b5mtAE" text="Companion of" />
-    <string id="m2YKBbdI" text="Hello there, little lost sheep. We are wolves of the mountains, and we would like a moment of your time..." />
+    <string id="m2YKBbdI" text="Hello there, little lost sheep. We are wolves of the mountains, and we would like a moment of your time...[if:convo_mocking_revenge]" />
     <string id="m6A7RLby" text="Devious" />
+    <string id="M6cWtObI" text="The following heroes can craft this weapon:" />
     <string id="M6tfHhq7" text="You have voted and the ruler has decided on the outcome." />
     <string id="m6uSOtE4" text="You don't have enough money." />
     <string id="M9p0vPad" text="I know your name... {COMMENT_STRING_MAIN}" />
@@ -1005,7 +1039,6 @@
     <string id="MqCH7R4A" text="Security" />
     <string id="MqsWixDp" text="Retreat!" />
     <string id="MRktqZwu" text="Skill Focus" />
-    <string id="MrtzlaYt" text="During battles, holding down the Alt key shows markers on enemy and allied formations." />
     <string id="mSPDO0Fe" text="You are trapped by enemies. You are not in no condition to fight. Your only option is to surrender." />
     <string id="MT4b8H9h" text="Unknown" />
     <string id="mtndRgOg" text="You've started the conspiracy against the Empire!" />
@@ -1027,8 +1060,9 @@
     <string id="N6O2GtTK" text="Refining" />
     <string id="n6Q6vv5t" text="You plundered {GOLD} gold." />
     <string id="N6QTvjMf" text="Prisoners" />
-    <string id="N7w6zi0F" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} pulling back." />
+    <string id="N7w6zi0F" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are pulling back." />
     <string id="N84HlDaV" text="{NUMBER_OF} {ITEM} ({AMOUNT}{GOLD_ICON})" />
+    <string id="N8YVPdBw" text="You gain a level every time your total skill points total reaches a target value. Leveling up grants focus points to spend.{newline}{newline}If you have free focus points you will see it by a small indicator over the character screen button. Press {CONSOLE_ACTION_KEY} while the cursor is on the character button to review different skills and choose one to increase focus." />
     <string id="NaAA5kjG" text="Consider making peace, receiving {TRIBUTE} tribute/day. (Support: {SUPPORT}%)" />
     <string id="nAaT19CC" text="{?RULER.GENDER}Archoness{?}Archon{\?} {RULER.NAME}" />
     <string id="NaorUInI" text="Understrength Parties" />
@@ -1043,7 +1077,7 @@
     <string id="NgHSyQem" text="In Army" />
     <string id="nHGm1wYg" text="Battle finished. Press {leave_key} to view results" />
     <string id="nHkQbLDc" text="Can't be used with Mounts" />
-    <string id="nHSVy0ns" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} flanking from {#IS_LEFT}{#}left{#}multiple sides{\#}{?IS_MIDDLE}middle{?}{\?}{?IS_RIGHT}right{?}{\?}." />
+    <string id="nHSVy0ns" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are flanking from {#IS_LEFT}{#}left{#}multiple sides{\#}{?IS_MIDDLE}middle{?}{\?}{?IS_RIGHT}right{?}{\?}." />
     <string id="NiyNgXMe" text="This party is already disbanding" />
     <string id="njnMk5P1" text="Disavow a Policy" />
     <string id="nk0bADtq" text="You have rejected a challenge to a duel. Your army is disheartened by this display of cowardice. Your party loses morale." />
@@ -1052,9 +1086,10 @@
     <string id="nMcvafHY" text="Active" />
     <string id="nNDdo3I9" text="One Handed Sword" />
     <string id="nnr8sANN" text="{PARTY_LIST_TAG}({COUNT} + {WEAK_COUNT}w)" />
-    <string id="nNRKCYpR" text="Lands around settlement" />
+    <string id="nNRKCYpR" text="Inside production" />
     <string id="NnZ5w9zm" text="{NUM1} ({NUM2})" />
     <string id="nojcK4ia" text="{?RULER.GENDER}Grand Princess{?}Grand Prince{\?} {RULER.NAME}" />
+    <string id="NPJRmNAY" text="Can not be crafted." />
     <string id="NqarFr4P" text="Options" />
     <string id="NQbqtEqP" text="Cost: {COUNT}" />
     <string id="NqSLYe6b" text="Renown:" />
@@ -1062,13 +1097,15 @@
     <string id="NRpwZGxI" text="Soldier" />
     <string id="NSSsxBHV" text="Randomize" />
     <string id="NvJru5Tz" text="Male Only" />
-    <string id="nVKEUvaC" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} using murder holes." />
+    <string id="nVKEUvaC" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are using murder holes." />
     <string id="nvswKHTZ" text="You paid {GOLD_AMOUNT}{GOLD_ICON}." />
     <string id="nxQaab9d" text="{SHOPNAME} ({SHOPTYPE})" />
     <string id="ny32aoLJ" text="Horse Equipment II" />
     <string id="nyGRpJT3" text="Queue" />
     <string id="NYHinaEh" text="Can't access inventory in a battle!" />
     <string id="o0OQ5omY" text="Our plan is to remain on the defensive." />
+    <string id="O10KTShQ" text="Handle" />
+    <string id="o1LEfpWD" text="Niece" />
     <string id="o1MtbgEi" text="Unsolved Issue" />
     <string id="o2ce7bhY" text="That is wise of you." />
     <string id="O3dhjtOS" text="Head Armor" />
@@ -1097,6 +1134,7 @@
     <string id="oiSW6MyB" text="Chest Armor" />
     <string id="OJmC1Ckc" text="Remaining opponent: {REMAINING_OPPONENT_COUNT}" />
     <string id="okH55fbn" text="New reinforcements have arrived for ally side!" />
+    <string id="oKl1p2er" text="You can call other lords to your banner. Press {CONSOLE_ACTION_KEY} while the cursor is on the highlighted army icon on the lower right to do so." />
     <string id="OKUTPdaa" text="Level" />
     <string id="ol0rBSrb" text="{STR1}{newline}{STR2}" />
     <string id="OLKGQGHU" text="I am lord of {TOWNS}." />
@@ -1109,7 +1147,7 @@
     <string id="OqCodBZJ" text="Stop there you dog! Show us what you've got!" />
     <string id="oqEV14Lm" text="You've supported the conspiracy against the enemies of the Empire!" />
     <string id="oRaa1yls" text="Consumable" />
-    <string id="OSZUvWbG" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} ready." />
+    <string id="OSZUvWbG" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are ready." />
     <string id="ot2M62R8" text="+{BONUS_AMOUNT} xp bonus to garrison troops" />
     <string id="oTGDxKW7" text="Declare War Against {FACTION}" />
     <string id="OtP3heba" text="You've beaten your opponent and won the game!" />
@@ -1125,19 +1163,19 @@
     <string id="P2CRzfV7" text="Shops in Settlement" />
     <string id="p2WBSIa7" text="Cohesion:" />
     <string id="P3SJla9F" text="Looted Villages" />
-    <string id="p4PIzGTP" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} holding high ground." />
+    <string id="p4PIzGTP" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are holding high ground." />
     <string id="p5Rad7i2" text="War Party" />
     <string id="p8amfQyz" text="Mercenaries cannot expel clans." />
     <string id="P8BxiiKd" text="Despite the poverty, you hear few words of complaint, as though people are too beaten down to expect any change." />
     <string id="P8Z3zQyy" text="Safe" />
     <string id="pa3E7810" text="Siege Preparations" />
-    <string id="PAa618xe" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} sallying out." />
+    <string id="PAa618xe" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are sallying out." />
     <string id="pB5anEQq" text="Move to the starting position" />
     <string id="pbdrFqb3" text="Force this army to disband" />
     <string id="Pc0zpaGa" text="Aye, what have we here? There's a tax for passage in these parts, traveler, paid either in coin or in blood." />
     <string id="pcy8IXDf" text="{?RULER.GENDER}Queen{?}King{\?} {RULER.NAME}" />
     <string id="PDdh1sBj" text="Name" />
-    <string id="PdXqoa2W" text="Travelling to {SETTLEMENT_NAME}" />
+    <string id="PdXqoa2W" text="Travelling to {SETTLEMENT_NAME}." />
     <string id="PE4nuMc7" text="This page explains the game concepts in Bannerlord" />
     <string id="PEKxMxal" text="You can now escape." />
     <string id="pEm60xEX" text="Your opponent captures a pawn." />
@@ -1145,7 +1183,9 @@
     <string id="pftVKkgq" text="To keep track of a settlement on the campaign map, press the circle next to its name." />
     <string id="pgbC8UkU" text="Rebellion" />
     <string id="pgd7Dp78" text="Dwellings" />
+    <string id="PGl6fYqY" text="Choose Horse Archers" />
     <string id="PGXitpMN" text="{SETTLEMENT_NAME} - ({COMMON_AREA_NAME})" />
+    <string id="PhF8wNaG" text="Can't Use On Horseback" />
     <string id="PHkC8Gia" text="Sell" />
     <string id="PhoKHbhd" text="Battle won. Press {leave_key} to view results" />
     <string id="Pia30xtc" text="{?ASKED_LORD.GENDER}She{?}He{\?} is currently at {TOWN_NAME}." />
@@ -1154,6 +1194,7 @@
     <string id="PJEuE208" text="Militia:" />
     <string id="PJNW1UWK" text="Shop Keeper" />
     <string id="pJR9zz06" text="Troops that are ready to upgrade are marked with a special icon.{newline}{newline}Some troops may have two possible upgrade paths." />
+    <string id="pKtXgb6b" text="You can choose an available perk by pressing {CONSOLE_ACTION_KEY} while the cursor is on its button." />
     <string id="pLZeP6L6" text="Assault walls{?IS_GENERAL_SIDE}{?} from {SIDE_STRING} side{\?}" />
     <string id="pm0yiOmv" text="Earned: {DENAR_AMOUNT}{GOLD_ICON}" />
     <string id="pMb8Pe12" text="Daughter-in-law" />
@@ -1188,12 +1229,12 @@
     <string id="pzfbPbWW" text="Boulder" />
     <string id="Q0qrw7F5" text="Add Focus" />
     <string id="Q2alNolf" text="my kinswoman {REFERING_HERO.LINK}" />
-    <string id="Q2JYjFQl" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} retreating." />
+    <string id="Q2JYjFQl" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are retreating." />
     <string id="q2Y2DHiA" text="Horse Archers" />
     <string id="Q3hlcBa4" text="Part of" />
     <string id="Q3KrMlLd" text="CHARGE!" />
     <string id="q3mOBLFn" text="Choosing Skill Focus" />
-    <string id="Q67Wys0i" text="Patrolling around {SETTLEMENT_NAME}" />
+    <string id="Q67Wys0i" text="Patrolling around {SETTLEMENT_NAME}." />
     <string id="Q7ONA10T" text="&lt;b&gt;Trebuchet&lt;/b&gt;{NEWLINE}Somewhat inaccurate but devastating against walls." />
     <string id="Q8mI3b4K" text="No Policy Selected" />
     <string id="QA8Gm9PY" text="A hot day, is it not? Don't tire yourself fighting. Give us what we want and we'll leave." />
@@ -1204,14 +1245,13 @@
     <string id="QBbBahLv" text="You have our permission to proceed with your journey." />
     <string id="QBPrRdQJ" text="Surgeon" />
     <string id="qC4OsBt1" text="Villages (Under Siege)" />
-    <string id="QdDkviGe" text="Tier V" />
     <string id="qDSda1OI" text="{DAY} {?DAY_IS_PLURAL}days{?}day{\?}" />
     <string id="QE1XRyUP" text="+{BONUS_AMOUNT} bonus to siege engine production speed" />
     <string id="qe686AAn" text="You're the ruler. Your decision will be the final one and will overrule anything." />
     <string id="QeeK2rge" text="you" />
     <string id="qeKskdiY" text="Tablut" />
     <string id="QewGND2m" text="Preparations" />
-    <string id="QFMshJaj" text="Gathering near {SETTLEMENT_NAME}" />
+    <string id="QFMshJaj" text="Gathering near {SETTLEMENT_NAME}." />
     <string id="qfzkMuLj" text="Artisan" />
     <string id="qg0WttZb" text="You need to be a part of a Kingdom" />
     <string id="Qg5suamT" text="You bet {BET_AMOUNT} on {FIGHTER_NAME} but {?FIGHTER_GENDER}she{?}he{\?} has been defeated." />
@@ -1220,7 +1260,9 @@
     <string id="qgL4P2vO" text="The town is prosperous. The people look well-fed and relatively comfortable." />
     <string id="QgUej8DP" text="No Active Quest" />
     <string id="qhhLVJAC" text="&lt;b&gt;Preparations&lt;/b&gt;" />
+    <string id="qHkTYCy0" text="Your troops will get {XP_AMOUNT} experience." />
     <string id="qIvDX0JR" text="Center" />
+    <string id="qjMhakoM" text="Notice how your army cohesion has dropped to a low point, and it is more likely that your army will disperse.{newline}You can press {CONSOLE_ACTION_KEY} while the cursor is on the army management button to boost your cohesion." />
     <string id="qKg44yWp" text="Priority" />
     <string id="QLM6DWHB" text="Active Quest(s)" />
     <string id="qlw2LWgu" text="Move in to range" />
@@ -1242,6 +1284,8 @@
     <string id="QTbZPyha" text="Accompanying" />
     <string id="qtII2HbK" text="Wealth" />
     <string id="qtmj7h2r" text="  0" />
+    <string id="QtXf82OD" text="Weapon should have Thrust Damage" />
+    <string id="quantitysign" text="#" />
     <string id="qUtYks66" text="Army of {ARMY_LEADER.LINK} is gathering near {SETTLEMENT_NAME}." />
     <string id="QVChn4mG" text="Food items are also trade goods. You can find trade goods easily with the &quot;Miscellaneous&quot; filter." />
     <string id="QWqvGa1P" text="Cow{@Plural}head of cattle{\@}" />
@@ -1255,6 +1299,7 @@
     <string id="R9DiQfax" text="Battle" />
     <string id="RaAnj4On" text="Defenders" />
     <string id="rangedtroop" text="Ranged" />
+    <string id="ranksign" text="#" />
     <string id="rBieLPA7" text="You're over your troops limit.{newline}You will temporarily keep your troops but after some time they will quickly abandon your party. You will also slow down.{newline}Are you sure?" />
     <string id="rbz1Bwbv" text="Inventory" />
     <string id="rdbw9TVm" text="Shield II" />
@@ -1280,11 +1325,13 @@
     <string id="rQ5On2GL" text="Additional Party Size for every party in the clan" />
     <string id="RqnEjYVe" text="+{RECRUIT_AMOUNT} Recruit{?ISPLURAL}s{?} {\?}" />
     <string id="rqWJL27J" text="Total Gold" />
+    <string id="RsBO5aOq" text="Weapon should have Swing Damage" />
     <string id="RTmDiT0l" text="Current Party Size Bonus" />
     <string id="rTuptXLg" text="Attacker Banner" />
-    <string id="RU6D7hSR" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} advancing." />
+    <string id="RU6D7hSR" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are advancing." />
     <string id="RUcYGbUH" text="You don't have enough points" />
     <string id="RvDxHQ73" text="Price: " />
+    <string id="RVfkxgMm" text="{?IS_PRISONER_FOLLOWING}Stay{?}Follow{\?}" />
     <string id="RvKwdXWs" text="Commander" />
     <string id="RVPidk5a" text="Influence" />
     <string id="RXhR7nTh" text="Hold [{KEY_NAME}] to do x5" />
@@ -1322,6 +1369,7 @@
     <string id="SNfvAnuV" text="+{BONUS_AMOUNT} bonus to wall repair speed" />
     <string id="snxLc1Wq" text="Two pawns from each player start on the board as shown. Players take turns placing the rest on any available tile, excluding the center tile." />
     <string id="snyxby5L" text="Back To Home" />
+    <string id="So5yubRS" text="Not Usable With One Hand" />
     <string id="SojzHoCa" text="Female Only" />
     <string id="spIe8wd8" text="One Handed Polearm" />
     <string id="SrfYbg3x" text="Leader" />
@@ -1329,6 +1377,7 @@
     <string id="stS5PBIr" text="Preacher" />
     <string id="svArZT0G" text="Details" />
     <string id="Svem1NiV" text="Your opponent has been knocked unconscious and you are the winner!" />
+    <string id="svnxJA0L" text="{HERO} doesn't have enough {SKILL} skill to craft this weapon." />
     <string id="Svtb9MQv" text="Duel" />
     <string id="SyklU5aP" text="Information" />
     <string id="SYm7rgCX" text="{COMPANION.LINK} has left your party." />
@@ -1356,7 +1405,7 @@
     <string id="TgtdcMGS" text="A fly that wiggles and struggles a bit - we can handle that.." />
     <string id="Th42XRQp" text="Has an available issue" />
     <string id="Th8q8wC2" text="Loot" />
-    <string id="thIebQAR" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} riding in vanguard." />
+    <string id="thIebQAR" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are riding in vanguard." />
     <string id="Ti2GeG0U" text="Upon selection, this option will block one random option." />
     <string id="ti5FwD4t" text="Unknown Party" />
     <string id="TlP31w8l" text="Bricole" />
@@ -1368,14 +1417,15 @@
     <string id="tolOqAaP" text="Summer {DAY}, {YEAR}" />
     <string id="toQLHG6x" text="Valor" />
     <string id="tpjGRDHP" text="Duel has ended. Hold {leave_key} to leave." />
-    <string id="Tqa0r78j" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} doing hit and run." />
+    <string id="Tqa0r78j" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are doing hit and run." />
     <string id="tQDbRfMs" text="We were separated in the heat of battle" />
     <string id="tqSODeKW" text="You've killed yourself!" />
     <string id="trRLa9pi" text="You have encountered {PARTY}. Fighting them will cause a war with the {KINGDOM}." />
+    <string id="tSbH6mTJ" text="Can't Use With Shields" />
     <string id="Tsn6bCft" text="Generous" />
     <string id="TSw4tD02" text="Really? I suppose I'll be getting my hands dirty today, then.[ib:aggressive][rb:very_negative]" />
     <string id="TTWL7RLe" text="Crossbow" />
-    <string id="Tu46dFyH" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} using siege weapons." />
+    <string id="Tu46dFyH" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are using siege weapons." />
     <string id="TVcqGJ1r" text="Main hero is imprisoned!" />
     <string id="TvmDFK6o" text="{REWARD}" />
     <string id="TVQXa0y0" text="Battle won!" />
@@ -1384,6 +1434,7 @@
     <string id="TxeKpK3Y" text="Your relation is increased by {MAGNITUDE} to {VALUE} with {HERO.NAME}." />
     <string id="tXl9REtA" text="Militia of {SETTLEMENT_NAME}" />
     <string id="Tyc4aAdz" text="Join the battle without leading any men." />
+    <string id="TZZaO7iI" text="When your skill points reach a required threshold, one or more perks will become available.{newline}{newline}This will be notified by a small indicator over the character screen button.{newline}{newline}Press {CONSOLE_ACTION_KEY} while the cursor is on the character button to view available perk choices." />
     <string id="u3c9M8vx" text="an archoness" />
     <string id="U7er3V9s" text="Items" />
     <string id="U7etPQA2" text="{HERO.FIRSTNAME} the {JOB_NAME}" />
@@ -1393,6 +1444,7 @@
     <string id="ua15BlYh" text="Reset All" />
     <string id="uAL3bCfN" text="Encumbrance{newline}Total equipped armor and weapon weight.{newline}High encumbrance will slow down your on foot movement speed" />
     <string id="UaN2lfwi" text="Weaponsmith" />
+    <string id="UaV0JT87" text="This hero can not craft this item." />
     <string id="Uaw5VF3D" text="Your opponent wants to forfeit. Do you accept your win? If you don't, you will continue playing." />
     <string id="uB245vWg" text="Food:" />
     <string id="UB4sqrWx" text="Mother" />
@@ -1405,6 +1457,7 @@
     <string id="ufnnUxKb" text="Leather{@Plural}crates of leather{\@}" />
     <string id="uFuDwaYp" text="{HOUR} {?PLURAL}hours{?}hour{\?}" />
     <string id="ug4LiPbb" text="Ranged Weapons IV" />
+    <string id="uGahvbVP" text="Defend siege weapons{?IS_GENERAL_SIDE}{?} on {SIDE_STRING} side{\?}" />
     <string id="ugJfuabA" text="Horse Archer" />
     <string id="UgMbCUMO" text="my father {REFERING_HERO.LINK}" />
     <string id="ugX2RRDY" text="I was taken and held for ransom" />
@@ -1413,6 +1466,7 @@
     <string id="UI0q8rWw" text="Livestock" />
     <string id="uinDitbl" text="We must breach the walls." />
     <string id="UIqPXN62" text="Strike enemies with thrown weapons." />
+    <string id="UJ01br0b" text="This hero does not have required {SKILL} skill to complete this order." />
     <string id="UjL7jVYF" text="Morale" />
     <string id="um1Z5swc" text="the lady {REFERING_HERO.LINK}" />
     <string id="Umb8XsZH" text="Pierce" />
@@ -1438,6 +1492,7 @@
     <string id="UxD6lPXa" text="You have gained {INFLUENCE} influence. New influence is {NEW_INFLUENCE}." />
     <string id="UxyIkWah" text="Mercenaries cannot annex settlements." />
     <string id="uYFd4meY" text="Quest Given By" />
+    <string id="Uzsnek6O" text="Auto Recruitment" />
     <string id="V03gbccF" text="You hit a friendly troop!" />
     <string id="V0Kw3O7c" text="Tutorial" />
     <string id="V0OMMQ1F" text="A magisterial performance, {PLAYER.LINK}. Whack! Crack! You took down {OPPONENT_COUNT} of them. The crowd loved it. And you earned a prize of {PRIZE}{GOLD_ICON}." />
@@ -1475,7 +1530,7 @@
     <string id="VOYhAyJh" text="Press '{MODIFIER_KEY}' + '{CLICK_KEY}' to follow." />
     <string id="VoZBLWay" text="{RULER.NAME} {?RULER.GENDER}Khatun{?}Khan{\?}" />
     <string id="VpCa9ATa" text="Right. You're dead.[if:idle_furious][ib:aggressive][rb:very_negative]" />
-    <string id="VpKIzJxz" text="Well there, traveller. We've just made landfall in these lands, hoping for a bit of luck with the raiding and pillaging, and aren't you a sight for sore eyes?" />
+    <string id="VpKIzJxz" text="Well there, traveller. We've just made landfall in these lands, hoping for a bit of luck with the raiding and pillaging, and aren't you a sight for sore eyes?[if:convo_mocking_revenge]" />
     <string id="vpx7Pa7v" text="Offer" />
     <string id="VPYazFVH" text="Thrust Speed: " />
     <string id="vqHDX6hf" text="+{BONUS_AMOUNT} increase to settlement loyalty" />
@@ -1518,7 +1573,7 @@
     <string id="WiNRdfsm" text="Done" />
     <string id="wjb4tZDX" text="Level: {LEVEL}" />
     <string id="wjuieMsE" text="Your opponent gained 1 point for the hit!" />
-    <string id="wKbafI9r" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} shooting from the siege tower." />
+    <string id="wKbafI9r" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are shooting from the siege tower." />
     <string id="wKgpciSx" text="{AMOUNT}{INFLUENCE_ICON}" />
     <string id="wNjhpOOM" text="Apply Exchange" />
     <string id="wrbea2oa" text="Bolts" />
@@ -1550,7 +1605,6 @@
     <string id="XbdX2AHF" text="soldier" />
     <string id="xbh6Bmhf" text="Current support in kingdom" />
     <string id="XBIPqxA2" text="Empty" />
-    <string id="xCaFvB69" text="Tier II" />
     <string id="XCz81XYm" text="Inputs" />
     <string id="xD9xlbXt" text="prince" />
     <string id="xEWwbGVK" text="Accuracy: " />
@@ -1566,6 +1620,7 @@
     <string id="xORASoex" text="You can click on &quot;+&quot; button to add 10 cohesion. Be aware that boosting it costs some influence." />
     <string id="xq62HAIO" text="Protect{?IS_GENERAL_SIDE}{?} {SIDE_STRING}{\?} flank of ally {TARGET_FORMATION}" />
     <string id="xqN16a4k" text="Board Game" />
+    <string id="xqOqriWF" text="Granddaughter" />
     <string id="XqV3x4i3" text="Upon selection, this option will progress the persuasion attempt to the next stage." />
     <string id="XseYJYka" text="Manage" />
     <string id="xsIU28Za" text="Nice! No more sleeping on hard cold rock and dining on stringy squirrel." />
@@ -1583,9 +1638,9 @@
     <string id="XzggyCPW" text="This hero is busy." />
     <string id="xZxbFuDI" text="The jackals will feed well tonight, then." />
     <string id="Y0GDVFiN" text="Raided villages" />
-    <string id="y0MmmV8C" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} forming a defensive ring around missile troops." />
+    <string id="y0MmmV8C" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are forming a defensive ring around ranged troops." />
     <string id="y1uH6Og1" text="Horse Equipment IV" />
-    <string id="y3OKIfj0" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} shooting from infantry cover." />
+    <string id="y3OKIfj0" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are shooting from infantry cover." />
     <string id="Y3Ylqjr2" text="Minor Faction Character" />
     <string id="Y4fht2kI" text="Notable Characters" />
     <string id="y4MiEr0H" text="Troop Types" />
@@ -1606,7 +1661,7 @@
     <string id="Yf6bHCeW" text="{SETTLEMENT_NAME} (tariff)" />
     <string id="yfa7tpbK" text="All" />
     <string id="yFl9N7wz" text="Take" />
-    <string id="yfNAkFgF" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} forming a skirmish line." />
+    <string id="yfNAkFgF" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are forming a skirmish line." />
     <string id="yG3YUySN" text="Western Empire" />
     <string id="ygY1oKQD" text="We are at your service, {?PLAYER.GENDER}madam{?}sir{\?}. Point us in the direction of those who need hurting, and we'll do the rest.[rb:very_positive]" />
     <string id="YhLweMrP" text="Armors" />
@@ -1619,6 +1674,7 @@
     <string id="ykZLXKH3" text="Renown: {RENOWN}" />
     <string id="ylQJwqKH" text="You're leaving hard earned, free loot behind! Are you sure?" />
     <string id="ymBKDAuj" text="Show recent events in this war" />
+    <string id="YNND0kc9" text="Hooked Guarded Spears" />
     <string id="YNPYmO4g" text="{DAY_PREPARATION_TIME} {?PLURAL_DAYS}days{?}day{\?} {HOUR_PREPARATION_TIME} {?PLURAL_HOURS}hours{?}hour{\?}" />
     <string id="YO0x7ZAo" text="Loyalty" />
     <string id="yOJAiSf4" text="No formation" />
@@ -1627,7 +1683,6 @@
     <string id="yQTBY9ie" text="Jewelry{@Plural}items of jewelry{\@}" />
     <string id="yrlPHYpa" text="Choosing Perk Upgrades" />
     <string id="yRTV90eN" text="You need to select an outcome." />
-    <string id="yrUo2ZRD" text="No room for another troop in party" />
     <string id="yrvH6Oa1" text="Wait in the starting position!" />
     <string id="ySlVPZyF" text="As you attempt to force the notables to give you recruits, some of the residents gather to resist you. Fighting them will cause a war with the {KINGDOM}." />
     <string id="YSM0lxns" text="Cost" />
@@ -1644,14 +1699,14 @@
     <string id="yZzlItBW" text="this party" />
     <string id="z0c2pDhZ" text="At Peace" />
     <string id="z3AvJZMt" text="Can buy at {SETTLEMENT_NAME} for: {BUY_PRICE}" />
-    <string id="Z3yCe1HS" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} regrouping." />
+    <string id="Z3yCe1HS" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are regrouping." />
     <string id="Z5kGFH7k" text="pc." />
     <string id="Z5RlxyPJ" text="You've been held prisoner for {NUMBER_OF_DAYS} {?PLURAL}days{?}day{\?} by {PARTY_NAME}." />
     <string id="Z6sDPstD" text="Village farms" />
     <string id="z716wRaB" text="You cannot disband a milita party" />
     <string id="z7vSaa7L" text="Production in Village" />
     <string id="Z7zWkAV8" text="You can ransom your prisoners off to the ransom broker.{newline}{newline}You can find him in the tavern area." />
-    <string id="Z8LeI4ho" text="Bodyguard" />
+    <string id="Z8LeI4ho" text="Bodyguards" />
     <string id="ZaoZKcx9" text="Townsfolk" />
     <string id="ZaseErqk" text="Can't retreat, there are enemies nearby!" />
     <string id="zb9fiIP6" text="You can choose to build siege machines by using the squares for ranged engines and the circles for rams and siege towers." />
@@ -1666,6 +1721,7 @@
     <string id="zeGAw2IE" text="Killed by" />
     <string id="ZEzxHLaH" text="Cannot recruit prisoner heroes" />
     <string id="zfCoeglY" text="Musician" />
+    <string id="zfrNMPUf" text="Donation xp" />
     <string id="zg0q1aqD" text="You cannot disband a garrison party" />
     <string id="Zg5Zmgui" text="We are returning from the market at {TOWN} back to our village." />
     <string id="ZhiB1EOM" text="Prisoner at {SETTLEMENT_NAME}" />
@@ -1685,6 +1741,7 @@
     <string id="ZqWOb1jM" text="You are outside the town of {SETTLEMENT_NAME}. You cannot enter because you are wanted by the {FACTION_TERM}." />
     <string id="ZR2bAa1p" text="Light Cavalry" />
     <string id="zruLFJDG" text="Defending settlements has a higher weight in decisions. The party will also pursue enemies for a shorter distance." />
+    <string id="ztP8UKb8" text="Choose Infantry" />
     <string id="ZuLa12aT" text="That's the spirit... We're a band of bastards that you really don't want to mess with." />
     <string id="Zuq5mO5e" text="Talk to Party Leader" />
     <string id="ZuRzP6kF" text="You cannot gather an army while in battle" />

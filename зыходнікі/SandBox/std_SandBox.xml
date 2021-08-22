@@ -36,6 +36,7 @@
     <string id="1Resf6O4" text="I am {CONVERSATION_HERO.FIRSTNAME}, a merchant. I trade out of {SETTLEMENT_STRING}. {BUSINESS_STRING}" />
     <string id="1s3bHupn" text="You're not getting along with the rest of the company. It's better you go." />
     <string id="1xyj3HW0" text="I just have a minute here, {?PLAYER.GENDER}madame{?}sir{\?}. I need to get back to the loom. How can I help you?" />
+    <string id="1yEyUHJe" text="I really hope your men can get my deed back. On my father's name, I will never gamble again." />
     <string id="1YGgXOB7" text="Meh... Do you think ruling the streets of a city is easy? You underestimate us. Now about the money." />
     <string id="201kVrNa" text="{SALUTATION_BY_PLAYER}, I wish to be released from my oath to you." />
     <string id="231s4Fqi" text="Release from homage? Hmm, perhaps it would be for the best... However, {PLAYER.NAME}, you must be sure that release is what you desire. This is not a thing done lightly." />
@@ -95,7 +96,7 @@
     <string id="4mhOs9Fb" text="Is there a way to form a caravan includes better troops?" />
     <string id="4mwSvCgG" text="Yes I will. Come now, I will take you with me to {TARGET_NOTABLE.NAME} to resolve this issue peacefully." />
     <string id="4P4HQqCf" text="I am glad that I have found you. Join my party." />
-    <string id="4pkfkSbe" text="Sorry about the smell in here, {?PLAYER.GENDER}madame{?}sir{\?}. Tanning's like that, sorry to say. How can I help you?" />
+    <string id="4pkfkSbe" text="Sorry about the smell around here, {?PLAYER.GENDER}madame{?}sir{\?}. Tanning's like that, sorry to say. How can I help you?" />
     <string id="4ry48jbg" text="I have a mission for you..." />
     <string id="4Slck7UB" text="So, I heard from my {RANDOM_RELATIVE} that he took some {._}{PLURAL(ITEM_NAME)} over to {TOWN_NAME}, and made a profit of {PRICE_DIFF}{GOLD_ICON}." />
     <string id="4vAbAIqi" text="Okay. I think I get it." />
@@ -104,7 +105,7 @@
     <string id="4zf1lg6L" text="I can send one of my companions instead." />
     <string id="54PbMkNw" text="Good. Then repeat the words of the oath with me: {OATH_LINE_1}" />
     <string id="56ynu2bW" text="Yes, {?PLAYER.GENDER}milady{?}sir{\?}." />
-    <string id="5a6KlSXt" text="I have a problem. {PRODIGAL_SON.LINK}, one of the youngsters of my clan has gone to the town to have fun, drinking, wenching and occasional gambling. Like we all did in our younger days but it seems, he is gone out of line. Now he sends news that he owes a large sum of money to {TARGET_HERO.LINK}, one of the local crime bosses in the city of {SETTLEMENT}. The criminal scum holds him as a “guest” in his house until someone pays his debt." />
+    <string id="5a6KlSXt" text="I have a problem. My young kinsman {PRODIGAL_SON.LINK} has gone to town to have fun, drinking, wenching and gambling. Many young men do that, but it seems he was a bit reckless. Now he sends news that he owes a large sum of money to {TARGET_HERO.LINK}, one of the local gang bosses in the city of {SETTLEMENT}. These ruffians are holding him as a “guest” in their house until someone pays his debt." />
     <string id="5aDlmdmb" text="No... No. It does not make sense." />
     <string id="5ajobQiL" text="What role do you have in your mind?[ib:normal][rb:unsure]" />
     <string id="5akTbqNs" text="I'll meet you outside then, captain." />
@@ -148,6 +149,7 @@
     <string id="73MYdXby" text="I want to claim {SETTLEMENT}." />
     <string id="79yyTwvu" text="I'm not interested, thank you." />
     <string id="7a3cGmFg" text="I will endeavor to treat you as well as I can." />
+    <string id="7AFlpaem" text="{STR1} {STR2}" />
     <string id="7AiP4BwY" text="What there is to talk about? This bastard murdered one of my kinsman, and it is our right to take vengeance on him!" />
     <string id="7b6yzkig" text="Always a please, m'lady. Keep safe." />
     <string id="7B7BhVhV" text="Let's see what you will come up with..." />
@@ -197,7 +199,7 @@
     <string id="99OsuHGa" text="I will find the one you are looking for." />
     <string id="9ACJsI6S" text="Blocked" />
     <string id="9b2BETct" text="I have already decided. Don't expect me to change my mind." />
-    <string id="9Box0Yj7" text="The {?NOTABLE.GENDER}lady{?}lord{\?} {NOTABLE.LINK}... We're blessed. " />
+    <string id="9Box0Yj7" text="The {?NOTABLE.GENDER}lady{?}lord{\?} {NOTABLE.LINK}... We're blessed." />
     <string id="9d3tffnL" text="We do not need hired swords to win this war. You should seek your fortune elsewhere." />
     <string id="9DDWjL9Y" text="Hmm... Maybe, but I can't remember who. I didn't think it suspicious." />
     <string id="9eLyeU7M" text="Sure boss, it will cost us {COST}{GOLD_ICON}, wanna go ahead?" />
@@ -210,6 +212,7 @@
     <string id="9PBA2OJz" text="Here {?HERO.GENDER}she{?}he{\?} is.[rb:trivial]" />
     <string id="9pg3qc6N" text="Practice fight" />
     <string id="9pgOGq7X" text="Log" />
+    <string id="9pTkQ5o2" text="It would be in your interest to let this young nobleman go..." />
     <string id="9PUvbZzD" text="{GAME_NAME} is a traditional game within the {CULTURE_NAME}. It is a game of calm strategy. You start by placing your pieces on the board, crafting a trap for your enemy to fall into. Then you battle across the board, capturing and eliminating your oponent." />
     <string id="9QulsaxG" text="Do you have any general thoughts on politics?" />
     <string id="9VR0VeNT" text="Yes, how easy should I make things for you?" />
@@ -253,11 +256,11 @@
     <string id="ak2ZPOce" text="What would it take for you to let me go my way?" />
     <string id="AK7jsatk" text="Now, I suggest you prepare for a serious campaign. Train and equip your soldiers as best you can in the meantime, and respond quickly when you are summoned for duty." />
     <string id="aka03VdU" text="Meet {?QUEST_GIVER.GENDER}her{?}him{\?} now" />
-    <string id="aKbyJsho" text="On second thought, I will deal with these scum personally." />
+    <string id="aKbyJsho" text="On second thought, I will deal with this gang personally." />
     <string id="akpaap9e" text="As you wish.[ib:normal][rb:positive]" />
     <string id="akqJbZpH" text="Marvellous! You cut a splendid appearance, {?PLAYER.GENDER}my lady{?}my lord{\?}, if you don't mind my saying. Most splendid." />
     <string id="aLAyJPrI" text="Garios Garios brave and strong... Always right and never wrong...{newline}The men all trust him with their lives.. But not their daughters or their wives." />
-    <string id="alruamIW" text="Hmm... You may be right. Its not worth it. I'll release the boy immediately." />
+    <string id="alruamIW" text="Hmm... You may be right. It's not worth it. I'll release the boy immediately." />
     <string id="AM1ROQcT" text="your lordship" />
     <string id="amdgO9Hr" text="I am {CONVERSATION_HERO.FIRSTNAME}. I am a humble follower of the fellowship known as the {FACTION_NAME}, whom the {DIVINITY} have chosen to bear their message in this present Age.[rb:trivial]" />
     <string id="AMlaYbJv" text="You don't have 1000 denars." />
@@ -327,7 +330,7 @@
     <string id="bHRZhYzd" text="No! I won't go anywhere near them! They'll kill me![ib:closed]" />
     <string id="bi7ZhwNO" text="No, we are doing fine." />
     <string id="BixmcFY3" text="Yes, we're hiring mercenaries. We pay you to fight, though, not just ride around the countryside. You'll get {MERCENARY_AWARD}{GOLD_ICON} whenever you take down an enemy party, or do a similar service." />
-    <string id="bl2aRW8f" text="({KEY}) Sit" />
+    <string id="bl2aRW8f" text="{KEY} Sit" />
     <string id="blqTMwQT" text="Follow me." />
     <string id="bnkUL8Dh" text="{REBEL_INTRODUCTION_STRING}[rb:trivial]" />
     <string id="BnoSOi3r" text="Actually..." />
@@ -335,7 +338,7 @@
     <string id="boXF9dvD" text="{ALLEY_GREETING}" />
     <string id="bQ8CxZIy" text="Well, it will cost you {COST}{GOLD_ICON} to buy it out. Are you going to buy it?" />
     <string id="BQjAAo9f" text="Right now I'm looking for work, if you have anything to offer." />
-    <string id="bQnVtegC" text="Good, even better. You can find the house easily when you go to the {SETTLEMENT} and walk around the town square. Or you could just speak to this scum gang leader {TARGET_HERO.LINK} and make {?TARGET_HERO.GENDER}her{?}him{\?} understand and get my boy released. Good luck. I await good news." />
+    <string id="bQnVtegC" text="Good, even better. You can find the house easily when you go to the {SETTLEMENT} and walk around the town square. Or you could just speak to this gang leader {TARGET_HERO.LINK} and talk some sense into {?TARGET_HERO.GENDER}her{?}him{\?}. Good luck. I await good news." />
     <string id="bRMLn0jj" text="Well, if he wanders off to another town, or gets his throat slit, or loses the deed, that would be the wrong moment, now wouldn't it?" />
     <string id="BSeplVwe" text="That's too much. I will be back later." />
     <string id="bSo9hKwr" text="{PERSUASION_OPTION_LINE} {SUCCESS_CHANCE}" />
@@ -386,7 +389,7 @@
     <string id="CWbAoGRu" text="Yes, I don't care how you solve it. Just solve it any way you like. I could send some {NEEDED_MEN_COUNT} men on a mission of {ALTERNATIVE_SOLUTION_DURATION} days with a companion who knows how to handle the thugs, but I would rather not. It would be inappropriate marching in with our clan colors waving around and trashing criminals in another lord's territory." />
     <string id="CX6JHwbB" text="Aye? What is it?[rb:positive]" />
     <string id="CxavIji0" text="many more" />
-    <string id="CXw9a1i5" text="{QUEST_GIVER.LINK} a {?QUEST_GIVER.GENDER}lady{?}lord{\?} from {QUEST_GIVER_CLAN} clan asked you to go to {SETTLEMENT} to free {?QUEST_GIVER.GENDER}her{?}his{\?} relative. The young man is currently held by {TARGET_HERO.LINK} a local gang leader because of his debts. {?QUEST_GIVER.GENDER}Lady{?}Lord{\?} {QUEST_GIVER.LINK} has suggested to make an example off these criminals so no one would dare to hold a nobleman again. {?QUEST_GIVER.GENDER}She{?}He{\?} said you can find the house that the young nobleman is held easily in the town square." />
+    <string id="CXw9a1i5" text="{QUEST_GIVER.LINK}, a {?QUEST_GIVER.GENDER}lady{?}lord{\?} from the {QUEST_GIVER_CLAN} clan, asked you to go to {SETTLEMENT} to free {?QUEST_GIVER.GENDER}her{?}his{\?} relative. The young man is currently held by {TARGET_HERO.LINK}, a local gang leader, because of his debts. {QUEST_GIVER.LINK} has suggested that you make an example of the gang so no one would dare to hold a nobleman again. {?QUEST_GIVER.GENDER}She{?}He{\?} said you can easily find the house in which the young nobleman is held in the town square." />
     <string id="cZptYTYd" text="Well.. There are many goods around the town that can bring good money if you trade them. A caravan you formed will do this for you. You need to pay at least {AMOUNT}{GOLD_ICON} to hire {NUMBER_OF_MEN} caravan guards to form a caravan and you need one companion to lead the caravan guards." />
     <string id="D0xDRqvm" text="{PERSUASION_REACTION}" />
     <string id="D25oY3j1" text="Thank you {?PLAYER.GENDER}lady{?}sir{\?}. For your kindness and understanding. We won't forget this." />
@@ -417,7 +420,7 @@
     <string id="dNjepcKu" text="Let's finish this!" />
     <string id="DO2RO5Ju" text="I'm {CONVERSATION_HERO.FIRSTNAME}. There's some who know me as {CONVERSATION_HERO.LINK}. That's a term of respect, I'll have you know.{MINOR_FACTION_ADDENDUM}[rb:trivial]" />
     <string id="dOdp1aKA" text="You couldn't find the spy and dueled the wrong warrior. {QUEST_GIVER.LINK} is disappointed." />
-    <string id="DOKcia5B" text="I'm {CONVERSATION_HERO.FIRSTNAME}. There's some who know me as {CONVERSATION_HERO.LINK}. That's a term of respect, by the way.[rb:trivial]" />
+    <string id="DOKcia5B" text="I'm {CONVERSATION_HERO.FIRSTNAME}. There's some who know me as {CONVERSATION_HERO.LINK}. That's a term of respect, by the way.[if:convo_mocking_revenge]" />
     <string id="dpTHWqwv" text="Are you the {?PLAYER.GENDER}woman{?}man{\?} who thinks our blood is cheap, that we will accept silver for the life of one of our own?" />
     <string id="DQBaaC0e" text="Is there anything else?" />
     <string id="DqSSCVNi" text="Great." />
@@ -457,6 +460,7 @@
     <string id="EGI6ztlH" text="I want to speak with a prisoner." />
     <string id="egOR9DAz" text="If a worthy task presents itself, however, I may have a favor to ask of you at a later date." />
     <string id="EiFPu9Np" text="Right... {GOLD_AMOUNT} Here you are." />
+    <string id="EIsQnfLP" text="Tell me how it's in my interest..." />
     <string id="EK3dEjBv" text="I must say, my lady, I am indeed delighted to have met you. I hope to see you again soon.[rb:positive]" />
     <string id="ekFDe1I7" text="Right...Well, I gave you a chance.[if:idle_angry][ib:warrior]" />
     <string id="eKLH9fOb" text="May I be of service, {?PLAYER.GENDER}your ladyship{?}your lordship{\?}?" />
@@ -464,7 +468,7 @@
     <string id="EN3Zqyx5" text="A mouthy one, eh? At him, lads![ib:aggressive][if:idle_angry][rb:trivial]" />
     <string id="EN9s6oZz" text="Very well. As you're paid for each battle, not for a fixed period of time, you can end it whenever you like." />
     <string id="EnOOqaqf" text="I'll be sheep." />
-    <string id="eOle8pYT" text="You won a deed of land from my employer. I'm here to win it back." />
+    <string id="eOle8pYT" text="You won a deed of land from my associate. I'm here to win it back." />
     <string id="eOSJHbBD" text="I'm {CONVERSATION_HERO.FIRSTNAME}. I've lived all my life here, working the land, as do my kin. A lot of the people here in {VILLAGE_NAME}, the common farmers and craftsmen like me, they like me to speak for them.[rb:trivial]" />
     <string id="EPb2BDuo" text="We had a good run boss. Maybe we can work again some time. It will take sometime to pack things up and everything." />
     <string id="EPhBiTxd" text="Barter line - you should not see this." />
@@ -475,7 +479,7 @@
     <string id="ETiAbgHa" text="I will talk with them right away" />
     <string id="EUBxMVXk" text="Do you have any orders for your alley, {?CONVERSATION_NPC.GENDER}madam{?}sir{\?}" />
     <string id="EUQnsZFb" text="I no longer need you as Scout." />
-    <string id="evIohG6b" text="Thank you but no need. Once we are out of here I can manage to return on my own. I appreciate your efforts. I'll tell everyone in my clan of your heroism." />
+    <string id="evIohG6b" text="Thank you, but there's no need. Once we are out of here I can manage to return on my own. I appreciate your efforts. I'll tell everyone in my clan of your heroism." />
     <string id="eWGJmRMR" text="Yeah, sure. Later, then." />
     <string id="ewVEM7Y0" text="I am {CONVERSATION_HERO.FIRSTNAME}, {FACTION_DESCRIPTION}. I have come here because many have gone astray, and listen to false preachers who distort the true meaning of the divine revelations.[rb:trivial]" />
     <string id="exbSCGzi" text="Reward Items" />
@@ -500,7 +504,7 @@
     <string id="fDjQOR5s" text="{HIRING_COST_EXPLANATION}" />
     <string id="FdwZlCCM" text="All of you can stop following me and return to what you were doing." />
     <string id="FEcAwSfk" text="I will assign a companion with {NEEDED_MEN_COUNT} good men for {ALTERNATIVE_SOLUTION_DURATION} days." />
-    <string id="fEQAPJ2e" text="({KEY}) Use" />
+    <string id="fEQAPJ2e" text="{KEY} Use" />
     <string id="ff5XEKPB" text="Afraid I can't recall anyone like that, {?PLAYER.GENDER}madam{?}sir{\?}." />
     <string id="Ffn1dd9D" text="I'm {CONVERSATION_HERO.FIRSTNAME}. I speak for this group of free-spirited lads. We don't care much for landlords and laws, see. We go where we like.{MINOR_FACTION_ADDENDUM}[ib:agressive][rb:trivial]" />
     <string id="fgRq7kF2" text="You have agreed to talk to {CULPRIT.LINK} in {QUEST_GIVER_SETTLEMENT} first and convince him to go to {TARGET_NOTABLE.LINK} with you in {TARGET_SETTLEMENT} and mediate the issue between them peacefully and end unnecessary bloodshed. {QUEST_GIVER.LINK} said {?QUEST_GIVER.GENDER}she{?}he{\?} will pay you {REWARD_GOLD} once the boy is safe again." />
@@ -585,6 +589,7 @@
     <string id="Hhd3KaKu" text="Thank you, my {?PLAYER.GENDER}lady{?}lord{\?}. If your men can find my girl and bring her back to me, I will be so grateful. I will pay you {BASE_REWARD_GOLD}{GOLD_ICON} for your trouble." />
     <string id="HiWlXbgN" text="Sounds good. I wish to enter your service as a mercenary." />
     <string id="hJ1SFkmq" text="You managed to find the spy but lost the duel. {QUEST_GIVER.LINK} is disappointed." />
+    <string id="Hj25CLlZ" text="As you wish. Let me know if you change your mind." />
     <string id="hkNrC5d3" text="That was fun, but I've learned not to inflict too great a humiliation on those who carry a sword. I'll take my winnings and enjoy them now. Good-bye to you!" />
     <string id="hmmoXy0E" text="Whose workshop is this?" />
     <string id="hnSFjIkM" text="As you wish. Your enemies are my enemies." />
@@ -613,6 +618,7 @@
     <string id="IboStvbL" text="Here is the money, now release him!" />
     <string id="IdKG3IaS" text="Good to hear that." />
     <string id="idPV1Csj" text="Yes... Why not? I have nothing too urgent right now." />
+    <string id="IdvcaDMu" text="I'm willing to sell. But it will cost you {COST} {GOLD_ICON}. Are you willing to pay?" />
     <string id="IF6jGovm" text="Stay safe, my dear.[rb:positive]" />
     <string id="IfeN8lYd" text="Coming to fight me, eh? Did {QUEST_GIVER.LINK} put you up to this? Look, there's no need for bloodshed. This town is big enough for all of us. But... if bloodshed is what you want, I will be happy to provide." />
     <string id="ihO79b61" text="{MEETING_SENTENCE}" />
@@ -630,13 +636,13 @@
     <string id="IWKmmImm" text="Never see this" />
     <string id="ixjOzhua" text="ancestors" />
     <string id="IXnvQ8kG" text="{COMPANION.LINK} and the men you sent with {?COMPANION.GENDER}her{?}him{\?} safely returns with the news of success. {QUEST_GIVER.LINK} is happy and sends you {?QUEST_GIVER.GENDER}her{?}his{\?} regards with {REWARD}{GOLD_ICON} the money he promised." />
-    <string id="ixRofhHl" text="Do I know you?" />
     <string id="ixyzGRPw" text="Lead on, then." />
     <string id="IY5b9vZV" text="Everything is wrong. He is from a low family, the kind who is always involved in some land fraud scheme, or seen dealing with known bandits. Every village has a black sheep like that but I never imagined he would get his hooks into my daughter!" />
     <string id="IYRJKtkb" text="I'm afraid my finances will not allow for such a gift." />
     <string id="J1TykdEn" text="I hear there have been secret meetings in the woods. Solemn oaths, signed in blood. A great wind is going to blow soon - you mark my words." />
     <string id="J5cQPqGQ" text="You are right. You are free to deliver justice as you see fit." />
     <string id="J6UU9cfU" text="Very well, my dear. I hope we can soon sort out the terms of our marriage.[rb:positive]" />
+    <string id="j78hz3Qc" text="Hmm. That's possible. Which one?" />
     <string id="j7WWf8aM" text="I am still working on it." />
     <string id="J9fJlz2Y" text="You can start." />
     <string id="j9RrkCvM" text="There's a tournament going on?" />
@@ -680,7 +686,7 @@
     <string id="K1RtrtvH" text="So, uh, there's a young woman around here. I really need to leave her some money before I go anywhere. Let's say {GOLD_AMOUNT}{GOLD_ICON} - can you pay me that?[rb:trivial]" />
     <string id="k27q07EZ" text="Do you indeed, {PLAYER.NAME}? Then go and trip on your sword. Give us all peace." />
     <string id="k3b5KqSc" text="Come on now. I thought you were the boss here." />
-    <string id="K5DgDU2a" text="I am here for the boy, whose name is {PRODIGAL_SON.LINK}" />
+    <string id="K5DgDU2a" text="I am here for the boy. {PRODIGAL_SON.LINK}. You know who I mean." />
     <string id="K5mG9nDv" text="With pleasure." />
     <string id="K6Lhlnbh" text="Can I hold on to any castles I take?" />
     <string id="k7ebznzr" text="Yes?" />
@@ -689,12 +695,13 @@
     <string id="K9Ra9bcb" text="That {AREA_TYPE} belongs to us, not to {NOTABLE.LINK}, and we're not likely to forget it." />
     <string id="kAbebv72" text="I want you to go forage some food." />
     <string id="KAvwytDK" text="You didn't bring {DAUGHTER.LINK} to {QUEST_GIVER.LINK}. {?QUEST_GIVER.GENDER}she{?}he{\?} must be furious." />
+    <string id="kB65SzbF" text="Yes." />
     <string id="kc3tLqGy" text="You command the sons of Asera in war and govern them in peace..." />
     <string id="kc6vCycY" text="What exactly do you want me to do?" />
     <string id="kDItfaaN" text="I'll just have one more to keep me warm on the way home." />
     <string id="ke0IvBXb" text="Anything else I can explain?" />
     <string id="KeIGtpxb" text="Just glad to have full bellies this year in my household. Can't say that for every year." />
-    <string id="keLJvk37" text="I just have a minute, {?PLAYER.GENDER}madame{?}sir{\?}. I need to check on a batch. How can I help you?" />
+    <string id="keLJvk37" text="I just have a minute, {?PLAYER.GENDER}madame{?}sir{\?}. I need to check on a batch that's brewing. How can I help you?" />
     <string id="Kfbqriuh" text="I heard you may need some help with a problem?" />
     <string id="kG92fjCY" text="You fell unconscious while defending {CULPRIT.LINK}. {TARGET_NOTABLE.LINK} has taken revenge. You failed to protect {CULPRIT.LINK} as you promised {QUEST_GIVER.LINK}. {?QUEST_GIVER.GENDER}She{?}He{\?} is furious." />
     <string id="kGg8xv4c" text="I changed my mind. You can go free." />
@@ -714,7 +721,7 @@
     <string id="kqDvS5Vz" text="Now, it grieves us to do this, but we have mouths to feed and we're going to have ask you to pay for passage through our lands. If you refuse, we'll have no choice but to take your money by force." />
     <string id="kqXxvtwQ" text="Don't worry I'll free him." />
     <string id="kr68V5pm" text="{ISSUE_GIVER.NAME} wants {?ISSUE_GIVER.GENDER}her{?}his{\?} daughter found" />
-    <string id="KTgOXBPN" text="Hot in here, eh {?PLAYER.GENDER}madame{?}sir{\?}? So, how can I help you?" />
+    <string id="KTgOXBPN" text="Hot around here, eh {?PLAYER.GENDER}madame{?}sir{\?}? I need to get back to the forges in a minute, but how can I help you?" />
     <string id="Kto7RWKE" text="Help! Help! Prison break!" />
     <string id="KtrZs3yA" text="Certainly! The arena is open to anyone who doesn't mind hard knocks. Looks like a few of our lads are warming up now. You can go and hop in if you want to. Or come back later when there's a tournament.[ib:warrior][rb:very_positive]" />
     <string id="Ku49Ipkf" text="I'll tell anyone who asks: {NOTABLE.LINK} is a righteous {?NOTABLE.GENDER}woman{?}man{\?}, and speaks for the poor folk. The lords of this land must listen to {?NOTABLE.GENDER}her{?}him{\?}, or misfortune will fall upon us." />
@@ -743,6 +750,7 @@
     <string id="lgBaqlVZ" text="Perfect. Of course you shall have to make a formal declaration of allegiance, and give your oath that you and your company will remain in service to {FACTION_NAME} for a period of no less than three months.[rb:positive]" />
     <string id="lgcHkTXT" text="Very well. You have given me your solemn oath, {PLAYER.NAME}. May you uphold it always, with proper courage and devotion." />
     <string id="LGrzKlET" text="Let me know how much of a challenge you can stand and we'll get started. I'm ready to offer you a {DIFFICULTY} challenge and {?IS_BETTING}a bet of {BET_AMOUNT}{GOLD_ICON}.{?}friendly game.{\?}" />
+    <string id="lh0so0uX" text="Do you want to load the saved game with different modules?" />
     <string id="LKdrCaTO" text="{?CONVERSATION_NPC.GENDER}My lady{?}Sir{\?}, may I ask for some time to think about this?" />
     <string id="Lkf3sB9I" text="Maybe..." />
     <string id="LKGivHYp" text="The pittance they call a wage these days... I don't want to leave my kin, but I'm thinking I might have to try my luck in some other town." />
@@ -751,9 +759,10 @@
     <string id="LM1yg5tI" text="They say {NOTABLE.LINK} turned one of {?NOTABLE.GENDER}her{?}his{\?} artisans at the {SHOP_TYPE} out on the street for not showing up to work at first light. Hard times, these." />
     <string id="lM7AscLo" text="I'm getting this together as quickly as I can." />
     <string id="lmVCRD4Q" text="I hope {QUEST_GIVER.LINK} can work out that trouble with {?QUEST_GIVER.GENDER}her{?}his{\?} kinsman." />
-    <string id="ln3bGyIO" text="Yes I'm here to take you back." />
+    <string id="ln3bGyIO" text="Yes, I'm here to take you back." />
     <string id="LnbzQIz6" text="300{GOLD_ICON}." />
     <string id="lnTE6tdn" text="Let us speak again soon, {PLAYER.NAME}.[rb:positive]" />
+    <string id="Lol4clzR" text="Look, it was a good try, but they're not going to pay. Releasing the kid is the only move that makes sense." />
     <string id="loLetAI9" text="Very well. But the world being as it is, I'm going to need {GOLD_AMOUNT}{GOLD_ICON} as a down payment on my services. Can you pay that?[rb:trivial]" />
     <string id="lord_conversations_227" text="I want to join your army." />
     <string id="lord_conversations_343" text="There is something I'd like to discuss." />
@@ -764,7 +773,8 @@
     <string id="LrbyNgAa" text="{AGREE_TO_LEAVE}[rb:unsure]" />
     <string id="lsjSxBsW" text="Get away you vile beggar! You are scaring away my customers!" />
     <string id="LUiQ6bpo" text="Very well, then. What is it?" />
-    <string id="lUjCslGK" text="Hope you don't mind the smoke in here, {?PLAYER.GENDER}madame{?}sir{\?}. Got to keep the kilns hot. How can I help you?" />
+    <string id="lUjCslGK" text="Hope you don't mind the smoke around here, {?PLAYER.GENDER}madame{?}sir{\?}. Got to keep the kilns hot. How can I help you?" />
+    <string id="LuLttpc5" text="I wish to buy one of your workshops." />
     <string id="lustkZ7s" text="Perhaps {?QUEST_GIVER.GENDER}she{?}he{\?} made those plans because {?QUEST_GIVER.GENDER}she{?}he{\?} loves you." />
     <string id="lVbQCibL" text="Yes. Take these troops with you." />
     <string id="LVX2x6Jf" text="I would like to end my contract with the {FACTION_NAME}." />
@@ -774,12 +784,14 @@
     <string id="LYhBM61z" text="Thank you, my {?PLAYER.GENDER}lady{?}sir{\?}, for protecting me. I will go and tell {ISSUE_GIVER.LINK} what you did for me. " />
     <string id="LztDzy8W" text="Why not? I'm not going anywhere right now, and I could use another drink." />
     <string id="M06TjiMd" text="What's that?" />
+    <string id="M0vxXQGB" text="Yes? Do you have something to say?" />
     <string id="m0ybQ1Gz" text="You can count on me. As of now, your enemies are my enemies and your honor is my honor." />
     <string id="M3K8wUOO" text="So... Does this please you, {?PLAYER.GENDER}my lady{?}my lord{\?}?" />
     <string id="m933Bcdd" text=".. Just so you know, we're followers of the {FACTION_NAME}, so you might want to think twice before giving us any trouble." />
     <string id="MaGPKGHA" text="Thank you my {?PLAYER.GENDER}lady{?}lord{\?}. I am sure your men will protect the boy and {TARGET_NOTABLE.LINK} will have nothing to do but to accept the blood money. I have to add, I'm ready to pay you {REWARD_GOLD} gold for your trouble." />
     <string id="Mav1xSAP" text="{LORD_LAST_SEEN}[rb:positive]" />
     <string id="MaXA5HJi" text="Your companions report that the {ISSUE_GIVER.LINK}'s daughter returns to {?ISSUE_GIVER.GENDER}her{?}him{\?} safe and sound. {?ISSUE_GIVER.GENDER}She{?}He{\?} is happy and sends {?ISSUE_GIVER.GENDER}her{?}his{\?} regards with a large pouch of {BASE_REWARD_GOLD}{GOLD_ICON}." />
+    <string id="mBPcZddA" text="{?PLAYER.GENDER}Madam{?}Sir{\?}, we are still waiting for your men to bring my daughter back. I pray for their success." />
     <string id="MbwG7Gy8" text="Can I change the difficulty?" />
     <string id="MDik3Kfn" text="I want you to recruit some troops." />
     <string id="mdNRYlfS" text="Nevermind." />
@@ -813,6 +825,7 @@
     <string id="n3bvfe8t" text="I am currently working as {COMPANION_JOB}." />
     <string id="N6kmOVH0" text="some men might fancy a game of dice. Figure Lady Luck wants to give them a kiss. We're here to keep things honest." />
     <string id="N7BFbQmT" text="I'm not interested." />
+    <string id="n9QRnxbC" text="I have no doubt that {TARGET_NOTABLE.LINK} will have to accept the offer after seeing the boy with that many armed men behind him. Thank you, {?PLAYER.GENDER}madam{?}sir{\?}, for helping to ending this without more blood." />
     <string id="NazK9rwF" text="A decent {?NOTABLE.GENDER}woman{?}man{\?}, {NOTABLE.FIRSTNAME} is, as rich folk go. Always keeps a bit of grain to help out any of those who ate their seed over the winter. Knows the worth of a good name, {?NOTABLE.GENDER}she{?}he{\?} does." />
     <string id="ndDpjT8s" text="Have you been able to talk with my boy yet?" />
     <string id="nE4Ud7Ca" text="Really boss, if I sell everything, and with all the money we have on hand, you can get {PRICE}{GOLD_ICON}. But I don't know anybody who can afford this right now." />
@@ -847,10 +860,11 @@
     <string id="NYLLIWgd" text="a messenger from the ancestors" />
     <string id="nZhPS83J" text="You lost your horse." />
     <string id="NzMX0s21" text="I am ready." />
+    <string id="O0Cjam62" text="I hope your people are careful about how they proceed. It would be a pity if that spy got away." />
     <string id="o0H8Qs0D" text="The rules of the tournament are standard across Calradia, even outside the Empire. We match the fighters up by drawing lots. Sometimes you're part of a team, and sometimes you fight by yourself." />
     <string id="O15PyNUK" text="With the help of your scouting skill, you were able to trace their tracks." />
+    <string id="o1KOn4WZ" text="If you let this boy go, his family will remember you did them a favor. That's a better deal for you than a fight you can't hope to win." />
     <string id="o2g6Wi9K" text="As you wish. Will I take some troops with me?" />
-    <string id="O2GBEzci" text="Do you have any idea about how stupid it is to kidnap a nobleman's son?" />
     <string id="O3BqrO85" text="So long as the denars keep flowing, so will the blood of your enemies." />
     <string id="o3MDpesZ" text="The way {NOTABLE.FIRSTNAME} helps out {?NOTABLE.GENDER}her{?}his{\?} good-for-nothing relatives, {?NOTABLE.GENDER}she{?}he{\?} won't have any seed grain for the next sewing -- and I, for one, will laugh." />
     <string id="o3rj0kbj" text="Yes, your highness.[rb:positive]" />
@@ -867,6 +881,7 @@
     <string id="OCRafO5h" text="Bellows" />
     <string id="OD1m1NYx" text="{STR_INTRIGUE_AGREEMENT}" />
     <string id="oddzOnad" text="I'm hunting a spy. And now I have found him." />
+    <string id="OeKgpuAv" text="After your attack on the rival gang’s alley, {QUEST_GIVER.LINK} decided to change {?QUEST_GIVER.GENDER}her{?}his{\?} plans, and doesn’t need your assistance anymore. Quest is canceled." />
     <string id="oFI9ZmiP" text="{CULPRIT.LINK} died. You failed to protect {CULPRIT.LINK} as you have promised {QUEST_GIVER.LINK}. {QUEST_GIVER.LINK} is furious." />
     <string id="OgTUrRlR" text="Chair" />
     <string id="OHJYAaW5" text="The powers of Heaven and of the Earth have entrusted to you the guardianship of this sacred land..." />
@@ -874,11 +889,13 @@
     <string id="OIBiRTRP" text="{QUEST_GIVER.LINK} is waiting for you at {SETTLEMENT}." />
     <string id="oiMs17Oh" text="Very well... You know where to find me." />
     <string id="oJt4bemH" text="{QUEST_GIVER.LINK}, a landowner from {QUEST_SETTLEMENT}, told you about an incident that is about to turn into an ugly feud. One young man killed another in an quarrel and the victim's family refused blood money compensation, demanding vengeance instead." />
+    <string id="ol0rBSrb" text="{STR1}{newline}{STR2}" />
     <string id="oL3amiu1" text="Come {DAUGHTER_NAME.NAME}, let's go before other hounds sniff our trail... I mean... No offense {?PLAYER.GENDER}madam{?}sir{\?}." />
     <string id="OlKbD2fa" text="I can use someone like you in my company." />
     <string id="OlOhuO7X" text="No thank you. Good day to you." />
     <string id="OMaM6ihN" text="I want you to patrol the area." />
     <string id="OnaJowBF" text="Hard. Don't hold back or you'll regret it." />
+    <string id="onLDP7mP" text="A problem occured while trying to load the saved game." />
     <string id="OnPC6tvb" text="I'm interested. Please tell me more." />
     <string id="oPUVNuhN" text="I'll keep you in mind" />
     <string id="OQgBim7l" text="Actually, I have other things to do." />
@@ -891,6 +908,7 @@
     <string id="oy43HWTq" text="What do you want?" />
     <string id="OybG76Kf" text="Thank you for saving me, sir. I won't forget what you did here today." />
     <string id="OyjWJBhI" text="I want to join your army." />
+    <string id="oZrVNUOk" text="Error" />
     <string id="p1ETQbzg" text="Just checking on you." />
     <string id="p3a44dQN" text="I would like to buy this workshop." />
     <string id="P7aRBg2h" text="Thank the heavens we have {?NOTABLE.GENDER}women{?}men{\?} like {NOTABLE.LINK} to help the poor in these hard times." />
@@ -905,7 +923,6 @@
     <string id="PE14ZF7l" text="Let me try and convince you. (Persuasion)" />
     <string id="pf4EIcBQ" text="Anything else? Because unless you've got business here, maybe you'd best move along.[ib:closed][rb:trivial]" />
     <string id="pfxvubiK" text="Duties... There are only a few, none of them difficult. The very first thing is to declare your allegiance. An oath of loyalty to our cause. Once that's done, you shall be required to fulfill certain responsibilities. You'll participate in military campaigns, fulfill any duties given to you by your commanders, and most of all you shall attack the enemies of our kingdom wherever you might find them." />
-    <string id="PGsbb0KP" text="This house is near the town square in {SETTLEMENT}. I need someone to go there and extract my clansman. It would be easy to pay off the debt of course but what I really want you to do is give a good threshing to these scum who think they are hard. Make an example of them so everyone understands the idiocy of holding a nobleman's relative in captive." />
     <string id="pinSMuMe" text="Well, there's one starting up at {CLOSEST_TOURNAMENT}, then another at {NEXT_CLOSEST_TOURNAMENT}. You should probably be able to get to either of those, if you move quickly.[ib:hip][rb:very_positive]" />
     <string id="PitXi5n6" text="You know we are at war. Surrender or die." />
     <string id="PJ7BhyOy" text="I said to that good-for-nothing... I said to him, 'You leave my daughter alone, or {NOTABLE.LINK} will hear about it.' Hah! I don't see him tomcatting around outside my home any more, that's for sure." />
@@ -915,12 +932,11 @@
     <string id="pP4sdfZc" text="On second though I don't want to open a workshop now." />
     <string id="PP8VeNiC" text="I swear that you are my {?LORD.GENDER}khatun{?}khan{\?}, my {?LORD.GENDER}mother{?}father{\?}, my protector..." />
     <string id="ppi6eVos" text="As you wish." />
-    <string id="PRiOVcO9" text="Careful around here, {?PLAYER.GENDER}madame{?}sir{\?}. Don't want to get your hands caught in the press. How can I help you?" />
+    <string id="PRiOVcO9" text="Careful around here, {?PLAYER.GENDER}madame{?}sir{\?}. Don't want to get your hands caught in one of the presses. How can I help you?" />
     <string id="prJBRboS" text="we look after the honest folk here. Make sure no one smashes up their shops. And if they want to give us a coin or two as a way of saying thanks, well, who'd mind?" />
     <string id="pRsCnGoo" text="I no longer have need of your services." />
-    <string id="pS0bBRjt" text="You! Go to your family and tell them to send us the blood money." />
+    <string id="pS0bBRjt" text="Enough! That is enough. We will take the blood money, and make an end of this." />
     <string id="PtDgM4Xo" text="They know me as {PLAYER.NAME}. Mark it down, you shall be hearing of me a lot." />
-    <string id="puN51FOi" text="What do you mean?" />
     <string id="pURE9lFV" text="{SURRENDER_OFFER}" />
     <string id="PUtbpIFI" text="Gather all my companions in the settlement and find me." />
     <string id="PuuVGOyM" text="I will send {NEEDED_MEN_COUNT} of my men with one of my lieutenants for {ALTERNATIVE_SOLUTION_DURATION} days to help you." />
@@ -945,7 +961,7 @@
     <string id="qeKskdiY" text="Tablut" />
     <string id="QEp8t8u0" text="(Currently held by {COMPANION.LINK})" />
     <string id="QffdjUxf" text="Very well. I'll get my gear and join you outside.[rb:very_positive]" />
-    <string id="QGdaakYW" text="({KEY}) Get Up" />
+    <string id="QGdaakYW" text="{KEY} Get Up" />
     <string id="QHbcFrPX" text="On second though I don't want to change what we are producing. Go on like this." />
     <string id="qIQbIjVS" text="All right! I spare the boy's life. Now get out of my sight" />
     <string id="QjtOAyKE" text="I'll be wolves." />
@@ -959,6 +975,7 @@
     <string id="qObicX7y" text="I swear to heed your judgements according to the laws of the Aserai, and ensure that my kinfolk heed them as well..." />
     <string id="QP7L2YLG" text="Sounds fun." />
     <string id="qPRl07mD" text="All right then. I'll try that." />
+    <string id="QR0V8Ae5" text="Your men are with my lads now. We will strike when the time is right. I will not forget this favor, I promise." />
     <string id="Qs7qs3b0" text="You are the shield of our people against the wolves of the forest, the steppe and the sea." />
     <string id="qsavxffL" text="I'll be attackers." />
     <string id="qsg7pZOs" text="Thanks. But I will give my bruises some time to heal." />
@@ -970,11 +987,13 @@
     <string id="QuzaaBD8" text="Why should I negotiate for your gold, when I have enough men to simply take it?" />
     <string id="qwfFgpCT" text="Only my noble vassals have the honour of carrying their own banners. However, after some time in mercenary service, you may earn the opportunity to swear homage to me and become my vassal, gaining the right to choose a banner of your own and fight under it in battle." />
     <string id="QWzGkQrT" text="So we fight, then.[if:idle_angry][ib:warrior]" />
+    <string id="qxhMagyZ" text="I do not care how your men do bring my clansman but they better do it quick." />
     <string id="QxIXbHai" text="I want to speak with a prisoner (Cheat)." />
     <string id="QyGQanO7" text="There's no doubt that {NOTABLE.FIRSTNAME} is a stiff-necked old goat, but you can't say {?NOTABLE.GENDER}she{?}he{\?}'s not honest as the day is long." />
     <string id="QYoigG3b" text="I understand. I'd take you prisoner too, if duty demanded. And I will soon, I hope." />
     <string id="R2HP4EiX" text="I don't have any more questions." />
     <string id="r3pGLoKN" text="I accept oaths only from those I can trust to keep them, {PLAYER.NAME}." />
+    <string id="r7xdYj4q" text="Module Mismatch" />
     <string id="R8JAeEmO" text="Yes, sister.[ib:demure][rb:positive]" />
     <string id="rao4bZBI" text="No, not really.[rb:negative]" />
     <string id="RB4uQpPV" text="You're going to pay me a lot then, {REWARD}{GOLD_ICON} to be exact. But at that price, I agree." />
@@ -994,7 +1013,7 @@
     <string id="rTrGXB1o" text="Yeah.. Word is that {._}{ITEM_NAME} sells well in {TOWN_NAME}. A profit of {PRICE_DIFF}{GOLD_ICON} a load, they say." />
     <string id="RUZKiW0u" text="Business is good. Can't deny that. But prices are high and getting higher.[rf:happy][rb:very_positive]" />
     <string id="rVHbbrCQ" text="We're not holding anyone in here right now. There's no reason for you to go in.[rb:negative]" />
-    <string id="Rvt11UBE" text="{BASIC_EVAL} {REPUTATION}." />
+    <string id="Rvt11UBE" text="{BASIC_EVAL} {REPUTATION}" />
     <string id="rXbL9mhQ" text="I want to talk about other things." />
     <string id="RXhBl8e1" text="Act normal. Have any of the participants in the tournament come round, asking very odd questions?" />
     <string id="RyAH9Zvk" text="Now the man in the market said, 'All this trouble and woe means the Heavens aren't pleased with the one on the throne.' 'That's treason talk!' I told him. Of course I did." />
@@ -1086,6 +1105,7 @@
     <string id="ubnVca4L" text="So, yeah... My {RANDOM_RELATIVE} says he took some {._}{PLURAL(ITEM_NAME)} to {TOWN_NAME} and made {PRICE_DIFF}{GOLD_ICON} in profit. Course he might be talking out of his arse." />
     <string id="UesQ8a2B" text="What kind of workshop do you want to open here?" />
     <string id="UfpmWfbG" text="{PLAYER.NAME}, you are a {?PLAYER.GENDER}lady{?}lord{\?} without a master, holding lands in your name, with only the barest scrap of a claim to legitimacy. No king in Calradia would accept a lasting peace with you." />
+    <string id="ug5E8FCZ" text="I wish to buy your {WORKSHOP_NAME}." />
     <string id="UGTCe2qP" text="Relax. I've talked with your relative, {QUEST_GIVER.NAME}. I know all about your situation. I'm here to help." />
     <string id="Uh057UUb" text="Puluc" />
     <string id="uhwoWUyR" text="Still haven't taken you to {HERO.LINK}...[ib:demure][rb:trivial]" />
@@ -1132,6 +1152,7 @@
     <string id="VlU9nnLY" text="Good. Give us our due, and you can pass." />
     <string id="VO8qBWrv" text="Hey boss, come to check on the business?" />
     <string id="VP6s1YFW" text="Many contenders have swords on their backs. Still this information might prove useful." />
+    <string id="VPGkIqlh" text="Your attack on {QUEST_GIVER.LINK}’s gang has angered {?QUEST_GIVER.GENDER}her{?}him{\?} and {?QUEST_GIVER.GENDER}she{?}he{\?} broke off the agreement that you had." />
     <string id="vpUl7xcy" text="You have defeated the rival gang and protected the interests of {QUEST_GIVER.LINK} in {SETTLEMENT}." />
     <string id="VrnlUvV8" text="I'm here to deliver you my demands!" />
     <string id="Vs9DfZmJ" text="No. My word is final. You will have to take the blood money." />
@@ -1141,7 +1162,6 @@
     <string id="VvxGEJoz" text="I am enchanted to have met you, my lady.[rb:positive]" />
     <string id="vW6kBki9" text="Your clan is now at war with {QUEST_GIVER.LINK}'s realm. Your agreement with {QUEST_GIVER.LINK} is canceled." />
     <string id="VWaNqkqJ" text="Can't say I've seen anyone around here like that, {?PLAYER.GENDER}madam{?}sir{\?}." />
-    <string id="vWudlbhd" text="Look, these men who deal in politics are not like you and me, they've earned their place by crushing people like you for generations. Don't mess with them." />
     <string id="vyaIbCRj" text="Hmm... Perhaps I will need to do more." />
     <string id="w0HPC53e" text="Who are you? What do you want from me?" />
     <string id="w1vzpCNi" text="I need you to craft a weapon for me" />
@@ -1158,6 +1178,8 @@
     <string id="wErSpkjy" text="I'm still working on it." />
     <string id="wFXj0bqj" text="My name is {PLAYER.NAME}, {?CONVERSATION_NPC.GENDER}madam{?}sir{\?}. Tell me about yourself." />
     <string id="WGi3Zuv7" text="You asked the villagers around {CURRENT_SETTLEMENT} if they saw a young woman matching the description of {QUEST_GIVER.LINK}'s daughter, {TARGET_HERO.LINK}.\n\nThey said a young woman and a young man dropped by early in the morning to buy some supplies and then rode off towards {TARGET_VILLAGE}." />
+    <string id="WiNRdfsm" text="Done" />
+    <string id="wJCVlVF7" text="These nobles aren't like you and me. They've kept their wealth by crushing people like you for generations. Don't mess with them." />
     <string id="wlKtDR2z" text="Thank you, {?PLAYER.GENDER}my lady{?}sir{\?}." />
     <string id="WnIWqytA" text=".. The lads and I here, we're all faithful followers of the {FACTION_NAME}. Which means we've got the Heavens looking out for us, and also an army of our brothers-in-faith, if anyone gives us trouble." />
     <string id="woMdU4Xl" text="I don't know where {?HERO.GENDER}she{?}he{\?} is.[rb:very_negative]" />
@@ -1237,11 +1259,9 @@
     <string id="YdZtydK4" text="As it happens, {PLAYER.NAME}, I promised {FACTION_LEADER} that I would hire a company of mercenaries for an upcoming campaign." />
     <string id="ye4oqBFB" text="You lost the board game and failed to help {QUEST_GIVER.LINK}. &quot;Thank you for trying, {PLAYER.NAME}, but I guess I chose the wrong person for the job.&quot;" />
     <string id="yFH4Wxun" text="Lads! Do you hear me? Take them down!" />
-    <string id="ygPtmIfy" text="They have agents to do their dirty work and will send them after you. Your street thugs cannot hope to deal with them." />
     <string id="Yh0danUf" text="Thank you and good day my {?PLAYER.GENDER}lady{?}lord{\?}." />
     <string id="YHTTPKMb" text="500{GOLD_ICON}." />
-    <string id="yIpqMu9U" text="It's not worth it. Even if they pay you, you will have the grudge of a powerful clan forever." />
-    <string id="YIxpNP4k" text="You received a message from {QUEST_GIVER.LINK}. " />
+    <string id="YIxpNP4k" text="You received a message from {QUEST_GIVER.LINK}. &quot;Thank you for killing the spy. Please accept these {REWARD_GOLD}{GOLD_ICON} denars with our gratitude.&quot;" />
     <string id="yLIZlaS1" text="Very well. Do come back when you're ready, {?PLAYER.GENDER}my lady{?}my lord{\?}." />
     <string id="yLRfb5zb" text="Any news? Have you managed to find him yet?" />
     <string id="ym6bSrNo" text="{STILL_ESCORTING_ANSWER}" />
@@ -1273,10 +1293,11 @@
     <string id="z3BeN9ro" text="I would like to sell this workshop." />
     <string id="z43j3Tzq" text="I'm still gathering my men for the fight. I'll send a runner for you when the time comes." />
     <string id="Z4MreMZz" text="How much are the prizes in the practice fights?" />
-    <string id="Z9sp21rl" text="{QUEST_GIVER.LINK} a lord from {QUEST_GIVER_CLAN} clan asked you to free {?QUEST_GIVER.GENDER}her{?}his{\?} relative. The young man is currently held by {TARGET_HERO.LINK} a local gang leader because of his debts. {?QUEST_GIVER.GENDER}Lady{?}Lord{\?} {QUEST_GIVER.LINK} has given you enough gold to settle {?QUEST_GIVER.GENDER}her{?}his{\?} debts but {?QUEST_GIVER.GENDER}she{?}he{\?} encourages you to keep the money to yourself and make an example of these criminals so no one would dare to hold a nobleman again. You have sent {COMPANION.LINK} and {NEEDED_MEN_COUNT} men to take care of the situation for you. They should be back in {ALTERNATIVE_SOLUTION_DURATION} days." />
+    <string id="Z9sp21rl" text="{QUEST_GIVER.LINK}, a lord from the {QUEST_GIVER_CLAN} clan, asked you to free {?QUEST_GIVER.GENDER}her{?}his{\?} relative. The young man is currently held by {TARGET_HERO.LINK} a local gang leader because of his debts. {?QUEST_GIVER.GENDER}Lady{?}Lord{\?} {QUEST_GIVER.LINK} has given you enough gold to settle {?QUEST_GIVER.GENDER}her{?}his{\?} debts but {?QUEST_GIVER.GENDER}she{?}he{\?} encourages you to keep the money to yourself and make an example of these criminals so no one would dare to hold a nobleman again. You have sent {COMPANION.LINK} and {NEEDED_MEN_COUNT} men to take care of the situation for you. They should be back in {ALTERNATIVE_SOLUTION_DURATION} days." />
     <string id="Za6Du9Kf" text="Then you will pay with blood!" />
     <string id="za78F8gO" text="Don't attack! We surrender." />
     <string id="zbWsjfbn" text="I'm {CONVERSATION_HERO.FIRSTNAME}. Ask around about me. Let's just say I've got a talent for solving people's problems, so to speak.[rb:trivial]" />
+    <string id="ZC1slXw1" text="I’m not inclined to pay the debt. I’m not going to reward this kind of lawlessness, when even the best families aren’t safe. I’ve sent word to the lord of {SETTLEMENT.NAME} but I can’t say I expect to hear back, what with the wars and all. I want someone to go there and free the lad. You could pay, I suppose, but I’d prefer it if you taught those bastards a lesson. I’ll pay you either way but obviously you get to keep more if you use force." />
     <string id="ZCbQvqqv" text="A face without scars and markings is usual for farmers and merchants but less so for warriors. This might be useful." />
     <string id="zcf9M1Qh" text="Very well... You may go." />
     <string id="zFAkHQRH" text="I am ready to pay my debt." />
@@ -1285,6 +1306,7 @@
     <string id="zJVb2aCe" text="Farewell, {PLAYER.NAME}. I regret that we part on these terms." />
     <string id="zlFSIvD5" text="No, no. I know a trap when I see one. You win. Good-bye." />
     <string id="ZMbvMK6K" text="Farewell then, {PLAYER.NAME}, and good luck go with you." />
+    <string id="znDzVxVJ" text="No." />
     <string id="zNPzh5jO" text="Ah! Now that was as good a fight as any I've had. Here, take this purse, you deserve it." />
     <string id="zNqDEuAw" text="But I've promised to find you and return you to your {?QUEST_GIVER.GENDER}mother{?}father{\?}. {?QUEST_GIVER.GENDER}She{?}He{\?} would be devastated." />
     <string id="ZnZAPDMo" text="So be it. You may ply your wit on the carrion-fowl.[if:idle_angry][ib:warrior]" />
@@ -1297,6 +1319,7 @@
     <string id="ZRpCJwj9" text="Go on. I'm ready for more." />
     <string id="zTF4bJm0" text="Yes, it's fine." />
     <string id="ztiax0Sn" text="Say what you will about {?OWNER.GENDER}lady{?}lord{\?} {OWNER.LINK}... {?OWNER.GENDER}She{?}He{\?}'ll give the lowest wretch in the realm a fair hearing in {?OWNER.GENDER}her{?}his{\?} court. Can't deny that." />
+    <string id="ZtULAKGb" text="Well then, we have a deal. I will instruct my workers that they are now working for you. Good luck!" />
     <string id="zv49qE35" text="Practice Fight" />
     <string id="ZVItXrnG" text="It's a lean autumn, this one. Heaven help us lay in enough wood before the winter." />
     <string id="ZvzxcRbc" text="Good day, friend. You look like you know your way around an arena. How can I help you?" />
