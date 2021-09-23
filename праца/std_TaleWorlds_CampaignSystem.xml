@@ -538,7 +538,7 @@
     <string id="6RYVOb0c" text="Manager" />
     <string id="6tBhhNaC" text="{HERO.FIRSTNAME} Rottentooth" />
     <string id="6TbPgeQE" text="Garrison troops in governed settlements are 30% more effective in restoring town security." />
-    <string id="6u3t174w" text="{PRISONER_LORD.LINK_AND_FACTION} is now free." />
+    <string id="6u3t174w" text="{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} of the {PRISONER_LORD_FACTION_LINK}{?}{\?} is now free." />
     <string id="6U6s0EuM" text="Mounted troops have 50% reduced wages in governed settlement's garrison." />
     <string id="6UKdUrPs" text="The men say the food's running out. We expect them to die for us if needed. Least we can do is let them die on a full belly." />
     <string id="6vPCEaSR" text="Thank you, my {?PLAYER.GENDER}lady{?}lord{\?} that would be very good. Merchants will not like this but the hard-working artisans like me will be grateful to you for this." />
@@ -1586,7 +1586,7 @@
     <string id="eaQxeRh6" text="A boy runs out of the village and asks you to talk to the leader of the poachers. The villagers want to avoid a fight outside their homes." />
     <string id="eAzwpqE1" text="Force peasants to give you supplies" />
     <string id="Eazyj0P8" text="Troops deal 10% more damage in simulations in snow and forest terrain." />
-    <string id="Ebb7aH3T" text="{PRISONER_LORD.LINK_AND_FACTION} быў захоплены ў палон {CAPTURER_LORD.LINK_AND_FACTION}." />
+    <string id="Ebb7aH3T" text="{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} з {PRISONER_LORD_FACTION_LINK}{?}{\?} быў захоплены ў палон {CAPTURER_LORD.LINK_AND_FACTION}." />
     <string id="EBCV0LcU" text="Lawspeakers" />
     <string id="eBea9Ext" text="{VALUABLE_ITEM_COUNT} {VALUABLE_ITEM_NAME}{?IS_THERE_OTHER_ITEMS} and {?PLURAL}{OTHER_ITEMS_COUNT}other {OTHER_ITEMS_CATEGORY_PLURAL}{?}an other {OTHER_ITEMS_CATEGORY_SINGULAR}{\?}{?}{\?}" />
     <string id="EbFK5HXY" text="Infantry troops in the formation you are leading have their damage increased by 2% and movement speed increased by 2%." />
@@ -2097,7 +2097,7 @@
     <string id="HokNfd1i" text="15% decrease in sell price penalty for equipments." />
     <string id="hOVr77fd" text="You will never see the sunrise again!" />
     <string id="hOyX7rSy" text="Increases your mount's top speed by 5%." />
-    <string id="hp4jLl3M" text="{PRISONER_LORD.LINK_AND_FACTION} has been released after battle." />
+    <string id="hp4jLl3M" text="{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} of the {PRISONER_LORD_FACTION_LINK}{?}{\?} has been released after battle." />
     <string id="HPOft1E9" text="If your tactics skill is greater than the enemy, gain bonus in simulations proportional to the difference." />
     <string id="hq13B7Ok" text="Yes.. You might be correct." />
     <string id="HQ6hyVNH" text="All right. Here is {TOTAL_PRICE}{GOLD_ICON}." />
@@ -2524,7 +2524,7 @@
     <string id="kQtrLwVD" text="Increases your troops' drawing speed of throwing weapons by 10%." />
     <string id="kRASveAC" text="We're just harmless foresters..." />
     <string id="KRfcro26" text="We're here to fight. Surrender or die!" />
-    <string id="krTrNonp" text="{PRISONER_LORD.LINK_AND_FACTION} has escaped from captivity." />
+    <string id="krTrNonp" text="{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} of the {PRISONER_LORD_FACTION_LINK}{?}{\?} has escaped from captivity." />
     <string id="KSeIOHDh" text="(One of the merchants in the town comes to talk as you are preparing to depart.)" />
     <string id="KSrNutEO" text="{FACTION_LEADER} will decide if war will be declared on the {KINGDOM_NAME}. You can pick your stance regarding this decision." />
     <string id="ksTDGuXs" text="{TROOP_TYPE_COUNT} {TROOP_TYPE} {?TROOP_TYPE_COUNT&gt;1}troops{?}troop{\?}" />
@@ -3235,7 +3235,7 @@
     <string id="PwOudJoi" text="You didn’t do anything, and told the rest of your men to keep on collecting. But as you prepared to depart, one of your men was found knifed from behind. The woman and her husband were nowhere to be found. The villagers cursed and jeered at you as you left." />
     <string id="pWxXvtXP" text="{QUEST_GIVER.LINK}, told you that a group of deserters have been raiding their village regularly. {?QUEST_GIVER.GENDER}She{?}He{\?} asked you to wait in {QUEST_SETTLEMENT} until the deserters arrive..." />
     <string id="pWyxaauF" text="We support this proposal" />
-    <string id="pX0MgdZA" text="{PRISONER_LORD.LINK_AND_FACTION} has been ransomed from the {CAPTURER_FACTION}." />
+    <string id="pX0MgdZA" text="{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} of the {PRISONER_LORD_FACTION_LINK}{?}{\?} has been ransomed from the {CAPTURER_FACTION}." />
     <string id="PX0Xufmr" text="Spartan" />
     <string id="PXhIFXbv" text="organizing households to supply military recruits" />
     <string id="PXigJyMs" text="Excellent. You are acting in my name now. Try to be polite but you have every right to use force if they don’t cough up what’s owed. Good luck." />
@@ -3367,7 +3367,7 @@
     <string id="qR6HqHgo" text="Declaration of War" />
     <string id="QR80Vhdk" text="Increases your hit point regeneration by 10% while waiting in settlements." />
     <string id="qR9bEE6g" text="A building which provides the means required for the manufacture or repair of buildings. Improves project development speed. Also stonemasons reinforce the walls." />
-    <string id="QRJQ9Wgv" text="{PRISONER_LORD.LINK_AND_FACTION} has been taken prisoner by the {CAPTOR_FACTION}." />
+    <string id="QRJQ9Wgv" text="{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} of the {PRISONER_LORD_FACTION_LINK}{?}{\?} has been taken prisoner by the {CAPTOR_FACTION}." />
     <string id="QRRgXOrN" text="As expected, your veterans have really sharpened up our boys. Please pass on my thanks to them, {?PLAYER.GENDER}madam{?}sir{\?}." />
     <string id="QRwaQIbm" text="Is in Kingdom" />
     <string id="QrYjPUEf" text="your attention to detail." />
@@ -4216,7 +4216,7 @@
     <string id="WJSapWab" text="{?CHILD.GENDER}She{?}He{\?} had a chance to fight in a few minor skirmishes without getting seriously injured." />
     <string id="WKIqnKtu" text="{QUEST_TARGET.LINK} has died and your agreement with {QUEST_GIVER.LINK} has been canceled. Your service is no longer needed to solve the issue." />
     <string id="WL1zcgYx" text="{?CHILD.GENDER}She{?}He{\?} travelled on foot in the company of other pilgrims, often relying on the kindness of strangers for food and shelter." />
-    <string id="wlhJGG0q" text="{PRISONER_LORD.LINK_AND_FACTION} has been freed because of a peace declaration." />
+    <string id="wlhJGG0q" text="{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} of the {PRISONER_LORD_FACTION_LINK}{?}{\?} has been freed because of a peace declaration." />
     <string id="wlKtDR2z" text="Thank you, {?PLAYER.GENDER}my lady{?}sir{\?}." />
     <string id="wM77S68a" text="What's there to discuss?" />
     <string id="Wmq47pvL" text="{DEFAULT_TEXT}{ARMY_LEADER.LINK} had to show mercy to the people of {SETTLEMENT} who were originally descendants of {FACTION}." />
@@ -4316,7 +4316,7 @@
     <string id="xBaL3RM4" text="Well, as you know we're not farmers. Weapons... We need weapons. My men are used to fighting with the {NEEDED_TYPE}, so I need {NEEDED_AMOUNT} of those. Don't worry about the quality. Think you can do that?" />
     <string id="xbal9bvg" text="Increases your Vigor Attribute by 1." />
     <string id="XbphYvnU" text="Very well. I believe in doing things according to the old ways. Before our men meet, let's you and I fight in honorable single combat. Draw your sword." />
-    <string id="XbQFAKUz" text="{PRISONER_LORD.LINK_AND_FACTION} has died while being held captive by the {CAPTURER_FACTION}." />
+    <string id="XbQFAKUz" text="{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} of the {PRISONER_LORD_FACTION_LINK}{?}{\?} has died while being held captive by the {CAPTURER_FACTION}." />
     <string id="xbVCRbUu" text="You hunted {CURRENT_COUNT}/{TOTAL_COUNT} gang of brigands." />
     <string id="xbvei0Cb" text="Feudal Inheritance" />
     <string id="xc4ossl0" text="Infancy" />
