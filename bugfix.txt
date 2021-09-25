@@ -1,0 +1,18 @@
+Daneel53
+
+Hi everybody!
+
+This error occurs in all foreign languages because the internal variable PRISONER_LORD.LINK_AND_FACTION does not exist anymore. It has been suppressed by the devs and is replaced by this quite complicated formula:
+{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} of the {PRISONER_LORD_FACTION_LINK}{?}{\?}
+So you have to modify the translation according to this formula in the 8 lignes of std_TaleWorlds_CampaignSystem.xml where the internal variable LINK_AND_FACTION was present.
+
+The shame here is that:
+1 - This modification has been done in both August 26th patchs for Bannerlord 1.6.1 and Bannerlord 1.6.2, so both versions have the issue.
+2 - This modification is not documented into the patch notes that officially contain only a long list of "Fixed a crash".
+3 - The displayed texts of the game have been modified but the files to translate have not been regenerated, so it is impossible for the translators to know that the texts are changed and that a variable does not exist anymore. To understand what happened, I had to disassemble the dll TaleWorlds.CampaignSystems.dll, the only way we have to find the modified English texts and the new formula to follow.
+
+Once again, you considere that the non-official localized versions of your game, that exist since more that one year, are just "modded-related issues" that you don't want to investigate. Do you have any idea of the thousand of people around the world that today play your game in Corean, Deutch, Russian, Spanish, French... all non-official localisation but that made that your game is bought and played by some non-English players? And anyway, because you say that you want to support the modding of your game, I don't understand this reaction toward the non-official translations.
+
+So, please, dear TaleWorlds developers, don't modify the English texts without regenerating the English text files to translate that are in the ModuleData folders, even in patchs, so that we, non-official translators, know that some text have changed and that we have to modify our translation accordingly.
+
+Nota: For the French users, and notably Zeldev that took the time to post current thread, new versions that fix this issue for the French translation has been put in line yesterday evening (August 27th) for both Bannerlord 1.6.1 and 1.6.2. Just reinstall the translation and the log shall be correct again.
