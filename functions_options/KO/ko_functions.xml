@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="한국어" />
+  </tags>
+   <functions>
+	<function functionName="PLURAL" functionBody="{?$0.Plural}{$0.Plural}{?}{$0}{\?}"/>
+	<function functionName="IS_PLURAL" functionBody="{?$0!.P}1{:?$0.Plural}1{:}0{\?}"/>
+  </functions>
+</base>

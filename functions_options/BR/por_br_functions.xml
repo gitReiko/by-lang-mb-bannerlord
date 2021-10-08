@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Português (BR)" />
+  </tags>
+   <functions>
+	<function functionName="PLURAL" functionBody="{?$0.Plural}{$0.Plural}{?}{$0}{\?}"/>
+	<function functionName="IS_PLURAL" functionBody="{?$0!.P}1{:?$0.Plural}1{:}0{\?}"/>
+	<function functionName="GENDER" functionBody="{?$0!.F}0{:?$0!.M}1{:?$0!.N}2{:}3{\?}"/>
+  </functions>
+</base>
