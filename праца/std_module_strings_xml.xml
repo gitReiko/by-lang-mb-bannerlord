@@ -56,7 +56,7 @@
     <string id="22a9fyiQ" text="Бацька" />
     <string id="22FUKSQb" text="Атрымайце {REQUIRED_XP_FOR_NEXT_LEVEL} досведу для гэтага навыку, выкарыстоўваючы яго, каб атрымаць узровень" />
     <string id="24L5DoQt" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} і {?}{\?}{TROOP_NAMES_END} бароняць ключавыя пазіцыі. " />
-    <string id="25MeMNbP" text="Права" />
+    <string id="25MeMNbP" text="Правы" />
     <string id="275LD0Gh" text="Працоўны майстэрні" />
     <string id="29bsCzkn" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} і {?}{\?}{TROOP_NAMES_END} адступаюць у бяспечнае месца." />
     <string id="2a33tk2f" text="Штодзённы праект" />
@@ -220,7 +220,7 @@
     <string id="7xFRFV0P" text="Сфармуйце ахоўнае кальцо." />
     <string id="7Xynf4IA" text="Браня рук" />
     <string id="7Ywub9bC" text="Абаронцы ўсё яшчэ трымаюць замак." />
-    <string id="7zUWqY3O" text="Лева" />
+    <string id="7zUWqY3O" text="Левы" />
     <string id="80hwCw7B" text="-{BONUS_AMOUNT}% скарочанае рушэнне падчас паўстання" />
     <string id="83Yt9rbK" text="Парушаны" />
     <string id="87qtKk4K" text="Глядзець раўнд" />
@@ -230,31 +230,31 @@
     <string id="8bSHlWBL" text="Цяпер у гэтым горадзе няма турніраў." />
     <string id="8byRf9zO" text="Агульнае" />
     <string id="8c8NDpAd" text="{HERO.NAME} атрымаў {TRAIT_NAME} асаблівасць." />
+    <string id="8cY08v3s" text="Гэта вёска сярэдняга багацця. Людзі і жывёлы выглядаюць сытымі. Вяскоўцы рупліва выконваюць сезонную працу. " />
+    <string id="8geYNpC9" text="{THRUST_DAMAGE_TYPE} шкода снарада: " />
+    <string id="8HMyTKF6" text="Вландыйцы" />
+    <string id="8Jb61k7G" text="(+{GAIN_AMOUNT} згуртаванасць)" />
+    <string id="8kVhiTmu" text="Наступны узровень:" />
+    <string id="8l8xEu64" text="Купіць і экіпіяваць" />
+    <string id="8LhfzIQE" text="р" />
+    <string id="8mBT44QK" text="Шляхціч {FACTION}" />
+    <string id="8oaVYIlk" text="Вы знадворку {SETTLEMENT_NAME}. Вы не можаце ўвайсці ў замак, таму што ён належыць ворагу." />
+    <string id="8OkPHu4f" text="Не" />
+    <string id="8Rkxc5jE" text="Няма ежы" />
+    <string id="8rzcgCO5" text="Сартаваць па" />
+    <string id="8UBfIenN" text="Нармальны" />
+    <string id="8ucLajpU" text="Аднаручная сякера" />
+    <string id="8UFjXbbW" text="Фланг{?IS_GENERAL_SIDE}{?} з {SIDE_STRING} боку{\?}" />
+    <string id="8w0aaDbn" text="Жалеза{@Plural}адзінак жалезнай руды{\@}" />
+    <string id="8ZZgNNaY" text="{USE_KEY}" />
+    <string id="923438xA" text="Добра, {PLAYER.LINK}, добра. Вы змаглі перамагчы {OPPONENT_COUNT} апанентаў. Вы былі фаварытам публікі за сваю адвагу. І, вядома ж, вы зарабілі прызавыя грошы {PRIZE}{GOLD_ICON}." />
+    <string id="929Lxhde" text="Вы страціце {INFLUENCE_COST} уплыву, калі пакінеце войска." />
+    <string id="92M0Pb5T" text="Выведнік" />
+    <string id="984Ink0j" text="Страла" />
+    <string id="9aymfBBG" text="Атрыманне кампаньёнаў" />
 
     <!-- there -->
 
-    <string id="8cY08v3s" text="The village is of average wealth. Humans and animals alike look well-fed. Villagers busily attend to the tasks of the seasons." />
-    <string id="8geYNpC9" text="Missile {THRUST_DAMAGE_TYPE} Damage: " />
-    <string id="8HMyTKF6" text="Vlandians" />
-    <string id="8Jb61k7G" text="(+{GAIN_AMOUNT} cohesion)" />
-    <string id="8kVhiTmu" text="Next Tier:" />
-    <string id="8l8xEu64" text="Buy and Equip" />
-    <string id="8LhfzIQE" text="w" />
-    <string id="8mBT44QK" text="Noble of {FACTION}" />
-    <string id="8oaVYIlk" text="You are outside the {SETTLEMENT_NAME}. You cannot enter because the castle belongs to the enemy." />
-    <string id="8OkPHu4f" text="No" />
-    <string id="8Rkxc5jE" text="No Food" />
-    <string id="8rzcgCO5" text="Sort By" />
-    <string id="8UBfIenN" text="Normal" />
-    <string id="8ucLajpU" text="One Handed Axe" />
-    <string id="8UFjXbbW" text="Flank{?IS_GENERAL_SIDE}{?} from {SIDE_STRING} side{\?}" />
-    <string id="8w0aaDbn" text="Iron{@Plural}loads of iron ore{\@}" />
-    <string id="8ZZgNNaY" text="{USE_KEY}" />
-    <string id="923438xA" text="Nice, {PLAYER.LINK}, nice. You managed to take down no less than {OPPONENT_COUNT} opponents. You were a crowd favorite, for your pluck. And of course, you earned a prize money of {PRIZE}{GOLD_ICON}." />
-    <string id="929Lxhde" text="You will lose {INFLUENCE_COST} influence if you abandon the army." />
-    <string id="92M0Pb5T" text="Scout" />
-    <string id="984Ink0j" text="Arrow" />
-    <string id="9aymfBBG" text="Getting Companions" />
     <string id="9B5kxWb8" text="Other party is over their troops limit.{newline}They will temporarily keep their troops but after some time they will quickly abandon their party.{newline}Are you sure?" />
     <string id="9Bm06EEJ" text="You hear much praise for the wisdom of the rulers who have achieved this prosperity." />
     <string id="9C0J0ZkT" text="Fire from infantry cover." />
@@ -676,7 +676,7 @@
     <string id="FZBqNCvd" text="nobody" />
     <string id="G0AWk1rX" text="Ladder" />
     <string id="g0gDsalr" text="Impulsive" />
-    <string id="g1KLcfxT" text="The village is prosperous. Brimming sacks of grain, healthy animals and loaded carts testify to the bounty of the fields." />
+    <string id="g1KLcfxT" text="Гэта вёска квітнее. Мяхі з зернем, здаровыя жывёлы і гружаныя калёсы сведчаць аб шчодрасць палёў." />
     <string id="G4XXubLg" text="an emira" />
     <string id="G5yvspkZ" text="Can't retreat, duel is ongoing!" />
     <string id="g6J4Oe6z" text="Clan name needs to be between {MIN} - {MAX} characters." />
@@ -1148,7 +1148,7 @@
     <string id="Ohdrbpiw" text="Vlandian" />
     <string id="OhLXo0gb" text="Criminal Governor" />
     <string id="OIBpCGYv" text="This party will shrink in size. It's current size target is {TARGET_SIZE}" />
-    <string id="OiCCv0EL" text="The village is going through hard times. Farm tools are rusty and broken. Brush and weeds are reclaiming the outermost fields. " />
+    <string id="OiCCv0EL" text="Гэта вёска перажывае цяжкія часы. Інструменты фермераў іржавыя і паламаныя. Хмызнякі і пустазеллі зарастаюць на аддаленых палях." />
     <string id="oiFt5bEV" text="Building Bonus" />
     <string id="OikiOJgf" text="You've found the second banner piece!" />
     <string id="oiSW6MyB" text="Chest Armor" />
