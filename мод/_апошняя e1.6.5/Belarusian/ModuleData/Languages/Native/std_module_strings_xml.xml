@@ -8,11 +8,13 @@
     <string id="02E0oSJm" text="Фол! Ваш апанент біўся па-за турнірам. {?OPPONENT_GENDER}Ён быў дыскваліфікаваны!{?}Яна была дыскваліфікавана!{\?}" />
     <string id="03mPaWum" text="Каралеўства" />
     <string id="04GuLxE1" text="Вы не можаце распусціць сваю партыю" />
+    <string id="05w8Tl7n" text="Стэп" />
     <string id="07b4Wy0h" text="Абярыце конніцу" />
     <string id="082FNWAD" text="Асаблівасці" />
     <string id="08aYzc2F" text="Глава" />
     <string id="09ooh9I3" text="Пешкі рухаюцца да хатняй пліткі апанента. Дасягнуўшы апошняй пліткі, яны вернуцца да сваёй хатняй пліткі. Варожыя пешкі могуць быць захоплены па дарозе." />
     <string id="0amC7X1h" text="Аб'ява вайны" />
+    <string id="0c2UcygW" text="Батанійскія пустэчы" />
     <string id="0DiBS84d" text="Літасцівы" />
     <string id="0FssY1wG" text="Вы можаце ўбачыць партрэты важных НГП на верхняй панэлі.{newline}{newline}Націсніце {CONSOLE_ACTION_KEY}, калі курсор знаходзіцца на іх партрэце, і абярыце ў меню «гутарку»." />
     <string id="0GZ19XHb" text="Вупраж" />
@@ -25,6 +27,7 @@
     <string id="0oGz5rVx" text="Гонар" />
     <string id="0qCbsOif" text="Пісталет" />
     <string id="0RkO7oHP" text="капітан" />
+    <string id="0RRNliSj" text="Эсерайская спякота" />
     <string id="0V4jIIju" text="Рухаецца да {SETTLEMENT_NAME}, каб аблажыць." />
     <string id="0zNzaDGq" text="Клінок" />
     <string id="0zz1iDMY" text="правадыр" />
@@ -53,8 +56,10 @@
     <string id="1XE7yeaP" text="Пасля таго, як гэты палонны атрымае {CONFORMITY_AMOUNT} падначальвання, яшчэ адзін палонны будзе даступны для рэкрутавання." />
     <string id="1XVvU23F" text="Немагчыма выкарыстоўваць тэкст з буферу абмену ў якасці ключа ўласцівасцяў цела!" />
     <string id="1Zq8mzzJ" text="Добра, а зараз паглядзім, што за муха трапіла ў нашае павуцінне.[rf:convo_mocking_revenge]" />
+    <string id="21t7Ev03" text="Вы не можаце выконваць гэтае дзеянне, пакуль знаходзіцеся ў палоне." />
     <string id="22a9fyiQ" text="Бацька" />
     <string id="22FUKSQb" text="Атрымайце {REQUIRED_XP_FOR_NEXT_LEVEL} досведу для гэтага навыку, выкарыстоўваючы яго, каб атрымаць узровень" />
+    <string id="22tbyEYI" text="Вы атрымалі {COUNT} {ITEM} ад {PARTY_NAME}." />
     <string id="24L5DoQt" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} і {?}{\?}{TROOP_NAMES_END} бароняць ключавыя пазіцыі. " />
     <string id="25MeMNbP" text="Правы" />
     <string id="275LD0Gh" text="Працоўны майстэрні" />
@@ -65,6 +70,7 @@
     <string id="2aXJEgag" text="Моц: {ARMY_STRENGTH}" />
     <string id="2CfPklXG" text="Назва войска" />
     <string id="2CgZVkDj" text="архонт" />
+    <string id="2EzfAklA" text="Вы аддалі {COUNT} {ITEM} герою {HERO.NAME}." />
     <string id="2FWBCCw0" text="Сястра" />
     <string id="2gpFPuZZ" text="Жорсткі" />
     <string id="2I2uKJlw" text="Літасцівы" />
@@ -97,6 +103,7 @@
     <string id="3IpiWM7H" text="Бандыт" />
     <string id="3KD1KqHp" text="Аблогавая вежа (Узровень 2)" />
     <string id="3l8HsbHK" text="Хех. Вы зрабілі мудры выбар. Вярніцеся і мы зноў зможам весці справы.[ib:closed][rf:convo_bemused]" />
+    <string id="3lZchBXQ" text="{ISSUE_NAME}: Вашыя ваяры не змаглі вырашыць пытанне." />
     <string id="3o6FDRsq" text="Захопленыя гарады" />
     <string id="3PzgpFGq" text="Нейтральны" />
     <string id="3qFPyJtB" text="Чакае ў {SETTLEMENT_NAME}." />
@@ -144,7 +151,6 @@
     <string id="4ytmLxOy" text="Цяжарная" />
     <string id="59hbrhfY" text="Цяперашні досвед ваяра" />
     <string id="59PSpyu8" text="Злучанае селішча: {SETTLEMENT_LINK}" />
-    <string id="5b7UhwsO" text="b" />
     <string id="5bqmaciE" text="{ARMY_MEMBER} будзе ў войску" />
     <string id="5cGXHF1a" text="Сёння" />
     <string id="5CYdyMzj" text="Астатні" />
@@ -152,6 +158,7 @@
     <string id="5DSafcSC" text="Конэйн" />
     <string id="5eH0lCEO" text="Адключыць цяперашні крок падказкі" />
     <string id="5H0cDmm1" text="Атрымайце {SKILL_LEVEL_FOR_LEVEL_UP} ачкоў навыкаў, каб падняць узровень гэтага персанажа." />
+    <string id="5IOct2ob" text="Патрабаванне да загаду" />
     <string id="5jVYwNCQ" text="Нявыплачаныя выдаткі" />
     <string id="5k4dxUEJ" text="Ваяры" />
     <string id="5kS1qjZL" text="Па гэтым селішчы ўжо існуе нявырашаная пастанова." />
@@ -177,9 +184,11 @@
     <string id="6Bk1YjS4" text="Калі вы спрабуеце прымусіць жыхароў аддаць вам запасы, некаторыя з іх збіраюцца, каб супраціўляцца вам." />
     <string id="6bx9IhpD" text="Паляпшэнні" />
     <string id="6e82kCVB" text="Тронак з кароткім зухам" />
+    <string id="6GmsZ7AG" text="Вы аддалі {COUNT} {ITEM} партыі {PARTY_NAME}." />
     <string id="6GSXsdeX" text="Хуткасць" />
     <string id="6jp724SU" text="Ворагі" />
     <string id="6Jx6qbZn" text="Абараняць{?IS_GENERAL_SIDE}{?} {SIDE_STRING}{\?} сцены" />
+    <string id="6kqK0kUn" text="Няма патрэбы заставацца ў абароне. Патрулюйце край." />
     <string id="6nQR7yYF" text="Старт" />
     <string id="6OZycZbc" text="У клана няма даступных герояў, каб узначаліць новую групу." />
     <string id="6PLqUB34" text="шляхціч" />
@@ -204,6 +213,7 @@
     <string id="7cnb2iEb" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} і {?}{\?}{TROOP_NAMES_END} атакуюць." />
     <string id="7EnFh9e5" text="Месцаванне: {LOCATION}" />
     <string id="7EVjgrFW" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} і {?}{\?}{TROOP_NAMES_END} атакуюць рассеяна." />
+    <string id="7fjOwwVH" text="Вядома, я дам вам параду. Я гаварыў з некаторымі гандлярамі, якія кажуць, што яны нядаўна набылі {.%}{ITEM_NAME}{.%} у {SETTLEMENT} за кошт {BUY_COST}{GOLD_ICON} і прадалі ў {DESTINATION} за {SELL_COST}{GOLD_ICON}." />
     <string id="7h6cXdW7" text="Інжынер" />
     <string id="7hj7Kaoz" text="Увесь даход" />
     <string id="7IqpjCDY" text="Пакаранне смерцю палоннага адмоўна адаб'ецца на вашай рэпутацыі і пагоршыць вашыя адносіны з фракцыяй/кланам палоннага.{newline}Вы не зможаце скасаваць гэтае дзеянне.{newline}Вы ўпэўнены, што жадаеце караць смерцю гэтага персанажа?" />
@@ -217,6 +227,7 @@
     <string id="7sUhWG0E" text="Колючая шкода: " />
     <string id="7sZMMYbe" text="Малая фракцыя" />
     <string id="7t1daAel" text="Дрэннае рашэнне, сябар.[ib:aggressive][if:convo_very_stern]" />
+    <string id="7UbviYSn" text="Стургійская ціша" />
     <string id="7vdgxtwo" text="IV" />
     <string id="7vrdpDFK" text="&lt;b&gt;Манганэль&lt;/b&gt;{NEWLINE}Кідае каменне на адлегласць з дапамогай тарсіённых струн.{NEWLINE}Аднолькава эфектыўны супраць сценаў, аблогавых машын ворага і іх аператараў." />
     <string id="7W79uw0y" text="Вярнуць да змоўчання" />
@@ -243,6 +254,7 @@
     <string id="8LhfzIQE" text="р" />
     <string id="8mBT44QK" text="Шляхціч {FACTION}" />
     <string id="8oaVYIlk" text="Вы знадворку {SETTLEMENT_NAME}. Вы не можаце ўвайсці ў замак, таму што ён належыць ворагу." />
+    <string id="8Oex8scw" text="Цэнтральная Еўропа" />
     <string id="8OkPHu4f" text="Не" />
     <string id="8Rkxc5jE" text="Няма ежы" />
     <string id="8rzcgCO5" text="Сартаваць па" />
@@ -258,10 +270,15 @@
     <string id="9B5kxWb8" text="Іншая партыя перавысіла ліміт сваіх ваяроў.{newline}Яны часова захаваюць сваіх ваяроў, але праз пэўны час яны хутка пачнуць пакідаць сваю партыю.{newline}Вы ўпэўнены?" />
     <string id="9Bm06EEJ" text="Вы чуеце шмат усхваленняў мудрасці валадароў, якія дасягнулі гэтага росквіту." />
     <string id="9C0J0ZkT" text="Агонь з-пад затулення пяхоты." />
+    <string id="9cu05mOt" text="Эсерайская ціша" />
     <string id="9dcQ2VZv" text="Наш план - гэта фармаванне абарончага кольца вакол нашых ваяроў далёкага бою." />
     <string id="9ECleB7I" text="Правядзіце пяхотную дуэль з вашым апанентам для перамогі!" />
     <string id="9EgIraI1" text="Актыўныя палітыкі" />
     <string id="9esIWdDC" text="Баюся, што нам спатрэбіцца зрабіць з вас прыклад. Не маліце аб літасці.[ib:aggressive][if:convo_bared_teeth]" />
+    <string id="9fBE1860" text="Кінематаграфічная цеплыня" />
+
+    <!-- update to e1.7.0 -->
+
     <string id="9FhdRKWu" text="Кідальны нож" />
     <string id="9gNjg4P0" text="Гэта не захавае вашую гульню і верне вас у галоўнае меню. Вы ўпэўнены, што жадаеце выйсці?" />
     <string id="9iycVtyV" text="Хуткасць вывучэння: x {COUNT}" />
