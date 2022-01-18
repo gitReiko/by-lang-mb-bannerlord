@@ -630,9 +630,6 @@
     <string id="es0Y3Bxc" text="Далучыцца" />
     <string id="esxNxipn" text="Партыі з нізкай мараллю" />
     <string id="etcyLg5M" text="Радасць алею" />
-
-    <!-- update to e1.7.0 -->
-
     <string id="eTyaQ1sG" text="Працягнуць кампанію" />
     <string id="eu25AFfI" text="Няма доступу да інвентару зараз!" />
     <string id="eufhFrnC" text="Вяскоўцы {VILLAGE_NAME}" />
@@ -648,7 +645,6 @@
     <string id="EWa1R7bv" text="Ворагі " />
     <string id="EWq48MmD" text="{LEFT}: {RIGHT}" />
     <string id="EWRoIdbA" text="Бандыты" />
-    <string id="ewUtdIQh" text="с" />
     <string id="exhusbandbrotherinlaw" text="Былы швагер" />
     <string id="exhusbandfatherinlaw" text="Былы цесць" />
     <string id="exhusbandmotherinlaw" text="Былая свякроў" />
@@ -673,6 +669,7 @@
     <string id="Fa2nKXxI" text="Губернатар" />
     <string id="fAEvWw8z" text="Абаронцы адступілі і стварылі апошнюю лінію абароны ўнутры замка." />
     <string id="fApjg2ae" text="Эсераі" />
+    <string id="fAxjyMt5" text="Ноч" />
     <string id="faYiCHXK" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} і {?}{\?}{TROOP_NAMES_END} рухаюцца на адлегласць стрэльбы." />
     <string id="FbcC2loc" text="Вы знепрытомелі; ваш апанент здабыў перамогу!" />
     <string id="fd35ahzV" text="&lt;b&gt;Агнявая баліста&lt;/b&gt;{NEWLINE}Страляе балтамі, наканечнікі якіх змочаны ў смале.{NEWLINE}Яны будуць наносіць агнявую шкоду варожым аблогавым машынам і драўляным збудовам, а таксама яны смяротныя супраць ваяроў." />
@@ -694,6 +691,8 @@
     <string id="FkhJz0po" text="Мясцовасць" />
     <string id="FLa5OuyK" text="Вандроўнік" />
     <string id="FLrzc1uk" text="Ах, баюся, тады нам прыйдзецца пераразаць табе глотку, вядома з прынцыпу. За ўварванне." />
+    <string id="fMh5KZfk" text="Няма патрэбы заставацца тут. Ходзьма!" />
+    <string id="FmIIQEQD" text="{HERO.NAME} {HERO.GENDER}памёрла{?}памёр{\?}." />
     <string id="fMmlUHyz" text="Рэжучая шкода: " />
     <string id="fMSYE6Ii" text="Змаўчанне" />
     <string id="forgeverb" text="Кузня" />
@@ -712,6 +711,7 @@
     <string id="FRuzuVyO" text="Клан не абраны" />
     <string id="FRZfpryn" text="Вынесіце прапанову перадаць гэтае селішча некаму іншаму" />
     <string id="FS78CuPs" text="Навыкі, якія злучаны з атрыбутам ({ATTRIBUTE_NAME}):" />
+    <string id="FSl1LFP6" text="{CLAN} атрымаў {AMOUNT_TO_ADD} вядомасці. Новая вядомасць {NEW_RENOWN}." />
     <string id="fUNa6FAo" text="Падчас бою націск клавішы {MISSION_INDICATORS_KEY} паказвае маркеры варожых і хаўрусных пабудоў." />
     <string id="FVEvjlis" text="Перавышана мяжа памеру партыі" />
     <string id="FvYhaE3z" text="Сцяг" />
@@ -720,6 +720,7 @@
     <string id="fWwYUOVs" text="Мы прымем вашую прапанову." />
     <string id="FxoVjLvl" text="Шчыты&amp;Далёкі бой" />
     <string id="FxPzcyLN" text="{SUPPORTERNAME} падтрымлівае {CANDIDATENAME}" />
+    <string id="FyYbkPtB" text="Імперская жорсткасць" />
     <string id="FZBqNCvd" text="ніхто" />
     <string id="G0AWk1rX" text="Лесвіца" />
     <string id="g0gDsalr" text="Імпульсіўны" />
@@ -736,9 +737,12 @@
     <string id="GAzaM1RC" text="Можа быць забіты на мяса і скуру" />
     <string id="GbbGlcMZ" text="Пешкі могуць перасоўвацца на любую плітку ў вертыкальным або гарызантальным кірунку, але яны ніколі не могуць пераскокваць праз іншыя пешкі.{newline}Пешкі не могуць рухацца па цэнтральнай плітцы або праз яе. Як толькі кароль пакідае гэтую плітку, ён болей не можа перасякаць яе." />
     <string id="GbWWelfl" text="Коні&amp;Вупраж" />
+    <string id="gCaT2BTu" text="{PRISONER.NAME} {PRISONER.GENDER}была вызвалена{?}быў вызвалены{\?} з палону па мірнай дамове." />
     <string id="GD4aQgl7" text="Авечка{@Plural}авечак{\@}" />
     <string id="gdraqMso" text="Вы знадворку {SETTLEMENT_NAME}. Вас не пускаюць унутр." />
     <string id="GDugjWao" text="Вось {MONEY}{GOLD_ICON}. Проста вазьмі і дазволь нам сысці." />
+    <string id="gE7QFy6y" text="{PRISONER.NAME} {?PRISONER.GENDER}збегла{?}збег{\?} з палону." />
+    <string id="geJQxzgB" text="Квэст правалены: {QUEST_TITLE}" />
     <string id="genericcharacterfirstname" text="{CHARACTER_FIRSTNAME}" />
     <string id="genericcharactername" text="{CHARACTER_NAME}" />
     <string id="genericclanname" text="{CLAN_NAME}" />
@@ -752,6 +756,7 @@
     <string id="ggpRTQQl" text="Лідар партыі" />
     <string id="ggrqoGnE" text="Выдаткаваць {AMOUNT}" />
     <string id="ggzCiYkk" text="{VALUE}{GOLD_ICON} трэба для паляпшэння." />
+    <string id="GHdrCWpF" text="Націсніце {CONSOLE_KEY_NAME}, каб закрыць" />
     <string id="gHnfFi1s" text="У адстаўцы" />
     <string id="GhVXQrYF" text="Паляпшае ваяроў" />
     <string id="giftverb" text="Падарыць" />
@@ -800,6 +805,7 @@
     <string id="HEQ2zEei" text="Скасаваць" />
     <string id="hEWuE0Ch" text="Вы камандзір. Вы можаце загадваць усім пабудовам падчас бою." />
     <string id="hfSW9FTN" text="Зброя далёкага бою V" />
+    <string id="HfTdc1SC" text="Абмаражэнне" />
     <string id="HiSzYWeh" text="Піва{@Plural}бондаў піва{\@}" />
     <string id="hJypvWMR" text="Палепшыць" />
     <string id="HkfY3Ds5" text="Браня цела" />
@@ -816,10 +822,12 @@
     <string id="ho5EndaV" text="Пастанова" />
     <string id="homesettlement" text="Дом" />
     <string id="hometab" text="Дом" />
+    <string id="hourabbr" text="г" />
     <string id="HP9wMk1T" text="Няма доступу да экрана партыі зараз!" />
     <string id="HPe7HaZx" text="Выкуп палонных" />
     <string id="hqIIEur1" text="Вы сутыкнуліся з {ARMY}." />
     <string id="hroWCoqV" text="Падтрымка прыняцця" />
+    <string id="hrUJeG44" text="Габелен" />
     <string id="hSsS5xAa" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} і {?}{\?}{TROOP_NAMES_END} чакаюць прыбыцця іншых аблогавых машын." />
     <string id="HuCClZqT" text="Заробак" />
     <string id="husbandbrotherinlaw" text="швагер" />
@@ -827,6 +835,7 @@
     <string id="husbandmotherinlaw" text="свякроў" />
     <string id="husbandsisterinlaw" text="залвіца" />
     <string id="hVmamTJX" text="Павялічвае мараль партыі за кошт разнастайнасці ежы (Кватэрмайстар). Паляпшае росквіт селішчаў і будаванне праектаў (Губернатар)." />
+    <string id="Hvw3uSNN" text="{PRISONER.NAME} {?PRISONER.GENDER}была вызвалена{?}быў вызвалены{\?} пасля таго, як паланяльнікі прайгралі бой." />
     <string id="hVZo7xdk" text="Замкі" />
     <string id="HWSKCne0" text="Фарсаванне праекта дадае +{BOOST} будавання і коштаў {COST}&lt;img src=&quot;General\Icons\Coin@2x&quot;&gt; у дзень." />
     <string id="Hx47TGrA" text="Цвёрды" />
@@ -846,11 +855,13 @@
     <string id="IagYTD5O" text="Росквіт" />
     <string id="IbGNaL0H" text="{HERO.LINK}   Узровень: {LEVEL}" />
     <string id="IbkODMHV" text="Шукайце сляды і сховішча. Падарожнічайце па складанай мясцовасці. (Выведка)" />
+    <string id="iBZc9RbE" text="Давайце пачакаем усіх." />
     <string id="IcgVKFxZ" text="Валадар" />
     <string id="iCirZbD8" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} і {?}{\?}{TROOP_NAMES_END} страляюць са сценаў замка." />
     <string id="icmyseoo" text="Мой лорд" />
     <string id="IcQ2doLo" text="x{QUANTITY}" />
     <string id="id62me1x" text="Націсніце &quot;Аблажыць&quot;" />
+    <string id="ID8wnSIi" text="Гэтае дзеянне не дазволена на цяперашнім этапе гісторыі." />
     <string id="IdYj8OJg" text="Наверша" />
     <string id="If65Vm9h" text="Дзіцячая адукацыя" />
     <string id="IF7zS5ia" text="Вы перавысілі ліміт палонных.{newline}Вы будзеце часова ўтрымліваць сваіх палонных, але праз пэўны час яны хутка збягуць з вашай партыі. Таксама вы будзеце запаволены.{newline}Вы ўпэўнены?" />
@@ -859,6 +870,7 @@
     <string id="Igoid3sR" text="Прапанаваць выгнаць гэты клан з каралеўства ({SUPPORT}%)" />
     <string id="ihVHfUFT" text="Пабудова" />
     <string id="iisvVbDI" text="Купіць усё" />
+    <string id="IiSZhZpg" text="Поўнач" />
     <string id="IjMel5eg" text="Вы можаце прадаць усіх палонных адразу.{newline}{newline}Або вы можаце звязацца з пасярэднікам па выкупе, каб абраць іх індывідуальна." />
     <string id="IK2IPJi1" text="Соль{@Plural}мяхоў солі{\@}" />
     <string id="iKUXVaFf" text="Кошт уплыву: {reg0}" />
@@ -866,6 +878,10 @@
     <string id="iLcfZ71B" text="Перакананне" />
     <string id="iLD5Lkto" text="Агнявы анагр" />
     <string id="ilE6nmWh" text="Восень {DAY}, {YEAR}" />
+    <string id="iLEhyGI8" text="Кальрадыйская Імперыя ў заняпадзе. Яшчэ да забойства Імператара Арэнікоса некалі з'яднаную дзяржаву раздзірала палітычнае суперніцтва. Сёння гэтыя фракцыі адкрыта вядуць вайну. І ўсё кальрадыйцы пакутуюць. Метадычнае вывучэнне абарончай стратэгіі, у якой гарнізонныя гарады запавольваюць сілы ўварвання датуль, пакуль мабільныя палявыя войскі не змогуць прыйсці ім на выратаванне, дапамагае стрымліваць сваіх суседзяў." />
+
+    <!-- update to e1.7.0 -->
+
     <string id="ilhkpKfp" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} і {?}{\?}{TROOP_NAMES_END} атакуюць вершнікаў." />
     <string id="ImJ4hdke" text="Прапанаваць новую палітыку" />
     <string id="iNDKwJYJ" text="Кошт досведу для паляпшэння ваяра" />
