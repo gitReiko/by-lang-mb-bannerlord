@@ -123,7 +123,7 @@
     <string id="Aa2Yokz3" text="Numpad *" />
     <string id="aAaF9FWC" text="Правы Ctrl" />
     <string id="aAAl11qM" text="Пераключэнне паміж блакаваннем і адблакаваннем агляду на сфакусаваным у гэты момант ворагу. Націсніце даўжэй, каб убачыць дэталёвую інфармацыю." />
-    <string id="aAXqgbDv" text="Нельга стварыць дадзеныя канфігурацыі. Дасягнуты ліміт канфігурацый." />
+    <string id="aAXqgbDv" text="Нельга стварыць канфігурацыю. Дасягнуты ліміт канфігурацый." />
     <string id="accbLVWL" text="Задае метад згладжвання. " />
     <string id="acqAYxhr" text="," />
     <string id="aGb5H9Ni" text="Заглушае крыніцы гуку за перашкодамі. Прымусова Уключана ў сеткавай гульні." />
@@ -234,10 +234,10 @@
     <string id="evc8yBIy" text="M" />
     <string id="EvOLbiqM" text="Абраць групу 3" />
     <string id="evzb1cmP" text="Экіпіяваць прадмет у вашую чацвёртую вочку." />
-    <string id="eXa0p5uN" text="Нельга стварыць дадзеныя канфігурацыі." />
+    <string id="eXa0p5uN" text="Нельга стварыць канфігурацыю." />
     <string id="EyYqpm5b" text="Усталюйце множнік вертыкальнага руху для жэстаў кірункаў у параўнанні з гарызантальным рухам. Не ўплывае на рух камеры." />
     <string id="eZsVkuQD" text="8" />
-    <string id="F2yX5CXI" text="Нельга стварыць дадзеныя канфігурацыі. Дадзеныя захавання пашкоджаны." />
+    <string id="F2yX5CXI" text="Нельга стварыць канфігурацыю. Захаванне пашкоджана." />
     <string id="fBXuMgdm" text="ШІ кампаніі DESC" />
     <string id="FEDEsbCx" text="Рухайце вашую партыю ўніз на мапе кампаніі." />
     <string id="ffHX9L80" text="Numpad 0" />
@@ -367,7 +367,7 @@
     <string id="Kh8qRccB" text="Скід зменаў." />
     <string id="KHbdmIfF" text="Толькі статычны" />
     <string id="khHVSEiK" text="Рухаць камеру мапы кампаніі ўгару." />
-    <string id="KiY5M2uk" text="Захаванне дадзеных паспяхова створана." />
+    <string id="KiY5M2uk" text="Захаванне паспяхова створана." />
     <string id="KjZas5Xs" text="Усталёўвае адаптар дысплэя, на якім будзе працаваць гульня." />
     <string id="KKNmozPI" text="Стрэлка налева" />
     <string id="Kksv0KyL" text="Абраць групу 7." />
@@ -392,7 +392,7 @@
     <string id="LjNnWa7R" text="F10" />
     <string id="LJZAvH8f" text="Якасць тэкстур" />
     <string id="ll2iP8yo" text="Выкарыстанне большага аб'ёму памяці відэакарты, чым даступна, можа прывесці да сур'ёзнага падзення прадукцыйнасці і праблемам са стабільнасцю. Будзьце асцярожныя." />
-    <string id="Lo0bRwYO" text="Нельга стварыць дадзеныя захавання. Дадзеныя захавання пашкоджаны." />
+    <string id="Lo0bRwYO" text="Нельга стварыць захаванне. Захаванне пашкоджана." />
     <string id="Lp0byzGQ" text="I" />
     <string id="LroTz1rL" text="Уключае запаволенне гульні, калі гулец аддае загады." />
     <string id="LsX8rTwl" text="Адкрыць акно развіцця персанажа." />
@@ -414,7 +414,7 @@
     <string id="MhralfPz" text="Аўта" />
     <string id="Mja6xKiX" text="Тып візуалізацыі загаду" />
     <string id="MkKL3Y4P" text="Numpad 7" />
-    <string id="mkQiThTA" text="Дадзеныя канфігурацыі паспяхова створаны." />
+    <string id="mkQiThTA" text="Канфігурацыя паспяхова створана." />
     <string id="mLtHlKzD" text="Правы Alt" />
     <string id="MNsKxGzK" text="Бюджэт на струменевую апрацоўку тэкстур" />
     <string id="mueocuFG" text="Паказваць малюнкі" />
@@ -510,229 +510,226 @@
     <string id="QiYy3Ja4" text="Абраць загад вярнуцца" />
     <string id="QKy9a176" text="Атакаваць злева" />
     <string id="qmplQd0Q" text="Трохпрамянёвы" />
-
-    <!-- translate -->
-
-    <string id="qNPmVDmU" text="Sets the NVIDIA DLSS method if applicable. " />
+    <string id="qNPmVDmU" text="Усталёўвае метад NVIDIA DLSS, калі даступны. " />
     <string id="qnxJYAs7" text="Партыя" />
     <string id="QObLf5jh" text="Абраць на мапе" />
     <string id="qOcw1xap" text="Page Down" />
     <string id="QoGjzEwI" text="Рух назад" />
     <string id="QpUkFQnj" text="Блакуе частату кадраў да 40 Гц у рэжыме якасці і разблакуе яе ў рэжыме прадукцыйнасці." />
-    <string id="qR4S6PeD" text="DLSS Quality" />
+    <string id="qR4S6PeD" text="Якасць DLSS" />
     <string id="qS0z458V" text="~" />
     <string id="QsdUafoH" text="Абраць загад 5" />
     <string id="qSJZyoro" text="F2" />
-    <string id="qsrqjK0B" text="Sets the detail level of environment props." />
-    <string id="qtgBKzY8" text="Sets the number of visible corpses." />
+    <string id="qsrqjK0B" text="Усталёўвае ўзровень дэталізацыі асяроддзя." />
+    <string id="qtgBKzY8" text="Усталёўвае колькасць бачных трупаў." />
     <string id="qvaJYO9c" text="Анізатропны 16X" />
     <string id="qW1FWX0C" text="Стрэлка ўніз" />
-    <string id="r5onpWZW" text="Always" />
+    <string id="r5onpWZW" text="Заўсёды" />
     <string id="R9cQCadq" text="Выбар спосабу выканання атак." />
-    <string id="r9tGsO4Z" text="Game Restart Required" />
-    <string id="RaijrIxP" text="Interact" />
+    <string id="r9tGsO4Z" text="Патрабуецца перазапуск гульні" />
+    <string id="RaijrIxP" text="Узаемадзейнічаць" />
     <string id="rbz1Bwbv" text="Інвентар" />
     <string id="Rh7aDJ3n" text="Акно сцяга" />
-    <string id="rHeu8Ndg" text="Open Face Generation." />
-    <string id="Rhl5E2ut" text="Sets the type of shadows." />
+    <string id="rHeu8Ndg" text="Адкрыць генерацыю твару." />
+    <string id="Rhl5E2ut" text="Усталёўвае тып ценяў." />
     <string id="RhUd5Y2T" text="Прыняць у запушчаным апытанні." />
     <string id="rNiESgEo" text="]" />
     <string id="ro0NhUnJ" text="Налада поля зроку для камеры ад першай асобы." />
-    <string id="roJLc9oH" text="Half" />
+    <string id="roJLc9oH" text="Палова" />
     <string id="rP058aIm" text="Экіпіяваць прадмет у вашую першую вочку." />
-    <string id="rs0wImmD" text="Cannot create save data." />
-    <string id="rS6nO0wb" text="Toggle Vignette" />
+    <string id="rs0wImmD" text="Нельга стварыць захаванне." />
+    <string id="rS6nO0wb" text="Пераключэнне віньеткі" />
     <string id="RSmsn6mb" text="Аднавіць/паставіць на паўзу" />
     <string id="RX76Kfa8" text="Пераключэнне камеры" />
     <string id="rXftSOjn" text="Паварот камеры направа" />
     <string id="rYCYUZu5" text="Слухаць групу 5" />
     <string id="s4r1xdg0" text="Слухаць групу 6" />
     <string id="s533kEjf" text="Гучнасць музыкі" />
-    <string id="s5EnYLUp" text="Cheer on click. Open Cheer wheel on hold." />
+    <string id="s5EnYLUp" text="Радасць пры націску Утрымлівайце, каб адкрыць кола радасці." />
     <string id="s7yWjpeB" text="Абраны адаптар" />
-    <string id="sAa2SIgO" text="You can switch between different mix modes better suited to your speaker configuration." />
+    <string id="sAa2SIgO" text="Вы можаце пераключацца паміж рознымі рэжымамі міксавання, каб знайсці больш прыдатныя для вашай канфігурацыі калонак." />
     <string id="sAoWNAwZ" text="У акне" />
-    <string id="Sb3L2QwL" text="Sets the resolution scale." />
+    <string id="Sb3L2QwL" text="Усталёўвае маштаб разрознасці." />
     <string id="sbUBtOTb" text="Паведамляць пра шкоду" />
-    <string id="sCjtEbTF" text="These modules have been removed from the game:" />
+    <string id="sCjtEbTF" text="Гэтыя модулі былі выдалены з гульні:" />
     <string id="SEucYSln" text="Numpad 2" />
     <string id="ShDZ4GgG" text="Экіпіяваць зброю 3" />
     <string id="sPqkglTv" text="Схаваць баявы КІ" />
-    <string id="sQCP8t0U" text="Map Wait" />
+    <string id="sQCP8t0U" text="Чаканне мапы" />
     <string id="StaoHYba" text="Слухаць групу 4" />
-    <string id="sTlHHQPs" text="You will need to restart Bannerlord for this setting to take effect" />
-    <string id="SuYh3GtG" text="Toggle Weapon Mode" />
+    <string id="sTlHHQPs" text="Каб гэтая налада набыла моц, трэба перазапусціць Bannerlord" />
+    <string id="SuYh3GtG" text="Пераключэнне рэжыму зброі" />
     <string id="SWDHaFCK" text="АбрацьЗагад4" />
     <string id="SWk141EO" text="Прыбраць вашую экіпіяваную зброю." />
     <string id="sxFsZAeC" text="1" />
-    <string id="sxIWNefq" text="Legacy" />
+    <string id="sxIWNefq" text="Спадчына" />
     <string id="t0vgSn7D" text="Абраць наступную групу" />
-    <string id="T3Ex0K1p" text="End" />
+    <string id="T3Ex0K1p" text="Скончыць" />
     <string id="T6IJg6wq" text="Рэжым следавання камеры мапы" />
     <string id="TbCbHxeF" text="Пераключэнне абрання групы" />
     <string id="tbGol5PT" text="F4" />
     <string id="tbwhjsqS" text="Правая кнопка мышы" />
-    <string id="Tdf5AbRp" text="Open Clan Screen." />
+    <string id="Tdf5AbRp" text="Адкрыць экран клана." />
     <string id="TEuOMadV" text="Tab" />
-    <string id="tewykKdc" text="Control Block Direction" />
-    <string id="tFZspabL" text="Switch to Previous Tab" />
+    <string id="tewykKdc" text="Кантроль кірунку блока" />
+    <string id="tFZspabL" text="Перайсці на папярэднюю ўкладку" />
     <string id="TgIAHPHs" text="Абраць загад 4" />
-    <string id="tifiQGTa" text="Open Kingdom Screen." />
+    <string id="tifiQGTa" text="Адкрыць экран каралеўства." />
     <string id="TIYrYxpr" text="Абраць групу 5" />
     <string id="tkCbjgfx" text="Numpad -" />
     <string id="tlR1jGNH" text="Пераключыць меню паўзы" />
     <string id="TOebahlA" text="Час мапы хутка наперад" />
     <string id="toHFqO2G" text="Абраць загад 5." />
-    <string id="TRmaxjal" text="Enable vertical aim correction while in third person mode." />
-    <string id="tsPjK1Ke" text="Enabled" />
+    <string id="TRmaxjal" text="Уключэнне вертыкальнай карэкцыі прыцэльвання ў рэжыме ад трэцяй асобы." />
+    <string id="tsPjK1Ke" text="Уключана" />
     <string id="ttCcMbwO" text="Стрэлка ўгару" />
-    <string id="TtWjblNo" text="Toggle Show" />
-    <string id="TUWeNFOv" text="Take Screenshot" />
+    <string id="TtWjblNo" text="Пераключыць від" />
+    <string id="TUWeNFOv" text="Зрабіць скрыншот" />
     <string id="TvGJqPGp" text="Уключае тэкставыя паведамленні пра смерці і накаўты." />
     <string id="TVXacQUJ" text="Агульны чат" />
     <string id="tw5Wxv3b" text="Numpad ." />
     <string id="TWbbfaUu" text="Рухаць камеру мапы кампаніі направа." />
     <string id="TybJcG0A" text="Вельмі нізк. (64) " />
-    <string id="tZGftbOD" text="Push To Talk" />
+    <string id="tZGftbOD" text="Націсніце, каб гаварыць" />
     <string id="TzpULeDH" text="Абраць загад вярнуцца." />
     <string id="u2dQaVY2" text="Экіпіяваць прадмет у вашую трэцюю вочку." />
-    <string id="U5xKAHGi" text="Bloom" />
+    <string id="U5xKAHGi" text="Свячэнне" />
     <string id="u6QCWQvu" text="Чатырохпрамянёвы" />
     <string id="u7FkCtRN" text="Слухаць групу 0" />
-    <string id="U8NaF1bo" text="Calibrate" />
+    <string id="U8NaF1bo" text="Каліброўка" />
     <string id="Uaae1eBV" text="Двайны націск направа: рэзкі паварот направа" />
     <string id="UboDNGJw" text="Абраць групу 7" />
     <string id="uBRn8Je8" text="3" />
     <string id="Uc1n5MRj" text="NVIDIA DLSS" />
     <string id="ucyy9Sc5" text="{LEFT} / {RIGHT}" />
-    <string id="UFHqkvah" text="Interactive Grass" />
+    <string id="UFHqkvah" text="Інтэрактыўная трава" />
     <string id="uGEcLaqw" text="Нахіліць камеру направа" />
-    <string id="UItoMdHh" text="Нельга стварыць дадзеныя канфігурацыі. Недастаткова месца." />
+    <string id="UItoMdHh" text="Нельга стварыць канфігурацыю. Недастаткова месца." />
     <string id="UixNc11t" text="Абарона ад атак з дапамогай зброі або шчыта." />
     <string id="ukw0Zi1X" text="[" />
     <string id="UNmUcizM" text="Абраць загад 3" />
-    <string id="Uojm77jP" text="Lighting Quality" />
+    <string id="Uojm77jP" text="Якасць асвятлення" />
     <string id="UoxjMhfJ" text="АбрацьЗагад1" />
     <string id="UqB9zKfE" text="Экіпіяваць галоўную зброю" />
     <string id="uQfDuGem" text="Аддаліць камеру ад персанажа" />
     <string id="urbLiiQJ" text="Налада экспазіцыі" />
     <string id="uRXlSUVh" text="N" />
     <string id="uSGPBRFS" text="Маштаб" />
-    <string id="UTU6yVsp" text="Resume time in campaign map." />
+    <string id="UTU6yVsp" text="Аднавіць час на мапе кампаніі." />
     <string id="uUHUfeQr" text="Абраць групу 6" />
-    <string id="UwJIMaRi" text="Shader Quality" />
-    <string id="UwuYCgIU" text="Caution" />
-    <string id="v2me5eP1" text="Toggle Vignette." />
+    <string id="UwJIMaRi" text="Якасць шэйдараў" />
+    <string id="UwuYCgIU" text="Увага" />
+    <string id="v2me5eP1" text="Пераключэнне віньеткі." />
     <string id="v8GIxASM" text="V-Sync" />
     <string id="vAnlshLW" text="9" />
     <string id="VasVb9DK" text="Экіпіяваць вашую зброю або змяніць на наступную." />
     <string id="VAtNIoKC" text="L" />
-    <string id="VdGuZAoK" text="Hide the User Inferface." />
-    <string id="Ve99pCSo" text="Cloth Simulation" />
-    <string id="VE9TavSl" text="Sets the decal quality." />
-    <string id="Vea6bRUO" text="Enable interface elements that report players damage and casualities in center bottom." />
+    <string id="VdGuZAoK" text="Схаваць карыстацкі інтэрфейс." />
+    <string id="Ve99pCSo" text="Сімуляцыя тканіны" />
+    <string id="VE9TavSl" text="Усталёўвае якасць дэколі." />
+    <string id="Vea6bRUO" text="Уключыць элементы інтэрфейсу, якія паведамляюць пра пашкоджанні і смерці, у цэнтры ўнізе." />
     <string id="vJ41v8zh" text="Непразрыстасць сцяга хаўрусных ваяроў" />
-    <string id="vJDxgaOZ" text="These modules' versions are different:" />
-    <string id="VklN5Wm6" text="Photo Mode" />
+    <string id="vJDxgaOZ" text="Версіі гэтых модуляў адрозніваюцца:" />
+    <string id="VklN5Wm6" text="Фотарэжым" />
     <string id="vOanWRQi" text="Абраць загад 1." />
     <string id="vOVdr24b" text="Абраць загад 4." />
     <string id="vT3yIxmO" text="Numpad 4" />
     <string id="vXvmeGhm" text="Тып ценю" />
-    <string id="VzSerzva" text="Right Shift" />
+    <string id="VzSerzva" text="Правы Shift" />
     <string id="w4l8xA2Q" text="Рух мапы налева" />
-    <string id="waNCurZY" text="Enables the motion blur." />
+    <string id="waNCurZY" text="Уключае размыццё руху." />
     <string id="wb84GjZw" text="Фільтрацыя ценяў" />
-    <string id="WBVMg0bd" text="Sets the texture filtering technique. A higher value means more detailed and sharp textures." />
-    <string id="wg5YeO4k" text="Campaign Map" />
+    <string id="WBVMg0bd" text="Усталёўвае метад фільтрацыі тэкстураў. Больш высокае значэнне азначае больш дэталізаваныя і выразныя тэкстуры." />
+    <string id="wg5YeO4k" text="Мапа кампаніі" />
     <string id="wGa1SUop" text="Экіпіяваць прадмет у вашую другую вочку." />
-    <string id="whn4v32E" text="Sets the resolution of shadows." />
+    <string id="whn4v32E" text="Усталёўвае разрознасць ценяў." />
     <string id="WiBlu6mE" text="АбрацьЗагад9" />
-    <string id="wJWICbOg" text="Your preferred game language." />
-    <string id="WldVAZhy" text="Sets the detail level of character models." />
+    <string id="wJWICbOg" text="Вашая ўпадабаная мова гульні." />
+    <string id="WldVAZhy" text="Усталёўвае ўзровень дэталізацыі мадэляў персанажаў." />
     <string id="wMe5p2HG" text="7" />
-    <string id="WMmGH9yp" text="Get camera further from campaign map." />
+    <string id="WMmGH9yp" text="Аддаляе камеру ад мапы кампаніі." />
     <string id="WOubRnjm" text="Паведамляць пра досвед" />
     <string id="WP4bYHK2" text="Апытанні" />
-    <string id="WP6GEbYa" text="Keep game sounds while game is out of focus." />
+    <string id="WP6GEbYa" text="Захоўвае гукі гульні, калі гульня не ў фокусе (згорнутая)." />
     <string id="wubDWOlh" text="Абраць профіль" />
-    <string id="WVpVmbzC" text="These modules are new in the game:" />
-    <string id="wWDHH5FK" text="Depth of Field" />
+    <string id="WVpVmbzC" text="Гэтыя модулі з'яўляюцца новымі для гульні:" />
+    <string id="wWDHH5FK" text="Глыбіня рэзкасці" />
     <string id="wYicqUa9" text="Нармальны час на мапе" />
     <string id="X1nFnomy" text="Сярэдн. (400)" />
     <string id="X2CbgcZ9" text="Па кірунку позірку" />
     <string id="X5cSNxHf" text="5" />
     <string id="x7kYOUfi" text="Гучнасць эфектаў" />
     <string id="x7qfk550" text="Q" />
-    <string id="xboxBackButton" text="Back Button" />
-    <string id="xboxDpadDown" text="D-pad Down" />
-    <string id="xboxDpadLeft" text="D-pad Left" />
-    <string id="xboxDpadRight" text="D-pad Right" />
-    <string id="xboxDpadUp" text="D-pad Up" />
-    <string id="xboxLeftBumper" text="Left Bumper" />
+    <string id="xboxBackButton" text="Кнопка назад" />
+    <string id="xboxDpadDown" text="D-pad уніз" />
+    <string id="xboxDpadLeft" text="D-pad налева" />
+    <string id="xboxDpadRight" text="D-pad направа" />
+    <string id="xboxDpadUp" text="D-pad угару" />
+    <string id="xboxLeftBumper" text="Левы бампер" />
     <string id="xboxLeftStick" text="Левы сцік" />
     <string id="xboxLeftStickDown" text="Левы сцік уніз" />
     <string id="xboxLeftStickLeft" text="Левы сцік налева" />
     <string id="xboxLeftStickRight" text="Левы сцік направа" />
     <string id="xboxLeftStickUp" text="Левы сцік угару" />
-    <string id="xboxLeftTrigger" text="Left Trigger" />
-    <string id="xboxRightBumper" text="Right Bumper" />
+    <string id="xboxLeftTrigger" text="Левы трыгер" />
+    <string id="xboxRightBumper" text="Правы бампер" />
     <string id="xboxRightStick" text="Правы сцік" />
     <string id="xboxRightStickDown" text="Правы сцік уніз" />
     <string id="xboxRightStickLeft" text="Правы сцік налева" />
     <string id="xboxRightStickRight" text="Правы сцік направа" />
     <string id="xboxRightStickUp" text="Правы сцік угару" />
-    <string id="xboxRightTrigger" text="Right Trigger" />
-    <string id="xboxStartButton" text="Start Button" />
-    <string id="XCB1SGxZ" text="Start Benchmark" />
+    <string id="xboxRightTrigger" text="Правы трыгер" />
+    <string id="xboxStartButton" text="Кнопка старт" />
+    <string id="XCB1SGxZ" text="Пачаць бенчмарк" />
     <string id="xEquRfRF" text="10" />
     <string id="xikMYwty" text="Ультра прадукцыйнасць DLSS" />
     <string id="xJpOH8DU" text="Адкрыць энцыклапедыю" />
     <string id="XldS0fkN" text="Змяніць рэжым следавання камеры" />
     <string id="xlxTJuJ9" text="Абраць усіх." />
     <string id="xMoqTFkZ" text="Процілегла кірунку позірку" />
-    <string id="XnhBdHnS" text="Surround" />
+    <string id="XnhBdHnS" text="Асяроддзе" />
     <string id="xNprkuJl" text="Выкінуць зброю" />
-    <string id="xnulLUFX" text="Save your game quickly with a shortcut." />
+    <string id="xnulLUFX" text="Хутка захавайце сваю гульню з дапамогай ярлыка." />
     <string id="XrUGC7H4" text="Backspace" />
-    <string id="XtiGbj0W" text="Show Cursor" />
-    <string id="xuOz73hl" text="Choose whether blood is visible in battles." />
-    <string id="xZ84ujuu" text="How many sounds could be played at once. Lower values will lower your CPU usage while higher values delivers better atmosphere." />
-    <string id="y7dx24ih" text="Turn camera as you change direction on a horse in first person view." />
-    <string id="Y94H6XnK" text="Accept" />
+    <string id="XtiGbj0W" text="Паказаць курсор" />
+    <string id="xuOz73hl" text="Абярыце, ці будзе кроў бачна ў бітвах." />
+    <string id="xZ84ujuu" text="Колькі гукаў можна прайграць адначасна. Ніжэйшыя значэнні будуць зніжаць нагрузку на працэсар, тым часам як больш высокія значэнні забяспечваюць лепшую атмасферу." />
+    <string id="y7dx24ih" text="Паварот камеры пры змене кірунку каня ў выглядзе ад першай асобы." />
+    <string id="Y94H6XnK" text="Прыняць" />
     <string id="YAHs7wBa" text="Абраць загад 8" />
     <string id="YDccwh2x" text="Агульная гучнасць" />
-    <string id="yDr2HCFR" text="Switch to 360 degree view mode around your character." />
+    <string id="yDr2HCFR" text="Пераключэнне ў рэжым агляду на 360 градусаў вакол вашага персанажа." />
     <string id="yfMN8wWN" text="Анізатропны 4X" />
     <string id="Yg2jHH1M" text="Numpad /" />
     <string id="YirOUaIV" text="Змяншэнне фокуса камеры." />
-    <string id="yLCSTuBw" text="Sets the resolution of the game. Higher resolution requires a more powerful display adapter." />
+    <string id="yLCSTuBw" text="Усталёўвае разрознасць гульні. Больш высокая разрознасць патрабуе магутнейшы адаптар дысплэя." />
     <string id="Yn8bh0qT" text="Экіпіяваць наступны шчыт" />
     <string id="YT6ljA5V" text="Рух мапы наперад" />
     <string id="yV64UCaW" text="Наблізіць" />
     <string id="YZv1752W" text="D" />
-    <string id="yZvw7EQb" text="Screen Space Reflection" />
-    <string id="z5Kbb4pC" text="DLSS Balanced" />
+    <string id="yZvw7EQb" text="Адлюстраванне прасторы экрана" />
+    <string id="z5Kbb4pC" text="Збалансаваны DLSS" />
     <string id="z6ezjlkX" text="Shift" />
-    <string id="z8XjxODK" text="Change to alternative usage for a weapon. Melee or ranged, one handed or two handed." />
+    <string id="z8XjxODK" text="Пераход да альтэрнатыўнага выкарыстання зброі. Блізкага або далёкага бою, аднаручнага або двухручнага." />
     <string id="ZaaPPemL" text="АбрацьЗагад8" />
-    <string id="ZeIsxhk4" text="Sets the shadow filtering technique." />
+    <string id="ZeIsxhk4" text="Усталёўвае метад фільтрацыі ценяў." />
     <string id="ZewnkWoO" text="G" />
     <string id="Zgs47DHB" text="Caps Lock" />
-    <string id="ZIKuUbUG" text="Sets the number of simultaneous ragdoll simulations." />
-    <string id="ZKg3DqbQ" text="Determines the opacity of the banners shown on top of the friendly troops." />
-    <string id="ZlcrmFvl" text="Switch to Next Tab" />
+    <string id="ZIKuUbUG" text="Усталёўвае колькасць адначасных ragdoll сімуляцый трупаў." />
+    <string id="ZKg3DqbQ" text="Вызначае непразрыстасць сцягоў, што адлюстроўваюцца паўзверх хаўрусных ваяроў." />
+    <string id="ZlcrmFvl" text="Перайсці на наступную ўкладку" />
     <string id="znSZmZvV" text="Рух мапы направа" />
-    <string id="Zo2ngsUk" text="Face Generation" />
+    <string id="Zo2ngsUk" text="Генерацыя твару" />
     <string id="ZoDugJHP" text="Абраць папярэднюю групу" />
     <string id="zofULNb8" text="Экіпіяваць другасную зброю" />
-    <string id="ZOUxmamu" text="Set sensitivity for cursor movement and camera control." />
+    <string id="ZOUxmamu" text="Усталёўвае адчувальнасць курсора, што кантралюе рух і камеру." />
     <string id="ZP1tLaa1" text="Numpad 9" />
-    <string id="ZtDJrNz9" text="Film Grain" />
+    <string id="ZtDJrNz9" text="Зярністасць плёнкі" />
     <string id="zTFbqJ6R" text="'" />
     <string id="ZtxvyzjY" text="Гукавыя каналы" />
     <string id="zUXxshZK" text="F12" />
-    <string id="zvD48rVQ" text="Quick Save" />
-    <string id="ZvjfAm7H" text="Cannot create save data. Not enough space." />
+    <string id="zvD48rVQ" text="Хуткае захаванне" />
+    <string id="ZvjfAm7H" text="Немагчыма стварыць захаванне. Недастаткова месца." />
     <string id="ZVLr4CMO" text="Кнопка мышы X1" />
     <string id="ZvtKqPt3" text="Двайны націск налева: рэзкі паварот налева" />
     <string id="zwL5NFAr" text="Insert" />
