@@ -543,7 +543,7 @@
     <string id="6tBhhNaC" text="{HERO.FIRSTNAME} Гнілы Зуб" />
     <string id="6TbPgeQE" text="Ваяры гарнізона ў кіраваных селішчах на 30% эфектыўней аднаўляюць бяспеку горада." />
     <string id="6TYsIQav" text="Паназіраўшы за цяжкасцямі жыхароў вёскі, вы адклікалі сваіх людзей, каб не ўзвальваць на іх яшчэ большага цяжару." />
-    <string id="6u3t174w" text="{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} з {PRISONER_LORD_FACTION_LINK}{?}{\?} зараз {?PRISONER_LORD.GENDER}вольная{?}вольны{\?}." />
+    <string id="6u3t174w" text="{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} з {PRISONER_LORD_FACTION_LINK}{.g}{?}{\?} зараз {?PRISONER_LORD.GENDER}вольная{?}вольны{\?}." />
     <string id="6U6s0EuM" text="Зніжаны на 50% выдаткі для верхавых ваяроў у гарнізонах кіраванага селішча." />
     <string id="6UKdUrPs" text="Людзі кажуць, што ежа канчаецца. Мы чакаем, што яны памруць за нас, калі спатрэбіцца. Меншае, што мы можам зрабіць, гэта дазволіць ім памерці на поўны жывот." />
     <string id="6vPCEaSR" text="Дзякуй вам, мая {?PLAYER.GENDER}лэдзі{?}лорд{\?} гэта было бы вельмі добра. Гандлярам гэта не спадабаецца, але працавітыя рамеснікі накшталт мяне будуць вам за гэта ўдзячныя." />
@@ -1619,7 +1619,7 @@
     <string id="eAzwpqE1" text="Force peasants to give you supplies" />
     <string id="Eazyj0P8" text="Troops deal 10% more damage in simulations in snow and forest terrain." />
     <string id="ebAZrm70" text="Peace Offer" />
-    <string id="Ebb7aH3T" text="{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} of the {PRISONER_LORD_FACTION_LINK}{?}{\?} has been taken prisoner by {CAPTURER_LORD.LINK}{?CAPTURER_LORD_HAS_FACTION_LINK} of the {CAPTURER_LORD_FACTION_LINK}{?}{\?}." />
+    <string id="Ebb7aH3T" text="{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} з {PRISONER_LORD_FACTION_LINK}{.g}{?}{\?} {?PRISONER_LORD.GENDER}была узята ў палон{?}быў узяты ў палон{\?} {CAPTURER_LORD.LINK}{.i}{?CAPTURER_LORD_HAS_FACTION_LINK} з {CAPTURER_LORD_FACTION_LINK}{.g}{?}{\?}." />
     <string id="EBCV0LcU" text="Lawspeakers" />
     <string id="eBea9Ext" text="{VALUABLE_ITEM_COUNT} {VALUABLE_ITEM_NAME}{?IS_THERE_OTHER_ITEMS} and {?PLURAL}{OTHER_ITEMS_COUNT}other {OTHER_ITEMS_CATEGORY_PLURAL}{?}an other {OTHER_ITEMS_CATEGORY_SINGULAR}{\?}{?}{\?}" />
     <string id="EbFK5HXY" text="Infantry troops in the formation you are leading have their damage increased by 2% and movement speed increased by 2%." />
@@ -1989,7 +1989,7 @@
     <string id="GpKJ7N4d" text="Reduce food consumption while in an army by 10%." />
     <string id="gpPlaaey" text="Tier 3+ troops in your formation gain 5% damage with bows." />
     <string id="gQ2tAvCz" text="Farmers" />
-    <string id="gq8sgb2J" text="{TARGET_HERO.LINK} has been taken prisoner by {OTHER_HERO.LINK}." />
+    <string id="gq8sgb2J" text="{TARGET_HERO.LINK} {?TARGET_HERO.GENDER}была узята{?}быў узяты{\?} ў палон {OTHER_HERO.LINK}." />
     <string id="GQ96SX4M" text="{QUEST_GIVER.LINK} told you that {?QUEST_GIVER.GENDER}she{?}he{\?} needs {MOUNT_TYPE} for {?QUEST_GIVER.GENDER}her{?}his{\?} party. {?QUEST_GIVER.GENDER}She{?}He{\?} asked you to bring {MOUNT_COUNT} {MOUNT_NAME}{.s} to {?QUEST_GIVER.GENDER}her{?}him{\?}. {?QUEST_GIVER.GENDER}She{?}He{\?} will pay you {REWARD_GOLD}{GOLD_ICON} denars when the task is done." />
     <string id="gqdsXVNi" text="{WEAPON} of {SETTLEMENT} hit ranged engines of {BESIEGER}!" />
     <string id="gQK2IfoH" text="Each skill point above 250 grants you 0.2% attack speed increase with one handed weapons." />
@@ -2110,7 +2110,7 @@
     <string id="HknxaCpK" text="{TARGET_SETTLEMENT_OWNER.FACTION} and {QUEST_GIVER.FACTION} had made peace. Your agreement with {QUEST_GIVER.LINK} is moot." />
     <string id="hKP7E6lQ" text="Every 1 skill point over 250 increase siege engine campaign damage by 1%." />
     <string id="HKT5MnjP" text="Bailiffs" />
-    <string id="HkvlHhPN" text="{TARGET_HERO.LINK} has been taken prisoner and thrown into the dungeons of {SETTLEMENT}." />
+    <string id="HkvlHhPN" text="{TARGET_HERO.LINK} {?TARGET_HERO.GENDER}была узята ў палон і кінута{?}быў узяты ў палон і кінуты{\?} ў вязніцу {SETTLEMENT}." />
     <string id="Hl33qopv" text="Governed settlement's bound villages have 5% more production rate." />
     <string id="hl4pTsaO" text="Win this tournament" />
     <string id="HLoivET9" text="Party size limit increased by 10." />
@@ -2128,7 +2128,7 @@
     <string id="HokNfd1i" text="15% decrease in sell price penalty for equipments." />
     <string id="hOVr77fd" text="You will never see the sunrise again!" />
     <string id="hOyX7rSy" text="Increases your mount's top speed by 5%." />
-    <string id="hp4jLl3M" text="{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} of the {PRISONER_LORD_FACTION_LINK}{?}{\?} has been released after battle." />
+    <string id="hp4jLl3M" text="{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} з {PRISONER_LORD_FACTION_LINK}{.g}{?}{\?} {?PRISONER_LORD.GENDER}была вызвалена{?}быў вызвалены{\?} пасля бою." />
     <string id="HPOft1E9" text="If your tactics skill is greater than the enemy, gain bonus in simulations proportional to the difference." />
     <string id="hq13B7Ok" text="Yes.. You might be correct." />
     <string id="HQ6hyVNH" text="All right. Here is {TOTAL_PRICE}{GOLD_ICON}." />
@@ -2567,7 +2567,7 @@
     <string id="kQtrLwVD" text="Increases your troops' drawing speed of throwing weapons by 10%." />
     <string id="kRASveAC" text="We're just harmless foresters..." />
     <string id="KRfcro26" text="We're here to fight. Surrender or die!" />
-    <string id="krTrNonp" text="{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} of the {PRISONER_LORD_FACTION_LINK}{?}{\?} has escaped from captivity." />
+    <string id="krTrNonp" text="{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} з {PRISONER_LORD_FACTION_LINK}{.g}{?}{\?} {?PRISONER_LORD.GENDER}збегла{?}збег{\?} з палону." />
     <string id="kru5Vpog" text="Yes. I'm glad to have the chance to talk to you. I've been thinking for a while about how you and I might work together... Interested?" />
     <string id="KSeIOHDh" text="(One of the merchants in the town comes to talk as you are preparing to depart.)" />
     <string id="KSrNutEO" text="{FACTION_LEADER} will decide if war will be declared on the {KINGDOM_NAME}. You can pick your stance regarding this decision." />
@@ -3289,7 +3289,7 @@
     <string id="pwnqk0Nj" text="Gathered denars from {.%}{SELECTED_ITEM}{.%}" />
     <string id="pWxXvtXP" text="{QUEST_GIVER.LINK}, told you that a group of deserters have been raiding their village regularly. {?QUEST_GIVER.GENDER}She{?}He{\?} asked you to wait in {QUEST_SETTLEMENT} until the deserters arrive..." />
     <string id="pWyxaauF" text="We support this proposal" />
-    <string id="pX0MgdZA" text="{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} of the {PRISONER_LORD_FACTION_LINK}{?}{\?} has been ransomed from the {CAPTURER_FACTION}." />
+    <string id="pX0MgdZA" text="{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} з {PRISONER_LORD_FACTION_LINK}{.g}{?}{\?}  {?PRISONER_LORD.GENDER}была выкуплена{?}быў выкуплены{/?} з палону ў {CAPTURER_FACTION}{.g}." />
     <string id="PX0Xufmr" text="Spartan" />
     <string id="PXhIFXbv" text="organizing households to supply military recruits" />
     <string id="PXigJyMs" text="Excellent. You are acting in my name now. Try to be polite but you have every right to use force if they don't cough up what's owed. Good luck." />
@@ -3418,7 +3418,7 @@
     <string id="qR6HqHgo" text="Declaration of War" />
     <string id="QR80Vhdk" text="Increases your hit point regeneration by 10% while waiting in settlements." />
     <string id="qR9bEE6g" text="A building which provides the means required for the manufacture or repair of buildings. Improves project development speed. Also stonemasons reinforce the walls." />
-    <string id="QRJQ9Wgv" text="{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} of the {PRISONER_LORD_FACTION_LINK}{?}{\?} has been taken prisoner by the {CAPTOR_FACTION}." />
+    <string id="QRJQ9Wgv" text="{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} з {PRISONER_LORD_FACTION_LINK}{.g}{?}{\?} {?PRISONER_LORD.GENDER}была узята ў палон{?}быў узяты ў палон{\?} {CAPTOR_FACTION}{.i}." />
     <string id="QRRgXOrN" text="As expected, your veterans have really sharpened up our boys. Please pass on my thanks to them, {?PLAYER.GENDER}madam{?}sir{\?}." />
     <string id="QRwaQIbm" text="Is in Kingdom" />
     <string id="QrYjPUEf" text="your attention to detail." />
@@ -4283,7 +4283,7 @@
     <string id="WJSapWab" text="{?CHILD.GENDER}She{?}He{\?} had a chance to fight in a few minor skirmishes without getting seriously injured." />
     <string id="WKIqnKtu" text="{QUEST_TARGET.LINK} has died and your agreement with {QUEST_GIVER.LINK} has been canceled. Your service is no longer needed to solve the issue." />
     <string id="WL1zcgYx" text="{?CHILD.GENDER}She{?}He{\?} travelled on foot in the company of other pilgrims, often relying on the kindness of strangers for food and shelter." />
-    <string id="wlhJGG0q" text="{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} of the {PRISONER_LORD_FACTION_LINK}{?}{\?} has been freed because of a peace declaration." />
+    <string id="wlhJGG0q" text="{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} з {PRISONER_LORD_FACTION_LINK}{.g}{?}{\?} {?PRISONER_LORD.GENDER}была вызвалена{?}быў вызвалены{\?} па мірнай дамове." />
     <string id="wlKtDR2z" text="Thank you, {?PLAYER.GENDER}my lady{?}sir{\?}." />
     <string id="wM77S68a" text="What's there to discuss?" />
     <string id="Wmq47pvL" text="{DEFAULT_TEXT}{ARMY_LEADER.LINK} had to show mercy to the people of {SETTLEMENT} who were originally descendants of {FACTION}." />
@@ -4381,7 +4381,7 @@
     <string id="XB1HSxLX" text="For kingdom decisions, Tier 4+ clan choices have double effect\nInfluence cost of the ruler overriding the popular decision outcome is doubled" />
     <string id="xBaL3RM4" text="Well, as you know we're not farmers. Weapons... We need weapons. My men are used to fighting with the {.%}{NEEDED_TYPE}{.%}, so I need {NEEDED_AMOUNT} of those. Don't worry about the quality. Think you can do that?" />
     <string id="xbal9bvg" text="Increases your Vigor Attribute by 1." />
-    <string id="XbQFAKUz" text="{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} of the {PRISONER_LORD_FACTION_LINK}{?}{\?} has died while being held captive by the {CAPTURER_FACTION}." />
+    <string id="XbQFAKUz" text="{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} з {PRISONER_LORD_FACTION_LINK}{.g}{?}{\?} {?PRISONER_LORD.GENDER}памёрла ў{?}памёр у{\?} палоне ў {CAPTURER_FACTION}{.g}." />
     <string id="xbVCRbUu" text="You hunted {CURRENT_COUNT}/{TOTAL_COUNT} gang of brigands." />
     <string id="xbvei0Cb" text="Feudal Inheritance" />
     <string id="xbvQzR2B" text="Your men should be on their way." />
