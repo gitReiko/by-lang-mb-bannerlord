@@ -169,7 +169,7 @@
     <string id="1zteHA7R" text="Кантроль Лука" />
     <string id="1zXrlaav" text="Ваша сям'я была паважанымі гандлярамі ў горадзе-аазісе. Яны пераганялі караваны праз пустэльню і былі экспертамі ў тонкасцях вядзення перамоў праз тэрыторыі пустэльных плямён." />
     <string id="21dlZJt6" text="Я не жадаю казаць пра гэтае. Як вы ведаеце, нашыя фракцыі знаходзяцца ў стане вайны." />
-    <string id="21yUheIy" text="{KINGDOM_NAME} была створана ў {CREATION_YEAR} гаспадаром {RULER.NAME}, {?RULER.GENDER}таленавітай вайскаводкай{?}таленавітым вайскаводам{\?} {CULTURE_ADJECTIVE}." />
+    <string id="21yUheIy" text="{KINGDOM_NAME} была створана ў {CREATION_YEAR} {?RULER.GENDER}гаспадарыняй{?}гаспадаром{\?} {RULER.NAME}, {?RULER.GENDER}таленавітай вайскаводкай{?}таленавітым вайскаводам{\?} {CULTURE_ADJECTIVE}." />
     <string id="23YF84ib" text="Ваша дзіцё, {?PLAYER_CHILD}, хутка развязвае праблемы ў розуме, дапамагаючы сталым з іх разлікамі." />
     <string id="25ifdWOy" text="Вярнуцца Да Аблогі" />
     <string id="25vJYig0" text="падарожнічае каля найблізкіх гор." />
@@ -1533,26 +1533,26 @@
     <string id="dnZekyZI" text="Дырэктыва ад {QUEST_GIVER.LINK}: {DIRECTIVE}" />
     <string id="dObod6IZ" text="{?CHILD.GENDER}займалась{?}займаўся{\?} сумленнай працай." />
     <string id="DOD4AUPA" text="У вас ёсць 10% шанец стварыць 'выдатную' зброю, калі выкананы вымогі складанасці. Паспяховыя заказы на рамяство даюць +2 да адносін з зямянамі." />
+    <string id="DOhOpmhV" text="Вы знайшлі {CHILD.NAME} за навучаннем у аблогавага інжынера. Нават калі гэта трохі небяспечна, такога практычнага досведу нічым не заменіш." />
+    <string id="DOmb81Mu" text="(Нявызначаны тып сховішча)" />
+    <string id="dov3iRlt" text="{ENEMY_RULER.NAME} з {ENEMY_KINGDOM_INFORMAL_NAME} {?ENEMY_RULER.GENDER}подлая і небяспечная{?}подлы і небяспечны{\?}. Мы павінны даць рады {?ENEMY_RULER.GENDER}ёй{?}яму{\?} пакуль яшчэ не позна." />
+    <string id="dPD5zood" text="Штодзённая Змена Золата: {CHANGE}{GOLD_ICON}" />
+    <string id="DphlPaF9" text="{AGGRESSOR_RULER.NAME} з {AGGRESSOR_KINGDOM} пачаў вайну з {KINGDOM} нягледзячы на супраціў ад {?AGGRESSOR_RULER.GENDER}яе{?}яго{\?} рады." />
+    <string id="dPOOmYGQ" text="Вы думаеце, што шляхта і ваяры {KINGDOM} будуць проста бяздзеяць, калі іх людзей выкрадаюць? Вам лепей адпусціць нас!" />
+    <string id="dPU8UbKA" text="Партыя {QUEST_GIVER}" />
+    <string id="dpzbyUCa" text="Я не клапачуся пра гэтае не болей, чым раней." />
+    <string id="DQBaaC0e" text="Штосьці яшчэ?" />
+    <string id="dqbbT5DK" text="Моцныя лукі" />
+    <string id="dqg4nlo9" text="{?IS_BATTANIA}Барды{?}Менестрэлі{\?} часта апяваюць пра прыроду, паляванне, і з'яўляюцца выдатнымі падарожнікамі, якія ўмеюць жыць у суровых умовах. Дзіцё заахвочвалі суправаджаць {?IS_BATTANIA}барда{?}менестрэля{\?} у яго вандроўках." />
+    <string id="Dqjq02Sd" text="Зніжэнне штрафу кошту пры продажы на 15% для гандлёвых тавараў." />
+    <string id="DqOBr2BF" text="Вы аглушаеце вашых ворагаў на больш працяглы час пасля блакавання вашай атакі." />
+    <string id="dQyiRllV" text="Вашыя ваяры далёкага бою маюць +5 здароўя." />
+    <string id="DR2aK4aQ" text="Я шаную нашы старажытныя законы і традыцыі. Я не хачу варагаваць з вамі." />
+    <string id="driH06vI" text="Мне трэба болей рэкрутаў у гарнізон {SETTLEMENT}. Паколькі я буду ў іншым месцы... можа вы зможаце рэкрутаваць {NUMBER_OF_TROOP_TO_BE_RECRUITED} {TROOP_TYPE} і прывесці іх у гарнізон для мяне?" />
+    <string id="drZC1Frp" text="{KINGDOM_NAME} была створана ў {CREATION_YEAR} {?RULER.GENDER}гаспадарыняй{?}гаспадаром{\?} {RULER.NAME}, лідарам групы {CULTURE_ADJECTIVE} паўстанцаў." />
 
     <!-- there -->
 
-    <string id="DOhOpmhV" text="You found {CHILD.NAME} an apprenticeship with a siege engineer. Even if it can be a bit dangerous, there's no substitute for that kind of practical experience." />
-    <string id="DOmb81Mu" text="(Undefined hideout type)" />
-    <string id="dov3iRlt" text="{ENEMY_RULER.NAME} of the {ENEMY_KINGDOM_INFORMAL_NAME} is vile and dangerous. We must deal with {?ENEMY_RULER.GENDER}her{?}him{\?} before it is too late." />
-    <string id="dPD5zood" text="Daily Gold Change: {CHANGE}{GOLD_ICON}" />
-    <string id="DphlPaF9" text="{AGGRESSOR_RULER.NAME} of the {AGGRESSOR_KINGDOM} has declared war on the {KINGDOM} despite opposition from {?AGGRESSOR_RULER.GENDER}her{?}his{\?} council." />
-    <string id="dPOOmYGQ" text="You think the lords and warriors of the {KINGDOM} won't just stand by idly when their people are kidnapped? You'd best let us go!" />
-    <string id="dPU8UbKA" text="{QUEST_GIVER}'s Party" />
-    <string id="dpzbyUCa" text="I don't care for it any more than I did before." />
-    <string id="DQBaaC0e" text="Is there anything else?" />
-    <string id="dqbbT5DK" text="Strong bows" />
-    <string id="dqg4nlo9" text="{?IS_BATTANIA}Bard{?}Minstrel{\?}s frequently sing of nature and the hunt and are often great travellers, skilled at living rough on the land. The child was encouraged to accompany the {?IS_BATTANIA}bard{?}minstrel{\?} on his roamings." />
-    <string id="Dqjq02Sd" text="15% decrease in sell price penalty for trade goods." />
-    <string id="DqOBr2BF" text="You stun your enemies longer after they block your attack." />
-    <string id="dQyiRllV" text="Your ranged troops have +5 hit points." />
-    <string id="DR2aK4aQ" text="I respect our ancient laws and traditions. I don't want to find myself at odds with you." />
-    <string id="driH06vI" text="I need more recruits in {SETTLEMENT}'s garrison. Since I'll be elsewhere... maybe you can recruit {NUMBER_OF_TROOP_TO_BE_RECRUITED} {TROOP_TYPE} and bring them to the garrison for me?" />
-    <string id="drZC1Frp" text="The {KINGDOM_NAME} was created in {CREATION_YEAR} by {RULER.NAME}, leader of a group of {CULTURE_ADJECTIVE} rebels." />
     <string id="ds294zxi" text="Anything else?" />
     <string id="dSBbSHkM" text="Tribute" />
     <string id="DsbtHShA" text="Increase animal production in governed villages by 10%." />
@@ -2285,7 +2285,7 @@
     <string id="IsuynJ2f" text="Increases your charge damage and maneuver by 1 for each 10 riding skill above 200." />
     <string id="ITboR6C1" text="The men say we're running low on food. We should be more careful of that." />
     <string id="itHCs6bB" text="I'm delivering {?TARGET_HERO.GENDER}her{?}him{\?} as I promised." />
-    <string id="ithcVNfA" text="{CLAN_NAME}'s Party" />
+    <string id="ithcVNfA" text="Партыя клана {CLAN_NAME}" />
     <string id="ITqVF9i4" text="You know {CURRENT_LIEGE.NAME} asks you to do dishonorable things, and no oath binds you to doing evil." />
     <string id="ItS9F61H" text="You told {CHILD.NAME} that any young noble worth {?CHILD.GENDER}her{?}his{\?} salt should be able to bring down a deer from fifty paces away, or hit a rabbit on the run." />
     <string id="ItueKmqd" text="Your clan is now at war with the {QUEST_GIVER_SETTLEMENT_FACTION}. You contract with {QUEST_GIVER.LINK} is canceled." />
@@ -4274,7 +4274,7 @@
     <string id="wglTyBbx" text="Thank you, friend. Go in peace." />
     <string id="wGoEB4ba" text="Upkeep of tier 4+ ranged troops are reduced by 50%." />
     <string id="wgX2nL5Z" text="{SETTLEMENT} is no longer in control of enemy. There is no need to scout that settlement." />
-    <string id="WhHDg7ag" text="{MALE_LESSER_NOBLE_NAME}'s Party" />
+    <string id="WhHDg7ag" text="Партыя {MALE_LESSER_NOBLE_NAME}" />
     <string id="wI393cla" text="Preventive Medicine" />
     <string id="WIb9VvEM" text="Collected Troops" />
     <string id="Wifppt09" text="Increases settlement tariff gain by 5%." />
