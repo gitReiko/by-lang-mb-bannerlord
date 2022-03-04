@@ -24,7 +24,7 @@
     <string id="0aXG8dvJ" text="Абвясціць мір з {KINGDOM_NAME}. Даніна не будзе выплачана." />
     <string id="0B6HlgnN" text="{HERO.FIRSTNAME} Яшчарыца" />
     <string id="0B91pZ2R" text="Сталае месца правядзення кірмашоў, у якім гараджане могуць збірацца, танцаваць і гутарыць, павялічваючы штодзённую мараль селішча." />
-    <string id="0bPb5btR" text="{LORD.NAME} мае рэпутацыю {REPUTATION}, і знаходзіцца ў клане {CLAN_NAME}, {CLAN_DESCRIPTION}. {FACTION_NAME} гэта фракцыя клана. Яна і {RULER} супольна вядуць грамадзянскую вайну." />
+    <string id="0bPb5btR" text="{LORD.NAME} чалец клана {CLAN_NAME}, {CLAN_DESCRIPTION} з дзяржавы {FACTION_NAME}, {?LORD.GENDER}якая падтрымала{?}які падтрымаў{\?} {RULER} у грамадзянскай вайне. {?LORD.GENDER}Яна{?}Ён{\?} мае рэпутацыю: {REPUTATION}" />
     <string id="0cMibkQO" text="Вы можаце ведаць мяне як чалавека гонару." />
     <string id="0D1ty8JA" text="Каардынацыя" />
     <string id="0dbwEczK" text="Штраф да шкоды зброі ад коннай язды: {a0} %" />
@@ -490,7 +490,7 @@
     <string id="6bvJSIqh" text="Так. Я знайду новага шляхціча, каб кінуць яму выклік." />
     <string id="6bVZbvFJ" text="Партыя можа несці на 30% болей вагі." />
     <string id="6d2VIgH3" text="{QUEST_GIVER.LINK}: Дзякуй. Мае шляхцічы бачаць у вас прыклад, а вашая заваёва {TARGET_SETTLEMENT} - гэта прыступка да далейшых перамог. {?QUEST_GIVER.GENDER}Яна ўдзячная{?}Ён удзячны{\?} вам за службу і дае вам {REWARD} {GOLD_ICON}." />
-    <string id="6d4ZTvGv" text="{LORD.NAME} з'яўляецца {TITLE} з {FACTION_NAME} і галавою {CLAN_NAME}, {CLAN_DESCRIPTION} з каралеўства. {?LORD.GENDER}Яна{?}Ён{\?} мае рэпутацыю {REPUTATION}" />
+    <string id="6d4ZTvGv" text="{LORD.NAME} гэта {TITLE} з дзяржавы {FACTION_NAME} ды глава клана {CLAN_NAME}, {CLAN_DESCRIPTION} з дзяржавы. {?LORD.GENDER}Яна{?}Ён{\?} мае рэпутацыю: {REPUTATION}" />
     <string id="6d755ZJ5" text="Выдаткі на партыю меней на 5%." />
     <string id="6DQjKwt2" text="Кошт уплыву прапановы анексіі селішча зніжаны на 50% для клана гаспадара." />
     <string id="6duYOjy7" text="Меню Абрання." />
@@ -528,7 +528,7 @@
     <string id="6NWExCu6" text="Войска Створана" />
     <string id="6OKW8Ba3" text="{ISSUE_GIVER.LINK}, землеўласнік з {ISSUE_GIVER_SETTLEMENT}, расказаў вам пра свае праблемы з пастухамі {TARGET_SETTLEMENT}. Відаць, {?ISSUE_GIVER.GENDER}яна набыла{?}ён набыў{\?} права выкарыстоўваць пашу недалёка ад вёскі. Але некаторыя мясцовыя пастухі адмаўляюцца прыбіраць свае статкі і пагражаюць {?ISSUE_GIVER.GENDER}яе{?}яго{\?} пастухам. Вы пагадзіліся адправіць {COMPANION.LINK} разам з {NEEDED_MEN_COUNT} ваярамі, каб яны разабраліся з сітуацыяй. Вы чакаеце, што яны вернуцца праз {RETURN_DAYS} дзён." />
     <string id="6P1ruzsC" text="Можа..." />
-    <string id="6pCABUme" text="{?CHARACTER.GENDER}Яна{?}Ён{\?} памёр у бітве ў {YEAR} у ўзросце {CHARACTER.AGE} гадоў. {?CHARACTER.GENDER}Яна{?}Ён{\?} меў рэпутацыю {REPUTATION}" />
+    <string id="6pCABUme" text="{?CHARACTER.GENDER}Яна памёрла{?}Ён памёр {\?} у бітве ў {YEAR} ва ўзросце {CHARACTER.AGE} гадоў. {?CHARACTER.GENDER}Яна мала{?}Ён меў{\?} рэпутацыю: {REPUTATION}" />
     <string id="6pNrNj93" text="Сцяна" />
     <string id="6PrmgKXa" text="{CHILD.NAME} зараз досыць сталы, каб самастойна гуляць з іншымі дзяцьмі маёнтка. Вас асабліва ўразіла тое, як {?CHILD.GENDER}яна{?}ён{\?}..." />
     <string id="6PSgX2BP" text="Дзённы Вандроўнік" />
@@ -629,7 +629,7 @@
     <string id="7ve3bQxg" text="Зброя З Кірмашу" />
     <string id="7VLmHrgC" text="Нябёсы даруюць перамогу праведным![ib:aggressive][if:convo_aggressive]" />
     <string id="7VUNi3zy" text="Пасля завяршэння квэста {QUEST_GIVER.LINK} выплаціць узнагароду, {MEAT_AMOUNT} адзінак мяса." />
-    <string id="7Vw6iYNI" text="{?CHARACTER.GENDER}Яна{?}Ён{\?} памёр пры родах у {YEAR} у ўзросце {CHARACTER.AGE} году. {?CHARACTER.GENDER}Яна мела{?}Ён меў{\?} рэпутацыю {REPUTATION}" />
+    <string id="7Vw6iYNI" text="{?CHARACTER.GENDER}Яна{?}Ён{\?} памёр пры родах у {YEAR} ва ўзросце {CHARACTER.AGE} году. {?CHARACTER.GENDER}Яна мела{?}Ён меў{\?} рэпутацыю: {REPUTATION}" />
     <string id="7vZcwCqA" text="Павялічвае здароўе экіпіяванага шчыта на 30%." />
     <string id="7WlQ0Twr" text="{WEAPON} з {SETTLEMENT} пашкодзіла некалькіх ваяроў {BESIEGER}!" />
     <string id="7xNrHsWx" text="Зніжае на 30% кошт уплыву падчас галасаванні за прапановы, зробленыя іншымі людзьмі." />
@@ -757,7 +757,7 @@
     <string id="9mWxhzDG" text="{?CHILD.GENDER}закупала{?}закупаў{\?} матэрыялы." />
     <string id="9NbAzOER" text="камунікуе з дзелавымі партнёрамі." />
     <string id="9nxTUZkO" text="У нас ёсць праблема. Мінулая зіма была цяжкай для нашых жывёл. Некаторыя памерлі ад хвароб, іншыя былі захоплены ваўкамі. Мы б пайшлі ў горад, каб купіць яшчэ, але, што ж, статкі - спакуслівая цэль для бандытаў, а мы зусім не прыстасаваны для змагання з імі. Мы не можам дазволіць сабе забіваць нават самых старых і слабых жывёл, таму што яны патрэбныя нам, каб цягнуць плуг. Можа вы зможаце нам дапамагчы?" />
-    <string id="9Obe3S6L" text="{LORD.FIRSTNAME} з'яўляецца чальцом {CLAN_NAME}, {CLAN_DESCRIPTION} з земляў {FACTION_NAME}. {?LORD.GENDER}Яна{?}Ён{\?} мае рэпутацыю {REPUTATION}." />
+    <string id="9Obe3S6L" text="{LORD.FIRSTNAME} чалец клана {CLAN_NAME}, {CLAN_DESCRIPTION} з дзяржавы {FACTION_NAME}. {?LORD.GENDER}Яна{?}Ён{\?} мае рэпутацыю: {REPUTATION}." />
     <string id="9pOPaFXb" text="Выдаткі кампаньёнаў і плата за рэкрутаванне зніжаны на 25%." />
     <string id="9QLPm1o6" text="{?CHILD.GENDER}далучылась{?}далучыўся{\?} да пілігрымкі." />
     <string id="9qoLQva5" text="Якую б клятву я ні даў вам, можаце быць упэўнены, што я стрымаю яе." />
@@ -766,7 +766,7 @@
     <string id="9sdTLp49" text="Майстар-рамеснік сочыць за працай ўсякіх нанятых вамі кавалёў, цесляроў ды муляраў. {?PLAYER_CHILD}Вашае{?}{\?} дзіцё далучылася да цяжкай працы і навучылася трываласці і майстэрству." />
     <string id="9sokmYMZ" text="Падмас" />
     <string id="9tLYXGGc" text="{FAILURE_RISK}% рызыка няўдачы" />
-    <string id="9Tq3IAiz" text="{?CHARACTER.GENDER}Яе{?}Яго{\?} пакаралі смерцю ў {YEAR} у ўзросце {CHARACTER.AGE} гадоў. {?CHARACTER.GENDER}Яна мела{?}Ён меў{\?} рэпутацыю {REPUTATION}" />
+    <string id="9Tq3IAiz" text="{?CHARACTER.GENDER}Яе{?}Яго{\?} пакаралі смерцю ў {YEAR} ва ўзросце {CHARACTER.AGE} гадоў. {?CHARACTER.GENDER}Яна мела{?}Ён меў{\?} рэпутацыю: {REPUTATION}" />
     <string id="9u9OEZ9Y" text="Цудоўна. Мае людзі правядуць вашага кампаньёна да сховішча." />
     <string id="9UABeRWO" text="Так. Вось тваё зерне." />
     <string id="9vOZWY25" text="Які ўражальны вынік! Я абавязкова прапушчу гэтыя турніры. Добра, магчыма, праз пэўны час успаміны атуманяцца, і мы зможам працягнуць. Вось апошняя плата. Вельмі заслужаная." />
@@ -2144,7 +2144,7 @@
     <string id="HsZBO3Wt" text=" Гульнявы Аб'ект" />
     <string id="HtHcEv7N" text="\nЗмены Маралі Партыі : {MORALE_CHANGE}" />
     <string id="hU5j7b3e" text="Я ўпэўнены, што вашыя людзі такія ж здольныя, як і вы, і дагледзяць мой караван. Яшчэ раз дзякуй за дапамогу, мой сябар." />
-    <string id="HU5n5KTW" text="{?CHARACTER.GENDER}Яна памёрла{?}Ён памёр{\?} натуральнай смерцю ў {YEAR} ува ўзросце {CHARACTER.AGE} гадоў. {?CHARACTER.GENDER}Яе{?}Яго{\?} рэпутацыя была {REPUTATION}" />
+    <string id="HU5n5KTW" text="{?CHARACTER.GENDER}Яна памёрла{?}Ён памёр{\?} натуральнай смерцю ў {YEAR} ува ўзросце {CHARACTER.AGE} гадоў. {?CHARACTER.GENDER}Яна мала{?}Ён маў{\?} рэпутацыю: {REPUTATION}" />
     <string id="HVHEhXbO" text="Ігнаруйце першы негатыўны кідок на смяротную хваробу." />
     <string id="hVIsGd2y" text="Землеўласніку Патрабуюцца Працаўнікі" />
     <string id="hvQUqRSb" text="{SETTLEMENT} быў захоплены войскам, чальцом якога вы з'яўляецеся. " />
@@ -2427,25 +2427,25 @@
     <string id="JPAGzEhe" text="Вы не змаглі ў час выратаваць людзей {QUEST_GIVER.LINK}. {?QUEST_GIVER.GENDER}Яна{?}Ён{\?} пасылае вам наступны ліст. &quot;Вы сядзелі на свой дупе і нічога не рабілі, і мае людзі заплацяць за гэта. Я гэтага не забуду...&quot;" />
     <string id="jpBpwgAs" text="Селішчы" />
     <string id="JPclWyyr" text="Мая кампаньён разбярэцца з гэтым... Вось, {NUMBER_OF_TROOP_TO_BE_RECRUITED} {TROOP_TYPE} у {SETTLEMENT}." />
+    <string id="jPcULnsk" text="Вашыя майстэрні вяртаюць 5000 залатых, калі горад захоплены ворагам." />
+    <string id="JpiQagYa" text="Дрыль" />
+    <string id="JqaKRXNo" text="Хітрыкі" />
+    <string id="JQKCPllJ" text="Вы выказалі свой пункт погляду." />
+    <string id="JQligd8z" text="Рада {KINGDOM} абрала {KING.NAME} у якасці новага гаспадара." />
+    <string id="jQpeuHIE" text="Мы выступаем супраць складання міру ў гэты час" />
+    <string id="jQsr4vDO" text="Я дагэтуль працую над гэтым." />
+    <string id="jqstr7ZL" text="Навучыцеся распальваць гонар людзей, падсілкоўваць гнеў і рассейваць страх, і яны ператворацца з людзей у львоў, гатовых дзеля вас на ўсё." />
+    <string id="jQWgYr6r" text="У вас ёсць 10% шанец стварыць зброю 'Шэдэўр', калі выкананы патрабаванні складанасці." />
+    <string id="JrT9bBEK" text="{ETHNIC_TERM} {FACTION_LIEGE}" />
+    <string id="JSHVCviV" text="Выкінутыя даспехі можна ахвяраваць ваярам для атрымання дадатковага досведу." />
+    <string id="JSI0FVZ1" text="Вы вырашылі прабачыць вяскоўцам іх адваротныя выплаты. Стараста падзякаваў вас, бо жыхары вёскі ўжо пакутавалі." />
+    <string id="JTfaqKyX" text="Паспрабуйце неўзабаве даставіць гэта." />
+    <string id="jukOfT2Z" text="Вонкавыя падзеі таксама паўплывалі на {CHILD.NAME} у падлеткавым узросце. Вы лічыце, што на {?CHILD.GENDER}яе{?}яго{\?} моцна паўплывала {RANDOM_OUTCOME}. Гэтая падзея павялічыла {?CHILD.GENDER}яе{?}яго{\?} навыкі {SKILL_1} і {SKILL_2}." />
+    <string id="jULnw6F1" text="Пакінуць вёску, сказаўшы жыхарам, што сёлета яны вызвалены ад выплаты." />
+    <string id="JuPUG5wX" text="{LORD.NAME} гэта {TITLE} з дзяржавы {FACTION_NAME} ды глава клана {CLAN_NAME}, {CLAN_DESCRIPTION}, {?LORD.GENDER}якая патрымала{?}які патрымаў{\?} {RULER} у грамадзянскай вайне. {?LORD.GENDER}Яна{?}Ён{\?} мае рэпутацыю: {REPUTATION}" />
 
     <!-- there -->
 
-    <string id="jPcULnsk" text="Your workshops return 5000 gold when town is captured by enemy." />
-    <string id="JpiQagYa" text="Drills" />
-    <string id="JqaKRXNo" text="Craftiness" />
-    <string id="JQKCPllJ" text="You've made your point." />
-    <string id="JQligd8z" text="The council of the {KINGDOM} has chosen {KING.NAME} as the new ruler." />
-    <string id="jQpeuHIE" text="We oppose making peace at this time" />
-    <string id="jQsr4vDO" text="I'm still working on it." />
-    <string id="jqstr7ZL" text="Learn to fire men's pride, stoke their anger and dispel their fears, and they will turn from men into lions who will do anything for you." />
-    <string id="jQWgYr6r" text="You have 10% chance to create a 'Masterwork' weapon, if difficulty requirements are met." />
-    <string id="JrT9bBEK" text="{FACTION_LIEGE}'s {ETHNIC_TERM}" />
-    <string id="JSHVCviV" text="Discarded armors can be donated to troops for increased experience." />
-    <string id="JSI0FVZ1" text="You decided to forgive the villagers' back payments. The headman thanked you, as the villagers were already suffering." />
-    <string id="JTfaqKyX" text="Well, try to bring it soon." />
-    <string id="jukOfT2Z" text="Outside events also intruded on {CHILD.NAME}'s adolescence. You believe {?CHILD.GENDER}she{?}he{\?} was particularly shaped by {RANDOM_OUTCOME}. This event increased {?CHILD.GENDER}her{?}his{\?} skills in {SKILL_1} and {SKILL_2}." />
-    <string id="jULnw6F1" text="Leave the village, telling the villagers that they are exempted from payment this year." />
-    <string id="JuPUG5wX" text="{LORD.NAME} is {TITLE} of the {FACTION_NAME} and head of the {CLAN_NAME}, {CLAN_DESCRIPTION} that is backing {RULER} in the civil war. {?LORD.GENDER}She{?}He{\?} has the reputation of being {REPUTATION}" />
     <string id="JUpZuals" text="Recruiting and upgrading mounted troops are 10% cheaper." />
     <string id="JUSHAPnu" text="You were quick on your feet and attentive to what was going on around you. Usually you could run away from trouble, though you could give a good account of yourself in a fight with other children if cornered." />
     <string id="JuwBb2Yg" text="Disorganized" />
@@ -2713,7 +2713,7 @@
     <string id="LR6Y57Rq" text="Attackers abandoned the siege." />
     <string id="LrDbwars" text="Prisoners in governed town are 50% less likely to escape." />
     <string id="LrXRhmoS" text="Increased morale gain from victories by 20%." />
-    <string id="LsBCQtVX" text="{?CHARACTER.GENDER}She{?}He{\?} died of war-wounds in {YEAR} at the age of {CHARACTER.AGE}. {?CHARACTER.GENDER}She{?}He{\?} was reputed to be {REPUTATION}" />
+    <string id="LsBCQtVX" text="{?CHARACTER.GENDER}Яна памёрла{?}Ён памёр{\?} ад ранаў на вайне ў {YEAR} ва ўзросце {CHARACTER.AGE}. {?CHARACTER.GENDER}Яна мала{?}Ён маў{\?} рэпутацыю: {REPUTATION}" />
     <string id="lsBuV9W7" text="You are waiting in the village." />
     <string id="lsddqaAx" text="did some honest work." />
     <string id="LsDRCPp0" text="Your clan member {MOTHER.NAME} has given birth to {DELIVERED_CHILDREN}." />
@@ -3043,7 +3043,7 @@
     <string id="O4flV28Q" text="There are no prisoners here." />
     <string id="O4iki0FD" text="Ruler gains 5% tax from all settlements\nTowns lose 1 prosperity per day\nThe influence cost of declaring war is doubled for the ruler clan" />
     <string id="o57z0zB9" text="Skewer" />
-    <string id="o5AUljbW" text="{LORD.NAME} is a member of the {CLAN_NAME}, {CLAN_DESCRIPTION} of the {FACTION_NAME}. {?LORD.GENDER}She{?}He{\?} has the reputation of being {REPUTATION}" />
+    <string id="o5AUljbW" text="{LORD.NAME} чалец клана {CLAN_NAME}, {CLAN_DESCRIPTION} з дзяржавы {FACTION_NAME}. {?LORD.GENDER}Яна{?}Ён{\?} мае рэпутацыю: {REPUTATION}" />
     <string id="O5dgeoss" text="Sound Reserves" />
     <string id="O5sBO9sQ" text="Many empires granted their populations citizenship, which usually came with a series of rights. Of course, citizenship could not be granted immediately to conquered provinces until the population showed it was willing to adopt the ways of the empire, including the language, clothes, and religious cults." />
     <string id="o69PZuce" text="{OLD_LEADER.LINK} is no longer the head of the {CLAN_NAME}. {NEW_LEADER.LINK} has taken over as ruler of the clan." />
@@ -3642,7 +3642,7 @@
     <string id="sA2OrT6l" text="Unburdened" />
     <string id="SA4JbVo2" text="Your steward acts as magistrate in the lord's absence. {?PLAYER_CHILD}Your{?}The{\?} child will sit at his side as he rules on land disputes, family feuds, and cases of alleged banditry, giving {?CHILD.GENDER}her{?}him{\?} a look at the darker side of life in Calradia." />
     <string id="sAobCa9U" text="Brigands are disturbing travelers outside the town. Someone needs to hunt them down." />
-    <string id="SausWqM5" text="{?CHARACTER.GENDER}She{?}He{\?} disappeared in {YEAR} at the age of {CHARACTER.AGE}. {?CHARACTER.GENDER}She{?}He{\?} was reputed to be {REPUTATION}" />
+    <string id="SausWqM5" text="{?CHARACTER.GENDER}Яна знікла ў{?}Ён знік у{\?} {YEAR} ва ўзросце {CHARACTER.AGE}. {?CHARACTER.GENDER}Яна мала{?}Ён маў{\?} рэпутацыю: {REPUTATION}" />
     <string id="sb4gg8Ak" text="Freeholders" />
     <string id="Sb6BW3GF" text="Increase max health of other heroes in your party by 10." />
     <string id="sBahcJcl" text="Idle." />
@@ -3702,7 +3702,7 @@
     <string id="SnEjsXsH" text="defeated an enemy." />
     <string id="SngfSCqh" text="10% more damage in simulations when outnumbered." />
     <string id="SNH3PagC" text="Increase the rate of learning new part designs when smelting by 100%." />
-    <string id="SNsAlN4R" text="Masterwork" />
+    <string id="SNsAlN4R" text="Шэдэўр" />
     <string id="snSBfQkV" text="Feats" />
     <string id="SOHgkGKy" text="Your workshops gather trade rumors." />
     <string id="SoTUisL3" text="Deltisos" />
@@ -3878,7 +3878,7 @@
     <string id="tTuaiLS6" text="Meritor" />
     <string id="TtwAoHfw" text="Blade Master" />
     <string id="Tu1Sd2qg" text="Curious Smelter" />
-    <string id="TUDAvcTR" text="{?CHARACTER.GENDER}She{?}He{\?} was assassinated in {YEAR} at the age of {CHARACTER.AGE}. {?CHARACTER.GENDER}She{?}He{\?} was reputed to be {REPUTATION}" />
+    <string id="TUDAvcTR" text="{?CHARACTER.GENDER}Яна была забіта{?}Ён быў забіты {\?} ў {YEAR} ва ўзросце {CHARACTER.AGE}. {?CHARACTER.GENDER}Яна мала{?}Ён маў{\?} рэпутацыю: {REPUTATION}" />
     <string id="TuIyqMWG" text="The artisans and the merchants are at each other's throats right now. I bet {QUEST_GIVER.NAME} is planning something." />
     <string id="tuv1O7ig" text="Salt the Earth" />
     <string id="tVhDLrGY" text="Troops under your command have their interrupt threshold doubled while reloading their crossbows." />
