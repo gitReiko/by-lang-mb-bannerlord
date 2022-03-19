@@ -22,7 +22,7 @@
     <string id="0aU9dtvV" text="Час:" />
     <string id="0AUZvSAq" text="{COMPANY_OF_TROUBLE_PERSUADE_ATTEMPT_1}" />
     <string id="0aXG8dvJ" text="Абвясціць мір з {KINGDOM_NAME}. Даніна не будзе выплачана." />
-    <string id="0B6HlgnN" text="{HERO.FIRSTNAME} Яшчарыца" />
+    <string id="0B6HlgnN" text="{HERO.FIRSTNAME} {?HERO.GENDER}Яшчарка{?}Яшчарыца{\?}" />
     <string id="0B91pZ2R" text="Сталае месца правядзення кірмашоў, у якім гараджане могуць збірацца, танцаваць і гутарыць, павялічваючы штодзённую мараль селішча." />
     <string id="0bPb5btR" text="{LORD.NAME} чалец клана {CLAN_NAME}, {CLAN_DESCRIPTION} з гаспадарства {FACTION_NAME}, {?LORD.GENDER}якая падтрымала{?}які падтрымаў{\?} {RULER} у грамадзянскай вайне. {?LORD.GENDER}Яна{?}Ён{\?} мае рэпутацыю: {REPUTATION}" />
     <string id="0cMibkQO" text="Вы можаце ведаць мяне як чалавека гонару." />
@@ -236,7 +236,7 @@
     <string id="2v0eQ755" text="Прабачце, не цікава." />
     <string id="2vcfifbb" text="Я саступаю" />
     <string id="2VRTPyZY" text="{SETTLEMENT} належыць вам." />
-    <string id="2wixoeOF" text="{HERO.FIRSTNAME} Валасаты" />
+    <string id="2wixoeOF" text="{HERO.FIRSTNAME} {?HERO.GENDER}Валасатая{?}Валасаты{\?}" />
     <string id="2wmKs6Is" text="Як ваш лідар я магу выбраць найлепшы курс дзеянняў." />
     <string id="2WnhUBMM" text="Мой шляхціч, не маглі бы вы даць мне яшчэ адзін шанец праявіць сябе?" />
     <string id="2wwAyZdL" text="\nПрырост Золата Войска : {ARMY_GOLD_GAIN}" />
@@ -299,7 +299,7 @@
     <string id="3pkVKMnA" text="Большасць браканьераў, напэўна, збеглі бы, калі б іх засталі знянацку ўзброеныя людзі. Але гэтыя апынуліся адважнымі ды адчайнымі. Будзьце гатовыя да бою." />
     <string id="3PzgpFGq" text="Нейтральн." />
     <string id="3QeRov0e" text="Напачатку бітвы мараль усіх вашых ваяроў павялічваецца на 5." />
-    <string id="3qjJzjZb" text="{HERO.FIRSTNAME} Жук" />
+    <string id="3qjJzjZb" text="{HERO.FIRSTNAME} {?HERO.GENDER}Жучыха{?}Жук{\?}" />
     <string id="3raSG4Mi" text="{HERO.FIRSTNAME} з Запавету" />
     <string id="3RBVn5yi" text="Зорас" />
     <string id="3SBDbPjD" text="Рады гэта чуць! Бяспечныя падарожжы." />
@@ -307,7 +307,7 @@
     <string id="3skTM1DC" text="Большасць людзей усадзяць вам у спіну нож за некалькі капеек. Майце некалькі сяброў і трымайце іх блізка, я думаю." />
     <string id="3sRdGQou" text="Пакінуць" />
     <string id="3ssQAe1t" text="Рады гэта чуць" />
-    <string id="3TIbxe5d" text="{HERO.FIRSTNAME} Півавар" />
+    <string id="3TIbxe5d" text="{HERO.FIRSTNAME} {?HERO.GENDER}Піваварка{?}Півавар{\?}" />
     <string id="3TmLIou4" text="Жывы" />
     <string id="3UDUqYv1" text="Перавагі Выведніка" />
     <string id="3vFxRKja" text="Вы адмовіліся ад яго прапановы і вырашылі сілай забраць астатнюю выручку. Ваш учынак расхваляваў вясковых зямянаў і раззлаваў жыхароў. Некаторыя вяскоўцы спрабавалі супрацівіцца. У сварцы паранілі {WOUNDED_COUNT} вашых людзей." />
@@ -315,7 +315,7 @@
     <string id="3W67kdtc" text="Гэтая пастанова была падтрыманы радай." />
     <string id="3wb2dCfz" text="Тады ўсё будзе добра, {?PLAYER.GENDER}пані{?}пане{\?}." />
     <string id="3WFgPigk" text="{ISSUE_GIVER.NAME} жадае прадаць вам выкрадзеныя тавары. Цана невысокая з-за дадатковай рызыкі." />
-    <string id="3WYVggyD" text="{HERO.FIRSTNAME} {?COASTAL}Марак{?}Конны гандляр{\?}" />
+    <string id="3WYVggyD" text="{HERO.FIRSTNAME} {?COASTAL}{?HERO.GENDER}Марачка{?}Марак{\?}{?}{?HERO.GENDER}Гандлярка{?}Гандляр{\?} Коньмі{\?}" />
     <string id="3wzCrzEq" text="{HERO.LINK} атрымаў узровень." />
     <string id="3xuwVbfs" text="Трэнер" />
     <string id="3xyd2Dxu" text="Добра. Гэта ратуе нас ад бедаў." />
@@ -369,7 +369,7 @@
     <string id="4pOb934Y" text="{?CHILD.GENDER}зразумела{?}зразумеў{\?}, як здабываецца перамога." />
     <string id="4rCIZ6e5" text="{QUEST_SETTLEMENT} была разрабавана, вашая дамова з {QUEST_GIVER.LINK} скасавана." />
     <string id="4RNREbPW" text="Вам удалося вярнуць усіх ваяроў, якіх {QUEST_GIVER.LINK} даў вам для навучання. {?QUEST_GIVER.GENDER}Яна{?}Ён{\?} адпраўляе вам наступны ліст.{newline}“{?PLAYER.GENDER}Пані{?}Панове{\?}, дзякуй за клопат пра маіх людзей. Вы выканалі нашае пагадненне, і я выяўляю вам сваю падзяку. Прыміце гэтае {GOLD}{GOLD_ICON}.”" />
-    <string id="4RWpqxwE" text="{HERO.FIRSTNAME} Брокер" />
+    <string id="4RWpqxwE" text="{HERO.FIRSTNAME} {?HERO.GENDER}Брокерша{?}Брокер{\?}" />
     <string id="4Sb0d8FY" text="Пачакайце надыход ночы, каб атакаваць" />
     <string id="4ScutTtz" text="Кожная партыя вяскоўцаў, што ўваходзіць ў ваш горад генеруе 30 золата прыбытку" />
     <string id="4t5zOiVF" text="{HERO.FIRSTNAME} са Слупоў" />
@@ -589,7 +589,7 @@
     <string id="7eWmU2mF" text="Ляснічыя" />
     <string id="7fr8QDYi" text="{QUEST_GIVER.LINK} перадае сваю падзяку за выдатна праробленую працу з {REWARD} {GOLD_ICON} абяцаныя {?QUEST_GIVER.GENDER}ёй{?}ім{\?}." />
     <string id="7gZo2SY4" text="Разьбяр" />
-    <string id="7h3wBoIt" text="{HERO.FIRSTNAME} Крывавы" />
+    <string id="7h3wBoIt" text="{HERO.FIRSTNAME} {?HERO.GENDER}Крывавая{?}Крывавы{\?}" />
     <string id="7H4HQNvF" text="Некаторым сем'ям у гэтай вёсцы трэба зарабіць трохі грошай. Яны сабралі статак з {ANIMAL_COUNT_TO_DELIVER} {.%}{?ANIMAL_COUNT_TO_DELIVER &gt; 1}{PLURAL(HERD_TYPE_TO_DELIVER)}{?}{HERD_TYPE_TO_DELIVER}{\?}{.%} для продажу ў {TARGET_SETTLEMENT}, але, улічваючы бандытызм на дарогах, яны не могуць самастойна яго туды адвезці. Мы не гандляры і не землеўласнікі. Мы не можам дапусціць любыя страты." />
     <string id="7h6cXdW7" text="Інжынер" />
     <string id="7Hd5yW7B" text="Дзікая мясцовасць для {?CHILD.GENDER}яе{?}яго{\?} як дом. {?CHILD.GENDER}Яна{?}Ён{\?} рухаецца як {?CHILD.GENDER}котка{?}кот{\?}, і ў яго вельмі вострыя вушы і вочы." />
@@ -875,12 +875,12 @@
     <string id="agMtRiru" text="Адмовіцца ад вызвалення некаго" />
     <string id="aGvLxsub" text="Вы паспяхова даставілі {MOUNT_COUNT} {MOUNT_NAME}{.s} да {QUEST_GIVER.LINK} як і абяцалі. Вы атрымалі {GOLD_REWARD}{GOLD_ICON} дэнараў за свае паслугі." />
     <string id="aHid0t6n" text="Дайце яму шанец, я ўпэўнены, што ён хутка праявіць сябе." />
-    <string id="AhiGlNRG" text="{HERO.FIRSTNAME} {?NORTHERN}Гандляр Футрам{?}Гандляр Пахошчамі{\?}" />
+    <string id="AhiGlNRG" text="{HERO.FIRSTNAME} {?HERO.GENDER}Гандлярка{?}Гандляр{\?} {?NORTHERN}Футрам{?}Пахошчамі{\?}" />
     <string id="aHlcBLYB" text="Прайграйце гэты турнір у 3-м раўндзе" />
     <string id="ahpSGaow" text="Вы чулі, што ваш кампаньён {NOTABLE.LINK}, з якім вы радзяліліся пасля бітвы, зараз знаходзіцца ў гэтым селішчы." />
     <string id="AHtFRv5T" text="Ігнараванне Болю" />
     <string id="AhyaNGD9" text="Змяншае спажыванне ежы партыямі падчас аблогі на 10%." />
-    <string id="aIaRIsw4" text="{HERO.FIRSTNAME} Паршывец" />
+    <string id="aIaRIsw4" text="{HERO.FIRSTNAME} {?HERO.GENDER}Паршыўка{?}Паршывец{\?}" />
     <string id="aiBQo2MR" text="выбух паўстання" />
     <string id="aih1Y62W" text="Вы выратавалі вёску." />
     <string id="aIKVpGvE" text="Знакаміты Лучнік" />
@@ -974,7 +974,7 @@
     <string id="aVzcyhhy" text="Ваш бацька быў бардам, ён дрэйфаваў з залы правадыра ў залу правадыра, зарабляючы на жыццё апяваннем батанійскіх шляхцічаў, насміхаючыся з іх ворагаў. Потым ён ішоў у залу ворага шляхціча і рабіў наадварот. Вы даведаліся ад яго, што разумны язык можа пазбавіць вас ад працы ў поле, калі вы будзеце трымаць яго пры сабе." />
     <string id="avZSXLfw" text="Павялічыць грузападымальнасць клуначных жывёл на 10%." />
     <string id="awaFsZ5l" text="Я заўсёды быў на баку {CURRENT_LIEGE.LINK}. Ці быў я на боку {CURRENT_LIEGE.LINK} гэтае іншае пытанне..." />
-    <string id="awCsv4UM" text="{HERO.FIRSTNAME} Малюсенькі" />
+    <string id="awCsv4UM" text="{HERO.FIRSTNAME} {?HERO.GENDER}Малюсенькая{?}Малюсенькі{\?}" />
     <string id="awoeb3br" text="{FACTION_LEADER} вырашыць ці патрэбна {KINGDOM_CONSIDERING_PEACE_NAME} абвясціць мір з {KINGDOM_NAME}. Вы можаце абраць сваю пазіцыю па гэтым пытанні. " />
     <string id="awog3kRm" text="Адзначце кошты на прадмет адносна сярэдніх коштаў." />
     <string id="AWuEV99O" text="{?CHILD.GENDER}вызваліла{?}вызваліў{\?} свой баявы дух." />
@@ -1067,7 +1067,7 @@
     <string id="bbXFwya1" text="Нічога не прыходзіць на розум. Але калі вы не жадаеце гэтага рабіць, вы можаце прызначыць каго-небудзь са сваёй партыі. Аднак гэта будзе не проста. Каго бы вы не прызначылі, ён павінен быць добрым лідарам і добра разбірацца ў тактыцы, а таксама ўзяць з сабой не меней {ALTERNATIVE_SOLUTION_NEEDED_MAN_COUNT} ваяроў. Я гатоў заплаціць {REWARD} {GOLD_ICON} за вашыя паслугі. А калі справа дойдзе да бітвы, вы можаце забраць усё нарабаванае ў якасці вайсковай здабычы." />
     <string id="BC1vxpPb" text="Усе ваяры ў вашай партыі атрымліваюць дадаткова 1 досвед у дзень." />
     <string id="bC2jevlu" text="Кліент незадаволены." />
-    <string id="BC4BC0ZC" text="{HERO.FIRSTNAME} Гандляр Спецыямі" />
+    <string id="BC4BC0ZC" text="{HERO.FIRSTNAME} {?HERO.GENDER}Гандлярка{?}Гандляр{\?} Спецыямі" />
     <string id="bC5aMfG0" text="Вяскоўцы" />
     <string id="bcA7ZuyO" text="Перавышана Мяжа Навучання" />
     <string id="bcGzpFSg" text="Вы ўпэўнены ў тым, што бачылі вашыя паляўнічыя? Мае людзі пачынаюць нецярплівіцца." />
@@ -1214,7 +1214,7 @@
     <string id="bSguu34C" text="Выслухаўшы гарадскіх гандляроў, вы вырашылі дазволіць гандлярам працягваць стрымліваць кошты." />
     <string id="BSLbbQ7j" text="Вы можаце наблізіць на 25% болей з дапамогай кідальнай зброяй." />
     <string id="bSo9hKwr" text="{PERSUASION_OPTION_LINE} {SUCCESS_CHANCE}" />
-    <string id="Bsp30p3g" text="{HERO.FIRSTNAME} Бондар" />
+    <string id="Bsp30p3g" text="{HERO.FIRSTNAME} {?HERO.GENDER}Бондарка{?}Бондар{\?}" />
     <string id="BsVXQEhj" text="Чым я магу табе дапамагчы?" />
     <string id="bT279pk9" text="Панятку не маю, пра што ты кажаш. Ідзі сваёй дарогай, сябар." />
     <string id="bT765EqK" text="Гаспадарства дазваляе гаспадару сталы час трымаць сілы наймітаў, і дае ім афіцыйны статус." />
@@ -1324,7 +1324,7 @@
     <string id="ch6zCk2w" text="Вы ведаеце мяне як чалавека, які імкнецца пазбегнуць кровапраліцця." />
     <string id="character_creation_content_16" text="У дзяцінстве вас адзначылі за..." />
     <string id="cHgLxbbc" text="Перадбаявыя манеўры" />
-    <string id="chiIHo4b" text="{HERO.FIRSTNAME} Паршывы" />
+    <string id="chiIHo4b" text="{HERO.FIRSTNAME} {?HERO.GENDER}Паршывая{?}Паршывы{\?}" />
     <string id="ChsBdNW8" text="Вы павінны ведаць штосьці пра цёмнае падбрушша гэтага рэгіёна. Бандыты і таму падобнае..." />
     <string id="Ci8NCwgW" text="{ISSUE_GIVER.LINK} землеўласнік з {SETTLEMENT}, {?QUEST_GIVER.GENDER}папрасіла{?}папрасіў{\?} вас абучыць рэкрутаў для {?QUEST_GIVER.GENDER}яе{?}яго{\?}. {?QUEST_GIVER.GENDER}Яна дала{?}Ён даў{\?} вам 10 чалавек, спадзеючыся забраць іх назад, калі яны стануць ветэранамі.{newline}Вы паслалі іх з адным вашым кампаньёнам, {COMPANION.LINK}, для высочвання некалькіх лёгкіх цэляў. Вы дамовіліся сустрэцца з імі праз {RETURN_DAYS} дзён." />
     <string id="ciELES5v" text="Хуткі Ўдар" />
@@ -1354,7 +1354,7 @@
     <string id="cOS8cdib" text="Манганэлі і трэбушэты пры аблогавым бамбаванні перазараджваюцца на 25% хутчэй." />
     <string id="cOyolp4F" text="Я проста не... Як я магу гэта сказаць? Ты мяне не прывабліваеш." />
     <string id="Cp7dI87a" text="Авангард" />
-    <string id="CpafrIbY" text="{HERO.FIRSTNAME} Млынар" />
+    <string id="CpafrIbY" text="{HERO.FIRSTNAME} {?HERO.GENDER}Млынарыха{?}Млынар{\?}" />
     <string id="CPBYZtAK" text="Страты людзей пры пранікненні і выбегу з абложанага селішча зніжаны на 25%." />
     <string id="CpcWqufH" text="{?CHILD.GENDER}Маладая жанчына была пастаўлена{?}Малады мужчына быў пастаўлены{\?} на чале невялікай групы рушэння. У якім былі чальцы амаль удвая старэйшыя за {?CHILD.GENDER}яе, і яна заслужыла{?}яго, і ён заслужыў{\?} іхнюю павагу." />
     <string id="cpg0oHZJ" text="Зман смерці" />
@@ -1995,7 +1995,7 @@
     <string id="grgnisK4" text="Агонь у Адказ" />
     <string id="gS1noLvf" text="Я не ведаю, як гэта лічыць: чароўным або дзёрзкім..." />
     <string id="gsmmoKNd" text="{ENEMY_KINGDOM_INFORMAL_NAME} паглыне ўсю Кальрадыю, калі мы яе не спынім." />
-    <string id="gSmXyxue" text="{HERO.FIRSTNAME} Дубільнік" />
+    <string id="gSmXyxue" text="{HERO.FIRSTNAME} {?HERO.GENDER}Дубільніца{?}Дубільнік{\?}" />
     <string id="GsPC2MgU" text="Ваш бацька быў адным з рабоў-целаахоўнікаў, якіх утрымлівалі эміры Эсерай. Ён ваяваў на боку свайго майстра ў складзе браняванай конніцы племя, і быў вызвалены, магчыма за гераічны ўчынак, а магчыма, ён заплаціў за волю сваёй доляй баявых трафеяў. Потым ён жаніўся на вашай матцы." />
     <string id="gsVtO9A7" text="Рушэнне" />
     <string id="gsz9DMNq" text="Празорца Вады" />
