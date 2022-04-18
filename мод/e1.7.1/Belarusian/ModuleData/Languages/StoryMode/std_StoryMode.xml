@@ -4,18 +4,18 @@
     <tag language="Беларуская" />
   </tags>
   <strings>
-    <string id="01Y1DAqA" text="{MENTOR.LINK} has sent you a message: As you may know, I receive reports from my spies in marketplaces around here. There is a merchant who I have been following - I know he is connected with {OTHER_MENTOR.LINK}. Now, I hear he has bought up a large supply of weapons and armor in {QUEST_FROM_SETTLEMENT_NAME}, and plans to travel to {QUEST_TO_SETTLEMENT_NAME}. From there it will move onward. I expect that {OTHER_MENTOR.LINK} is arming his/her allies in the gangs in that area.If it delivers its load, then I expect we will soon find our friends stabbed to death in the streets by hired thugs, our friends too frightened to acknowledge us. I need you to track it and destroy it. Try to intercept it on the first leg of its journey, before it get to {QUEST_TO_SETTLEMENT_NAME}. If you fail, find out the next town to which it is going.It may take some time to find it, and when you do, it will be well-guarded.But I trust in your perseverance, your skill and your understanding of how important this is. Good hunting." />
-    <string id="09z8Q08f" text="Your family were small farmers with just enough land to feed themselves and make a small profit. People like them were the pillars of the imperial rural economy, as well as the backbone of the levy." />
-    <string id="0I9siaQY" text="Bastards... You're the kin of my captives, right? I saw {RADAGOS.LINK} with you. You know he can't be trusted?[if:idle_angry][ib:warrior]" />
-    <string id="0IeByuam" text="It was a victory, of the kind that is almost as bad as a defeat." />
-    <string id="0P4HqZiB" text="Is that true?[sp:/Sounds/VO/mainquest/mntemp_q01_02.ogg]" />
-    <string id="0pilmavQ" text="How can I create my own kingdom?" />
-    <string id="0Suu1Q9q" text="Your father was a bailiff for a local feudal magnate. He looked after his liege's estates, resolved disputes in the village, and helped train the village levy. He rode with the lord's cavalry, fighting as an armored knight." />
-    <string id="0wQlpbtL" text="In order for the Empire to go into its final decline, there should be fewer than {NUMBER} imperial-owned settlements. If this happens, another kingdom can become the dominant power in Calradia." />
-    <string id="0yxEvgGf" text="It was a disaster for him - he died in it - but the victors didn't fare much better." />
-    <string id="1CLNFbzR" text="Good. Then I will tell you what I know. I heard about one other piece." />
-    <string id="1EkEElZd" text="Urban troops spend much of their time guarding the town walls. Most of their training was in missile." />
-    <string id="1GgTNRNl" text="You can make your own claim to the rulership of the Empire and try to win the civil war, or support an existing claimant..." />
+    <string id="01Y1DAqA" text="{MENTOR.LINK} {?MENTOR.GENDER}адправіла{?}адправіў{\?} вам паведамленне: Як вы, магчыма, ведаеце, я атрымліваю справаздачы ад сваіх шпіёнаў на тутэйшых кірмашах. Ёсць адзін гандляр, за якім я сачу. Я ведаю, што ён звязаны з {OTHER_MENTOR.LINK}. Нядаўна я чуў, што ён скупіў вялікі запас зброі і даспехаў у {QUEST_FROM_SETTLEMENT_NAME}, і плануе адправіцца ў {QUEST_TO_SETTLEMENT_NAME}. Адтуль ён будзе рухацца далей. Я лічу, што {OTHER_MENTOR.LINK} узбройвае сваіх хаўруснікаў у бандах у гэтым раёне. Калі ён зможа ажыцявіць гэтую дастаўку, то я чакаю, што неўзабаве мы знойдзем нашых сяброў, або зарэзанымі на вуліцах наёмнымі бандытамі, або занадта напалоханымі, каб прызнаць нас. Мне трэба, каб вы высачылі і забілі яго. Паспрабуйце перахапіць яго на першым этапе шляху, перш чым ён даедзе да {QUEST_TO_SETTLEMENT_NAME}. У выпадку няшчасця даведайцеся пра наступны горад, у які ён накіроўваецца. Магчыма, запатрабуецца пэўны час, каб знайсці яго. І памятайце ён будзе добра ахоўвацца. Але я веру ў вашую настойлівасць, майстэрства і разуменне таго, наколькі гэта важна. Удалага палявання." />
+    <string id="09z8Q08f" text="Вашая сям'я была дробным земляробамі з дастатковай колькасцю зямлі, каб прахарчаваць сябе і атрымаць невялікі прыбытак. Такія людзі, як яны, былі апорай імперскай сельскай эканомікі, а таксама грунтам збораў." />
+    <string id="0I9siaQY" text="Вырадкі... Вы сваякі маіх палонных, слушна? Я гляджу {RADAGOS.LINK} з табой. Ты ведаеш, што яму нельга давяраць?[if:idle_angry][ib:warrior]" />
+    <string id="0IeByuam" text="Гэта была перамога, якая амаль гэтак жа кепская, як параза." />
+    <string id="0P4HqZiB" text="Гэта праўда?[sp:/Sounds/VO/mainquest/mntemp_q01_02.ogg]" />
+    <string id="0pilmavQ" text="Як я магу стварыць сваё ўласнае гаспадарства?" />
+    <string id="0Suu1Q9q" text="Вашы бацька быў судовым прыставам у мясцовага феадальнага магната. Ён наглядаў за маёнткамі свайго шляхціча, вырашаў спрэчкі ў вёсцы і дапамагаў падрыхтоўваць вясковае рушэнне. Ён ездзіў у кавалерыі шляхціча, ваюючы як закуты ў браню рыцар." />
+    <string id="0wQlpbtL" text="Для таго каб Імперыя канчаткова прыйшла ў заняпад, у ёй павінна застацца меней {NUMBER} селішчаў з культурай Імперыі. Калі гэта адбудзецца, іншае гаспадарства можа стаць дамінантнаю сілаю ў Кальрадыі." />
+    <string id="0yxEvgGf" text="Для яго гэта была катастрофа, ён загінуў у ёй, але ў пераможцаў справы ішлі не нашмат лепей." />
+    <string id="1CLNFbzR" text="Добра. Тады я раскажу вам тое, што ведаю. Я чуў пра яшчэ адну частку." />
+    <string id="1EkEElZd" text="Гарадскія ваяры праводзяць большую частку свайго часу, ахоўваючы гарадскія сцены. Галоўным чынам яны трэнеруюцца страляць і кідаць." />
+    <string id="1GgTNRNl" text="Вы можаце высунуць уласныя прэтэнзіі на кіраванне Імперыяй і паспрабаваць перамагчы ў грамадзянскай вайне або падтрымаць ужо існага прэтэндэнта..." />
     <string id="1IEroJKs" text="Not everyone who musters for the levy marches to war, and not everyone who goes on campaign sees action. You did both, and you also took down an enemy warrior in direct one-to-one combat, in the full view of your comrades." />
     <string id="1LrHV647" text="Conspiracy Strength" />
     <string id="1r0tDsrR" text="Attack!" />
