@@ -24,7 +24,7 @@
     <string id="0aXG8dvJ" text="Абвясціць мір з {KINGDOM_NAME}. Даніна не будзе выплачана." />
     <string id="0B6HlgnN" text="{HERO.FIRSTNAME} {?HERO.GENDER}Яшчарка{?}Яшчарыца{\?}" />
     <string id="0B91pZ2R" text="Сталае месца правядзення кірмашоў, у якім гараджане могуць збірацца, танцаваць і гутарыць, павялічваючы штодзённую мараль селішча." />
-    <string id="0bPb5btR" text="{LORD.NAME} чалец клана {CLAN_NAME}, {CLAN_DESCRIPTION} з гаспадарства {FACTION_NAME}, {?LORD.GENDER}якая падтрымала{?}які падтрымаў{\?} {RULER} у грамадзянскай вайне. {?LORD.GENDER}Яна{?}Ён{\?} мае рэпутацыю: {REPUTATION}" />
+    <string id="0bPb5btR" text="{LORD.NAME} чалец клана {CLAN_NAME}, {CLAN_DESCRIPTION} з гаспадарства {FACTION_NAME}, якая падтрымала {RULER} у грамадзянскай вайне. {?LORD.GENDER}Яна{?}Ён{\?} мае рэпутацыю: {REPUTATION}" />
     <string id="0cMibkQO" text="Вы можаце ведаць мяне як чалавека гонару." />
     <string id="0D1ty8JA" text="Каардынацыя" />
     <string id="0dbwEczK" text="Штраф да коннай шкоды зброі: {a0} %" />
@@ -427,7 +427,7 @@
     <string id="5JaGVr0U" text="Падарожнічаючы па невысокай градзе ўзгоркаў, вы бачыце ў яры ручая рэшткі намётаў." />
     <string id="5JTEvvaO" text="{EXP_VALUE} {?IS_PLURAL_SKILL}узроўняў{?}узровень{\?} навыку і {FOCUS_VALUE} {?IS_PLURAL_FOCUS}балаў{?}бал{\?} фокуса да {SKILL_ONE} і {SKILL_TWO}{NEWLINE}{ATTR_VALUE} {?IS_PLURAL_ATR}балаў{?}бал{\?} атрыбутаў да {ATTR_NAME}{TRAIT_DESC}{RENOWN_DESC}{GOLD_DESC}" />
     <string id="5k4dxUEJ" text="Ваяры" />
-    <string id="5kbeAC7k" text="У разарванай вайной Кальрадыі, асабліва ў памежных абласцях і ў плямёнах, некаторыя жанчыны, ды мужчыны, вучацца ваяваць з ранняга ўзросту. Вы..." />
+    <string id="5kbeAC7k" text="У разбуранай вайною Кальрадыі, асабліва ў памежных ці пляменных рэгіёнах, некаторыя жанчыны і мужчыны вучацца ваяваць з ранняга веку. Вы..." />
     <string id="5kxDhBWk" text="Вашы выведнікі вярнуліся з {SETTLEMENT}. Згодна іх справаздачы ў гарнізоне {SETTLEMENT} ёсць {GARRISON_SIZE} чалавек. Сцены не досыць высокія, але могуць быць карысныя пры дастатковай падтрымцы гарнізона." />
     <string id="5ky3voFY" text="Вы адмовіліся перадаваць прыбытак {QUEST_GIVER.LINK}. {?QUEST_GIVER.GENDER}Шляхцянка глыбока расчаравана{?}Шляхціч глыбока расчараваны{\?} у вас." />
     <string id="5L0wDGhR" text="{AGGRESSOR_RULER.NAME} з {AGGRESSOR_KINGDOM} вырашыў не ваяваць з {KINGDOM}. Меркаванне {?AGGRESSOR_RULER.GENDER}яе{?}яго{\?} рады падзялілася." />
@@ -486,11 +486,11 @@
     <string id="6ba4n9n6" text="Чакаем добрых навін ад вас {?PLAYER.GENDER}мая шляхцянка{?}спадар{\?}." />
     <string id="6bQIRaIl" text="Глядзець Турнір" />
     <string id="6bt9jYai" text="Я ўсё яшчэ шукаю запытаны вамі {MOUNT_TYPE}." />
-    <string id="6bUSbsKC" text="Ваш бацька працаваў на фіціві, аднаго з уладароў, якія сочаць за парадкам у бедных кварталах гарадоў-аазісаў. Ён развязваў спрэчкі пра зямлю, гульні ў костцы і абразы, навязваючы сваю ўладу традыцыйнаму кантынгенту фіціві." />
+    <string id="6bUSbsKC" text="Вашы бацька працаваў на фіціве аднаго валадара, які падтрымліваў парадак у бедных кварталах гарадоў-аазісаў. Ён развязваў спрэчкі аб зямлі, костках і абразах, навязваю сваю ўладу з дапамогай традыцыйных супрацоўнікаў фіціві." />
     <string id="6bvJSIqh" text="Так. Я знайду новага шляхціча, каб кінуць яму выклік." />
     <string id="6bVZbvFJ" text="Партыя можа несці на 30% болей вагі." />
     <string id="6d2VIgH3" text="{QUEST_GIVER.LINK}: Дзякуй. Мае шляхцічы бачаць у вас прыклад, а вашая заваёва {TARGET_SETTLEMENT} - гэта прыступка да далейшых перамог. {?QUEST_GIVER.GENDER}Яна ўдзячная{?}Ён удзячны{\?} вам за службу і дае вам {REWARD} {GOLD_ICON}." />
-    <string id="6d4ZTvGv" text="{LORD.NAME} гэта {TITLE} з гаспадарства {FACTION_NAME} ды глава клана {CLAN_NAME}, {CLAN_DESCRIPTION} з гаспадарства. {?LORD.GENDER}Яна{?}Ён{\?} мае рэпутацыю: {REPUTATION}" />
+    <string id="6d4ZTvGv" text="{LORD.NAME} гэта {TITLE} гаспадарства {FACTION_NAME} ды глава клана {CLAN_NAME}, {CLAN_DESCRIPTION}. {?LORD.GENDER}Яна{?}Ён{\?} мае рэпутацыю: {REPUTATION}" />
     <string id="6d755ZJ5" text="Выдаткі на партыю меней на 5%." />
     <string id="6DQjKwt2" text="Кошт уплыву на прапанову анексіі селішча зніжаны на 50% для клана гаспадара." />
     <string id="6duYOjy7" text="Меню Абрання." />
@@ -1021,7 +1021,7 @@
     <string id="B3WyJjBx" text="{QUEST_GIVER.LINK}, верхавод банды з {SETTLEMENT}, жадае, каб вы дасталі для {?QUEST_GIVER.GENDER}яе{?}яго{\?} зброю. {?QUEST_GIVER.GENDER}Яна сказала{?}Ён сказаў{\?} вам набыць {NEEDED_AMOUNT} адзінак {NEEDED_TYPE} і даставіць іх у {SETTLEMENT}, дзе людзі {QUEST_GIVER.LINK} будуць чакаць вас. {?QUEST_GIVER.GENDER}Яна абяцала{?}Ён абяцаў{\?} заплаціць вам {REWARD_GOLD}{GOLD_ICON} за вашыя турботы." />
     <string id="b47HTdFK" text="Ваяры ў вашай пабудове атрымліваюць 1% шкоды супраць ўсякіх ваяроў." />
     <string id="b4BX9Fr5" text="Кіраваныя селішчы атрымліваюць 0.5 рушэння ў дзень." />
-    <string id="b4lDDcli" text="вашую сям'ю" />
+    <string id="b4lDDcli" text="Сям'я" />
     <string id="b4TeiuoJ" text="Агульнапрынята падчас вайны збіраць надзвычайныя падаткі." />
     <string id="b5InObbq" text="Вы прынялі прапанову старасты. Вясковыя зямяне і жыхары былі задаволены вашым вырашэннем і падарылі вам {PRODUCT_COUNT} {.%}{?(PRODUCT_COUNT &gt; 1)}{PLURAL(PRODUCT)}{?}{PRODUCT}{\?}{.%}." />
     <string id="b5Ucatkb" text="Раскажы мне пра свае падарожжы. Якія навіны на кірмашах?" />
@@ -1104,7 +1104,7 @@
     <string id="bGyrPe8c" text="Вытворчасць" />
     <string id="BH17ZNSe" text="Я не думаю, што ў нас паўстане болей праблемы з {TARGET_SETTLEMENT}, дзякуй вашым людзям. Калі ласка, перадайце ім нашую падзяку, {?PLAYER.GENDER}пані{?}пане{\?}." />
     <string id="bHbR5Mgy" text="Лосіс" />
-    <string id="bhdkegZ4" text="Ва ўсіх гарадоў ёсць свая доля праектаў, якія ўвесь час маюць патрэбу як у кваліфікаваных, гэтак і ў некваліфікаваных працоўных. Вы даведаліся, як будуюцца падымачы і лясы, як абчэсваюцца і ўкладаюцца дошкі і камяні, а таксама іншыя навыкі." />
+    <string id="bhdkegZ4" text="Ува ўсіх гарадоў ёсць свая доля праектаў, якія ўвесь час маюць патрэбу як у кваліфікаваных, гэтак і ў некваліфікаваных працоўных. Вы даведаліся, як будуюцца падымачы і лясы, як абчэсваюцца і ўкладаюцца дошкі і камяні, а таксама іншыя навыкі." />
     <string id="BhDWm78v" text="{VICTIM.NAME} {?VICTIM.GENDER}памёрла ў{?}памёр у{\?} баі." />
     <string id="bhE2i6OU" text="служыў конюхам барона." />
     <string id="bHf8aMtt" text="The {ENEMY_KINGDOM_INFORMAL_NAME} дзеялі агрэсіўна. Мы павінны падаць ім урок." />
@@ -2134,7 +2134,7 @@
     <string id="HqxV96aL" text="Бесклапотны" />
     <string id="HqzVBfpl" text="гарадскіх гандляроў" />
     <string id="hR6Zo6pD" text="Алігархія" />
-    <string id="hrhvEWP8" text="{PLAYER_MOTHER.NAME} была маткаю {PLAYER.LINK}. Яна была забіта, калі рэйдары напалі на карчму, у якой спынілася яе сям'я." />
+    <string id="hrhvEWP8" text="{PLAYER_MOTHER.NAME} - маці {PLAYER.LINK}. Яна была забіта падчас нападу налётчыкаў на карчму, у якой спынілася яе сям'я." />
     <string id="hrlBxgzs" text="{?CHILD.GENDER}цешылася{?}цешыўся{\?} прыемнасцямі палявання." />
     <string id="hrn1Cdwo" text="Ёсць яшчэ сёе-тое, што мне трэба, каб вы зрабілі." />
     <string id="HRwb3qJZ" text="Вельмі добра. Але кожны дзень, пакуль ён на волі, шырачы смуту. Ён робіць сітуацыю небяспечнейшай для ўсіх нас." />
@@ -2330,7 +2330,7 @@
     <string id="j5OqFCa6" text="Пасля пакутлівых дзён, праведзеных у палоне, раптам адзін з вашых захопнікаў падыходзіць да вас з прапановай;
     
     After painful days of being dragged about as a prisoner, suddenly one of your captors comes near you with an offer; ён прапануе вызваліць вас у памен на {MONEY_AMOUNT}{GOLD_ICON} вашага ўтоенага багацця. Вы вырашаеце..." />
-    <string id="j6py5Rv5" text="Вашыя бацькі былі лекарамі, збіралі травы і лячылі хворых. Будучы жывымі захоўнікам батанійскіх традыцый, іх таксама прасілі развязваць шматлікія спрэчкі паміж кланамі. " />
+    <string id="j6py5Rv5" text="Вашыя бацькі былі лекарамі, збіралі травы і лячылі хворых. Будучы жывымі захоўнікам батанійскіх традыцый, іх таксама прасілі развязваць шматлікія спрэчкі паміж кланамі." />
     <string id="j7bZRFxc" text="Вярнуцца ў {SETTLEMENT}." />
     <string id="J7oh7Vin" text="Дрывакол" />
     <string id="J80YXzR2" text="захапляецца загадкамі." />
@@ -2442,9 +2442,9 @@
     <string id="JTfaqKyX" text="Паспрабуйце неўзабаве даставіць гэта." />
     <string id="jukOfT2Z" text="Вонкавыя падзеі таксама паўплывалі на {CHILD.NAME} у падлеткавым узросце. Вы лічыце, што на {?CHILD.GENDER}яе{?}яго{\?} моцна паўплывала {RANDOM_OUTCOME}. Гэтая падзея павялічыла {?CHILD.GENDER}яе{?}яго{\?} навыкі {SKILL_1} і {SKILL_2}." />
     <string id="jULnw6F1" text="Пакінуць вёску, сказаўшы жыхарам, што сёлета яны вызвалены ад выплаты." />
-    <string id="JuPUG5wX" text="{LORD.NAME} гэта {TITLE} з гаспадарства {FACTION_NAME} ды глава клана {CLAN_NAME}, {CLAN_DESCRIPTION}, {?LORD.GENDER}якая патрымала{?}які патрымаў{\?} {RULER} у грамадзянскай вайне. {?LORD.GENDER}Яна{?}Ён{\?} мае рэпутацыю: {REPUTATION}" />
+    <string id="JuPUG5wX" text="{LORD.NAME} гэта {TITLE} гаспадарства {FACTION_NAME} ды глава клана {CLAN_NAME}, {CLAN_DESCRIPTION}, якая патрымала {RULER} у грамадзянскай вайне. {?LORD.GENDER}Яна{?}Ён{\?} мае рэпутацыю: {REPUTATION}" />
     <string id="JUpZuals" text="Рэкрутаванне і паляпшэнне вершнікаў на 10% таннейшае." />
-    <string id="JUSHAPnu" text="Вы былі хуткія на ногі і пільныя да таго, што адбывалася вакол вас. Звычайна вы маглі ўцячы ад непрыемнасцяў, хаця маглі добра праявіць сябе ў бойцы з іншымі дзецьмі, калі вас загналі ў вугал. " />
+    <string id="JUSHAPnu" text="Вы былі хуткім на ногі і пільным да таго, што адбывалася вакол вас. Звычайна ўцякалі ад непрыемнасцяў негледзячы на тое, што маглі добра праявіць сябе ў бойцы з іншымі дзецьмі, калі вас заганялі ў вугал." />
     <string id="JuwBb2Yg" text="Дэзарганізаваны" />
     <string id="Jvf6K7TZ" text="Вы з сям'і бедных мігрантаў, якія жылі ў трушчобах, што раслі за сценамі імперскіх гарадоў. Сям'я зарабляла пэўныя грошы на разнастайных працах. Часам яны працавалі на адну са шматлікіх злачынных бандаў Імперыі, таму вы рана пазнаёміліся з цёмным бокам жыцця." />
     <string id="jWavM9AD" text="Вы пабывалі ўсюды ў свеце, і ведаеце, што найміты не святыя." />
@@ -2643,7 +2643,7 @@
     <string id="lbHswWdb" text="Паляванне - гэта ўсведамленне свайго атачэння і высочванне здабычы. Вы адчувалі, што гэтыя навыкі саслужаць добрую службу шляхцічу ў падарожжах па дзікай прыродзе." />
     <string id="lbRMmZym" text="здаровае дзіцё" />
     <string id="lbrOAvKj" text="Далёкасць выяўлення: +{a0} %" />
-    <string id="Lbs2bNlg" text="Гаспадарства {KINGDOM} пачне выкарыстоўваць {POLICY_DESCRIPTION} ({POLICY}). {POLICY_SUPPORT}" />
+    <string id="Lbs2bNlg" text="Гаспадарства {KINGDOM} пачне ужываць палітыку '{POLICY}' ({POLICY_DESCRIPTION}). {POLICY_SUPPORT}" />
     <string id="LbTETjZu" text="Я жадаю, каб вы знішчылі іх. Ідзіце ў {VILLAGE} і дайце ім урок, якога яны не забудуцца." />
     <string id="lc0YIqby" text="Арганізаваць уцёкі з вязніцы" />
     <string id="LC2F84GR" text="Ніводнае цэлевое селішча не знаходзіцца пад кантролем ворага. Войска камандзіра скасавала гэтую місію." />
@@ -3310,7 +3310,7 @@
     <string id="q4wWEbsa" text="Вы не даставілі прадметаў пасля таго, як уведалі погляд {COUNTER_OFFER_HERO.LINK}." />
     <string id="Q51nMDju" text="Фінансаванне гарадскіх праектаў на 20% больш эфектыўнае." />
     <string id="q5q13YYt" text="Нейкія чуткі пра кірмашы, караваны і падобнае." />
-    <string id="Q8VN9UCq" text="Абярыце палонных для выкупу" />
+    <string id="Q8VN9UCq" text="Абраць палонных на продаж" />
     <string id="Q9RXyDBz" text="{HERO.NAME} павінен выкарыстаць {INFLUENCE_AMOUNT} уплыву для пераканання {MERCIFUL_LORD_COUNT} літасцівых шляхцічаў у гэтым дзеянні. {NEWLINE}" />
     <string id="qa4FlTWS" text="{RULER.NAME} з гаспадарства {KINGDOM} забірае {SETTLEMENT} у якасці феода супраць волі сваёй рады." />
     <string id="qAbMagWq" text="прадавалі прадукты на кірмашы." />
@@ -3502,7 +3502,7 @@
     <string id="redwEIlW" text="Кватэрмайстар" />
     <string id="REFJzAAt" text="Страты падчас аблогавага бамбавання маюць 50% шанец быць раненнямі, а не смярцямі." />
     <string id="retWZcQ0" text="Вашыя атакі арбалетам ігнаруюць 10% брані ворага." />
-    <string id="REWGj2ge" text="новы паўстаючы клан" />
+    <string id="REWGj2ge" text="новы шматспадзеўны клан" />
     <string id="rFbAjSWM" text="Гарыгаўс" />
     <string id="rFESkhK0" text="{HERO.FIRSTNAME} {?HERO.GENDER}Лустарэзка{?}Лустарэз{\?}" />
     <string id="RFH1lDMj" text="Лік Абрабаваных Вёсак" />
@@ -4445,7 +4445,7 @@
     <string id="xMpCWjg0" text="Удары шчытом зараз наносяць на 50% болей шкоды і даўжэй аглушаюць ворагаў." />
     <string id="XMTD2clw" text="Роў" />
     <string id="Xmtlrrmf" text="Дзякуй. Не забудзьцеся папярэдзіць сваіх людзей. Гэтыя браканьеры - не звычайныя бандыты. Фартуны." />
-    <string id="XmvaRfLM" text="{PLAYER_FATHER.NAME} быў бацькам {PLAYER.LINK}. Ён быў забіты падчас нападу рэйдараў на карчму, у якой спынілася сям'я." />
+    <string id="XmvaRfLM" text="{PLAYER_FATHER.NAME} быў бацькам {PLAYER.LINK}. Ён быў забіты падчас нападу рэйдараў на карчму, у якой спынілася яго сям'я." />
     <string id="XN7BX0qP" text="Макс складанасць выкарыстання лука: {a0}" />
     <string id="xnDWqYKW" text="Паляўнічы" />
     <string id="XNsTQlgr" text="Ваяры ў вашых пабудовах атрымліваюць +20 да навыку кідальнай зброі." />
@@ -4505,7 +4505,7 @@
     <string id="XzbpZji3" text="Павялічвае вашую шкоду лука на 8%." />
     <string id="XZFQ1Jf6" text="Пайсці ў замак" />
     <string id="XzFSWBMG" text="Заробак і кошт паляпшэння ваяроў-наймітаў зніжаны на 25%." />
-    <string id="xZIBKK0v" text="Выкупіць вашых палонных ({RANSOM_AMOUNT}{GOLD_ICON})" />
+    <string id="xZIBKK0v" text="Прадаць вашых палонных ({RANSOM_AMOUNT}{GOLD_ICON})" />
     <string id="XzK4niIb" text="Хутка я знайду працадаўцу." />
     <string id="XZOtTuxA" text="Абяцанні" />
     <string id="xzq78nVm" text="Як {?IS_FEMALE}гаспадарыня{?}гаспадар{\?} вы павінны вырашыць, хто будзе ўласнікам {SETTLEMENT_NAME}." />
