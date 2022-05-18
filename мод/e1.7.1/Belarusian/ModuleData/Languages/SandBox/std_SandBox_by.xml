@@ -4,42 +4,45 @@
     <tag language="Беларуская" />
   </tags>
   <strings>
-    <string id="04gFKwY1" text="Well, if you see anyone like that, let me know." />
-    <string id="0dlDkkJV" text="You have failed to find the spy. {QUEST_GIVER.LINK} is disappointed." />
-    <string id="0eAc6WQk" text="I would like to enter {FACTION_SERVICE_TERM}." />
-    <string id="0enbhess" text="Thank you. I'm sure your guys are worth their salt.." />
-    <string id="0fp67gxl" text="Have a good day." />
-    <string id="0geP718k" text="Well... I don't know what to say. Goodbye, then." />
-    <string id="0hXofVLx" text="Don't worry I'll bring her." />
-    <string id="0nqzQqGy" text="Sure. We will wait other parties around {GATHERING_SETTLEMENT} for a while, then follow us." />
-    <string id="0Pt6Maba" text="Is this a joke? You've some nerve asking me for favours, {PLAYER.NAME}, and let me assure you you'll get none.[if:convo_stern]" />
-    <string id="0RCdPKj2" text="Yes {?QUEST_GIVER.GENDER}she{?}he{\?} would probably be sad. But not because of what you think. See, {QUEST_GIVER.LINK} promised me to one of {?QUEST_GIVER.GENDER}her{?}his{\?} allies' son and this will devastate {?QUEST_GIVER.GENDER}her{?}his{\?} plans. That is true." />
-    <string id="0RTwaPBJ" text="I speak to many people. Of course, as I am loyal to {QUEST_GIVER.NAME}, I am always on the lookout for spies. But I've seen no one like this." />
-    <string id="0UUCTaEj" text="We hear a lot of complaints about you lately. You better start behaving or you'll get yourself a good flogging.[if:convo_mocking_revenge]" />
-    <string id="0Wg00sfN" text="Thank you, {?PLAYER.GENDER}madam{?}sir{\?}. We will be moving immediately." />
-    <string id="0WgYomR5" text="Thank you. I cannot guarantee I'd do the same for you, but I thank you." />
-    <string id="0wTZx8EC" text="You don't seem trustworthy. I have no interest in your offer." />
-    <string id="0YJGvJ7o" text="You should leave now." />
-    <string id="108Dchvt" text="Stop! We don't need to fight any longer. We have no quarrel with you as justice has been served." />
-    <string id="18NtjryL" text="Not yet, but I will soon." />
-    <string id="1bhjQFOe" text="I am {CONVERSATION_HERO.FIRSTNAME}. I own land around here. I speak for many of the people in this village." />
-    <string id="1bzdDYoO" text="All AI pawns blocked. Removing one of the player's pawns to make a move" />
-    <string id="1esi62Zb" text="Well - we like tournaments to be memorable. So the sponsors pitch together and buy a prize that they'll be talking about in the markets for weeks. A jeweled blade, say, or a fine-bred warhorse. Something a champion would be proud to own." />
-    <string id="1gvHI0TH" text="Ah... Well, I am afraid that is not enough." />
-    <string id="1ieLd5qq" text="The townsfolk told you that the spy has no distinctive scars or facial markings." />
-    <string id="1jExD58d" text="{QUEST_GIVER.LINK}, a merchant from {SETTLEMENT_NAME}, told you that {?QUEST_GIVER.GENDER}her{?}his{\?} daughter {TARGET_HERO.LINK} has either been abducted or run off with a local rogue. {?QUEST_GIVER.GENDER}She{?}He{\?} is offering a bounty of {BASE_REWARD_GOLD}{GOLD_ICON} to anyone who finds the young woman and brings her back. You have agreed to search for her and bring her back to {SETTLEMENT_NAME}. If you cannot find their tracks when you exit settlement, you should visit the nearby villages of {SETTLEMENT_NAME} to look for clues and tracks of the kidnapper." />
-    <string id="1NSRPYZt" text="Just passing through. What goes on here?" />
-    <string id="1OU1ZkaZ" text="{SALUTATION_BY_PLAYER}, I wish to be more than a mercenary. Is there a way I could pledge myself as a vassal?" />
-    <string id="1psOym3y" text="Any other questions?" />
-    <string id="1rCk6xRa" text="Now then... If you're asking,[ib:normal]" />
-    <string id="1Resf6O4" text="I am {CONVERSATION_HERO.FIRSTNAME}, a merchant. I trade out of {SETTLEMENT_STRING}. {BUSINESS_STRING}" />
-    <string id="1s3bHupn" text="You're not getting along with the rest of the company. It's better you go." />
-    <string id="1xyj3HW0" text="I just have a minute here, {?PLAYER.GENDER}madame{?}sir{\?}. I need to get back to the loom. How can I help you?" />
-    <string id="1yEyUHJe" text="I really hope your men can get my deed back. On my father's name, I will never gamble again." />
-    <string id="1YGgXOB7" text="Meh... Do you think ruling the streets of a city is easy? You underestimate us. Now, about the money." />
-    <string id="201kVrNa" text="{SALUTATION_BY_PLAYER}, I wish to be released from my oath to you." />
-    <string id="231s4Fqi" text="Release from homage? Hmm, perhaps it would be for the best... However, {PLAYER.NAME}, you must be sure that release is what you desire. This is not a thing done lightly." />
+    <string id="04gFKwY1" text="Ну, калі вы ўбачыце некага падобнага, паведаміце мне." />
+    <string id="0dlDkkJV" text="Вы не змаглі знайсці шпіёна. {QUEST_GIVER.LINK} {?QUEST_GIVER.GENDER}расчаравана{?}расчараваны{\?}." />
+    <string id="0eAc6WQk" text="Я {?PLAYER.GENDER}хацела{?}хацеў{\?} бы далучыцца да {FACTION_SERVICE_TERM}." />
+    <string id="0enbhess" text="Дзякуй. Я ўпэўнены, што вашыя хлопцы каштуюць сваіх грошаў.." />
+    <string id="0fp67gxl" text="Файнага дня." />
+    <string id="0geP718k" text="Ну... Я не ведаю, што сказаць. Напэўна, да пабачэння." />
+    <string id="0hXofVLx" text="Не хвалюйцеся, я прывяду яе." />
+    <string id="0nqzQqGy" text="Вядома. Мы пачакаем іншыя партыі каля {GATHERING_SETTLEMENT} пэўны час, а потым ідзіце ўслед за намі." />
+    <string id="0Pt6Maba" text="Гэта жарт? Вы маеце нахабства прасіць мяне пра паслугі, {PLAYER.NAME}. Я вас запэўніваю, вы іх не атрымаеце.[if:convo_stern]" />
+    <string id="0RCdPKj2" text="Так, {?QUEST_GIVER.GENDER}яна{?}ён{\?}, імаверна будзе {?QUEST_GIVER.GENDER}расхвалявана{?}расхваляваны{\?}. Але не з-за таго, аб чым вы думаеце. Бачыце, {QUEST_GIVER.LINK} {?QUEST_GIVER.GENDER}паабяцала{?}паабяцаў{\?} мяне сыну аднаго з {?QUEST_GIVER.GENDER}яе{?}яго{\?} хаўруснікаў, і гэта разбурыць {?QUEST_GIVER.GENDER}яе{?}яго{\?} планы. Гэта праўда." />
+    <string id="0RTwaPBJ" text="Я гавару са шматлікімі людзьмі. Зразумела, паколькі я адданы {QUEST_GIVER.NAME}, я заўсёды шукаю шпіёнаў. Але я не знайшоў нікога." />
+    <string id="0UUCTaEj" text="Апошнім часам мы чуем шмат скаргаў на вас. Вам лепей пачаць вясці сябе добра, інакш вы атрымаеце добрую лупцоўку.[if:convo_mocking_revenge]" />
+    <string id="0Wg00sfN" text="Дзякуй, {?PLAYER.GENDER}пані{?}панове{\?}. Мы рушым неадкладна." />
+    <string id="0WgYomR5" text="Дзякуй. Я не магу гарантаваць, што зраблю тое ж самае для вас, але дакладна аддзячу." />
+    <string id="0wTZx8EC" text="Вы не заслугоўваеце даверу. Мяне не цікавіць вашая прапанова." />
+    <string id="0YJGvJ7o" text="Вам лепей сысці зараз." />
+    <string id="108Dchvt" text="Стой! Нам болей не трэба змагацца. У нас няма рознагалоссяў з вамі, справядлівасць узяла верх." />
+    <string id="18NtjryL" text="Пакуль не, але не на доўга." />
+    <string id="1bhjQFOe" text="Я - {CONVERSATION_HERO.FIRSTNAME}. Я валодаю зямлёю у акрузе, і гавару ад імя шматлікіх жыхароў гэтай вёскі." />
+    <string id="1bzdDYoO" text="Усе пешкі ШІ заблакаваны. Выдаленне адной пешкі гульца, каб зрабіць ход" />
+    <string id="1esi62Zb" text="Ну, мы любім, каб турніры былі запамінальнымі. Каб фундатары ядналі высілкі і набывалі прыз, пра які будуць гаварыць на кірмашах цягам некалькіх тыдняў. Напрыклад, каштоўны клінок або пародзісты баявы конь. Тое, чым будзе ганарыцца чэмпіён." />
+    <string id="1gvHI0TH" text="А... Ну, баюся, гэтага недастаткова." />
+    <string id="1ieLd5qq" text="Гараджане расказалі вам, што ў шпіёна няма характэрных шнараў або знакаў на твары." />
+    <string id="1jExD58d" text="{QUEST_GIVER.LINK}, гандляр з {SETTLEMENT_NAME}, сказаў вам, што {?QUEST_GIVER.GENDER}яе{?}яго{\?} дачка, {TARGET_HERO.LINK}, або выкрадзена, або збегла з мясцовым разбойнікам. {?QUEST_GIVER.GENDER}Яна{?}Ён{\?} прапаноўвае ўзнагароду {BASE_REWARD_GOLD}{GOLD_ICON} таму, хто знойдзе маладую жанчыну і верне яе назад. Вы пагадзіліся адшукаць яе і вярнуць у {SETTLEMENT_NAME}. Калі вы не зможаце знайсці іх сляды на выхадзе з селішча, вам варта наведаць вёскі поруч з {SETTLEMENT_NAME}, каб знайсці доказы і сляды выкрадальніка." />
+    <string id="1NSRPYZt" text="Проста праязджаў міма. Што тут здарылася?" />
+    <string id="1OU1ZkaZ" text="{SALUTATION_BY_PLAYER}, Я жадаю быць нечым большым, чым наймітам. Ці ёсць магчымасць зрабіць мяне васалам.?" />
+    <string id="1psOym3y" text="Ёсць яшчэ пытанні?" />
+    <string id="1rCk6xRa" text="А цяпер... Калі вы пытаеце,[ib:normal]" />
+    <string id="1Resf6O4" text="Я - {CONVERSATION_HERO.FIRSTNAME}, гандляр. Я гандлюю ў {SETTLEMENT_STRING}. {BUSINESS_STRING}" />
+    <string id="1s3bHupn" text="Вы не ладзіце з іншымі чальцамі кампаніі. Будзе лепей, калі вы сыдзеце." />
+    <string id="1xyj3HW0" text="У мяне ёсць хвілінка, {?PLAYER.GENDER}спадарыня{?}спадар{\?}. Мне трэба вярнуцца да ткацкага станка. Чым я магу вам дапамагчы?" />
+    <string id="1yEyUHJe" text="Я вельмі спадзяюся, што вашыя людзі змогуць вярнуць маю дамову. Клянуся імем бацькі, я болей ніколі не буду гуляць у азартныя гульні." />
+    <string id="1YGgXOB7" text="Эх... Думаеш, кіраваць гарадскімі вуліцамі лёгка? Ты нас недаацэньваеш. Зараз пра грошы." />
+    <string id="201kVrNa" text="{SALUTATION_BY_PLAYER}, Я жадаю вызваліцца ад клятвы, дадзенай вам." />
+    <string id="231s4Fqi" text="Вызваленне ад клятвы? Хм, магчыма, гэта да лепшага... Аднак, {PLAYER.NAME}, вы павінны быць упэўнены, што вызваленне - гэта тое, чаго вы жадаеце. Гэта не робіцца легкадумна." />
     <string id="242TpAqL" text="{WORKSHOP_TYPE}" />
+
+    <!-- there -->
+
     <string id="2aXYYNBG" text="Come to have your hair cut, {?PLAYER.GENDER}my lady{?}my lord{\?}? A new look for a new day?" />
     <string id="2c7dIRla" text="You are known as a brave {?PLAYER.GENDER}warrior{?}warrior{\?} and a fine leader of men, {PLAYER.NAME}. I shall be pleased to accept your sword into my service, if you are ready to swear homage to me." />
     <string id="2dL6j8Hp" text="You want to marry a corpse? Because I'm going to kill your lover if you don't listen." />
