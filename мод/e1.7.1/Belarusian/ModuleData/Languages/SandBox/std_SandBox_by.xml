@@ -56,7 +56,7 @@
     <string id="2o7U1bNV" text="...і я буду на тваім баку, каб змагацца з тваімі ворагамі, калі табе спатрэбіцца мой меч." />
     <string id="2OmrHVjp" text="{QUEST_GIVER.LINK} {?QUEST_GIVER.GENDER}страціла{?}страціў{\?} права ўласнасці на {QUEST_SETTLEMENT}. Вашы кантракт з {?QUEST_GIVER.GENDER}ёй{?}ім{\?} быў скасаваны." />
     <string id="2oRJ0IzW" text="Гэтага хопіць. Вы зрабілі мудры выбар, мой сябар. Мы добра ставімся да нашых адданых ваяроў, і вы можаце разлічваць на годную ўзнагароду за сваю службу." />
-    <string id="2P3UJ8be" text="Вы пытаеце ў вёсцы, ці не бачыў хто-небудзь {TARGET_HERO.LINK} альбо падазроных персанажаў з маладой жанчынай.\n\nВяскоўцы расказваюць, што раніцай яны бачылі маладога мужчыну і жанчыну, якія нядаўна прыехалі. Яны набылі такія-сякія запасы і рыссю адправіліся ў бок {TARGET_VILLAGE}." />
+    <string id="2P3UJ8be" text="Вы пытаеце ў вёсцы, ці не бачыў хто-небудзь {TARGET_HERO.LINK} альбо падазроных персанажаў з маладой жанчынай.{NEWLINE}{NEWLINE}Вяскоўцы расказваюць, што раніцай яны бачылі маладога мужчыну і жанчыну, якія нядаўна прыехалі. Яны набылі такія-сякія запасы і рыссю адправіліся ў бок {TARGET_VILLAGE}." />
     <string id="2PPwmNmg" text="Я магу суправаджаць вас цягам 10 дзён. Пасля гэтага я мушу вярнуцца да сваіх уласных справаў." />
     <string id="2WI066bI" text="Німр... Німр быў забіты. Памёр у клетцы Бану Кілд.{newline}Усе жанчыны плакалі ад гора. Усе мужыкі уздыхнулі з палёгкай." />
     <string id="2WnruiBw" text="Я ведаю пра адзін, які пачынаецца ў {CLOSEST_TOURNAMENT}. Вы паспееце дабрацца туды, калі будзеце рухацца досыць хутка." />
@@ -175,7 +175,7 @@
     <string id="7tuyySmq" text="Я пачну." />
     <string id="7uFFaSHv" text="Цяпер людзі кажуць, што {?OWNER.GENDER}мая пані{?}мой панове{\?}, {OWNER.LINK}, {?OWNER.GENDER}злая, як апараная котка{?}злы, як апараны кот{\?}. Але я гавару, што большасць людзей - злыдні, і добра, што яны адчуваюць страх. У кожным разе, у гэтыя дні на стале ёсць мяса, і хто можа з гэтым паспрачацца?" />
     <string id="7wkHMnNM" text="Мажліва, {AMOUNT}{GOLD_ICON} дапаможа вам памятаць мяне." />
-    <string id="80riAa0q" text="Узровень вашага клана павінен быць {TIER}.\n Адносіны з {HERO.NAME} павінны быць {RELATION}." />
+    <string id="80riAa0q" text="Узровень вашага клана павінен быць {TIER}.{NEWLINE} Адносіны з {HERO.NAME} павінны быць {RELATION}." />
     <string id="89b5ao7P" text="На дадзены момант у мяне няма 1000 дэнароў, каб дазволіць сабе граць у рызыковыя гульні. Я магу звязацца з вамі, як толькі атрымаю патрэбную суму." />
     <string id="8bLwh9yy" text="Прабачце мяне, {?CONVERSATION_NPC.GENDER}мая пані{?}панове{\?}. Я чую, што мне трэба падумаць пра гэтае." />
     <string id="8bnlS0IV" text="Араць, сеяць... Наперадзе яшчэ шмат тыдняў." />
@@ -217,7 +217,7 @@
     <string id="9Kr9pjGs" text="{QUEST_GIVER.LINK} {?QUEST_GIVER.GENDER}падрыхтавала{?}падрыхтаваў{\?} сваіх людзей і чакае вас." />
     <string id="9mBy0qNW" text="Зараз я мушу сысці." />
     <string id="9O8a1Yz8" text="Я чуў на кірмашы, што {NOTABLE.LINK} набірае супрацоўнікаў у {?NOTABLE.GENDER}яе{?}яго{\?} {.%}{SHOP_TYPE}{.%}. Па іх словах, {?NOTABLE.GENDER}яна{?}ён{\?} добра ставіцца да сваіх супрацоўнікаў." />
-    <string id="9P3atGKL" text="Толькі гаспадар фракцыі можа даваць васалітэт. Вашыя адносіны з гэтым гаспадаром \n павінны быць не меней {RELATION} і узровень вашага клана павінен быць {CLAN_TIER}." />
+    <string id="9P3atGKL" text="Толькі гаспадар фракцыі можа даваць васалітэт. Вашыя адносіны з гэтым гаспадаром {NEWLINE} павінны быць не меней {RELATION} і узровень вашага клана павінен быць {CLAN_TIER}." />
     <string id="9PBA2OJz" text="А вось і {?HERO.GENDER}яна{?}ён{\?}." />
     <string id="9pg3qc6N" text="Трэніроўчы бой" />
     <string id="9pgOGq7X" text="Журнал" />
@@ -334,40 +334,40 @@
     <string id="BbnDPpxW" text="Хіба я дазваляў табе гаварыць? Тваім сваякам лепей наскрэбці выкуп, пакуль мая цярплівасць не вычарпалася." />
     <string id="bbroVUrD" text="Зразумела, {?PLAYER.GENDER}мая пані{?}мой панове{\?}." />
     <string id="bBVLVT7L" text="Вядома! Здаецца, што некалькі нашых хлопцаў зараз размінаюцца перад турнірам. Вы можаце пайсці і паскакаць, калі жадаеце. Альбо прыходзьце пазней, калі жадаеце проста патрэнавацца.[ib:warrior]" />
+    <string id="bbwNIIKI" text="Вы пытаеце ў вёсцы, ці не бачыў хто-небудзь {TARGET_HERO.LINK} або падазроных асобаў з маладой жанчынаю.{NEWLINE}{NEWLINE}Вяскоўцы гавараць, што сюды прыехалі маладыя мужчына і жанчына ў змардаваным стане. Жыхары вёскі дазволілі ім застацца на пэўны час.{NEWLINE}Вы можаце праверыць мясцовасць і даведацца, ці не хаваюцца яны яшчэ тут." />
+    <string id="bdetTQa6" text="Мы ўсяго толькі найміты, якія служаць гаспадарству {EMPLOYER_FACTION_INFORMAL_NAME}. Мы не можам весці перамовы аб міры ад імя нашых працадаўцаў." />
+    <string id="BdpW8gUM" text="Выглядае добра, давайце граць!" />
+    <string id="bDva8kVX" text="Колькі вы заплаціце мне за мае паслугі?" />
+    <string id="BeD9fahY" text="Рады пазнаёміцца з вамі." />
+    <string id="bEipgE5E" text="Ах, так, гэта самыя цікавыя віды гульняў, ці не? Я не буду адмаўляць сабе ў задавальненні, але выяўна, што гэтая справа каштуе для яго болей, чым проста кошт зямлі. Я гатовы паставіць на кон гэтую справу, але вы павінны паставіць 1000 дэнароў." />
+    <string id="bgfTuU2U" text="Вы болей не з'яўляецеся часткай гэтага свету." />
+    <string id="bhkC3kcQ" text="Кажы паважліва аб старэйшых, брудны абадранец!" />
+    <string id="bHRZhYzd" text="Не! Я да іх і блізка не падыду! Яны заб'юць мяне![ib:closed]" />
+    <string id="bi7ZhwNO" text="Не, у нас усё выдатна." />
+    <string id="BixmcFY3" text="Так, мы наймаем наймітаў. Мы будзем плаціць вам за бойкі, а не шпацыры па сельскай мясцовасці. Вы будзеце атрымліваць {MERCENARY_AWARD}{GOLD_ICON} за кожную знішчаную партыю ці падобную паслугу." />
+    <string id="bl2aRW8f" text="{KEY} Сесці" />
+    <string id="blqTMwQT" text="Ідзіце ўслед за мной." />
+    <string id="BnoSOi3r" text="Увогуле..." />
+    <string id="boAcQxVV" text="Вы парушаеце закон." />
+    <string id="boXF9dvD" text="{ALLEY_GREETING}" />
+    <string id="bQ8CxZIy" text="Адменна, выкуп будзе каштаваць {COST}{GOLD_ICON}. Будзеце выкупляць?" />
+    <string id="BQjAAo9f" text="Зараз я шукаю працу. У вас ёсць прапановы?" />
+    <string id="bQnVtegC" text="Добра, нават лепей. Вы лёгка знойдзеце дом, калі адправіцеся ў {SETTLEMENT} і прагуляецеся па гарадской плошчы. Альбо вы можаце проста пагаварыць з верхаводам банды, {TARGET_HERO.LINK}, і паразуміць {?TARGET_HERO.GENDER}яе{?}яго{\?}. Поспеху. Чакаю добрых навінаў." />
+    <string id="bRMLn0jj" text="Ну, калі ён зайдзе ў іншы горад, ці яму перарэжуць горла, ці ён загубіць справу, гэта будзе ўжо не то, так?" />
+    <string id="BSeplVwe" text="Гэта ўжо занадта. Я вярнуся пазней." />
+    <string id="bSo9hKwr" text="{PERSUASION_OPTION_LINE} {SUCCESS_CHANCE}" />
+    <string id="BsXNJHCu" text="Тады да наступнага разу." />
+    <string id="btJkBTSF" text="Я ўпэўнены, што вы зможаце вырашыць гэтую праблему." />
+    <string id="bTnmpqU4" text="На жаль, у мяне няма часу на яшчэ адну гульню." />
+    <string id="bTUPJjfk" text="Вы можаце разлічваць на мяне, шляхце." />
+    <string id="bU7EG06q" text="Я згодзен. Давайце спынім вайну адзін з адным, ва ўсякім разе, на гэты момант" />
+    <string id="bue9AShm" text="Я клянуся змагацца з вашымі ворагамі і даваць прытулак ды ваду вашым сябрам...." />
+    <string id="bUmacxw7" text="Нават трэніроўчыя баі прыцягваюць тых, хто любіць рабіць стаўкі на іх выйсце. Але турніры! На іх з'язджаюцца натоўпы людзей з усёй акругі. Гандляры любяць турніры, і менавіта таму яны выдзяляюць срэбра, патрэбнае нам для аплаты працы такіх добрых душ, як вы, якія прымаюць і атрымліваюць цяжкія ўдары." />
+    <string id="BurJvC9s" text="Проста сыдзі з маіх вачэй." />
+    <string id="BusYGTrN" text="Адменна! Тады добрага дня, {?PLAYER.GENDER}мая шляхцянка{?}мой шляхціч{\?}." />
 
     <!-- there -->
 
-    <string id="bbwNIIKI" text="You ask around the village if anyone saw {TARGET_HERO.LINK} or some suspicious characters with a young woman.\n\nVillagers say that there was a young man and woman who arrived here exhausted. The villagers allowed them to stay for a while.\nYou can check the area, and see if they are still hiding here." />
-    <string id="bdetTQa6" text="We are only mercenaries serving under {EMPLOYER_FACTION_INFORMAL_NAME}. We cannot negotiate peace on behalf of our employers." />
-    <string id="BdpW8gUM" text="That looks good, let's play!" />
-    <string id="bDva8kVX" text="How much will you pay me for my service?" />
-    <string id="BeD9fahY" text="A pleasure to have met you." />
-    <string id="bEipgE5E" text="Ah, yes, these are the most interesting kinds of games, aren't they? I won't deny myself the pleasure but clearly that deed is worth more to him than just the value of the land. I'll wager the deed, but you need to put up 1000 denars." />
-    <string id="bgfTuU2U" text="You are not a part of this world anymore." />
-    <string id="bhkC3kcQ" text="Speak respectfully about your elders, you filthy ragamuffin!" />
-    <string id="bHRZhYzd" text="No! I won't go anywhere near them! They'll kill me![ib:closed]" />
-    <string id="bi7ZhwNO" text="No, we are doing fine." />
-    <string id="BixmcFY3" text="Yes, we're hiring mercenaries. We pay you to fight, though, not just ride around the countryside. You'll get {MERCENARY_AWARD}{GOLD_ICON} whenever you take down an enemy party, or do a similar service." />
-    <string id="bl2aRW8f" text="{KEY} Sit" />
-    <string id="blqTMwQT" text="Follow me." />
-    <string id="BnoSOi3r" text="Actually..." />
-    <string id="boAcQxVV" text="You're breaking the law." />
-    <string id="boXF9dvD" text="{ALLEY_GREETING}" />
-    <string id="bQ8CxZIy" text="Well, it will cost you {COST}{GOLD_ICON} to buy it out. Are you going to buy it?" />
-    <string id="BQjAAo9f" text="Right now I'm looking for work, if you have anything to offer." />
-    <string id="bQnVtegC" text="Good, even better. You can find the house easily when you go to {SETTLEMENT} and walk around the town square. Or you could just speak to this gang leader, {TARGET_HERO.LINK}, and talk some sense into {?TARGET_HERO.GENDER}her{?}him{\?}. Good luck. I await good news." />
-    <string id="bRMLn0jj" text="Well, if he wanders off to another town, or gets his throat slit, or loses the deed, that would be the wrong moment, now wouldn't it?" />
-    <string id="BSeplVwe" text="That's too much. I will be back later." />
-    <string id="bSo9hKwr" text="{PERSUASION_OPTION_LINE} {SUCCESS_CHANCE}" />
-    <string id="BsXNJHCu" text="Until next time, then." />
-    <string id="btJkBTSF" text="I am sure you can solve it." />
-    <string id="bTnmpqU4" text="I'm afraid I don't have time for another game." />
-    <string id="bTUPJjfk" text="You can count on me, {?CONVERSATION_NPC.GENDER}madame{?}sir{\?}." />
-    <string id="bU7EG06q" text="I accept. Let us stop making war upon each other, for the time being anyway" />
-    <string id="bue9AShm" text="I swear to fight your enemies and give shelter and water to your friends..." />
-    <string id="bUmacxw7" text="Well, even the practice fights draw those who like to bet on the outcome. But the tournaments! Those pull in crowds from miles around. The merchants love a tournament, and that's why they pony up the silver we need to pay the good souls like you who take and receive the hard knocks." />
-    <string id="BurJvC9s" text="Just get out of my sight." />
-    <string id="BusYGTrN" text="Excellent! Have a good day, then, {?PLAYER.GENDER}my lady{?}my lord{\?}." />
     <string id="bUweVtkk" text="Why doesn't {OWNER.LINK} do anything about the thieves plying their trade out on the street? Could it be that {?OWNER.GENDER}she{?}he{\?} is getting a cut of their take?" />
     <string id="bUzU50P8" text="What? Why? Did I do something wrong?[ib:closed]" />
     <string id="bvhWLb4C" text="You defeated the Game Host and got the deed back. {QUEST_GIVER.LINK}.{newline}&quot;Thank you for resolving this issue so neatly.. Please accept these {GOLD}{GOLD_ICON} denars with our gratitude.&quot;" />
@@ -1212,7 +1212,7 @@
     <string id="wdQ54wn2" text="There's nothing I need right now." />
     <string id="wErSpkjy" text="I'm still working on it." />
     <string id="wFXj0bqj" text="My name is {PLAYER.NAME}, {?CONVERSATION_NPC.GENDER}madam{?}sir{\?}. Tell me about yourself." />
-    <string id="WGi3Zuv7" text="You asked the villagers around {CURRENT_SETTLEMENT} if they saw a young woman matching the description of {QUEST_GIVER.LINK}'s daughter, {TARGET_HERO.LINK}.\n\nThey said a young woman and a young man dropped by early in the morning to buy some supplies and then rode off towards {TARGET_VILLAGE}." />
+    <string id="WGi3Zuv7" text="You asked the villagers around {CURRENT_SETTLEMENT} if they saw a young woman matching the description of {QUEST_GIVER.LINK}'s daughter, {TARGET_HERO.LINK}.{NEWLINE}{NEWLINE}They said a young woman and a young man dropped by early in the morning to buy some supplies and then rode off towards {TARGET_VILLAGE}." />
     <string id="WiNRdfsm" text="Done" />
     <string id="wJCVlVF7" text="These nobles aren't like you and me. They've kept their wealth by crushing people like you for generations. Don't mess with them." />
     <string id="wlKtDR2z" text="Thank you, {?PLAYER.GENDER}my lady{?}sir{\?}." />
