@@ -8,7 +8,7 @@
     <string id="08abd5af7774d311cadc3ed900b47754" text="Type: " />
     <string id="0mqdFC2x" text="Weapon Crafted!" />
     <string id="0Q4Xo2BQ" text="Select the Leader of the New Party" />
-    <string id="0rmpC7jf" text="Is Garrison Starving" />
+    <string id="0rmpC7jf" text="The Garrison is Starving" />
     <string id="0TauthlH" text="Never ({PERCENTAGE}%)" />
     <string id="13wo3QQB" text="Secondary" />
     <string id="154a34f8caccfc833238cc89d38861e8" text="Requires: " />
@@ -48,6 +48,7 @@
     <string id="6GSXsdeX" text="Speed" />
     <string id="74dc1908cb0b990e80fb977b5a0ef10d" text="Speed: " />
     <string id="7h6cXdW7" text="Engineer" />
+    <string id="7l0LGKRk" text="Date Started" />
     <string id="7tBOCHm6" text="Sigil Color:" />
     <string id="7Xynf4IA" text="Hand Armor" />
     <string id="8BJDQe6o" text="Prisoners captured by {FACTION}" />
@@ -83,6 +84,7 @@
     <string id="bAqDnkaT" text="Missile Speed" />
     <string id="Bcs9s2tC" text="Right Click to Remove" />
     <string id="bd7oAQq6" text="Daily" />
+    <string id="BEXTcJaS" text="Time Due" />
     <string id="bfQLwMUp" text="Clans" />
     <string id="bfWlTVjs" text="Remove assignee" />
     <string id="BgqZWbga" text="The nobles of the realm will dislike you for abandoning your fealty. Are you sure you want to leave the Kingdom?" />
@@ -153,6 +155,7 @@
     <string id="flxDkoMh" text="Stage Complete" />
     <string id="fOSGakix" text="You cannot manage an army while you're a prisoner." />
     <string id="fpE7BQ7f" text="You don't have any upgradable troops." />
+    <string id="FYJC7cDD" text="Trait(s)" />
     <string id="fz2kQjFS" text="Choose your character's culture:" />
     <string id="G2h0V10w" text="Gift this settlement to a clan in your kingdom." />
     <string id="g9VIbA9s" text="Sergeant" />
@@ -169,6 +172,7 @@
     <string id="GwA9oUBC" text="Your skill focus determines the rate your skill increases with practice" />
     <string id="HAaElX8X" text="{PARTY_OWNERS_FACTION}" />
     <string id="HcAV8x7p" text="Party Member" />
+    <string id="HfsUngkh" text="Recruitment is currently disabled." />
     <string id="HFZdseH9" text="Only the ruler of the kingdom can change it's name." />
     <string id="HHTQVp52" text="Heroes Healing Rate" />
     <string id="HkfY3Ds5" text="Body Armor" />
@@ -220,6 +224,7 @@
     <string id="K5uR5HVX" text="Press '{EXTEND_KEY}' for more info." />
     <string id="K6GYskvJ" text="Culture:" />
     <string id="kftE5nvv" text="Horse Armor" />
+    <string id="KghY9qwl" text="You cannot assign a fugitive as the new governor of a settlement" />
     <string id="knwId8DG" text="You cannot assign a prisoner as a governor of a settlement" />
     <string id="koX9okuG" text="None" />
     <string id="kqeA8rjL" text="Are you sure you want to disband your army?" />
@@ -249,12 +254,14 @@
     <string id="mg7id9om" text="Number of Consumable Items" />
     <string id="mHVmrwRQ" text="Enter your name" />
     <string id="MkVTRqAw" text="Orders ({ORDER_COUNT})" />
+    <string id="mOFjZuSf" text="You cannot assign a newly released hero as the new governor of a settlement" />
     <string id="mountTier" text="Mount Tier: " />
     <string id="mp68RYnD" text="Party Size Limit" />
     <string id="MqCH7R4A" text="Security" />
     <string id="mSPyh91Q" text="Towns conquered by {FACTION}" />
     <string id="MT4b8H9h" text="Unknown" />
     <string id="MT5A04X8" text=" - Swing Damage Type does not match. Should be: {TYPE}" />
+    <string id="mYaSBDBa" text="You need to unlock {PERK_NAME} ({PERK_SKILL}) perk to upgrade this troop" />
     <string id="myMbtwXi" text="Morale Bonus" />
     <string id="N63XYX2r" text="Support" />
     <string id="N6QTvjMf" text="Prisoners" />
@@ -263,6 +270,7 @@
     <string id="NcYbdiyT" text="Change Leader" />
     <string id="nKQmaSDO" text="There is no castle conquered by {FACTION}" />
     <string id="nMcvafHY" text="Active" />
+    <string id="noxXuqcD" text="Can't Upgrade" />
     <string id="NRpbagbZ" text="Running to {TARGET_PARTY}" />
     <string id="NxEy5Nbt" text="High risk of rebellion" />
     <string id="nYYUQQm0" text="Swing Damage Factor " />
@@ -323,6 +331,7 @@
     <string id="qKUjgS6r" text="Settlement" />
     <string id="QlbkxoSp" text=" {TOOLTIP_TROOPS} ({PARTY_SIZE})" />
     <string id="QmfZjCo1" text="Worth: " />
+    <string id="QMNWbmao" text="Clear Selection" />
     <string id="QQ03J6sf" text="Item name can not be empty." />
     <string id="qRqnrtdX" text="Owner" />
     <string id="qSi4DlT4" text="Food" />
@@ -331,6 +340,7 @@
     <string id="QyVbwGLp" text="{PARTY_SIZE}" />
     <string id="qZvNIVGV" text="There is no one available in your clan who can lead a party right now." />
     <string id="R2AaCaPJ" text="Expected Change" />
+    <string id="R4rTlKMU" text="Troop upgrades are currently disabled." />
     <string id="R8vuwKaf" text="Running from {TARGET_PARTY} to ally party." />
     <string id="Ra17aK4e" text="Current Capital" />
     <string id="Raa4j4rF" text="Required: {UPGRADE_ITEM}" />
@@ -360,7 +370,7 @@
     <string id="SDhQWonF" text="Paying {DENAR}{GOLD_ICON} as tribute per day." />
     <string id="sffGeQ1g" text="Gift" />
     <string id="sFiU3Ss2" text="Click to Reset Camera" />
-    <string id="shL0WElC" text="{TROOP.NAME}'s Party" />
+    <string id="shL0WElC" text="{TROOP.NAME}{.o} Party" />
     <string id="SixPXaNh" text="Very Poor" />
     <string id="SK8G9QpE" text="Upgrd. Cost" />
     <string id="Sls0KQVn" text="Elections" />
@@ -402,6 +412,7 @@
     <string id="UxAl9iyi" text="Personal" />
     <string id="v3OF6vBg" text="Yield" />
     <string id="Ve5jkJqf" text="Auto Offer" />
+    <string id="vggt7exj" text="Set {CURINDEX}/{COUNT}" />
     <string id="vIPrZCZ1" text="You can abdicate leadership from the kingdom screen." />
     <string id="ViYdZUbQ" text="Disband Army" />
     <string id="vLaBJFGy" text=" {PARTY_MEMBER.LINK} ({PARTY_SIZE})" />
@@ -436,9 +447,12 @@
     <string id="xXSFaGW8" text="Disband" />
     <string id="XYAVu2f0" text="Chasing {TARGET_PARTY}." />
     <string id="Y7qbwrWE" text="{HERO_NAME}'s Skills" />
+    <string id="Y8EcVL1c" text="Last Updated" />
     <string id="YbGu9rSH" text="This character is already the governor of {SETTLEMENT_NAME}" />
     <string id="ybLA7ZXp" text="Already at Max" />
+    <string id="yD7rL5Nc" text="Helping ally party to defend {TARGET_SETTLEMENT}." />
     <string id="YifFZaG7" text="Party Owner" />
+    <string id="YJaNtktT" text="Recruit All" />
     <string id="YO0x7ZAo" text="Loyalty" />
     <string id="YT9giTet" text="Learning Limit" />
     <string id="yUVv3z5V" text="Patrolling around {TARGET_SETTLEMENT}." />

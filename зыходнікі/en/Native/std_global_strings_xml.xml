@@ -29,6 +29,7 @@
     <string id="2AyPP3rw" text="High" />
     <string id="2bphNKYP" text="Choose the layout of orders (i.e. order categories and keys)." />
     <string id="2bPTx7So" text="Your character goes to crouching state." />
+    <string id="2cVkbPYO" text="Unit Spawn Prioritization" />
     <string id="2e8wI3EM" text="Equip Weapon 2" />
     <string id="2EjZcRgF" text="F5" />
     <string id="2EnLU2ZC" text="Change UI Scaling" />
@@ -58,7 +59,6 @@
     <string id="4Q9pzbqM" text="Enable the controller vibration effect." />
     <string id="4R4shVxp" text="Sharpen Amount" />
     <string id="4x1wGwW9" text="Select Order 7" />
-    <string id="4Z2NBfW4" text="Team Chat" />
     <string id="54c9cZO4" text="Toggle Characters." />
     <string id="5B3ptxje" text="Character Developer" />
     <string id="5c7l7r31" text="Left Mouse Button" />
@@ -137,8 +137,9 @@
     <string id="aombIn07" text="Set the exposure amount." />
     <string id="ap1wEfdW" text="V" />
     <string id="AP9bKYTb" text="Toggle Cursor" />
-    <string id="ar2Y8Xs9" text="{LEFT}: " />
+    <string id="ar2Y8Xs9" text="{LEFT}:" />
     <string id="asrbFBbn" text="Order Menu" />
+    <string id="asYEb2j7" text="Very High (250)" />
     <string id="au7tXcD1" text="Stereo" />
     <string id="aufrcNmq" text="Particle Detail" />
     <string id="avDb6Y66" text="Middle Mouse Button" />
@@ -151,6 +152,7 @@
     <string id="Az084VJK" text="Defend" />
     <string id="b00385oX" text="Map Open Encyclopedia" />
     <string id="b1OtYhnF" text="Texture Filtering" />
+    <string id="b7cHW5DS" text="Shows chat log. Starts typing to All Chat in Multiplayer." />
     <string id="B8aTbaQo" text="Select Group 4." />
     <string id="b9rDOY21" text="SelectOrder2" />
     <string id="bbxpBzPr" text="Sheathe Weapon" />
@@ -223,6 +225,7 @@
     <string id="dTyINo1B" text="Lock target" />
     <string id="dV5ar9eP" text="Max (1000)" />
     <string id="Dw58UUua" text="Subsurface Scattering" />
+    <string id="DxgwxziA" text="Initiate Chat (Secondary)" />
     <string id="DYcLYL6E" text="Bar" />
     <string id="E5xbXlLB" text="Enables the sun shafts." />
     <string id="ea8kNj32" text="Your preferred sound output device." />
@@ -274,6 +277,7 @@
     <string id="haX0xRHa" text="Camera Speed Up" />
     <string id="HC2sdqca" text="Enable Tutorial Hints" />
     <string id="hdbb0Jjp" text="Encyclopedia Window" />
+    <string id="hdLs35aB" text="Low (25)" />
     <string id="HDV63kra" text="4" />
     <string id="HeCR9aex" text="Enable text reports for shouts." />
     <string id="HH7LDwlK" text="Toggle Fast Forward" />
@@ -318,7 +322,6 @@
     <string id="iljRgsvP" text="Order Layout Type" />
     <string id="invalidkey" text="-" />
     <string id="IOZ4aWVp" text="Select Group 8" />
-    <string id="IPbh2TvZ" text="Initiate Team Chat." />
     <string id="iPx4jep6" text="Exposure" />
     <string id="Irhxad7u" text="Water Quality" />
     <string id="iUFgqwkA" text="Medium (256)" />
@@ -361,6 +364,7 @@
     <string id="k7gJYLLj" text="Numpad 8" />
     <string id="K80z5onY" text="Determines how far will the camera be in third-person." />
     <string id="kak4GxOh" text="F6" />
+    <string id="kCXjabff" text="Shows chat log. Starts typing to Team Chat in Multiplayer." />
     <string id="ke34iiXU" text="Slow Down While Giving Orders" />
     <string id="kG4051e5" text="SelectOrder7" />
     <string id="KGaaYZi1" text="Refresh Rate" />
@@ -381,6 +385,7 @@
     <string id="KUEHAD4U" text="Quests" />
     <string id="KUGomrhD" text="Don't Show Again" />
     <string id="KwNTg7BT" text="Display Mode" />
+    <string id="l5aKnGy3" text="Initiate Chat" />
     <string id="l7Rfaa8f" text="Select Group 8." />
     <string id="L992LXVF" text="Toggle Camera Follow Mode. Toggle between &quot;Focus on player&quot; or &quot;Free cam&quot;." />
     <string id="lC5xsoSh" text="Unlimited" />
@@ -388,13 +393,13 @@
     <string id="lG7AlfxK" text="Map Track Settlement" />
     <string id="lgOBD6MF" text="Enable marks for direction of attack." />
     <string id="lgzmPG6K" text="Crouch" />
-    <string id="lhHUGbnm" text="Initiate All Chat." />
     <string id="LjNnWa7R" text="F10" />
     <string id="LJZAvH8f" text="Texture Quality" />
     <string id="ll2iP8yo" text="Using more than your available GPU memory can result in serious performance drops and stability issues. Proceed with caution." />
     <string id="Lo0bRwYO" text="Cannot create save data. Save data is corrupted." />
     <string id="Lp0byzGQ" text="I" />
     <string id="LroTz1rL" text="Enable slowing down the game while the player is giving orders." />
+    <string id="lsQ1kFLn" text="Equipment Switch Menu" />
     <string id="LsX8rTwl" text="Open Character Development screen." />
     <string id="lsxqkhy6" text="O" />
     <string id="LTxU2AST" text="Sets the interval of time between autosaves. Value is in minutes." />
@@ -419,6 +424,7 @@
     <string id="MNsKxGzK" text="Texture Streaming Budget" />
     <string id="mueocuFG" text="Show Indicators" />
     <string id="mWnA4X5D" text="Select Order 6" />
+    <string id="mWT9b9ZM" text="Medium (75)" />
     <string id="MXHkvySm" text="F7" />
     <string id="MxmOWsHj" text="Encyclopedia" />
     <string id="Mxnj08mB" text="Move Party Right" />
@@ -432,6 +438,7 @@
     <string id="NSSsxBHV" text="Randomize" />
     <string id="nwdlr4MI" text="Decline Current Running Poll." />
     <string id="o0QPZODk" text="Move Party Left" />
+    <string id="o2wElwi5" text="Homogeneous" />
     <string id="o8WjGqS4" text="Z" />
     <string id="O9ed2AWr" text="Finalize message if chat box is active. Otherwise, activate chat box." />
     <string id="ocNVbyPJ" text="Borderless Fullscreen" />
@@ -449,6 +456,7 @@
     <string id="opGK2hO0" text="Hides battle UI elements while the player is in a mission." />
     <string id="otHjiYlN" text="Particle Quality" />
     <string id="OtS4DYD1" text="T" />
+    <string id="owS8kqZs" text="Determine unit spawn prioritization.{newline}Default: Units spawn according to their position in the roster.{newline}High Level: High level units will spawn first.{newline}Low Level: Low level units will spawn first.{newline}Homogeneous: High and low level units will spawn in equal ratios." />
     <string id="OYaqdNAI" text="Select Order 2" />
     <string id="P4rblFQN" text="Map Zoom Out" />
     <string id="P5x1HU1u" text="Anti-aliasing" />
@@ -481,7 +489,7 @@
     <string id="psLeftStickLeft" text="Left Stick Left" />
     <string id="psLeftStickRight" text="Left Stick Right" />
     <string id="psLeftStickUp" text="Left Stick Up" />
-    <string id="psOptionsButton" text="Options Button" />
+    <string id="psOptionsButton" text="options button" />
     <string id="psR1Button" text="R1 Button" />
     <string id="psR2Button" text="R2 Button" />
     <string id="psRightDirectionButton" text="Right Button" />
@@ -577,6 +585,7 @@
     <string id="tifiQGTa" text="Open Kingdom Screen." />
     <string id="TIYrYxpr" text="Select Group 5" />
     <string id="tkCbjgfx" text="Numpad -" />
+    <string id="TlpNyR2U" text="Low Level" />
     <string id="tlR1jGNH" text="Toggle Pause Menu" />
     <string id="TOebahlA" text="Map Time Fast Forward" />
     <string id="toHFqO2G" text="Select Order 5." />
@@ -586,13 +595,13 @@
     <string id="TtWjblNo" text="Toggle Show" />
     <string id="TUWeNFOv" text="Take Screenshot" />
     <string id="TvGJqPGp" text="Enable reports for deaths and knock outs." />
-    <string id="TVXacQUJ" text="All Chat" />
     <string id="tw5Wxv3b" text="Numpad ." />
     <string id="TWbbfaUu" text="Move map camera to right in campaign map." />
     <string id="TybJcG0A" text="Very Low (64) " />
     <string id="tZGftbOD" text="Push To Talk" />
     <string id="TzpULeDH" text="Select Order Return." />
     <string id="u2dQaVY2" text="Equip the item in your third slot." />
+    <string id="U58amXO0" text="Hold to show equipment switching menu." />
     <string id="U5xKAHGi" text="Bloom" />
     <string id="u6QCWQvu" text="Four Part" />
     <string id="u7FkCtRN" text="Group 0 Hear" />
@@ -620,6 +629,7 @@
     <string id="UwJIMaRi" text="Shader Quality" />
     <string id="UwuYCgIU" text="Caution" />
     <string id="v2me5eP1" text="Toggle Vignette." />
+    <string id="V5ltCcw0" text="High (125)" />
     <string id="v8GIxASM" text="V-Sync" />
     <string id="vAnlshLW" text="9" />
     <string id="VasVb9DK" text="Equip your weapon or change to the next one." />
@@ -705,6 +715,7 @@
     <string id="yLCSTuBw" text="Sets the resolution of the game. Higher resolution requires a more powerful display adapter." />
     <string id="Yn8bh0qT" text="Equip Next Shield" />
     <string id="YT6ljA5V" text="Map Move Forward" />
+    <string id="YTXLLaEN" text="High Level" />
     <string id="yV64UCaW" text="Zoom In" />
     <string id="YZv1752W" text="D" />
     <string id="yZvw7EQb" text="Screen Space Reflection" />
