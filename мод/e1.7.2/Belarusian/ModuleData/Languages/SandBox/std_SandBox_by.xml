@@ -369,7 +369,7 @@
     <string id="BusYGTrN" text="Адменна! Тады добрага дня, {?PLAYER.GENDER}мая шляхцянка{?}мой шляхціч{\?}." />
     <string id="bUweVtkk" text="Чаму {OWNER.LINK} нічога не робіць са зладзеямі, што гандлююць на вуліцы? Можа {?OWNER.GENDER}яна{?}ён{\?} атрымлівае долю ад прыбытку?" />
     <string id="bUzU50P8" text="Што? Чаму? Я зрабіў нешта не так?[ib:closed]" />
-    <string id="bvhWLb4C" text="Вы перамаглі Спадара гульні і вярнулі сабе справу. {QUEST_GIVER.LINK}.{newline}&quot;Дзякуй за далікатны вынахад гэтага пытання... Калі ласка прыміце гэтыя {GOLD}{GOLD_ICON} дэнары з нашай падзякай.&quot;" />
+    <string id="bvhWLb4C" text="Вы перамаглі Майстра Гульняў і вярнулі сабе справу. {QUEST_GIVER.LINK}.{newline}&quot;Дзякуй за далікатны вынахад гэтага пытання... Калі ласка прыміце гэтыя {GOLD}{GOLD_ICON} дэнары з нашай падзякай.&quot;" />
     <string id="bWVmR6WS" text="Дзякуй.[if:convo_focused_happy]" />
     <string id="bXdzsTdb" text="Так... Я стаміўся ваяваць з табой. Я магу прапанаваць вам перамір'е на сарок дзён. Калі вы стрымаеце сваё слова і не будзеце замахвацца на мае землі і падданых, мы зможам пагаварыць ізноў..." />
     <string id="BYuzbj3L" text="Прабачай, мой муж. У добры час і найхуткага вяртання." />
@@ -627,7 +627,7 @@
     <string id="i1sth9Ls" text="Разбойнік перамог вас. Ён і {TARGET_HERO.LINK} уцяклі, пакуль вы былі без прытомнасці. Вы не змаглі вярнуць дачку яе {?QUEST_GIVER.GENDER}матцы{?}бацьку{\?}, як абяцалі {QUEST_GIVER.LINK}. {?QUEST_GIVER.GENDER}Яна ў{?}Ён у{\?} лютасці." />
     <string id="i4xzuOJE" text="Так, я буду граць на самым складаным узроўні." />
     <string id="i5fNZrhh" text="Калі ласка, {?PLAYER.GENDER}спадарыня{?}спадар{\?}. Я шчыра кахаю яго і жадаю правесці з ім усё сваё жыццё. Я прашу вас, калі ласка, не стойце на нашым шляху." />
-    <string id="I6amLvVE" text="Добра, добра. Гэта лепшы спосаб вырашыць такія рэчы. Ідзіце ў {TARGET_SETTLEMENT}, знайдзіце гэтага арганізатара гульні і сатрыце ўхмылку з яго твару..." />
+    <string id="I6amLvVE" text="Добра, добра. Гэта лепшы спосаб вырашыць такія рэчы. Ідзіце ў {TARGET_SETTLEMENT}, знайдзіце гэтага майстра гульняў і сатрыце ўхмылку з яго твару..." />
     <string id="i7k0AXsO" text="Уцямна. Мы пагаворым ізноў, калі вы вызваліцеся ад свайго абавязку." />
     <string id="I80qeGOG" text="Зразумела не, {LORD_SALUTATION}. Я заўсёды буду вашым адданым васалам." />
     <string id="i8HysulS" text="Я буду чорным." />
@@ -742,36 +742,36 @@
     <string id="kPTp6TPT" text="({AGENT_ROLE})" />
     <string id="KQ3aYvp3" text="Калі-небудзь вы зразумееце, што я зрабіў вам паслугу. Збірайцеся, вам пара ісці." />
     <string id="KqazzTWV" text="Сапраўды. Вы пралівалі сваю кроў за мяне, і вы заслужылі свой уласны феод..." />
+    <string id="kqDvS5Vz" text="Нам горка гэта рабіць, але нам трэба карміць дзяцей, і мы змушаны прасіць вас заплаціць за праход праз нашыя землі. Калі вы адмовіцеся, у нас не застанецца іншага выбару, апроч як забраць вашыя грошы сілай." />
+    <string id="kqXxvtwQ" text="Не хвалюйцеся, я вызвалю яго." />
+    <string id="kr68V5pm" text="{ISSUE_GIVER.NAME} хоча, каб {?ISSUE_GIVER.GENDER}яе{?}яго{\?} дачка была знойдзена" />
+    <string id="KTgOXBPN" text="Горача тут, так {?PLAYER.GENDER}пані{?}панове{\?}? Мне трэба вярнуцца ў кузню праз хвіліну, але чым я магу вам дапамагчы?" />
+    <string id="Kto7RWKE" text="Памажыце! Памажыце! Пабег з вязніцы!" />
+    <string id="KtrZs3yA" text="Вядома! Арэна адкрыта для ўсіх, хто не супраць цяжкіх выпрабаванняў. Здаецца, некалькі нашых хлопцаў ужо размінаюцца. Можаш пайсці і паскакаць, калі хочаш. Альбо прыходзьце пазней, калі пачнецца турнір.[ib:warrior]" />
+    <string id="Ku49Ipkf" text="Я скажу кожнаму, хто спытае: {NOTABLE.LINK} -  {?NOTABLE.GENDER}справядлівая жанчына{?}справядлівы мужчына{\?}, і кажа ад імя бедных людзей. Шляхта гэтай зямлі павінна слухаць {?NOTABLE.GENDER}яе{?}яго{\?}, ці на нас абрынуцца няшчасці." />
+    <string id="kUReBc04" text="Добра." />
+    <string id="kvrZ4HIT" text="Сапраўды... Вы прапанавалі васальную залежнасць, каб выйграць час? Добра, у вас будзе час перадумаць, але калі вы разыгрываеце мяне, гэта не палепшыць вашую рэпутацыю." />
+    <string id="Kwy6QDyf" text="Так, браце.[ib:demure]" />
+    <string id="KX7xtOI6" text=" Вашаму клану бракуе ўплыву, каб прымусіць іх зрабіць гэтае!" />
+    <string id="kXcUbkEW" text="Узровень вашага Клана павінен быць {TIER}" />
+    <string id="KxEnNEoD" text="Зараз вашы клан з'яўляецца ўласнікам селішча. Як {?PLAYER.GENDER}шляцянка{?}шляхціч{\?} селішча вы болей не можаце ўдзельнічаць у войнах бандаў. Вашае пагадненне з {QUEST_GIVER.LINK} скасавана." />
+    <string id="l2hijFNU" text="Ты нікуды не пойдзеш, сябар. Зараз ты мой палонны." />
+    <string id="l4yDEvdV" text="Вы мне абавязаны." />
+    <string id="L5iagGyo" text="Я брат у нашым ордэне." />
+    <string id="L5vAhxhO" text="У мяне ёсць важнейшыя справы." />
+    <string id="L7ZQtIuM" text="Зямля" />
+    <string id="L802I9W2" text="Так, я далучаюся да фракцыі {FACTION_NAME}." />
+    <string id="L9840K0F" text="Я магу прапанаваць вам кантракт на тры месяцы. Па заканчэнні гэтых трох месяцаў ён можа быць падоўжаны месяц за месяцам. Пачатковая сума ў памеры {OFFER_VALUE}{GOLD_ICON} будзе выплачана вам для складання кантракта. Пасля гэтага вы будзеце атрымліваць заробак ад {FACTION_LEADER} кожны тыдзень, у адпаведнасці з колькасцю і якасцю ваяроў у вашай кампаніі. Вы па-ранейшаму маеце права на здабычу і выратаванне на полі бою, а таксама на палонных, якіх вы захапілі. Вайна часам можа быць вельмі прыбытковай..." />
+    <string id="LaBQQ7ue" text="{NOTABLE.LINK} кажа, што рыба гніе з галавы. Азірніцеся вакол. Думаю, мы ведаем, да чаго ён хіліць." />
+    <string id="lbNl0a8t" text="Таксама," />
+    <string id="lcVauEKV" text="Раўнд скончаны, вы дыскваліфікаваны з турніру." />
+    <string id="LD4tGYCA" text="Гэта дакумент на пляцоўку зямлі. Не вельмі вялікую ці каштоўную пляцоўку, але я б не жадаў тлумачыць сваім людзям, чаму яны не будуць сеяць сёлета. Вы можаце знайсці чалавека, які забраў яго ў мяне, у карчме ў {TARGET_SETTLEMENT}. Яны завуць яго &quot;Майстрам Гульняў&quot;. Проста будзьце сумленныя ў сваіх дзеяннях. Ён не ў тым становішчы, каб апрацоўваць зямлю. Я не думаю, што ён адмовіцца ад магчымасці зарабіць на гэтым болей грошаў." />
+    <string id="LdCte9H0" text="Я сам буду змагацца з іншай бандай разам з вамі." />
+    <string id="LDGMSQJJ" text="Файна. Дазвольце мне яшчэ трохі падумаць пра гэта" />
+    <string id="ldJDR7t1" text="Нашыя гаспадарствы павінны абвясціць мір." />
 
     <!-- there -->
 
-    <string id="kqDvS5Vz" text="Now, it grieves us to do this, but we have mouths to feed and we're going to have ask you to pay for passage through our lands. If you refuse, we'll have no choice but to take your money by force." />
-    <string id="kqXxvtwQ" text="Don't worry I'll free him." />
-    <string id="kr68V5pm" text="{ISSUE_GIVER.NAME} wants {?ISSUE_GIVER.GENDER}her{?}his{\?} daughter found" />
-    <string id="KTgOXBPN" text="Hot around here, eh {?PLAYER.GENDER}madame{?}sir{\?}? I need to get back to the forges in a minute, but how can I help you?" />
-    <string id="Kto7RWKE" text="Help! Help! Prison break!" />
-    <string id="KtrZs3yA" text="Certainly! The arena is open to anyone who doesn't mind hard knocks. Looks like a few of our lads are warming up now. You can go and hop in if you want to. Or come back later when there's a tournament.[ib:warrior]" />
-    <string id="Ku49Ipkf" text="I'll tell anyone who asks: {NOTABLE.LINK} is a righteous {?NOTABLE.GENDER}woman{?}man{\?}, and speaks for the poor folk. The lords of this land must listen to {?NOTABLE.GENDER}her{?}him{\?}, or misfortune will fall upon us." />
-    <string id="kUReBc04" text="Good." />
-    <string id="kvrZ4HIT" text="Indeed.... Did you offer vassalage, then, just to buy time? Very well -- you shall have time to reconsider, but if you are toying with me, it will do your reputation no credit." />
-    <string id="Kwy6QDyf" text="Yes, brother.[ib:demure]" />
-    <string id="KX7xtOI6" text=" Your clan does not have enough influence to get them to do this!" />
-    <string id="kXcUbkEW" text="Your Clan Tier needs to be {TIER}" />
-    <string id="KxEnNEoD" text="Your clan is now owner of the settlement. As the {?PLAYER.GENDER}lady{?}lord{\?} of the settlement you cannot get involved in gang wars anymore. Your agreement with the {QUEST_GIVER.LINK} has canceled." />
-    <string id="l2hijFNU" text="You're not going anywhere, friend. You're my prisoner now." />
-    <string id="l4yDEvdV" text="You owe me one." />
-    <string id="L5iagGyo" text="I am a brother in our order." />
-    <string id="L5vAhxhO" text="I have more important business to do." />
-    <string id="L7ZQtIuM" text="Ground" />
-    <string id="L802I9W2" text="Aye, I'll join the {FACTION_NAME}." />
-    <string id="L9840K0F" text="I can offer you a contract for three months. At the end of those three, it can be extended month by month. An initial sum of {OFFER_VALUE}{GOLD_ICON} will be paid to you to seal the contract. After that, you'll receive wages from {FACTION_LEADER} each week, according to the number and quality of the soldiers in your company. You still have your rights to battlefield loot and salvage, as well as any prisoners you capture. War can be very profitable at times..." />
-    <string id="LaBQQ7ue" text="{NOTABLE.LINK} says that a fish rots from the head. Well, look around this place. I think we know what he's getting at." />
-    <string id="lbNl0a8t" text="Also," />
-    <string id="lcVauEKV" text="Round is over, you are disqualified from the tournament." />
-    <string id="LD4tGYCA" text="It's a deed to a plot of farmland. Not a big or valuable plot, mind you, but I'd rather not have to explain to my men why they won't be sowing it this year. You can find the man who took it from me at the tavern in {TARGET_SETTLEMENT}. They call him the &quot;Game Host&quot;. Just be straight about what you're doing. He's in no position to work the land. I don't imagine that he'll turn down a chance to make more money off of it." />
-    <string id="LdCte9H0" text="I'll fight the other gang with you myself." />
-    <string id="LDGMSQJJ" text="Very well. Let me think on this a bit longer" />
-    <string id="ldJDR7t1" text="Our realms should make peace." />
     <string id="Ldp6ckgj" text="Don't worry, either I or one of my companions should be able to find her and see what's going on." />
     <string id="lEK7gx3G" text="I won't take you prisoner today." />
     <string id="lF5HkBDy" text="As you wish.." />
