@@ -162,7 +162,7 @@
     <string id="l2nEIZV5" text="Я - {CONVERSATION_CHARACTER.LINK} з клана {CLAN_NAME}." />
     <string id="L2PFxbD3" text="Так... Нядаўно вы здрадзілі мне. Нам сапраўды ёсць што абмяркоўваць?" />
     <string id="L6FSmeIv" text="Кажуць, вы шмат падарожнічалі. Мы жывём у такі жудасны час, столькі цяжкасцяў. Што вы думаеце пра тое, што бачылі?" />
-    <string id="LBb7YgXU" text="законны імператар Кальрадыі" />
+    <string id="LBb7YgXU" text="паўнапраўны імператар Кальрадыі" />
     <string id="LbpdzoRd" text="Мяне завуць {CONVERSATION_CHARACTER.LINK}. Я з дома {CLAN_NAME}. Наша сям'я засядала ў Сенаце і з гонарам выконвала свае абавязкі з першых дзён існавання Імперыі." />
     <string id="lcPeNFTN" text="Я рады пазнаёміцца з вамі." />
     <string id="LEZKgNEm" text="Я ніколі не чуў пра вас. Без сумневу, вы яшчэ адзін сцярвятнік, які прыляцеў на гэтую зямлю, каб растлусцець на рэштках вайны." />
@@ -239,7 +239,7 @@
     <string id="te2DSMtg" text="Мы болей не будзем з гэтым мірыцца. Мы пральём кроў прыгнятальнікаў і ўсіх, хто ўстане на шляху нашага справядлівага гневу." />
     <string id="tOanKs9o" text="Я {LIEGE_TITLE}." />
     <string id="tRSD2C3k" text="Тое заданне вы ўзялі на сябе. Вельмі добра зроблена." />
-    <string id="tUa5WBpp" text="законная імператрыца Кальрадыі" />
+    <string id="tUa5WBpp" text="паўнапраўная імператрыца Кальрадыі" />
     <string id="TUwY7IKc" text="Так... Вы сапраўды мяне ашукалі. Упэўнены, што нам няма пра што гаварыць пасля гэтага." />
     <string id="TvqjhDaQ" text="Дык вось, мой юны леў. У цябе від чалавека, які зможа далёка пайсці, калі не загіне." />
     <string id="Tvy4UvJC" text="каралева Вландыі" />
@@ -285,24 +285,21 @@
     <string id="Xl25HtPL" text="Добра, што я ведаю вашае імя. Калі я ўбачу вас на балі, я буду ведаць, як вітаць, а калі я ўбачу вас за сцяной шчытоў, буду ведаць, каго я забіваю." />
     <string id="xnR3sXJP" text="{PLAYER.NAME}" />
     <string id="xsaOxeHV" text="Я шмат чуў пра вас. Некаторыя мужчыны могуць баяцца жанчынаў, дасведчаных у вайсковым мастацтве, але я, напрыклад, не стану адварочвацца ад рук, здольных выхапіць меч, калі іх уладальніца будзе адважнай і адданай." />
-
-    <!-- there -->
-
-    <string id="xUOhJEJS" text="It is good to meet you. I am always looking for warriors who value courage, glory and a good name." />
-    <string id="Y8rYJaOa" text="I am {CONVERSATION_CHARACTER.LINK}, of the house of {CLAN_NAME}, one of the most illustrious families in the annals of the Empire. The barbarians we have slain, and the glory we have won, is second to none." />
-    <string id="y9bafYom" text="Congratulations on your victory in that tournament." />
-    <string id="YayEAKaI" text="Perhaps you have not heard of the Jawwal. Well, when you cross the desert, far from oasis and spring, in a land that others scorn, with thorns fit only for goats and camels, then you are in our domain." />
-    <string id="YDjLPgi3" text="Hmm. You have piqued my interest. What do you have to say?" />
-    <string id="ygP56lXC" text="The Heavens have blessed us with their commandments, which we must uphold and ensure others uphold." />
-    <string id="yRlINUML" text="Hah! I'll see you beg for mercy." />
-    <string id="YWOSDu1W" text="Enough! I choose to live to fight another day. I trust you will respect the custom of war, and allow me to pay a fair ransom.[if:convo_thinking]" />
-    <string id="z1s1qOma" text="I think I know what you're saying. Honor precludes me from even considering it." />
-    <string id="z2yr4mc6" text="I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}. Our clan has loyally served the Khuzait Khanate for generations." />
-    <string id="Z3E8MDaB" text="You attacked my village at {SETTLEMENT_NAME}. Oh, I won't pretend that my men would also have had a bit of fun if it was me paying a visit to your village. But as my tenants' protector, I have a certain obligation to avenge them a bit. Please don't take this personally." />
-    <string id="ZH04pkV6" text="king of the Sturgians" />
-    <string id="ZlA0uc8z" text="Thank you again for agreeing to handle that problem of mine. Best of luck with it." />
-    <string id="zPbQs8Zt" text="I can offer you a glorious death in battle, or the hospitality of my dungeons.[ib:warrior][if:convo_mocking_teasing]" />
-    <string id="zwRbpQJ0" text="I've heard of you! A pity we should meet like this." />
-    <string id="zZ9FQJRI" text="I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}, the most ancient and noble of the Aserai lineages." />
+    <string id="xUOhJEJS" text="Рады пазнаёміцца з вамі. Я заўсёды шукаю ваяроў, якія шануюць адвагу, славу і добрае імя." />
+    <string id="Y8rYJaOa" text="Я - {CONVERSATION_CHARACTER.LINK} з дома {CLAN_NAME}, аднаго з самых услаўленых у летапісах Імперыі. Барбары, якіх мы забілі, і слава, якую мы заваявалі, не маюць сабе роўных." />
+    <string id="y9bafYom" text="Віншую вас з перамогай на тым турніры." />
+    <string id="YayEAKaI" text="Магчыма, вы не чулі пра Джавал. Калі вы перасякаеце пустэльню, удалечы ад аазісаў і крыніцаў, па зямлі, якой іншыя грэбуюць, з калючкамі, прыдатнымі толькі для казлоў і вярблюдаў, значыць вы ў нашых валадарствах." />
+    <string id="YDjLPgi3" text="Хмм. Вы распалілі маю цікавасць. Жадаеце нешта сказаць?" />
+    <string id="ygP56lXC" text="Нябёсы дабраславілі нас сваімі запаведзямі, якія мы павінны выконваць і сачыць за тым, каб іншыя іх таксама выконвалі." />
+    <string id="yRlINUML" text="Ха! Я ўбачу, як вы будзеце прасіць літасці." />
+    <string id="YWOSDu1W" text="Досыць! Я вырашыў жыць, каб змагацца яшчэ адзін дзень. Я веру, што вы будзеце шанаваць звычаі вайны і дазволіце мне заплаціць справядлівы выкуп.[if:convo_thinking]" />
+    <string id="z1s1qOma" text="Думаю, я ведаю, што вы жадаеце сказаць. Гонар не дазваляе мне нават падумаць пра гэтае." />
+    <string id="z2yr4mc6" text="Мяне завуць {CONVERSATION_CHARACTER.LINK}. Я з клана {CLAN_NAME}. Нашы клан аддана служыў Ханству Хузаітаў на працягу шматлікіх пакаленняў." />
+    <string id="Z3E8MDaB" text="Вы напалі на маю вёску, {SETTLEMENT_NAME}. О, я не стану прыкідвацца, мае людзі таксама б павесяліліся, калі б я наведаў вашую вёску. Але як абаронца сваіх наёмных працоўных, я абавязаны ў нейкай меры адпомсціць за іх. Калі ласка, не прымайце гэта на свой рахунак." />
+    <string id="ZH04pkV6" text="князь Стургіі" />
+    <string id="ZlA0uc8z" text="Яшчэ раз дзякуй, што пагадзіліся заняцца маёй праблемай. Жадаю поспеху." />
+    <string id="zPbQs8Zt" text="Я магу прапанаваць вам хвалебную смерць у боі альбо гасціннасць маёй вязніцы.[ib:warrior][if:convo_mocking_teasing]" />
+    <string id="zwRbpQJ0" text="Я чуў пра вас! Шкада, што мы так сустрэліся." />
+    <string id="zZ9FQJRI" text="Я - {CONVERSATION_CHARACTER.LINK} з клана {CLAN_NAME}, найстаражытнейшага і шляхетнага роду Эсераяў." />
   </strings>
 </base>
