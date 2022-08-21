@@ -1,18 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
-
   <strings>
     <string id="02c5bQSM" text="Skinuć" />
     <string id="02E0oSJm" text="Foł! Vašy apanient biŭsia pa-za turniram. {?OPPONENT_GENDER}Jon byŭ dyskvalifikavany!{?}Jana była dyskvalifikavana!{\?}" />
     <string id="03mPaWum" text="Haspadarstva" />
-    <string id="04GuLxE1" text="Vy nie možacie raspuscić svaju ŭłasnuju partyju" />
-    <string id="05w8Tl7n" text="Step" />
+    <string id="04GuLxE1" text="Vy nie možacie zmianić lidara svajoj ułasnaj partyi ci raspuscić jaje" />
     <string id="07b4Wy0h" text="Abiarycie Vieršnicu" />
     <string id="082FNWAD" text="Asablivasci" />
     <string id="08aYzc2F" text="Starosta" />
     <string id="09ooh9I3" text="Pieški ruchajucca da chatniaj plitki apanienta. Dasiahnuŭšy apošniaj plitki, jany viartajucca na svaju chatniuju plitku. Varožyja pieški mohuć być zachopleny pa darozie." />
     <string id="0amC7X1h" text="Abjava Vajny" />
-    <string id="0c2UcygW" text="Battanijskija Pustečy" />
     <string id="0DiBS84d" text="Litasć" />
     <string id="0FssY1wG" text="Vy možacie ŭbačyć partrety važnych NHP na vierchniaj paneli.{newline}{newline}Nacisnicie {CONSOLE_ACTION_KEY}, kali kursor znachodzicca na ich partrecie, i abiarycie ŭ mieniu «hutarku»." />
     <string id="0GZ19XHb" text="Vupraž" />
@@ -24,8 +21,10 @@
     <string id="0mDkVTWn" text="Hieroi" />
     <string id="0oGz5rVx" text="Sumlennasć" />
     <string id="0qCbsOif" text="Pistalet" />
+    <string id="0rBsbw1T" text="Niama efiektu" />
     <string id="0RkO7oHP" text="kapitan" />
-    <string id="0RRNliSj" text="Esierajskaja Spiakota" />
+    <string id="0rsySqR6" text="Na {DAY_OF_YEAR} dzień {YEAR} vy pačuli pra cienievuju zmovu, jakaja jadnaje vorahaŭ Impieryi ŭ chaŭrus." />
+    <string id="0T3bP5r6" text="{DAY} {?PLURAL_DAYS}dzion{?}dzień{\?}" />
     <string id="0V4jIIju" text="Ruchajecca da {SETTLEMENT_NAME}, kab abłažyć." />
     <string id="0zNzaDGq" text="Klinok" />
     <string id="0zz1iDMY" text="pravadyr" />
@@ -40,16 +39,17 @@
     <string id="1dLZLQsY" text="Padaryć Vajaroŭ{newline}Vy nie zmožacie skasavać hetaje dziejannie." />
     <string id="1E6hFc0r" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} i {?}{\?}{TROOP_NAMES_END} zatulajuć ad vorahaŭ, jakija soŭhajucca za našymi spinami." />
     <string id="1HPITLca" text="Pieravyšany Limit Pałonnych" />
+    <string id="1ICTi9xQ" text="Abaroncy vybiahajuć, kab atakavać abłohavy łahier, jaki naležyć {BESIEGER_LEADER.NAME}" />
     <string id="1jqxlEkT" text="Spiecyi{@Plural}miachoŭ spiecyj{\@}" />
     <string id="1KcIeYe2" text="Vy pavinny znachodzicca ŭ tym ža miescy, što i piersanaž, kab pahavaryć z im" />
     <string id="1klXxZFS" text="Ja šlachcianka {TOWNS}." />
     <string id="1Llb4gGw" text="Zaviaršennie" />
+    <string id="1m8zRjs8" text="Na {DAY_OF_YEAR} dzień {YEAR} kłan {CLAN_NAME} dałučyŭsia da haspadarstva {KINGDOM_FORMALNAME}." />
     <string id="1MStGeRa" text="Pabita apanientaŭ: {BEATEN_OPPONENT_COUNT}" />
     <string id="1o1TyPib" text="Dadatkovy Limit Kampańjonaŭ" />
     <string id="1PwQxaOu" text="Zdajecca, idzie rychtoŭla da turniru" />
     <string id="1pxLpZ4r" text="Razvažlivasć:" />
     <string id="1sJcKkVP" text="Vartavy" />
-    <string id="1wHTYnxh" text="Vy padtrymali zmovu suprać Impieryi!" />
     <string id="1wkANMRC" text="Našy płan - pasprabavać utrymać hety vuzki prachod." />
     <string id="1XE7yeaP" text="Pasla taho, jak hety pałonny atrymaje {CONFORMITY_AMOUNT} ačkoŭ zhody, jašče adzin pałonny budzie dastupny dla rekrutavannia." />
     <string id="1XVvU23F" text="Niemahčyma vykarystoŭvać tekst z bufieru pamienu ŭ jakasci kluča ŭłascivasciaŭ cieła!" />
@@ -87,6 +87,8 @@
     <string id="300TAI7u" text="Pradać Usio" />
     <string id="33ghdWWi" text="Inšyja Palityki" />
     <string id="33hHRM8r" text="Krok Apanienta" />
+    <string id="34SYOOUa" text="Vy zniščyli ŭsie abłohavyja mašyny voraha! Čas adstupić u zamak." />
+    <string id="36hbMBhb" text="Na {DAY_OF_YEAR} dzień {YEAR} haspadarstva {FORMAL_NAME} było zniščana i nie zmoža vykanać svajo pryznačennie: {?PLAYER_WANTS_RESTORE}adnavić{?}razburyć{\?} Impieryju, jak vy spadziavalisia." />
     <string id="3CpNUnVl" text="Skasavać" />
     <string id="3CsACce8" text="Vychad" />
     <string id="3cTKRX1M" text="Nikoli nie bačyli raniej" />
@@ -140,6 +142,7 @@
     <string id="4QAwbFcQ" text="Najblizkaje Schovišča" />
     <string id="4rRsmX8i" text="Dobra. Časam lepiej stryhčy aviečak, čym jesci ich." />
     <string id="4Skg9QhO" text="Trebušet" />
+    <string id="4tdVrFtU" text="tryccać pierš." />
     <string id="4U6x48yQ" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} i {?}{\?}{TROOP_NAMES_END} viaduć bitvu." />
     <string id="4WD0kJSR" text="Arrr... Lepiej nie hulaj z nami." />
     <string id="4wYguFLZ" text="Vyrašaje prablemu" />
@@ -148,6 +151,7 @@
     <string id="4ytmLxOy" text="Ciažarnaja" />
     <string id="59hbrhfY" text="Ciapierašni Dosvied Vajara" />
     <string id="59PSpyu8" text="Zviazanaje sielišča: {SETTLEMENT_LINK}" />
+    <string id="5a4cY5az" text="Vy nie možacie vykanać hetaje dziejannie padčas abłohi." />
     <string id="5bqmaciE" text="{ARMY_MEMBER} budzie ŭ vojsku" />
     <string id="5cGXHF1a" text="Sionnia" />
     <string id="5CYdyMzj" text="Astatn." />
@@ -160,6 +164,7 @@
     <string id="5k4dxUEJ" text="Vajary" />
     <string id="5kS1qjZL" text="Pa hetym sieliščy ŭžo isnuje niavyrašanaja pastanova." />
     <string id="5lDYh7wJ" text="Vy pabudavali barjer suprać svajho apanienta, ale ŭ vas zastałosia mieniej piešak. Vy prajhrali hulniu!" />
+    <string id="5lT70YJY" text="Na {DAY_OF_YEAR} dzień {YEAR} da vas dašli čutki pra tajemny pakt, składzieny pamiž supiernymi impierskimi frakcyjami dla abjadnannia  svaich siłaŭ suprać vorahaŭ Impieryi." />
     <string id="5pGjYBFn" text="Danina Atrymana" />
     <string id="5QN7SFNW" text="III" />
     <string id="5rj7xQE4" text="Łuk" />
@@ -170,11 +175,13 @@
     <string id="5SQaiYXi" text="Foł! Nielha bić kania vašaha apanienta. Vy dyskvalifikavany!" />
     <string id="5T7nyzda" text="Ja rady čuć hetaje. Zabojstvy dla nas taksama zniamožlivaja praca." />
     <string id="5U70lB7k" text="Nacisnicie {KEY}, kab schavać" />
+    <string id="5UpDD9eS" text="dziasiat." />
     <string id="5WJbtDqp" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} i {?}{\?}{TROOP_NAMES_END} pierastrelvajucca z-za chaŭrusnikaŭ." />
     <string id="5WWbQRQ5" text="Hulec pieramahaje, kali jaho supiernik bolej nie moža zdziajsniać skoki (zachopy)." />
     <string id="5X9Sq4T4" text="{NUM} Šlacič(aŭ)" />
     <string id="5XFDdsHf" text="Admovicca ad Haspadarannia" />
     <string id="5ZPp8btH" text="Prapanova bartaru pryniata!" />
+    <string id="640qFpJ8" text="{DAY} {?PLURAL_DAYS}dzion{?}dzień{\?} i {HOUR} {?PLURAL_HOURS}hadzinaŭ{?}hadzina{\?}" />
     <string id="65QqsaKe" text="Vy na niapravilnym baku!" />
     <string id="6b1RXicd" text="Palepšany Taran" />
     <string id="6bex2HUl" text="Chacia zdajecca, što bolšasć ludziej spraŭlajecca z prablemami, šmat chto vyhladaje razdražnionym, i vy čujecie, jak niekalki minakoŭ marmyčuć, što ich ciarplivasć vyčerpvajecca. Vy adčuvajecie, što niešta moža zavarušycca." />
@@ -190,6 +197,7 @@
     <string id="6OZycZbc" text="U kłana niama dastupnych hierojaŭ, kab uznačalić novuju partyju." />
     <string id="6PLqUB34" text="šlachcič" />
     <string id="6pNrNj93" text="Sciana" />
+    <string id="6RDRxvaC" text="Kolučyja ataki mohuć zvalić vieršnika" />
     <string id="6S5JjlP2" text="Zacišak" />
     <string id="6SFktFH3" text="Siaredniaja brania" />
     <string id="6UUymZhL" text="Impieryja" />
@@ -205,6 +213,7 @@
     <string id="7AFlpaem" text="{STR1} {STR2}" />
     <string id="7AOOQ5iB" text="Niahledziačy na ciažkasci, vy čujecie mała skarhaŭ, i ludzi, zdajecca, dazvalajuć svaim haspadaram viesci ich praz niahody." />
     <string id="7aYV4L9z" text="+{NUMBER}" />
+    <string id="7b60SOvI" text="Na {DAY_OF_YEAR} dzień {YEAR} {KING_NAME} {?KING_NAME.GENDER}była karanavana{?}byŭ karanavany{\?} jak {TITLE_NAME} haspadarstva {FORMAL_KINGDOM_NAME}." />
     <string id="7chepLLh" text="Zniščyć abłohavyja mašyny{?IS_GENERAL_SIDE}{?} na {SIDE_STRING} boku{\?}" />
     <string id="7cMUohRm" text="Kamandujcie simulacyjami bajoŭ. Pieramahajcie bitvy ŭ składanych umovach. Uchilajciesia ad sutyknienniaŭ, pry patrebie achviarujcie vajarami." />
     <string id="7cnb2iEb" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} i {?}{\?}{TROOP_NAMES_END} pierastrelvajucca." />
@@ -224,10 +233,10 @@
     <string id="7sUhWG0E" text="Kolučaja škoda: " />
     <string id="7sZMMYbe" text="Małaja Frakcyja" />
     <string id="7t1daAel" text="Drenny vynachod, siabar.[ib:aggressive][if:convo_very_stern]" />
-    <string id="7UbviYSn" text="Sturhijskaja Ciša" />
     <string id="7vdgxtwo" text="IV" />
     <string id="7vrdpDFK" text="&lt;b&gt;Manhanel&lt;/b&gt;{NEWLINE}Kidaje kamiennie na adlehłasć z dapamohaj tarsijonnaj ciahi.{NEWLINE}Adnolkava efiektyŭny suprać scienaŭ i abłohavych mašynaŭ voraha z ich piersanałam." />
     <string id="7W79uw0y" text="Viarnuć da Zmoŭčannia" />
+    <string id="7Wcnipag" text="čatyrnaccat." />
     <string id="7WFFCVMa" text="Admysłov." />
     <string id="7xFRFV0P" text="Sfarmavać achoŭnaje kalco." />
     <string id="7Xynf4IA" text="Brania Rukaŭ" />
@@ -243,16 +252,17 @@
     <string id="8byRf9zO" text="Ahuln." />
     <string id="8c8NDpAd" text="{HERO.NAME} {?HERO.GENDER}atrymała{?}atrymaŭ{\?} asablivasć {TRAIT_NAME}." />
     <string id="8cY08v3s" text="Hetaja vioska siaredniaha bahaccia. Ludzi i žyvioły vyhladajuć sytymi. Viaskoŭcy rupliva vykonvajuć siezonnuju pracu. " />
+    <string id="8fLMcFFG" text="Na {DAY_OF_YEAR} dzień {YEAR} vy razharnuli sciah cmoka i abviascili svaju misiju pa {?PLAYER_WANTS_RESTORE}adnaŭlenniu{?}razburenniu{\?} Impieryi." />
     <string id="8geYNpC9" text="{THRUST_DAMAGE_TYPE} Škoda Snarada:" />
     <string id="8Gh3Waa3" text="žonka" />
     <string id="8HMyTKF6" text="Vłandyja" />
+    <string id="8iONwXCz" text="dvaccać druh." />
     <string id="8Jb61k7G" text="(+{GAIN_AMOUNT} zhurtavanasci)" />
     <string id="8kVhiTmu" text="Nastupny Rovień:" />
     <string id="8l8xEu64" text="Kupić i Ekipijavać" />
     <string id="8LhfzIQE" text="r" />
     <string id="8mBT44QK" text="Šlachta frakcyi {FACTION}" />
     <string id="8oaVYIlk" text="Vy znadvorku {SETTLEMENT_NAME}. Vy nie možacie ŭvajsci ŭ zamak, bo jon naležyć vorahu." />
-    <string id="8Oex8scw" text="Centralnaja Jeŭropa" />
     <string id="8OkPHu4f" text="Nie" />
     <string id="8Rkxc5jE" text="Niama ježy" />
     <string id="8rzcgCO5" text="Sartavać pa" />
@@ -268,26 +278,27 @@
     <string id="9B5kxWb8" text="Inšaja partyja pieravysiła limit svaich vajaroŭ.{newline}Jana časova zachavaje svaich vajaroŭ, ale praz peŭny čas vajary chutka pačnuć pakidać partyju.{newline}Vy ŭpeŭnieny?" />
     <string id="9Bm06EEJ" text="Vy čujecie šmat ušanavanniaŭ mudrasci haspadaroŭ, jakija dasiahnuli hetaha roskvitu." />
     <string id="9C0J0ZkT" text="Stralać z-pad zatulennia piachoty." />
-    <string id="9cu05mOt" text="Esierajskaja Ciša" />
     <string id="9dcQ2VZv" text="Našy płan - heta farmavannie abarončaha kolca vakoł našych vajaroŭ dalokaha boju." />
     <string id="9ECleB7I" text="Praviadzicie piachotnuju duel z vašym apanientam dla pieramohi!" />
     <string id="9EgIraI1" text="Aktyŭnyja Palityki" />
     <string id="9esIWdDC" text="Bajusia, nam budzie treba zrabić z vas prykład. Nie malicie ab litasci.[ib:aggressive][if:convo_bared_teeth]" />
-    <string id="9fBE1860" text="Kiniematahrafičnaja Ciepłynia" />
     <string id="9FhdRKWu" text="Kidalny Nož" />
     <string id="9gNjg4P0" text="Heta nie zachavaje vašuju hulniu, ale viernie vas u hałoŭnaje mieniu. Vy ŭpeŭnieny, što žadajecie vyjsci?" />
     <string id="9iycVtyV" text="Chutkasć Vyvučennia: x {COUNT}" />
+    <string id="9Lhd2zVW" text="Na {DAY_OF_YEAR} dzień {YEAR}, vy znajšli trecciu častku Sciaha Cmoka i hatovy razharnuć jaho znoŭ." />
     <string id="9NjDfz5Z" text="({LEFT} / {RIGHT})" />
     <string id="9PLNQrWw" text="Vy čujecie mała skarhaŭ, i ludzi, zdajecca, daviarajuć uładam." />
     <string id="9pwIt4aa" text="Vosk{@Plural}adzinak vosku{\@}" />
+    <string id="9raxrECY" text="Kali vy praciahniecie, {LEADER.NAME} stanie novym lidaram hetaj partyi. Vy ŭpeŭnieny?" />
     <string id="9yffPYUl" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} i {?}{\?}{TROOP_NAMES_END} atakujuć." />
     <string id="9zpZRkYz" text="Farsavannie budoŭli prajekta daje +{BOOST} i kaštuje {COST} denaroŭ / dzień." />
+    <string id="9ZyXl25X" text="druh." />
     <string id="a0mJ0cVV" text="Spažyvannie" />
     <string id="A0sT86A3" text="Nie Abrana Vajna" />
     <string id="a0YMy8E5" text="{REQUIRED_ITEM} patrebien dla palapšennia." />
     <string id="a10WGnBr" text="Foł! Nijakich bajoŭ pa-za turniram. Vy dyskvalifikavany!" />
     <string id="a15eUf3B" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} i {?}{\?}{TROOP_NAMES_END} vajujuć z voraham u miežach scienaŭ." />
-    <string id="A1tkQyBb" text="Haspadarstva {KINGDOM_NAME} pieramožana. Vy paciarpieli niaŭdaču!" />
+    <string id="A38xbjqm" text="Zadziejničać" />
     <string id="a3hmB91k" text="Budujcie i kirujcie abłohavymi mašynami. Paspiachova vykarystoŭvajcie mašyny ŭ abłozie jak u atacy, hetak i ŭ abaronie." />
     <string id="A3T5z4Mv" text="Abarona" />
     <string id="a3uKkLez" text="{LORD.LINK} u pole pobač z {SETTLEMENT_NAME}" />
@@ -300,17 +311,15 @@
     <string id="a8zwLVKj" text="Mahutnasć" />
     <string id="aa5tNRb9" text="Krytyčny Šaniec Pospiechu" />
     <string id="AagJ9cSL" text="Ja nie viedaju, dzie {?ASKED_LORD.GENDER}jana{?}jon{\?}." />
-    <string id="aANW0vf6" text="Battanijskaja Žorstkasć" />
     <string id="aaQtzfjL" text="Vydatna, {?PLAYER.GENDER}pani{?}panovie{\?}. Trymajcie hrošy i vino na svajoj darozie, i ŭ Kalradyi nie budzie strašnaha vam voraha.[ib:convo_approving]" />
     <string id="aayrvLOX" text="Praciahvajcie padarožža. Biaspiečnaha šlachu." />
     <string id="abbALYlp" text="Balista" />
-    <string id="aBFmqKxB" text="Stratasfiera" />
     <string id="aBgnQ1MO" text="Pryznačyć Starostu" />
+    <string id="aBssWwIu" text="Kali vy praciahniecie, {GOVERNOR.NAME} stanie novym starostam {SETTLEMENT_NAME}. Vy ŭpeŭnieny?" />
     <string id="abV5bff6" text="Vy zachapili pieški." />
     <string id="acbkKbT0" text="My musim zrabić niešta inšaje." />
     <string id="aCkzVUCR" text="Ački Ŭdaru: " />
     <string id="aCP5ZBbp" text="Adnosiny:" />
-    <string id="aDA9PWFT" text="Prasoŭvannie" />
     <string id="ADJBbfbQ" text="Futra{@Plural}adzinak futra{\@}" />
     <string id="ADJQa8am" text="Najmity nie mohuć padtrymlivać inšyja kłany." />
     <string id="adtqbbGU" text="Adlehłasć da lidara vojska" />
@@ -322,6 +331,7 @@
     <string id="agkgu85j" text="Vy prybyli ŭ sielišča {SETTLEMENT}, kab uziać jaho ŭ abłohu." />
     <string id="aGNfjmsz" text="&lt;b&gt;Lesvica&lt;/b&gt;" />
     <string id="aGSMGMfn" text="Litasć:" />
+    <string id="AGXqmCuO" text="Nie dazvolcie voraham zniščyć našyja abłohavyja mašyny!" />
     <string id="agYpWI9u" text="Šaniec Pospiechu" />
     <string id="aH4KnzBu" text="Bajazlivasć" />
     <string id="ahiBhAqU" text="Brania" />
@@ -1576,7 +1586,7 @@
     <string id="tXl9REtA" text="Rušennie {SETTLEMENT_NAME}" />
     <string id="Tyc4aAdz" text="Dałučycca da bitvy, nie ŭznačalvajučy ludziej." />
     <string id="TZZaO7iI" text="Kali vašyja ački navykaŭ dasiahnuć patrebny paroh, adna abo niekalki pieravahaŭ stanuć dastupnyja.{newline}{newline}Pra heta budzie apaviaščać nievialiki indykatar nad knopkaj ekrana piersanaža.{newline}{newline}Nacisnicie {CONSOLE_ACTION_KEY}, kali kursor znachodzicca na knopcy piersanaža, kab prahladzieć dastupnyja varyjanty pieravahaŭ." />
-    <string id="u3c9M8vx" text="archontessa" />
+    <string id="u3c9M8vx" text="archontesa" />
     <string id="U7er3V9s" text="Pradmiety" />
     <string id="U7etPQA2" text="{HERO.FIRSTNAME} {JOB_NAME}" />
     <string id="U7Z7f7ZT" text="{?HERO.GENDER}Žonka{?}Muž{\?}" />
