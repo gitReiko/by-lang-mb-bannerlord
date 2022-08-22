@@ -850,6 +850,7 @@
     <string id="HNBAw1uO" text="{PARTY} атрымала {AMOUNT_TO_ADD} вядомасці. Новая вядомасць клана {CLAN} {NEW_RENOWN}." />
     <string id="HNqy4Ctc" text="Немагчыма выгнаць кампаньёна, які вырашае праблему." />
     <string id="ho5EndaV" text="Пастанова" />
+    <string id="hoebgN2u" text="Калі вы працягнеце, абраныя чальцы клана пачнуць падарожжа і будуць недаступныя да прыбыцця ў {SETTLEMENT_NAME}. Вы ўпэўнены?" />
     <string id="homesettlement" text="Дом" />
     <string id="hometab" text="Дом" />
     <string id="hourabbr" text="г" />
@@ -858,7 +859,6 @@
     <string id="HQgSPtK6" text="Вы ўпэўнены, што жадаеце выйсці з сеткавай гульні?" />
     <string id="hqIIEur1" text="Вы сутыкнуліся з {ARMY}." />
     <string id="hroWCoqV" text="Падтрымка прыняцця" />
-    <string id="hrUJeG44" text="Габелен" />
     <string id="hSsS5xAa" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} і {?}{\?}{TROOP_NAMES_END} чакаюць прыбыцця іншых аблогавых машынаў." />
     <string id="HuCClZqT" text="Заробак" />
     <string id="husbandbrotherinlaw" text="швагер" />
@@ -874,84 +874,85 @@
     <string id="HZ8ws4qX" text="Паслугі Наймітаў" />
     <string id="hZ9eNwFZ" text="Перавагі звычайна робяцца даступнымі парамі.{newline}{newline}Кожная дае розныя бонусы, таму абірайце з розумам." />
     <string id="hzflo2kJ" text="Вы зноў выратавалі нашыя шыі, {PLAYER.LINK}! Сапраўды, вы лепшы сябар." />
-    <string id="i0H8WLRx" text="Вы не можаце выгнаць клан гаспадара." />
     <string id="I2YhWaIt" text="Тавары" />
-    <string id="i30TCtj2" text="НА ПАЎЗЕ" />
+    <string id="I3Vfk5mz" text="дваццат." />
     <string id="I42QtISB" text="Нельга выгнаць галоўнага героя з клана." />
     <string id="I4BbOX46" text="Вы ў войску {ARMY_LEADER}{.o}." />
-    <string id="i4g81l3E" text="Адносіны: {NUM}" />
     <string id="I6OJtaMT" text="Ніколі" />
     <string id="I8xMpWxO" text="Адважнасць" />
     <string id="IagYTD5O" text="Росквіт" />
     <string id="IbGNaL0H" text="{HERO.LINK}   Узровень: {LEVEL}" />
     <string id="IbkODMHV" text="Шукайце сляды і сховішча. Падарожнічайце па складанай мясцовасці. (Выведка)" />
-    <string id="iBZc9RbE" text="Давайце пачакаем усіх." />
     <string id="IcgVKFxZ" text="Гаспадар" />
-    <string id="iCirZbD8" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} і {?}{\?}{TROOP_NAMES_END} страляюць са сценаў замка." />
-    <string id="icmyseoo" text="Мой шляхціч" />
     <string id="IcQ2doLo" text="x{QUANTITY}" />
-    <string id="id62me1x" text="Націсніце, каб &quot;Аблажыць&quot;" />
     <string id="ID8wnSIi" text="Гэтае дзеянне не дазволена на цяперашнім этапе гісторыі." />
     <string id="IdYj8OJg" text="Наверша" />
     <string id="If65Vm9h" text="Адукацыя Дзіцяці" />
     <string id="IF7zS5ia" text="Вы перавысілі ліміт палонных.{newline}Часова вы зможаце ўтрымліваць сваіх палонных, але праз пэўны час яны пачнуць хутка збягаць з вашай партыі. Таксама вы будзеце запаволены.{newline}Вы ўпэўнены?" />
-    <string id="iffbWGBa" text="Цётка" />
-    <string id="iFg5N7r3" text="Аднаручная Зброя" />
     <string id="Igoid3sR" text="Прапанаваць выгнаць гэты клан з гаспадарства ({SUPPORT}%)" />
-    <string id="ihVHfUFT" text="Пабудова" />
-    <string id="iisvVbDI" text="Купіць усё" />
-    <string id="IiSZhZpg" text="Поўнач" />
     <string id="IiyN5krb" text="{TRAIT_NAME} ({TRAIT} {TRAIT_VALUE}){newline}{TRAIT_DESCRIPTION}" />
     <string id="IjMel5eg" text="Вы можаце прадаць усіх палонных адразу.{newline}{newline}Або можаце пагутарыць з пасярэднікам па выкупе, каб абраць іх індывідуальна." />
     <string id="IK2IPJi1" text="Соль{@Plural}мяхоў солі{\@}" />
+    <string id="ImJ4hdke" text="Прапанаваць Новую Палітыку" />
+    <string id="InGwtrWt" text="Выйсці" />
+    <string id="IoLK7Lec" text="Базавы Памер" />
+    <string id="IOtAJCVw" text="Сукупны Ўплыў: {TOTAL_INFLUENCE}" />
+    <string id="IPjqLEdQ" text="{DAY} дзён таму" />
+    <string id="IQ4bSdf5" text="Залвіца" />
+    <string id="Is3O8NXW" text=" ({NUMBER_OF_MEN}+{NUMBER_OF_WOUNDED_MEN}р)" />
+    <string id="ISJ8Tt8a" text="{COUNT} {.%}{?(COUNT &gt; 1)}{PLURAL(ITEM)}{?}{ITEM}{\?}{.%}" />
+    <string id="ISz5bLEO" text="дванаццат." />
+    <string id="ITTGMEUJ" text="Фінік{@Plural}мяхоў фінікаў{\@}" />
+    <string id="Itv3fgJm" text="Зерне{@Plural}мяхоў зерня{\@}" />
+    <string id="IuWu5Bu7" text="Шчодрасць" />
+    <string id="IUxlDj4s" text="Выпадкаваць усё" />
+    <string id="IvrBQHRp" text="Зброя Блізкага Бою" />
+    <string id="IwpFM2CJ" text="Турнір будзе коннаю гонкаю." />
+    <string id="IXwOaa98" text="Памер Партыі" />
+    <string id="i0H8WLRx" text="Вы не можаце выгнаць клан гаспадара." />
+    <string id="i30TCtj2" text="НА ПАЎЗЕ" />
+    <string id="i4g81l3E" text="Адносіны: {NUM}" />
+    <string id="i5ROjI8K" text="На {DAY_OF_YEAR} дзень {YEAR} вы знайшлі артэфакт, пра які казаў Тактэас." />
+    <string id="iBZc9RbE" text="Давайце пачакаем усіх." />
+    <string id="iCirZbD8" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} і {?}{\?}{TROOP_NAMES_END} страляюць са сценаў замка." />
+    <string id="icmyseoo" text="Мой шляхціч" />
+    <string id="id62me1x" text="Націсніце, каб &quot;Узяць у Аблогу&quot;" />
+    <string id="iffbWGBa" text="Цётка" />
+    <string id="iFg5N7r3" text="Аднаручная Зброя" />
+    <string id="ihVHfUFT" text="Пабудова" />
+    <string id="iIBqTcKx" text="Атакі могуць збіваць з ног ворагаў" />
+    <string id="iisvVbDI" text="Купіць усё" />
     <string id="iKUXVaFf" text="Кошт уплыву: {reg0}" />
     <string id="iKzyJHiD" text="Прабачце, зараз я не ведаю пра добрыя гандлёвыя ўгоды." />
     <string id="iLcfZ71B" text="Перакананне" />
     <string id="iLD5Lkto" text="Агнявы Анагр" />
-    <string id="ilE6nmWh" text="Восень {DAY}, {YEAR}" />
     <string id="iLEhyGI8" text="Кальрадыйская Імперыя ў заняпадзе. Яшчэ да падазронай смерці Імператара Арэнікоса некалі з'яднанае гаспадарства раздзірала палітычнае суперніцтва. Сёння гэтыя фракцыі адкрыта вядуць вайну. І ўсё кальрадыйцы пакутуюць. Метадычнае вывучэнне абарончай стратэгіі, у якой гарнізонныя гарады запавольваюць сілы ўварвання датуль, пакуль мабільныя палявыя войскі не прыходзяць ім на выратаванне, дапамагае стрымліваць сваіх суседзяў." />
     <string id="ilhkpKfp" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} і {?}{\?}{TROOP_NAMES_END} перастрэльваюцца на кані." />
-    <string id="ImJ4hdke" text="Прапанаваць Новую Палітыку" />
     <string id="iNDKwJYJ" text="Кошт Досведу для Паляпшэння Ваяра" />
-    <string id="InGwtrWt" text="Выйсці" />
     <string id="inKr3PbA" text="Войскі" />
     <string id="iNriAkLl" text="Ужываецца для павелічэння хуткасці" />
     <string id="ioKVFDcQ" text="{?AND} {?}і {\?}{SENTENCE_3} " />
     <string id="ioKwRFcj" text="Абмеркаваць мірную дамову (Падтрымка: {SUPPORT}%)" />
     <string id="iOLa5rjZ" text="Зерне - звычайна самая танная ежа, якую вы можаце набыць.{newline}{newline}Іншыя віды ежы могуць даваць розныя бонусы пры спажыванні.{newline}{newline}Купіце ежу цяпер." />
-    <string id="IoLK7Lec" text="Базавы Памер" />
     <string id="iORENG5d" text="Найміты не могуць прапанаваць палітыкі." />
-    <string id="IOtAJCVw" text="Выніковы Ўплыў: {TOTAL_INFLUENCE}" />
-    <string id="IPjqLEdQ" text="{DAY} дзён таму" />
-    <string id="IQ4bSdf5" text="Залвіца" />
     <string id="iQao7Ct6" text="Галадаючыя Партыі" />
     <string id="iRo4meJR" text="Нельга адкрыць акно энцыклапедыі зараз!" />
-    <string id="Is3O8NXW" text=" ({NUMBER_OF_MEN}+{NUMBER_OF_WOUNDED_MEN}р)" />
-    <string id="ISJ8Tt8a" text="{COUNT} {.%}{?(COUNT &gt; 1)}{PLURAL(ITEM)}{?}{ITEM}{\?}{.%}" />
     <string id="itLpRUtF" text="У клане няма пустых вочак партый." />
-    <string id="ITTGMEUJ" text="Фінік{@Plural}мяхоў фінікаў{\@}" />
-    <string id="Itv3fgJm" text="Зерне{@Plural}мяхоў зерня{\@}" />
     <string id="itvLr7dL" text="Падняць" />
     <string id="iUTXqFmm" text=" і {?VILLAGE_COUNT}суседнія вёскі{?}суседняя вёска{\?} з {VILLAGE_NAMES}" />
-    <string id="IuWu5Bu7" text="Шчодрасць" />
-    <string id="IUxlDj4s" text="Выпадкаваць усё" />
     <string id="iVEZrZzs" text="Пайсці ў авангардзе" />
-    <string id="IvrBQHRp" text="Зброя Блізкага Бою" />
-    <string id="IwpFM2CJ" text="Турнір будзе коннаю гонкаю." />
-    <string id="IXwOaa98" text="Памер Партыі" />
     <string id="iYCR3xuQ" text="Княства Стургія" />
     <string id="iyDOTnCS" text="Даць ім тое, чаго яны прагнуць!" />
     <string id="iyob7aH3" text="Бараніце сваю пазіцыю" />
     <string id="izKWEAbY" text="Клан Не Мае Дадатковых Прыбыткаў" />
     <string id="j2OaZPQz" text="Вашыя ваяры атрымаюць {XP_AMOUNT} досведу за ахвяраванне зброі і/або брані ў залежнасці ад вашых перавагаў. Яны змогуць атрымаць да {XP_DONATION_LIMIT} досведу." />
-    <string id="J37tYBua" text="Вландыйская Ціша" />
     <string id="J3ACAwbt" text="Ваш апанент пабудаваў бар'ер супраць вас, але ў вас засталося болей пешак. Вы выйгралі!" />
     <string id="J3L0MuEU" text="Бітва прайграна. Націсніце {leave_key}, каб прагледзець вынікі." />
+    <string id="j46AltVv" text="дваццаць восьм." />
     <string id="j4F7tTzy" text="Клан" />
     <string id="j4IdJPkE" text="Нельга Перазарадзіць Конна" />
     <string id="J4NmLqib" text="Закончаны" />
     <string id="J5961cx8" text="Вы рэзка замарудзіцеся. Будзьце асцярожныя." />
-    <string id="j5c3EDoH" text="Кадр" />
     <string id="J7DnK8Kv" text="Сёння не твой дзень, сябар. Жадаеш аддаць сваё срэбра? Пераразаць чыё-небудзь горла будзе рэальнай ганьбай.[if:convo_mocking_revenge]" />
     <string id="j9Weia10" text="Лёгк." />
     <string id="JAFIo7cM" text=":" />
@@ -964,8 +965,6 @@
     <string id="jd4ULLGr" text="Актыўныя Квэсты" />
     <string id="JD7OlpIl" text="Вы можаце націснуць {CONSOLE_ACTION_KEY}, калі курсор знаходзіцца на кнопцы &quot;+&quot;, каб дадаць 10 згуртаванасці. Майце на ўвазе, павышэнне згуртаванасці патрабуе некаторага ўплыву." />
     <string id="JdNTRtpJ" text=" Падтрымлівайце высокую мараль у сваёй групе. Збірайце і ўзначальвайце войскі. " />
-    <string id="jEaglTuQ" text="Вы з'ядналі Імперыю!" />
-    <string id="jeEFhFbu" text="Імперская Ціша" />
     <string id="Jelvod71" text="Захоплівае" />
     <string id="jfIbp2Hg" text="Асочванне: " />
     <string id="JflqTj4T" text="Рознае" />
@@ -976,12 +975,14 @@
     <string id="JHBEwYGT" text="Набыта гараджанінам" />
     <string id="jhosdZaX" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} і {?}{\?}{TROOP_NAMES_END} бароняць ключавыя пазіцыі замка." />
     <string id="jIcGy6gI" text="{LEFT} : {RIGHT}" />
+    <string id="jIZcOvMT" text="На {DAY_OF_YEAR} дзень {YEAR} {NAME} {?NAME.GENDER}была пакарана{?}быў пакараны{\?} смерцю." />
     <string id="jiKRLWD4" text="Паказаць у энцыклапедыі" />
     <string id="JkpSoFQ8" text="Нанесеныя страты" />
+    <string id="JKQjXH9M" text="дваццаць сём." />
     <string id="JkVV4vUs" text="Націсніце кнопку гутарка, каб пачаць размову." />
     <string id="jlgjLDo7" text="Гарнізон" />
     <string id="jM9KGCIa" text="{?RULER.GENDER}Эміра{?}Эмір{\?} {RULER.NAME}" />
-    <string id="JnoB0RZ4" text="Пакараць {?DYING_HERO_GENDER}яе{?}яго{\?} смерцю" />
+    <string id="JnoB0RZ4" text="Пакараць {?DYING_HERO.GENDER}яе{?}яго{\?} смерцю" />
     <string id="jnTQbSsH" text="Вы бачыце, як людзі ў вёсцы збіраюцца, каб даць вам адпор. Што жадаеце рабіць?" />
     <string id="joICaqvo" text="Не прызначаны" />
     <string id="JP7LTAsa" text="Добра! Добра! А зараз ідзі! Сыходзь![ib:aggressive][if:convo_angry]" />
@@ -990,20 +991,21 @@
     <string id="JQarnWiz" text="Вам бракуе матэрыялаў для гэтага." />
     <string id="jQGcUobB" text="Гарадское" />
     <string id="JQOUUVct" text="Паўза" />
-    <string id="jsf7b6bD" text="Пакаранне Смерцю Палоннага" />
     <string id="JSokBXER" text="Цяжкая Пяхота" />
     <string id="jSXE0Gbj" text="Тут амаль няма жыхароў, астатнія напалоханы і хутка разбягаюцца перад вамі. Вёска ў вашай літасці." />
     <string id="jtN3ayKE" text="Асноўная Вытворчасць" />
     <string id="JTyC3Xra" text="Сквапнасць" />
     <string id="Ju9ZiFT2" text="Зброя Блізкага Бою V" />
+    <string id="Jw4oiIM4" text="На {DAY_OF_YEAR} дзень {YEAR} {KING_NAME} быў абвешчаны {?IS_KING_MALE}Імператарам{?}Імператрыцай{\?} Кальрадыі" />
     <string id="jx8ohENz" text="Збройнік" />
+    <string id="jxatfzXh" text="На {DAY_OF_YEAR} дзень {YEAR} {NAME} {?NAME.GENDER}памёрла{?}памёр{\?} ад натуральных прычынаў." />
+    <string id="JzBQY5I6" text="Знішчыце варожыя аблогавыя машыны!" />
     <string id="jZYUdkXF" text="Голад" />
     <string id="K0mlQblA" text="Дзённае спажыванне ежы войскам" />
     <string id="K0XVOalL" text="Стаўка Зараз" />
     <string id="k1E9DuKi" text="Абраць Усё" />
     <string id="K2G3XJwZ" text="Запальчывасць" />
     <string id="k3LajvfJ" text="Рэдактар Сцяга" />
-    <string id="k4TcX1wT" text="{HOUR_PREPARATION_TIME} {?PLURAL_HOURS}гадз.{?}гадз.{\?}" />
     <string id="K5uR5HVX" text="Націсніце '{EXTEND_KEY}' для дадатковай інфы." />
     <string id="K6GYskvJ" text="Культура:" />
     <string id="k6tT1vIg" text="Турнір скончаны, вашы апанент сёння перасягнуў вас...." />
@@ -1021,7 +1023,7 @@
     <string id="kdV0tx9K" text="Вітаю, вандроўнік. Спадзяюся, ты ўзяў свой гаманец. Бачыш, нас мага назваць разбойнікамі. Баюся, мы не можам прапусціць цябе, пакуль ты заплаціш трохі манетаў.[if:convo_mocking_revenge]" />
     <string id="kDV7wCtI" text="Будзе завершаны праз: {PREPARATION_TIME}" />
     <string id="KE9rdUhD" text="- {HERO_NAME}" />
-    <string id="KEdtvTgH" text="Ненасычан." />
+    <string id="keqS2dGa" text="???" />
     <string id="kftE5nvv" text="Браня Каня" />
     <string id="KGH8rjOP" text="Рухаецца да {SETTLEMENT_NAME}, каб разрабаваць." />
     <string id="KGHlXL8H" text="Выдатна, мы ачысцім гэтую зямлю тваёй крывёю." />
@@ -1035,6 +1037,7 @@
     <string id="KiVCv1Bx" text="Бярэ ў аблогу {SETTLEMENT_NAME}" />
     <string id="KJDqOGEU" text="Нашы план - вярнуцца ў пабудовы, каб змагацца ў іншы дзень." />
     <string id="KkaVpLXd" text="Абмеркаваць прыняцце гэтай палітыкі (Падтрымка: {SUPPORT}%)" />
+    <string id="KkwLUO3o" text="шост." />
     <string id="klZnvb15" text="Персанаж" />
     <string id="kM1Y8XT0" text="Вы не будзеце {?PLAYER.GENDER}расчараванай, пані{?}расчараваным, панове{\?}. Лепшых ваяроў не знайсці ўва ўсёй Кальрадыі.[ib:convo_approving]" />
     <string id="KOwCdwEU" text="маці" />
