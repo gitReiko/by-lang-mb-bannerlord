@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
-
   <strings>
     <string id="0647tsif" text="Профіль" />
     <string id="08KLQa3P" text="Чаканне Чальцоў Партыі" />
@@ -55,7 +54,6 @@
     <string id="6MQaCah5" text="Далучыцца да Гульні" />
     <string id="6syoutpV" text="Ад {WHISPER_TARGET}" />
     <string id="6zYeU0VO" text="Адключыўся ад матча" />
-    <string id="70UfhFNc" text="Дадзеныя Адсутнічаюць" />
     <string id="74PKmRWJ" text="Перавярнуць Валасы" />
     <string id="76HlhP7r" text="Вы павінны перадаць лідарства іншаму ўдзельніку, каб сысці" />
     <string id="76VR5o8h" text="Вы павінны пачакаць {SECONDS} секундаў перад адпраўленнем наступнага паведамлення." />
@@ -67,6 +65,7 @@
     <string id="7qySRF2T" text="Пінг" />
     <string id="7R0i82Nw" text="Змяніць Герб" />
     <string id="7uILxbP5" text="Вы атрымаеце гэты прадмет" />
+    <string id="7vbGaapv" text="Вашае Нарабаванае: {LOOT}" />
     <string id="7XtICVeZ" text="Поле Агляду" />
     <string id="82LuSDnd" text="Хуткі Рух Курсора Налева" />
     <string id="8byRf9zO" text="Агульн." />
@@ -78,6 +77,7 @@
     <string id="9FSk2daF" text="Забіта Капітанаў" />
     <string id="9hJtoWot" text="Золата II" />
     <string id="9M4G8DDd" text="Вашая каманда была знішчана" />
+    <string id="9P0VL49j" text="У вас няма доступу да сеткавай гульні." />
     <string id="9pgOGq7X" text="Журнал" />
     <string id="9w9JsBYP" text="Пакінуць партыю" />
     <string id="a9TcHtVw" text="Фракцыя Б" />
@@ -99,6 +99,7 @@
     <string id="aseraifaction" text="Эсерай" />
     <string id="atUHbDeM" text="Павярнуць Камеру Мапы" />
     <string id="aVixswW5" text="Абранне Каманды" />
+    <string id="aVNXGUQI" text="Зараз няма гульцоў з {MAX_RANK} рангам." />
     <string id="aWzdkfvn" text="Зараз вы не з'яўляецеся чальцом клана або не валодаеце кланам. Вам трэба стварыць партыю з гульцоў, якія не знаходзяцца ў клане, каб стварыць уласны клан." />
     <string id="aZnS9ECC" text="Запрасіць" />
     <string id="AZSbwcG5" text="Заглушыць Усіх" />
@@ -115,7 +116,6 @@
     <string id="bfQLwMUp" text="Кланы" />
     <string id="bhQiSzOU" text="Профіль недаступны" />
     <string id="bIcFZT6L" text="Тып Брывоў" />
-    <string id="bjJkW9dO" text="Прагледзець Профіль" />
     <string id="bLPSaLNv" text="Хуткі Рух Курсора Направа" />
     <string id="bn0v5ST0" text="Прасунуты!" />
     <string id="bON4Kn6B" text="Аўтапрызначэнне" />
@@ -124,6 +124,7 @@
     <string id="bsiRNJtk" text="{NAME}:" />
     <string id="BSUteZmt" text="Прыняць Запыт Сяброўства" />
     <string id="BUOtUW1u" text="{RATING} Ачкоў" />
+    <string id="bXAIlBHv" text="Не можа ўтрымліваць абразы" />
     <string id="BXI1ObU8" text="Прасунуць да Афіцэра Клана" />
     <string id="bynNUfSr" text="Вашай партыі не хапае ўдзельнікаў, каб стварыць клан." />
     <string id="BZcFB1My" text="Калі ласка, пачакайце, пакуль вы наноў далучыцеся да гульні" />
@@ -131,6 +132,7 @@
     <string id="c6c9eYrD" text="У варожай каманды скончылася мараль" />
     <string id="C7OHivNl" text="Вашы сябар &lt;a style=&quot;Strong&quot;&gt;&lt;b&gt;{PLAYER_NAME}&lt;/b&gt;&lt;/a&gt; жадае, каб вы запрасілі гульца, паказанага ніжэй, у вашую партыю." />
     <string id="CacPs8hA" text="Бронза I" />
+    <string id="CCBcdzGa" text="Гэта прывядзе да скіду ЎСІХ наладаў дадзенай катэгорыі ў стан па змаўчанні. Вы не зможаце скасаваць гэтае дзеянне. {newline} {newline}Вы ўпэўнены?" />
     <string id="cDzWYQrz" text="Скінуць да налад па змаўчанні?" />
     <string id="CIVPNf2d" text="Выдаліць Сталае Заглушэнне" />
     <string id="cK5DE88I" text="Н/У" />
@@ -138,6 +140,7 @@
     <string id="cLJdeUWz" text="Вышыня:" />
     <string id="clxT9H4T" text="Увядзіце Сваё Імя" />
     <string id="cO2FDHCa" text="Дуэль з {OPPONENT_NAME} пачнецца праз {DUEL_REMAINING_TIME} секундаў." />
+    <string id="cru84oB8" text="Афіцыйн." />
     <string id="CW2JkWzC" text="Вы сапраўды жадаеце выдаліць гэтую аб'яву?" />
     <string id="cw5QyeRU" text="Прычына Скаргі" />
     <string id="cZNA5Z6l" text="Пабудова {NUMBER}" />
@@ -150,6 +153,7 @@
     <string id="Dbkx4v90" text="РАЎНД ПРАЙГРАНЫ" />
     <string id="Dc3fFblo" text="Варожая каманда ўзяла верх у час тайм-аўта" />
     <string id="Dhb2N5JD" text="Націсніце '{KEY}', каб цыклічна перабіраць каналы" />
+    <string id="dismissnotification" text="Адхіліць" />
     <string id="dkPL25g9" text="Чаканне каманды супернікаў" />
     <string id="DKqLY1aJ" text="Экіпіяваць" />
     <string id="DmaP2qaR" text="Тып Скуры" />
@@ -161,6 +165,8 @@
     <string id="DWWa3aIb" text="Аддаць перавагу ваярам з кідальнай зброяй" />
     <string id="DXczLzml" text="Статус" />
     <string id="dxlkHhw5" text="Гульняў Выйграна" />
+    <string id="DyeaObj5" text="Калі ласка, скасуйце запыт на пошук гульні перад выйсцем з сістэмы." />
+    <string id="E0q43haK" text="Калі ласка, пачакайце, пакуль вы ўвойдзеце ў сістэму." />
     <string id="E3Bqugs0" text="Без Рангу" />
     <string id="e3IeNR9W" text="Бронза II" />
     <string id="Ea3K1PVR" text="Кідальная Зброя" />
@@ -172,6 +178,7 @@
     <string id="eGuQKRhb" text="Вы пакідаеце гэтую зону!" />
     <string id="ehkVpzpa" text="Немагчыма атрымаць касметычную інфармацыю" />
     <string id="empirefaction" text="Імперыя" />
+    <string id="EQAjujjO" text="Інфармацыя пра стварэнне клана не можа быць атрымана" />
     <string id="eQPSEUml" text="Закінуты" />
     <string id="erp8X0KD" text="+{LOOT} ад значкоў" />
     <string id="Etjqamlh" text="{PLAYER_COUNT} Гульцоў" />
@@ -217,7 +224,6 @@
     <string id="gowlLS2b" text="Панізіць Афіцэра Клана" />
     <string id="GPfkMajw" text="Бітва Скончана" />
     <string id="gqNxq11A" text="Мэты" />
-    <string id="graphics_option" text="Графіка" />
     <string id="GRpGNYHW" text="Прасунуць да Афіцэра Клана" />
     <string id="GXosklej" text="Казуальны" />
     <string id="gzdNEM76" text="Стварыць Гульню" />
@@ -228,28 +234,29 @@
     <string id="hdGay8xc" text="Рух Курсора Мапы" />
     <string id="HEEZhL90" text="Націсніце, каб Экіпіяваць" />
     <string id="HGqvwRJt" text="Срэбра III" />
+    <string id="HH7LDwlK" text="Пераключыць Хуткі Час" />
     <string id="hiKTvBgF" text="Вы сапраўды жадаеце скінуць змены, зробленыя на гэтай закладцы? Вашыя змены будуць страчаныя." />
     <string id="hometab" text="Дом" />
     <string id="hPbppi6E" text="Не ў Лобі" />
     <string id="HUndnpNw" text="Паніжаны!" />
     <string id="HXWpxvgT" text="{ACTION} ({SECONDS})" />
     <string id="HXxNfncd" text="Канец Бітвы" />
+    <string id="IBEJPlEj" text="Дом" />
+    <string id="Ie9I2Bha" text="Колючая Шкода" />
+    <string id="IS4SifJG" text="Перамога" />
+    <string id="Ise5gWw3" text="{PLAYED_GAMES} / {TOTAL_GAMES} Згуляна ацэнкавых матчаў" />
+    <string id="Iu2eFSsh" text="Перамогі Пяхоты" />
     <string id="i0esOr2l" text="Камандзір не прызначаны!" />
     <string id="i0OEsfLt" text="Наладжвальная Бітва Адключана" />
     <string id="i28Kjuay" text="Перасунуць Персанажа" />
     <string id="i2mNBaxE" text="Атрымаць" />
     <string id="i3dJSlD0" text="Ніводная з камандаў не перамагла ў тайм-аўце" />
     <string id="i4Oo6aoM" text="Загрузка Кантэнту..." />
-    <string id="IBEJPlEj" text="Дом" />
     <string id="iCaRFZpG" text="разам з гэтымі гульцамі" />
-    <string id="Ie9I2Bha" text="Колючая Шкода" />
     <string id="iKtIhlbo" text="Раўнды" />
     <string id="imUnCFgZ" text="Скінуць прагляд" />
     <string id="iNqucBor" text="Уваход у Сістэму" />
     <string id="iPx4jep6" text="Уздзеянне" />
-    <string id="IS4SifJG" text="Перамога" />
-    <string id="Ise5gWw3" text="{PLAYED_GAMES} / {TOTAL_GAMES} Згуляна ацэнкавых матчаў" />
-    <string id="Iu2eFSsh" text="Перамог Пяхоты" />
     <string id="J0vjDOFO" text="Колючая Хут." />
     <string id="J2wEawTl" text="Катэгорыя" />
     <string id="j35pgljM" text="Абраць Фракцыю" />
@@ -260,12 +267,12 @@
     <string id="jPXglGWT" text="Каманда суперніка была знішчана" />
     <string id="jQJbU9Wl" text="Пошук матча" />
     <string id="jR237DSU" text="Камандзір прызначаны!" />
+    <string id="jS5rrX8M" text="Няма ніякіх зменаў для ўжывання." />
     <string id="JTMegIk4" text="Прынята" />
     <string id="Jw0GMgzv" text="Цяжкая Браня" />
     <string id="JY2pBVHQ" text="Аб'ява" />
     <string id="JYIURZLb" text="+{LOOT} ад матча" />
     <string id="jyJXcOLe" text="Тэг Не Павінен Утрымліваць Абразлівых Словаў" />
-    <string id="jZ6GblZu" text="Любае" />
     <string id="K1Gb5a5Q" text="Вам трэба запусціць гульню з антычытам" />
     <string id="K2gwwMCB" text="Вы павінны быць лідарам сваёй партыі, і ўсе гульцы ў вашай партыі павінны быць у тым жа клане, што і вы" />
     <string id="K3Cr70PY" text="Аддаць перавагу ваярам з тронкавай зброяй" />
@@ -305,7 +312,6 @@
     <string id="MS4Ng2iw" text="Вы сапраўды жадаеце прасунуць {MEMBER_NAME} да афіцэра клана?" />
     <string id="MVOPbhNj" text="Аддаць перавагу ваярам са шчытамі" />
     <string id="N0DXasar" text="Перападлучэнне" />
-    <string id="n23hFPye" text="Змяніць Рэжым Курсора" />
     <string id="n6yb5VCI" text="Значкі Дасягненняў" />
     <string id="NaZ6xg33" text="Не удалося знайсці прыдатны сервер для далучэння." />
     <string id="nEpZvaEl" text="Хуткі Рух Курсора Ўніз" />
@@ -336,9 +342,9 @@
     <string id="ou5KJERr" text="Націсніце '{KEY}', каб скрыць" />
     <string id="OUvFT99g" text="Тэг" />
     <string id="OVcoYxj1" text="Назва Сервера" />
-    <string id="overall_option" text="Агульныя" />
     <string id="OwqFpPwa" text="Фільтры" />
     <string id="oyVeCtlg" text="Ростар" />
+    <string id="oZc8oEAP" text="Скінуць гэтую катэгорыю да па змаўчанні" />
     <string id="OzifZbSB" text="Тып Матча" />
     <string id="ozREO8ev" text="Змяніць Bannerlord ID" />
     <string id="oZrVNUOk" text="Памылка" />
@@ -379,7 +385,6 @@
     <string id="qTYsYJ9V" text="Адправіць" />
     <string id="QvDxB57o" text="{STR1} | {STR2}" />
     <string id="QwbVdMLi" text="Адпраўленыя Запыты" />
-    <string id="QwJICzmF" text="Пра Гульца" />
     <string id="qXxpITdc" text="Колер Вачэй:" />
     <string id="qyuhC21P" text="жадае {ACTION}" />
     <string id="R28ac5ij" text="{NUMBER} Гульцоў" />
@@ -406,6 +411,8 @@
     <string id="saZ1OvPt" text="Вы можаце націснуць кнопку ўваходу, каб усталяваць злучэнне" />
     <string id="SBa9mHsb" text="Камандзір Не Прызначаны." />
     <string id="sFDrUfNR" text="бан" />
+    <string id="SfsnlbyK" text="Змены ўжыты." />
+    <string id="SLY8z9fP" text="Абраны ўсе пабудовы!" />
     <string id="SoQcsslF" text="ЦЯПЕРАШНЯЯ КАМАНДА" />
     <string id="sPkRekRL" text="Індывідуалізацыя" />
     <string id="SrfYbg3x" text="Лідар" />
@@ -421,9 +428,11 @@
     <string id="Th8q8wC2" text="Здабыча" />
     <string id="tidE1V1k" text="Прыняць дуэль" />
     <string id="tjioq56N" text="Спіс Сяброў" />
+    <string id="Tlc2buKG" text="Афіцыйн." />
     <string id="tTwQsP6j" text="Гульца не існуе" />
     <string id="TxphX8Uk" text="Разгортванне" />
     <string id="TzYWE9tA" text="Нядаўнія гульні не знойдзены" />
+    <string id="u0HNU5pA" text="У вас ёсць незахаваныя змены. Ці жадаеце ўжыць іх, перш чым працягнуць?" />
     <string id="U1rHNqOk" text="'{KEY}', каб скасаваць" />
     <string id="U4dzbzNb" text="Калі ласка пачакайце, пакуль вы далучыцеся да сервера" />
     <string id="u78WUP9W" text="Хуткі Рух Курсора Ўверх" />
@@ -433,6 +442,7 @@
     <string id="uOrwqeQl" text="Вы павінны абраць герб" />
     <string id="uoVKchoC" text="Рэгіён" />
     <string id="ush8OHIw" text="Аддаць перавагу ваярам з цяжкай бранёю" />
+    <string id="usLhlY2j" text="Калі ласка, пачакайце, пакуль дадзеныя гульца будуць загружаны." />
     <string id="uTXYEAOg" text="[{STR}]" />
     <string id="uUoSmCBS" text="У Bannerlord" />
     <string id="UwkpJq9N" text="Дадаць як Сябра" />
@@ -454,6 +464,7 @@
     <string id="WHKG5Rbq" text="Гэтая каманда жадае далучыцца да створанага вамі матча." />
     <string id="WiNRdfsm" text="Гатова" />
     <string id="wkIVxzV6" text="Рэстарт" />
+    <string id="wlz3eQWp" text="Няма дазволу на запрашэнне гульца." />
     <string id="wNAl9o4A" text="Вы атрымалі запрашэнне ад" />
     <string id="wNUcqcJP" text="Назва Клана" />
     <string id="WOQZBmMx" text="Серверы" />
@@ -476,6 +487,7 @@
     <string id="XtVZe9cC" text="Прадмет не можа быць атрыманы" />
     <string id="xXSFaGW8" text="Расфармаваць" />
     <string id="xxuzZJ3G" text="Мараль вашай каманды скончылася" />
+    <string id="y1AGNqyV" text="Стварэнне клана недаступнае" />
     <string id="Y94H6XnK" text="Прыняць" />
     <string id="yA45PqFc" text="ЗНАЙСЦІ ГУЛЬНЮ" />
     <string id="YAaAlbkX" text="Сяр. Час Гульні" />
@@ -492,7 +504,6 @@
     <string id="yS7PvrTD" text="Добра" />
     <string id="yUpH2mQ4" text="Снарады" />
     <string id="YVGtcLHF" text="Вершніца" />
-    <string id="YwF1aexc" text="Вы захоўваеце не захаваныя змены. Вы жадаеце скасаваць іх перад працягам?" />
     <string id="Z0TW2cub" text="Вы сапраўды жадаеце прасунуць {MEMBER_NAME} да лідара клана? Вы страціце сваё лідарства." />
     <string id="ZAejS7WF" text="Абярыце гульцоў, якіх жадаеце запрасіць у свой клан" />
     <string id="zBld61ck" text="Вага:" />
@@ -503,6 +514,7 @@
     <string id="zravuI1b" text="Надрукуйце Інфармацыю пра Клан" />
     <string id="zSXXfnYY" text="Змяніць Фракцыю" />
     <string id="Zv1lg272" text="Афлайн" />
+    <string id="ZwN6rzTC" text="Няма дазволу" />
     <string id="ZYF2t1VI" text="Афіцэр" />
   </strings>
 </base>
