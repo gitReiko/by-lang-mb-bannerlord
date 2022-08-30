@@ -1,8 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
-  <tags>
-    <tag language="English" />
-  </tags>
   <strings>
     <string id="05fdfc6e238429753ef282f2ce97c1f8" text="Stack Amount: " />
     <string id="08abd5af7774d311cadc3ed900b47754" text="Type: " />
@@ -36,7 +33,6 @@
     <string id="4uMWNDoi" text="Thrust Speed" />
     <string id="4vZLpzPi" text="+1 Renown / Day" />
     <string id="5bzk75Ql" text="Engaging {TARGET_PARTY}." />
-    <string id="5dCR9ixM" text="You can sell this workshop for {AMOUNT} denars." />
     <string id="5dec16fa0be433ade3c4cb0074ef366d" text="Accuracy: " />
     <string id="5fa36d2798479803b4518a64beb4d732" text="Weapon Length: " />
     <string id="5tbWdY1j" text="Avatar" />
@@ -51,19 +47,19 @@
     <string id="7l0LGKRk" text="Date Started" />
     <string id="7tBOCHm6" text="Sigil Color:" />
     <string id="7Xynf4IA" text="Hand Armor" />
+    <string id="84oSzquz" text="Recently Escaped Captivity" />
     <string id="8BJDQe6o" text="Prisoners captured by {FACTION}" />
     <string id="8BlMRMiR" text="Horse Tier" />
     <string id="8cad4a279770f269c4bb0dc7a357ee1e" text="Class: " />
-    <string id="8eYtra7T" text="Determine the game difficulty" />
     <string id="8fqFGxD9" text="Press {KEY} to compare with: {ITEM}" />
-    <string id="8SOh9bah" text="Choose Production" />
+    <string id="8Jy9DnKk" text="Attached to {PARTY_NAME}" />
+    <string id="8N1EdPB3" text="You will earn {GOLD}{GOLD_ICON}" />
     <string id="8szijlHj" text="Order Difficulty: {DIFFICULTY}" />
     <string id="92M0Pb5T" text="Scout" />
     <string id="94aHU6nD" text="Construction" />
     <string id="9FJi2SaE" text="Party Role" />
     <string id="9huJZblF" text="Last Run" />
     <string id="9i0wnjJK" text="L-II : {BONUS}" />
-    <string id="9slDj5wr" text="Change Production" />
     <string id="9sxECG6e" text="Mount Type: " />
     <string id="a241aacb1780599430c79fd9f667b67f" text="Party Morale: " />
     <string id="a4GDfSel" text="Reset Tutorials" />
@@ -73,17 +69,20 @@
     <string id="aE4ZRbB6" text=" {HEALTH}%" />
     <string id="aFYwbosi" text="This hero is already leading a party." />
     <string id="aGFxIvqx" text="Leave Member(s)" />
+    <string id="aGJYQOef" text="Show hero's location on map." />
+    <string id="ANV8UV5f" text="Recall this member to your party." />
     <string id="aRhQzJca" text="Mercenaries cannot create or manage armies." />
     <string id="armorTier" text="Armor Tier: " />
     <string id="aROohsat" text="Already in another army." />
     <string id="aTdrjrEh" text="{SWING_DAMAGE_FACTOR}" />
+    <string id="av51ur2M" text="You need at least {REQUIRED_AMOUNT} denars to change the production type of this workshop." />
     <string id="averageWealthStatus" text="Average" />
     <string id="Avy8Gua1" text="Perks" />
-    <string id="AxRxT2Xj" text="Once a party is disbanded, it merges into a near clan party or goes to nearest map faction settlement and joins its garrison.\nYou will not be able to undo / cancel this action.\nAre you sure?" />
     <string id="b8CqpGHx" text="Recruit Prisoners" />
     <string id="bAqDnkaT" text="Missile Speed" />
     <string id="Bcs9s2tC" text="Right Click to Remove" />
     <string id="bd7oAQq6" text="Daily" />
+    <string id="bDwTWrru" text="No delay" />
     <string id="BEXTcJaS" text="Time Due" />
     <string id="bfQLwMUp" text="Clans" />
     <string id="bfWlTVjs" text="Remove assignee" />
@@ -112,6 +111,7 @@
     <string id="Ck9HT8fQ" text="Summary" />
     <string id="cnmRwV4s" text="Ammo Limit" />
     <string id="CnsIzaWo" text="Field Battle" />
+    <string id="CRi905Ao" text="In your party" />
     <string id="CTtjSwRb" text="Noon" />
     <string id="cUUI8u2G" text="Smithy Stamina" />
     <string id="cZCOa00c" text="{SUPPORTER_RANK} Supporters ({NUM})" />
@@ -126,8 +126,8 @@
     <string id="DNXD37JL" text="Settlement's Days Until Food Runs Out" />
     <string id="dO95yR9b" text="Thrust Damage" />
     <string id="dOa7frHR" text="Show only unlocked pieces" />
-    <string id="DPTPuyip" text="And {NUMBER} more..." />
     <string id="Dqydb21E" text=" {PARTY_SIZE}" />
+    <string id="DRJOxrRF" text="Troops in Army" />
     <string id="dVqowrRz" text=" - {STAT} {REQUIREMENT}" />
     <string id="dWYm9GsC" text="Requires" />
     <string id="DXczLzml" text="Status" />
@@ -142,7 +142,6 @@
     <string id="eTw2aNV5" text="+" />
     <string id="eTxcYvRr" text="Castles conquered by {FACTION}" />
     <string id="exnL6SS7" text="Attacking {TARGET_SETTLEMENT}" />
-    <string id="EZxQHBF4" text="You can change the production type of this workshop for {AMOUNT} denars." />
     <string id="F0a7hyp0" text="Risk of rebellion" />
     <string id="f2971dc587a9777223ad2d7be236fb05" text="Trade Rumors" />
     <string id="f4nc7FfE" text="Upgrade to {UPGRADE_NAME}" />
@@ -150,13 +149,14 @@
     <string id="Fa2nKXxI" text="Governor" />
     <string id="fAxjyMt5" text="Night" />
     <string id="FBYFcrWo" text="Leave in settlement" />
+    <string id="FdzsOvDq" text="This action is disabled while in a mission" />
     <string id="fI7a7RoE" text="Inventory Capacity" />
     <string id="FjJi1DJb" text="This hero is already a part of an another party." />
     <string id="flxDkoMh" text="Stage Complete" />
-    <string id="fOSGakix" text="You cannot manage an army while you're a prisoner." />
     <string id="fpE7BQ7f" text="You don't have any upgradable troops." />
     <string id="FYJC7cDD" text="Trait(s)" />
     <string id="fz2kQjFS" text="Choose your character's culture:" />
+    <string id="g08mptth" text="Moving to a party to be the new leader" />
     <string id="G2h0V10w" text="Gift this settlement to a clan in your kingdom." />
     <string id="g9VIbA9s" text="Sergeant" />
     <string id="GCaYjA5W" text="You need to be the leader of the clan to change it's name." />
@@ -165,13 +165,16 @@
     <string id="gENb9SSW" text="Evening" />
     <string id="ggpRTQQl" text="Party Leader" />
     <string id="Gp2vmZGZ" text="{PERKS}" />
-    <string id="GP3jpU0X" text="Influence is periodically converted to denars for mercenary clans" />
+    <string id="GP3jpU0X" text="Influence is periodically converted to denars for mercenary clans." />
     <string id="gsVtO9A7" text="Militia" />
     <string id="gTbE6t9I" text="Following requirements are not met:" />
+    <string id="gu5xmV0E" text="No other {WORKSHOP_NAME} in this town." />
+    <string id="gUUnZNGk" text="Moving to {SETTLEMENT_NAME} to be the new governor" />
     <string id="guxNZZWh" text="Requirements" />
     <string id="GwA9oUBC" text="Your skill focus determines the rate your skill increases with practice" />
     <string id="HAaElX8X" text="{PARTY_OWNERS_FACTION}" />
     <string id="HcAV8x7p" text="Party Member" />
+    <string id="heroRecovering" text="Recovering" />
     <string id="HfsUngkh" text="Recruitment is currently disabled." />
     <string id="HFZdseH9" text="Only the ruler of the kingdom can change it's name." />
     <string id="HHTQVp52" text="Heroes Healing Rate" />
@@ -183,27 +186,30 @@
     <string id="HTtWslIx" text="Market Food Stocks" />
     <string id="hTzTMLsf" text="View Distance" />
     <string id="huqEEfGD" text="There is no successful raid for {FACTION}" />
+    <string id="hwrQqWir" text="No Skills" />
     <string id="Hxf6bzmR" text="Current Denars" />
-    <string id="hylxyNtU" text="You don't have enough." />
     <string id="Hz8XO8wk" text="Governors cannot lead a mobile party and be a governor at the same time." />
     <string id="I2sZ7K28" text="Are you sure want to reset tutorials?" />
-    <string id="i9OsCshW" text="This kingdom decision is not relevant anymore." />
     <string id="IagYTD5O" text="Prosperity" />
     <string id="IcgVKFxZ" text="Ruler" />
-    <string id="idRXFzQ6" text="Already added to the army." />
     <string id="Iefr8Fra" text="Tutorials have been reset." />
     <string id="IgoxNz2H" text="Upgrade Troops" />
     <string id="IJdjwXvn" text="Current Level: " />
     <string id="InqmgBiF" text="Chosen Crew" />
     <string id="Ioiqzz4E" text="You need to be in an army to boost cohesion" />
-    <string id="ipLqVv1f" text="You cannot invite the ruler's party to your army." />
-    <string id="it8oPzb1" text="Criminal Rating" />
+    <string id="IQY9yykn" text="Food Items" />
     <string id="ITKb4cKv" text="{ITEM_NAME} is not equippable." />
+    <string id="i9OsCshW" text="This kingdom decision is not relevant anymore." />
+    <string id="idRXFzQ6" text="Already added to the army." />
+    <string id="ipLqVv1f" text="You cannot invite the ruler's party to your army." />
+    <string id="iSZTOeYH" text="No army to disband." />
+    <string id="it8oPzb1" text="Criminal Rating" />
     <string id="iXXTONWb" text=" ({PARTY_SIZE})" />
     <string id="iZ3w6opW" text="Cohesion" />
     <string id="j12VrGKz" text="Army" />
     <string id="J2gvnexb" text="Afternoon" />
     <string id="j3iwQmoA" text="Current focus amount: {CURRENT_AMOUNT}" />
+    <string id="j4BdjLYp" text="Start a conversation with this clan member." />
     <string id="j4F7tTzy" text="Clan" />
     <string id="J5u0uOKc" text="Running from {TARGET_PARTY} to settlement." />
     <string id="J8ddrAOf" text="Governor Effects" />
@@ -212,20 +218,15 @@
     <string id="JIr3Jc7b" text="Relinquish all holdings" />
     <string id="JJiKk4ow" text="Select your family name: " />
     <string id="jlgjLDo7" text="Garrison" />
-    <string id="JOELdSab" text="Workshop doesn't have enough capital for upgrade. Needs at least {AMOUNT} denars." />
-    <string id="jPBhgu7a" text="Camping" />
     <string id="jQdBl4hf" text="Governor of " />
     <string id="JTxI3sW2" text="Besieging {TARGET_SETTLEMENT}" />
-    <string id="jxypVgl2" text="Relation Changes" />
     <string id="Jyfkahka" text="{VALUE} ({?POSITIVE}+{?}{\?}{DELTA_VALUE})" />
     <string id="JYOcl7Ox" text="Ineffective!" />
-    <string id="JzrodcIR" text="There is no one available in your clan who can govern this settlement right now." />
     <string id="k1E9DuKi" text="Select All" />
-    <string id="K5uR5HVX" text="Press '{EXTEND_KEY}' for more info." />
     <string id="K6GYskvJ" text="Culture:" />
+    <string id="K87pubLc" text="The option &quot;{DEPENDENT_OPTION}&quot; can be enabled by activating &quot;{MODULE_NAME}&quot; module." />
     <string id="kftE5nvv" text="Horse Armor" />
-    <string id="KghY9qwl" text="You cannot assign a fugitive as the new governor of a settlement" />
-    <string id="knwId8DG" text="You cannot assign a prisoner as a governor of a settlement" />
+    <string id="kjaACKUq" text="This action will cost {GOLD}{GOLD_ICON}" />
     <string id="koX9okuG" text="None" />
     <string id="kqeA8rjL" text="Are you sure you want to disband your army?" />
     <string id="kQsXUvgO" text="You are not under a kingdom." />
@@ -233,17 +234,21 @@
     <string id="KTTyBbsp" text="Max HP" />
     <string id="kWVbHPtT" text="Total" />
     <string id="kx7q8ybD" text="Arm Armor" />
+    <string id="KxLoeSEO" text="Regrouping" />
     <string id="laznt9ZK" text="Settlement Food Change" />
     <string id="LBNzsqyb" text="Fiefs" />
     <string id="lC5xsoSh" text="Unlimited" />
     <string id="lc9s4rLZ" text="Create Army" />
     <string id="LEiZWuZm" text="{SKILL_NAME}: {SKILL_VALUE}" />
+    <string id="lhIpaGt9" text="There {?(COUNT &gt; 1)}are{?}is{\?} {COUNT} more {?(COUNT &gt; 1)}{PLURAL(WORKSHOP_NAME)}{?}{WORKSHOP_NAME}{\?} in this town." />
     <string id="lkJfq1ap" text="Owned settlements remain under your control but nobles will dislike this dishonorable act and the kingdom will declare war on you." />
     <string id="LpsoPtOo" text="Projects" />
     <string id="LsZEdD2z" text="Walls" />
+    <string id="LVJKy6a8" text="This troop requires {PERK_NAME} ({PERK_SKILL}) perk to upgrade." />
     <string id="LVmkE2Ow" text="Battle Ready Troops" />
     <string id="lVuGCYPC" text="Smithing Skill" />
     <string id="lxwGbRwu" text="x {SHOP_DIFFERENCE_COUNT}" />
+    <string id="LxWVtDF0" text="Manage Workshop" />
     <string id="m1Yynagz" text="Page {NUMBER}" />
     <string id="MaHMOzL2" text="Character Culture" />
     <string id="mapbardenarvalue" text="{DENAR_AMOUNT}{VALUE_ABBREVIATION}" />
@@ -253,28 +258,29 @@
     <string id="Mfbc4rQR" text="Charge Damage" />
     <string id="mg7id9om" text="Number of Consumable Items" />
     <string id="mHVmrwRQ" text="Enter your name" />
+    <string id="MIylzRc5" text="You can't perform this action while you are in a map event." />
     <string id="MkVTRqAw" text="Orders ({ORDER_COUNT})" />
-    <string id="mOFjZuSf" text="You cannot assign a newly released hero as the new governor of a settlement" />
     <string id="mountTier" text="Mount Tier: " />
     <string id="mp68RYnD" text="Party Size Limit" />
     <string id="MqCH7R4A" text="Security" />
     <string id="mSPyh91Q" text="Towns conquered by {FACTION}" />
     <string id="MT4b8H9h" text="Unknown" />
     <string id="MT5A04X8" text=" - Swing Damage Type does not match. Should be: {TYPE}" />
-    <string id="mYaSBDBa" text="You need to unlock {PERK_NAME} ({PERK_SKILL}) perk to upgrade this troop" />
     <string id="myMbtwXi" text="Morale Bonus" />
     <string id="N63XYX2r" text="Support" />
     <string id="N6QTvjMf" text="Prisoners" />
     <string id="NAA4pajB" text="You need to leave your current army to create a new one." />
     <string id="NC9bbrt5" text="End-of-day denars" />
     <string id="NcYbdiyT" text="Change Leader" />
+    <string id="nFl0ufe3" text="A party without a leader" />
     <string id="nKQmaSDO" text="There is no castle conquered by {FACTION}" />
     <string id="nMcvafHY" text="Active" />
-    <string id="noxXuqcD" text="Can't Upgrade" />
     <string id="NRpbagbZ" text="Running to {TARGET_PARTY}" />
+    <string id="nuK4Afnr" text="Party is not eligible to join the army." />
     <string id="NxEy5Nbt" text="High risk of rebellion" />
     <string id="nYYUQQm0" text="Swing Damage Factor " />
     <string id="O3dhjtOS" text="Head Armor" />
+    <string id="o5G8A8ZH" text="Your Denars" />
     <string id="o79dIa3L" text="Towns owned by {FACTION}" />
     <string id="oBbiVeKE" text="Hit Points" />
     <string id="ocSW4WA2" text="Critical Fail!" />
@@ -282,27 +288,29 @@
     <string id="OGbskMfz" text="Unlocked Parts:" />
     <string id="OhNYkblK" text="This hero has just escaped from captors and will be available after some time." />
     <string id="oibdTnXP" text="Handling" />
-    <string id="OIeXNTEn" text="Workshop cannot be upgraded." />
     <string id="oJmRg2ms" text="Very Rich" />
     <string id="OkWLI5C8" text="Size:" />
+    <string id="OLn2GUDD" text="Recently Relased From Captivity" />
     <string id="oM2Ta1di" text="Press {CONSOLE_KEY_NAME} to Reset Camera" />
     <string id="Omjlnsk3" text="{ITEM_NAME} cannot be equipped on this slot." />
+    <string id="OMqHwpXF" text="One of your parties has lost its leader. It will disband after a day has passed. You can assign a new clan member to lead it, if you wish to keep the party.{newline}{newline}Do you want to assign a new leader?" />
     <string id="Oo3fkeab" text="Difficulty: " />
     <string id="OpsiBFCu" text="... and {COUNT} more items." />
     <string id="opU0Nr2G" text="Progress for unlocking a new piece." />
     <string id="opVqBNLh" text="Effect" />
     <string id="OpzzCPiP" text="Following {TARGET_PARTY}" />
+    <string id="oSfsqBwJ" text="No perks" />
     <string id="OSsSBHKe" text="Settlement's Food" />
     <string id="OTaPfaJl" text="{PARTY_2S_MEMBERS}   " />
+    <string id="otaUtXMX" text="+{AMOUNT} relation chance with notables per day." />
     <string id="oUhd9YhP" text="{PARTY_LEADERS_FACTION}" />
     <string id="oUz16Nav" text="Reset Tutorial" />
     <string id="OyyJSyIX" text="{FACTION_1} is paying {DENAR}{GOLD_ICON} as tribute to {FACTION_2}" />
-    <string id="p0nIO9c2" text="Workshop cannot be downgraded." />
+    <string id="P0To9aRW" text="Travel time: {TRAVEL_TIME}" />
+    <string id="P5YtNXHR" text="{LEADER.NAME}{.o} Party" />
     <string id="p7raHA9x" text="Refinement" />
-    <string id="PAUsUq4Z" text="Select the Leader of the Settlement" />
     <string id="PDdh1sBj" text="Name" />
     <string id="Pdo7PpS3" text="{TASK_NAME} {CURRENT_PROGRESS}/{TARGET_PROGRESS}" />
-    <string id="PHkC8Gia" text="Sell" />
     <string id="PJZ8QYgA" text="L-I : {BONUS}" />
     <string id="pkbUiKFJ" text="Currently fighting an enemy." />
     <string id="pnFgwLYG" text="Current Wage" />
@@ -314,16 +322,16 @@
     <string id="pRP2sOWP" text="L-III : {BONUS}" />
     <string id="PS02CqPu" text=" {PARTY_MEMBER.LINK} (Health: {MEMBER_HEALTH}%)" />
     <string id="Pvx4TU66" text="Transfer All Main Troops" />
-    <string id="pWfadZg9" text="Parties In the Army" />
-    <string id="pWObBhj5" text="You cannot assign a party leader as a new governor of a settlement" />
     <string id="PXT6aA4J" text="Campaign Options" />
     <string id="Q0j1umAt" text="Requirement: {REQUIREMENT_NAME}" />
     <string id="q1J4a8rr" text="Learning Rate" />
     <string id="Q1KwpZYu" text="Weapon usage does not match requirements" />
     <string id="Q8dhryRX" text="Parties' Food" />
+    <string id="qaQqAYGc" text="Moving to {LEADER.NAME}{.o} Party" />
     <string id="QBB0KQ2Z" text="Parties' Average Morale" />
     <string id="QBPrRdQJ" text="Surgeon" />
     <string id="qBq70qDq" text="Current Project" />
+    <string id="qbqimqMb" text="{GOVERNOR.NAME} is on the way to be the new governor of {SETTLEMENT_NAME}" />
     <string id="qdoJOH0j" text="Party Wage" />
     <string id="QeToaiLt" text="Swing Damage" />
     <string id="QFfMd5q3" text="Next Page" />
@@ -344,7 +352,7 @@
     <string id="R8vuwKaf" text="Running from {TARGET_PARTY} to ally party." />
     <string id="Ra17aK4e" text="Current Capital" />
     <string id="Raa4j4rF" text="Required: {UPGRADE_ITEM}" />
-    <string id="raD9MK3O" text="Difficulty" />
+    <string id="rba7kgwS" text="Travelling to {TARGET_SETTLEMENT}." />
     <string id="RClxLG6N" text="Holding" />
     <string id="recruitVerb" text="Recruit" />
     <string id="redwEIlW" text="Quartermaster" />
@@ -394,6 +402,7 @@
     <string id="tf7301NC" text="Healing Rate" />
     <string id="tFGM0yav" text="This party is disbanding." />
     <string id="tnbCJyax" text="Some of your prisoners are recruitable." />
+    <string id="tQOPRBFg" text="Search..." />
     <string id="tTLvo8sM" text="Clan Tier" />
     <string id="twtbH1zv" text="Stack Amount" />
     <string id="Tx9Mynbt" text=" - Thrust Damage Type does not match. Should be: {TYPE}" />
@@ -404,13 +413,17 @@
     <string id="UbRqC0Yz" text="Rich" />
     <string id="UbZL2BJQ" text="Hitpoints" />
     <string id="udPWHmOm" text="Difficulty:" />
+    <string id="uGMGjUZy" text="Send your clan members to {SETTLEMENT_NAME}" />
     <string id="UHLcmf9A" text="Party Prisoner Size Limit" />
+    <string id="UI0q8rWw" text="Livestock" />
+    <string id="uipNpzVw" text="Cannot disband the army right now." />
     <string id="uJro3Bua" text="Over Limit" />
-    <string id="uoDuiBZR" text="You cannot assign yourself as a governor" />
     <string id="uQgNPJnc" text="Manage Troops" />
     <string id="US7UmBbt" text="Armor Tier" />
+    <string id="UUaW0dba" text="Moving to {SETTLEMENT_NAME}" />
     <string id="UxAl9iyi" text="Personal" />
     <string id="v3OF6vBg" text="Yield" />
+    <string id="vdKiLwaf" text="Traveling" />
     <string id="Ve5jkJqf" text="Auto Offer" />
     <string id="vggt7exj" text="Set {CURINDEX}/{COUNT}" />
     <string id="vIPrZCZ1" text="You can abdicate leadership from the kingdom screen." />
@@ -426,6 +439,7 @@
     <string id="W1tsTWZv" text=" {PARTY_MEMBER.LINK} ({MEMBER_HEALTH}%)" />
     <string id="w8Yzf0F0" text="Destroyed" />
     <string id="weaponTier" text="Weapon Tier: " />
+    <string id="wGWYNYYX" text="This education stage is no longer relevant." />
     <string id="WiNRdfsm" text="Done" />
     <string id="Wir2xZIg" text="You haven't unlocked some of the selected pieces." />
     <string id="wMiLUTNY" text="Are you sure you want to smelt this weapon? It is locked in the inventory." />
@@ -436,6 +450,7 @@
     <string id="XAL3t1bs" text="Going to a point" />
     <string id="XCz81XYm" text="Inputs" />
     <string id="XIioBPi0" text="No changes" />
+    <string id="XjT8S4ng" text="Near {SETTLEMENT_NAME}" />
     <string id="Xmw93W6a" text="Not Enough Influence" />
     <string id="XseYJYka" text="Manage" />
     <string id="XSQ0Y9gy" text="You need to be a part of a kingdom to create an army." />
@@ -446,14 +461,15 @@
     <string id="xwRWjlar" text="Background Color:" />
     <string id="xXSFaGW8" text="Disband" />
     <string id="XYAVu2f0" text="Chasing {TARGET_PARTY}." />
+    <string id="Y65gdbrx" text="Waiting in {TARGET_PARTY}" />
     <string id="Y7qbwrWE" text="{HERO_NAME}'s Skills" />
     <string id="Y8EcVL1c" text="Last Updated" />
-    <string id="YbGu9rSH" text="This character is already the governor of {SETTLEMENT_NAME}" />
     <string id="ybLA7ZXp" text="Already at Max" />
     <string id="yD7rL5Nc" text="Helping ally party to defend {TARGET_SETTLEMENT}." />
     <string id="YifFZaG7" text="Party Owner" />
     <string id="YJaNtktT" text="Recruit All" />
     <string id="YO0x7ZAo" text="Loyalty" />
+    <string id="ysireFjT" text="Sell This Workshop for {GOLD_AMOUNT}{GOLD_ICON}" />
     <string id="YT9giTet" text="Learning Limit" />
     <string id="yUVv3z5V" text="Patrolling around {TARGET_SETTLEMENT}." />
     <string id="z2Slmx4N" text="There are still some room for more soldiers. Do you want to proceed?" />
@@ -467,6 +483,7 @@
     <string id="ZIn8W5ZG" text="Worth" />
     <string id="ZjaSde0X" text="Owned settlements are returned to the kingdom. This will avert a war and nobles will dislike you less for abandoning your fealty." />
     <string id="zlcMGAbn" text="Previous Page" />
+    <string id="zLFsnaqR" text="No Governor" />
     <string id="zMMqgxb1" text="Type" />
     <string id="zrhr4rDA" text="Are you sure you want to disband this army? This will result in relation loss." />
     <string id="ZUgoQ1Ws" text="Horse Type" />

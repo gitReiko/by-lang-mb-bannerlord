@@ -1,8 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
-  <tags>
-    <tag language="English" />
-  </tags>
   <strings>
     <string id="02FaqhzI" text="I've heard of you. They say good things about you. Let's talk, from time to time. A friendship with someone like me can be quite profitable for someone like you." />
     <string id="0etg1Q9l" text="I have asked many sacrifices of my men in {FIRST_NAME}'s service. I will not hear it said that their loyalty was misplaced." />
@@ -10,10 +7,12 @@
     <string id="1JgKFOw8" text="You have my allegiance." />
     <string id="1jUa8olQ" text="I don't expect you to surrender, but I'll give you the chance to do so.[ib:warrior][if:convo_stern]" />
     <string id="1MPxKtue" text="Is this important? I'm rather busy right now." />
+    <string id="1Rht7WZI" text="I think I have heard your name. I believe you caused some trouble for us." />
     <string id="22a9fyiQ" text="Father" />
-    <string id="267ch9fZ" text="That raid on {VILLAGE_NAME}... Hard on the farmers there. Well, anyway, I'm sure the {ENEMY_NAME} would have done the same to our us." />
+    <string id="267ch9fZ" text="That raid on {VILLAGE_NAME}... Hard on the farmers there. Well, anyway, I'm sure the {ENEMY_NAME} would have done the same to us." />
     <string id="27KUtWGA" text="You came through on that task I gave you. I thank you." />
     <string id="2FWBCCw0" text="Sister" />
+    <string id="2VkCAuiu" text="Yes... I believe I may have heard your name." />
     <string id="3L7Rkswm" text="You can surrender, but I hope you don't. I'd enjoy sticking a blade into you until you squeal.[ib:warrior][if:convo_mocking_predatory]" />
     <string id="3PsQTf0z" text="I've got you cornered. Yield, or we shall attack.[ib:warrior][if:convo_aggressive]" />
     <string id="3TGug4Vb" text="I know your name. They say you are a most valiant warrior. I can only hope that your honour and mercy matches your valor." />
@@ -52,6 +51,7 @@
     <string id="aaadHoIb" text="May {?GENDER}she{?}he{\?} crush all {?GENDER}her{?}his{\?} foes!" />
     <string id="aagGt8pX" text="Your lordship" />
     <string id="aFbkjgVe" text="So, you weren't able to complete that task... Well, sometimes these things are out of our hands... and sometimes not. But let us not dwell on this." />
+    <string id="agKiYTCE" text="Ah yes. I believe I have heard your name. It is indeed a pleasure to meet face to face." />
     <string id="aIimfZZe" text="I've heard of you. They spoke of you as an impressive warrior. They had not mentioned that you were so, em, charming." />
     <string id="aKD9kfTI" text="I'm sure you remember how {TOURNAMENT_WINNER} won that tournament in {TOURNAMENT_TOWN}... A more undeserved victory I never saw...." />
     <string id="atHFPCcK" text="It is good to meet you. Remember, there is no currency in this world more valuable than the weight of your word, so speak truthfully with me, and I shall do the same with you." />
@@ -129,6 +129,7 @@
     <string id="hQsjeTix" text="I yield! Grant me the honors of war, and do yourself credit![if:convo_thinking]" />
     <string id="HwhUEZPE" text="Yeah... I know your name. I've got nothing against you, friend. Stay out of my business, and I'll stay out of yours." />
     <string id="HwsshsMz" text="I'm glad that we could come to an understanding on that recent matter." />
+    <string id="IuSH0tcp" text="{FIRST_NAME} has always fulfilled {?GENDER}her{?}his{\?} duty to me, and I intend to do the same." />
     <string id="i1RXpQxR" text="Remember our duel? It was a good fight. But with the advantage I have now, I'm afraid I can't afford to be so sporting." />
     <string id="iAKHTPlP" text="It was an honor to compete against you in that tournament here." />
     <string id="iepWkkfA" text="Your ladyship" />
@@ -136,7 +137,6 @@
     <string id="iM76GPzK" text="I will always listen to a {?PLAYER.GENDER}woman{?}man{\?} of integrity. On the other hand, if you lack that, please do not plague me with your company." />
     <string id="iOnsulPb" text="You may have heard of us. Men call us the Embers of the Flame. Generations ago, Heaven instructed us to prepare for a great cleansing of the land. Until that day, we smolder in silence. But when that day comes, our righteous wrath shall burn forth." />
     <string id="itfE84jd" text="You're outnumbered. Give up. Or don't. Death in battle is a fine thing.[ib:warrior][if:convo_bored]" />
-    <string id="IuSH0tcp" text="{FIRST_NAME} has always fulfilled {?GENDER}her{?}his{\?} duty to me, and I intend to do the same." />
     <string id="J0wLOV3u" text="I know that the task I gave you was not easy... Well, let's not speak of that anymore." />
     <string id="JBZcBg9h" text="It's good to meet you." />
     <string id="JcdmntiC" text="Ah, yes. From what they said of you, I had imagined someone whose blade was still dripping with the blood of her enemies, not someone with your grace and charms." />
@@ -204,6 +204,7 @@
     <string id="pXULuzaq" text="I yield! You have won. Cursed be this day![if:convo_angry]" />
     <string id="pZj9C1yA" text="The Heavens will shall be done. But those who smooth the path shall be rewarded." />
     <string id="q5nQGimE" text="I am {CONVERSATION_CHARACTER.LINK}, of the house of {CLAN_NAME}. Though one should not be too proud of one's lineage, I am glad to say that we have always taken seriously our duty to protect the common folk of the Empire." />
+    <string id="qa2xUjcT" text="I know your name. I can only hope that what I have heard is not true." />
     <string id="qB3wfM1f" text="I'm glad that you and I could reach an agreement, earlier." />
     <string id="Qb4tlTEj" text="But enough talking. Yield or fight![ib:warrior][if:convo_angry]" />
     <string id="QhkM71ap" text="It's an honor to meet you, good sir." />

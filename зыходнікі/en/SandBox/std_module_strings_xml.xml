@@ -1,11 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
-  <tags>
-    <tag language="English" />
-  </tags>
   <strings>
     <string id="0qCWauna" text="10% Success Bonus" />
     <string id="0yCa27tK" text="You can hold {LEAVE_AREA_KEY} to leave the current area." />
+    <string id="19ofEN12" text="The possibility of you or other heroes to die in battle." />
     <string id="1JlzQIXE" text="Disabled" />
     <string id="3kqjY7wD" text="Persuasion Success" />
     <string id="4IZnbvlD" text="Baudein" />
@@ -13,9 +11,11 @@
     <string id="5x5qnXVG" text="5% Success Bonus" />
     <string id="776J8Fng" text="Baldimos" />
     <string id="7ZhNilg8" text="Easy (5% bonus)" />
+    <string id="8eYtra7T" text="Determine the game difficulty" />
     <string id="8UBfIenN" text="Normal" />
     <string id="9jSxo790" text="Realistic" />
     <string id="9l5RgXiU" text="Choose if circle map notifications will be shown on the right side on campaign map." />
+    <string id="aj9NRMwe" text="Disable Battle Deaths Player Only" />
     <string id="AQfVclN8" text="Prize" />
     <string id="AYOLqun4" text="Clan Member Death Possibility in Battles" />
     <string id="bfiDLULr" text="Reduced by 50%" />
@@ -24,25 +24,32 @@
     <string id="BskZLZRb" text="Choose if the heroes are able to age and reproduce." />
     <string id="btC3Y3hb" text="This option cannot be changed later." />
     <string id="bXifxuLd" text="Reduced by 100%" />
+    <string id="bZDU6SCU" text="Hero Deaths in Combat" />
     <string id="carorTAF" text="Reduced to 2/3 (Easy)" />
+    <string id="cpWFA3dl" text="Disable Battle Death For Player Hero" />
+    <string id="CQZJLWfw" text="You can reset your perks at the tournament master...for the right price. " />
     <string id="D9GkBqyW" text="You can leave the training field by holding {LEAVE_KEY}{newline}You can return at any time from the campaign map." />
+    <string id="D9q4ZHL4" text="Disable All Battle Deaths" />
     <string id="debaZA1j" text="This option can only be changed in character creation." />
     <string id="DELVwiEM" text="Tira" />
     <string id="DFMhzFGV" text="Keeping a number of horses in your inventory may speed up your party considerably, since they'll increase your carrying capacity and footmen will ride spare horses. Pack horses and mules are only useful for carrying cargo though." />
+    <string id="ehdBvNmN" text="Disable Battle Death For All Heroes" />
     <string id="EhELIf65" text="Teruin" />
     <string id="fbaQp3ox" text="Enable auto allocation of perks for members in your clan." />
     <string id="FiRWs5vF" text="Ironman mode limits you to a single save file and automatically saves when you quit the game." />
     <string id="freebooterdifficulty" text="Freebooter" />
     <string id="GCqWwDWg" text="Baladir" />
+    <string id="gdc1etbC" text="Enable All Battle Deaths" />
+    <string id="gRVHCPak" text="Reset all tutorials" />
     <string id="hEYfasE1" text="Received damage ratio to your character." />
     <string id="HMFb1gaq" text="Egalitarian" />
     <string id="hR6Zo6pD" text="Oligarchic" />
     <string id="HVrobtL5" text="New kingdom name:{newline} - Cannot include digits.{newline} - Cannot be longer than {MAX_LETTER_COUNT} characters.{newline} - Cannot be shorter than {MIN_LETTER_COUNT} characters." />
     <string id="IgeL6qHr" text="Received damage ratio to your allies that are not under your command." />
-    <string id="irBV6UE4" text="{MINUTE} {?IS_PLURAL}minutes{?}minute{\?}" />
-    <string id="ispBRM5j" text="The amount of extra chance for you to succeed in persuasion." />
     <string id="IWD56KMc" text="Map Movement Speed" />
     <string id="IzGEz5B0" text="Reduced to 50% (Very Easy)" />
+    <string id="irBV6UE4" text="{MINUTE} {?IS_PLURAL}minutes{?}minute{\?}" />
+    <string id="ispBRM5j" text="The amount of extra chance for you to succeed in persuasion." />
     <string id="JbFRrjqM" text="When you are in a town or village scene, holding down {MISSION_INDICATORS_KEY} shows markers on important people and interest points." />
     <string id="JMhKt2W1" text="Challenging" />
     <string id="JR6UgiT1" text="Reduced to 50% (Easy)" />
@@ -65,8 +72,11 @@
     <string id="ob84Szvh" text="Reduced to 25% (Very Easy)" />
     <string id="Oea9a5nY" text="Friendly Troops Received Damage" />
     <string id="oJBveifV" text="Select a difficulty preset to change all of the difficulty options." />
+    <string id="OKjjmsPq" text="This option depends on &quot;{OPTION}&quot; to be enabled." />
     <string id="oo6qQsL9" text="Reduced to 75% (Easy)" />
+    <string id="OPPcXXSJ" text="Enable Battle Death For All Heroes" />
     <string id="opUBnFym" text="Terte" />
+    <string id="oUz16Nav" text="Reset Tutorial" />
     <string id="qc9Llr3x" text="Hero" />
     <string id="QZHSvGrD" text="Baldrim" />
     <string id="QzmJL5I7" text="Easy (1 extra)" />

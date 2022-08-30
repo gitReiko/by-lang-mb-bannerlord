@@ -1,8 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
-  <tags>
-    <tag language="English" />
-  </tags>
   <strings>
     <string id="01Y1DAqA" text="{MENTOR.LINK} has sent you a message: As you may know, I receive reports from my spies in marketplaces around here. There is a merchant who I have been following - I know he is connected with {OTHER_MENTOR.LINK}. Now, I hear he has bought up a large supply of weapons and armor in {QUEST_FROM_SETTLEMENT_NAME}, and plans to travel to {QUEST_TO_SETTLEMENT_NAME}. From there it will move onward. I expect that {OTHER_MENTOR.LINK} is arming {?OTHER_MENTOR.GENDER}her{?}his{\?} allies in the gangs in that area. If the caravan delivers its load, then I expect we will soon find some of our friends stabbed to death in the streets by hired thugs, and the rest of our friends too frightened to acknowledge us. I need you to track it down and destroy it. Try to intercept it on the first leg of its journey, before it gets to {QUEST_TO_SETTLEMENT_NAME}. If you fail, find out the next town to which it is going. It may take some time to find it, and when you do, it will be well guarded. But I trust in your perseverance, your skill and your understanding of how important this is. Good hunting." />
     <string id="09z8Q08f" text="Your family were small farmers with just enough land to feed themselves and make a small profit. People like them were the pillars of the imperial rural economy, as well as the backbone of the levy." />
@@ -95,9 +92,10 @@
     <string id="7Hv984Sf" text="at docks and building sites." />
     <string id="7jBroUUQ" text="Your family had little land of their own, so they earned their living from the woods, hunting and trapping. They taught you from an early age that skills like finding game trails and killing an animal with one shot could make the difference between eating and starvation." />
     <string id="7O8IwMgU" text="Oh, you'll need my help all right, if you want to get them back - alive, that is. See, my boys have some pretty specific instructions about what to do if there's a rescue attempt..." />
-    <string id="7ULaG8aT" text="Then you can come back when you made up your mind up." />
+    <string id="7ULaG8aT" text="Then you can come back when you made up your mind." />
     <string id="7VFLb3Qj" text="You have arrived at the village." />
     <string id="7wmkPNbI" text="Defend from right." />
+    <string id="7XTkTi9B" text="{PLAYER_LITTLE_SISTER.NAME} is the little sister of {PLAYER.LINK}." />
     <string id="80NOk1Ee" text="You could not unify the Empire." />
     <string id="888lmJqs" text="All of Calradia's kingdoms recognize the value of good light cavalry and horse archers, and are sure to recruit nomads and borderers with the skills to fulfill those duties. You were a good enough rider that your neighbors pitched in to buy you a small pony and a good bow so that you could fulfill their levy obligations." />
     <string id="8a6dnLd2" text="with the alley gangs." />
@@ -224,7 +222,7 @@
     <string id="DIgsfYfz" text="You took your family's goods to the nearest town to sell your produce and buy supplies. It was hard work, but you enjoyed the hubbub of the marketplace." />
     <string id="DIKPGwj1" text="So glad to see you safe. Is everyone okay?" />
     <string id="DjeAJtix" text="Maybe it was a love affair, or maybe you cheated at dice, or maybe you just chose your words poorly when drinking with a dangerous crowd. Anyway, on one of your trips into town you got into the kind of trouble from which only a quick tongue or quick feet get you out alive." />
-    <string id="DjQuB0TU" text="You saved your brother and sister, and you decided to let {RADAGOS.LINK} go..." />
+    <string id="DjQuB0TU" text="You saved your brothers and sister, and you decided to let {RADAGOS.LINK} go..." />
     <string id="dlBFVkDj" text="About the task you gave me..." />
     <string id="DM6luo3c" text="Continue" />
     <string id="DO4PE3Oo" text="Current Party Size" />
@@ -347,24 +345,24 @@
     <string id="hXl25avg" text="Your family arranged for a private tutor and you took full advantage, reading voraciously on history, mathematics, and philosophy and discussing what you read with your tutor and classmates." />
     <string id="hYgmzZJX" text="Denars" />
     <string id="I3PcdaaL" text="Wolves, bears are a constant menace to the flocks of northern Calradia, while hyenas and leopards trouble the south. You went with a group of your fellow villagers and fired the missile that brought down the beast." />
-    <string id="i3SSc0I4" text="{IMPERIAL_MENTOR.NAME}'s Plan" />
-    <string id="i5OOargr" text="Such are the fortunes of war. But what came afterwards... When word spread of what happened to our menfolk, the other clans - the Arkits in particular - knew we were weak. Our herds were raided. Anyone who protested was killed. Monchug did little to stop it. It taught us that valor will get you killed, but treachery will make you rich." />
     <string id="IavuL9KI" text="Of course. I intend to use the banner to help save the Empire." />
-    <string id="ib2TKPUa" text="The ruler of the {FACTION} is leading the alliance against you. Defeat their armies or force them to make peace by capturing their settlements and destroying their parties to achieve victory." />
-    <string id="ibm9EEPa" text="No, I need more time to decide." />
     <string id="IC9Vg5MA" text="Meet me there later, when you're ready to tell me everything.[if:idle_normal][ib:normal]" />
     <string id="IITkXnnU" text="Calradia is a land full of peril - but also opportunities. To face the challenges that await, you will need to build up your clan.\nYour brother told you that there are many ways to go about this but that none forego coin. Trade would be one means to this end, fighting and selling off captured bandits in town another. Whatever path you choose to pursue, travelling alone would make you easy pickings for whomever came across your trail.\nYou know that you can recruit men to follow you from the notables of villages and towns, though they may ask you for a favor or two of their own before they allow you access to their more valued fighters.\nNaturally, you may also find more unique characters in the taverns of Calradia. However, these tend to favor more established clans." />
     <string id="IL4FcHXv" text="You've pledged your allegiance to the {KINGDOM_NAME}!" />
     <string id="ImLQNYWC" text="Very well - I'll duel you." />
     <string id="InN5ZZt3" text="A landlord's retainers" />
     <string id="IPP6MKfy" text="{MENTOR.LINK} notified you about a weapons caravan that will supply conspirators with weapons and armour." />
+    <string id="IYnFgEgy" text="Let's go on then. (Play the combat tutorial)" />
+    <string id="i3SSc0I4" text="{IMPERIAL_MENTOR.NAME}'s Plan" />
+    <string id="i5OOargr" text="Such are the fortunes of war. But what came afterwards... When word spread of what happened to our menfolk, the other clans - the Arkits in particular - knew we were weak. Our herds were raided. Anyone who protested was killed. Monchug did little to stop it. It taught us that valor will get you killed, but treachery will make you rich." />
+    <string id="ib2TKPUa" text="The ruler of the {FACTION} is leading the alliance against you. Defeat their armies or force them to make peace by capturing their settlements and destroying their parties to achieve victory." />
+    <string id="ibm9EEPa" text="No, I need more time to decide." />
     <string id="ipQP6aVi" text="Mercenaries" />
     <string id="iQeMllr8" text="When it was just us fighting the horse archers, we were winning.. A man on foot can shoot as well or better than a man on horseback, all things being equal, and there were a lot more of us. So they started to go down and galloped off. The knights of course pursued, and that's when the problems started." />
     <string id="iQrwsvb1" text="We had no choice but to go to war. Anyone who tells you they would have done otherwise is either a liar or a coward or both. The Sturgians attacked us, and needed to be chastised. We lost an army and a banner. But we did not lose our honor, and without honor the Empire would be finished." />
     <string id="iR4QCTxv" text="Weaken Empire" />
     <string id="itRoeaJf" text="We heard you took our little brother and sister. Where are they?" />
     <string id="ivKl4mV2" text="Your father was a trusted lieutenant of the local landowning aristocrat. He rode with the lord's cavalry, fighting as an armored lancer." />
-    <string id="IYnFgEgy" text="Let's go on then. (Play the combat tutorial)" />
     <string id="izCbZEZg" text="Conspiracy Commander{%Commander is male.}" />
     <string id="iZKtGI6Y" text="Your family arranged for you to accompany a minor baron of the Vlandian kingdom. You were not given major responsibilities - mostly carrying messages and tending to his horse -- but it did give you a chance to see how campaigns were planned and men were deployed in battle." />
     <string id="j2dW9fZt" text="Attack from up." />
@@ -418,6 +416,7 @@
     <string id="L1V8L2N1" text="Yes. The Emperor Neretzes had offered to hire our warriors as mercenaries. I saw nothing wrong with that." />
     <string id="L3Qb6lbp" text="Peace Offer from the {FACTION}" />
     <string id="LbSvq3be" text="One other thing, {?PLAYER.GENDER}sister{?}brother{\?}. We want people to take us seriously. We may be leading men into battle soon. Let's give our family a name and a banner, like the nobles do." />
+    <string id="LcxfWLgd" text="{PLAYER_BROTHER.NAME} is the elder brother of {PLAYER.LINK}." />
     <string id="lD5Ob3R4" text="Maybe it was a love affair, or maybe you cheated at dice, or maybe you just chose your words poorly when drinking with a dangerous crowd. Anyway, you got into the kind of trouble from which only a quick tongue or quick feet get you out alive." />
     <string id="Lep5YKdt" text="While Neretzes' vanguard was getting slaughtered, we met the Vlandians. But the Vlandians brought lots of crossbowmen, and our horse archers took heavy losses. Eventually the armored imperial cataphracts showed up, and rolled over the crossbows. But we were caught in a melee with the Vlandian knights, and that was where things got bloody." />
     <string id="LfH7VXDH" text="You have eliminated all {RAIDER_NAME} gangs in the vicinity." />
@@ -492,6 +491,7 @@
     <string id="p4qJ4KSm" text="If you want more information, there are two people you might try to speak to. {IMPERIAL_MENTOR.NAME} worked as a sort of unofficial spymaster for Neretzes. She lives near {IMPERIAL_MENTOR_SETTLEMENT}." />
     <string id="pa9LrHln" text="We're here, I guess. So... We need food, and after that, maybe some men to come with us." />
     <string id="pCNSEPEP" text="You escaped? Where's my brother? What happened?" />
+    <string id="PDlaPVIP" text="{PLAYER_LITTLE_BROTHER.NAME} is the little brother of {PLAYER.LINK}." />
     <string id="peNBA0WW" text="Story Background" />
     <string id="PiKISvfu" text="{PLAYER.NAME}! I knew you'd come. Great Heaven. Damn, {?PLAYER.GENDER}sister{?}brother{\?}, nothing can stop you! I love you, {?PLAYER.GENDER}sister{?}brother{\?}.[if:happy][ib:demure]" />
     <string id="PJ5C3Dim" text="{ANTIIMPERIAL_MENTOR.NAME}'s Conspiracy" />
@@ -588,7 +588,7 @@
     <string id="TeMExjrH" text="This option is disabled during current active quest." />
     <string id="tF6VeYaA" text="If you win, I promise my army won't crush you." />
     <string id="tGEStbxb" text="Tribespeople" />
-    <string id="TH6L7OXu" text="Then you can come back when you made up your mind up.[sp:/Sounds/VO/mainquest/mntemp_q01_12.ogg]" />
+    <string id="TH6L7OXu" text="Then you can come back when you made up your mind.[sp:/Sounds/VO/mainquest/mntemp_q01_12.ogg]" />
     <string id="tI8ZLtoA" text="repaired projects." />
     <string id="TIaVyqMx" text="Glad to see you found what you needed. Now, about that matter I mentioned earlier...[if:convo_grave]" />
     <string id="tJQ5oajd" text="Next, your clan must have won for itself considerable renown, or no one will follow you." />
@@ -630,7 +630,6 @@
     <string id="US0VAHiE" text="You have eliminated a {RAIDER_NAME} party." />
     <string id="uvbCyLiR" text="Is that true? Well, that is interesting." />
     <string id="UVuwofhS" text="Clans rise, clans fall. My duty is to all the Khuzaits. Look at it this way. Were it not for her husband's death, Lady Mesui would never have inherited the leadership of the Khergits. Death creates opportunity. The survivors of a great battle make a great show of mourning, but inside they rejoice." />
-    <string id="uYjEknNX" text="{VICTIM}'s execution by {EXECUTER}" />
     <string id="v48N6h1t" text="Urban artisans" />
     <string id="V5K8RpAa" text="{MENTOR.LINK}'s message: “Greetings, {PLAYER.NAME}. We have a new problem. I've had reports from my agents of unusual bandit activity near {TARGET_SETTLEMENT}. They appear to be raiding and killing travellers {?IS_EMPIRE}under the protection of the Empire{?}who aren't under the protection of the Empire{\?}, and leaving the others alone. This seems very much like the work of {NEMESIS_MENTOR.LINK}, to terrorize local merchants so that no one will stand up for our cause. I advise you to wipe these bandits out as quickly as possible. That would send a good message, both to our allies and our enemies.”" />
     <string id="vaLehwRl" text="We had given an oath to the Empire, to join them if attacked. It seemed clear to me that we should have honored our oath, that the Battanians and Sturgians were aggressors, but, there is always room to argue details. Ultimately our barons did not wish to fight with the Empire, so they resisted coming to its help." />
@@ -737,11 +736,11 @@
     <string id="ZDEcFXIm" text="You may have one piece of the banner, but it's of little use in itself. You'll have to find the other parts. But once you can bring together the pieces, you'll have something of tremendous value.[sp:/Sounds/VO/mainquest/mntemp_q01_03.ogg]" />
     <string id="zEoHYEUS" text="Wait here for some time" />
     <string id="ZhZ7MCeh" text="Well. I recognize defeat when I see it. If I'm going to be your captive, let me introduce myself. I'm Radagos." />
-    <string id="ZKdBlAmp" text="{MENTOR.LINK} has sent you a message: An arms caravan to resupply the conspirators will be soon on its way.{newline}{MENTOR.LINK}'s message:{newline}&quot;Our spies have learned about an arms caravan that is attempting to bring the conspirators high quality weapons and armor. We know that it will set out on its route from {QUEST_FROM_SETTLEMENT_NAME} to {QUEST_TO_SETTLEMENT_NAME} after {SPAWN_DAYS} days. We will find out and notify you about the new routes that it takes as it progresses.&quot;" />
+    <string id="ZKdBlAmp" text="An arms caravan to resupply the conspirators will be soon on its way.{newline}{MENTOR.LINK}'s message:{newline}&quot;Our spies have learned about an arms caravan that is attempting to bring the conspirators high quality weapons and armor. We know that it will set out on its route from {QUEST_FROM_SETTLEMENT_NAME} to {QUEST_TO_SETTLEMENT_NAME} after {SPAWN_DAYS} days. We will find out and notify you about the new routes that it takes as it progresses.&quot;" />
     <string id="ZkSthA9d" text="They say Olek the Old had pried the dragon banner out of the Emperor's dead hands. But then Prince Raganvad, who had not so much as drawn his sword in the battle, claimed it as a trophy. Olek, who was covered in his enemies' blood, laughed at Raganvad and told him to go find his own toy to play with. Raganvad struck him, so Olek broke the banner staff over his knee and threw it in his prince's face." />
     <string id="ZKynvffv" text="Your family owned their own workshop in a city, making goods from raw materials brought in from the countryside. Your father played an active if minor role in the town council, and also served in the militia." />
     <string id="zLRlmitp" text="Investigate 'Neretzes' Folly'" />
-    <string id="ZpcV9MZE" text="You saved your brother and sister, and you decided to execute {RADAGOS.LINK} because he caused the death of your parents." />
+    <string id="ZpcV9MZE" text="You saved your brothers and sister, and you decided to execute {RADAGOS.LINK} because he caused the death of your parents." />
     <string id="Zq9qXcCk" text="You are defeated by the {RADAGOS.NAME}' Party, but your brother saved you. It doesn't look like they're going anywhere, though, so you should attack again once you're ready. You must have at least {NUMBER} members in your party. If you don't, go back to {QUEST_VILLAGE} and recruit some more troops." />
     <string id="ZqOvtLBM" text="In the confusion of the attack you shouted that someone had found treasure in the back room. You then made your way out of the undefended entrance with your brother." />
     <string id="zrpqSWSh" text="Free farmers" />

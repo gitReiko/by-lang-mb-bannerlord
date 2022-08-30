@@ -1,11 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
-  <tags>
-    <tag language="English" />
-  </tags>
   <strings>
     <string id="0MDEP0jy" text="You cannot invite yourself" />
     <string id="0XY1VKVB" text="Your party is not eligible for clan games." />
+    <string id="1CO3GGEk" text="Given ID is too short." />
     <string id="2BtJYizu" text="You must be in a party to perform this action." />
     <string id="2KsbeJHa" text="You have successfully updated your sigil preference" />
     <string id="3cWg0cWt" text="Could not connect to server." />
@@ -37,6 +35,7 @@
     <string id="bivF3RXY" text="You cannot promote yourself" />
     <string id="bl2dNFmT" text="Invalid badge." />
     <string id="bMLqfPRv" text="You are not in a clan." />
+    <string id="BpwNljJF" text="Bannerlord Id cannot contain profanity." />
     <string id="bvWo9N6k" text="Officer limit of the clan is reached." />
     <string id="BwBR7TJB" text="No one left in your party and it has been disbanded!" />
     <string id="bzcI3ei2" text="You already have a pending request for {ARG1}." />
@@ -53,13 +52,16 @@
     <string id="Ds01FoSn" text="{ARG1} declined your friend request." />
     <string id="E2ILp86t" text="Cannot queue to battle because region is not available." />
     <string id="e9LrrgAH" text="Announcement doesn't exist." />
+    <string id="Ebp5T7vh" text="Can't rejoin game you've abandoned." />
     <string id="emx7txM9" text="Member promotion action can only be performed by the party leader." />
     <string id="eozBcVaB" text="You can not promote yourself as clan officer." />
     <string id="fD2SyeA7" text="You cannot invite yourself to party." />
     <string id="FEeVGSO6" text="Clan leader can't leave the clan." />
     <string id="FFPyGnZg" text="{ARG1} successfully promoted to clan officer." />
+    <string id="fQCaY3da" text="Given ID contains invalid characters." />
     <string id="fZC7pBba" text="You can only suggest players running the game with Anti-cheat." />
     <string id="gAeQdLU5" text="Failed to acquire access data from platform" />
+    <string id="GIiGZOxP" text="Cannot add friend. Privacy settings failed." />
     <string id="gQ8deZ17" text="{ARG1} is not online." />
     <string id="h84jSMrT" text="You are muted until {ARG1}. Reason: {ARG2}" />
     <string id="hav7yZyB" text="No text entered." />
@@ -67,12 +69,12 @@
     <string id="hhUKkNR6" text="You already own selected cosmetic item" />
     <string id="hqK9565f" text="Invalid game type." />
     <string id="HTFNfODt" text="You cannot pick a badge you have not earned." />
-    <string id="i4MNr0bo" text="Disconnected from the Lobby." />
-    <string id="iG72AMy8" text="Information text changed successfully." />
     <string id="InUAmnX4" text="You are kicked due to friendly damage" />
     <string id="IRWReNWu" text="You must be the leader of your party to perform this action." />
-    <string id="ivKntfNA" text="Already requested to join, waiting for server response" />
     <string id="IWr2ZmWX" text="{ARG1} was promoted to party leader." />
+    <string id="i4MNr0bo" text="Disconnected from the Lobby." />
+    <string id="iG72AMy8" text="Information text changed successfully." />
+    <string id="ivKntfNA" text="Already requested to join, waiting for server response" />
     <string id="J3dazru7" text="Invited {ARG1} to the game" />
     <string id="jbaOH6qf" text="{ARG1} successfully promoted to clan leader." />
     <string id="JO37PkfW" text="Your platform service is not initialized." />
@@ -104,7 +106,9 @@
     <string id="R7z6X8bT" text="Could not update Bannerlord ID." />
     <string id="rfaIXasP" text="Clan sigil changed successfully." />
     <string id="rI8gE2Qh" text="Announcement deleted successfully." />
+    <string id="RKioOKi4" text="Bannerlord ID cannot be empty." />
     <string id="ruC5qF1H" text="Friend request declined." />
+    <string id="RuKlb0Li" text="Given ID is too long." />
     <string id="S7Y5Suho" text="You cannot suggest yourself to party." />
     <string id="sa138Btz" text="You have to be creating a clan game to cancel one." />
     <string id="shIV99LZ" text="Friend request received from {ARG1}." />
