@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <strings>
-    <string id="05fdfc6e238429753ef282f2ce97c1f8" text="Suma Steka: " />
+    <string id="05fdfc6e238429753ef282f2ce97c1f8" text="Kolkasć: " />
     <string id="08abd5af7774d311cadc3ed900b47754" text="Typ: " />
     <string id="0mqdFC2x" text="Zbroja Vyrablena!" />
     <string id="0Q4Xo2BQ" text="Abiarycie Lidara Novaj Partyi" />
@@ -12,13 +12,13 @@
     <string id="1CXlqb2U" text="Vybar:" />
     <string id="1qm74K2t" text="{FACTION} paspiachova razrabavała" />
     <string id="1UbocG5B" text="Admovicca ad svaich pravoŭ i abaviazkaŭ u hetaj vołasci, i viarnuć jaje haspadarstvu." />
-    <string id="1xf8rHLH" text="U vas niama pałonnych, jakich možna rekrutavać." />
+    <string id="1xf8rHLH" text="Vy nie majecie pałonnych, jakich lha rekrutavać." />
     <string id="2abtb4xu" text="Niezaležn." />
     <string id="2ckyCKR7" text="Rezierv" />
     <string id="2Cq3tViJ" text="Limit Pamieru Partyi" />
     <string id="2GWR9Cba" text="Dym" />
     <string id="2lFwF07j" text="Zmianić Imia" />
-    <string id="2nN1QuxZ" text="Hety kvest budzie pravaleny, kali nie budzie vykanany za hety čas." />
+    <string id="2nN1QuxZ" text="Hety kvest budzie pravaleny, kali nie budzie vykanany za aznačany čas." />
     <string id="3025020b83b218707499f0de3135ed0a" text="Manieŭranasć: " />
     <string id="305cf7f98458b22e9af72b60a131714f" text="Brania Kania: " />
     <string id="345a87fcc69f626ae3916939ef2fc135" text="Chutkasć Parezu: " />
@@ -32,22 +32,22 @@
     <string id="4U9EnZt5" text="Krytyčny Pospiech!" />
     <string id="4uMWNDoi" text="Kolučaja Chutkasć" />
     <string id="4vZLpzPi" text="+1 Viadomasć / Dzień" />
-    <string id="5bzk75Ql" text="Uzajemadziejničaje z {TARGET_PARTY}." />
+    <string id="5bzk75Ql" text="{TARGET_PARTY} biare ŭdzieł." />
     <string id="5dec16fa0be433ade3c4cb0074ef366d" text="Trapnasć: " />
     <string id="5fa36d2798479803b4518a64beb4d732" text="Daŭžynia Zbroi: " />
     <string id="5tbWdY1j" text="Avatar" />
     <string id="5Unqsx3N" text="Pacvierdzić" />
-    <string id="63Ic1Ahe" text="Košt: {UPGRADE_COST} (U vas niama)" />
-    <string id="68IlDbA2" text="U vas niama pieravahi {PERK_NAME}, kab palepšyć bandyta da zvyčajnaha vajara." />
+    <string id="63Ic1Ahe" text="Košt: {UPGRADE_COST} (Vam brakuje)" />
+    <string id="68IlDbA2" text="Vy nie majecie pieravahi {PERK_NAME}, kab palepšyć bandyta da zvyčajnaha vajara." />
     <string id="6adabc1f82216992571c3e22abc164d7" text="Limit Snaradaŭ: " />
     <string id="6bx9IhpD" text="Palapšenni" />
     <string id="6GSXsdeX" text="Chutkasć" />
     <string id="74dc1908cb0b990e80fb977b5a0ef10d" text="Chutkasć: " />
     <string id="7h6cXdW7" text="Inžynier" />
-    <string id="7l0LGKRk" text="Dacie Pačatku" />
+    <string id="7l0LGKRk" text="Data Pačatku" />
     <string id="7tBOCHm6" text="Koler Simvała:" />
     <string id="7Xynf4IA" text="Brania Rukaŭ" />
-    <string id="84oSzquz" text="Niadaŭni Zbieh z Pałonu" />
+    <string id="84oSzquz" text="Niadaŭna Zbieh z Pałonu" />
     <string id="8BJDQe6o" text="{FACTION} zachapiła pałonnych" />
     <string id="8BlMRMiR" text="Uzrovień Kania" />
     <string id="8cad4a279770f269c4bb0dc7a357ee1e" text="Kłas: " />
@@ -64,7 +64,7 @@
     <string id="a241aacb1780599430c79fd9f667b67f" text="Maral Partyi: " />
     <string id="a4GDfSel" text="Skinuć Padkazki" />
     <string id="a8NoW1Q2" text="Vy ŭpeŭnieny, što žadajecie skasavać svaje zmieny?" />
-    <string id="a8nRxITn" text="Pałonnyja {PARTY_NAME}" />
+    <string id="a8nRxITn" text="Znachodzicca ŭ pałonie {PARTY_NAME}" />
     <string id="AcMayd1p" text="Uciakaje ad {TARGET_PARTY}" />
     <string id="aE4ZRbB6" text=" {HEALTH}%" />
     <string id="aFYwbosi" text="Hety hieroj užo ŭznačalvaje partyju." />
@@ -76,16 +76,16 @@
     <string id="aROohsat" text="Užo ŭ inšym vojsku." />
     <string id="aTdrjrEh" text="{SWING_DAMAGE_FACTOR}" />
     <string id="av51ur2M" text="Kab zmianić typ vytvorčasci hetaj majsterni, vam patrebna prynamsi {REQUIRED_AMOUNT} denaraŭ." />
-    <string id="averageWealthStatus" text="Siaredni" />
+    <string id="averageWealthStatus" text="Siaredn." />
     <string id="Avy8Gua1" text="Pieravahi" />
     <string id="b8CqpGHx" text="Rekrutavać Pałonnych" />
     <string id="bAqDnkaT" text="Chutkasć Snarada" />
     <string id="Bcs9s2tC" text="PKM, kab Vydalić" />
     <string id="bd7oAQq6" text="Štodnia" />
     <string id="bDwTWrru" text="Niama zatrymki" />
-    <string id="BEXTcJaS" text="Času Vykanannia" />
+    <string id="BEXTcJaS" text="Čas Vykanannia" />
     <string id="bfQLwMUp" text="Kłany" />
-    <string id="bfWlTVjs" text="Vydalić pravapierajemnika" />
+    <string id="bfWlTVjs" text="Vydalić spadčynnika" />
     <string id="BgqZWbga" text="Šlachta haspadarstva budzie niezadavolena admovaj ad viernasci. Vy ŭpeŭnieny, što žadajecie pakinuć Haspadarstva?" />
     <string id="BifGz0h4" text="Patruluje" />
     <string id="BkDycbdq" text="Pamyłka pry adlustravanni dreva vojskaŭ" />
@@ -98,14 +98,14 @@
     <string id="c5eYzHaM" text="{DAYS} {?DAY_IS_PLURAL}Dzion{?}Dzień{\?} ({PERCENTAGE}%)" />
     <string id="c6BtCIrX" text="{DAYS} dzion tamu" />
     <string id="c6e4c8588ca9e42f6e1b47b11f0f367b" text="Daŭžynia: " />
-    <string id="c7638a0869219ae845de0f660fd57a9d" text="Škoda najezdu: " />
+    <string id="c7638a0869219ae845de0f660fd57a9d" text="Škoda Najezdu: " />
     <string id="c9c5dfed2ca6bcb7a73d905004c97b23" text="Škoda: " />
     <string id="ca8b1e8956057b831dfc665f54bae4b0" text="Kirujemasć: " />
     <string id="CaRbMaZY" text="Dzionnyja Vydatki" />
     <string id="cbbUzYX3" text="Składanasć: {DIFFICULTY}" />
     <string id="cedvCZ73" text="{FACTION} nie vałodaje haradami." />
     <string id="CExQ40Ux" text="{PARTY_1S_MEMBERS}   " />
-    <string id="cf61cce254c7dca65be9bebac7fb9bf5" text="Brania Ruk: " />
+    <string id="cf61cce254c7dca65be9bebac7fb9bf5" text="Brania Rukaŭ: " />
     <string id="CGVK6l8I" text="Pieravahi Čempijona" />
     <string id="CK68QXen" text="{FACTION} nie zachapiła pałonnych" />
     <string id="Ck9HT8fQ" text="Reziume" />
@@ -115,7 +115,7 @@
     <string id="CTtjSwRb" text="Da Poŭdnia" />
     <string id="cUUI8u2G" text="Tryvałasć Kavala" />
     <string id="cZCOa00c" text="{SUPPORTER_RANK} Prychilniki ({NUM})" />
-    <string id="d2K6gMsZ" text="Pakinuć čalcoŭ. Patrebien jak minimum 1 kampańjon." />
+    <string id="d2K6gMsZ" text="Pakinuć čalcoŭ. Patrebien prynamsi 1 kampańjon." />
     <string id="d8jrv3nA" text="Dadać u Zakładki" />
     <string id="DAmdTxuC" text="Kiravannie Vojskam" />
     <string id="dB6cFDmz" text="/" />
@@ -137,31 +137,31 @@
     <string id="eIws123Z" text="Brania Nohaŭ" />
     <string id="EkFDvG7z" text="Zapasy Ježy Sielišča" />
     <string id="eoVW9z54" text="Siaredniaja Maral" />
-    <string id="EQHq3bHM" text="Ruchajecca da {TARGET_PARTY}" />
+    <string id="EQHq3bHM" text="Vandruje da {TARGET_PARTY}" />
     <string id="ErnykQEH" text="Vynik Pracy" />
     <string id="eTw2aNV5" text="+" />
     <string id="eTxcYvRr" text="{FACTION} zachapiła zamki" />
     <string id="exnL6SS7" text="Atakuje {TARGET_SETTLEMENT}" />
     <string id="F0a7hyp0" text="Ryzyka paŭstannia" />
-    <string id="f2971dc587a9777223ad2d7be236fb05" text="Čutki pra handal" />
+    <string id="f2971dc587a9777223ad2d7be236fb05" text="Čutki pra Handal" />
     <string id="f4nc7FfE" text="Palepšyć da {UPGRADE_NAME}" />
     <string id="f6vTzVar" text="Niama mabilnaj partyi." />
     <string id="Fa2nKXxI" text="Starosta" />
     <string id="fAxjyMt5" text="Noč" />
     <string id="FBYFcrWo" text="Pakinuć u sieliščy" />
-    <string id="FdzsOvDq" text="Heta dziejannie adklučana padčas misii" />
+    <string id="FdzsOvDq" text="Hetaje dziejannie adklučana padčas misii" />
     <string id="fI7a7RoE" text="Jomistasć Invientaru" />
-    <string id="FjJi1DJb" text="Hety hieroj užo zjaŭlajecca častkaj inšaj partyi." />
+    <string id="FjJi1DJb" text="Hety hieroj užo zjaŭlajecca častkaju inšaj partyi." />
     <string id="flxDkoMh" text="Etap Zavieršany" />
-    <string id="fpE7BQ7f" text="U vas niama vajaroŭ, jakich možna palepšyć." />
+    <string id="fpE7BQ7f" text="Vy nie majecie vajaroŭ, jakich lha palepšyć." />
     <string id="FYJC7cDD" text="Asablivasci" />
     <string id="fz2kQjFS" text="Abiarycie kulturu svajho hieroja:" />
-    <string id="g08mptth" text="Pierasoŭvajecca ŭ partyju, kab stać novym lidaram" />
+    <string id="g08mptth" text="Vandruje ŭ partyju, kab stać novym lidaram" />
     <string id="G2h0V10w" text="Padaryć hetaje sielišča kłanu z vašaha haspadarstva." />
     <string id="g9VIbA9s" text="Siaržant" />
     <string id="GCaYjA5W" text="Vy pavinny być lidaram kłana, kab zmianić jaho nazvu." />
     <string id="Gd6zuUwh" text="Volnaje Budavannie" />
-    <string id="gduqxfck" text="U vas niama ŭsich patrebnych materyjałaŭ!" />
+    <string id="gduqxfck" text="Vam nie chapaje ŭsich patrebnych materyjałaŭ!" />
     <string id="gENb9SSW" text="Viečar" />
     <string id="ggpRTQQl" text="Lidar Partyi" />
     <string id="Gp2vmZGZ" text="{PERKS}" />
@@ -169,12 +169,12 @@
     <string id="gsVtO9A7" text="Rušennie" />
     <string id="gTbE6t9I" text="Nastupnyja patrabavanni nie vykonvajucca:" />
     <string id="gu5xmV0E" text="Niama inšych {WORKSHOP_NAME} u hetym horadzie." />
-    <string id="gUUnZNGk" text="Pierasoŭvajecca ŭ {SETTLEMENT_NAME}, kab stać novym starostam" />
+    <string id="gUUnZNGk" text="Vandruje ŭ {SETTLEMENT_NAME}, kab stać novym starostam" />
     <string id="guxNZZWh" text="Patrabavanni" />
-    <string id="GwA9oUBC" text="Vaš fokus na navykach vyznačaje chutkasć palapšennia navykaŭ na praktycy" />
+    <string id="GwA9oUBC" text="Vašy fokus na navykach vyznačaje chutkasć palapšennia navykaŭ na praktycy" />
     <string id="HAaElX8X" text="{PARTY_OWNERS_FACTION}" />
     <string id="HcAV8x7p" text="Čalec Partyi" />
-    <string id="heroRecovering" text="Adnaŭlajecca" />
+    <string id="heroRecovering" text="Ačuńvaje" />
     <string id="HfsUngkh" text="Rekrutavannie zaraz adklučana." />
     <string id="HFZdseH9" text="Tolki haspadar haspadarstva moža zmianić jaho nazvu." />
     <string id="HHTQVp52" text="Chutkasć Lačennia Hierojaŭ" />
@@ -182,13 +182,13 @@
     <string id="hn9TPqhK" text="Uzrovień Zbroi" />
     <string id="hOVPiG3z" text="Niadaŭna paŭstałyja" />
     <string id="hr4MuPnt" text="Patrebnyja Materyjały" />
-    <string id="hRSezxnT" text="Niekatoryja vašyja vajary hatovy da palapšennia." />
+    <string id="hRSezxnT" text="Častka vašych vajaroŭ hatovaja da palapšennia." />
     <string id="HTtWslIx" text="Zapasy Ježy Kirmaša" />
     <string id="hTzTMLsf" text="Dystancyja Ahladu" />
-    <string id="huqEEfGD" text="{FACTION} nie praviała paspiachovych rejdaŭ" />
+    <string id="huqEEfGD" text="{FACTION} nie praviała paspiachovych rabavanniaŭ" />
     <string id="hwrQqWir" text="Niama Navykaŭ" />
     <string id="Hxf6bzmR" text="Denaraŭ Zaraz" />
-    <string id="Hz8XO8wk" text="Starosty nie mohuć adnačasna ŭznačalvać ruchomuju partyju i zjaŭlacca starostam." />
+    <string id="Hz8XO8wk" text="Starosty nie mohuć adnačasna ŭznačalvać mabilnuju partyju i zjaŭlacca starostam." />
     <string id="I2sZ7K28" text="Vy ŭpeŭnieny, što žadajecie skinuć padkazki?" />
     <string id="IagYTD5O" text="Roskvit" />
     <string id="IcgVKFxZ" text="Haspadar" />
@@ -208,20 +208,20 @@
     <string id="iZ3w6opW" text="Zhurtavanasć" />
     <string id="j12VrGKz" text="Vojska" />
     <string id="J2gvnexb" text="Pasla Poŭdnia" />
-    <string id="j3iwQmoA" text="Ciapierašniaja kolkasć fokusa: {CURRENT_AMOUNT}" />
+    <string id="j3iwQmoA" text="Ciapierašniaja vieličynia fokusa: {CURRENT_AMOUNT}" />
     <string id="j4BdjLYp" text="Pačać hutarku z hetym čalcom kłana." />
     <string id="j4F7tTzy" text="Kłan" />
     <string id="J5u0uOKc" text="Uciakaje ad {TARGET_PARTY} u sielišča." />
     <string id="J8ddrAOf" text="Efiekty Starosty" />
     <string id="j8uZBakZ" text="{PROPERTIES}" />
     <string id="jdbT6nc9" text="Kožny {SUPPORTER_RANK} prychilnik štodzionna daje {INFLUENCE_BONUS}." />
-    <string id="JIr3Jc7b" text="Admovicca ad usich uładanniaŭ" />
+    <string id="JIr3Jc7b" text="Admovicca ad usich vołasciaŭ" />
     <string id="JJiKk4ow" text="Abiarycie vašaje prozvišča: " />
     <string id="jlgjLDo7" text="Harnizon" />
     <string id="jQdBl4hf" text="Starosta " />
     <string id="JTxI3sW2" text="Biare ŭ abłohu {TARGET_SETTLEMENT}" />
     <string id="Jyfkahka" text="{VALUE} ({?POSITIVE}+{?}{\?}{DELTA_VALUE})" />
-    <string id="JYOcl7Ox" text="Nieefiektyŭny!" />
+    <string id="JYOcl7Ox" text="Nieefiektyŭna!" />
     <string id="k1E9DuKi" text="Abrać Usio" />
     <string id="K6GYskvJ" text="Kultura:" />
     <string id="K87pubLc" text="Hetuju opcyju &quot;{DEPENDENT_OPTION}&quot; lha ŭklučyć, aktyvavaŭšy modul &quot;{MODULE_NAME}&quot;." />
@@ -229,11 +229,11 @@
     <string id="kjaACKUq" text="Hetaje dziejannie budzie kaštavać {GOLD}{GOLD_ICON}" />
     <string id="koX9okuG" text="Nijak." />
     <string id="kqeA8rjL" text="Vy ŭpeŭnieny, što žadajecie raspuscić svajo vojska?" />
-    <string id="kQsXUvgO" text="Vy nie pad uładaj haspadarstva." />
+    <string id="kQsXUvgO" text="Vy nie znachodziciesia pad uładaj haspadarstva." />
     <string id="KTKBKmvp" text="Faktar Kolučaj Škody" />
     <string id="KTTyBbsp" text="Maks Ački Ŭdaru" />
-    <string id="kWVbHPtT" text="Suma" />
-    <string id="kx7q8ybD" text="Brania Ruk" />
+    <string id="kWVbHPtT" text="Usiaho" />
+    <string id="kx7q8ybD" text="Brania Rukaŭ" />
     <string id="KxLoeSEO" text="Pierahrupoŭvajecca" />
     <string id="laznt9ZK" text="Zmieny Ježy Sielišča" />
     <string id="LBNzsqyb" text="Vołasci" />
@@ -257,7 +257,7 @@
     <string id="mdvnjI72" text="Na hetym ekranie nielha palepšyć vajaroŭ." />
     <string id="Mfbc4rQR" text="Škoda Tarana" />
     <string id="mg7id9om" text="Kolkasć Spažyvajemaj Ježy" />
-    <string id="mHVmrwRQ" text="Uviadzicie vaša imia" />
+    <string id="mHVmrwRQ" text="Uviadzicie vašaje imia" />
     <string id="MIylzRc5" text="Vy nie možacie vykanać hetaje dziejannie padčas padziei na mapie." />
     <string id="MkVTRqAw" text="Zakazy ({ORDER_COUNT})" />
     <string id="mountTier" text="Uzrovień Kania: " />
@@ -286,14 +286,14 @@
     <string id="ocSW4WA2" text="Krytyčnaja Niaŭdača!" />
     <string id="ODEnkg0o" text="Moc Kłana" />
     <string id="OGbskMfz" text="Razbłakavanyja Častki:" />
-    <string id="OhNYkblK" text="Hety hieroj tolki što zbieh z pałonu i budzie dastupny praz peŭny čas." />
+    <string id="OhNYkblK" text="Hety hieroj niadaŭna zbieh z pałonu i budzie dastupny praz peŭny čas." />
     <string id="oibdTnXP" text="Kirujemasć" />
-    <string id="oJmRg2ms" text="Vielmi Bahaty" />
+    <string id="oJmRg2ms" text="Vielmi Bahat." />
     <string id="OkWLI5C8" text="Pamier:" />
     <string id="OLn2GUDD" text="Niadaŭna Vyzvaleny z Pałonu" />
     <string id="oM2Ta1di" text="Nacisnicie {CONSOLE_KEY_NAME}, kab skinuć kamieru" />
-    <string id="Omjlnsk3" text="{ITEM_NAME} nie moža być ekipijavany ŭ hetuju vočku." />
-    <string id="OMqHwpXF" text="Adna z vašych partyjaŭ straciła svajho lidara. Jana budzie raspuščana pa zakančenni dnia. Vy možacie pryznačyć novaha čalca kłana, kab uznačalić jaje, kali žadajecie zachavać partyju.{newline}{newline} Vy žadajecie pryznačyć novaha lidara?" />
+    <string id="Omjlnsk3" text="{ITEM_NAME} nie moža być ekipijavany ŭ hetaje vočka." />
+    <string id="OMqHwpXF" text="Adna z vašych partyjaŭ straciła svajho lidara. Jana budzie raspuščana da kanca dnia. Vy možacie pryznačyć novaha čalca kłana, kab uznačalić jaje, kali žadajecie zachavać partyju.{newline}{newline} Vy žadajecie pryznačyć novaha lidara?" />
     <string id="Oo3fkeab" text="Składanasć: " />
     <string id="OpsiBFCu" text="... i na {COUNT} bolej pradmietaŭ." />
     <string id="opU0Nr2G" text="Prahres adkryccia novaj častki." />
