@@ -1,0 +1,754 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <strings>
+    <string id="01Y1DAqA" text="{MENTOR.LINK} {?MENTOR.GENDER}adpraviła{?}adpraviŭ{\?} vam paviedamlennie: Jak vy, mahčyma, viedajecie, ja atrymlivaju spravazdačy ad svaich špijonaŭ na tutejšych kirmašach. Isnuje adzin handlar, za jakim ja saču. Ja viedaju, što jon zviazany z {OTHER_MENTOR.LINK}. Niadaŭna ja čuŭ, što jon skupiŭ vialiki zapas zbroi i brani ŭ {QUEST_FROM_SETTLEMENT_NAME}, i płanuje adpravicca ŭ {QUEST_TO_SETTLEMENT_NAME}. Adtul jon budzie ruchacca dalej. Ja liču, što {OTHER_MENTOR.LINK} uzbrojvaje svaich chaŭrusnikaŭ u bandach u hetym rajonie. Kali karavan zmoža ažyciavić hetuju dastaŭku, to ja čakaju, što nieŭzabavie my znojdziem našych siabroŭ, abo zarezanymi na vulicach najomnymi bandytami, abo zanadta napałochanymi, kab pryznać nas. Mnie treba, kab vy vysačyli i zabili jaho. Pasprabujcie pierachapić jaho na pieršym etapie šlachu, pierš čym jon dajedzie da {QUEST_TO_SETTLEMENT_NAME}. U vypadku niaščascia daviedajciesia pra nastupny horad, u jaki jon nakiroŭvajecca. Mahčyma, zapatrabujecca peŭny čas, kab znajsci jaho. I pamiatajcie jon budzie dobra achoŭvacca. Ale ja vieru ŭ vašuju nastojlivasć, majsterstva i razumiennie taho, nakolki heta važna. Udałaha palavannia." />
+    <string id="09z8Q08f" text="Vašaja siamja była drobnymi ziemlarobami, u jakich było dastatkova ziamli, kab prakarmić siabie i atrymać nievialiki prybytak. Takija ludzi, jak jany, byli słupami impierskaj sielskaj ekanomiki, dy taksama aporaju padatkaŭ." />
+    <string id="0I9siaQY" text="Vyradki... Vy svajaki maich pałonnych, słušna? Ja hladžu {RADAGOS.LINK} z taboju. Ty viedaješ, što jamu nielha daviarać?[if:idle_angry][ib:warrior]" />
+    <string id="0IeByuam" text="Heta była pieramoha amal horšaja za parazu." />
+    <string id="0P4HqZiB" text="Heta praŭda?[sp:/Sounds/VO/mainquest/mntemp_q01_02.ogg]" />
+    <string id="0pilmavQ" text="Jak ja mahu stvaryć svajo ŭłasnaje haspadarstva?" />
+    <string id="0Suu1Q9q" text="Vašy baćka byŭ sudovym prystavam u miascovaha fieadalnaha mahnata. Jon dahladaŭ majontki svajho šlachciča, razviazvaŭ sprečki ŭ vioscy i dapamahaŭ rychtavać viaskovych rušencaŭ. Jon jezdziŭ z vieršnicaj šlachciča, i vajavaŭ u jakasci braniavanaha rycara." />
+    <string id="0wQlpbtL" text="Dla taho kab Impieryja kančatkova pryjšła ŭ zaniapad, u joj pavinna zastacca mieniej {NUMBER} sieliščaŭ z kulturaj Impieryi. Kali heta adbudziecca, inšaje haspadarstva moža stać daminantnaju mocaju ŭ Kalradyi." />
+    <string id="0yxEvgGf" text="Dla jaho heta była katastrofa, jon zahinuŭ u joj, ale ŭ pieramožcaŭ spravy išli nie našmat lepiej." />
+    <string id="1CLNFbzR" text="Dobra. Tady ja raskažu vam toje, što viedaju. Ja čuŭ pra jašče adnu častku." />
+    <string id="1EkEElZd" text="Haradskija vajary marnujuć bolšasć svajho času na achovu haradskich scien. Hałoŭnym čynam jany trenierujucca ŭ stralbie." />
+    <string id="1GgTNRNl" text="Vy možacie vysunuć ułasnyja pretenzii na kiravannie Impieryjaj i pasprabavać pieramahčy ŭ hramadzianskaj vajnie abo padtrymać užo isnaha pretendenta..." />
+    <string id="1IEroJKs" text="Nie ŭsie navabrancy iduć na vajnu, i nie ŭsie ŭdzielniki kampanii bačać dziejanni. Vy zrabili i toje, i druhoje, a taksama pieramahli varožaha vajara ŭ bitvie sam-nasam na vačach u vašych tavaryšaŭ." />
+    <string id="1LrHV647" text="Moc Zmovy" />
+    <string id="1r0tDsrR" text="Atakavać!" />
+    <string id="1RaUauBS" text="Vy paspiachova skončyli navučannie." />
+    <string id="1SUTcF0J" text="Tyja vierchavody bandaŭ, jakija sočać za truščobami Kalradyi, zaŭsiody majuć patrebu ŭ biednaj moładzi, kab adpraŭlać i atrymlivać paviedamlenni ŭ vojnach za terytoryju. U toj čas jak syny i dočki handlaroŭ, jakija šukajuć vostrych adčuvanniaŭ, taksama naviedvajuć truščoby sa svaimi kampanijami." />
+    <string id="1T7p0O7B" text="My pavinny być razumnymi. {HIDEOUT_BOSS.LINK} - chitry mužyk, u nizkim i podłym sensie." />
+    <string id="1v6aYpDx" text="Vy pavinny abrać, ale abirajcie z rozumam. U mianie niama pieravahaŭ. Ništo z hetaha nie viernie pałajski narod, ale kančatkovaja pieramoha kožnaha varyjantu budzie prydatnaj adpłataj." />
+    <string id="1xqmoDvS" text="My zakončyli padrychtoŭku. Davajcie jašče raz pahavorym sa starostam. Jon skazaŭ, što ŭ jaho moža być dla nas zadannie. My mahli b vykarystać jaho siabroŭstva." />
+    <string id="1yi00v5w" text="{PLAYER.NAME}! Rady vas bačyć. Vierycie abo nie, ale ja surjozna. Ja šukaŭ vas...[if:happy][ib:demure]" />
+    <string id="1zXrlaav" text="Vašaja siamja była pavažanymi handlarami ŭ horadzie-aazisie. Jana pierahaniali karavany praz pustelniu i była ekspiertam ŭ tonkasciach viadziennia pieramovaŭ praz terytoryi pustelnych plamionaŭ." />
+    <string id="2DZOCsy5" text="My čakali ich, jak vaŭki ŭ lesie, pakul ich avanhard padymaŭsia pa zavilistaj darozie. Jany pryjšli biez łučnikaŭ, kab abaranić ich. Kaładoh zatrubiŭ u svoj roh, i našyja łučniki adkryli pa ich ahoń z usich bakoŭ. Jany paviarnuli svaje ščyty ŭ adzin bok, a atrymali ŭdar z inšaha. Słavutaje hledzišča..." />
+    <string id="2GeiKTlS" text="Ja zrablu vam honar, zładziačy duel, a maje ludzi adstupiać, kali vy pieramožacie." />
+    <string id="2h7IlBmv" text="Jašče nie, ja pracuju nad hetym..." />
+    <string id="2NHnVb9b" text="I Nimr pajšoŭ, i vajavaŭ, i zavajavaŭ słavu, ale pry hetym straciŭ šmat ludziej, asabliva z plemia Banu Kiłd. I staŭ jon vychvalnym i fanaberystym. A potym... Tak pačałasia vialikaje varahavannie pamiž Sarranisam i Kiłdzisam, ale astatniuju častku historyi ja, vierahodna, pakinu niekamu inšamu." />
+    <string id="2SDWhGmQ" text="Vašaja siamja była ŭ liku biednych mihrantaŭ, što žyvuć u truščobach, jakija rastuć za scienami račnych haradoŭ, zarablajučy hrošy kožnym sposabam na ŭsiakaj vypadkovaj pracy. Časam jany akazvali pasłuhi adnoj sa šmatlikich złačynnych bandaŭ kraja." />
+    <string id="2TptWc4m" text="słuhaŭ barona" />
+    <string id="2XhW49TX" text="vy adhaniali ich strełami." />
+    <string id="2YYRyrOO" text="Pakinuć..." />
+    <string id="3BjIb3CG" text="A moža, heta byŭ Rahańvad. Jon kipieŭ ad hnievu, kali da jaho padyšoŭ battanijski karol Kaładoh. Battanijcy patracili svoj čas na rabavannie trupaŭ impierskaha avanharda, z-za hetahaa sturhijcy razzłavalisia na ich. Rahańvad navat nazvaŭ Kaładoha bajazliŭcam. Kaładoh u adkaz usmichnuŭsia i syšoŭ." />
+    <string id="3deb2lMd" text="Dla adnaŭlennia Impieryi vam treba zachapić 2/3 sieliščaŭ z impierskaj kulturaj." />
+    <string id="3dhvmJDp" text="Nu... Zdajecca, my viarnuli vam vašuju radniu, tamu maja častka ŭhody zavieršana. Byvajcie." />
+    <string id="3G64Ej64" text="Pakupnik? Ja mahu dapamahčy vam zrabić niešta značna bolšaje." />
+    <string id="3Io5vmOk" text="Vajskovy Prahres z haspadarstvam {FACTION}" />
+    <string id="3nCxVXvo" text="Vielmi dobra. Sciah Cmoka ŭ vašych rukach abviaščaje vas pomsnikam za złačynstvy Impieryi i jaje pierajemnikam. A zaraz idzicie napierad i patrabujcie svoj los!" />
+    <string id="3Pq58i2u" text="Vyjaŭlena apieratyŭnaja baza zmovy" />
+    <string id="3sRdGQou" text="Pakinuć" />
+    <string id="3XbTo6O7" text="Taksama, zrazumieła, ja rekamienduju vam vałodać nastolki vialikim vojskam, nakolki vy zmožacie sabrać." />
+    <string id="3YHL3wpM" text="{BROTHER.NAME}:" />
+    <string id="40oa2Nav" text="Sciah Kalradyjosa - častka lehiendy. Kažuć, što jaho nios Kalradyjos Vialiki, kali vioŭ svaju nievialikuju bandu vyhnancaŭ u hetyja ziemli dla stvarennia novaha doma. Havarać, kali jaho budzie nasić sapraŭdny syn Kalradyjosa, to jon nikoli nie paznaje parazu ŭ bitvie. Ci dačka, jak mnie zdajecca, choć pra heta nikoli nie chadziła havorka.[sp:/Sounds/VO/mainquest/mntemp_q01_04.ogg]" />
+    <string id="4Baa38ra" text="My pieramahli, nasiłu, z dapamohaj impiercaŭ, ale chierhity byli razbity. Z toj pary chierhity stali dosyć słabymi, a vy viedajecie, što zdarajecca sa słabymi. I ŭsio ž, nichto nie havaryŭ im kłasci ŭsie jajki ŭ adzin košyk." />
+    <string id="4cw169Kb" text="treci i apošni" />
+    <string id="4d5SP6B6" text="{MENTOR.LINK} {?MENTOR.GENDER}prapanavała{?}prapanavaŭ{\?} padtrymać antyimpierskaje haspadarstva, prapanavaŭšy jamu Sciah Cmoka." />
+    <string id="4f5xwzX0" text="Kali vašaj hramadzie treba było arhanizavać atrad dla pierasledu kanakradaŭ, vy byli vidavočnym vybaram. Vy vysačyli nalotčykaŭ, atačyli ich i prymusili zdacca, dy hetaksama viarnuli vykradzienuju majomasć." />
+    <string id="4hdp6SK0" text="Pieramažycie treniera!" />
+    <string id="4IS4Lou7" text="Ja taksama ŭciakaŭ. I luby chto skaža vam, što nie zrabiŭ by hetak ža u tych abstavinach - iłhun. Pazniej, kali toj ža nočču ja siadzieŭ u chałodnym lesie, chavajučysia z inšymi ŭciekačami i čuŭšy, jak barbary vyjuć i kryčać, adsiakajučy hałovy ŭ jakasci trafiejaŭ. Ja paabiacaŭ im, što Impieratar, jaki tak mała viedaje pra vajnu, bolej nikoli nie paviadzie nivodnaha kalradyjskaha vajara." />
+    <string id="4Oc6MEvR" text="Ach... Dla kožnaha syna Battanii nie budzie bolej hanarlivaha momanta ŭ jaho žycci, čym toj dzień. Kožnaha sapraŭdnaha syna Battanii." />
+    <string id="4olAbDTq" text="Heta budzie mahutny instrumientam u našych rukach. Ludzi pavierać, što Niabiosy pieradali ŭładu nad Kalradyjaj ad Impieryi nam." />
+    <string id="4OUnPjZc" text="Sapraŭdy. Vy pavinny znajsci sposab zrabić hetaje. Moža, hetaja bronzavaja reč dapamoža." />
+    <string id="4SnDe0rA" text="Kłany z haspadarstva {FACTION} zbiehli ŭ susiednija haspadarstvy, bo ich haspadar pakinuŭ usie nadziei na adnaŭlennie impieryi." />
+    <string id="4vsPD3ec" text="{?PLAYER.GENDER}Siastra{?}Brat{\?}... Voś užo try dni my vysočvajem hetych vyradkaŭ. Ja dumaju, my ŭžo blizka. My pavinny padumać pra toje, što adbudziecca, kali my ich złovim. Jak my budziem ratavać {PLAYER_LITTLE_BROTHER.LINK} i {PLAYER_LITTLE_SISTER.LINK}? My hatovyja da boju?[if:convo_grave]" />
+    <string id="4vsvniPd" text="Ja dumaju, ciapier my na słušnaj darozie. Ty {?PLAYER.GENDER}lepšaja najeznica{?}lepšy najeznik{\?}, tamu {?PLAYER.GENDER}pavinna{?}pavinien{\?} być na čale." />
+    <string id="4WYY0X59" text="Pierad tym jak rušyć u šlach poŭny pryhod, vašym samym vialikim dasiahnienniem..." />
+    <string id="4WZ9zJbF" text="Ja nie viedaju, dzie znachodziacca inšyja častki, mahčyma, vam daviadziecca praciahnuć pošuki." />
+    <string id="5D5lOHSL" text="Kali adnavicie ŭsie častki, viarniciesia da mianie, i ja dapamahu vam vykarystać ich.[sp:/Sounds/VO/mainquest/mntemp_q01_11.ogg]" />
+    <string id="5g9ZFGrN" text="Vy znachodziciesia na treniroŭčym pole. Tut vy možacie navučycca asnovam boju." />
+    <string id="5HXS8HEY" text="vašuju muskułaturu." />
+    <string id="5j6qvGAF" text="Vydatnaja praca! Kali vy razhorniecie hety sciah i ludzi ŭbačać u im toje, što ličyli stračanym, jano zrobić mocnaje ŭražannie." />
+    <string id="5K4wvz3w" text="Znajdzicie i sustreńciesia z {HERO.LINK}, kab daviedacca bolej pra Sciah Nereca. Ciapier {?HERO.GENDER}jana{?}jon{\?} znachodzicca ŭ {SETTLEMENT}." />
+    <string id="5kbeAC7k" text="U razburanaj vajnoju Kalradyi, asabliva ŭ pamiežnych i plamiennych miastečkach, častka žančynaŭ i mužčynaŭ vučycca vajavać z ranniaha vieku. Vy..." />
+    <string id="5LJTeOBT" text="Ja byŭ z karavanam. Jany prosta vyjšli z zarasnikaŭ, atačyli nas, i my apynulisia ŭ mienšasci, tamu zdalisia. Ja padumaŭ, što jany pakinuć nas u žyvych, chacia b dziela vykupu. Ale potym jany pačali hnać nas na maksimalnaj chutkasci, biez vady. Ja amal byŭ hatoŭ upasci." />
+    <string id="5Mw4trfs" text="Jak tolki vy zrobicie svaje pryhatavanni, prychodzicie da mianie, pahutaryć. U mianie budzie dla vas zadannie, kali vy adpraviciesia za nalotčykami." />
+    <string id="5P0KqBAw" text="Vašaja siamja apracoŭvała ziamlu ŭ adnym z aazisaŭ Nachasy, dahladała palmavyja sady, u jakich hadavalisia znakamityja finiki pustelni. Vašy baćka byŭ čalcom asnoŭnaha piachotnaha rušennia svajho plemia, vajavaŭ sa svaimi rodzičami pad sciaham emira." />
+    <string id="5PGokzW1" text="Plavuzhać jazykom moža kožny. Kali dla vas heta sapraŭdy važna, ja vyklikaju vas na duel." />
+    <string id="5qhaDtef" text="Nie. Dazvolcie mnie padumać." />
+    <string id="5QiuMoe6" text="Miarkuju, ja maju častku Sciaha Cmoka Kalradyjosa." />
+    <string id="5QSGoRFj" text="Vašaja siamja ciaham niekalkich pakalenniaŭ apracoŭvała adnu z nievialikich placovak vornaj ziamli ŭ stepie. Kali pryjšli chuzaity, jany pierastali płacić Impierataru padatki i zabiaspiečvać jaho vojska rušencami, a zamiest hetaha pačali słužyli chanu." />
+    <string id="5soUEFEJ" text="{TACTEOS.NAME} {?TACTEOS.GENDER}skazała{?}skazaŭ{\?}, što heta moža kaštavać vialikich hrošaj dla słušnaha čałavieka, kali vy zdolejecie nie zahinuć. Kali {?TACTEOS.GENDER}jana{?}jon{\?} kaža praŭdu, vy pavinny być asciarožnyja. Nikoli nie kažycie, što majecie jaho, ale pasprabujcie zrazumieć jaho kaštoŭnasć i toje, jak jaho možna pradać." />
+    <string id="5UHbg6D0" text="Dyk, što vas pryviało da mianie?[sp:/Sounds/VO/mainquest/mntemp_q01_01.ogg]" />
+    <string id="63TAYbkx" text="Haradskija vajary pravodziać bolšuju častku svajho žyccia, achoŭvajučy haradskija scieny. Hałoŭnym čynam jany trenierujucca sa zbrojaj dalokaha boju, asabliva karysnaj padčas abłohaŭ." />
+    <string id="64rWqBLN" text="Vy pazbiehli słužby ŭ adnoj z hałoŭnych siłaŭ vašaha haspadarstva, ale zamiest hetaha jechali ŭ abozie z žonkami vajaroŭ, kachankami i słuhami, a taksama tymi, chto zarablaje na žyccio kłopatam, zabaŭkaj ci zmanam vajaroŭ." />
+    <string id="651FhzdR" text="haradskich handlaroŭ" />
+    <string id="6aDiS9eP" text="Ja - {CONVERSATION_HERO.FIRSTNAME}. Zrešty, vy, napeŭna, užo viedajecie hetaje. Niekali ja {?CONVERSATION_HERO.GENDER}vałodała{?}vałodaŭ{\?} vielizarnaju siłaju, ale zaraz... U kožnym razie, mnie vielmi cikava, što vy žadajecie ad mianie." />
+    <string id="6bUSbsKC" text="Vašy baćka pracavaŭ na ficivie adnaho vaładara, jaki padtrymlivaŭ paradak u biednych kvartałach haradoŭ-aazisaŭ. Jon razviazvaŭ sprečki ab ziamli, kostkach i abrazach, naviazvaju svaju ŭładu z dapamohaj tradycyjnych supracoŭnikaŭ ficivi." />
+    <string id="6Dd3Pa07" text="Vam udałosia sarvać zmovu." />
+    <string id="6iytd81P" text="U schoviščy vas pieramahli bandyty, ale vam udałosia zbiehčy. Vam treba pačakać peŭny čas, pierš čym atakavać iznoŭ." />
+    <string id="6LFj919J" text="Vy dapamahali kapać studni, ramantavać chaty i čynić złamanyja płuhi. Vy vyvučyli asnovy budavannia, a taksama toje, što treba dla roskvitu supolnasci ziemlarobaŭ." />
+    <string id="6LQUuQhV" text="Dziakuj za vašuju kaštoŭnuju dapamohu." />
+    <string id="6qgXAcZB" text="Nerec, daviedaŭšysia, što my vahajemsia, dasłaŭ nam paviedamlennie, u jakim nazvaŭ nas bajazliŭcami i zdradnikami. A vy pasprabujcie heta skazać vłandyjskamu šlachciču. Nerec pavinien byŭ viedać, što jon robić. My dałučylisia da sturhijcaŭ." />
+    <string id="6UIa4784" text="Vy možacie raskazać niešta pra Bitvu pad Pendraikam?" />
+    <string id="6vCHovVH" text="vy pieramahli nalotčykaŭ." />
+    <string id="6YhGGJ7a" text="Narešcie, vam patrebien kapitał dla vašaha haspadarstva. Heta moža być luboje naležačaje vam sielišča, u jakim nie havorać na impierskaj movie. Ja nie budu dapamahać vam stvarać jašče adnu Impieryju." />
+    <string id="77TavbOY" text="Vy vykanali ŭsie padkazki. Vy zaŭsiody možacie viarnucca, kab palepšyć svoj vynik." />
+    <string id="7AYJ3SjK" text="Vašaja siamja damoviłasia, što vy budziecie supravadžać pravadyra vašych ludziej. Asnoŭnyja abaviazki byli ŭskładzieny nie na vas. Hałoŭnym čynam vy dastaŭlali paviedamlenni i dahladali kania pravadyra. Ale heta davała vam mahčymasć bačyć płanavannie kampanij i rasstanoŭku ludziej u bitvie." />
+    <string id="7cHsIMLP" text="Vy nikoli nie zmahli by kupić hety ryštunak samastojna, ale vy byli dosyć dobrym najeznikam, tamu miascovy šlachcič pazyčyŭ vam kania i ryštunak. Vy dałučylisia da braniavanaj vieršnicy, trenierujučysia z dzidaj." />
+    <string id="7eWmU2mF" text="lasničych" />
+    <string id="7FWF01bW" text="Uciekačy" />
+    <string id="7Hv984Sf" text="u dokach i na budplacoŭkach." />
+    <string id="7jBroUUQ" text="U vašaj siamji była nievialikaja ŭłasnaja ziamla, tamu jany zarablali na žyccio lesam, palavanniem i łoŭlaj. Jany navučyli vas z ranniaha vieku tamu, što navyki pošuku sladoŭ i zabojstva žyvioły adnym strełam, važnyja kali havorka idzie pra hoład i sytasć." />
+    <string id="7O8IwMgU" text="Och, vam spatrebicca maja dapamoha, kali žadajecie viarnuć ich žyvymi. Bačycie, maje chłopcy majuć dobry płan ratavannia..." />
+    <string id="7ULaG8aT" text="Tady viartajciesia pasla vyrašennia prablemy." />
+    <string id="7VFLb3Qj" text="Vy prybyli ŭ viosku." />
+    <string id="7wmkPNbI" text="Baraniciesia sprava." />
+    <string id="7XTkTi9B" text="{PLAYER_LITTLE_SISTER.NAME} - heta małodšaja siastra {PLAYER.LINK}." />
+    <string id="80NOk1Ee" text="Vy nie zmahli abjadnać Impieryju." />
+    <string id="888lmJqs" text="Usie haspadarstvy Kalradyi pryznajuć kaštoŭnasć dobraj lohkaj vieršnicy i konnych łučnikaŭ i abaviazkova viarbujuć kačeŭnikaŭ i pamiežnikaŭ, zdolnych vykonvać hetyja abaviazki. Vy byli dosyć dobrym najeznikam, i vašyja susiedzi vyrašyli nabyć vam maleńkaha poni i dobry łuk, kab vy mahli vykonvać svoj vajarski abaviazak." />
+    <string id="8a6dnLd2" text="z vuličnymi bandami." />
+    <string id="8b4Ndfep" text="Och, viadoma. U mianie niama nijakich sumnievaŭ na hety kont." />
+    <string id="8bwpVpgy" text="była pieramoha nad voraham u boi." />
+    <string id="8GCW5IRO" text="Ja sprabavaŭ daviedacca pra heta bolej, ale, jak ja ŭžo skazaŭ, z mianie vybili ŭsiu ciahu da padarožžaŭ. Zaraz ja nie dumaju, što ryzyknu adysci ad studni dalej, čym na 20 krokaŭ, pakul žyvy." />
+    <string id="8OIwHZF1" text="Schovišča" />
+    <string id="8QX1QHAJ" text="Atakujcie zleva." />
+    <string id="8Yiwt1z6" text="vašaje ranniaje malenstva" />
+    <string id="9aoQYpZs" text="Kłan vašaj siamji nikoli nie klaŭsia ŭ viernasci chanu i nikoli nie asiadaŭ na ziamli, addajučy pieravahu žycciu ŭ hłybokim stepie, ŭdalečyni ad ŭłady chana. Jany zastajucca adnymi z lepšych sledapytaŭ i vyviednikaŭ na pašach, bo zdolnasci chutka zaŭvažać nadychodziačaha voraha i pierasoŭvacca - heta toje, što baronić ich statki ad drapiežnikaŭ i susiedziaŭ." />
+    <string id="9aRqqx3U" text="Karavan dastaviŭ zapasy zmoŭcam. Nas čakaje macniejšy supiernik..." />
+    <string id="9aY0ifwi" text="My sustreniemsia znoŭ..." />
+    <string id="9aYCfBVz" text="Horad byŭ achopleny panikaj pasla taho, jak da jaho dašli čutki pra toje, što zdaryłasia. Arenikos nie daŭ padziejam pieratvarycca ŭ chaos. Kali Sienatu pryjšoŭ čas abirać nastupnaha impieratara, nie było nijakich sumnievaŭ, što heta pavinien być jon. Ja i raniej kachała jaho jak mužčynu, ale ŭ toj dzień navučyłasia lubić jaho jak štości bolšaje: jakim darunkam jon byŭ dla narodu Kalradyi!" />
+    <string id="9E6faNBg" text="Mnie treba budzie prycharašyć adpaviednuju lehiendu pra vas. Boskija pradviesci padčas vašych narodzinach i tamu padobnaje. Pakul što my možam zvać ciabie Sciahanoscam, jaki abvalvaje hnieŭ Niabiosaŭ na dziorzkich barbaraŭ." />
+    <string id="9kGnzjrU" text="Adlik Pačaŭsia." />
+    <string id="9ks4u5cH" text="Viaskovy lekar adpraviŭ vas na ŭzhorki na pošuki karysnych lekavych raslinaŭ. Vy daviedalisia, jakija travy lečać rany abo znižajuć tempieraturu, jak ich znajsci." />
+    <string id="9sAGLK6R" text="Tak. Dertart daručyŭ mnie kamandavać arbaletčykami." />
+    <string id="9tpTkKdY" text="Raskažycie, jaki šlach vy abrali, kali dasiahnuli prahresu." />
+    <string id="9VxUSDQ7" text="Mianie kličuć Takteas. Ja lekar pa prafiesii. Ja byŭ u nievialikim kvescie, ale zaraz ja dumaju, što nie stvorany dla takich rečaŭ." />
+    <string id="9xaEPyNV" text="Schovišča {RADAGOS.NAME}" />
+    <string id="9XnFlRR0" text="Uzajemadziejannie z hetym piersanažam adklučana na etapie navučannia." />
+    <string id="9ZyXl25X" text="druhi" />
+    <string id="a0JxUMgo" text="Što zdaryłasia? Vy znajšli častku sciaha?" />
+    <string id="a0ZKBj6P" text="Budźcie niezaležnym kłanam" />
+    <string id="a29lmPLd" text="Ja ŭžo pieramahaŭ ciabie raniej. Ja viedaju, jak dzieje tvaja banda. Mieniej hutarak, bolej spravy. Napierad..." />
+    <string id="a4W7Gzka" text="Tak. Čas nie tryvaje. (Prapuscić navučannie)" />
+    <string id="a8arFSra" text="trenieravalisia z piachotaj." />
+    <string id="A9fChKmz" text="Impieryja była starym miadzviedziem. Dobra adkormleny, pavolnym. Jana chacieła zachavać toje, što mieła. Sturhijcy byli i zastajucca hałodnymi vaŭkami. Jak my. Časam vaŭki palujuć zhrajami, a časam nie. Časam adzin voŭk choča, kab leŭ zabiŭ jaho supiernika." />
+    <string id="aClquusd" text="Lik Vajaroŭ" />
+    <string id="ACyYhA2s" text="Znajsci i Vyratavać Padarožnika" />
+    <string id="AeBzTj6w" text="lekaraŭ" />
+    <string id="aEke8dSb" text="haradskich vałacuhaŭ" />
+    <string id="afH90aNs" text="Rušennie ŭzbrojenaje dzidaju i ščytom, nabranaje z drobnych ziemlarobaŭ, zaŭsiody zjaŭlałasia hruntam usich vojskaŭ Kalradyi." />
+    <string id="AGIPUYvy" text="U nas byli ščyty, ale ich možna było adnačasova nakiravać tolki ŭ adzin bok. I my pačali hinuć, adzin za adnym, pakul battanijskija falksmany z krykami nie vyskačyli z-za drevaŭ. Zvyčajna jany vielmi ŭrazlivyja dla łučnikaŭ, ale stary Nerec i nie padumaŭ pasłać ich z nami. Jany nakinulisia na nas, siakli i rezali, a my vajavali, pakul nie złamalisia." />
+    <string id="agrsO3qQ" text="Dziakujučy vašym paspiachovym atakam na {RAIDER_NAME}, u navakołli {SETTLEMENT} zaraz patruluje vajskovaja partyja zmoŭcaŭ." />
+    <string id="aGX3L8mV" text="My čuli, što Impieryja vajavała sa Sturhijaj, a moža być, usio było naadvarot. Ja dumaŭ, što my nie majem nijakaha dačyniennia da hetaj svarki, ale Nimr, pałki małady hieroj z Banu Sarran, paprasiŭ u mianie dazvoł uziać z saboj niekalki maładych vajaroŭ, jakija prahnuć słavy." />
+    <string id="AHDQffXv" text="Vy sabrali sciah?" />
+    <string id="AhthUkMu" text="Ludzi kažuć, što jany ŭsio jašče tut. My budziem spać u lesie i nie vierniemsia, pakul jany nie syduć. Vysačycie ich i zabicie kožnaha, čujecie, kožnaha! Niabiosy abaroniać vas! Niabiosy nakirujuć vašyja miačy![if:convo_predatory][ib:normal]" />
+    <string id="AhWyBEhd" text="Jon byŭ adnym z davieranych kamandziraŭ Impieratara. Jon nie zmoh spynić Nereca ad marša na smierć, ale jamu udałosia sioje-toje vyratavać z hetaj katastrofy. Pakul sturhijcy pierachodzili praz našyja barykady, jamu paščasciła vyviesci hrupu hvardziejcaŭ Nereca praz tył." />
+    <string id="ajBBFq1D" text="Aaj... Hetyja demany. Jany razrabavali našuju viosku. Łavili ŭsich, kaho mahli złavić. Peŭna handlary rabami.[if:convo_grave][ib:nervous]" />
+    <string id="AmBEgOyq" text="Ja baču..." />
+    <string id="aMBoh7gL" text="Jany krucilisia i vilisia, kali na ich sypalisia našyja streły, jak ryby, jakija šalona kidajucca ŭ stavie, kali vy zaciahvajecie sietku. Potym, kali jany byli mocna złomany, my padniali svaje falksy i miačy i sabrali ŭradžaj. A, potym byli prablemy sa Sturhijaj z-za vajskovych trafiejaŭ, ale jaki heta byŭ vialiki minuŭšy dzień!" />
+    <string id="aTncHUfL" text="stajali na varcie z harnizonami." />
+    <string id="atUTLABh" text="Vy vyrašyli padtrymać haspadarstva {KINGDOM}, uručyŭšy jamu Sciah Cmoka, pa radzie {MENTOR.LINK}." />
+    <string id="aVzcyhhy" text="Vašy baćka byŭ bardam, jon dryftavaŭ z zały pravadyra ŭ zału pravadyra, zarablajučy na žyccio apiavanniem battanijskich šlachcičaŭ, nasmichajučysia z ich vorahaŭ. Potym jon išoŭ u zału voraha šlachciča i rabiŭ naadvarot. Vy daviedalisia ad jaho, jak razumny jazyk moža pazbavić vas ad pracy ŭ pole, kali vy budziecie trymać jaho pry sabie." />
+    <string id="awgBkdXx" text="Vy pavinny viarnucca ŭ mieniu vioski i zrabić pryhatavanni da pachodu na nalotčykaŭ, a potym daviedacca pra zadannie, jakoje dla vas zhatavaŭ starosta." />
+    <string id="AxKDQJ4G" text="Vy skazali {MENTOR.LINK}, što stvorycie svajo ŭłasnaje haspadarstva, kab pieramahčy Impieryju. Vy zmožacie zrabić hetaje z dapamohaju akna kłana, jak tolki vykanajecie ŭsie patrabavanni. {?MENTOR.GENDER}Jana{?}Jon{\?} različvaje pahavoryć z vami pasla taho, jak vy dabjeciesia pospiechu." />
+    <string id="Ay0G3f7I" text="Vašaja siamja ŭładkavała vas u štat impierskaha strateha. Na vas nie ŭskładali asnoŭnyja abaviazki. Hałoŭnym čynam vy pieranosili paviedamlenni i dahladali jaho kania, ale heta davała vam mahčymasć bačyć, jak płanavalisia kampanii i jak ludzi razhortvalisia ŭ boi." />
+    <string id="ay1gPPsP" text="Znajdzicie jašče adzin frahmient sciaha dla Arzahosa" />
+    <string id="aY4zWYpg" text="Vy atrymali važnaje paviedamlennie ad {MENTOR.LINK}." />
+    <string id="aYozMy3Z" text="My prajhrali, tamu što vłandyjcy parušyli svaje klatvy i vajavali suprać nas, choć pavinny byli vajavać z nami. Mnie daručyli kamandavannie katafraktami, i my lohka razbili ich arbaletčykaŭ. Ich rycary dastavili nam bolej prablemaŭ. Tym časam, piachota Sturhii spusciłasia ŭniz i atakavała našyja hałoŭnyja siły. Tam paŭ moj baćka. " />
+    <string id="aZxHIra4" text="Viadomasć" />
+    <string id="b4lDDcli" text="Siamja" />
+    <string id="b6hQWKHe" text="Pavialičcie svaju partyju da {PARTY_SIZE} vajaroŭ" />
+    <string id="b7Z1OBas" text="Jak dumaješ, my chutka dahonim nalotčykaŭ?" />
+    <string id="BCU6RezA" text="kavalej" />
+    <string id="bdbZLJf3" text="Nerec byŭ abaviazany adpomscić za napady battanijcaŭ na našuju ziamlu. Jon vystupiŭ u pachod z usimi siłami, jakija zmoh sabrać. Vłandyjcy zdradzili nam, ale hetaha i varta było čakać ad haniebnych barbaraŭ. Fartuna spryjała vorahu. Važna, što my pastupili pa honary." />
+    <string id="BdYaRvhm" text="Ja nie viedaju, chto vy, ale ja ŭ vas u abaviazku. Hetyja razbojniki paviali b nas na smierć." />
+    <string id="BekWpXmR" text="Pasłuchašy radu {MENTOR.LINK}, vy stvaryli haspadarstva, kab supraćstajać Impieryi. Vy možacie skazać {?MENTOR.GENDER}joj{?}jamu{\?}, što vy budziecie budavać svajo ŭłasnaje haspadarstva." />
+    <string id="bESRdcRo" text="Stvaryć Svoj Kłan" />
+    <string id="bhdkegZ4" text="Usie harady majuć prajekty, jakija stała patrabujuć jak kvalifikavanych, hetak i niekvalifikavanych pracaŭnikoŭ. Vy daviedalisia pra toje jak budujucca padymalniki i lasy, jak abčesvajucca i ŭkładajucca doški i kamiani, i inšyja navyki." />
+    <string id="bhE2i6OU" text="słužyŭ koniucham barona." />
+    <string id="bhQ6Jbom" text="Vy natykajeciesia na kufar, u jakim lažyć stary kavałak bronzy. Hetak pabity i praržavieły, što moh być čym zaŭhodna - ad kubka da karony. Mabyć, hety kufar niejak datyčny da Durasci Nereca, pra jakuju {?MENTOR.GENDER}zhadvała{?}zhadvaŭ{\?} {TACTEOS.NAME}." />
+    <string id="bJjAqCxk" text="Ja zbieh, bo adzin z jaho ludziej, ledź bolej vinavaty za inšych, pierarazaŭ maje kajdany, kali inšyja spali, ale ja nie mahu dazvolić zdradniku žyć. Tamu ja vyrašyŭ znajsci vas i prapanavać uhodu.[if:idle_angry][ib:warrior]" />
+    <string id="bjVMtW3W" text="Vašaja siamja była handlarami, jakija žyli ŭ adnym z bujnych račnych partoŭ Sturhii. Jany arhanizoŭvali dastavu darunkaŭ poŭnačy: futra, miodu i inšych tavaraŭ u dalokija krainy." />
+    <string id="bkZFbCRx" text="My šukajem dvuch dziaciej, zachoplenych nalotčykami. Vy možacie štości raskazać?" />
+    <string id="BleybhsD" text="Zjavilisia impierskija katafrakty, braniavanyja z nohaŭ da hałavy, sumiesna z koniami, tamu jany prosta ihnaravali našuju stralbu i praryvalisia praz nas. Ja byŭ zmiecieny pry adstuplenni i bolej nie bačyŭ bitvy. U karala Dertarta byŭ dosyć dobry płan, ale barony Inholtar i Aldryk prosta praihnaravali jaho, jak zaŭsiody robiać." />
+    <string id="BLZ4mdhb" text="Vašaja siamja była drobnymi ziemlarobami, u jakich było dastatkova ziamli, kab pracharčavać siabie i atrymać nievialiki prybytak. Takija ludzi, jak jany, byli słupami ekanomiki haspadarstva, a taksama aporaju rušennia." />
+    <string id="bmitHhDt" text="Našy stary luby haspadar Erył, vydatny čałaviek, ale z sercam, mahčyma, zanadta piaščotnym, nie žadaŭ, kab my adpraŭlalisia na vajnu. Ale potym jon znik, i ja, jaho ziać, staŭ haspadarom. Kłany abviascili vajnu! Jany chacieli adpomscić za złačynstvy, što zdziajsnialisia suprać ich stahoddziami. Ja, baćka svajho naroda, daŭ im toje, čaho jany žadali." />
+    <string id="bNcGO33Q" text="My dumajem, što jany syšli na poŭnač. Napeŭna tut isnuje niekalki čałaviek, jakija buduć hatovyja dałučycca da vas, kali vy zapłacicie za ich ryštunak." />
+    <string id="bNqLQKQS" text="U vas skončyłasia ježa. Na poŭnačy adhetul staić vioska z nazvaju {VILLAGE_NAME}, dzie lha nabyć ježu i znajsci dapamohu." />
+    <string id="Bo66bfTh" text="Vałodajcie {?IS_IMPERIAL}Impierskim Sieliščam{?}Sieliščam{\?} " />
+    <string id="BrHU0NuE" text="Mažliva. Ale kali my zrobim, vy nie vyžyvicie, kab ubačyć hetaje." />
+    <string id="bSDt8FN5" text="Ja hatovy, napierad!" />
+    <string id="BstbQV5Z" text="Heta była trahiedyja, jakaja hryzła karani ŭsich vialikich siemjaŭ Kalradyi, navat našych, hetak dalokich ad bitvy." />
+    <string id="bsWSecYa" text="{PLAYER_BROTHER.NAME} - starejšy brat {PLAYER.LINK}. Jon adpraviŭsia na pošuki dvuch małodšych čalcoŭ siamji: {PLAYER_LITTLE_BROTHER.NAME} i {PLAYER_LITTLE_SISTER.NAME}." />
+    <string id="bT9yspaQ" text="Vy prajhrali bitvu suprać karavana zmoŭcaŭ. Nas čakaje macniejšy vorah..." />
+    <string id="btAV7mmq" text="Vy paciarpieli parazu ad nalotčykaŭ u schoviščy, ale vam udałosia zbiehčy. Vam treba pačakać peŭny čas, pierš čym atakavać iznoŭ." />
+    <string id="bTKiN0hr" text="pracavali ŭ viaskovaj kuzni." />
+    <string id="btsMpRcA" text="Vašaja siamja vałodała kuzniaj u horadzie. Vašy baćka hraŭ aktyŭnuju, choć i druharadnuju rolu ŭ haradskoj radzie, a taksama słužyŭ u rušenni." />
+    <string id="BTY2aZCt" text="Uvajsci na treniroŭčaje pole." />
+    <string id="bWdsH2Ls" text="Voś čamu ja navučyŭsia za ŭsio svajo žyccio ŭ palitycy: niama ničoha horšaha za biazładzicu. Dosyć skazać, što ja lepiej za inšych viedaju pra chłusniu i žorstkasć, jakija padtrymvali žyccio Impieryi. Ale ŭsie zroblenyja mnoju zabojstvy za 10 hadoŭ na słužbie ŭ Nereca, nikoli nie zraŭniajucca z kolkasciu zahinułych za adnu hadzinu šturmu horada vojskam." />
+    <string id="bWlmGDf3" text="Kali z-za raptoŭnaha štormu miascovy ručaj znianacka padniaŭsia, vašym susiedziam spatrebiłasia chutkadumnaje kiraŭnictva. Vy zabiaspiečyli jaho, zahadaŭšy im budavać dambu dla vyratavannia damoŭ." />
+    <string id="bXAg5w19" text="Maładyja rekruty, chudarlavyja, albo zanadta biednyja dla nabyccia ščyta i brani, zvyčajna ŭstupajuć u šerahi zastrelščykaŭ. Vajujučy łukam i drotykami, jany imknucca zastavacca pa-za dasiahalnasciu asnoŭnych siłaŭ voraha." />
+    <string id="bXYFXLgg" text="Zarabicie 1000 denaraŭ" />
+    <string id="bZI82WMt" text="Pryjšoŭ čas vyrašyć hetaje! U ataku!" />
+    <string id="bzmcPtZ6" text="My viedajem chto vy. Nam skazali dahladać za vami. My viedajem, što vy z {MENTOR.NAME} zadumvajecie. Vy pacierpicie niaščascie i pamrocie." />
+    <string id="C0xbbPqE" text="Ja vyklikaju ciabie na duel nachabnik! Zdochni, sabaka!" />
+    <string id="c1Q2irLi" text="Tvaje ludzi zabili maich baćkoŭ. Ty sapraŭdy dumaŭ, što pazbiehnieš kary?" />
+    <string id="c6pDNXbb" text="Vy možacie stvaryć svajo ŭłasnaje haspadarstva abo padtrymać isnaje..." />
+    <string id="C79Xxm1b" text="Nie dazvalajcie vašamu sumlenniu mučyć vas z-za taho, što vy mianie adpuscili. Ja bolej nie budu handlavać rabami. Spalena zašmat mastoŭ sa svaimi starymi paplečnikami, tak by mović. Ja znajdu inšy sposab zarabić sabie na žyccio, mahčyma najmictvam. Tak ci inačaj, mabyć, našyja šlachi jašče pierasiakucca." />
+    <string id="cbF9jdQo" text="Vašyja baćki nie dali vam šmat hrošaŭ, ale pakinuli dosyć, kab vy zmahli nabyć placoŭku niekarystanaj ziamli na ŭskrajku vioski. Vy rasčyscili kamiani i vykapali arašalny roŭ, vyrascili niekalki siezonaŭ uradžaju, a potym pradali jaho sa značnym prybytkam." />
+    <string id="ccf67J3J" text="Vy schapili łuk i pasłali niekalki strełaŭ u bok nalotčykaŭ. Jany schavalisia, daŭšy vam z bratam mahčymasć zbiehčy." />
+    <string id="cDWbwBwI" text="dałučylisia da kiernu." />
+    <string id="cEaXehHy" text="Ja prosta praviaraŭ sioje-toje. Možaš isci." />
+    <string id="cepWNzEA" text="Vy z bratam uskočyli na dvuch koniej, pakinutych u padpalenaj stajni karčmy, vyrvalisia z atačennia nalotčykaŭ i paskakali preč." />
+    <string id="CEqKkY3m" text="Baraniciesia zvierchu." />
+    <string id="cfTiiEEM" text="Impieryja vałodaje hienijem razburennia, razburennia movaŭ, tradycyjaŭ i bahoŭ. Jany zachoplivajuć našyja zamki, zabivajuć našych ludziej i pieratvarajuć našych dziaciej u svaich ułasnych." />
+    <string id="ch9f3A1e" text="Vitaju, {?PLAYER.GENDER}pani{?}panovie{\?}. Navošta vy spynili našy karavan? Spadziajusia, vy nie rabujecie nas." />
+    <string id="character_creation_content_16" text="U dziacinstvie vas adznačyli za..." />
+    <string id="CITG915d" text="dałučyŭsia da piersanału kamandzira." />
+    <string id="Cl4xi6Be" text="I narešcie, vam spatrebicca kapitał. Padydzie ŭsiakaje sielišča, aby jaho žychary havaryli na impierskaj movie." />
+    <string id="cLZWjrZP" text="Jany pierabralisia ŭ inšaje schovišča." />
+    <string id="cNwejsNl" text="Zručnaja lehienda, tak? Zrazumieła, kalradyjcy šmat razoŭ ciarpieli parazu, ale, zrazumieła, jany nie byli sapraŭdnymi synami. Tym nie mienš, možna skazać, što jana uvasablaje siłu i tryvałasć hetaj Impieryi." />
+    <string id="CnXA7oyE" text="Zaraz pierad taboju dvie darohi, majo dzicio!" />
+    <string id="cOgmdp9e" text="Adchilić" />
+    <string id="CRmUZvaW" text="Mahčyma, Nerec pastupiŭ nierazvažliva, kali adpraviŭ našuju piachotu na ŭzhorki dla šturmu battanijskaha forta. Ale jon ličyŭ, što zmoža chutčej zachapić pieravał, pierš čym vorah paspieje jaho ŭmacavać. Kali b jon zrabiŭ inšuju staŭku i jana apynułasia niasłušnaj, ludzi b skazali, što jon byŭ nierašučym." />
+    <string id="cRvSuYC8" text="Abiarycie inšuju zbroju abo pierajdzicie na inšuju treniroŭčuju placoŭku." />
+    <string id="csUq1RCC" text="Vy pracavali najomnymi rukami ŭ haradskoj stajni. Ułasniki pryznavali, što vy ŭmiejecie abychodzicca z końmi, i vam dazvalali trenieravać ich, a časam navat abkatvać novych." />
+    <string id="CvBoRaFv" text="Vy zmahli vychapić nož u mitusni ataki, dy zakałoć nalotčyka, što pieraharadziŭ vam puć." />
+    <string id="cYibaPhn" text="Barbary ŭsie prybyvali i prybyvali. Ja zmahaŭsia za svoj puć z niekalkimi viernymi ludźmi i viarnuŭsia ŭ stalicu. Ale znajšoŭ, što Arenikos prybyŭ tudy raniej za mianie i abviasciŭ siabie Impierataram. Jon zaŭsiody byŭ chitrunom." />
+    <string id="D4MuSwRB" text="Sumny dzień dla Banu Kiłd. Ale my adpomscili." />
+    <string id="D9RoNGJg" text="Kupicie 2 {GRAIN}{.s}. Nacisnicie &quot;Kupić Tavary&quot; u mieniu vioski, kab nabyć tavary." />
+    <string id="DaBN0O7N" text="Vam nie udałosia ŭ čas razhramić usie partyi nalotčykaŭ. Šmatlikija miascovyja žychary ličać, što vy pryniesli im niaščascie, i nie žadajuć mieć z vami ničoha ahulnaha." />
+    <string id="Db63Pe03" text="Vy pieramahli karavan i zachapili jaho tavary, chaŭrusniki {OTHER_MENTOR.LINK} nie atrymajuć svaju zbroju. Heta dasć nam čas i resursy dla padrychtoŭki." />
+    <string id="Db98U6fF" text="Baraniciesia zleva." />
+    <string id="dbLb3krw" text="Razhramicie bandy {RAIDER_NAME}" />
+    <string id="dDmcqTzb" text="Vašaja reputacyja była nie takoj, kab pra vas składali miascovyja lehiendy, ale była takoj, kab zavajavać pavahu navakolnych. Vy byli niazmienna spraviadlivyja i sumlennyja ŭ svaich dziełavych adnosinach i dapamahali tym, chto trapiŭ u biadu. Pry hetym vy razumieli, što ruchaje ludźmi." />
+    <string id="dE2ufxte" text="Pierš čym zrobić niešta inšaje... Nam brakuje ježy. Na poŭnačy adhetul staić vioska, dzie možna nabyć ježu i znajsci dapamohu. Ty lepšy vieršnik, tamu ja dazvolu ciabie viesci nas..." />
+    <string id="DfiACGay" text="Zniščycie Nalotčykaŭ" />
+    <string id="DFidSjIf" text="Bolšasć dziaciej vakoł vas mieli tolki samuju bazavuju adukacyju, ale vy zatrymlivalisia pasla ŭrokaŭ, kab vyvučać litary i matematyku. Vy byli začaravany kirmašom, vahaju i mierami, likami i koštami, hutarkami pra prybytki i straty." />
+    <string id="Dfmg8stq" text="Zniščycie Haspadarstva {FACTION}" />
+    <string id="Dgdopl1b" text="Jak ja mahu stvaryć svaju impierskaje haspadarstva?" />
+    <string id="DIgsfYfz" text="Vy vazili tavary svajoj siamji ŭ najblizki horad, kab pradać ich i nabyć zapasy. Heta była ciažkaja praca, ale vy atrymlivali zadavalniennie ad mitusni na kirmašu." />
+    <string id="DIKPGwj1" text="Tak, rady bačyć vas u biaspiecy. Usio dobra?" />
+    <string id="DjeAJtix" text="Moža heta byŭ luboŭny raman, albo žulnictva ŭ kostkach, albo prosta drenna padabranyja słovy padčas pjanstva z niebiaspiečnym natoŭpam. U kožnym razie ŭ adnym z padarožžaŭ u horadzie, vy trapili ŭ niepryjemnasci, z jakich vas žyvym moh vyciahnuć abo chutki jazyk, abo chutkija nohi." />
+    <string id="DjQuB0TU" text="Vy vyratavali brata i siastru dy vyrašyli adpuscić {RADAGOS.LINK}..." />
+    <string id="dlBFVkDj" text="Ab zadanni, jakoje vy mnie dali..." />
+    <string id="DM6luo3c" text="Praciahnuć" />
+    <string id="DO4PE3Oo" text="Pamier Partyi Zaraz" />
+    <string id="dPb2Vph3" text="Maje infarmatary paviedamiać mnie, jak tolki vy paabiacajecie svaju padtrymku..." />
+    <string id="DQzEgUzu" text="Vy pahavaryli z {HERO.LINK} i atrymali kaštoŭnuju infarmacyju, jakaja moža dapamahčy vam zrazumieć artefakt." />
+    <string id="Dr63pCHt" text="{MENTOR.LINK} {?MENTOR.GENDER}dasłała{?}dasłaŭ{\?} vam paviedamlennie pra napad bandytaŭ kala {TARGET_SETTLEMENT}, i raić vam adpravicca tudy i zniščyć ich usich, pakul ich dziejanni nie padbuchtoryli miascovych žycharoŭ suprać vašaha ruchu. " />
+    <string id="DsCkf6Pb" text="Kali vy staleli, vy marnavali bolšuju častku svajho času..." />
+    <string id="duD8SJDb" text="Našyja rycary zaŭvažyli esierajskuju lohkuju piachotu, rassiejanuju pa dalinie, i atakavali ich. Jany nie byli hatovyja sustreć napor i byli razbityja. Ale tut zjaviłasia hrupa chuzaitaŭ, jakaja trymalisia na adlehłasci i nie davali rycaram spakoju, vybivajučy z-pad ich koniej. Voś tady my i zjavilisia." />
+    <string id="DuUhVWaV" text="Dazvolcie mnie raskazać vam pra siabie... Ja była davieranaj asobaju staroha impieratara Nereca. Aficyjna ja nie była jaho špijonam, bo ja žančyna, ale, tym nie mienš, ja hrała mienavita hetuju rolu. Mnie padabaŭsia Nerec, ja była jamu vielmi ŭdziačnaja za davier, ale jon nie byŭ dobrym Impierataram. Zanadta ŭparty i pryncypovy. Napeŭna, mnie varta było atrucić jaho." />
+    <string id="dWVsS3D8" text="Samy advažny i hieraičny syn našaha kłana, Nimr, uznačaliŭ vialikuju hrupu esierajskich vajaroŭ, kab zmahacca za Impieryju, za zołata i słavu. Ja išoŭ z imi. Kali my ŭbačyli, što battanijskija łučniki spuskajucca z uzhorkaŭ, Nimr byŭ hatovy. Jon daŭ kamandu: my trymali ščyty nad hałavoju, pakul sypalisia streły, potym uskinuli dzidy i kinulisia ŭ ataku. My vyrazali ich." />
+    <string id="DyE3luNM" text="Dla zmahannia z nalotčykami ŭ vašaj partyi pavinna być nie mieniej {NUMBER} čalcoŭ. Viarniciesia ŭ viosku, kab nabrać novych vajaroŭ." />
+    <string id="Dz9T60U2" text="Ciapier, zrazumieła, usio zmianiłasia. Vy abirajecie tuju frakcyju, z jakoj, pa vašaj dumcy, vam najlepiej pracavać." />
+    <string id="E31IJyqs" text="Rekrutavać vajaroŭ" />
+    <string id="E87miqTI" text="Zniamožanyja vajnoju kłany haspadarstva {FACTION} prapanavali abviascić mir z haspadarstvam {PLAYER_SUPPORTED_FACTION}." />
+    <string id="e8Tjf8Ph" text="Naniać 1 Kampańjona" />
+    <string id="eaxOH9mb" text="Maje ptušački raskažuć mnie, kali vy paabiacajecie svaju padtrymku..." />
+    <string id="EdUppdLZ" text="vy ašukali nalotčykaŭ." />
+    <string id="EEedqolz" text="bieduinaŭ" />
+    <string id="eH8z6Fws" text="Niahledziačy na Sciah Cmoka, haspadarstva {PLAYER_SUPPORTED_KINGDOM} było zniščana!" />
+    <string id="ehnbi5yD" text="Bajusia, ja nie bačyŭ dziaciej. Ale pasla taho, jak na našy karavan napali, vierchavod nalotčykaŭ, jakoha jany zvali Radahos, zabraŭ našyja najkaštoŭnyja rečy razam z kufaram i zjechaŭ." />
+    <string id="EitTbGvB" text="Ja nie ŭpeŭnieny. Ja jašče nie pryniaŭ vyrašennia pa hetaj nahodzie." />
+    <string id="eJX7rhch" text="Vy paspiachova adnavili svoj kłan." />
+    <string id="elJCacQO" text="Ja pracuju nad hetym." />
+    <string id="elQnygal" text="Vašaja siamja naskrebła hrošaŭ na pačatkovuju školnuju adukacyju, i vy vykarystali heta ŭ poŭnaj miery, zachoplena čytajučy historyju, matematyku i fiłasofiju, dy abmiarkoŭvajučy pračytanaje z nastaŭnikam i adnakłasnikami." />
+    <string id="eNJBjYG8" text="Vy paspiachova sabrali Sciah Cmoka Kalradyjosa." />
+    <string id="EoLcoaHM" text="Pahladzim..." />
+    <string id="EOSyvdFG" text="Potym pryjšli vłandyjskija rycary. Na nas napali z dvuch bakoŭ, i Impieratar, jaki moh by pasłać ludziej na našaje vyratavannie, nie spiašaŭsia. Mažliva, jon chacieŭ, kab zahinuli lepšyja z esierajeŭ, kab pasla my nie stali zanadta mahutnymi. Ale hetaja zdrada była ničym u paraŭnanni z tym, što my atrymali ad našych brataŭ, esierajaŭ Banu Kiłd." />
+    <string id="epB0x816" text="{PLAYER_LITTLE_SISTER.NAME} - małodšaja siastra {PLAYER.LINK}. Jana była vykradziena bandytami, jakija mali namier pradać jaje ŭ rabstva." />
+    <string id="etG87fB7" text="sa svaim nastaŭnikam." />
+    <string id="EV5ykPuT" text="Vy i vašyja ludzi byli pieramožany {BOSS_NAME} i jaho zmoŭcami. Vašyja ludzi, što zastalisia, znašli vašaje pabitaje cieła siarod kučy skryvaŭlenych trupaŭ. I ŭsio ž vy vyžyli, kab zmahacca jašče adzin dzień." />
+    <string id="eV8R0SKp" text="Vy sabrali ŭsie častki Sciaha Cmoka. Zaraz vy možacie vyrašyć, što budziecie rabić z hetymi častkami. Viartajciesia da {IMPERIAL_MENTOR.LINK} abo {ANTI_IMPERIAL_MENTOR.LINK}, kab abrać svoj šlach." />
+    <string id="eVgAY7ts" text="Słava niabiosam, mnie patrebna lepšaje apisannie za hetaje. Maje ludzi sabrali dziasiatki maleńkich harezaŭ u hetym rehijonie. Dobryja palaŭničyja ŭhoddzi! Chacia bolšasć z ich užo adpraŭleny na poŭdzień, na viadomy niavolnicki kirmaš.[ib:confident]" />
+    <string id="eVzg5Mtl" text="Karavan Zmoŭcaŭ" />
+    <string id="EWD4Op6d" text="Apaviaščennie" />
+    <string id="EZ19JOGj" text="Dom {MENTOR.NAME}" />
+    <string id="ez4rbGmx" text="Spačatku abražaje svajho najmahutniejšaha vasała, a potym abražaje svajho najkaštoŭniejšaha chaŭrusnika. Vydatnaja praca, tak? Ale z toj pary jon staŭ mudrejšy, chacia z im nie zanadta pryjemna bavić čas." />
+    <string id="F0ldgio8" text="Viarnucca da trenieravanniaŭ." />
+    <string id="F26iH45g" text="Što zdaryłasia? Vy znajšli častku sciaha?" />
+    <string id="F2bgujPo" text="na słužbie ŭ pravadyra." />
+    <string id="f3NvtzpE" text="Dastupny Kvest Zmova" />
+    <string id="F7OO5SAa" text="U dziacinstvie, kali vy rasli ŭ Kalradyi, vajna nikoli nie była zadaloka. Vy..." />
+    <string id="F7VxtCSd" text="Hetaja nałada adklučana na etapie navučannia." />
+    <string id="FaQDaRri" text="Ja zbirajusia prajsci navučannie, tamu što pavinien być upeŭnieny, što zmahu zmahacca, kali daviadziecca. (Prajsci navučannie)" />
+    <string id="fBJRdxh2" text="Pasprabavać iznoŭ." />
+    <string id="FBp2ranI" text="Možacie dapamahčy mnie znajsci pakupnika?" />
+    <string id="fC60rYwy" text="Atakujcie sprava." />
+    <string id="FfNwXtii" text="Kali ŭ bandy vaŭčaniataŭ z vašaha ranniaha malenstva byŭ alfa, to heta peŭna byli vy. Usie inšyja dzieci brali z vas prykład. Vy vyrašali, dzie i ŭva što hulać; uznačalvali hulni i svavolstva." />
+    <string id="Fgta5mF6" text="Pierš čym ja adkažu, nam treba bolej daviedacca adzin pra adnaho. Ja nie viedaju, što vy znajecie pra mianie. Ja byŭ hramadzianinam i vajskavodam Impieryi. Ale ja nie impierac." />
+    <string id="FHM5GcHW" text="Dobra. Tady ja raskažu vam toje, što viedaju. Ja čuŭ pra jašče adnu častku.[sp:/Sounds/VO/mainquest/mntemp_q01_09.ogg]" />
+    <string id="FhZPjhli" text="Vašy rodny horad na karotki čas apynuŭsia ŭ abłozie, i vas zaklikali baranić scieny. Kožny zrabiŭ svoj uniosak u adbiccio varožaha šturmu, i kožny pa pravie hanarycca tym, što vystajaŭ." />
+    <string id="FKpLEamz" text="{?CHILD.GENDER}dahladała{?}dahladaŭ{\?} koniej." />
+    <string id="flGyoqa6" text="Mienavita sturhijcy sustrelisia tvar u tvar z hvardyjaj Nereca. Moj baćka zahadaŭ mnie zastacca ŭbaku, a sam uznačaliŭ ich i pavioŭ u boj. Jon prymusiŭ ich adstupić, tady jany rassypalisia i zbiehli ŭ schovišča svajho łahiera. My pajšli i atakavali ich vały, i złamali ich, ale moj baćka byŭ zabity impierskaj bułavoju u momant svajho tryumfu i pamior." />
+    <string id="flkmzKDz" text="Šmat moładzi z Kiłda pajšli z im. Jany pamirali sotniami. Nichto nie atrymaŭ nijakaj vyhady, za vyniatkam Nimra, jakoha ludzi čamuści ličyli hierojem. Heta było ahidna, jak jany słavili jaho." />
+    <string id="fM4eSVps" text="Vy skazali, što razmovy - heta pustoje marnavannie času. Ciapier vy majomasć {RADAGOS.NAME}." />
+    <string id="fp6QBO7l" text="Mnie treba ŭziać hetych ludziej z saboju. {RADAGOS.NAME} slizki typ. Ja nie chaču, kab jon zbieh." />
+    <string id="FPhWhjq7" text="Paraza" />
+    <string id="fprOWs1E" text="Ciapier, kali vy hatovyja abviascić svajo novaje haspadarstva, daručycie staroscie vašaj stalicy začytać abviaščennie pa ŭsich vašych ziemlach." />
+    <string id="FQntPChs" text="Vašaja siamja była handlarami ŭ adnym z hałoŭnych haradoŭ Impieryi. Časam jany arhanizoŭvali karavany ŭ susiednija harady i abmiarkoŭvali prablemy ŭ haradskoj radzie." />
+    <string id="frk7T3ue" text="Heta budzie składana, ale ja mahu detalova patłumačyć...." />
+    <string id="FRSas4xT" text="Vajary Zmovy" />
+    <string id="ft6zzDrJ" text="Ja zmahu žyć z hetym. Chodźma. " />
+    <string id="fUcwKbW8" text="Kali ja vyjhraju, ja prosta zabju ciabie i dazvolu hetym vartym žalu adhavorkam, jakich ty kličaš zmoŭcami, uciačy." />
+    <string id="FUwIgcZO" text="Vy ŭpeŭnieny ŭ hetym? (Hetaja nałada skončyć prachodžannie navučannia, jakoje ŭtrymlivaje elemienty siužeta, i pačnie adzinočnuju kampaniju. Rekamiendujecca abrać hety varyjant tolki, kali vy adnojčy prajšli navučannie.)" />
+    <string id="FVaRDe2a" text="svakoŭ nojana" />
+    <string id="fVKuuzCC" text="Ja haspadar haspadarstva {FACTION}. Ja budu niesci Sciah Cmoka." />
+    <string id="FWSwngVX" text="Moža, rušym u darohu? Pamiataj, kali ja pamru ad zniasilennia abo patanu ŭ niejkaj race, to vašym dzietkam pryjdzie kaniec. Ja nie čakaju ŭtulnaha pałankina, ale lepiej nie ŭskładniajcie majo padarožža." />
+    <string id="FyzsAZx8" text="{RADAGOS.LINK} skazaŭ, što viedaje, dzie vašyja brat i siastra. Jon prapanavaŭ atakavać razam. Jon budzie čakać vas poruč sa schoviščam, pra jakoje zhadvaŭ {SETTLEMENT_LINK}. Schovišča adznačana na mapie. Vy zmožacie jaho ŭbačyć." />
+    <string id="g31pXuqi" text="ziamlarobaŭ aazisa" />
+    <string id="G9iXmhGK" text="Słuchaj, my ŭsie jašče možam damovicca. Ja dam tabie hamaniec sa srebram." />
+    <string id="Ga8mDgab" text="Vy paciarpieli parazu ŭ schoviščy {HIDEOUT_BOSS.LINK}. Vy zmožacie atakavać iznoŭ, kali budziecie hatovyja." />
+    <string id="GabaznVa" text="Ab stvarenni majho ułasnaha haspadarstva..." />
+    <string id="gBbm9beO" text="Parazicie ŭsie celi. {REMAINING_TARGET} {?REMAINING_TARGET&gt;1}celaŭ zastałosia{?}cel zastałasia{\?}." />
+    <string id="GCbqpeDs" text="Navučannie skončana. Zaraz vy možacie volna dasledavać Kalradyju." />
+    <string id="gdgbaMOP" text="Sumniajusia, što padzialaju vašyja pahlady." />
+    <string id="GDNXavAl" text="U našaj Impieryi niama ničoha asablivaha. Kožnamu z hetych drobnych karaloŭ, chanaŭ i sułtanaŭ moža paščascić, i jon zmoža zavajavać Kalradyju i kiravać joju hetak ža dobra, jak i my. Ale ista ŭ tym, što my ŭžo zrabili hetaje. Našyja najvialikija złačynstvy zastalisia ŭ minułym. Davajcie nie budziem skasoŭvać toje, što ŭžo zroblena." />
+    <string id="GeNKQlHR" text="čalcoŭ achovy ahmieniu pravadyra" />
+    <string id="GEYzLuwb" text="vašyja stasunki z ludźmi." />
+    <string id="GFUggps8" text="maršavali z pamahatymi łahiera." />
+    <string id="GGfM1HKn" text="Sardečna zaprašajem u MBII Bannerlord" />
+    <string id="Ghz90npw" text="Vašaja siamja vałodała niekalkimi końmi ŭ haradskoj stajni, i vy kłapacilisia pra ich. Mnohija viečary vy vyvodzili ich za scieny i imčalisia naŭskač pa palach, haniajučysia z inšymi maładzionami." />
+    <string id="GicEcLx2" text="Ubačymsia tam. Ale pamiatajcie, kali heta pastka abo niešta hetaha kšałtu, vy stracicie žyccio." />
+    <string id="gJBNUAJd" text="Skončycie puć i parazicie jak maha bolej celej." />
+    <string id="gL241Hoz" text="Vielmi fajna. Viadoma heta zababonnaje hłupstva, ale ludzi pavierać vam. Vydatna, o {?PLAYER.GENDER}spadkajemica{?}spadkajemiec{\?} Kalradyjosa, idzi ŭpierad!" />
+    <string id="gL3WCqM5" text="Lik Sieliščaŭ" />
+    <string id="GM3tAYMr" text="Raspačać varožyja dziejanni" />
+    <string id="gOI8lKcl" text="paskakali na chutkim kani." />
+    <string id="gQ2tAvCz" text="ziemlarobaŭ" />
+    <string id="gSBGpUBm" text="Znajdzicie schovišča {RADAGOS.LINK}." />
+    <string id="GsPC2MgU" text="Vašy baćka byŭ adnym z raboŭ-ciełaachoŭnikaŭ, jakich trymali emiry esierajaŭ. Jon vajavaŭ na boku svajho majstra ŭ składzie braniavanaj vieršnicy plemia, i byŭ vyzvaleny, mahčyma za advažny ŭčynak, a mahčyma, jon zapłaciŭ za volu svajoj dolaj bajavych trafiejaŭ. Potym jon ažaniŭsia na vašaj matcy." />
+    <string id="GVMGXfxS" text="Vy možacie vykarystać našaje prozvišča, kali žadajecie, abo prydumać novaje. U vas budzie bolej šancaŭ atrymać aŭdyjencyju ŭ šlachty, i mnie budzie lahčej vas znajsci, raspytvajučy ludziej." />
+    <string id="GW7Zg3IP" text="Vajskovaja Partyja Zmovy" />
+    <string id="GxlPj4GC" text="Znajdzicie schovišča, pra jakoje vam raskazała Isciana, i atrymajcie nastupny frahmient sciaha." />
+    <string id="gYYGGflb" text="Nam nielha tracić čas. My zmožam zrabić bolej, kali padzielimsia. (Prapuscić navučannie)" />
+    <string id="GZaYmg95" text="Vy paspiachova skončyli navučannie vałodanniu miačom." />
+    <string id="H2FMIJmw" text="Maje vaŭki! Zabicie ich!" />
+    <string id="h2KnarLL" text="trenieravalisia z vieršnikami" />
+    <string id="h31YaM4b" text="Asiadłajcie kania." />
+    <string id="h68qCoz3" text="{PLAYER_LITTLE_BROTHER.NAME} małodšy brat {PLAYER.LINK}. Jon byŭ vykradzieny bandytami, jakija mali namier pradać jaho ŭ rabstva." />
+    <string id="h9VP4ypW" text="Znajdzicie i paznajomciesia z {HERO.LINK}, kab daviedacca bolej pra Sciah Nereca. Ciapier jon znachodzicca ŭ {SETTLEMENT}." />
+    <string id="hadftxlO" text="My zanadta adchililisia ad našaha šlachu. Ja ŭznačalu nas na peŭny čas. Idzicie ŭsled za mnoju." />
+    <string id="HDBkwjgf" text="{NOBLE_ANSWER}" />
+    <string id="HddJT1Ve" text="Mianie tam nie było. Ja viedaju, što {HERO.LINK} maje svaje dumki pa hetaj nahodzie." />
+    <string id="heoCaRIr" text="Nieje... Bolej nijakich hutarak. Zabi mianie abo ja zabju ciabie. Voś čym heta skončycca.[ib:confident]" />
+    <string id="hFYG3lXw" text="Tak heta toje, što niekatoryja zavuć vialikaj Bitvaju pad Pendraikam ŭ 1077 hodzie." />
+    <string id="hGPdLssq" text="Haspadar {PLAYER_SUPPORTED_FACTION} pryniaŭ mir, prapanavany haspadarstvam {FACTION}, jakoje było spustošana vajnoju." />
+    <string id="HhFHRs7N" text="Stvaryć {?IS_IMPERIAL}impierskaje haspadarstva{?}nie impierskaje haspadarstva{\?}" />
+    <string id="HhuBPfJn" text="Idzicie da treniera." />
+    <string id="HL9lzfjY" text="Zrazumieła, mahu. Vy viedajecie majo imia, čyj ja syn." />
+    <string id="hnFkhPhp" text="Hetaja nałada adklučana padčas navučannia." />
+    <string id="HOb07MJF" text="Ja amal ničoha nie viedaju pra heta. Chacia znaju dvaich, jakija viedajuć. {IMPERIAL_MENTOR.LINK} niekali nieaficyjna słužyła špijonam Nereca. {ANTI_IMPERIAL_MENTOR.LINK} słužyŭ ciełaachoŭnikam Nereca, ale ludzi kažuć, što z toj pary jon vielmi mocna zmianiŭsia." />
+    <string id="hob3WVkU" text="Vašy baćka byŭ čalcom bajarskaj družyny - kampańjonaŭ, jakija składajuć jaho svitu. Jon siadzieŭ za stałom svajho spadara ŭ vialikaj zale, kantralavaŭ uładanni bajaryna i stajaŭ poruč z im u centry sciany ščytoŭ u boi." />
+    <string id="HPNuqbSf" text="Vyratujcie Svaju Siamju" />
+    <string id="HqlXdzcv" text="Pahavaryć sa Starostam {HEADMAN.FIRSTNAME}" />
+    <string id="HqzVBfpl" text="haradskich handlaroŭ" />
+    <string id="HrdVRMgR" text="Pejna, za ratavannie brata i siastry, vy zasłužyli svajo žyccio nazad. Dobra, idzicie." />
+    <string id="hrhvEWP8" text="{PLAYER_MOTHER.NAME} - maci {PLAYER.LINK}. Jana była zabita padčas napadu nalotčykaŭ na karčmu, u jakoj spyniłasia siamja." />
+    <string id="HskL8pEa" text="Haspadarstva {KINGDOM_NAME} pieramožana. Vy paciarpieli parazu!" />
+    <string id="HT9hW29s" text="Cudoŭna! Ale ja maju niaskončanuju spravu. La hetaha horada isnuje schovišča. {HIDEOUT_BOSS.LINK} trymaje tam vašych brata i siastru. Ja dałučusia da vas tam, dzie sciežka viadzie ŭharu, pa-za polem zroku ich vyviednikaŭ.[if:idle_normal][ib:normal]" />
+    <string id="HvGW2DvS" text="Puć pačaty." />
+    <string id="hXl25avg" text="Vašaja siamja naniała pryvatnaha nastaŭnika, i vy ŭ poŭnaj miery skarystalisia hetaj pieravahaju, z zachaplenniem čytajučy historyju, matematyku, fiłasofiju i abmiarkoŭvajučy pračytanaje sa svaim nastaŭnikam i adnakłasnikami." />
+    <string id="hYgmzZJX" text="Denaraŭ" />
+    <string id="I3PcdaaL" text="Vaŭki i miadzviedzi ŭvieś čas pahražajuć statkam na poŭnačy Kalradyi, a hijeny i leapardy turbujuć poŭdzień. Vy pajšli z hrupaj svaich adnaviaskoŭcaŭ i vypuscili snarad, jaki zabiŭ zviera." />
+    <string id="IavuL9KI" text="Biezumoŭna. Ja maju namier vykarystać sciah, kab dapamahčy vyratavać Impieryju." />
+    <string id="IC9Vg5MA" text="Sustreniemsia tut pazniej, kali vy budziecie hatovyja raskazać mnie ŭsio.[if:idle_normal][ib:normal]" />
+    <string id="IITkXnnU" text="Kalradyja - heta ziamla, poŭnaja niebiaspiekaŭ, ale i mahčymasciaŭ. Kab dać rady vyprabavanniam, jakija majuć być, vam treba budzie stvaryć svoj kłan.{NEWLINE}Vašy brat raskazaŭ vam, što isnuje šmat sposabaŭ zrabić hetaje, ale nivodzin z ich nie abydziecca biez maniety. Handal - adzin sa sposabaŭ dasiahniennia hetaj mety. Bojki z bandytami i prodaž zachoplenaj zdabyčy ŭ horadzie - inšy. Jaki b puć vy ni abrali, padarožža ŭ adzinotku zrobić vas lohkaj zdabyčaj dla kožnaha, chto trapicca vam na šlachu.{NEWLINE}Vy viedajecie, što možacie rekrutavać ludziej, jakija pojduć za vami, siarod ziamianaŭ u vioskach i haradach, chacia ziamianie mohuć paprasić vas ab adnoj abo niekalkich pasłuhach, pierš čym daduć vam dostup da svaich samych najkaštoŭnych vajaroŭ.{NEWLINE}Naturalna, u karčmach Kalradyi možna sustreć i bolej unikalnych piersanažaŭ. Adnak jany, zazvyčaj, addajuć pieravahu bolš stałym kłanam." />
+    <string id="IL4FcHXv" text="Vy paklalisia ŭ viernasci haspadarstvu {KINGDOM_NAME}!" />
+    <string id="ImLQNYWC" text="Fajna, ja vyklikaju vas na duel." />
+    <string id="InN5ZZt3" text="arendadaŭcaŭ ziemleŭłasnika" />
+    <string id="IPP6MKfy" text="{MENTOR.LINK} {?MENTOR.GENDER}paviedamiła{?}paviedamiŭ{\?} pra zbrojevy karavan, jaki budzie zabiaspiečvać zmoŭcaŭ zbrojaj i branioju." />
+    <string id="IYnFgEgy" text="Tady davajcie praciahniem. (Prajsci bajavoje navučannie)" />
+    <string id="i3SSc0I4" text="Płan {IMPERIAL_MENTOR.NAME}" />
+    <string id="i5OOargr" text="Hetkaja fartuna vajny. Ale toje, što było potym... Kali navina pra toje, što zdaryłasia z našymi ludźmi, pašyryłasia na inšyja kłany, u asablivasci na Arkit, kłany zrazumieli, što my słabyja. Našyja statki byli razrabavanyja. Usich, chto pratestavaŭ, zabivali. Mońčah praktyčna ničoha nie zrabiŭ, kab spynić hetaje. Heta navučyła nas tamu, što advaha zabje ciabie, a zdrada zrobić bahaciej." />
+    <string id="ib2TKPUa" text="Haspadar z haspadarstva {FACTION} uznačalvaje chaŭrus suprać vas. Razhramicie ich vojski abo vymuście ich abviascić mir, zachapiŭšy ich sieliščy abo zniščyŭšy ich partyi, kab damahčysia pieramohi." />
+    <string id="ibm9EEPa" text="Nie, mnie treba bolej času, kab pryniać rašennie." />
+    <string id="ipQP6aVi" text="najmitaŭ" />
+    <string id="iQeMllr8" text="Kali b heta było prosta bitvaju z konnymi łučnikami, my b pieramahali... Piachotnik moža stralać nie horš i nie lepiej za vieršnika, pry inšych roŭnych umovach, a nas było značna bolej. Tamu jany pačali spuskacca i paskakali navyskač. Zrazumieła, ich padtrymlivali rycary, i tutaka pačalisia prablemy." />
+    <string id="iQrwsvb1" text="U nas nie było inšaha vybaru, aproč jak pačać vajnu. Kožny, chto kaža, što pastupiŭ by inačaj, abo iłhun, abo bajazliviec, abo i toje, i inšaje. Sturhijcy napali na nas, i ich treba było pakarać. My stracili vojska i sciah. Ale my nie stracili svajho honaru, a biez honaru Impieryi pryjšoŭ by kaniec." />
+    <string id="iR4QCTxv" text="Asłabić Impieryju" />
+    <string id="itRoeaJf" text="My čuli, što vy vykrali našych małodšych brata i siastru. Dzie jany?" />
+    <string id="ivKl4mV2" text="Vašy baćka byŭ davieranym lejtenantam miascovaha arystakrata-ziemleŭłasnika. Jon jezdziŭ u vieršnicy šlachciča ŭ jakasci braniavanaha ŭłana." />
+    <string id="izCbZEZg" text="Kamandzir Zmovy" />
+    <string id="iZKtGI6Y" text="Vašaja siamja ŭładkavała vas u supravodžannie drobnaha barona Vłandyjskaha Karaleŭstva. Na vas nie ŭskładalisia asnoŭnyja abaviazki, hałoŭnym čynam vy raznosili paviedamlenni i dahladali jaho kania, ale heta davała vam mahčymasć ubačyć, jak płanavalisia kampanii i rasstaŭlalisia vajary ŭ boi." />
+    <string id="j2dW9fZt" text="Atakujcie zvierchu." />
+    <string id="J4qetbZb" text="Ja znajšoŭ hety dziŭny z vyhladu mietaličny pradmiet. Jon nie vyhladaje zanadta kaštoŭnym, ale moža być artefaktam, pra jaki havaryŭ  {TACTEOS.NAME}. Mažliva, my zmožam pradać jaho adnamu sa šlachietnych kłanaŭ za vysoki košt." />
+    <string id="j6py5Rv5" text="Vašyja baćki byli lekarami, zbirali travy i lačyli chvorych. Budučy žyvymi zachoŭnikam battanijskich tradycyj, ich taksama prasili razviazvać šmatlikija sprečki pamiž kłanami." />
+    <string id="j9f9Ts7i" text="Ja maju lepšuju ideju. U nas budzie bolej šancaŭ, kali my radzielimsia ciapier. Ja zajmusia {RADAGOS.NAME}, i pajdu šukać kirmaš raboŭ i sposab vyzvalić dziaciej. Adnak my pavinny być asciarožnyja, kab nie padviarhać ich žyccia niebiaspieki, mahčyma lepiej budzie prosta vykupić ich. Ale dla hetaha ŭ nas pavinny być poŭnyja hamancy." />
+    <string id="jAs3kDXh" text="Vašaja siamja była davieranaj radniej chuzaitskaha nojana i dzialiła z im trapiezu ŭ jurcie pravadyra. Vašy baćka dapamahaŭ svajmu pravadyru viesci spravy kłana, i vajavaŭ u jadry braniavanych ułanaŭ u centry bajavoj linii chuzaitaŭ." />
+    <string id="jg3T5AyE" text="Jak i šmatlikija siemji ŭ Kalradyi, vašaje žyccio pieraviarnuła vajna. Vašy dom byŭ razburany padčas ruchu vojska za vojskam. Urešcie, vy pradali svaju majomasć i adpravilisia z baćkam, matkaju, bratam i dvuma małodšymi, bratam i siastroj, ŭ novy horad, jaki, jak vy čuli, byŭ biaspiečniejšym. Ale vam nie paščasciła zrabić hetaje. Pa darozie, na karčmu, u jakoj vy spynilisia, napali nalotčyki. Vašyja baćki byli zabity, a małodšyja siastra i brat byli zapałonieny, ale vy i vaš starejšy brat vyžyli, tamu što..." />
+    <string id="jGhWOnjx" text="Tak. Heta było varjactva. Impieryi byŭ naniesieny najdužy ŭdar za ŭsiu historyju, a my svarylisia pamiž saboj z-za sciaha." />
+    <string id="JhEzD45J" text="Nabyć {GRAIN}" />
+    <string id="JJiKk4ow" text="Abiarycie vašaje prozvišča: " />
+    <string id="JJo0i8an" text="Ahladzieć viosku, kab znajsci partyju, jakaja zachapiła vandroŭcu, pra jakoha kazaŭ vam starosta." />
+    <string id="Jn4r0GjD" text="Tak, nie mahli b vy mnie dapamahčy znajsci pakupnika." />
+    <string id="jnOa3cbK" text="Pierad tym jak ja raskažu vam hetuju infarmacyju. Ja mušu bolej daviedacca pra vašyja namiery. Bo sciah možna vykarystać jak dla adnaŭlennia impieryi, hetak i dla razburennia.[sp:/Sounds/VO/mainquest/mntemp_q01_06.ogg]" />
+    <string id="JOJ09cLW" text="Chodźma." />
+    <string id="joRHKCkm" text="Vašaj siamji spatrebiŭsia nadziejny čałaviek, kab adviesci karavan u susiedni horad. Vy arhanizavali dastavy, zabiaspiečyli stałaje nazirannie ad razbojnikaŭ, i paspiachova dastavili jaho ŭ punkt pryznačennia." />
+    <string id="jPKIN2r4" text="I jašče adna reč. Kali vy budziecie hutaryć sa šlachtaj i inšymi pavažnymi ludźmi, pierakanajeciesia, što pradstaŭlajeciesia čałaviekam z dalokaj, ale šlachietnaj siamji." />
+    <string id="JTPmw3cb" text="Vy nie zmahli vykanać kvest u čas." />
+    <string id="JUSHAPnu" text="Vy byli chutkim na nohi i pilnym da taho, što adbyvajecca vakoł vas. Zvyčajna vy ŭciakali ad niepryjemnasciaŭ niehledziačy na toje, što mahli dobra prajavić siabie ŭ bojcy z inšymi dziećmi, kali vas zahaniali ŭ vuhał." />
+    <string id="Jvf6K7TZ" text="Vy z siamji biednych mihrantaŭ, jakija žyli ŭ truščobach, što rasli za scienami impierskich haradoŭ. Siamja zarablała peŭnyja hrošy na raznastajnych pracach. Časam jany pracavali na adnu z šmatlikich złačynnych bandaŭ Impieryi, tamu vy rana paznajomilisia z ciomnym bokam žyccia." />
+    <string id="JVkPkbdg" text="Vy nie zmahli asłabić Impieryju." />
+    <string id="JWLBKIkR" text="Starosta {HEADMAN.FIRSTNAME}" />
+    <string id="JZ5jjSLV" text="Ja vałodaju Sciaham Cmoka, tamu zjaŭlajusia zakonnym haspadarom Kalradyjskaj Impieryi." />
+    <string id="k07wzat8" text="Ja jašče nie hatovy." />
+    <string id="K75sH3vW" text="I pakolki ŭ mianie nie zastałosia ničoha kaštoŭnaha, kab adpłacić vam za dapamohu, ja sioje-toje raskažu. Kali vy dahonicie i pieramožacie hetaha niahodnika, to, mahčyma, zmožacie viarnuć moj kufar. U im znachodzicca kaštoŭnaje ŭpryhožannie, jakoje, jak mnie skazali, moža ŭjaŭlać vialikuju kaštoŭnasć, kali vy viedajecie, dzie jaho pradać." />
+    <string id="karjORwI" text="Da čorta! Navošta mnie patrebna duel z taboju?" />
+    <string id="kATpK8v8" text="Pra pieradaču Sciaha Cmoka isnamu haspadarstvu..." />
+    <string id="kaZ1XtDX" text="Vam brakuje siłaŭ dla napadu. Rekrutujcie bolej vajaroŭ u vioscy." />
+    <string id="kbcwb5TH" text="na kirmašach i ŭ karavan-sarajach." />
+    <string id="kbyqtszZ" text="Ja słuchaju..." />
+    <string id="kdR3CeL8" text="Nievialiki atrad majho muža trymaŭsia razam, da jaho dałučylisia adstałyja i ŭciekačy. Jon apisaŭ advarotny marš: niama ježy, mała vady, marš dniom i nočču, kab apiaredzić varožych vieršnikaŭ. Ale jany vyžyli, adzinaja arhanizavanaja impierskaja siła, jakoj heta udałosia." />
+    <string id="Ke7f4XSC" text="Ja prezientuju vam Sciah Cmoka Kalradyjosa." />
+    <string id="KfaqPpbK" text="Razam z inšymi maładymi ludźmi vy chadzili pasvić aviečak, kozaŭ albo bujnuju rahatuju žyviołu na pašach pablizu vioski. Vy adkazvali za adłoŭ badziažnych zviaroŭ i zaŭsiody trymali pad rukoj vialiki kamień, kab u vypadku patreby kinuć jaho ŭ drapiežnikaŭ, jakija zatailisia." />
+    <string id="kg9YtrOg" text="Vašaja siamja była kavalami, šanavanaj prafiesijaj Battanii. Jany vyrablali ŭsie: ad tonkich filihrannych azdobaŭ z hieamietryčnymi ŭzorami da dobra zbałansavanych doŭhich miačoŭ, jakim addavała pieravahu battaniskaja arystakratyja." />
+    <string id="KhL2ctsi" text="Ciapier vy hatovyja sysci. Pahavarycie sa starostam iznoŭ. Jon skazaŭ, što maje dla vas zadannie." />
+    <string id="kIklPYto" text="Hatovy sysci adhetul?" />
+    <string id="kJwV17Jx" text="Tak. My nikoli nie zabudziem hety dzień... Dzień, kali my daviedalisia, što staryja, jakija scviardžali, što majuć prava kiravać nami, apynulisia truchlavymi niekampietentnymi ludźmi." />
+    <string id="kJxPtbHo" text="Urešcie rešt, što my atrymali? Sturhijcy znienavidzieli nas macniej, čym niekali. Vłandyjcy taksama. Impieryja, liču, zrujnavana. Što ja mahu skazać... Na moj pahlad, u vojnaŭ pavinna być meta. Ale, zdajecca, siarod našych ludziej ja ŭ mienšasci." />
+    <string id="kmM68Qx4" text="vašyja navyki lidara." />
+    <string id="kNXet6Um" text="byŭ znakamity vybryk ŭ horadzie." />
+    <string id="kqj1Wp0f" text="Vy vyrašyli zachoŭvać Sciah Cmoka ŭ novym haspadarstvie, jakoje stvaryli." />
+    <string id="kTaYz2mo" text="Vy pahutaryli z {HERO.NAME}." />
+    <string id="kvTEeUWO" text="Chibny šlach!" />
+    <string id="kw9sltab" text="Battanijcy płanavali zładzić zasadu na lasistym pieravale dla impierskaha avanharda, potym vłandyjcy i sturhijcy musili abrynucca na fłanhi avanharda ŭ bitvie. Našyja vyviedniki vyjavili battaniskuju zasadu, ale Nerec nie pasłuchaŭ ich i ŭsio adno narvaŭsia na jaje." />
+    <string id="kwW6v202" text="Idzicie na pazicyju stralby" />
+    <string id="KXj8bsao" text="Tak... Kali vy namierany vykarystać sciah dla vyratavannia Impieryi, ja raskažu vam toje, što viedaju. Ale kali vy žadajecie isci nazad, a nie napierad, to ja nie budu vam dapamahać." />
+    <string id="kYtRsxSL" text="My zmahalisia z vłandyjcami. My pieramahli, ale heta była vialikaja bojnia. Kania majho muža zabili, muža skinuli z kania, a pamior jon siarod kučy trupaŭ vłandyjcaŭ. U inšym miescy na poli boju Impierataru adsiakli hałavu sturhijskaj siakieraj, i tamu jon bolej nie moh nam zapłacić." />
+    <string id="KYW1UiKm" text="Chierhity nikoli nie vałodali vialikim bahacciem u paraŭnanni z inšymi kłanami, ale jany kampiensavali heta svajoj advahaju. Kali pašyryłasia čutka, što Impieratar abiacaje srebra za bojku na jaho boku suprać sturhijcaŭ, battanijcaŭ i inšych, viadoma ž, našyja maładyja advažnyja chłopcy ŭchapilisia za hetuju mahčymasć. Moj muž, samy advažny i lepšy za usich, vioŭ ich za saboju." />
+    <string id="kz5PJbV1" text="Ja mušu. Za svaje šmatlikija złačynstvy {RADAGOS.NAME}, ty straciš žyccio." />
+    <string id="kzgbBrYo" text="Kali vy vyjšli z schovišča, {RADAGOS.LINK} padyšoŭ da vas, kab pahavaryć." />
+    <string id="L1V8L2N1" text="Tak. Impieratar Nerec prapanavaŭ naniać našych vajaroŭ u jakasci najmitaŭ. Ja nie baču ŭ hetym ničoha drennaha." />
+    <string id="L3Qb6lbp" text="Mirnaje Damova ad Haspadarstva {FACTION}" />
+    <string id="LbSvq3be" text="I jašče adna reč, {?PLAYER.GENDER}siastra{?}brat{\?}. My žadajem, kab ludzi ŭsprymali nas surjozna. Mahčyma, chutka my paviadziom ludziej u boj. Davajcie damo našaj siamji imia i sciah, jak heta robiać šlachcičy." />
+    <string id="LcxfWLgd" text="{PLAYER_BROTHER.NAME} - heta starejšy brat {PLAYER.LINK}." />
+    <string id="lD5Ob3R4" text="Moža heta byŭ luboŭny raman, albo žulnictva ŭ kostkach, albo prosta drenna padabranyja słovy padčas pjanstva z niebiaspiečnym natoŭpam. U lubym vypadku, u adno z padarožžaŭ u horad vy patrapili ŭ niepryjemnasci, z jakich žyvym vas moža vyciahnuć abo chutki jazyk, abo chutkija nohi." />
+    <string id="Lep5YKdt" text="Padčas zniščennia avanharda Nereca, my sustreli vłandyjcaŭ. Ale ŭ vłandyjcaŭ było šmat arbaletčykaŭ, i našyja konnyja łučniki paniesli vialikija straty. Urešcie, zjavilisia braniavanyja impierskija katafrakty i pierabili arbaletčykaŭ. Ale my zachrasli ŭ bitvie z vłandyjskimi rycarami, i voś tut usio stała kryvavym." />
+    <string id="LfH7VXDH" text="Vy zniščyli ŭsie bandy {RAIDER_NAME} u navakołli." />
+    <string id="lIArdHty" text="Tak. Heta dzień kali moj baćka zahinuŭ z-za zdrady battanijcaŭ." />
+    <string id="lJiEsNiQ" text="Praz niekalki hadzinaŭ pasla taho, jak vy pakinuli treniroŭčaje pole, vy natyknulisia na paranienaha čałavieka, jaki lažaŭ pad drevam. Vy padzialilisia z im vadoju i pasprabavali jak maha lepiej pieraviazać jaho rany. Jon skazaŭ vam, što zjaŭlajecca vandroŭnym lekaram. U padziaku za dapamohu jon uručyŭ vam nievialiki bronzavy artefakt, jaki, jak jon skazaŭ, niekali daŭ jamu ŭ vypłatu vajar, moviŭšy tolki, što jon zviazany z Durasciu Nereca Jon padazraje, što artefakt moža ŭjaŭlać vialikuju kaštoŭnasć. Vy vyrašyli daviedacca bolej pra hetaje." />
+    <string id="LKiREaFZ" text="Vy pieramahli {BOSS_NAME} u sumlennaj duele. Jaho ludzi-zmoŭcy haniebna razbiahajucca preč." />
+    <string id="LLJ0oB8i" text="Nastupnaje, słava vašaha kłana pavinna pašyrycca ŭ daleč i absiah, inačaj nichto nie budzie surjezna vas ŭsprymać." />
+    <string id="lLJh7WAT" text="Vy pracavali na kirmašy, pradavali cacki i napoi ažyŭlenym pakupnikam." />
+    <string id="Lmfi0cYk" text="Vy natchnili niekalki padarožnikaŭ zładžana vybiehčy z karčmy na vulicu. Nalotčyki zabili abo pałanili bolšasć, ale vam i vašamu bratu paščasciła ŭratavacca." />
+    <string id="lmG7uRK2" text="Dobra" />
+    <string id="lnAhXvbo" text="Isnuje adzin lekar-vandroŭnik, jaki zachodzić siudy čas ad času. Zavuć jaho Takteas. Lečyć ludziej zadarma... My lubim jaho." />
+    <string id="LpH8SYFL" text="Vašaja siamja była davieranaj radniej battanijskaha pravadyra i siadzieła za jaho stałom u vialikaj zale. Vašy baćka dapamahaŭ pravadyru viesci spravy kłana i trenieravaŭsia z tradycyjnaj zbrojaj battanijskaj elity: dvuchručnym miačom albo falksam i łukam." />
+    <string id="LrItHItu" text="Dobra, brat, budź asciarožnym. Bierahi siabie." />
+    <string id="Lwdkj0hG" text="Tak, ja maju namier vykarystać sciah, kab dapamahčy vyratavać Impieryju." />
+    <string id="LXGXxKqw" text="Ach... Nu, miarkuju, my možam skončyć hetuju šaradu. Ja viedaju, chto dasłaŭ ciabie, i miarkuju, ty viedaješ, chto dasłaŭ mianie. Biassprečna, vy možacie ŭbačyć maje tavary, a potym adčuć ich vostry kaniec na svaim žyvacie." />
+    <string id="MafIe9yI" text="ranniaja stałasć" />
+    <string id="mc78FEbA" text="kampańjonaŭ bajaryna" />
+    <string id="Mcd3ZyKq" text="U vašaj siamji było dastatkovaje ziamli, kab pracharčavać siabie i atrymać nievialiki prybytak. Takija ludzi, jak jany, zjaŭlalisia aporaj ekanomiki haspadarstva, a taksama asnovaj rušennia." />
+    <string id="MDtTC5j5" text="Nie rabicie nam baluča![ib:weary][if:convo_confused_annoyed]" />
+    <string id="MEgLE2kj" text="vašaje ŭmiennie abychodzicca z końmi." />
+    <string id="MfczTFxp" text="Heta vyhladaje padobnym na staroje treniroŭčaje pole lehijanieraŭ. Peŭna, my možam vydatkavać trochi času, kab padciahnuć svaje navyki. Praktyka moža spatrebicca, kali my dahonim nalotčykaŭ." />
+    <string id="mfRbx5KE" text="čytannie i navučannie." />
+    <string id="MFrIHJZM" text="Vašaja siamja była z nievialikaha adhalinavannia rodu emira. Ziemli vašaha baćki davali jamu dosyć prybytku, kab dazvolić sabie kania, ale niedastatkova dla nabyccia brani, patrebnaj dla ŭstupu ŭ ciažkuju vieršnicu. Jon vajavaŭ jak adzin z lohkich vieršnikaŭ, jakimi słavicca pustelnia." />
+    <string id="MJd5agS2" text="Ja raju vam sabrać dosyć vialikaje vojska, bo nieŭzabavie mohuć pačacca vajny z bolš mahutnymi i aŭtarytetnymi haspadarstvami." />
+    <string id="mmQRCHUM" text="Ale ŭzamien ja atrymaju zadavalniennie ad zabojstva hetaha vyradka. Dyk, što skažacie?[if:convo_mocking_revenge][ib:confident]" />
+    <string id="MMv3hsmI" text="Ja nie zładžvaju dueli z handlarami rabami. Chłopcy, u ataku!" />
+    <string id="mN60B07k" text="Vy prajhrali bitvu suprać nalotčykaŭ i nie zmahli pieramahčy siły zmovy. Mnohija tutyjšyja ličać, što vy naklikali na ich niaščascie, i nie chočuć mieć z vami ničoha ahulnaha." />
+    <string id="MnmblprY" text="Dyk, dzie ja mahu znajsci inšyja častki?" />
+    <string id="MOVWOyeh" text="Vidavočna, što vy byli abrany Niabiosami dla vialikaj mety. Ja baču tut zarodki novaj lehiendy.... Dazvolcie mnie zvać vas Sciahanoscam." />
+    <string id="mP3uFbcq" text="było ŭznačalvannie paspiachovaha palavannia na čałavieka." />
+    <string id="MREvo37b" text="Kali vy zmožacie nie spuskać vačej z Takteasa, my budziem vam vielmi ŭdziačnyja. Mažliva, kali jon budzie žyvy i zdarovy, to zmoža raskazać vam bolej pra svaje pošuki." />
+    <string id="mtiaY2Pa" text="Jak ja mahu padtrymać isnaje haspadarstva?" />
+    <string id="mU1bC1mp" text="Vy sutyknulisia z partyjaj nalotčykaŭ." />
+    <string id="MU2O1SaZ" text="Znadvorku vas čakaje vojska," />
+    <string id="muTb15Io" text="Ja nie viedaju, dzie znachodziacca inšyja častki, peŭna, vam daviadziecca praciahnuć pošuki.[sp:/Sounds/VO/mainquest/mntemp_q01_10.ogg]" />
+    <string id="mWMkslbn" text="Jon pryvioŭ nas siudy. Dzie maje brat i siastra?" />
+    <string id="mxKhvbn7" text="Vy vyrašyli abjadnać Impieryju." />
+    <string id="N5Qg5ick" text="Vy skazali {MENTOR.LINK}, što stvorycie svajo ŭłasnaje impierskaje haspadarstva. Vy možacie zrabić hetaje praz ekran Kłana, pasla taho jak vykanajecie ŭsie patrabavanni. {?MENTOR.GENDER}Jana{?}Jon{\?} choča pahavaryć z vami, pasla taho jak vy dasiahniecie pospiechu." />
+    <string id="N66QkYv8" text="Vy paspiachova pieramahli treniera-navika. Idzicie da treniera-vieterana." />
+    <string id="NdkqUnXb" text="Kab mieć šaniec stać impierskim pretendentam, vy musicie vykanać niekatoryja ŭmovy." />
+    <string id="ngazFofr" text="Vas zaŭsiody pryciahvali žyvioły, i vy pravodzili jak maha bolš času ŭ viaskovych stajniach. Vy ŭmieli supakojvać koniej, i časam vas vyklikali dla taho, kab zaprehčy novych žarabiat. Vy vyvučyli asnovy vieterynarnaha majsterstva, mnohaje z jakoha dastasoŭna i da ludziej." />
+    <string id="NGbgfPoP" text="Ja byŭ tam jak i mnohija chuzaity. Hałoŭnym čynam kłan chierhitaŭ, hałodny da słavy. Ja taksama byŭ maładym i hałodnym da chvały, tamu byŭ z imi." />
+    <string id="ngFVgwDD" text="vajaroŭ-raboŭ" />
+    <string id="NItH4oL6" text="Dobra, kali jany ŭsio jašče rabujuć, to, mahčyma, padzialilisia na drobnyja hrupy. Spadziajusia, nam nie daviadziecca zmahacca z usimi adrazu. Kali my zmožam naniać abo pierakanać inšych ludziej dałučycca da nas, to atrymajem pieravahu." />
+    <string id="nNavD2NO" text="Vy pakinuli haspadarstva, jakoje stvaryli. Vy možacie padtrymlivać tolki tyja haspadarstvy, častkaj jakich zjaŭlajeciesia." />
+    <string id="nOfSqRnI" text="na treniroŭčym poli haradskoha dazoru." />
+    <string id="nOLFHL3x" text="Vy i vašyja ludzi pieramahli {BOSS_NAME} i inšych zmoŭcaŭ, jak taho {?MENTOR.GENDER}prasiła{?}prasiŭ{\?} {MENTOR.LINK}." />
+    <string id="nrdl5QaF" text="Moj špijon zaŭvažyŭ vajaroŭ zmoŭcaŭ u łahiery... Da ich dałučylisia niekatoryja miascovyja bandyty. Moj špijon nie viedaje, ci čakajuć jany napadu, tamu ja prašu vas być asciarožnym i hatovym da ŭsiaho. Samo saboju razumiejecca, ja ŭpeŭnieny, što vy dašlocie mnie ŭsie dakumienty, jakija zmožacie znajsci, kab ja smoh ich vyvučyć. Idzicie imkliva i viartajciesia paspiachova." />
+    <string id="NvkWtb8f" text="Znajdzicie schovišča bandy {RADAGOS.NAME} i zniščycie jaho" />
+    <string id="NzQq2qp1" text="Sabiarycie {PARTY_SIZE} Vajaroŭ" />
+    <string id="o791xRtb" text="Takim čynam, da spravy razburennia hetaj praklataj Impieryi. Jak ja razumieju, vy majecie dva varyjanty..." />
+    <string id="oA4iTPyV" text="Vy sabrali dosyć infarmacyi." />
+    <string id="oa4XFhve" text="Padarožža ŭ Viosku {VILLAGE_NAME}" />
+    <string id="oAoTaAWg" text="pieršy" />
+    <string id="oaSTbNwz" text="Dyk, vy ŭžo pryniali vynachod?" />
+    <string id="OffNcRby" text="Dobra. Davajcie rušym u darohu." />
+    <string id="Og8nep1w" text="Jany pierastaralisia padčas pierasledu impierskich łučnikaŭ. Lohkaja piachota suprać našych rycaraŭ, nie było anijakaj bitvy. Voś što ja vam skažu: dzieviać dziasiatych pieramohi - heta vykarystać pamyłku voraha. Nierazvažnyja hinuć hetak ža chutka, jak i słabyja, i zasłuhoŭvajuć hetaha nie mieniej." />
+    <string id="ok8lSW6M" text="vašuju maładosć" />
+    <string id="OKgsM4nr" text="Ja klanu hetaje imia. Jano adniało ŭ mianie muža, dvuch bratoŭ, bolej stryječnikaŭ, čym ja mahu zličyć." />
+    <string id="oKknZdXn" text="Vy pavinny dałučycca da haspadarstva, jakoje žadajecie padtrymać, i pahavaryć z haspadarom. Nijakaje z ich nie viernie pałajski narod, ale kančatkovaja pieramoha adnoha z ich była b prydatnaj adpłataju." />
+    <string id="oL9BdThD" text="Abiarycie adnaho i paklaniciesia jamu ŭ viernasci. Kali pačałasia hetaja hramadzianskaja vajna, ja byŭ trochi razhubleny... Rydžyja była samym razumnym haspadarom, Haryjos, napeŭna, lepšym vajarom, a Lukan, zdavałasia, lepiej za ŭsich razumieŭ našyja zakony i tradycyi. Zrazumieła, vy možacie mieć na hety kont svoj ŭłasny pohlad." />
+    <string id="oMbOIPc9" text="dałučylisia da zastrelščykaŭ." />
+    <string id="OMrnTIe0" text="Vy ratujecie niekalkich pałonnych, jakich ciahnuli z saboj nalotčyki. Jany vyhladajuć zmardavanymi i zniasilenymi. Vy dajecie im trochi vady i chleba, i praz peŭny čas adzin z ich, chistajučysia, ustaje na nohi i padychodzić da vas." />
+    <string id="ORnjaMlM" text="Vy byli razbity nalotčykami, ale vašy brat vyratavaŭ vas. Adnak zdajecca, što jany nie zbirajucca kudyści sychodzić, tamu vam varta atakavać iznoŭ, jak tolki budziecie hatovyja.{NEWLINE}U vašaj partyi pavinna być nie mieniej {NUMBER} čalcoŭ. Kali ich niama, viarniciesia ŭ viosku i rekrutujcie jašče niekalki vajaroŭ." />
+    <string id="Os79KwFa" text="Ja byŭ u avanhardzie. Nerec vidavočna viedaŭ, što battanijcy płanavali zasadu, jamu paviedamili vyviedniki chuzaitaŭ. Ale jon hetak i nie znajšoŭ čas paviedamić nam pra hetaje. Tak my išli ŭharu, uzdoŭž vydatnaha lasnoha ručaja, pakul z usich bakoŭ nie pačali sypacca battanijskija streły." />
+    <string id="OS8YjyE5" text="Vy pavinny sabrać usie častki Sciaha Cmoka, pierš čym zmožacie abrać svoj šlach." />
+    <string id="OwcgxRXB" text="Sasłabiełaja vajnoju, haspadarstva {FACTION} raspałasia, a jaje kłany pierajšli na bok susiednich haspadarstvaŭ." />
+    <string id="oX2aoilb" text="{MENTOR.NAME} viedaje pra ŭzvyšennie vašaha haspadarstva {KINGDOM_NAME}. Chodziać čutki, što {MENTOR.NAME} płanuje zviesci na nul vašy prahres. Budźcie hatovyja!" />
+    <string id="p0fmZY5r" text="Tutejšy starosta, napeŭna, zmoža nam dapamhčy. Davaj pasprabujem znajsci jaho..." />
+    <string id="p2KIhGbE" text="haradskich kavalej" />
+    <string id="p3Kia1OO" text="Ja nieadkładna adviadu {LITTLE_SISTER.LINK} i {LITTLE_BROTHER.LINK} u {SETTLEMENT_LINK}. Tam jany buduć u biaspiecy." />
+    <string id="p4qJ4KSm" text="Kali vam patrebna dadatkovaja infarmacyja, isnuje dva čałavieki, z jakimi vam varta pasprabavać pahavaryć. {IMPERIAL_MENTOR.NAME} pracavała nieaficyjnym špijonam Nereca. Jana žyvie niedaloka ad {IMPERIAL_MENTOR_SETTLEMENT}." />
+    <string id="pa9LrHln" text="Narešcie, my tut. Dyk voś... Nam patrebna ježa, a pasla, peŭna, niekalki čałaviek, jakija pojduć z nami." />
+    <string id="pCNSEPEP" text="Ty zbieh? Dzie moj brat? Što zdaryłasia?" />
+    <string id="PDlaPVIP" text="{PLAYER_LITTLE_BROTHER.NAME} - heta małodšy brat {PLAYER.LINK}." />
+    <string id="peNBA0WW" text="Pieradumovy Historyi" />
+    <string id="PiKISvfu" text="{PLAYER.NAME}! Ja viedaŭ, što ty pryjdzieš. Słava Niabiosam. Čort, {?PLAYER.GENDER}siastra{?}brat{\?} ciabie ništo nie spynić! Ja lublu ciabie, {?PLAYER.GENDER}siastra{?}brat{\?}.[if:happy][ib:demure]" />
+    <string id="PJ5C3Dim" text="Zmova {ANTIIMPERIAL_MENTOR.NAME}" />
+    <string id="PKhcPbBX" text="Vašaja siamja była častkaju kačavoha kłana, što kryžavaŭ pustečy pamiž rečyščami i studniami, kab karmić svaje statki kozaŭ i viarbludaŭ u kołkich chmyzniakach Nachasy." />
+    <string id="PlpNTQqf" text="Ja viedaju, dzie ciapier znachodzicca {HIDEOUT_BOSS.LINK}. Kali vy dadicie zhodu, my možam napasci razam i vyratavać vašych svajakoŭ." />
+    <string id="pOuGX9j0" text="Vy majecie adnu častku sciaha, ale sama pa sabie jana bieskarysnaja. Vam treba znajsci inšyja častki. Štości vielmi kaštoŭnaje atrymacca, tolki kali vy zmožacie sabrać usie častki razam." />
+    <string id="PQgzfHLk" text="Dyk voś. Da mianie dašli čutki, što vy zdabyli hety vialiki artefakt." />
+    <string id="Pus87ZW2" text="Vy znajšli {BANNER_PIECE_COUNT} častku sciaha!" />
+    <string id="pVKkclVk" text="Uzajemadziejannie abmiežavana na etapie navučannia. Hetaje ŭzajemadziejannie adklučana." />
+    <string id="pX5cx3b4" text="Ja nie žadaju vam licha. My palujem na hrupu nalotčykaŭ, što pałaniła našych brata i siastru." />
+    <string id="PyVqDLBu" text="Vašyja baćki nie dali vam šmat hrošaŭ, ale jany pakinuli roŭna stolki, kab vy zmahli atrymać pazyku na vialikuju sumu pad budaŭnictva nievialikaj majsterni. Vy viarnuli toje, što ŭziali ŭ pazyku, i pradali svajo pradpryjemstva z prybytkam." />
+    <string id="Q2obAF4E" text="Dyk voś! U vas šmat pracy. Ja budu čakać dobrych navinaŭ. Viartajciesia da mianie, kali pažadajecie abviascić svietu pra vałodannie sciaham." />
+    <string id="q80FFaBj" text="Jašče isnuje {ANTI_IMPERIAL_MENTOR.NAME}. Jon byŭ jaho ciełaachoŭnikam. Zaraz žyvie poruč z {ANTI_IMPERIAL_MENTOR_SETTLEMENT}. Chacia ja čuŭ, što z toha času jon mocna zmianiŭsia." />
+    <string id="qa0o7xaj" text="Niezaležnasć Kłana" />
+    <string id="qAbMagWq" text="pradavali tavary na kirmašy." />
+    <string id="Qb0wsarP" text="Tam byŭ vajar z Banu Sarran, jakoha zvali Nimr. Jon byŭ advažnym, ale fanaberlivym. Zrazumieła, moładź jaho lubiła. Jon žadaŭ uznačalić ludziej, kab zmahacca z Impieryjaj, i chacia dla nas heta było niavyhadna, Unkid dazvoliŭ jamu. Unkid časam byvaje słabym." />
+    <string id="QbsDYITB" text="Što ty narabiŭ, što ty narabiŭ. Tady viadzi.[ib:closed][if:convo_nonchalant]" />
+    <string id="Qdz5Hely" text="Baraniciesia znizu." />
+    <string id="QF8B6XFS" text="Dobra. Davajcie padzielimsia i pašukajem małych paasobna. Ja dašlu tabie paviedamlennie, kali znajdu ich raniej..." />
+    <string id="qg05CSZb" text="Vy pieramahli ŭsich nalotčykaŭ la {MENTOR.LINK}. Ciapier u šmatlikich ludziej zjaviłasia nadzieja, što vy zmožacie viarnuć mir i roskvit u rehijon." />
+    <string id="qhAhPWdp" text="vy arhanizavali padarožnikaŭ, kab vydracca vonki." />
+    <string id="qIltCuBe" text="Adpraŭlajsia ŭ darohu. Jak tolki ja znajdu małych, ja znajdu ciabie." />
+    <string id="QLgkR3qN" text="Vy paspiachova skončyli puć za ({TIME_SCORE}) siekundaŭ. Vy atrymali ({PENALTY_SECONDS}) siekundaŭ štrafu ad ({MISSED_TARGETS}) prapuščanych celaŭ." />
+    <string id="qlOuiKXj" text="u vas była słavutaja vychadka." />
+    <string id="qMUfOtyk" text="Vy pahavaryli z {HERO.LINK}." />
+    <string id="qnqdEJOv" text="Vy nazirali, jak haradskaja varta trenierujecca ŭ stralbie i ŭdaskanalvaje svaje płany pa abaronie scienaŭ u vypadku abłohi." />
+    <string id="qNR8WKcX" text="Kab padtrymać haspadarstva Sciaham Cmoka, spačatku treba dałučycca da jaho." />
+    <string id="qNZFkxJb" text="Vašaja siamja była handlarami ŭ adnym z hałoŭnych haradoŭ haspadarstva. Jany arhanizoŭvali karavany ŭ susiednija harady, byli aktyŭnyja ŭ miascovaj handlovaj hildyi." />
+    <string id="qoA4UPly" text="Ništo nie zmoža viarnuć pałajski narod. Zaraz jany ŭžo stali impiercami. Ale heta abraza dla našaha imia, dla našych bahoŭ, dla našaj pamiaci, što haspadarstva, jakoje razburyła našyja sviatyni i zamki, budzie isnavać i kvitnieć." />
+    <string id="QOVLkdTp" text="Vajskovaja partyja zmoŭcaŭ ciapier patruluje kala {SETTLEMENT}." />
+    <string id="qp2zYfua" text="Ja spadziavaŭsia znajsci tut jašče skarby, ale, zdajecca, spravy ŭ {RADAGOS.NAME} i jaho bandy išli nie nadta dobra." />
+    <string id="qPg3IDiq" text="Vašaja siamja pachodziła z handlovaha kłana, jaki daminavaŭ u haradach uschodniaj Kalradyi da zavajovy chuzaitaŭ. Jana chutka prystasavalisia da novych haspadaroŭ. Padtrymlivali handlovyja šlachi i zabiaspiečvali pastuplennie prybytkaŭ ad myta, jakija raniej pastupali ŭ impierski skarb, a zaraz u skarb chanstva." />
+    <string id="QrYjPUEf" text="vašuju ŭvaha da detalaŭ." />
+    <string id="qV1e0x8i" text="Što takoje Durasć Nereca?" />
+    <string id="QVkuaezc" text="Palavannie na partyju zmoŭcaŭ" />
+    <string id="QxeKZ3nE" text="Dasiahnuć {CLAN_TIER} uzroŭniu kłana" />
+    <string id="R3CnF55p" text="Tak... Chto lezie ŭ mai spravy i zabivaje maich padnačalenych?[if:idle_angry][ib:warrior]" />
+    <string id="R4Gqskgq" text="Pieramoha" />
+    <string id="R5kLv5kg" text="Ja toj, kaho kličuć pałajciem. Pałajskaja mova - heta mova, na jakoj bolej nie hutarać, za vyniatkam niekatorych starych. Navat słova Pałajec zjaŭlajecca impierskim. My - narod, jaki zabyŭsia, chto my takija." />
+    <string id="r8ZLabb0" text="Ja sabraŭ usie častki Sciaha Cmoka. Što zaraz?" />
+    <string id="rbjjDYXj" text="Vy prajhrali nalotčykam sa schovišča, ale vam udałosia zbiehčy. Vam treba pačakać, kab mieć mahčymasć iznoŭ atakavać." />
+    <string id="RbXiEdXk" text="Dasiahnuć 1 uzroŭniu kłana" />
+    <string id="rcoueCmk" text="vašaje junactva" />
+    <string id="rCX81DDR" text="Impieryja zniščana!" />
+    <string id="RDfXuVxT" text="drobnych ziemleŭłasnikaŭ" />
+    <string id="rDuegB1L" text="Narešcie vy prybyli! Mnie treba skazać vam niekalki rečaŭ pierad atakaj.[ib:confident][if:convo_nonchalant]" />
+    <string id="RefpTQpr" text="Peŭna. Da pabačennia, {RADAGOS.NAME}..." />
+    <string id="RF3NoR3d" text="Zdajecca, jon kantralavaŭ nie adnu bandu rabaŭnikoŭ hetaha kraju. Kali b u hetych chłopcaŭ byli tvaje svajaki, dumaju, jon by viedaŭ." />
+    <string id="rfkKxdxp" text="Vy taksama pahavaryli z {ANTI_IMPERIAL_MENTOR.LINK}. Zaraz vy musicie pryniać rašennie." />
+    <string id="Ri6NmpEE" text="Ja nikoli nie zabudu, jak prybieh pasłannik, kab paviedamić mnie, što moj baćka pamior. Ale ja viedaŭ, što pavinien prahłynuć svajo hora, tamu što ciapier ja haspadar. Ja paskakaŭ u ruiny impierskaha łahiera, kab uziać ich sciah u jakasci trafieja, majoj spadčyny, zavajavanaj baćkam i pieradadzienaj mnie. Voch, niekatoryja bajary byli niepakorlivyja. Ale z toj pary ja pakazaŭ im, što ja haspadar." />
+    <string id="rinefpgo" text="Vy prybyli ŭ viosku. Tut vy možacie nabyć trochi ježy i naniać niekalki čałaviek dla palavannia na nalotčykaŭ. Spačatku zajdzicie ŭ viosku i pahavarycie sa starostam." />
+    <string id="RJ9NbuYr" text="Dyk, vy žadajecie, kab ja sabraŭ hrošy na vykup małych?" />
+    <string id="RKVNvimC" text="pasvili aviečak." />
+    <string id="RmbWW6Bm" text="Vy byli dosyć bujnym i značnym junakom, tamu varta pravadyra dazvoliła vam trenieravacca poruč z joj, kab adnojčy vy dałučylisia da jaje." />
+    <string id="rMem50oz" text="Ja paklaŭsia, što hetaja Impieryja nie pieražyvie hetaj hramadzianskaj vajny, kali ja zmahu niešta zrabić, kab spynić jaje. I paviercie mnie, kali b u mianie byŭ hety sciah, ja b moh zrabić vielmi šmat." />
+    <string id="rmMcwSn8" text="Vy dapamahali svajoj siamji viesci spravy, adpraŭlalisia na kirmaš, kab rabić zakupy i sačyli za prybycciom karavanaŭ." />
+    <string id="rmyXSgy7" text="Pa-pieršaje, vašy kłan pavinien być niezaležnym. Vy nie možacie znachodzicca ŭ isnym haspadarstvie." />
+    <string id="RtryETdA" text="Kali jany paabiacali padtrymać nas u bitvie, my vieryli, što jany buduć stajać z nami ŭ scianie ščytoŭ, jak mužčyny. Ale, biassprečna, heta nie šlach battanijcaŭ. Jany zładzili niejkuju lasnuju chitrasć na ŭzhorkach, zabili avanhard Nereca i, biez sumnievu, praviali astatak bitvy, kryča, vychvalajučysia i siekučy hałovy miortvym." />
+    <string id="rTYNL1LB" text="{MENTOR.LINK} {?MENTOR.GENDER}raskazała{?}raskazaŭ{\?} vam pra hrupu zmoŭcaŭ, jakija dziejničajuć sa schovišča ŭ navakołli {LOCATION_LINK}. Vy pavinny adpravicca tudy i zdziejsnić nalot na schovišča z nievialikaj hrupaj vajaroŭ, kab zaspieć bandytaŭ znianacku." />
+    <string id="RuvSk3QT" text="Vy supravadžali miascovaha palaŭničaha, kali jon adpraŭlaŭsia ŭ dzikuju pryrodu, i dapamahali jamu ładzić pastki i łavić drobnych žyvioł." />
+    <string id="RwlDeE9t" text="Vy taksama pahavaryli z {IMPERIAL_MENTOR.LINK}. Zaraz vy musicie pryniać rašennie." />
+    <string id="rY0fdQSb" text="Nie, ja ŭsio jašče pracuju nad hetym..." />
+    <string id="S1yCTPrL" text="Heta adna z samych kaštoŭnych pasłuhaŭ u maim žycci. Vialiki dziakuj." />
+    <string id="S5Dn2K3m" text="Vy nie zmahli spynić zmovu." />
+    <string id="s8PNllPN" text="było vyratavannie vašaha haradskoha kvartału ad pažaru." />
+    <string id="sb4gg8Ak" text="ziemleŭłasnikaŭ" />
+    <string id="scjogyUD" text="Stary haspadar Vadzinsłaŭ byŭ dosyć advažny. Jon pavioŭ usich nas u boj. Ja stajaŭ poruč z maim baćkam, kali my hladzieli ŭ vočy impiercam paŭzvierch našych ščytoŭ. Heta było padobna na kožnuju bitvu, dzie sustrakajucca scieny ščytoŭ, napor i šturšok, zmahannie za toje, kab utrymacca na nahach, ale mnie ciažka apisać hetaje. Skažam tak, heta toj vid bitvy, jaki sturhijcy zvyčajna vyjhrajuć." />
+    <string id="sejEf69A" text="Ja nie čuŭ saładziejšaj muzyki za hruk našych kapytoŭ, kali my abrynulisia na esierajskuju navałač. My nakinulisia na ich, jak sokał nakidvajecca na trusa." />
+    <string id="SF7dqoEe" text="Viadoma, fanaberystasć Nimra padvoiłasia, i jašče raz padvoiłasia. I tady jon nanios nam vialikuju abrazu. Ja nie budu havaryć, što heta była za abraza, tamu što jaje bolej nie isnuje. My zniščyli jaje. Tradycyjnym sposabam. Vy možacie raspytać pra hetaje ŭ niekaha inšaha." />
+    <string id="SFJFIaAD" text="Tak... Vialikaja pieramoha Karala Kaładoha... Chto advažycca skazać niešta, kab azmročyć jaho blask?" />
+    <string id="ShG19Xhi" text="Dziakuj..." />
+    <string id="sJeYHMGG" text="Vy zjadnali Impieryju." />
+    <string id="sJoO1JzN" text="Kali impiercy atrymali dosyć, jany złamalisia i pabiehli da vałaŭ. Adtul jany kidali drotyki, kamiani i svoj praklaty ahoń. Nam daviałosia padymacca pa lesvicach, adnoj za druhoj. Vadzinsłaŭ atrymaŭ bułavoju i ŭpaŭ; tady moj baćka palez uvierch, siekučy na chadu, zhurtavaŭ nas i pryvioŭ da pieramohi." />
+    <string id="SmVwMrUM" text="Sciah Kalradyjosa - častka lehiendy. Kažuć, što jaho nasiŭ Kalradyjos Vialiki, jaki pieršym pryvioŭ svoj narod na hetuju ziamlu, kab zavajavać jaje i spustošyć. Lehienda apaviadaje, što nivodnaje vojska, uznačalenaja sapraŭdnym synam Kalradyjosa, nie pacierpić parazy ŭ bitvie." />
+    <string id="sn3Eabme" text="Zrazumieła. Ja nie była sviedkam hetaj bitvy, ale moj muž Arenikos časta raskazvaŭ pra jaje." />
+    <string id="SpJqhEEh" text="bardaŭ" />
+    <string id="sSaZVD2e" text="Moj baćka ŭziaŭ impierski sciah drakona z ruk miortvaha Nereca - heta viadomaja historyja, ale potym maleńki prync Rahańvad pasprabavaŭ pretendavać na jaho. Moj baćka złamaŭ sciah ab kalena, špurnuŭ u Rahańvada i skazaŭ jamu znajsci sabie ŭłasnyja cacki dla hulni. Cha! Heta byŭ dobry, dobry dzień." />
+    <string id="StLYbEQZ" text="Nam patrebna dapamoha. Niejkija nalotčyki pałanili našych małodšych brata i siastru. My dumajem, što jany mahli iści hetym šlacham." />
+    <string id="str_continue" text="Praciahvajcie..." />
+    <string id="SVcr0EJM" text="Karavan ruchajecca ŭ {TO_SETTLEMENT_LINK} z {FROM_SETTLEMENT_LINK}" />
+    <string id="SvYCz6z6" text="Vy prajhrali. Vy možacie pasprabavać iznoŭ dla hetaha ŭzajemadziejničajcie sa stojkaju dla zbroi." />
+    <string id="Sw8OxnNr" text="svajakoŭ emira" />
+    <string id="sYuN6hPD" text="Usie haspadarstvy Kalradyi razumiejuć kaštoŭnasć dobraj lohkaj vieršnicy i abaviazkova rekrutujuć kačeŭnikaŭ i pamiežnych žycharoŭ, jakija vałodajuć navykami dla vykanannia hetych abaviazkaŭ. Vy byli nahetul dobrym vieršnikam, što vašyja susiedzi dapamahli vam nabyć maleńkaha poni i zviazak drotykaŭ, kab vy zmahli vykonvać svaje abaviazki rušenca." />
+    <string id="t71lPdyb" text="Jak heta?" />
+    <string id="T7m7ReTq" text="palavali na drobnuju dzičynu." />
+    <string id="T7OTmJUp" text="{MENTOR.LINK} maje paviedamlennie dla vas" />
+    <string id="T7ye4wUT" text="Karol Erył znik padčas palavannia, i karalom staŭ Kaładoh. Jon pavioŭ plamiony na vajnu. Och, my byli ŭ nieciarpienni, niehledziačy na toje, što Erył skłaŭ mirnuju damovu z Impierataram zamacavanuju klatvaju. My byli aslaplenny pierspiektyvaju pomsty, chto turbavaŭsia ab sviaščennym słovie abo honary?" />
+    <string id="T8naYoGH" text="Pahavaryć sa Šlachtaj" />
+    <string id="taOCFKtZ" text="Vam treba rekrutavać bolej vajaroŭ, kab spravicca z partyjaj nalotčykaŭ. Viarnicisia ŭ viosku, kab rekrutavać bolej vajaroŭ." />
+    <string id="TB20aFsf" text="Vierahodna vy viedajecie majo imia -  {CONVERSATION_HERO.FIRSTNAME}. Ja nie viedaju, na jaki čort vy mianie šukajecie, ale majo minułaje žyccio ŭ jakasci impierskaj sabaki na kaleniach skončyłasia." />
+    <string id="tBGtavMG" text="Bolšasć z tych chto pajšoŭ byli chierhitami, maładym kłanam. Ich rod nie padobny na našy. Jany zaŭsiody imknulisia prajavić siabie. U kožnym razie, padčas bitvy ichni nojan, Sołun, by zabity razam z bolšasciu ludziej jaho domu. Što ja mahu skazać? Praha da chvały niebiaspiečna jak da samoha prahnaha, hetak i da atačajučych jaho ludziej." />
+    <string id="TbNRtUjb" text="było palavannie na niebiaspiečnaha zviera." />
+    <string id="TcRH7abK" text="Kali vy adnavicie ŭsie častki, viarniciesia da mianie, i ja dapamahu vam vykarystać ich." />
+    <string id="TeMExjrH" text="Hetaja opcyja adklučana padčas vykanannia ciapierašniaha aktyŭnaha kvesta." />
+    <string id="tF6VeYaA" text="Kali vy pieramožacie, ja abiacaju, što majo vojska nie razdušyć vas." />
+    <string id="tGEStbxb" text="suplamiennikaŭ" />
+    <string id="TH6L7OXu" text="Tady vy zmožacie viarnucca, kali ŭsio vyrašycie.[sp:/Sounds/VO/mainquest/mntemp_q01_12.ogg]" />
+    <string id="tI8ZLtoA" text="ramantavali prajekty." />
+    <string id="TIaVyqMx" text="Rady bačyć, što vy znajšli toje, što vam treba. Zaraz pra pytannie, jakoje ja zhadvaŭ raniej...[if:convo_grave]" />
+    <string id="tJQ5oajd" text="Dalej, vašy kłan pavinien być vielmi znakamitym, inačaj za vami nichto nie pojdzie." />
+    <string id="TkgLEDRM" text="handlaroŭ" />
+    <string id="tkJD40hE" text="Nu, heta zojmie peŭny čas. Viartajciesia, kali budziecie hatovyja." />
+    <string id="TKpFB4qN" text="Impieratar Nerec uznačaliŭ vojska abjadnanaje z chuzaitami i esierajcami dla zmahannia z kaalicyjaj sturhijcaŭ, battanijcaŭ i vłandyjcaŭ." />
+    <string id="tkXKef0Z" text="Ja taksama žadaju bačyć Impieryju zniščanaj." />
+    <string id="TLaxmQDF" text="Biez sumnievu, vy zahinicie ad majho miača, ale nie sionnia." />
+    <string id="TLRyyRaW" text="Zakuplena {GRAIN} adzinak" />
+    <string id="TNxWBS07" text="Siekundaŭ da pačatku boju: {REMAINING_TIME}" />
+    <string id="TPoK3GSj" text="badziahaŭ" />
+    <string id="tRIrbTvv" text="bandytaŭ z haradskich zavułkaŭ" />
+    <string id="TRwgSLD2" text="zbirali travy ŭ dzikaj pryrodzie." />
+    <string id="tRzjuX0E" text="Jak ja mahu padtrymać isnaha pretendenta na tron Impieryi?" />
+    <string id="tsjQtWsO" text="Dziakuj, što znoŭ vyratavali mianie. Spadziajusia, našyja šlachi jašče pierakryžujucca!" />
+    <string id="tTb28jyU" text="Mnohija battanijcy vajujuć jak kierny, univiersalnyja vajary, jakija mohuć jak atakavać liniju voraha svaimi dzidami, hetak i dałučycca da apošniaj kryklivaj ataki, kali vorah sasłabnie." />
+    <string id="tTLvo8sM" text="Uzrovień Kłana" />
+    <string id="tVlZTOst" text="Vy abrali inšy šlach." />
+    <string id="tWwXEWh6" text="Vykarystajcie partret, kab pahavaryć i ŭvajsci ŭ misiju." />
+    <string id="tzkclhXs" text="Jak my pavinny rychtavacca da bitvy?" />
+    <string id="tzsZTcWd" text="Jakoje haspadarstva ja pavinien padtrymać?" />
+    <string id="TZZX9kWf" text="{MENTOR.LINK} prapanavaŭ padtrymać impierskaje haspadarstva pieradaŭšy jamu Sciah Cmoka." />
+    <string id="u1Pkt4HC" text="Nalotčyki" />
+    <string id="UCoOMWaj" text="Hladzicie, usie majuć pieravahi. Na pačatku vajny, na moj pohlad, Rydžyja lepiej za ŭsich razumieła, jak kiravać, Haryjos byŭ najdužejšym vajarom, a Lukan lepiej za ŭsich razumieŭ našyja tradycyi. Pa praŭdzie kažučy, ja nie zmoh vyznačycca." />
+    <string id="UdHL9YZC" text="Nu-nu, chiba heta nie {?PLAYER.GENDER}znakamitaja{?}znakamity{\?} {PLAYER.LINK}! Vy byli našaj stremkaju peŭny čas. Dobra, što vy ciapier tut. Heta pazbavić nas ad patreby šukać vas.[if:idle_angry][ib:warrior]" />
+    <string id="UDL0v1bR" text="Ja liču, što maju častku Sciaha Cmoka Kalradyjosa." />
+    <string id="ueCm5y1C" text="Vašaja siamja vałodała ŭłasnaj majsterniaj ŭ horadzie, vyrablała tavary z syraviny, pryviezienaj z sielskaj miascovasci. Vašy baćka hraŭ aktyŭnuju, choć i niaznačnuju rolu ŭ haradskoj radzie, a taksama słužyŭ u rušenni." />
+    <string id="uhYXopnJ" text="Vy skončyli padrychtoŭku?" />
+    <string id="UjyZ7GFk" text="Uražaje, vielmi ŭražaje. A zaraz usio stanie cikaviej." />
+    <string id="Uk7F483P" text="Vy byli pieramožany {BOSS_NAME} u duele. Vašyja ludzi adniesli vašaje paranienaje cieła ŭ biaspiečnaje miesca. Jak i damaŭlalisia, zmoŭcy chutka syšli i biassledna znikli." />
+    <string id="UkNUuyr1" text="Pieramožanyja Partyi" />
+    <string id="ULn7iWlz" text="Heta budzie mahutnaja pryłada ŭ našych rukach. Ludzi pavierać, što Niabiosy majuć namier adnavić Impieryju Kalradyi." />
+    <string id="uNgu02FH" text="Jany zabrali i vašych ludziej? Žal hetaje čuć. Hetyja vyradki i ŭ hetych krajach narabili niamała zabojstvaŭ i rabavanniaŭ.[if:convo_grave]" />
+    <string id="UnjgFmnE" text="Vy prysłuchalisia da parady {MENTOR.LINK} i stvaryli impierskaje haspadarstva. Vy možacie skazać {?MENTOR.GENDER}joj{?}jamu{\?}, što vy budziecie padtrymlivać svajo ŭłasnaje haspadarstva." />
+    <string id="unOLk4PY" text="Takim čynam. Chto vy, i što vas pryviało da mianie?" />
+    <string id="UpUqL368" text="Jaki padluha, a? Navat u hetaj prafiesii ašukvać svaich paplečnikaŭ nie pryniata." />
+    <string id="upyNhwZ9" text="Tak, ja zbirajusia vykarystać sciah, kab dapamahčy zniščyć Impieryju." />
+    <string id="URgZ4ai4" text="Vašaja siamja była čalcom siaredniaha ranhu adnaho z kłanaŭ chuzaitaŭ. U jaje było niekalki ŭłasnych statkaŭ, ale nie było bahacciaŭ. Kali arda chuzaitaŭ była vyklikana na boj, jon vajavaŭ z konnymi łučnikami, stralajučy, kalasujučy i vymotvajučy voraha pierad apošnim udaram ułanaŭ." />
+    <string id="US0VAHiE" text="Vy zniščyli partyju {RAIDER_NAME}." />
+    <string id="uvbCyLiR" text="Heta praŭda? Dyk, heta cikava." />
+    <string id="UVuwofhS" text="Kłany ŭznikajuć, kłany znikajuć. Ja abaviazany pierad usimi chuzaitami. Hladzicie na heta tak. Kali b nie smierć muža, šlachcianka Miesui nikoli b nie atrymała ŭ spadčynu haspadarannie nad chierhitami. Smierć stvaraje mahčymasci. Vyžyŭšyja pasla vialikaj bitvy robiać vyhlad, što smutkujuć, ale nasamreč jany radujucca." />
+    <string id="v48N6h1t" text="haradskich ramiesnikaŭ" />
+    <string id="V5K8RpAa" text="List ad {MENTOR.LINK}: “Vitaju, {PLAYER.NAME}. U nas zjaviłasia novaja prablema. Ja atrymaŭ paviedamlenni ad maich ahientaŭ ab niezvyčajnaj dziejnasci bandytaŭ kala {TARGET_SETTLEMENT}. Zdajecca, jany zdziajsniajuć nabiehi i zabivajuć padarožnikaŭ, {?IS_EMPIRE}jakija znachodziacca pad abaronaju Impieryi{?}jakija nie znachodziacca pad abaronaju Impieryi{\?}, a astatnich pakidajuć u spakoi. Heta vielmi padobna na pracu {NEMESIS_MENTOR.LINK}, teraryzavać miascovych handlaroŭ, kab nichto nie adstojvaŭ našuju spravu. Raju jak maha chutčej zniščyć hetych bandytaŭ. Heta było b dobraje pasłannie, jak našym chaŭrusnikam, hetak i našym voraham.”" />
+    <string id="vaLehwRl" text="My dali klatvu Impieryi, dałučycca da ich u vypadku napadu. Mnie zdavałasia jasna, što my pavinny byli vykanać svaju klatvu, što battanijcy i sturhijcy byli ahresarami, ale zaŭsiody isnujuć miesca dla sprečak pra detali. U rešcie rešt našyja barony nie žadali vajavać z Impieryjaj, tamu jany supraciŭlalisia pryjsci joj na dapamohu." />
+    <string id="VbJvL8yB" text="Och, ty možaš mnie nie vieryć. Ale ja tabie patrebny, i ja liču, što ŭ ciabie dastatkova ludziej, kab chutka i lohka pierarezać mnie horła u vypadku patreby, naprykład, kali ja zaviadu ciabie ŭ pastku. Mnie patrebien tvoj davier, bo ty moj srodak pomstvy, a nie paplečnik." />
+    <string id="vCBuF6dq" text="Rekrutujcie 4 vajara. Nacisnicie &quot;Rekrutavać Vajaroŭ&quot; u mieniu vioski, kab rekrutavać vajaroŭ." />
+    <string id="vDRRsed8" text="Tabie lepiej dapamahčy nam vyzvalić brata i siastru, abo budzieš kałychacca na drevie." />
+    <string id="veHe94Ec" text="Vy paspiachova skončyli puć za ({TIME_SCORE}) siekundaŭ, nie prapusciŭšy nivodnaj celi!" />
+    <string id="VeY3PQFL" text="Vy vyrašyli pieramahčy Impieryju." />
+    <string id="vfhVveLW" text="šamanaŭ" />
+    <string id="vH7GtuuK" text="pracuje na stajni." />
+    <string id="vjOHmHOH" text="Zasada... Majsterski spłanavanaja i vykananaja, nichto nie moža admaŭlać hetaha. Ale hetak ža nielha admaŭlać, što sturhijcy zmahalisia z asnoŭnaj častkaju impierskich siłaŭ, a vłandyjcy — sa svajoj słavutaj vieršnicaj, tamu ja nie dumaju, što najbolšaja słava dastałasia synam Battanii." />
+    <string id="vJyTsFdU" text="Artefakt nie vyhladaje darahim, padazraju jaho možna pradać za niekalki maniet. Ja atrymaŭ jaho ad najmita, jakoha adnojčy lačyŭ. Jon paklaŭsia, što artefakt zviazany z Durasciu Nereca. Ja nie viedaju, što heta značyć, akramia taho, što niekali žyŭ Nerec, jaki, viadoma, byŭ Impierataram i zahinuŭ u bitvie niekalki hadoŭ tamu. Mahčyma, vy zmožacie daviedacca pra sapraŭdnuju kaštoŭnasć artefakta." />
+    <string id="VLD5416o" text="Kampańjonaŭ Naniata" />
+    <string id="VlXOgIX6" text="padarožničali z vyviednikami." />
+    <string id="VN4ctHIU" text="Kupić tavary" />
+    <string id="vxDVCK3n" text="Vy paciarpieli paražennie ad nalotčykaŭ sa schovišča, ale vam udałosia ŭciačy. Vam treba pačakać, kab znoŭ napasci." />
+    <string id="w0CUaEU7" text="Ty jašče nie pierarezaŭ mnie horła, mudry krok. Ja ŭpeŭnieny, što znajdu sposab być bolš vartym dla vas žyvym, čym miortvym." />
+    <string id="w2TEQq26" text="Vy zaŭsiody byli ŭvažlivyja da inšych ludziej, dobra adhadvali ich matyvy. Vy vyvučali, jak upłyvać na ludziej, i apraboŭvali atrymanyja ad stałych viedy na svaich siabrach." />
+    <string id="W49eUmpT" text="Vy možacie saskočyć z kania z dapamohaj {CROUCH_KEY} abo {ACTION_KEY} pakul hladzicie na kania." />
+    <string id="w6Wa3lSL" text="Adstup" />
+    <string id="W7hi7jS4" text="Ech, a, mabyć, ja advažyŭsia na nadzieju. Dobra, ja nie budu unižacca. Skončym hetaje." />
+    <string id="wajioDaK" text="Ja zastavaŭsia z Nerecam, pakul sturhijskaja piachota nie prymusiła nas viarnucca ŭ łahier, a potym vajavać na scianach. U rešcie rešt my nie zmahli ich bolej strymlivać. Ja nie bačyŭ, što zdaryłasia z Nerecam i z našym sciaham. Arenikos vyciahnuŭ nas adtul i dastaviŭ dadomu. Raniej ja nie pavažaŭ Arenikosa, ale ŭ toj dzień ja ŭbačyŭ, što jon varty być Impierataram." />
+    <string id="WbHfGCbd" text="vy pieražyli abłohu." />
+    <string id="wbhKgpmr" text="Vy rychtujeciesia razam sa svaim bratam adpravicca na misiju pomsty i vyratavannia. Voś vašy piersanaž. Praciahvajcie, kali vy hatovyja, abo viarniciesia, kab uniesci zmieny." />
+    <string id="WchH8bS2" text="Vašaja siamja była battanijskim kłanam siaredniaj ruki. Jana apracoŭvali svaju ŭłasnuju ziamlu. Vašy baćka vajavaŭ z kiernami, vajarskim hruntam svajho naroda, braŭ udzieł u kryklivych atakach, jakimi słavilisia battanijcy." />
+    <string id="WDylM3dx" text="Jon rušyŭ u darohu ŭsiaho za niekalki hadzin da taho, jak nalotčyki prajšli tut. Jon nie zusim čałaviek hetaha svietu, jon z tych, chto moža trapić u pastku i dać siabie schapić. My turbujemsia pra jaho." />
+    <string id="wErSpkjy" text="Ja ŭsio jašče pracuju nad hetym." />
+    <string id="weS3DJKA" text="Sasłabieły vajnoju haspadar haspadarstva {FACTION} prapanoŭvaje abviascić mir z haspadarstvam {PLAYER_FACTION}." />
+    <string id="wfbtS71d" text="vy viali karavan." />
+    <string id="WIUbM9Hc" text="Abiarycie zbroju, kab pačać navučannie." />
+    <string id="WN1tHPnB" text="My pavinny byli zachapić usiu zachodniuju Impieryju. Kali b u Dertarta było choć trochi mužnasci, my b hetak i zrabili. Ale jaho serca nikoli nie było zaniata vajnoju. Jon ličyŭ, što parušyŭ klatvu Impieryi, dapamahajučy sturhijcam, i heta hryzła jaho znutry. Z jaho b atrymaŭsia vydatny łakiej, ale jon našy haspadar." />
+    <string id="WN6aHR6m" text="U schoviščy vas pieramahli bandyty, ale vam paščasciła zbiehčy. Vam treba pačakać peŭny čas, pierš čym atakavać iznoŭ." />
+    <string id="wO19nK2y" text="Vy sasłabili Impieryju." />
+    <string id="WOKNhaG2" text="Vašaja siamja była zachoŭnikami sviatych tradycyj chuzaitaŭ, zviartałasia da duchaŭ dzikaj pryrody i prodkaŭ. Jany dahladali chvorych, dzialilisia mudrasciu, razviazvali sprečki i davali praktyčnyja rady." />
+    <string id="WTjAYUoD" text="Znajdzicie jašče adnu častku sciaha dla Isciany" />
+    <string id="WUa1gnkS" text="Bačycie, naŭprost pierad bitvaju našy Viarchoŭny Karol Erył znik. I jaho pryjomny syn Kaładoh staŭ Karalom. Heta prymušaje jazyki bałbatać, razumiejecie? Ale skažu ja vam - stary Erył nikoli ŭ žycci nie zmoh by zdabyć takoj pieramohi, jak Kaładoh u toj dzień." />
+    <string id="wvHvnEog" text="Znajdzicie schovišča, pra jakoje vam raskazaŭ Arzahos, i zdabudźcie nastupnuju častku sciaha." />
+    <string id="WWcG7kPr" text="Pakupnik? Dumajcie šyrej. Prosta dazvolcie mnie skazać, što kali vy zmožacie znajsci nieabchodnyja častki, ja ŭpeŭnieny, što zmahu dapamahčy vam vykarystać ich z karysciu." />
+    <string id="wWLnZ6G4" text="Pakolki vašaje palavannie na svajakoŭ biaspłodnaje, jak nakont taho, kab ubracca adsiul i vyratavać svaje ŭłasnyja žycci? Abo tak, abo ja prymušu vas vylizać jazykami ŭsiu kroŭ, jakuju vy tut praljecie. Albo... My z taboju možam usio vyrašyć sam-nasam.[ib:confident]" />
+    <string id="WysXGbM6" text="Nacisnicie pravaj knopkaj myšy, kab abaranicca" />
+    <string id="WYvnWcXQ" text="Jak i ŭsie viaskovyja dzieci, vy dapamahali ŭ pole. A taksama..." />
+    <string id="WyZ2UtFF" text="Vašaj siamji nie padabałasia ŭłada bajaraŭ. Jany zarablali na žyccio vysiačenniem i vypalvanniem placovak uhłybini lesu, jakija jany potym apracoŭvali ciaham hoda abo dvuch, pierš čym ruchacca dalej. Jany palavali i łavili lisaŭ, zajcoŭ, harnastajaŭ i inšych pušnych zviaroŭ." />
+    <string id="x1HTX5hq" text="było vyratavannie vašaj vioski ad pavodki." />
+    <string id="X1TJNkBV" text="My znajšli tvaich małodšych brata i siastru. Ale moj były paplečnik {HIDEOUT_BOSS.LINK} zdradziŭ mnie. My pryjšli ŭ jaho łahier, kab damovicca pra vyzvalennie dziaciej, i jon schapiŭ nas prosta tam i tady." />
+    <string id="x3KpQouT" text="Kali ŭsie jany pačali biehać tudy-siudy jak spałochanyja aviečki, astatnija vajary spuscilisia na ich z falksami i miačami. Ja siok i tak, i hetak, zachapiŭ 12 hałoŭ, a moj pospiech navat zusim nie samy vialiki. Ach, maje unuki stamilisia ad taho, jak ja raskazvaju im hetuju historyju..." />
+    <string id="X3pDRmjK" text="Pieramoha, zdabytaja maim baćkam, była prysvojena Rahańvadam." />
+    <string id="X9Vmjipn" text="Atakujcie znizu." />
+    <string id="xachJ1hb" text="Tak, my ŭsie ŭ paradku. {LITTLE_SISTER.LINK} i {LITTLE_BROTHER.LINK} napałochany, ale ŭ paradku... Nam treba paspiašacca i ubracca z hetaha miesca.[if:idle_insulted][ib:closed]" />
+    <string id="XdDQdSsW" text="Ja adčuvaŭ, što nabližalisia prykmiety ciepłavoha ŭdaru, tamu skazaŭ im pra hetaje, ale jany tolki vyłupcavali mianie jašče bolej... Kali b vaša hrupa nie zjaviłasia... Peŭna, ja maju sposab addziačyć vas naležnym čynam." />
+    <string id="XEuhxpCX" text="Ciapier Impieryja vykarystoŭvaje ŭ vajnie chitrasci i pastki. Nivodny battanijec nie baicca sustrecca z impierskim vajarom sam-nasam, ale my vyrašyli, što budzie paciešna vykarystać ich chitryki suprać ich samich. Tamu my zładzili zasadu paabapał lasistaha pieravału, i što vy dumajecie? Jany maršavali prama tudy." />
+    <string id="Xg6jhfPt" text="Nimr viarnuŭsia z zasłužanaj słavaj. Dačka Banu Kiłd zacikaviłasia im, i ŭ ich raspačaŭsia tajemny raman, jak heta časam byvaje ŭ moładzi. Jak i naležyć hierojam. Ale dziejanni Nimra paranili honar Kiłdaŭ. Jany vykrali jaho, zabili i paviesili ŭ kletcy na svaim kirmašy. My prabačym Impieryju i Vłandyju, ale Kiłdaŭ... lepiej nie pytajcie mianie pra hetaje." />
+    <string id="xGdoz9Pn" text="Tak voś, apošni raz my jaho bačyli niekalki dzion tamu. Jon nios niejki kufar, jaki byŭ vielmi zahadkavym. Jon skazaŭ, što znachodzicca ŭ niejkim pošuku, ale bolej ničoha nie skazaŭ." />
+    <string id="XgFU1pCx" text="Vy naradzilisia ŭ siamji..." />
+    <string id="XIIISsIg" text="Dla Banu Sarran nikoli nie było bolš hanarlivaha momantu." />
+    <string id="xjduipCO" text="Zrazumieła, našyja słavutyja vojski šmat razoŭ tryvali parazu, ale, peŭna što, tyja vajskavody i impieratary nie byli sapraŭdnymi synami. Razumnaja maleńkaja lehienda. Navat dzicio zmoža razhledzieć jaje naskroź, kali pasprabuje, ale, zrazumieła, ludzi nikoli nie sprabujuć hladzieć praz šlachietnuju chłusniu, jakaja zviazvaje ich razam. Słava Niabiosam za hetaje." />
+    <string id="xjk4hNXD" text="Ja nie braŭ udzieł u bitvie. Ja stajaŭ na ŭzhorku i havaryŭ svaim kamandziram, kudy isci i kaho atakavać. I ŭ nas usio atrymałasia, dumaju, vy čuli. I ŭsio ž, my paniesli straty, vialikija straty, i amal ničoha nie atrymali ŭzamien. I za heta barony zvinavacili mianie, chacia heta była ich ideja vajavać. U toj dzień ja zrazumieŭ, što Karol zaŭsiody musić viesci za saboju, a nie isci ŭsled za kimści. Ale heta byŭ horki ŭrok." />
+    <string id="xknCpvcb" text="A zaraz, supakojsia. Ja ŭsio raskažu." />
+    <string id="xKXcqRJI" text="było inviestavannie hrošaŭ u ziamlu." />
+    <string id="xL3WGYsw" text="Sabranyja Častki" />
+    <string id="XlSHcfsP" text="Hetaje dziejannie skončyć navučannie!" />
+    <string id="XmvaRfLM" text="{PLAYER_FATHER.NAME} byŭ baćkam {PLAYER.LINK}. Jon byŭ zabity padčas napadu nalotčykaŭ na karčmu, u jakoj spyniłasia jaho siamja." />
+    <string id="xnT03Yv0" text="Ja słuchaju." />
+    <string id="xORjDTal" text="vy ŭkłali hrošy ŭ majsterniu." />
+    <string id="Xqba1Obq" text="kačeŭnikaŭ" />
+    <string id="XQrmVPKL" text="{PLAYER.LINK}, spadziajusia, hety list zastanie vas u dobrym zdaroŭji. Ja daviedaŭsia ad špijona, što našyja vorahi razbili łahier u vakolicach {LOCATION_LINK}. Jana nie zmahła skazać mnie, što jany płanujuć rabić, ale kali vy zdziejsnicie nabieh na łahier, vykradziecie sioje-toje z ich zapasaŭ i pryniasiocie mnie, my zmožam atrymać niejkaje ŭjaŭlennie ab ich złych namierach. Pašukajcie ich schovišča la {LOCATION_LINK}." />
+    <string id="Xrz05hYE" text="Prahulacca pa vakolicach" />
+    <string id="XSzmugWh" text="Vy paciarpieli parazu ad nalotčykaŭ z schovišča, ale vam udałosia zbiehčy. Vam treba pačakać peŭny čas, pierš čym atakavać iznoŭ." />
+    <string id="XtC0hXhr" text="Padtrymajcie {?IS_IMPERIAL}impierskaje haspadarstva{?}nie impierskaje haspadarstva{\?}" />
+    <string id="xVFupnFu" text="Vy paspiachova parazili ŭsie celi za ({TIME_SCORE}) siekundaŭ." />
+    <string id="XWL3XcIq" text="Haspadarstva {FACTION} Pieramožana" />
+    <string id="Xx94UrYe" text="Mahčyma. Što vy viaziocie? Sumlennyja tavary ci zbroju? Dazvolicie pahladzieć?" />
+    <string id="y150haHv" text="Razburennie Kanałaŭ Pastavak" />
+    <string id="y3fn2vWY" text="Rekrutavać Vajaroŭ" />
+    <string id="Y3UcaX74" text="vašyja zdolnasci da ličbaŭ." />
+    <string id="y6j1bJTH" text="Vy byli čaladnikam u miascovaha kavala. Vy navučylisia nahravać i kuć mietał, bili mołatam pa niekalki hadzinaŭ zapar da bolu ŭ ciahlicach." />
+    <string id="Y6OJHdMH" text="Ja zaniaty čałaviek, ale zaŭsiody znojdziecca čas, kab pahavaryć ab błasłavionaj Bitvie pad Pendraikam." />
+    <string id="Y6SqyQwn" text="Sustrecca z {HERO.NAME}" />
+    <string id="y84UnOQX" text="Adnaŭlennie Sciaha Drakona" />
+    <string id="Y94H6XnK" text="Pryniać" />
+    <string id="ya8eMCpj" text="Abjadnannie Impieryi" />
+    <string id="YAWCkOYa" text="Slady vyhladajuć sviežymi, i ja bačyŭ trochi dymu na haryzoncie. Jany nie mohuć ruchacca zanadta chutka, kali ŭsio jašče zajmajucca rabavanniem i nabiehami. Nie, ja ŭpeŭnieny, što my zmožam vyratavać małych... abo zahiniem pry sprobie." />
+    <string id="YcnK0Thk" text="palaŭničych" />
+    <string id="yCzcfKNM" text="Pa-pieršaje, vašy kłan pavinien być niezaležnym. Vy nie možacie być častkaju isnaha haspadarstva." />
+    <string id="YEeb0B1V" text="Ja - {HEADMAN.FIRSTNAME}, starosta hetaj vioski. Što pryviało vas siudy?" />
+    <string id="yflx4LNc" text="Pieramažycie treniera!" />
+    <string id="yjOanW6x" text="Cikava, jakoje imperskaje haspadarstva ja pavinien padtrymać..." />
+    <string id="YJxCbbpd" text="Zmova pačata!" />
+    <string id="YKzuGc54" text="Vy byli {?PLAYER.GENDER}vialikaj{?}vialikim{\?}, i inšyja dzieci žadali, kab vy byli pobač u kožnaj svarcy z dziećmi susiedniaj vioski. Vy arali płuham i kidali siakieru, jak {?PLAYER.GENDER}darosłaja{?}darosły{\?}." />
+    <string id="yNcBDr9j" text="Vy pahavaryli z {IMPERIAL_MENTOR.LINK}. Mahčyma, vy pažadajecie pahavaryć z {ANTI_IMPERIAL_MENTOR.LINK} i daviedacca {?ANTI_IMPERIAL_MENTOR.GENDER}jaje{?}jaho{\?} mierkavannie. {?ANTI_IMPERIAL_MENTOR.GENDER}Jana{?}Jon{\?} zaraz znachodzicca ŭ {SETTLEMENT_LINK}." />
+    <string id="ypDmy5Rn" text="Chm, jak my možam daviarać adzin adnamu?" />
+    <string id="Yqm0Dics" text="było dobraje staŭlennie da ludziej." />
+    <string id="yQtzabbe" text="Zakryć" />
+    <string id="yRAl8YRL" text="Tak. Ja byŭ małodšym aficeram u štabie Nereca. Ludzi šmat kažuć pra bitvu, što sviedčyć pra adsutnasć ujaŭlennia pra abstaviny, z jakimi sutyknuŭsia Nerec." />
+    <string id="yRFSzSDZ" text="Vašaja siamja žyła ŭ vioscy, ale nie mieła ŭłasnaj ziamli. Zamiest hetaha vašy baćka dapaŭniaŭ apłačvajemuju pracu praciahłymi padarožžami ŭ les, palavanniem i łoŭlaj, zaŭsiody pilna hledziačy za lasničymi šlachciča." />
+    <string id="yS7PvrTD" text="Dobra" />
+    <string id="ysRVZiA6" text="Padčas dasledavannia Kalradyi, vy možacie daviedacca bolej pra svoj artefakt i jaho značennie, raspytvajučy šlachtu pra niadaŭniuju historyju Impieryi." />
+    <string id="yub8ZSFP" text="Vy pahavaryli z {ANTI_IMPERIAL_MENTOR.LINK}. Ciapier, mahčyma, vy pažadajecie pahavaryć z {IMPERIAL_MENTOR.LINK}, kab daviedacca pra {?IMPERIAL_MENTOR.GENDER}jaje{?}jaho{\?} pohlad. {?IMPERIAL_MENTOR.GENDER}Jana{?}Jon{\?} ciapier znachodzicca ŭ {SETTLEMENT_LINK}." />
+    <string id="yYhX6JQC" text="Vašy baćka dałučyŭsia da adnoj sa šmatlikich kampanij najmitaŭ Vłandyi, što składałasia z ludziej, jakija na słužbie ŭ svajho šlachciča adčuli taki hust da vajny, što pierastali hladzieć na mir dobra. Ich arbaletčyki vysoka šanavalisia pa ŭsioj Kalradyi. Vašaja maci była supravodnicaj łahiera i brała vas z saboj u kryvavyja pachody." />
+    <string id="z3VamNrX" text="Adpravić svaich vajaroŭ." />
+    <string id="z8LQn2Uh" text="Vy prybyli ŭ schovišča." />
+    <string id="Z9mcDuDi" text="Dasiahnienni adklučany!" />
+    <string id="ZAGR6PYc" text="Kali ŭ zavułku raptam pychnuŭ pažar, vašym susiedziam zapatrabavałasia chutkaje kiraŭnictva, i vy jaho zabiaspiečyli. Vy arhanizavali liniju padačy viodraŭ da najblizkaj studni, patušyŭšy ahoń da taho, jak damy zhareli." />
+    <string id="Zb1uFhsY" text="Idzicie da treniera." />
+    <string id="ZDEcFXIm" text="Moža vy majecie adnu častku sciaha, ale sama pa sabie jana małakarysnaja. Vam treba znajsci inšyja častki. A kali vy zmožacie sabrać razam usie častki, u vas atrymajecca niešta vielmi kaštoŭnaje.[sp:/Sounds/VO/mainquest/mntemp_q01_03.ogg]" />
+    <string id="zEoHYEUS" text="Pačakać tut peŭny čas" />
+    <string id="ZhZ7MCeh" text="Dobra. Ja razumieju parazu, kali baču jaje. Bo ja zbirajusia być vašym pałonnym, dazvolcie nazvacca. Mianie zavuć Radahos." />
+    <string id="ZKdBlAmp" text="Karavan sa zbrojaj, jaki papoŭnić zapasy zmoŭcaŭ i paŭstancaŭ, chutka budzie ŭ darozie.{newline}List ad {MENTOR.LINK}:{newline}&quot;Našyja špijony daviedalisia pra karavan sa zbrojaj, jaki dastaŭlaje zmoŭcam jakasnuju zbroju i braniu. My viedajem, što jon pačnie svoj šlach z {QUEST_FROM_SETTLEMENT_NAME} u {QUEST_TO_SETTLEMENT_NAME} praz {SPAWN_DAYS} dzion. My daviedajemsia i apaviascim vas pra novyja maršruty, pa jakich jon ruchajecca, pa miery jaho prasoŭvannia.&quot;" />
+    <string id="ZkSthA9d" text="Kažuć, što Alek Stary vydraŭ Sciah Cmoka z miortvych rukaŭ Impieratara. Ale potym prync Rahańvad, jaki navat nie paspieŭ u bitvie dastać mieč, zabraŭ jaho sabie ŭ jakasci trafieja. Alek, jaki byŭ uvieś u kryvi svaich vorahaŭ, pasmiajaŭsia nad Rahańvadam i skazaŭ jamu, kab jon pajšoŭ i znajšoŭ sabie ułasnuju cacku dla hulni. Rahańvad stuknuŭ jaho, tady Alek pierałamaŭ tronak sa sciaham praz kalena i kinuŭ jaho ŭ tvar svajmu pryncu." />
+    <string id="ZKynvffv" text="Vašaja siamja vałodała ŭłasnaj majsterniaj ŭ horadzie i vyrablała tavary z syraviny, pryviezienaj z sielskaj miascovasci. Vašy baćka hraŭ aktyŭnuju, choć i niaznačnuju rolu ŭ haradskoj radzie, a taksama słužyŭ u rušenni." />
+    <string id="zLRlmitp" text="Daznacca pra Durasć Nereca" />
+    <string id="ZpcV9MZE" text="Vy vyratavali svaich brata i siastru i vyrašyli pakarać smierciu {RADAGOS.LINK}, bo jon spryčyniŭsia da smierci vašych baćkoŭ." />
+    <string id="Zq9qXcCk" text="Vy byli pieramožany partyjaj {RADAGOS.NAME}, ale vašy brat vyratavaŭ vas. Adnak zdajecca, što jany nie zbirajucca sychodzić niekudy, tamu vam varta atakavać iznoŭ, jak tolki vy budziecie hatovyja. U vašaj partyi pavinna być nie mieniej {NUMBER} čalcoŭ. Kali čalcoŭ mieniej, viarniciesia ŭ {QUEST_VILLAGE} i rekrutujcie nieabchodnych vajaroŭ." />
+    <string id="ZqOvtLBM" text="U mitusni napadu vy kryknuli, što niechta znajšoŭ skarby ŭ zadnim pakoi. Potym vy razam z bratam vyjšli praz nieachoŭny ŭvachod." />
+    <string id="zrpqSWSh" text="volnych ziemlarobaŭ" />
+    <string id="zRZd90cZ" text="Ja byŭ tam. Tady ja byŭ jašče maładym zbrajanoscam." />
+    <string id="zsC2t5Hb" text="trenieravacca z vartaj dymu." />
+    <string id="zTYd6Qai" text="Impieryja abjadnałasia pad uładaj haspadarstva {FACTION}!" />
+    <string id="zxMOqlhs" text="Atakavać" />
+    <string id="Zyn5FrTR" text="My budziem trymać hetaje ŭ hałavie." />
+    <string id="Zz6IvIH9" text="Impieryja pakinuła nas u spakoi na peŭny čas, a Nerecy prapanavali srebra za ludziej, i ja padumaŭ: “Čamu b i nie? Chaj jany dapamohuć Impieryi”. Ach, ja pavinien byŭ viedać. Lepšy sposab viesci vajnu - heta mieć da jaje jak maha mieniej dačyniennia." />
+  </strings>
+</base>
