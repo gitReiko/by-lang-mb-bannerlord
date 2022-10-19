@@ -1,0 +1,167 @@
+<!--Maps English fonts to Foreign fonts to use on language change-->
+
+<Languages DefaultLanguage="English">
+  <!--NewlineDoesntRequireSpace: Parsers will not look for an empty space for splitting a new line-->
+  <!--ForbiddenStartOfLineCharacters: Parsers will try NOT to put these characters defined in this attribute at the START of new lines. Will not be used if Language doesn't include NewlineDoesntRequireSpace attribute-->
+  <!--ForbiddenEndOfLineCharacters: Parsers will try NOT to put these characters defined in this attribute at the END of new lines. Will not be used if Language doesn't include NewlineDoesntRequireSpace attribute-->
+
+  <!-- Беларуская -->
+  <Language id="Беларуская" DefaultFont="FiraSansExtraCondensed-Light" LineSeperatorChar="-">
+    <Map From="FiraSansExtraCondensed-Light" To="FiraSansExtraCondensed-Light"/>
+    <Map From="FiraSansExtraCondensed-Medium" To="FiraSansExtraCondensed-Medium"/>
+    <Map From="FiraSansExtraCondensed-Regular" To="FiraSansExtraCondensed-Regular"/>
+    <Map From="Galahad" To="FiraSansExtraCondensed-Regular"/>
+    <Map From="Galahad_Numbers_Bold" To="Galahad_Numbers_Bold"/>
+  </Language>
+
+  <!-- Biełaruskaja -->
+  <Language id="Biełaruskaja" DefaultFont="FiraSansExtraCondensed-Regular" LineSeperatorChar="-">
+    <Map From="FiraSansExtraCondensed-Light" To="FiraSansExtraCondensed-Light"/>
+    <Map From="FiraSansExtraCondensed-Medium" To="FiraSansExtraCondensed-Medium"/>
+    <Map From="FiraSansExtraCondensed-Regular" To="FiraSansExtraCondensed-Regular"/>
+    <Map From="Galahad" To="FiraSansExtraCondensed-Regular"/>
+    <Map From="Galahad_Numbers_Bold" To="Galahad_Numbers_Bold"/>
+  </Language>
+
+  <!-- English -->
+  <Language id="English" DefaultFont="FiraSansExtraCondensed-Regular" LineSeperatorChar="-">
+    <Map From="FiraSansExtraCondensed-Light" To="FiraSansExtraCondensed-Light"/>
+    <Map From="FiraSansExtraCondensed-Medium" To="FiraSansExtraCondensed-Medium"/>
+    <Map From="FiraSansExtraCondensed-Regular" To="FiraSansExtraCondensed-Regular"/>
+    <Map From="Galahad" To="Galahad"/>
+    <Map From="Galahad_Numbers_Bold" To="Galahad_Numbers_Bold"/>
+  </Language>
+
+  <!-- Turkish -->
+  <Language id="Türkçe" DefaultFont="Galahad" LineSeperatorChar="-">
+    <Map From="FiraSansExtraCondensed-Light" To="FiraSansExtraCondensed-Light"/>
+    <Map From="FiraSansExtraCondensed-Medium" To="FiraSansExtraCondensed-Medium"/>
+    <Map From="FiraSansExtraCondensed-Regular" To="FiraSansExtraCondensed-Regular"/>
+    <Map From="Galahad" To="Galahad"/>
+    <Map From="Galahad_Numbers_Bold" To="Galahad_Numbers_Bold"/>
+  </Language>
+
+  <!-- Traditional Chinese -->
+  <Language id="繁體中文" DefaultFont="simkai" LineSeperatorChar="-">
+    <Map From="FiraSansExtraCondensed-Light" To="simkai"/>
+    <Map From="FiraSansExtraCondensed-Medium" To="simkai"/>
+    <Map From="FiraSansExtraCondensed-Regular" To="simkai"/>
+    <Map From="Galahad" To="simkai"/>
+    <Map From="Galahad_Numbers_Bold" To="simkai"/>
+
+    <ForbiddenStartOfLineCharacters Characters="!),.:;?]}¢·–— '&quot;• 、。〆〞〕〉》」︰︱︲︳﹐﹑﹒﹓﹔﹕﹖﹘﹚﹜！），．：；？︶︸︺︼︾﹀﹂﹗］｜｝､"/>
+    <ForbiddenEndOfLineCharacters Characters="([{£¥'&quot;‵〈《「『〔〝︴﹙﹛（｛︵︷︹︻︽︿﹁﹃﹏"/>
+    <NewlineDoesntRequireSpace/>
+  </Language>
+
+  <!-- Simplified Chinese -->
+  <Language id="简体中文" DefaultFont="simkai" LineSeperatorChar="-">
+    <Map From="FiraSansExtraCondensed-Light" To="simkai"/>
+    <Map From="FiraSansExtraCondensed-Medium" To="simkai"/>
+    <Map From="FiraSansExtraCondensed-Regular" To="simkai"/>
+    <Map From="Galahad" To="simkai"/>
+    <Map From="Galahad_Numbers_Bold" To="simkai"/>
+
+    <ForbiddenStartOfLineCharacters Characters="!%),.:;?]}¢°·'&quot;†‡›℃∶、。〃〆〕〗〞﹚﹜！＂％＇），．：；？！］｝～"/>
+    <ForbiddenEndOfLineCharacters Characters="!%),.:;?]}¢°·'&quot;†‡›℃∶、。〃〆〕〗〞﹚﹜！＂％＇），．：；？！］｝～"/>
+    <NewlineDoesntRequireSpace/>
+  </Language>
+
+  <!-- Japanese -->
+  <Language id="日本語" DefaultFont="SourceHanSansJP" LineSeperatorChar="-">
+    <Map From="FiraSansExtraCondensed-Light" To="SourceHanSansJP"/>
+    <Map From="FiraSansExtraCondensed-Medium" To="SourceHanSansJP"/>
+    <Map From="FiraSansExtraCondensed-Regular" To="SourceHanSansJP"/>
+    <Map From="Galahad" To="SourceHanSansJP"/>
+    <Map From="Galahad_Numbers_Bold" To="SourceHanSansJP"/>
+
+    <ForbiddenStartOfLineCharacters Characters=")]｝〕〉》」』】〙〗〟'&quot;｠»ヽヾーァィゥェォッャュョヮヵヶぁぃぅぇぉっゃゅょゎゕゖㇰㇱㇲㇳㇴㇵㇶㇷㇸㇹㇺㇻㇼㇽㇾㇿ々〻‐゠–〜? ! ‼ ⁇ ⁈ ⁉・、:;,。."/>
+    <ForbiddenEndOfLineCharacters Characters="([｛〔〈《「『【〘〖〝'&quot;｟«"/>
+    <NewlineDoesntRequireSpace/>
+  </Language>
+
+  <!-- Korean -->
+  <Language id="한국어" DefaultFont="NanumGothicKR" LineSeperatorChar="-">
+    <Map From="FiraSansExtraCondensed-Light" To="NanumGothicKR"/>
+    <Map From="FiraSansExtraCondensed-Medium" To="NanumGothicKR"/>
+    <Map From="FiraSansExtraCondensed-Regular" To="NanumGothicKR"/>
+    <Map From="Galahad" To="NanumGothicKR"/>
+    <Map From="Galahad_Numbers_Bold" To="NanumGothicKR"/>
+
+    <ForbiddenStartOfLineCharacters Characters="!%),.:;?]}¢°'&quot;†‡℃〆〈《「『〕！％），．：；？］｝"/>
+    <ForbiddenEndOfLineCharacters Characters="$([\{£¥'&quot;々〇〉》」〔＄（［｛｠￥￦ #"/>
+  </Language>
+
+  <!-- French -->
+  <Language id="Français" DefaultFont="Galahad" LineSeperatorChar="-">
+    <Map From="FiraSansExtraCondensed-Light" To="FiraSansExtraCondensed-Light"/>
+    <Map From="FiraSansExtraCondensed-Medium" To="FiraSansExtraCondensed-Medium"/>
+    <Map From="FiraSansExtraCondensed-Regular" To="FiraSansExtraCondensed-Regular"/>
+    <Map From="Galahad" To="Galahad"/>
+    <Map From="Galahad_Numbers_Bold" To="Galahad_Numbers_Bold"/>
+  </Language>
+
+  <!-- Polish -->
+  <Language id="Polski" DefaultFont="FiraSansExtraCondensed-Regular" LineSeperatorChar="-">
+    <Map From="FiraSansExtraCondensed-Light" To="FiraSansExtraCondensed-Light"/>
+    <Map From="FiraSansExtraCondensed-Medium" To="FiraSansExtraCondensed-Medium"/>
+    <Map From="FiraSansExtraCondensed-Regular" To="FiraSansExtraCondensed-Regular"/>
+    <Map From="Galahad" To="FiraSansExtraCondensed-Regular"/>
+    <Map From="Galahad_Numbers_Bold" To="Galahad_Numbers_Bold"/>
+  </Language>
+
+  <!-- Russian -->
+  <Language id="Русский" DefaultFont="FiraSansExtraCondensed-Regular" LineSeperatorChar="-">
+    <Map From="FiraSansExtraCondensed-Light" To="FiraSansExtraCondensed-Light"/>
+    <Map From="FiraSansExtraCondensed-Medium" To="FiraSansExtraCondensed-Medium"/>
+    <Map From="FiraSansExtraCondensed-Regular" To="FiraSansExtraCondensed-Regular"/>
+    <Map From="Galahad" To="FiraSansExtraCondensed-Regular"/>
+    <Map From="Galahad_Numbers_Bold" To="Galahad_Numbers_Bold"/>
+  </Language>
+
+  <!-- German -->
+  <Language id="Deutsch" DefaultFont="Galahad" LineSeperatorChar="-">
+    <Map From="FiraSansExtraCondensed-Light" To="FiraSansExtraCondensed-Light"/>
+    <Map From="FiraSansExtraCondensed-Medium" To="FiraSansExtraCondensed-Medium"/>
+    <Map From="FiraSansExtraCondensed-Regular" To="FiraSansExtraCondensed-Regular"/>
+    <Map From="Galahad" To="Galahad"/>
+    <Map From="Galahad_Numbers_Bold" To="Galahad_Numbers_Bold"/>
+  </Language>
+
+  <!-- Spanish -->
+  <Language id="Español (LA)" DefaultFont="Galahad" LineSeperatorChar="-">
+    <Map From="FiraSansExtraCondensed-Light" To="FiraSansExtraCondensed-Light"/>
+    <Map From="FiraSansExtraCondensed-Medium" To="FiraSansExtraCondensed-Medium"/>
+    <Map From="FiraSansExtraCondensed-Regular" To="FiraSansExtraCondensed-Regular"/>
+    <Map From="Galahad" To="Galahad"/>
+    <Map From="Galahad_Numbers_Bold" To="Galahad_Numbers_Bold"/>
+  </Language>
+
+  <!-- Portuguese -->
+  <Language id="Português (BR)" DefaultFont="Galahad" LineSeperatorChar="-">
+    <Map From="FiraSansExtraCondensed-Light" To="FiraSansExtraCondensed-Light"/>
+    <Map From="FiraSansExtraCondensed-Medium" To="FiraSansExtraCondensed-Medium"/>
+    <Map From="FiraSansExtraCondensed-Regular" To="FiraSansExtraCondensed-Regular"/>
+    <Map From="Galahad" To="Galahad"/>
+    <Map From="Galahad_Numbers_Bold" To="Galahad_Numbers_Bold"/>
+  </Language>
+
+  <!-- Italian -->
+  <Language id="Italiano" DefaultFont="Galahad" LineSeperatorChar="-">
+    <Map From="FiraSansExtraCondensed-Light" To="FiraSansExtraCondensed-Light"/>
+    <Map From="FiraSansExtraCondensed-Medium" To="FiraSansExtraCondensed-Medium"/>
+    <Map From="FiraSansExtraCondensed-Regular" To="FiraSansExtraCondensed-Regular"/>
+    <Map From="Galahad" To="Galahad"/>
+    <Map From="Galahad_Numbers_Bold" To="Galahad_Numbers_Bold"/>
+  </Language>
+
+  <!-- Dingbat -->
+  <!--DingBat(in general, symbols) need to be defined as a separate language in their own-->
+  <Language id="Dingbat" DefaultFont="FreeSerif-Dingbat" LineSeperatorChar="-">
+    <Map From="FiraSansExtraCondensed-Light" To="FiraSansExtraCondensed-Light"/>
+    <Map From="FiraSansExtraCondensed-Medium" To="FiraSansExtraCondensed-Medium"/>
+    <Map From="FiraSansExtraCondensed-Regular" To="FiraSansExtraCondensed-Regular"/>
+    <Map From="Galahad" To="Galahad"/>
+    <Map From="Galahad_Numbers_Bold" To="Galahad_Numbers_Bold"/>
+  </Language>
+</Languages>

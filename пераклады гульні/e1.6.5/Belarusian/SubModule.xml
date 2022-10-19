@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Module>
+	<Name value = "Belarusian"/>
+	<Id value = "Belarusian"/>
+	<Version value = "e1.6.5"/>
+	<DefaultModule value="true"/>
+	<SingleplayerModule value="true"/>
+	<MultiplayerModule value="true"/>
+	<Author value="Denis Makouski (Reiko17)" />
+  	<Official value="false" />
+	<DependedModules>
+		<DependedModule Id="Native" DependentVersion="e1.6.5"/>
+		<DependedModule Id="SandBoxCore" DependentVersion="e1.6.5"/>
+		<DependedModule Id="Sandbox" DependentVersion="e1.6.5"/>
+		<DependedModule Id="StoryMode" DependentVersion="e1.6.5"/>
+	</DependedModules>
+	<SubModules/>
+	<Xmls> 
+	</Xmls>
+</Module>
