@@ -1,0 +1,1372 @@
+<?xml version="1.0" encoding="utf-16"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="English" />
+  </tags>
+  <strings>
+ <!-- ProgrammeTranslate_CN文件夹内皆是程序上的string翻译-->
+ <!-- QuestSystem_All_CNs是QuestSystem这个模块的翻译文件-->
+
+ <!-- QuestName所有任务名字的翻译开始 -->
+    <string id="strQuestName000" text="The Beginning of The Chaos" />
+    <string id="strQuestName001" text="The Dawn of a Settlement" />
+    <string id="strQuestName002" text="A Despairing Slave" />
+    <string id="strQuestName003" text="Vilken's Letter" />
+    <string id="strQuestName004" text="The Envoy of the Sika Knights" />
+    <string id="strQuestName005" text="Resources and Tools" />
+    <string id="strQuestName006" text="Lonely Icey" />
+    <string id="strQuestName007" text="Mysterious Envoy" />
+    <string id="strQuestName008" text="Lorin of the Cagie" />
+    <string id="strQuestName009" text="Xiang the Rogue" />
+    <string id="strQuestName010" text="History of Sika - The Story of Cagie" />
+    <string id="strQuestName011" text="A Mysterious Witch" />
+    <string id="strQuestName012" text="The Settlement of Elin" />
+    <string id="strQuestName013" text="The State of Banishment" />
+ <!-- QuestName所有任务名字的翻译结束 -->
+
+ <!-- QuestDescription所有任务菜单的任务描述的翻译开始 -->
+
+  <!-- 文件SikaQuestTalkSaveSlaves.cs开始 -->
+   <!-- SikaQuestTalkSaveSlaves任务菜单的任务描述开始 -->
+    <string id="strQuestDescription001" text="You accidently destroyed a warband belonging to the Slavers. The will most likely hunt you down for that. You released a slave girl nammed Sally, who claims her people can help you fight against the Slavers. Better go into the tavern " />
+    <string id="strQuestDescription002" text=" and see if Vilken knows anything about these Slavers." />
+    <string id="strQuestDescription003" text="Vilken told you that you have stired up a beehive. Those Slavers are a very powerful faction on this continent. If you want to stay alive, you must find a way to fight them. The slave girl Sally told you to go to " />
+    <string id="strQuestDescription004" text=" and save her people. They can help you fight the slavers." />
+    <string id="strQuestDescription005" text="Mission completed! With the help of the Sika Knights, you successfully rescued the Sikans from the Slavers's hand. Some choose to leave because they believe your party is too weak to protect them. The rest decide to view you as their new master. Their elder, Monnai, suggests you should find a location to establish your own settlement." />
+
+   <!-- SikaQuestTalkSaveSlaves任务菜单的任务描述结束 -->
+  <!-- 文件SikaQuestTalkSaveSlaves.cs结束 -->
+
+  <!-- 文件SikaQuestSecretLetter.cs开始 -->
+   <!-- SikaQuestSecretLetter任务菜单的任务描述开始 -->
+    <string id="strQuestDescription059" text="You recovered Vilken's cargo! He sells them in {SETTLEMENT}. He told you he will stay a while in the tavern. Perhaps you should go there." />
+
+    <string id="strQuestDescription006" text="You accidently strike a warband belonging to a powerful faction called 'The Slavers', who will hunt down anyone who dares to fight them. Vilken, the Merchant Master give you a letter with the writing, 'Knights of Sika' before leave. In the letter, the Knights of Sika say they want to contact whomever recieves this letter. But you don't know where and how to find these 'Knights of Sika'. Continue your journey and you may find a lead." />
+
+    <string id="strQuestDescription049" text="You find the messenger of the Knights of Sika. He says that the person who has the letter will be treated as a friend of Sika Knights. He will help you resist the slavers. He advises you to take good care of the letter as it allows you to receive assistance anywhere on the continent from the Knights of Sika." />
+   <!-- SikaQuestSecretLetter任务菜单的任务描述结束 -->
+  <!-- 文件SikaQuestSecretLetter.cs结束 -->
+
+  <!-- 文件SikaQuestPlayerSettlement.cs开始 -->
+   <!-- SikaQuestPlayerSettlement任务菜单的任务描述开始 -->
+    <string id="strQuestDescription007" text="Despite the battle being very dangerous, you still saved the Sikans from the slavers. The elder, Monnai, told you that if you want to resist the slavers, you must find a suitable place to establish your own settlement as soon as possible, or you won't even have a chance against them. (Press 'H' to issue the command to build your own settlement.)" />
+    <string id="strQuestDescription008" text="The Sikans have started the construction of the settlement. It may take some time to finish the work. Sally said her people are collecting resources in the wilds near the village, and that you could help them." />
+    <string id="strQuestDescription009" text="You have successfully established your own settlement. Elder Monnai is waiting for you in your village. Pay him a visit and discuss your plan against the slavers." />
+    <string id="strQuestDescription010" text="You have established your own settlement. You shall fortify and make it a stronghold against the slavers. Ask Sally about what you should do." />
+    <string id="strQuestDescription011" text="Sally said that her people prepared some grain in front of the grain pile between her and elder. Take this grain to aid in the construction of the settlement." />
+    <string id="strQuestDescription012" text="You have collected all of the grain given to you by the Sikans. You must acquire 10 hardwood for Sally to help with building the settlement." />
+    <string id="strQuestDescription013" text="You gave Sally 10 hardwood. You were informed that a home was built for you in the village. You can go have a look when you have time. Sally wants you to go to the market of " />
+    <string id="strQuestDescription014" text=" to buy some supplies they need." />
+    <string id="strQuestDescription015" text="Sally wants you to go to the market of " />
+    <string id="strQuestDescription016" text=" to buy some materials they need. You encountered a merchant hunted by the slavers on the road, he tells you that he will solve your supply problem if you help him get rid of the slavers that are chasing him." />
+    <string id="strQuestDescription017" text="You saved a merchant who was chased by the slavers nearby " />
+    <string id="strQuestDescription018" text=". He decides to join your settlement and trade within it. Go back to the settlement to see his progress." />
+    <string id="strQuestDescription019" text="Mission complete! With the help of the Sikans, you have built your own settlement and owned your own home. Your settlement is now able to trade and be self-sufficient. Keep up the good work to fortify your settement. You will need to if you want to survive an attack from the slavers." />
+   <!-- SikaQuestPlayerSettlement任务菜单的任务描述结束 -->
+  <!-- 文件SikaQuestPlayerSettlement.cs结束 -->
+
+  <!-- 文件SikaQuestResourceTool.cs开始 -->
+   <!-- SikaQuestResourceTool任务菜单的任务描述开始 -->
+    <string id="strQuestDescription020" text="You decide to establish a settlement with the Sikans. The construction work is on its way. Sally told you that they are collecting resources in the wild near the settlement. It might be good to see what can hepl them." />
+    <string id="strQuestDescription021" text="A Sikan named Ardron told you that they are collecting resources here. You can help him collect 10 hardwoods to complete today's work. (use any melee weapon to cut resources in the site to obtain resources.)" />
+    <string id="strQuestDescription022" text="Ardron taught you how to craft tools. Use the Resources and Tools menu to craft them. If you use the correct tools, you will collect cooresponding resources much quicker. Ardron asked you to use the stone pick he gave you to collect 20 stones for him. The stones are on the other side of the river. (in the scene, you can open the Resources and Tools menu by pressing the 'Q' key, and in the campaign map, you can enter the Resources and Tools menu by pressing the 'U' key" />
+    <string id="strQuestDescription023" text="You have collected enough stone. Ardron tells you some chickens roam in the forest ahead. If you hunt these chickens and harvest 10 food, you can hold a feast in the village. This will surely boost the construction speed of the village." />
+    <string id="strQuestDescription024" text="You have collected enough food. Ardron said if you want to make the village functional, you still need 50 wood, 50 stone and 20 food." /> 
+    <string id="strQuestDescription025" text="Mission complete! You have provided all the resources needed for the village's infrastructure construction. The Sikan have already completed the construction of the village. It's time to go to the village and discuss your next step." /> 
+   <!-- SikaQuestResourceTool任务菜单的任务描述结束 -->
+  <!-- 文件SikaQuestResourceTool.cs结束 -->
+
+  <!-- 文件QuestBlueIce.cs开始 -->
+   <!-- QuestBlueIce任务菜单的任务描述开始 -->
+    <string id="strQuestDescription026" text="Ardron hopes you can help him look after little Icey. You should pay her a visit." />
+    <string id="strQuestDescription027" text="Ardron hopes you can help him look after little Icey. But she clearly doesn't want to talk. You should ask Sally and see if she knows anything." />
+    <string id="strQuestDescription028" text="You asked Sally about Icey. She told you that Icey's parents were killed by the slavers, so she closed herself off. Sally tells you there's a little boy called Navi in the village. Maybe he can help little Icey." />
+    <string id="strQuestDescription029" text="You found little Navi, who says he can summon Icey's parents to solve her problems. But first he needs to find the statue that his father left him. It is said that the statue 'runs to the water'. It should be near the river of the village. Go and have a look." />
+    <string id="strQuestDescription030" text="You successfully found the statue Navi wanted. Go back and find Navi." />
+    <string id="strQuestDescription031" text="Navi asked you to bring the statue at night. It seems like the ritual can only be held at night. Navi said that he will wait for you near the campfire close to the place you found the statue." />
+    <string id="strQuestDescription032" text="Through Navi's ritual, Icey saw her mother. After that, she didn't seem to be as unresponsive as before. Hopefully this can improve her condition. You should ask Monnai about the ritual." />
+    <string id="strQuestDescription033" text="According to Monnai, the power Navi uses comes from the Mother Goddess, Ryenus. Is she really a God? As long as there is no malice to you, it should have no impact. Monnai also said that Icey wanted to thank you. You should go and find him again." />
+    <string id="strQuestDescription034" text="Mission complete! Icey seems to be back to normal. Navi turns out to be the oracle of the sikan, who can channel the power of their Mother Goddess through various rituals. The sikan are not the ordinary people they seem." />
+   <!-- QuestBlueIce任务菜单的任务描述结束 -->
+  <!-- 文件QuestBlueIce.cs结束 -->
+  
+  <!-- 文件QuestMeetSikaKnight.cs开始 -->
+   <!-- QuestMeetSikaKnight任务菜单的任务描述开始 -->
+    <string id="strQuestDescription035" text="Monnai of the sikan told you how to deal with the slavers. You must first go to " />
+    <string id="strQuestDescription036" text="'s tavern and find the messenger from the knights of sika for help." />
+    <string id="strQuestDescription037" text="You find the messenger from the Knights of sika in the tavern of " />
+    <string id="strQuestDescription038" text=". But some henchmen of the slavers followed you here. Get rid of them!" />
+    <string id="strQuestDescription039" text="After you defeat the henchmen of the slavers, you explain your intentions to Derian. After explaining the difference between Knights of sika and the sikans themselves, he said that he needed to take you to another messenger." />
+    <string id="strQuestDescription040" text="You and Derian come to another messenger's house, but it seems that someone has already been here. You should look for clues in the house, you may find something." />
+    <string id="strQuestDescription041" text="You have collected all the clues in the home of the messenger. Go see if Derian has made any progress." />
+    <string id="strQuestDescription042" text="Mission complete! Derian led you to the home of a sika knight, but this Knight has left his home for some reason. Derian has got the way to contact the rest of the Knights of Sika. It's time to leave." />
+   <!-- QuestMeetSikaKnight任务菜单的任务描述结束 -->
+  <!-- 文件QuestMeetSikaKnight.cs结束 -->
+
+  <!-- 文件QuestSikaLord.cs开始 -->
+   <!-- QuestSikaLord任务菜单的任务描述开始 -->
+    <string id="strQuestDescription043" text="Derian the wander joined your team, and Derian said he could go " />
+    <string id="strQuestDescription044" text=" to ask the knights of sika for help! Derian said there should be a messenger in the village." />
+    <string id="strQuestDescription045" text="Derian leads you to Walter, the messenger of knights of sika, who tells you that you need " />
+    <string id="strQuestDescription046" text=" set an ambush nearby and attack the slavers to rescue their captives." />
+    <string id="strQuestDescription047" text="You helped the Knights of sika and saved Lorin of the Cagie from the slavers. But he refuses to accept the protection of the knights. Instead, He hopes you can take him and his people to your settlement." />
+    <string id="strQuestDescription048" text="Mission complete! You rescued Lorin of the Cagie from the slavers. He refused the protection of Sika knights. He decided to lead his people to your settlement." />
+   <!-- QuestSikaLord任务菜单的任务描述结束 -->
+  <!-- 文件QuestSikaLord.cs结束 -->
+
+  <!-- 文件QuestWiseSage.cs开始 -->
+   <!-- QuestWiseSage任务菜单的任务描述开始 -->
+    <string id="strQuestDescription050" text="You saved Lorin and his people from the slavers. He wants to go to your settlement with his people. If you want to talk to him, Take him and his people to your settlement first." />
+    <string id="strQuestDescription051" text="Lorin of the Cagie tells you that he doesn't trust the knights of sika because they didn't fulfill their oath to protect the continent and its people. The Elder of the sikan is waiting for you to discuss future plans in the village hall." />
+    <string id="strQuestDescription052" text="Lorin of the Cagie and elder Monnai have sworn allegiance to you, but this is just the beginning. Lorin of the Cagie said that you shoould to find someone to assist you in protecting the village, and then you can seek help from more factions. First, listen to his plan to subdue Xiang the rogue." />
+    <string id="strQuestDescription058" text="Xiang Chuba joined your village, and taken the task of defending the village. He said something about the second time and so on, and said Lorin waits for you in the lords hall. Talk to Lorin about the plan to fight against the Slavers." />
+    <string id="strQuestDescription060" text="By Lorin's plan, Rogue Xiang Chuba joins you to fight against the Slavers. Go back to your village, and ask Xiang Chuba how to protect the village." />
+    <string id="strQuestDescription061" text="Lorin and you discuss the plan about Slavers, Derian by your side wants to say something. Talk to Derian ask if Sika Knight may help you to defeat the Slavers." />
+    <string id="strQuestDescription062" text="Derian explains, but you refuse hand the protection for Lorin and Cagie to Sika Knight. They don't want to offer any help to you. Derian says that if you want to know what happened between Cagie and Slavers, you should talk to Monnai. Sikans have a long history with Cagie." />
+    <string id="strQuestDescription063" text="Chief Monnai told you the history of Cagie. It seems Cagie has some secrets. Now you should talk to Lorin first to discuss how to defeat the Slavers." />
+    <string id="strQuestDescription064" text="Quest completed! You know the history of Cagie. Lorin gives you a map which have the locations of kingdoms you should to visit. You need to seek other factions that are willing to fight against the Slavers." />
+   <!-- QuestWiseSage任务菜单的任务描述结束 -->
+  <!-- 文件QuestWiseSage.cs结束 -->
+
+  <!-- 文件QuestBanditXiang.cs开始 -->
+   <!-- QuestBanditXiang任务菜单的任务描述开始 -->
+    <string id="strQuestDescription054" text="Lorin of the Cagie tells you that if you want to persuade Xiang, a rogue who has a reputation of robbing the rich and helps the poor, to join your cause, you must defeat him first. He seems to be near the village. Find and defeat him." />
+    <string id="strQuestDescription055" text="You found Xiang near your settlement and defeated him, but he doesn't trust you and won't change his mind easily. Since Lorin gave you that advice, it's better to go back and ask him what to do next. He should have new plan." />
+    <string id="strQuestDescription056" text="After you go back to find Lorin, he says that he has a new plan for Xiang. As you discussed the plan, a scout tells you Xiang and his forces are marching toward your settlement. Lorin suggests you to go out and fight." />
+    <string id="strQuestDescription057" text="Task completed! After you finished Lorin's plan and trapped Xiang, Lorin appears and persuades him to join you. A guardian with such powerful hidden forces will surely offer your settlement some sort of protection." />
+   <!-- QuestBanditXiang任务菜单的任务描述结束 -->
+  <!-- 文件QuestBanditXiang.cs结束 -->
+
+  <!-- 文件QuestBanishLand.cs开始 -->
+   <!-- QuestBanishLand任务菜单的任务描述开始 -->
+    <string id="strQuestDescription1001" text="Elin's queen Radruweel wants you to go to The State of Banishment, and clear out all of the Devour Demons there." />
+    <string id="strQuestDescription1002" text="By the power of Bracelet you enter The State of Banishment. Leave here and report your progress with Elin's queen Radruweel." />
+    <string id="strQuestDescription1003" text="Elin becomes your ally. Elin's princess Melethvon joins your party. At the same time, every week, the power of Bracelet is restored. You can enter The state of banishment in any town's menu option.{newline}(1.4.9 The story line ends here, thanks to play this mod, please follow us on ModDB and Nexusmods to waiting for update!)" />
+   <!-- QuestBanishLand任务菜单的任务描述结束 -->
+  <!-- 文件QuestBanishLand.cs结束 -->
+
+  <!-- 文件QuestSikaHistoryKajer.cs开始 -->
+    <string id="strQuestDescription1101" text="This quest is a historical record of Sika. This quest will document the history of Cagie in the land of Sika." />
+    <string id="strQuestDescription1102" text="The History of Cagie one: Lorin tells you that Xiang Chuba is also a member of the Cagie nationality, which has endless gratitude and resentment with the slaver group." />
+    <string id="strQuestDescription1103" text="The History of Cagie two: Derian explains to you that the Sika Knight church has a bad relationship with the Cagie people, and Sikans seem to have a very long relationship with the Cagie people." />
+    <string id="strQuestDescription1104" text="The History of Cagie three: Monnai said that according to the historical records of Sika, the Cagies and Sikans had a good relationship a long time ago because the leaders of both sides became friends. There were also a few forces on the mainland that maintained friendship with Sikans." />
+    <string id="strQuestDescription1105" text="The History of Cagie four: Monnai told you that according to information circulating on the mainland more than 100 years ago, the king of the Cagie nationality married a slave woman, which caused the invasion of the slaver group and eventually destroyed the kingdom. The current Cagie nationality should have escaped and survived in those years." />
+    <string id="strQuestDescription1106" text="The History of Cagie five: Monnai told you that it is said that a few years ago, the remaining stronghold of the Cagie people was attacked by the slaver group again. If it weren't for your help, the Cagie clan would no longer exist." />
+    <string id="strQuestDescription1107" text="The History of Cagie six: Lorin tells you about the history of the Cagie nationality. 126 years ago, that is, the 1177 calendar of Sika, the slave group invaded the kingdom of the Cagie nationality and the current Cagie nationality is the only surviving offspring of that year." />
+    <string id="strQuestDescription1108" text="The History of Cagie seven: Lorin said that 126 years ago, the queen of the Cagie nationality was not a slave, but an outstanding queen who led the Cagie nationality to prosperity. This was just an excuse for the slaver group to plunder them." />
+    <string id="strQuestDescription1109" text="The History of Cagie eight: Lorin tells you that a few years ago, the slaver group attacked their stronghold again, and he is the current leader of the Cagie clan: Cagie Holland Isabel Lorin." />
+  <!-- 文件QuestSikaHistoryKajer.cs结束 -->
+
+  <!-- 文件QuestMysteriousWitch.cs开始 -->
+    <string id="strQuestDescription1201" text="Lorin has given you the location of the major forces you should visit. He said that the clan leader Monnai had extra things to tell you. Go and ask him what else he would say." />
+    <string id="strQuestDescription1202" text="Monet said that in" />
+    <string id="strQuestDescription1203" text="Northeast of the forest" />
+    <string id="strQuestDescription1204" text="There is the witch of the prophet may be able to help you." />
+    <string id="strQuestDescription1205" text="You come to the cottage that chief Monnai spoke about. A witch seems to take you into a strange dream, where you are killed by the enemy." />
+    <string id="strQuestDescription1206" text="You finally wake up from your dream. Where is this? So you didn't die? There was a sound outside the door. Go out and investigate." />
+    <string id="strQuestDescription1207" text="Lotas, the apprentice of the witch, told you what happened. What you saw and experienced was the future, but Lotas said it was only a possibility, and people could change their fate." />
+    <string id="strQuestDescription1208" text="Quest accomplished! Lotas, the apprentice of the witch, gave you a Bracelet and decided to join your team to travel to the mainland. She said you need to go to the forests in the northwest of the mainland to find the stronghold of the Elin nationality. (the far north of the continent is covered with ice and snow.)" />
+  <!-- 文件QuestMysteriousWitch.cs结束 -->
+
+  <!-- 文件QuestElinVillage.cs开始 -->
+    <string id="strQuestDescription1301" text="The wizard apprentice Lotas gave you a Bracelet and said that if you want to solve the problem at hand, you need to go to the forest near the northwest corner of the mainland" />
+    <string id="strQuestDescription1302" text=", find a way to enter the settlement of the Elin clan. Once there, someone may be able to help you. (the far north of the continent is a land covered with snow.)" />
+    <string id="strQuestDescription1303" text="You saved Geliran, the Scout of the Elin clan, outside the misty forest. She told you that Princess Melethvon of the Elin clan was captured by the slaver group. You have to go quickly." />
+    <string id="strQuestDescription1304" text="Save Princess Melethvon near. Maybe you can find a way to enter the Elin stronghold through them." />
+    <string id="strQuestDescription1305" text="You rescued princess Melethvon from the hands of the slaver group. When you showed her the Bracelet Lotas gave you. She decided to take you into the territory of the Elin clan." />
+    <string id="strQuestDescription1306" text="Under the leadership of the princess of the Elin clan, you have successfully entered the stronghold of the Elin clan. Go to find Geliran first." />
+    <string id="strQuestDescription1307" text="Geliran has told the queen of the Elin family about you, Radruweel. Talk to Radruweel of Elin's stronghold and see if she can resist the slaver group with you." />
+    <string id="strQuestDescription1308" text="Elin queen Radruweel told you about the Devour Demons and The state of banishment. You need to help the Elin clan clean up the demons in The state of banishment in exchange for the help of the Elin clan." />
+    <string id="strQuestDescription1309" text="Quest accomplished! You agree to help the Elin clan clear the demons in The state of banishment in exchange for their help." />
+  <!-- 文件QuestElinVillage.cs结束 -->
+
+ <!-- QuestDescription所有任务菜单的任务描述的翻译结束 -->
+
+ <!--  任务公用翻译 -->
+    <string id="strCancelQuestCommon" text="You cancelled the quest" />
+    <string id="strCompleteQuestCommon" text="You finished the quest" />
+
+ <!-- QuestSystem翻译-->
+    <string id="strQuestSystem000" text="Confirm Building New Settlement" />
+    <string id="strQuestSystem001" text="Are you sure you want to establish your settlement here? The Sika clan will help you build your own village here and can continuously develop your settlement. Are you sure to build here?" />
+    <string id="strQuestSystem002" text="Confirm Building" />
+    <string id="strQuestSystem003" text="Cancel Building" />
+    <string id="strQuestSystem004" text="Congratulations, master. You have successfully established your own settlement!" />
+
+ <!-- MainBehaviour翻译-->
+    <string id="strQuestMainBehaviour000" text="After the night attack" />
+    <string id="strQuestMainBehaviour001" text="You wake up from a coma. You push away a dead body on you, and try to remember what happened last night. You were knocked down in the attack and can't remember the rest. You bandage your wound and find the caravan leader Vilken is looking for something in the destroyed camp." />
+    <string id="strQuestMainBehaviour002" text="Get up and ask Vilken" />
+    <string id="strQuestMainBehaviour003" text="Caravan Leader Vilken" />
+    <string id="strQuestMainBehaviour004" text="The power of Bracelet has recovered, you can enter The state of banishment." />
+
+ <!-- QuestFirst翻译-->
+    <string id="strQuestFirst000" text="You survived the attack last night, in your burned campsite the carvan master is searching something, perhaps you should ask him what happened." />
+    <string id="strQuestFirst001" text="Gather your soldiers" />
+    <string id="strQuestFirst002" text="Attack the bandits" />
+    <string id="strQuestFirst003" text="Slavers Bandit" />
+    <string id="strQuestFirst004" text="Slavers Bandit Leader" />
+    <string id="strQuestFirst005" text="Caravan master Vilken wants you to attack the bandit party from last night and get back all his goods including an important letter. You should gather 10 troops first." />
+    <string id="strQuestFirst006" text="Vilken find out the bandit party from the night is hidding around {SETTLEMENT}, you should go there carefully and ambush them one by one." />
+    <string id="strQuestFirst007" text="You defeat all the surrounding bandits, it is time to attack their leader and get back Vilken's goods and letter." />
+    <string id="strQuestFirst008" text="Quest Completed! You have successfully defeat all the bandits around {SETTLEMENT}, you helped Vilken to get back his goods and the letter." />
+
+ <!-- QuestPartyName所有部队名开始 -->
+    <string id="strQuestPartyName003" text="Grode The Adventure Merchant" />
+    <string id="strQuestPartyName004" text="Slaver Warriors" />
+    <string id="strQuestPartyName005" text="Slaver Looters" />
+    <string id="strQuestPartyName006" text="Slaver Raiders" />
+    <string id="strQuestPartyName007" text="Slaver Warriors" />
+    <string id="strQuestPartyName008" text="Slaver Scouts" />
+    <string id="strQuestPartyName009" text="Grode The Adventure Merchant" />
+    <string id="strQuestPartyName010" text="Garrsion" />
+    <string id="strQuestPartyName011" text="Slaver Escort Party" />
+    <string id="strQuestPartyName012" text="Xiang the Bandit" />
+    <string id="strQuestPartyName013" text="Dark Demon" />
+    <string id="strQuestPartyName014" text="Slaver Invaders" />
+ <!-- QuestPartyName所有部队名结束 -->
+
+ <!-- 文件QuestInitBehaviour.cs开始 -->
+
+  <!-- 所有对话开始 -->
+
+   <!-- 商队首领维利克对话开始 -->
+    <string id="strTalkTradeLeader001" text="So, what did we talked about last time?" />
+    <string id="strTalkTradeLeader002" text="Last time we talked about the creation myth of the land of sika." />
+    <string id="strTalkTradeLeader003" text="Of course, legend says, in the end of the university, there is a place full of chaotic energy, in the ancient times, the great deities,thirsty for such power, start an endless war." />
+    <string id="strTalkTradeLeader004" text="Continue" />
+    <string id="strTalkTradeLeader005" text="The war almost destoryed the entire world, until the godess of peace's proposal put an end to it. But, the game of power didn't stop, the gods create the races of our world, and a new war in their gods's name soon erupted between them." />
+    <string id="strTalkTradeLeader006" text="Continue" />
+    <string id="strTalkTradeLeader007" text="No one knows how long does this war last, the only thing we know is the mankind outlast this onslaught and rule the continent." />
+    <string id="strTalkTradeLeader008" text="Continue" />
+    <string id="strTalkTradeLeader009" text="In this age of conflict, from the south horizon with endless black land, an otherworldly evil thrive." />
+    <string id="strTalkTradeLeader010" text="Continue" />
+    <string id="strTalkTradeLeader011" text="Just when human beings thought that they had stabilized their territory, in the black lands where no one noticed, evil forces pirece the whole continent like arrows." />
+    <string id="strTalkTradeLeader012" text="Continue" />
+    <string id="strTalkTradeLeader013" text="The whole continent has once again fallen into endless wars and chaos. Darkness and despair spread to the whole continent. At this time, human beings could barely survive in the shadow." />
+    <string id="strTalkTradeLeader014" text="Continue" />
+    <string id="strTalkTradeLeader015" text="Just when all hope seems dissipated, mankind finally launched the final decisive battle. The sword of the hero collided with the evil force at the last moment, and with the blood of the hero came the light of tomorrow!" />
+    <string id="strTalkTradeLeader016" text="Continue" />
+    <string id="strTalkTradeLeader017" text="But peace didn't follow, the insidious conspiracy, the conflict between faith, the mankind struggle against each other." />
+    <string id="strTalkTradeLeader018" text="Continue" />
+    <string id="strTalkTradeLeader019" text="There is a new tide of war between the human civlization. The path of future is unclear." />
+    <string id="strTalkTradeLeader020" text="Interesting story, so who rule the continet in our time?" />
+    <string id="strTalkTradeLeader021" text="Now there are 8 main factions in the continet, the legions of Wulltes and kingdom of Nekenia in the north, Mogrian tribes and lomoca Shogunate in the center, Emirate of rabblam, Prouen federation, Yan dynasty and Yarian witch kings in the south, they all rule a part of the continet." />
+    <string id="strTalkTradeLeader022" text="Sounds like they are very powerful, so, Are there any other factions in this land?" />
+    <string id="strTalkTradeLeader023" text="The main territory of this continent is occupied by them, but this continent is said to be the first continent in the world, where many races and factions were born and died. It is said that many factions have disappeared from the public's eyes, but as far as I know, their forces may not be weaker than those of these countries!" />
+    <string id="strTalkTradeLeader024" text="I see. no more questions for now." />
+
+    <string id="strTalkTradeLeader025" text="{PLAYER.NAME}, are you still alive?" />
+    <string id="strTalkTradeLeader026" text="I guess I survived the onslaught, and how did you survived that?" />
+    <string id="strTalkTradeLeader027" text="I am a merchant, I found a place to hide last night." />
+    <string id="strTalkTradeLeader028" text="Ha, I guess that means you run for your life! Then why are you coming back?" />
+    <string id="strTalkTradeLeader029" text="I understand, Then why are you coming back?" />
+    <string id="strTalkTradeLeader030" text="There's an important letter in my cargo. I must recover it from those bandits." />
+    <string id="strTalkTradeLeader031" text="What's your plan?" />
+    <string id="strTalkTradeLeader032" text="I guess you will have a chance if last night they didn't launch a suprise attack. I have some money left in my pocket. You can recruit some soldiers in the nearby villages, and I know their direction. If you can defeat those bandits, half of my cargo will be yours." />
+    <string id="strTalkTradeLeader033" text="I'll try." />
+    <string id="strTalkTradeLeader034" text="Of course, let's begin." />
+
+    <string id="strTalkTradeLeader035" text="{PLAYER.NAME}, looks like we now have enough troop to strike them." />
+    <string id="strTalkTradeLeader036" text="What should I do for now?" />
+    <string id="strTalkTradeLeader037" text="They should be near the village they attacked us." />
+    <string id="strTalkTradeLeader038" text="Ok, let's go." />
+    <string id="strTalkTradeLeader039" text="I know, wait for me." />
+    <string id="strTalkTradeLeader040" text="My intel suggest they scattered around the village, we can sneak around them and use suprise element to divide and conquer." />
+    <string id="strTalkTradeLeader041" text="Okey." />
+
+    <string id="strTalkTradeLeader042" text="Thank you,{PLAYER.NAME}, here are the cargo I promised you." />
+    <string id="strTalkTradeLeader043" text="So, what's next?" />
+    <string id="strTalkTradeLeader044" text="I think I will sell the remaining cargo in the town." />
+    <string id="strTalkTradeLeader045" text="Did you find that letter?" />
+    <string id="strTalkTradeLeader046" text="Of course, now I must heading to the nearest town and sell the cargo, you will find me in the tavern." />
+    <string id="strTalkTradeLeader047" text="Okey." />
+
+    <string id="strTalkTradeLeader048" text="Finally, you come, I thought you were escaped." />
+    <string id="strTalkTradeLeader049" text="What happened?" />
+    <string id="strTalkTradeLeader050" text="What happened? did you know we just attacked the slavers?" />
+    <string id="strTalkTradeLeader051" text="I know, who are they?" />
+    <string id="strTalkTradeLeader052" text="And you saved one of their slave? don't you know you are playing with fire? Oh, we are doomed! didn't find out who they are before we act will be our last mistake!" />
+    <string id="strTalkTradeLeader053" text="What happened, you look so scared." />
+    <string id="strTalkTradeLeader054" text="Yes, the slavers, they control all the slave trade in this land, every kingdom support them! There used to be a king of a small kingdom, who fall in love with a slave, and he asked the slavers to set her free, then, you know what happened?" />
+    <string id="strTalkTradeLeader055" text="They free her?" />
+    <string id="strTalkTradeLeader056" text="Of course not you idiot, instead, the slavers conquer that country, every single survivor become slave. All the faction in this continent support these bastards, If I were you I'll free that slave and escape as fast as I can." />
+    <string id="strTalkTradeLeader057" text="I won't escape." />
+    <string id="strTalkTradeLeader058" text="I have tell you what I must. the slavers won't let us go. Oh, the letter, I think you should take it, I will go to another continent. also here are 2000 dinars, as Compensation, If I know they are the slavers's member, I won't get you involved, farewell." />
+    <string id="strTalkTradeLeader059" text="(Take the letter and coins.)" />
+
+    <string id="strTalkTradeLeader060" text="I will leave soon, see you next time." />
+    <string id="strTalkTradeLeader061" text="I want to know who the slavers is?" />
+    <string id="strTalkTradeLeader062" text="I know, take care!" />
+    <string id="strTalkTradeLeader063" text="Frankly, I don't know who's really behind them either, the only thing I know is the slavers trade slaves all across the continent, no matter war prisoner or debt slave. If you were enslaved by them, you will be a slave for life, and you can only serve the master buy you from the slavers. They will hunt you down if you want to escape or disobey your master. Few can escape from such hunt, maybe they escape to the other continents. Because the slavers reward those who help them generously, and every kingdom's slave trade are count on them. that's all I know about them." />
+
+    <string id="strTalkTradeLeader064" text="If that's all, I think we must go." />
+    <string id="strTalkTradeLeader065" text="Okey." />
+
+   <!-- 商队首领维利克对话结束 -->
+
+   <!-- 萨莉对话开始 -->
+    <string id="strTalkSlaveGirl1001" text="My dear master, sally will be your servant forever." />
+    <string id="strTalkSlaveGirl1002" text="Okey." />
+
+    <string id="strTalkSlaveGirl1101" text="Master, you choose a good place for us for sure! Our elder has begun to overseeing the construction of our village, just be patient, my master." />
+    <string id="strTalkSlaveGirl1102" text="Glad to see that, and you could use my help." />
+    <string id="strTalkSlaveGirl1103" text="Then you should never foget my grace." />
+    <string id="strTalkSlaveGirl1104" text="Thank you." />
+    <string id="strTalkSlaveGirl1105" text="Can I help you? I wish we can finish the construciotn soon." />
+    <string id="strTalkSlaveGirl1106" text="Don't worry, we will finish it for you as soon as possible. If you feel uncertain, you can go to the wilds nearby, my people are gathering resource there." />
+    <string id="strTalkSlaveGirl1107" text="Ok, I'll pay them a visit." />
+
+    <string id="strTalkSlaveGirl1201" text="Master thank you for the settlement for us." />
+    <string id="strTalkSlaveGirl1202" text="You are welcome." />
+    <string id="strTalkSlaveGirl1203" text="So, get back to work and be quick." />
+    <string id="strTalkSlaveGirl1204" text="Yes, master, are you come to help us?" />
+    <string id="strTalkSlaveGirl1205" text="Yes, how can I help?" />
+    <string id="strTalkSlaveGirl1206" text="Hmmm, let's see, we need hardwoods to bulid houses, but we can't trade in the market because we have the mark of slave, can you help us? you can bring some grains from those grain piles between me and our elder before you go, sorry, but that's all we have for now." />
+    <string id="strTalkSlaveGirl1207" text="Okey." />
+
+    <string id="strTalkSlaveGirl1301" text="Master, have you got the hardwoods we need?" />
+    <string id="strTalkSlaveGirl1302" text="Here you are, 10 unit of hardwoods, is that enough?" />
+    <string id="strTalkSlaveGirl1303" text="I haven't finished it yet." />
+    <string id="strTalkSlaveGirl1304" text="Of course, thank you my master." />
+    <string id="strTalkSlaveGirl1305" text="Anything else I can help?" />
+    <string id="strTalkSlaveGirl1306" text="Yes, my master, we are slave, so we can't trade in towns, I hope you can buy some supply for us in the nearby market. Also, I want to tell you we have finish the construction of your mansion." />
+    <string id="strTalkSlaveGirl1307" text="Okey. I know." />
+
+    <string id="strTalkSlaveGirl1401" text="Thank you for saving me, I am your servant, what is your order?" />
+    <string id="strTalkSlaveGirl1402" text="I am no slave master, don't call me master." />
+    <string id="strTalkSlaveGirl1403" text="You saved me, and you will be my master (one of your solider tell you prisoner like her will be marked with the 'mark of slave' on their hands, that means they are slave for life.) " />
+    <string id="strTalkSlaveGirl1404" text="Do you have such mark?" /> 
+    <string id="strTalkSlaveGirl1405" text="Yes, my master." />
+    <string id="strTalkSlaveGirl1406" text="Forget about that 'mark', I set you free in the name of your master." />
+    <string id="strTalkSlaveGirl1407" text="Is that mark so powerful?" />
+    <string id="strTalkSlaveGirl1408" text="I am afraid you don't know the slavers at all." />
+    <string id="strTalkSlaveGirl1409" text="Well. What kind of force are they?" />
+    <string id="strTalkSlaveGirl1410" text="Those bastard, they are a group of slave trader, they trade slaves all across the land, even the great kingdoms don't want to enrage them, I guess you are not born in this continent, or you will know them." />
+    <string id="strTalkSlaveGirl1411" text="So, you are still a slave even if I saved you from those slavers?" />
+    <string id="strTalkSlaveGirl1412" text="Yes, I got the mark of slave on my hand and neck, that means I am a slave for life, and I must serve a master, or the slavers will hunt me down and sell me to a new master." />
+    <string id="strTalkSlaveGirl1413" text="No other solution?" />
+    <string id="strTalkSlaveGirl1414" text="Yes, we have an option, destory the slavers! (You can feel the anger in her eyes)" />
+    <string id="strTalkSlaveGirl1415" text="So, what's you story? why you become their slave?" />
+    <string id="strTalkSlaveGirl1416" text="They attacked our village, take us as slaves. My mother, father, grandfather and grandmother, All killed in the raid." />
+    <string id="strTalkSlaveGirl1417" text="You can follow my party." />
+    <string id="strTalkSlaveGirl1418" text="I think you should find a new master." />
+    <string id="strTalkSlaveGirl1419" text="You already make slavers your enemy, they won't let you go. My people, they are still hold by the slavers, but they know how to destory the slavers. If you save my people, we will be your servant." />
+    <string id="strTalkSlaveGirl1420" text="Where are they, I'll try." />
+    <string id="strTalkSlaveGirl1421" text="Wish your people won't let me down." />
+    <string id="strTalkSlaveGirl1422" text="They are hold as prisoner in the slaver outpost nearby, If you are ready, I can lead the way." />
+    <string id="strTalkSlaveGirl1423" text="Let's go." />
+
+    <string id="strTalkSlaveGirl1501" text="Thank you for saving my people, master." />
+    <string id="strTalkSlaveGirl1502" text="I told you no need to call me master, I have saved your people, so what shall we do next? we got some many slavers to fight." />
+    <string id="strTalkSlaveGirl1503" text="Don't worry my master, the slavers destoryed my people's home. Master is our only hope, we will help you, I promise. Our elder know how to deal with the slavers." />
+    <string id="strTalkSlaveGirl1504" text="Where is the your elder?" />
+    <string id="strTalkSlaveGirl1505" text="I'll tell him come here, wait a minute." />
+    <string id="strTalkSlaveGirl1506" text="Okey." />
+
+    <string id="strTalkSlaveGirl1601" text="Welcome back, master." />
+    <string id="strTalkSlaveGirl1602" text="Anything I can do for you? do you have enough supply now?" />
+    <string id="strTalkSlaveGirl1603" text="Yes, we now have enough supply. Also, a man who claim he is a member of the knights of sika offered his help, he give us two Spiritual beasts." />
+    <string id="strTalkSlaveGirl1604" text="Spiritual beasts?" />
+    <string id="strTalkSlaveGirl1605" text="Yes, master, those creatures was breed by the knights of sika, they can help you party in the battle, the knight bring us a spiritual cat and spiritual dog, you can choose one." />
+    <string id="strTalkSlaveGirl1606" text="Okey, let me see." />
+
+    <string id="strTalkSlaveGirl1701" text="Master, something I can help?" />
+    <string id="strTalkSlaveGirl1702" text="Can you tell me what's wrong with Icey? Ardron asked me to look after her, but she just tell me she doesn't want to talk with anyone." />
+    <string id="strTalkSlaveGirl1703" text="That armstong, how dare is he, ask master to do such thing, I think our elder will punish him again. Master… you saved us from the slavers, but Icey… poor Icey, her parents and her brothers, they return to the arms of the gods. in front of her eyes, in the day the slavers attacked our village, I think that makes her sunk in the sea of sadness, but after we settled her, she looks better." />
+    <string id="strTalkSlaveGirl1704" text="I understand, tell the elder don't punish him, I just want to help you." />
+    <string id="strTalkSlaveGirl1705" text="I know it, and I am your master, tell Ardron don't bother me with such matter again." />
+    <string id="strTalkSlaveGirl1706" text="Yes, my master, as our elder say, you have a heart of gold." />
+    <string id="strTalkSlaveGirl1707" text="Sorry, master. We won't bother you with such matter." />
+    <string id="strTalkSlaveGirl1708" text="Do you think we can help her?" />
+    <string id="strTalkSlaveGirl1709" text="Sorry, I don't know, but I think you can ask Navi, the bravest boy of the village, he is younger than Icey, and his parents returned to the gods too. He succeed his father's position as our oracle, other children say he possess the ability as an oracle, but he refuse to show it to others. His father failed to foreseen the attack of the slavers, so nobody believes the oracle after that. But I think he can help Icey." />
+    <string id="strTalkSlaveGirl1710" text="Okey, I'll ask him." />
+
+
+   <!-- 萨莉对话结束 -->
+
+   <!-- 希绝族莫奈对话开始 -->
+
+    <string id="strTalkSikaLeader001" text="Dear master, Sally has told us your deeds, I, in the name of all the sikans, would like to express our thanks to you." />
+    <string id="strTalkSikaLeader002" text="Of course, destory the slavers and save the slaves like you is my goal." />
+    <string id="strTalkSikaLeader003" text="You are welcome, I just do what I must." />
+    <string id="strTalkSikaLeader004" text="Ha, I guess without me you will be slave for life!" />
+    <string id="strTalkSikaLeader005" text="Your purpose and attitude doesn't matter, the important thing is you have done a deed no one dare to do. And we, the sikan, will serve you." />
+    <string id="strTalkSikaLeader006" text="Sally, what's your plan against the slavers?" />
+    <string id="strTalkSikaLeader007" text="The slavers are powerful, but, I'm sure we have a way to destory them." />
+
+    <string id="strTalkSikaLeader008" text="So, at last we can't escape our fate, I'm sorry master, I shouldn't get you involved…" />
+    <string id="strTalkSikaLeader009" text="No, I will try to save you either if I have a second chance. The only difference is I will get well prepared." />
+    <string id="strTalkSikaLeader010" text="I shouldn't come to save you if I can foresee the situation, threre's no hope." />
+    <string id="strTalkSikaLeader011" text="Master, I think you can try to escape with sally, she will be honored if she can protect master from some arrows, then master will have a better chance to survive, If you managed to escape with sally alive, then the sikans will live on." />
+    <string id="strTalkSikaLeader012" text="I hope so, but we are surrounded and outnumbered, I'm afraid I can't make it in such circumstances." />
+    <string id="strTalkSikaLeader013" text="I won't escape, because I choose to fight, then I will fight to the very last moment." />
+    <string id="strTalkSikaLeader014" text="I can't left you to dead, maybe there's still hope!" />
+    <string id="strTalkSikaLeader015" text="No, I will esacpe myself, goodluck!" />
+    <string id="strTalkSikaLeader016" text="Ok, I will escape with sally, and I will be back soon." />
+    <string id="strTalkSikaLeader017" text="(As soon as you decide, you saw Sally and some of the captives looking up at the hillside in the distance, the ground is shaking, Sally looked back at you and said: Something seems to be coming from over there!)" />
+
+    <string id="strTalkSikaLeader018" text="My dear master, we, the sikan thank you for saving us. Without you we will surely face a gloom fate. We, the sikans, will be your servant forever." />
+    <string id="strTalkSikaLeader019" text="No, without those knights of sika, I'm sure no one can survive this day." />
+    <string id="strTalkSikaLeader020" text="Sure, but without you, we will never have a chance to be saved by the knights. I must say we will never forgot your deed and goodness." />
+    <string id="strTalkSikaLeader021" text="No, I don't want to enslave you forever, and you took an arrow because of me." />
+    <string id="strTalkSikaLeader022" text="No, I'm glade to get hurt if that means master can be safer. I'm an old man, I guess that can be my last bit of value. Now, master, you know who are the Slavers, and the sikans are counting on you." />
+    <string id="strTalkSikaLeader023" text="But how can I fight these Slavers? We are too weak." />
+    <string id="strTalkSikaLeader024" text="Don't worry master, I got a plan and we won't fail you. we must leave and find a suitable place to build a base for you. The sikans are the first race of the continet, there are still many factions in the continet will protect us. If we eastablish a base, those factions will surely offer their help, and the Slavers will think twice before launching attack. Now, we must hurry, this is not the place to talk. We can discuss it later." />
+
+    <string id="strTalkSikaLeader025" text="My dear master, I, Monnai, want to say 'thanks' to you in the name of the sikans, and we swear we will be your servant, forever." />
+    <string id="strTalkSikaLeader026" text="I still don't want you be my slave, I hope I can free you." />
+    <string id="strTalkSikaLeader027" text="Then so be it, I will be your new master, and you must stay loyal to me, forever." />
+    <string id="strTalkSikaLeader028" text="It's our honor to be your slave, some of us may choose to leave, but the rest will serve you till their very end. With the mark of slave on our flesh, we don't have any choice, we must be someone's slave unless someone can destory the slavers once and for all. And you are a good master." />
+    <string id="strTalkSikaLeader029" text="Yes, master, some of us may choose to leave, but the rest will serve you till their very end. " />
+    <string id="strTalkSikaLeader030" text="Understood, now we have a base of operation, so what's next? how can we fight the slavers?" />
+    <string id="strTalkSikaLeader031" text="Master, we don't have any chance to defeat the slavers if we don't expand our influence and power." />
+    <string id="strTalkSikaLeader032" text="So, what should I do?" />
+    <string id="strTalkSikaLeader033" text="We, the sikan, are protected by numerous factions in the continent since the ancient times. If no one come to protect us this time, then… maybe fall is our unavoidable fate. For now, I suggest we should contact the knights of sika, they can protect us… for now." />
+    <string id="strTalkSikaLeader034" text="Where shall I go to find them? ah, yes, I have a letter from them. (you show Monnai the letter from the knights of sika.) " />
+    <string id="strTalkSikaLeader035" text="A letter from the knights of sika? This will surely make things easier, you can find their messager in the nearby tavern. Just told them you are representing Sikans. We will continue the construction while you are searching The knights of sika. You can ask Sally to see what you can do if you want to help the construction work, master." />
+    <string id="strTalkSikaLeader036" text="Understood." />
+
+    <string id="strTalkSikaLeader037" text="My dear master, how can I help?" />
+    <string id="strTalkSikaLeader038" text="Yes, tell me about that ritual, I mean, can you explain Navi's power?" />
+    <string id="strTalkSikaLeader039" text="Yes, this is the power of the sikan oracles, through the right ritual, they can call on the power of the mother god." />
+    <string id="strTalkSikaLeader040" text="You mean that 'Ryenus'? the name Navi called on the ritual?" />
+    <string id="strTalkSikaLeader041" text="Yes, master, but please don't call her name directly. This is our taoo. The mother god haven't respond to our ritual for a long time, this is truly a miracle, please, keep what just happened a secret. If others know it, I'm afraid other factions will do harm to us." />
+    <string id="strTalkSikaLeader042" text="Understand." />
+    <string id="strTalkSikaLeader043" text="The mother god have no malicious will to master, or she won't manifest her power. And thank you for helping Icey, looks like you truly improved her condition. She told me she want to thanky you, master, you can pay her a visit." />
+
+    <string id="strTalkSikaLeader044" text="Master, anything I can help?" />
+    <string id="strTalkSikaLeader045" text="Nothing." />
+
+    <string id="strTalkSikaLeader1001" text="Dear master, you are back. Patriarch Lorin has told me the current situation. With Xiang Chuba to protect the village, you can find other power to resist the slaver group with us." />
+    <string id="strTalkSikaLeader1002" text="Well, I heard that Sika and Cagie have a long history? Can they protect the village?" />
+    <string id="strTalkSikaLeader1003" text="Master, please rest assured that the Cagie people, like us, may not have much shelter in the mainland except you my master. They will protect this village to the death. We have started training, and this time we will fight to protect our homeland." />
+    <string id="strTalkSikaLeader1004" text="Well, I'm relieved that you said so. So did you know them very early?" />
+    <string id="strTalkSikaLeader1005" text="We have never seen them, but the Cagie have been in contact with us for a long time. In our historical records, it is said that there was once a generation of leaders of the Cagie nationality and our Sika nationality, who became very close friends. Since then, they have been one of the few forces on the mainland that have not been hostile to our Sika nationality." />
+    <string id="strTalkSikaLeader1006" text="So what happened then?" />
+    <string id="strTalkSikaLeader1007" text="Later, our Sika nationality gradually declined and lost contact with the Cagie nationality. But unlike us, they always guarded their land until the emergence of the slaver group." />
+    <string id="strTalkSikaLeader1008" text="Did the slaver group destroy them? What happened?" />
+    <string id="strTalkSikaLeader1009" text="It is said on the mainland that about 100 years ago, the king of the Cagie nationality married a slave, which caused the siege of the slaver group. Finally, the forces of the Cagie nationality were annihilated by the slaver group. Since then, few people on the mainland know about them." />
+    <string id="strTalkSikaLeader1010" text="So Lorin, who are they?" />
+    <string id="strTalkSikaLeader1011" text="They are descendants of the remaining Cagie people who fled after the attack, because there are few remaining people, few people know, and there is no news on the mainland. Until about a few years ago, we got the news that the territory of the Cagie nationality was attacked by the slave group again. This time, it is said that only a few people survived." />
+    <string id="strTalkSikaLeader1012" text="The slaver group attacked them again. What's the reason this time? Isn't the slave who married to the king already dead for a long time?" />
+    <string id="strTalkSikaLeader1013" text="The attack was too small, and no one explained the specific reason. I asked Lorin, and he said he didn't know why. The specific reason might have to ask the slaver group, but the Sika knight was also interested in them, so I didn't know why." />
+    <string id="strTalkSikaLeader1014" text="Thank you, I know." />
+    <string id="strTalkSikaLeader1015" text="Thank you master for saving them, otherwise I'm afraid there will be no Cagie people on this continent. Please believe them, their hatred for the slaver group is only heavier than ours." />
+    <string id="strTalkSikaLeader1016" text="I see." />
+
+    <string id="strTalkSikaLeader1101" text="Dear master, are you ready to go?" />
+    <string id="strTalkSikaLeader1102" text="Yes, I heard from Lorin that you have something else to tell me." />
+    <string id="strTalkSikaLeader1103" text="Yes, Lorin should have told master that when traveling on the mainland, you must not disclose your identity, the gratitude and resentment with the slaver group, and everything about the Sika and Cagie nationalities." />
+    <string id="strTalkSikaLeader1104" text="I understand." />
+    <string id="strTalkSikaLeader1105" text="In addition, when master you go to visit those major forces, you can go to the forest northeast of Terdas to find a witch. It is said that she has the ability to predict the future, and she may be able to help us." />
+    <string id="strTalkSikaLeader1106" text="I know." />
+
+   <!-- 希绝族莫奈对话结束 -->
+
+   <!-- 希绝骑士绝炎对话开始 -->
+    <string id="strTalkSikaKnightLeader001" text="This is the first time I see someone dare to fight the slavers. stranger, you have earned my respect, and I must say thanks to you in the name of the knights of sika, you will be an ally of our order." />
+    <string id="strTalkSikaKnightLeader002" text="Knights of sika? (Sally told you the knights of sika is the only faction dare to show hostility to the slavers in this continent, but most time they just attack bandits, because the slavers are too powerful.)" />
+    <string id="strTalkSikaKnightLeader003" text="Yes, looks like you are a sikan, we heard the slavers attacked your village, but we are too late to help them. When I saw the ruin of the village, I thought the most glorious sikan was destoryed forever. And you made a difference." />
+    <string id="strTalkSikaKnightLeader004" text="The most glorious sikan?" />
+    <string id="strTalkSikaKnightLeader005" text="Ha, I heard the savior of the sikan is an outsider, and now I witness it in my own eyes. I just wonder who is dare to enrage the slavers except us in the continent. Then, the sikan are yours, we can't protect you forever, you must leave, and I must chase those slavers. I guess I'll see you soon." />
+    <string id="strTalkSikaKnightLeader006" text="(Sally want to patch his wound, but he refused, insted he get on his horse) See you!" />
+
+   <!-- 希绝骑士绝炎对话结束 -->
+
+   <!-- 希绝族田壮对话开始 -->
+
+    <string id="strTalkSettlementGatherer001" text="Here comes my master! Master, lots of resource here, enough for the construction of our village." />
+    <string id="strTalkSettlementGatherer002" text="Something I can help?" />
+    <string id="strTalkSettlementGatherer003" text="Ah, master offer help to Ardron, Ardron feel tired, Ardron hope master go to the forest ahead and bring 10 hardwood here." />
+    <string id="strTalkSettlementGatherer004" text="Of course, I'll collect those hardwood for you." />
+
+    <string id="strTalkSettlementGatherer005" text="Ardron feel tired, have master already collected the hardwood?" />
+    <string id="strTalkSettlementGatherer006" text="Of course, here you are, anything else?" />
+
+    <string id="strTalkSettlementGatherer007" text="I haven't finished yet." />
+    <string id="strTalkSettlementGatherer008" text="Perfect, and Ardron can tell master how to craft tools, with tools master can collect resource faster. Ardron want master to mine some stone, 20 unit. Master can use Ardron's pickaxe." />
+    <string id="strTalkSettlementGatherer009" text="Of course." />
+
+    <string id="strTalkSettlementGatherer010" text="Have master finished yet?" />
+    <string id="strTalkSettlementGatherer011" text="I have collected 20 units of stone, anything else?" />
+
+    <string id="strTalkSettlementGatherer012" text="I haven't finished it yet." />
+    <string id="strTalkSettlementGatherer013" text="Looks like master finished the his work, Ardron already feel hungry. Master, lots of boar live in the forest ahead, can master catch some for Ardron and village? Ardron need ten boars." />
+    <string id="strTalkSettlementGatherer014" text="No problem." />
+
+    <string id="strTalkSettlementGatherer015" text="Have msater catched the boars?" />
+    <string id="strTalkSettlementGatherer016" text="Yes, we have enough food to feed your people, I think you should bring them to the village soon. And do you need anything else?" />
+
+    <string id="strTalkSettlementGatherer017" text="Not yet." />
+    <!-- 这里开始任务被缩减，换用018a -->
+    <string id="strTalkSettlementGatherer018a" text="Now, Ardron can eat some pork, Ahh, master, Ardron means now we have pork to eat. Ardron want to say thank you to master, Ardron told the elder master's deed, Master punished Ardron, did Armstorng done something wrong? Oh, looks like we got everything needed, Ardron will took those supply to the village. And, master, Ardron want master do Ardron a favor. Little Icey looks wrong, can master pay her a visit?" />
+
+    <string id="strTalkSettlementGatherer018" text="Now, Ardron can eat some pork, Ahh, master, Ardron means now we have pork to eat. Master, we are nearly finished the construction in the village. Elder told Ardron he need 50 more stone, 50  more wood, and 30 more food." />
+    <string id="strTalkSettlementGatherer019" text="I know." />
+
+    <string id="strTalkSettlementGatherer020" text="Did master collected everything needed?" />
+    <string id="strTalkSettlementGatherer021" text="Here you are." />
+
+    <string id="strTalkSettlementGatherer022" text="Not yet." />
+    <string id="strTalkSettlementGatherer023" text="Ardron want to say thank you to master, Ardron told the elder master's deed, Master punished Ardron, did Armstorng done something wrong? Oh, looks like we got everything needed, Ardron will took those supply to the village. And, master, Ardron want master do Ardron a favor. Little Icey looks wrong, can master pay her a visit?" />
+    <string id="strTalkSettlementGatherer024" text="Okey, I'll see what's wrong." />
+
+    <string id="strTalkSettlementGatherer025" text="Hello, my master." />
+    <string id="strTalkSettlementGatherer026" text="Bye." />
+
+   <!-- 希绝族田壮对话结束 -->
+
+   <!-- 蓝冰对话开始 -->
+    <string id="strTalkSikaSettlementBlueIce001" text="I don't want to talk to you." />
+    <string id="strTalkSikaSettlementBlueIce002" text="Why? Ardron what me to talk to you." />
+    <string id="strTalkSikaSettlementBlueIce003" text="No, I just want to talk to anyone." />
+    <string id="strTalkSikaSettlementBlueIce004" text="If youare in trouble, just talk." />
+    <string id="strTalkSikaSettlementBlueIce005" text="Don't waste my time, I say 'talk'!" />
+    <string id="strTalkSikaSettlementBlueIce006" text="No, I don't want to talk." />
+    <string id="strTalkSikaSettlementBlueIce007" text="You, are you alright?" />
+    <string id="strTalkSikaSettlementBlueIce008" text="I don't want to talk." />
+    <string id="strTalkSikaSettlementBlueIce009" text="Icey? Icey! damn! she just repeating 'don't want to talk' again and again, seems like I must ask sally what happened to her." />
+
+    <string id="strTalkSikaSettlementBlueIce010" text="Mastier? thank you, thank you for helping me, mom says they will always be with me." />
+    <string id="strTalkSikaSettlementBlueIce011" text="No thanks, I just done what I must done." />
+    <string id="strTalkSikaSettlementBlueIce012" text="Is 'master'! no thanks I just done what I must done." />
+    <string id="strTalkSikaSettlementBlueIce013" text="Okey, Mom said that we should try our best to help you, and Brother Ardron told me that he has collected some resources, and the master can use them at will!" />
+    <string id="strTalkSikaSettlementBlueIce014" text="Yes, master, Mom said that we should try our best to help master, and Brother Ardron told me that he has collected some resources, and the master can use them at will!" />
+    <string id="strTalkSikaSettlementBlueIce015" text="Okey." />
+
+    <string id="strTalkSikaSettlementBlueIce016" text="I don't want to talk to you." />
+    <string id="strTalkSikaSettlementBlueIce017" text="Sorry" />
+
+    <string id="strTalkSikaSettlementBlueIce018" text="I'm busy learning!" />
+    <string id="strTalkSikaSettlementBlueIce019" text="Okey." />
+
+    <string id="strTalkSikaSettlementBlueIce020" text="I don't think this is the right moment to talk." />
+    <string id="strTalkSikaSettlementBlueIce021" text="Sorry." />
+
+   <!-- 蓝冰对话结束 -->
+
+   <!-- 纳维对话开始 -->
+    <!-- For Translation: In Nive's words, "master" use "{?PLAYER.GENDER}Big Sister{?}Big Brother{\?}" -->
+    <!-- For example: strTalkSikaSettlementWarmNaive001 - "Anything I can do for you? {?PLAYER.GENDER}Big Sister{?}Big Brother{\?}." -->
+    <string id="strTalkSikaSettlementWarmNaive001" text="Anything I can do for you? master." />
+    <string id="strTalkSikaSettlementWarmNaive002" text="Hi little Navi, master need your help." />
+    <string id="strTalkSikaSettlementWarmNaive003" text="No, little Navi can't help anyone." />
+    <string id="strTalkSikaSettlementWarmNaive004" text="I heard that little Navi is the oracle of the village, And I am the lord of the village, so, can our little Navi offer his lord some help?" />
+    <string id="strTalkSikaSettlementWarmNaive005" text="Are you the person who saved us? I know it. I am pleasd to help you." />
+    <string id="strTalkSikaSettlementWarmNaive006" text="Great! do you know Icey? Sally told me her parents were returned to the gods and she looks very sad, and sally also told me you can help Icey." />
+    <string id="strTalkSikaSettlementWarmNaive007" text="I can help you, but Icey's parents are not returned nor dead." />
+    <string id="strTalkSikaSettlementWarmNaive008" text="What?" />
+    <string id="strTalkSikaSettlementWarmNaive009" text="Elder Monnai told me don't tell Icey the truth. But if Icey don't believe her parents are not returned, I can't do anything for her." />
+    <string id="strTalkSikaSettlementWarmNaive010" text="Do you mean they are not dead? What if Icey believes it? They are all gone, aren't they?" />
+    <string id="strTalkSikaSettlementWarmNaive011" text="Yes, they are not, they will live forever in our heart. Because they can't return, so they won't meet their true death." />
+    <string id="strTalkSikaSettlementWarmNaive012" text="So, you mean we should make Icey believe her parents will live forever in her heart?" />
+    <string id="strTalkSikaSettlementWarmNaive013" text="No, I mean, I will summon them, and make Icey believe they are still alive." />
+    <string id="strTalkSikaSettlementWarmNaive014" text="You want to revive them?" />
+    <string id="strTalkSikaSettlementWarmNaive015" text="No, just summon them. But But now I've lost an important relic my father gave me. I need to find it first." />
+    <string id="strTalkSikaSettlementWarmNaive016" text="If only I could help you find it, right? So where can I find it?" />
+    <string id="strTalkSikaSettlementWarmNaive017" text="I can sense the relic escaped to the waterside, it's trying to hiding from me. That is a statue, with it I can help Icey." />
+    <string id="strTalkSikaSettlementWarmNaive018" text="(Escaped? a statue escaped?)Okey, I'll find it." />
+
+    <string id="strTalkSikaSettlementWarmNaive019" text="Have you found my statue?" />
+    <string id="strTalkSikaSettlementWarmNaive020" text="(You show the statue found in the river) Is this the statue you looking for." />
+    <string id="strTalkSikaSettlementWarmNaive021" text="Yes it is, I think you should keep it, it will help you in the future." />
+    <string id="strTalkSikaSettlementWarmNaive022" text="Help me in the future? but, you just told me we will use it to summon Icey's parents." />
+    <string id="strTalkSikaSettlementWarmNaive023" text="Yes, just bring it to me at night, Icey and I will wait you near the campfire you found the statue." />
+    <string id="strTalkSikaSettlementWarmNaive024" text="Understood." />
+
+    <string id="strTalkSikaSettlementWarmNaive025" text="I think we can leave." />
+    <string id="strTalkSikaSettlementWarmNaive026" text="Okey." />
+
+    <!-- strTalkSikaSettlementWarmNaive027 - "Hello{?PLAYER.GENDER}Big Sister{?}Big Brother{\?}, do you want to play with me?" -->
+    <string id="strTalkSikaSettlementWarmNaive027" text="Hello, do you want to play with me?" />
+    <string id="strTalkSikaSettlementWarmNaive028" text="Maybe next time." />
+
+    <string id="strTalkSikaSettlementWarmNaive029" text="Finally you come, give me the statue, I'll perform the ritual for Icey." />
+    <string id="strTalkSikaSettlementWarmNaive030" text="Okey.(Navi took the statue, he cut Icey's hand with a knife, and dropped her blood on the statue." />
+
+    <string id="strTalkSikaSettlementWarmNaive031" text="In the chaos of light and darkness, in the flame of hope and hopeless, in the great wheel of decay and greatness, in the circle of good and evil, hear the call of your sons and daughters, great mother Ryenus!" />
+    <string id="strTalkSikaSettlementWarmNaive032" text="In from your warm embrace, wake from the endless slumber!" />
+    <string id="strTalkSikaSettlementWarmNaive033" text="Mama! (As Navi finish his spell, the shape of a woman emerged from the statue, Icey rushed to the woman and hug her with tears in her eyes.)" />
+    <string id="strTalkSikaSettlementWarmNaive034" text="(Icey's mother talked with her for a while, suddenly the woman stand up) Thank you, strange, may the light of the mother god be with you. (then the woman disappeared)" />
+    <string id="strTalkSikaSettlementWarmNaive035" text="Mama!" />
+    <!-- strTalkSikaSettlementWarmNaive027 - "{?PLAYER.GENDER}Big Sister{?}Big Brother{\?}, the ritual is over, you can keep the statue, It may help you in the future." -->
+    <string id="strTalkSikaSettlementWarmNaive036" text="The ritual is over, you can keep the statue, It may help you in the future." />
+
+   <!-- 纳维对话结束 -->
+
+   <!-- 冒险商人格罗德对话开始 -->
+    <string id="strTalkSikaSettlementTrader001" text="Get out of my way!" />
+    <string id="strTalkSikaSettlementTrader002" text="Wow, looks like you are in a hurry." />
+    <string id="strTalkSikaSettlementTrader003" text="Yes, a band of slavers are chasing me, I won't go there to trade if I knew this eariler." />
+    <string id="strTalkSikaSettlementTrader004" text="Trade? are you a merchant? I think I need your service." />
+    <string id="strTalkSikaSettlementTrader005" text="No you are not, I'm a person under slavers's hunt, no more talking, I must go, they will be here soon." />
+    <string id="strTalkSikaSettlementTrader006" text="In slavers's bounty list? they are chasing you? ok, I'll deal with the slavers, you, offer your service." />
+    <string id="strTalkSikaSettlementTrader007" text="Deal with the slavers, for me? Are you, okey, that person really exist. I'll wait you nearby, If you can deal with the slavers, I'll offer my service to you for sure." />
+    <string id="strTalkSikaSettlementTrader008" text="No problem." />
+
+    <string id="strTalkSikaSettlementTrader009" text="Wow, that's a good fight, you really defeat those slavers, thanks a lot." />
+    <string id="strTalkSikaSettlementTrader010" text="You are welcome, just offer me your service, I mean, buy some goods for me." />
+    <string id="strTalkSikaSettlementTrader011" text="Be happy to wipe out the slavers." />
+    <string id="strTalkSikaSettlementTrader012" text="You must be the person help the sikans." />
+    <string id="strTalkSikaSettlementTrader013" text="Yes." />
+    <string id="strTalkSikaSettlementTrader014" text="Really? I guess finally I have my lucky day." />
+    <string id="strTalkSikaSettlementTrader015" text="So, why the slavers hunting you?" />
+    <string id="strTalkSikaSettlementTrader016" text="The reason is I violated their 'rules', the slavers prohibited the trading activities between slaves without masters and merchants like me. I don't like slavers and offer help to those slaves, that's why I'm trying to escape from the slavers: Once I helped a slave and her daughter, then someone informed the slavers my violation." />
+    <string id="strTalkSikaSettlementTrader017" text="So they start hunting you? And you can help me buy supply? " />
+    <string id="strTalkSikaSettlementTrader018" text="Of course I can, I know your problem. The slaves are not allowed to trade in market. I'll buy the supply you need, just tell me where you are then you will have your supply. Besides, I have a request." />
+    <string id="strTalkSikaSettlementTrader019" text="Tell me, I'm listening." />
+    <string id="strTalkSikaSettlementTrader020" text="As you see, since some jerk informed the slavers, the start to hunting me and looks like they won't give up easily. So, I guess I can join you, I can offer my service to you, and If you accept, some of my friend on the slaver's bounty list will join you too." />
+    <string id="strTalkSikaSettlementTrader021" text="Glad to hear that, we welcome everyone who want to aid our cause." />
+    <string id="strTalkSikaSettlementTrader022" text="I accept, for you can supply my settlement." />
+    <string id="strTalkSikaSettlementTrader023" text="Thank you, I'll prepare your supply as soon as possible." />
+    <string id="strTalkSikaSettlementTrader024" text="Okey, I'll meet you in the settlement." />
+
+    <string id="strTalkSikaSettlementTrader025" text="Finally you come, I have been waiting for you for a long time." />
+    <string id="strTalkSikaSettlementTrader026" text="Monnai told me you have start your business here." />
+    <string id="strTalkSikaSettlementTrader027" text="Yes, I have never seen such a good village. The sikans arranged a house for me. I delivered the supplies they need. I will help the trade here thereafter. If you need anything, you can also buy it from me. By the way, Sally seems to be looking for you." />
+    <string id="strTalkSikaSettlementTrader028" text="Ok, I see. Welcome to join us." />
+
+    <string id="strTalkSikaSettlementTrader029" text="If you need anything, trade with me in the village." />
+    <string id="strTalkSikaSettlementTrader030" text="I see. see you later." />
+
+   <!-- 冒险商人格罗德对话结束 -->
+
+   <!-- 希绝骑士希瑞莱对话开始 -->
+    <string id="strTalkSikaKnightDerian001" text="What's up, son?" />
+    <string id="strTalkSikaKnightDerian002" text="I am searching for the knights of the sika." />
+    <string id="strTalkSikaKnightDerian003" text="(He frown with doubt) Why?" />
+    <string id="strTalkSikaKnightDerian004" text="I come here in the name of the sikans." />
+    <string id="strTalkSikaKnightDerian005" text="I come here with the letter from the knights of the sika." />
+    <string id="strTalkSikaKnightDerian006" text="Then Derian the wander will show you the way, but, let's go out and deal with those rats at first, stay with me!" />
+    <string id="strTalkSikaKnightDerian007" text="Okey." />
+
+    <string id="strTalkSikaKnightDerian008" text="What we have here? A person with a letter from the knights of sika, and he is also the spokeman and protector of the sikans, interesting." />
+    <string id="strTalkSikaKnightDerian009" text="What do you mean?" />
+    <string id="strTalkSikaKnightDerian010" text="Because I have never heard these two factions seeking help from the same person, at the same time." />
+    <string id="strTalkSikaKnightDerian011" text="So, the sikans and the knights of the sika, there are actually no interaction between them?" />
+    <string id="strTalkSikaKnightDerian012" text="Hmm, looks like you are not a native of this continent, that brings me more question, that means now we got two ancient factions of this continent seeking help from an outsider?" />
+    <string id="strTalkSikaKnightDerian013" text="Let's make it simple, the sikan is the first race of the continent, They lived here for many centuries before any other races comes here. And the Knights of sika is an knightly order founded after the war of the gods, they claim they are the protector of this continent. You will know more in your journey, now, enough talking, we must find another one and see if he can offer us some help." />
+    <string id="strTalkSikaKnightDerian014" text="Okey." />
+
+    <string id="strTalkSikaKnightDerian015" text="Damn! looks like we are too late. someone found here before us." />
+    <string id="strTalkSikaKnightDerian016" text="The slavers?" />
+    <string id="strTalkSikaKnightDerian017" text="Maybe. I didn' expect them act so fast." />
+    <string id="strTalkSikaKnightDerian018" text="Because we came here?" />
+    <string id="strTalkSikaKnightDerian019" text="No need to feel guilty, the slavers have a long rivalry with knights of sika, they are just not our first prority." />
+    <string id="strTalkSikaKnightDerian020" text="I think we should search here and see what we can find." />
+    <string id="strTalkSikaKnightDerian021" text="Okey." />
+
+    <string id="strTalkSikaKnightDerian022" text="So, have you find anything about what happened?" />
+    <string id="strTalkSikaKnightDerian023" text="Yes, I found something." />
+    <string id="strTalkSikaKnightDerian024" text="So what did you find? has he left? reason?" />
+    <string id="strTalkSikaKnightDerian025" text="Hmm, looks strange." />
+
+    <string id="strTalkSikaKnightDerian026" text="So, who forced him to leave, what is your opinion?" />
+    <string id="strTalkSikaKnightDerian027" text="The slavers?" />
+    <string id="strTalkSikaKnightDerian028" text="An enemy of the knights of sika?" />
+    <string id="strTalkSikaKnightDerian029" text="Garrsion?" />
+    <string id="strTalkSikaKnightDerian030" text="Other reasons?" />
+
+    <string id="strTalkSikaKnightDerian031" text="Possible, but no signs of fighting. maybe there's another reason." />
+    <string id="strTalkSikaKnightDerian032" text="I don't think so, no one know who we are, they won't follow our trail here." />
+    <string id="strTalkSikaKnightDerian033" text="Agree." />
+
+    <string id="strTalkSikaKnightDerian034" text="Any other clues?" />
+    <string id="strTalkSikaKnightDerian035" text="He left in a hurry." />
+    <string id="strTalkSikaKnightDerian036" text="He left based on a plan." />
+    <string id="strTalkSikaKnightDerian037" text="He was forced to leave." />
+    <string id="strTalkSikaKnightDerian038" text="There are conflict between the clues, I'm not sure." />
+
+    <string id="strTalkSikaKnightDerian039" text="You observed well and have a good judgement." />
+    <string id="strTalkSikaKnightDerian040" text="I don't think this is the full picture." />
+    <string id="strTalkSikaKnightDerian041" text="Agree, maybe we missed something." />
+
+    <string id="strTalkSikaKnightDerian042" text="Looks like he was gone, what did he bring out?" />
+    <string id="strTalkSikaKnightDerian043" text="Something valuable." />
+    <string id="strTalkSikaKnightDerian044" text="Some ration." />
+    <string id="strTalkSikaKnightDerian045" text="Some important things." />
+    <string id="strTalkSikaKnightDerian046" text="Some equipment." />
+
+    <string id="strTalkSikaKnightDerian047" text="Yes, looks like he brought some important files with him." />
+    <string id="strTalkSikaKnightDerian048" text="I think he wouldn't bring these items." />
+    <string id="strTalkSikaKnightDerian049" text="He probably brought some , but that's not his highest priority." />
+
+    <string id="strTalkSikaKnightDerian050" text="That's all for now, he must left in a hurry, for a reason, he bring something important with him. I found the clue that will lead us to him." />
+    <string id="strTalkSikaKnightDerian051" text="Then we must hurry!" />
+
+    <string id="strTalkSikaKnightDerian052" text="Don't distrub me if you don't have anything important." />
+    <string id="strTalkSikaKnightDerian053" text="Okey." />
+
+    <string id="strTalkSikaKnightDerian1001" text="I know what you want to ask. If you are willing to hand Lorin over to the Sika knight for protection, I can continue to persuade them to protect your village." />
+    <string id="strTalkSikaKnightDerian1002" text="It's impossible. I can't give up a person who has sworn allegiance to me." />
+    <string id="strTalkSikaKnightDerian1003" text="Hahaha, maybe that's why they chose you. (he suddenly looks at you with a dignified expression) but do you really understand the price behind this? Kind without thinking is often more cruel than evil." />
+    <string id="strTalkSikaKnightDerian1004" text="To be honest, I don't know what I'm going to face, but if I don't try, I can't give them up!" />
+    <string id="strTalkSikaKnightDerian1005" text="Is it acceptable to think about the evil of weighing the pros and cons! I would rather choose the kindness of dying!" />
+    <string id="strTalkSikaKnightDerian1006" text="The result is unknown. All the results are shaped by people. We just need to be responsible for our choices." />
+    <string id="strTalkSikaKnightDerian1007" text="Hahaha, maybe you can really do something that no one can do. Unfortunately, the church's biggest concession is not to be hostile to you for some reasons, but they can't help you again." />
+    <string id="strTalkSikaKnightDerian1008" text="I'm confused. I heard that Sika Knights protect this continent, including Sikans." />
+    <string id="strTalkSikaKnightDerian1009" text="Yes, so they support you to establish a stronghold and guard the Sika clan. But it seems that things are not so simple, and they did not explicitly say that they would not help you, but it is obvious that they did not send anyone to come." />
+    <string id="strTalkSikaKnightDerian1010" text="I see, so what's the grudge between the Cagie and the Sika knight? And what grudges do they have with the slave group." />
+    <string id="strTalkSikaKnightDerian1011" text="The relationship between the Cagie and the Sika knights is hard to say, but I can assure you that the Sika Knights have absolutely no intention of hurting them, otherwise I will not agree to let them protect Lorin and his people. As for the grievances between the Cagie nationality and the slaver group, people on the mainland have spread, but the vast majority of people do not know the Cagie nationality. You can ask the head of Monnai. It is said that the relationship between the Sika nationality and the Cagie nationality has a long history." />
+    <string id="strTalkSikaKnightDerian1012" text="I see. I'll ask chief Monnai." />
+
+    <string id="strTalkSikaKnightDerian1101" text="Why should we camp here?" />
+    <string id="strTalkSikaKnightDerian1102" text="It's not far from the forest here, and the stronghold of the Elin clan should be near here." />
+    <string id="strTalkSikaKnightDerian1103" text="So why don't we hurry?" />
+    <string id="strTalkSikaKnightDerian1104" text="The settlement of the Elin clan does not welcome outsiders. If there is no correct way, we will just get lost in this forest." />
+    <string id="strTalkSikaKnightDerian1105" text="Didn't your teacher tell you how to find the Elin's settlement?" />
+    <string id="strTalkSikaKnightDerian1106" text="Don't worry, since the teacher asked us to come here, she must know that we can find a way to get in." />
+    <string id="strTalkSikaKnightDerian1107" text="I don't know the meaning of your coming here so far. Except for Sika knight, these weak forces can't help you resist the slaver group at all." />
+    <string id="strTalkSikaKnightDerian1108" text="So you think I should give Lorin to you?" />
+    <string id="strTalkSikaKnightDerian1109" text="To be honest, I don't know. Maybe your choice is right, but it is difficult to resist the slaver group by these weak forces. Besides, the ailing clan can't help you at all." />
+    <string id="strTalkSikaKnightDerian1110" text="Why?" />
+    <string id="strTalkSikaKnightDerian1111" text="It is said that they declined in ancient times for some special reasons. Since then, they have been in this forest. Many people on the mainland have no idea of their existence." />
+    <string id="strTalkSikaKnightDerian1112" text="If so, why did your teacher let me come here?" />
+    <string id="strTalkSikaKnightDerian1113" text="Well... I don't know, but I believe in teachers. There must be a reason why she asked you to come." />
+    <string id="strTalkSikaKnightDerian1114" text="... I really shouldn't come here." />
+    <string id="strTalkSikaKnightDerian1115" text="So why are you still here? I remember you are also one of Sika knight. If they refuse to help me, why don't you leave?" />
+    <string id="strTalkSikaKnightDerian1116" text="Foreigner, I was indeed a member of Sika knight, but now I am not. We are wandering knights, just following the creed of Sika knights." />
+    <string id="strTalkSikaKnightDerian1117" text="Even so, you have no reason to continue to help me by my side." />
+    <string id="strTalkSikaKnightDerian1118" text="Maybe I'm just curious to see how far you can go. But don't worry, in the doctrine of Sika knight, we won't abandon our teammates. Now let's think about how to find a way to enter the Elin's Settlement." />
+    <string id="strTalkSikaKnightDerian1119" text="Look at that! Something is approaching." />
+    <string id="strTalkSikaKnightDerian1120" text="(there is a horse in the distance. It seems that a man fell on the back of the horse. The horse slowly approached you. Suddenly, the man on the horse fell down. Lotas hurriedly ran to pick her up. You took her into the camp and gave her some water. She recovered some strength and said to you...)" />
+
+   <!-- 希绝骑士希瑞莱对话结束 -->
+
+   <!-- 希绝骑士使者沃特对话开始 -->
+    <string id="strTalkSikaKnightEnvoy001" text="Do you have anything to do with me? Derian? How did you find here. (Derian went to talk to him, after some discussion the two walked back.)" />
+    <string id="strTalkSikaKnightEnvoy002" text="Will you help us (you gave him the letter)" />
+    <string id="strTalkSikaKnightEnvoy003" text="(He return the letter to you after check it) Of course, whoever receive such letter can contact our order in every region. I know what happened, our order are watching what's going on with the sikans, We are pleased to help you." />
+    <string id="strTalkSikaKnightEnvoy004" text="Great, thanks for your help." />
+    <string id="strTalkSikaKnightEnvoy005" text="But we have some issue to slove before we can help you, sorry." />
+    <string id="strTalkSikaKnightEnvoy006" text="What issue?" />
+    <string id="strTalkSikaKnightEnvoy007" text="We were, not the sworn enemy of the slavers, but seems like they are planning for something, they captured one of our friends, we must rescue him at first." />
+    <string id="strTalkSikaKnightEnvoy008" text="Can I help you? If I rescue your friend, will you ensure my settlement's safety?" />
+    <string id="strTalkSikaKnightEnvoy009" text="Yes, we will ensure you and your settlement's safety, that's for sure, we won't lie to those who guided by the god. We can set an ambush, rescue our friend from the slavers's caravan, then we owe you once." />
+    <string id="strTalkSikaKnightEnvoy010" text="Of course." />
+    <string id="strTalkSikaKnightEnvoy011" text="Derian will aid you in the battle, and I will contact our order, I'm sure they will offer some extra help. Once you are ready, you can strike the slavers, just focus on rescuing our friend, the rest is for us. The slavers may rest near the village, that offer you good opportunity to strike." />
+    <string id="strTalkSikaKnightEnvoy012" text="Okey." />
+
+    <string id="strTalkSikaKnightEnvoy013" text="Anything new?" />
+    <string id="strTalkSikaKnightEnvoy014" text="Nothing." />
+
+   <!-- 希绝骑士使者沃特对话结束 -->
+
+   <!-- 卡杰族洛林对话开始 -->
+    <string id="strTalkSikaVillageWiseSage001" text="Hello, stranger, I'm Lorin of the Cagie, thank you for saving us." />
+    <string id="strTalkSikaVillageWiseSage002" text="You are welcome, It's my pleasure to reduce the number of those Slaver scum. Besides, The Knights of sika asked me for help." />
+    <string id="strTalkSikaVillageWiseSage003" text="Knights of sika? (There was a deep frown on his face) Indeed there's no faction dare to attack the Slavers except those knights. Stranger, I must say we won't go with you." />
+    <string id="strTalkSikaVillageWiseSage004" text="No, I am not one of the Knights (you see Derian ride toward you)." />
+    <string id="strTalkSikaVillageWiseSage005" text="Ha, Derian the wonder. I don't except the Knights can also do this." />
+    <string id="strTalkSikaVillageWiseSage006" text="(Derian:No, he is not one of us, we are just help the order to rescue you and you people) Yes, I think we should leave. " />
+    <string id="strTalkSikaVillageWiseSage007" text="Are you the outlander who save the Sikans? Why are you here? And now you are a friend of Knights of sika?" />
+    <string id="strTalkSikaVillageWiseSage008" text="(You brifely introduce your journey to him) " />
+    <string id="strTalkSikaVillageWiseSage009" text="Ha, interesting journey. Derian, We are very grateful for the help of the sika Knights, but we want to visit this stranger's village.{PLAYER.NAME}, will you accept?" />
+    <string id="strTalkSikaVillageWiseSage010" text="Yes, but (you looked at Derian and he says: But we promised to rescue you and put you under their protection for the Knights of sika." />
+    <string id="strTalkSikaVillageWiseSage011" text="Ha, Derian, seems like you even forgot your holy codex after been exiled from you order. Let me help you, Codex of peace, volume CMXXXVII, paragraph CCCXXXIII,'You must respect the free will of the others and never enforce anyone, or you will doom yourself. Your order can't save everyone, or we won't in such condition.{PLAYER.NAME}, If you want to survived in this continet, you muststrengthen your faith (Derian want to talk, but after some hesitation he choose to remain slient.)" />
+    <string id="strTalkSikaVillageWiseSage012" text="I understand." />
+    <string id="strTalkSikaVillageWiseSage013" text="Hurry up, I and my people were suffered, we need healing and rest." />
+    <string id="strTalkSikaVillageWiseSage014" text="Okey." />
+
+    <string id="strTalkSikaVillageWiseSage015" text="This is a good place for sure." />
+    <string id="strTalkSikaVillageWiseSage016" text="What's about your people?" />
+    <string id="strTalkSikaVillageWiseSage017" text="They almost recovered, the sikans are good medic." />
+    <string id="strTalkSikaVillageWiseSage018" text="Why did you refuse the protection of Sika knights and come to us?" />
+    <string id="strTalkSikaVillageWiseSage019" text="{PLAYER.NAME}, outsider, I'm interested in why you are dared to attack the Slavers, they are powerful and merciless." />
+    <string id="strTalkSikaVillageWiseSage020" text="They attacked me first." />
+    <string id="strTalkSikaVillageWiseSage021" text="This is an accident. I don't know who they are." />
+    <string id="strTalkSikaVillageWiseSage022" text="Because I want to, those bastard deserve that." />
+    <string id="strTalkSikaVillageWiseSage023" text="I probably know. Monnai and I have talked a little. Then it's my turn, Let me answer your question. I don't believe Sika knights. If Sika knights can protect us, there will be no such fate befall on the sikans and us." />
+    <string id="strTalkSikaVillageWiseSage024" text="Understood." />
+    <string id="strTalkSikaVillageWiseSage025" text="Sure, they also have their reasons. You will know more in the future. So I refused their protection." />
+    <string id="strTalkSikaVillageWiseSage026" text="So what's your plan?" />
+    <string id="strTalkSikaVillageWiseSage027" text="Same question for you, stranger, I think this is not the place to talk about that. we'd better talk it in the village hall, with Monnai." />
+    <string id="strTalkSikaVillageWiseSage028" text="Okey." />
+
+    <string id="strTalkSikaVillageWiseSage029" text="{PLAYER.NAME}, I just reached a consensus with Monnai. If we want to fight the Slavers, then we need power and influence." />
+    <string id="strTalkSikaVillageWiseSage030" text="So, how can you increase your power and influence." />
+    <string id="strTalkSikaVillageWiseSage031" text="HaHa, outsider, not our power and influence, but YOUR power and influence." />
+    <string id="strTalkSikaVillageWiseSage032" text="Help me? But why?" />
+    <string id="strTalkSikaVillageWiseSage033" text="Why? you saved us from the Slavers, we will never forgot that. The Slavers are powerful, we must fight together." />
+    <string id="strTalkSikaVillageWiseSage034" text="Got it, then let's put an end to those bastard together." />
+    <string id="strTalkSikaVillageWiseSage035" text="Although this is not what I want, there is no other way now." />
+    <string id="strTalkSikaVillageWiseSage036" text="There are still many people oppressed by the Slavers in this continent. These people is surely willing to help us. As long as we gather the strength of everyone, we have the hope to defeat the Slavers." />
+    <string id="strTalkSikaVillageWiseSage037" text="So, what is our first step." />
+    <string id="strTalkSikaVillageWiseSage038" text="First we must set up our own faction, then we shall make this settlement a stronghold, then we will talk about deal with the slavers." />
+    <string id="strTalkSikaVillageWiseSage039" text="Then we can defeat them?" />
+    <string id="strTalkSikaVillageWiseSage040" text="Of course not, but we have already send messagers to every faction we have contact in the continent. the fate of sikan and us will count on you, outlander. So, please, accept our loyalty!" />
+    <string id="strTalkSikaVillageWiseSage041" text="I accept!" />
+    <string id="strTalkSikaVillageWiseSage042" text="Elder Monnai, {PLAYER.NAME}, We need to speed up the construction of village and prepare for defense. We need to find help from anyone they can, but first we need someone to protect this settlement. There is a famous Rogue named Xiang Chu Ba nearby. He is the largest bandit band nearby. The most important thing is that unlike ordinary bandits, he only robs the the rich, and distributes the looted goods and money to those in need. Such behavior attracted many people to join him. If we can find a way to persuade him join our cause, it will be of great help to us. My people heard that now his band is resting near our village. If you want to persuade him, you must defeat him first." />
+    <string id="strTalkSikaVillageWiseSage043" text="OK, I see. Let me deal with him." />
+
+    <string id="strTalkSikaVillageWiseSage044" text="Come backed so soon? He must be very unconvinced." />
+    <string id="strTalkSikaVillageWiseSage045" text="Yes, what's next? I've let him go. And I told him that he'll have to join us the next time he loses." />
+    <string id="strTalkSikaVillageWiseSage046" text="That's it. prepare yourself. He will come soon." />
+    <string id="strTalkSikaVillageWiseSage047" text="Will he come?" />
+    <string id="strTalkSikaVillageWiseSage048" text="Don't worry, he will come as soon as possible. However, he has a large warband under his command. But I have got a plan for that, just follow my arrangement." />
+    <string id="strTalkSikaVillageWiseSage049" text="Can I trust you? defeat a person with such a big warband is not a walk in the park." />
+    <string id="strTalkSikaVillageWiseSage050" text="Well, I've already thought of it. Listen to my arrangement. I've set a trap for him. After the battle started, he won't take your life. After fighting for a while, you can escape." />
+    <string id="strTalkSikaVillageWiseSage051" text="Retreat?" />
+    <string id="strTalkSikaVillageWiseSage052" text="Yes, but a fake one, you can lure to our ambush." />
+    <string id="strTalkSikaVillageWiseSage053" text="Then?" />
+    <string id="strTalkSikaVillageWiseSage054" text="Remember when you retreat, head to the vally in the far side, we are outnumbered, so we must choose the best advantage point to set our ambush and traps." />
+    <string id="strTalkSikaVillageWiseSage055" text="Understood." />
+    <string id="strTalkSikaVillageWiseSage056" text="The rest is my part. Everything is under control. The bait has been thrown out, we just waiting for him to bite." />
+    <string id="strTalkSikaVillageWiseSage057" text="(a member of the Cagies walks in and says that there is a man who calls himself Xiang Chu Ba outside with a large warband.)" />
+    <string id="strTalkSikaVillageWiseSage058" text="As I expected, it seems that he already knew this place. Remember, don't panic, just follow the plan." />
+    <string id="strTalkSikaVillageWiseSage059" text="I see. I don't want to die too young." />
+
+    <string id="strTalkSikaVillageWiseSage060" text="Anything I can do for you?" />
+    <string id="strTalkSikaVillageWiseSage061" text="Nothing." />
+
+    <string id="strTalkSikaVillageWiseSage062" text="Can I help you?" />
+    <string id="strTalkSikaVillageWiseSage063" text="Nothing." />
+
+    <string id="strTalkSikaVillageWiseSage064" text="Got any plan?" />
+    <string id="strTalkSikaVillageWiseSage065" text="No." />
+
+    <string id="strTalkSikaVillageWiseSage066" text="Listen, Xiang and the people below. Put down your weapons and surrender. You are surrounded. Your life is in our hand." />
+    <string id="strTalkSikaVillageWiseSage067" text="Shut up,if you think you're such a tough guy,come and take my life!" />
+    <string id="strTalkSikaVillageWiseSage068" text="Hahaha, Xiang, you are still like this. Don't let your brothers lose their lives for nothing." />
+    <string id="strTalkSikaVillageWiseSage069" text="Screw you, it's better to die than to be in the hands of you people!" />
+    <string id="strTalkSikaVillageWiseSage070" text="That's right, but can't you remember my voice? Xiang" />
+    <string id="strTalkSikaVillageWiseSage071" text="Who cares who you are, huh? Is it Ki... Is that brother Lorin?" />
+    <string id="strTalkSikaVillageWiseSage072" text="(Lorin asks everyone to put down their weapons and walk toward Xiang) Them who else can it be?" />
+    <string id="strTalkSikaVillageWiseSage073" text="How is this possible? Brother? It is really you. Did you...? It's all my fault, my fault, MY FAULT!" />
+    <string id="strTalkSikaVillageWiseSage074" text="Well, many things can't be changed by you and me. It seems that you have grown up and matured." />
+    <string id="strTalkSikaVillageWiseSage075" text="What's going on? Why is brother Lorin here." />
+    <string id="strTalkSikaVillageWiseSage076" text="(Lorin looks at you) he saved me from the Slavers. We built a base to fight Slavers. I told him to find you." />
+    <string id="strTalkSikaVillageWiseSage077" text="I see.Xiang knows.Xiang is willing to follow brother Lorin to kill those bastards." />
+    <string id="strTalkSikaVillageWiseSage078" text="Well, thank you, brother. But one thing, not with me, but with him. I'll tell you your place in my plan, and then you can arrange the things." />
+    <string id="strTalkSikaVillageWiseSage079" text="No problem! Brother Lorin, don't worry, you can count on me." />
+
+    <string id="strTalkSikaVillageWiseSage1001" text="My Lord, here you are." />
+    <string id="strTalkSikaVillageWiseSage1002" text="Do you know this Xiang Chuba?" />
+    <string id="strTalkSikaVillageWiseSage1003" text="Yes, I'm sorry I didn't explain to you before. Please don't worry, Lord. He is also a member of our Cagie family, and he can definitely be trusted." />
+    <string id="strTalkSikaVillageWiseSage1004" text="Is he a member of the Cagie clan? Then why isn't he with you?" />
+    <string id="strTalkSikaVillageWiseSage1005" text="This is a long story. Chuba and I have deep blood feuds with the slaver group. Our Cagie people will keep our vows and be loyal to the Lord. Besides the Lord, we can't go anywhere. We will take this place as our own home." />
+    <string id="strTalkSikaVillageWiseSage1006" text="I see, so what should we do next? How to resist the power of the slaver group." />
+    <string id="strTalkSikaVillageWiseSage1007" text="On the one hand, it is to see whether the Sika knight can provide help (he looks to the side of Derian, but Derian ignores him), on the other hand, we should go to other parts of the mainland to find forces that can help us resist the slaver group. There are many forces resisting the slave group in different places. Let's see if we can form an alliance with them to resist the slaver group." />
+    <string id="strTalkSikaVillageWiseSage1008" text="I'll go to see Deri (before you finish speaking, Derian snorted and interrupted you)" />
+    <string id="strTalkSikaVillageWiseSage1009" text="(Derian: hum, what forces can there be on this continent? In addition to the Sika knights who can really resist the slaver group, who else is interested in guarding the Sikans. You refuse to go to the Sika church and want to ask for their help. And don't you know that because of your existence, the slaver group will not let go here. I don't know the gratitude and resentment between the slaver group and the Sika family, but the gratitude and resentment between you and them must be known to everyone.)" />
+    <string id="strTalkSikaVillageWiseSage1010" text="What grudges do you have with the slaver group?" />
+    <string id="strTalkSikaVillageWiseSage1011" text="Endless gratitude and resentment. Lord, you can ask the Sika Knight if he can help us, and then we can discuss the next plan." />
+    <string id="strTalkSikaVillageWiseSage1012" text="That's all right." />
+
+    <string id="strTalkSikaVillageWiseSage1101" text="I know my Lord, you have many questions. I will try to answer you." />
+    <string id="strTalkSikaVillageWiseSage1102" text="Are you the only Cagie people left after being destroyed by the slaver group hundreds of years ago?" />
+    <string id="strTalkSikaVillageWiseSage1103" text="126 years ago, Lord. Yes, the only Cagie people left after we fled after the destruction of the kingdom. As for the reason, what the lord heard was not true. The queen of the Cagie clan was never a slave." />
+    <string id="strTalkSikaVillageWiseSage1104" text="Not a slave? You mean your king didn't marry a slave at that time? So why did the slaver group attack you." />
+    <string id="strTalkSikaVillageWiseSage1105" text="We don't know why, but it's clear in our records that the queen led the Cagie people to prosperity at that time. Everything was an excuse made by the slaver group to plunder us." />
+    <string id="strTalkSikaVillageWiseSage1106" text="I see. Why did the slaver group attack you again after so many years?" />
+    <string id="strTalkSikaVillageWiseSage1107" text="I don't know why they attacked us again. If I knew, I would be ready for everything. Not like now." />
+    <string id="strTalkSikaVillageWiseSage1108" text="Who are you, including the Sika knight? Their goal seems to be you?" />
+    <string id="strTalkSikaVillageWiseSage1109" text="I originally wanted to explain to you after the Lord solved the slaver group. I hope you can trust me and my people. I am the current leader of the Cagie nationality, Cagie Holland Isabel Lorin! We Kajie people are determined to be loyal to you, and you will be our forever leader." />
+    <string id="strTalkSikaVillageWiseSage1110" text="I think I can only trust you now. So Xiang Chuba is?" />
+    <string id="strTalkSikaVillageWiseSage1111" text="After last attack, Xiang Chuba and a small number of Cagie people escaped from being captured by the slave group. The Lord can rest assured that we will defend here to the death." />
+    <string id="strTalkSikaVillageWiseSage1112" text="What's our next plan? The Sika Knight doesn't seem to help us?" />
+    <string id="strTalkSikaVillageWiseSage1113" text="Monnai patriarch has discussed with me, and Monnai patriarch will try to contact Sika Knight them. Our plan is that the Lord will go to the major forces to find local forces willing to resist the slaver group together. This is a place where the Lord can go to visit the major forces. Please be careful, don't easily expose your identity and purpose. The claws and teeth of the slaver group are all over the continent. In addition, Monnai clan leader seems to have additional plans and Lord, you say." />
+    <string id="strTalkSikaVillageWiseSage1114" text="I got it!" />
+
+   <!-- 卡杰族洛林对话结束 -->
+
+   <!-- 强盗项楚霸对话开始 -->
+    <string id="strTalkSikaSettlementXiang001" text="Who? I'm resting. You want to die, do you?" />
+    <string id="strTalkSikaSettlementXiang002" text="You are Xiang Chu Ba, right? I am the Lord of the nearby village. I hope I can get your help." />
+    <string id="strTalkSikaSettlementXiang003" text="Ha ha ha, you really make me laugh. Since you came to me, don't you know my reputation? I like you lords and rich people best. I've been robbing for years. It's the first time that I saw prey coming to my door. Forget it. I'm in a good mood today. Just deliver me all the valuable you have and you can go." />
+    <string id="strTalkSikaSettlementXiang004" text="In that case, you should be ready for surrender!" />
+    <string id="strTalkSikaSettlementXiang005" text="Wow, this's the first time I've met someone more crazy than me. Guys, charge!" />
+    <string id="strTalkSikaSettlementXiang006" text="Attack!" />
+
+    <string id="strTalkSikaSettlementXiang007" text="If I had bring my whole warband, today will be your last day. I didn't expect to die at the hands of a scum like you." />
+    <string id="strTalkSikaSettlementXiang008" text="I'm not here to kill you. I just want you to help me protect my settlement." />
+    <string id="strTalkSikaSettlementXiang009" text="Hahaha, today must be the funniest day for me. A nobleman asked a bandit for protect his land. Don't humiliate me any more. A man can be killed but not humiliated. Today, I admit defeat. Take my life." />
+    <string id="strTalkSikaSettlementXiang010" text="... I really didn't come to take your life. If you don't believe me, I can let you go." />
+    <string id="strTalkSikaSettlementXiang011" text="Let me go? If think you are strong enough, you can let me go. I will be back with my brothers, Then I will beat you to kneel on the ground and beg for your life." />
+    <string id="strTalkSikaSettlementXiang012" text="I'll let you go now, but if you lose next time, you to join me." />
+    <string id="strTalkSikaSettlementXiang013" text="(you ordered someone to let him go) hahaha, you can't defeated me twice. You are really a strange man. I will spare your life next time. Just prepare the valuable things for me." />
+    <string id="strTalkSikaSettlementXiang014" text="I'll be waiting for you." />
+
+    <string id="strTalkSikaSettlementXiang015" text="I didn't expect you to dare to come out. It's not easy. See my powerful army, haven't you scared ? Hahaha, I'm not as kind as you. This time I want you to kneel before me." />
+    <string id="strTalkSikaSettlementXiang016" text="I didn't expect you to talk so much. If you are here for a fight, do it!" />
+    <string id="strTalkSikaSettlementXiang017" text="I just want you to join us. Since a battle is inevitable, so be it!" />
+    <string id="strTalkSikaSettlementXiang018" text="Charge!" />
+    <string id="strTalkSikaSettlementXiang019" text="Attack!" />
+
+    <string id="strTalkSikaSettlementXiang020" text="Hello my lord, Lorin has told me everything, you can count on me. As I still hold a breath, the Slavers won't proceed for one step." />
+    <string id="strTalkSikaSettlementXiang021" text="I trust you, you are welcome." />
+    <string id="strTalkSikaSettlementXiang022" text="Brother Lorin said that rank cannot be confused.My lord,if you doesn't mind, let's have a competition alone when we are free. I won't lose this time. lost to Lorin's strategy is not defeat. I'll finish what Lorin told me to do first." />
+    <string id="strTalkSikaSettlementXiang023" text="No problem. Practice makes perfect. I'll wait you." />
+
+    <string id="strTalkSikaSettlementXiang024" text="I will protect the village. You can count on me!" />
+    <string id="strTalkSikaSettlementXiang025" text="Okey." />
+
+    <string id="strTalkSikaSettlementXiang1001" text="My lord, you are back. I have arranged the task assigned to me by brother Lorin. Slaver regiment, I will make them pay the price! Lord, don't worry, I will protect brother Lorin and the village with my life. Everything will not happen again!" />
+    <string id="strTalkSikaSettlementXiang1002" text="The second time?" />
+    <string id="strTalkSikaSettlementXiang1003" text="My lord, brother Lorin is waiting for you in the Lord hall. I hope you can lead us to defeat the slaver regiment." />
+    <string id="strTalkSikaSettlementXiang1004" text="I see." />
+
+   <!-- 强盗项楚霸对话结束 -->
+
+   <!-- 艾灵族侦察射手格丽尔安对话开始 -->
+    <!--<string id="strTalkElinScout1001" text="我们快接近。" />
+    <string id="strTalkElinScout1002" text="占位符" />
+    <string id="strTalkElinScout1003" text="占位符" />
+    <string id="strTalkElinScout1004" text="占位符" />
+    <string id="strTalkElinScout1005" text="占位符" />
+    <string id="strTalkElinScout1006" text="占位符" />
+    <string id="strTalkElinScout1007" text="占位符" />
+    <string id="strTalkElinScout1008" text="占位符" />
+    <string id="strTalkElinScout1009" text="占位符" />
+    <string id="strTalkElinScout1010" text="占位符" />
+    <string id="strTalkElinScout1011" text="占位符" />
+    <string id="strTalkElinScout1012" text="占位符" />-->
+
+    <string id="strTalkElinScout1101" text="If you have any questions about us, you can ask me." />
+    <string id="strTalkElinScout1102" text="good." />
+
+    <string id="strTalkElinScout1201" text="Hurry! Go and save Princess Mele!" />
+    <string id="strTalkElinScout1202" text="Princess Mele? (Lotas on the side explains to you that Melethvon is the princess of the Elin family)" />
+    <string id="strTalkElinScout1203" text="Yes, we came out to play and were found by the slaver group. They captured Princess Mele. If we don't go now, it will be too late." />
+    <string id="strTalkElinScout1204" text="(Derian: the princess of the Elin clan come out to play without protection?) Where is she now?" />
+    <string id="strTalkElinScout1205" text="They should be near Mokebo city. We have to start quickly." />
+    <string id="strTalkElinScout1206" text="Your body?" />
+    <string id="strTalkElinScout1207" text="It doesn't matter. Let's go quickly. As long as we save Princess Melethvon, the Elin family will try their best to repay you." />
+    <string id="strTalkElinScout1208" text="OK, I see. Let's go." />
+
+    <string id="strTalkElinScout1301" text="Here you are. Thank you very much for saving Princess Melethvon." />
+    <string id="strTalkElinScout1302" text="Do you know about this Bracelet?" />
+    <string id="strTalkElinScout1303" text="I have reported your matter to Queen Radruweel. The queen is waiting for you inside and she will answer it for you. In addition, thank you again for saving Princess Melethvon." />
+    <string id="strTalkElinScout1304" text="Sure." />
+
+   <!-- 艾灵族侦察射手格丽尔安对话结束 -->
+
+   <!-- 巫婆对话开始 -->
+    <string id="strTalkSikaWitch1001" text="Outlander, you have got the answer you looking for." />
+    <string id="strTalkSikaWitch1002" text="Okey." />
+
+    <string id="strTalkSikaWitch1101" text="It's been a long time since last time some one came here, so why are you here?" />
+    <string id="strTalkSikaWitch1102" text="Hello, I heard that you have the ability to foresee the future, so I'm here to learn about my future." />
+    <string id="strTalkSikaWitch1103" text="Hahaha, everyone come here to see their future. But, let an dim-sighted old hag to decide you future, don't you think this is not a good idea?" />
+    <string id="strTalkSikaWitch1104" text="I hope I can hear your guidance." />
+    <string id="strTalkSikaWitch1105" text="No matter what happen, I will have my own choice." />
+    <string id="strTalkSikaWitch1106" text="Let's see, Sikan? interesting. wait, you, you are the outlander! Seems like the time of change has come. Tell me, outlander? why are you here, in this land, your answer will decide your future." />
+    <string id="strTalkSikaWitch1107" text="I'm here to dominate this world!" />
+    <string id="strTalkSikaWitch1108" text="I'm to save this world!" />
+    <string id="strTalkSikaWitch1109" text="I'm here to have fun in this world." />
+    <string id="strTalkSikaWitch1110" text="I'm to bring destruction to this world." />
+    <string id="strTalkSikaWitch1111" text="Hahaha, I know. Outlander, have you prepared to face your future?" />
+    <string id="strTalkSikaWitch1112" text="I'm ready." />
+    <string id="strTalkSikaWitch1113" text="Close your eyes, the goddess of fate will lead you reveal your future!" />
+    <string id="strTalkSikaWitch1114" text="(You close your eyes, suddenly you can't feel the weight of your body, and your consciousness faded)" />
+   <!-- 巫婆对话结束 -->
+
+   <!-- 若璃对话开始 -->
+    <string id="strTalkWitchStudent1001" text="Then, let us begin our journey!" />
+    <string id="strTalkWitchStudent1002" text="Okey." />
+
+    <string id="strTalkWitchStudent1101" text="You're awake! How are you? Is the enemy in the dream super handsome and powerful?!" />
+    <string id="strTalkWitchStudent1102" text="...in a dream? Did I just sleeping?" />
+    <string id="strTalkWitchStudent1103" text="Ah, I forgot to explain to you. Not sleeping, but experiencing what will happen in the future." />
+    <string id="strTalkWitchStudent1104" text="...what will happen in the future." />
+    <string id="strTalkWitchStudent1105" text="Yes, the teacher said that your future will be very complex. and the enemy you meet should be the most powerful so far. So what, is he super strong, and how tall is he?" />
+    <string id="strTalkWitchStudent1106" text="So, are these things inevitable?" />
+    <string id="strTalkWitchStudent1107" text="The teacher's ability is to take you to experience what may happen. The teacher said that the gear of fate rolls with the law of time, everything is possible, nothing is possible. So, what does he look like?" />
+    <string id="strTalkWitchStudent1108" text="I can't remember it very well… a set of blace armor? and who are you?" />
+    <string id="strTalkWitchStudent1109" text="Full body black armor, sounds cool! Ah, I forgot to introduce myself, hello, my name is Lotas, I am very happy to be your companion." />
+    <string id="strTalkWitchStudent1110" text="Companion? I'm glad you can join me." />
+    <string id="strTalkWitchStudent1111" text="Companion? I don't want a woman who worships the enemy to be my companion." />
+    <string id="strTalkWitchStudent1112" text="Be sure to take me with you. My teacher said that if you want to change the future and find your own way, you will definitely need my help. Moreover, I tell you, I know a lot of things. I have studied with my teacher for many years." />
+    <string id="strTalkWitchStudent1113" text="So can you also predict?" />
+    <string id="strTalkWitchStudent1114" text=".. I know how to treat wounds with herbs. Alas, let's start quickly. The teacher said that we should hurry to the territory of the Elin's nationality!" />
+    <string id="strTalkWitchStudent1115" text="The Elin's nationality?" />
+    <string id="strTalkWitchStudent1116" text="Well, this thing is for you (she handed you a Bracelet), the teacher said that you will need this thing later. The teacher also said that if you want to get help to solve the immediate difficulties, you must go to the territory of the Elin's nationality. Now let's go on an adventure. The territory of the Elin's nationality is deep in the northwest forest of the mainland." />
+    <string id="strTalkWitchStudent1117" text="OK, let's go. (northwest? I remember that the far north of the continent is an area covered with snow all the year round...)" />
+
+    <string id="strTalkWitchStudent1201" text="Am I dead? Or? What happened?" />
+    <string id="strTalkWitchStudent1202" text="There is some noise outside the door. It's better to go out and see what's going on." />
+   <!-- 若璃对话结束 -->
+
+   <!-- 艾灵族公主米莉斯玟对话开始 -->
+    <string id="strTalkElinLeaderDaughter1001" text="Let's go on setting out." />
+    <string id="strTalkElinLeaderDaughter1002" text="Okey." />
+
+    <string id="strTalkElinLeaderDaughter1101" text="Geliran! You finally came to save me. I'm boring to death." />
+    <string id="strTalkElinLeaderDaughter1102" text="Are you all right?" />
+    <string id="strTalkElinLeaderDaughter1103" text="Geliran, Who are they?" />
+    <string id="strTalkElinLeaderDaughter1104" text="(Geliran: Princess, I met them on my way here. They helped me. They saved you.)" />
+    <string id="strTalkElinLeaderDaughter1105" text="I see. You can go back to my mother and she will pay you handsomely... Huh? Are you not Wulltenese?" />
+    <string id="strTalkElinLeaderDaughter1106" text="Yes, I from another continet." />
+    <string id="strTalkElinLeaderDaughter1107" text="Outlander? really? so you come for adventure? wow, you must experienced many exciting stories." />
+    <string id="strTalkElinLeaderDaughter1108" text="... (Geliran: Princess, we should go back.)" />
+    <string id="strTalkElinLeaderDaughter1109" text="Foreigner, are you still going to explore? How about I accompany you? I'm the most powerful shooter of the Elin race. Where are you going next? Let's travel all over the mainland together, hahaha~~" />
+    <string id="strTalkElinLeaderDaughter1110" text="We want to go to the territory of the Elin. Do you have any way? (you remember the Bracelet Lotas gave you. You take out the Bracelet and show it to Melethvon.)" />
+    <string id="strTalkElinLeaderDaughter1111" text="(when Melethvon's eyes touched the Bracelet in your hand, her eyes suddenly became calm and clear) Geliran, we're back. Foreigner, thank you for saving me. Go to the territory of the Elin race, and I will take you in." />
+    <string id="strTalkElinLeaderDaughter1112" text="(Derian is thinking about something thoughtfully.) OK, let's go." />
+
+    <string id="strTalkElinLeaderDaughter1201" text="Welcome to Elin's Settlement!" />
+    <string id="strTalkElinLeaderDaughter1202" text="Wow, it's so beautiful here." />
+    <string id="strTalkElinLeaderDaughter1203" text="Indeed, it deserves to be the settlement of the Elin." />
+    <string id="strTalkElinLeaderDaughter1204" text="Of course! Our Elin people have lived here for generations, which is our proudest place." />
+    <string id="strTalkElinLeaderDaughter1205" text="Who should we go to now?" />
+    <string id="strTalkElinLeaderDaughter1206" text="Go to the village and find Geliran. She should have finished reporting to my mother." />
+
+   <!-- 艾灵族公主米莉斯玟对话结束 -->
+
+   <!-- 艾灵族女王瑞德欧威对话开始 -->
+    <string id="strTalkElinLeader1001" text="The Elin people welcome you, foreigner." />
+    <string id="strTalkElinLeader1002" text="Thank you." />
+
+    <string id="strTalkElinLeader1101" text="Here you come, foreigner, The Child of Fate. I know your story. Thank you so much for saving my daughter." />
+    <string id="strTalkElinLeader1102" text="Yes, I saved Princess Melethvon from the slavers. I want to..." />
+    <string id="strTalkElinLeader1103" text="(she interrupts you) I know the reason why you came here. (she points to Lotas) her teacher has told me. Can you show me that Bracelet first?" />
+    <string id="strTalkElinLeader1104" text="(You show her the Bracelet.)" />
+    <string id="strTalkElinLeader1105" text="Yes, but you can put it away for now. The Elins are not interestd in anything except our home." />
+    <string id="strTalkElinLeader1106" text="The Slavers kidnapped your daughter, If it's not us she will be sell as a slave." />
+    <string id="strTalkElinLeader1107" text="It's her choice and she must face the consquence." />
+    <string id="strTalkElinLeader1108" text="(Millieswen : Mom…)" />
+    <string id="strTalkElinLeader1109" text="(she ignores Melethvon) Foreigner, the slavers is not the only threat to this continent. We are very willing to help you, but we also have our problems." />
+    <string id="strTalkElinLeader1110" text="Your problem? I heard you have been living here for a long time." />
+    <string id="strTalkElinLeader1111" text="Yes, but do you know why?" />
+    <string id="strTalkElinLeader1112" text="No." />
+    <string id="strTalkElinLeader1113" text="A long time ago, the Elin race was also a powerful force in the world. Until the arrival of the devour demons, we had a long war with them, but they kept landing from a void. In order to prevent them from invading the mainland, we have been guarding here for generations." />
+    <string id="strTalkElinLeader1114" text="It was so." />
+    <string id="strTalkElinLeader1115" text="If you are willing to help us, we can help you, not only to resist the slavers, but to become a true ally." />
+    <string id="strTalkElinLeader1116" text="Of course, if I can, I'm willing to help you. But how can I help you? (Lotas lets you look at the Bracelet on your hand)" />
+    <string id="strTalkElinLeader1117" text="Yes, that Bracelet is an Elin artifact, it can offer you protection against the hostile energy and let you enter the land of banished." />
+    <string id="strTalkElinLeader1118" text="Land of banished?" />
+    <string id="strTalkElinLeader1119" text="Yes, the land of banished, the land of the Night-lurked devil. The land of banished is a place full of death energy, which weaken the Night-lurk devil, that offer you a chance to defeat them. If you can enter the land of banished and weaken them, we will have more strengrth to help you." />
+    <string id="strTalkElinLeader1120" text="I know, so what shall I do?" />
+    <string id="strTalkElinLeader1121" text="When you are ready, I will perform a ritual. Through the ritual and my spell, the Bracelet will teleport you into the land of banished." />
+    <string id="strTalkElinLeader1122" text="I'm ready." />
+
+    <string id="strTalkElinLeader1201" text="You come back, how do you feel now? anything unusual? Is it going well?" />
+    <string id="strTalkElinLeader1202" text="Nothing unusual about my self, but those devil are more powerful than I except." />
+    <string id="strTalkElinLeader1203" text="Yes, maybe they start to adapt the environment of the land of the banished as the time gose by. But, anyway, you done a great favor to us. child of the fate." />
+    <string id="strTalkElinLeader1204" text="So, can I except your help now?" />
+    <string id="strTalkElinLeader1205" text="The number of those devil is over Overwhelmingly big, the Bracelet can recharege itself every week, which means you can enter the land of the banished regularly. You can Use the ring and the spell I taught you near any town to enter the land of the banished." />
+    <string id="strTalkElinLeader1206" text="Understood." />
+    <string id="strTalkElinLeader1207" text="As your reward, I queen of the Elin, offically decleard, princess Millieswen is now banished from our society and will no longer treated as a member of our race, because she Left the Sacred land without my permisssion. But, I allow her enter the Elin lands. Outlander I must apologize because we still need to stay here and protect this place from the devils. But I will send scouts to protect your settlement, If there's an invasion, you can except our reinforcements." />
+    <string id="strTalkElinLeader1208" text="Thanks for your help." />
+
+   <!-- 艾灵族女王瑞德欧威对话结束 -->
+
+   <!-- 敌人部队见面对话开始 -->
+    <string id="strTalkSlaveLeader001" text="Outsider fool, how dare you are. You attacked us and try to free our cargo, we are everywhere, surrender now!" />
+    <string id="strTalkSlaveLeader002" text="Fight me if you can!" />
+
+    <string id="strTalkSlaveLeader003" text="Feel the wrath of the slavers!" />
+    <string id="strTalkSlaveLeader004" text="Fight!" />
+    
+    <string id="strTalkSlaveSendCap001" text="Looks like we have the fool dare to attack us." />
+    <string id="strTalkSlaveSendCap002" text="Fight!" />
+
+    <string id="strTalkSlaveLeader005" text="Who are you? We are from Slaver." />
+    <string id="strTalkSlaveLeader006" text="So what, Charge!" />
+
+   <!-- 敌人部队见面对话结束 -->
+
+   <!-- 其他对话开始 -->
+
+    <string id="strTalkSikaSettlementVillager001" text="Dear master, thank you for saving us." />
+    <string id="strTalkSikaSettlementVillager002" text="Okey." />
+    <string id="strTalkSikaSettlementVillager003" text="Don't come closer,foreigner." />
+
+    <string id="strTalkSikaSettlementSikaLeave001" text="Nobody can protect us except ourselves." />
+    <string id="strTalkSikaSettlementSikaLeave002" text="Yes." />
+    
+   <!-- 其他对话结束 -->
+
+  <!-- 所有对话结束 -->
+
+  <!-- 左侧菜单开始 -->
+    <string id="strQuestMenu001" text="You sneak around the enemy camp with your troops. Looks like the patrol around the camp haven't notice you for now, It's the right moment to strke!" />
+    <string id="strQuestMenu002" text="Start battle!" />
+    <string id="strQuestMenu003" text="Leave for now." />
+
+    <string id="strQuestMenu004" text="You clear the enemy near the camp. Vilken tell you If you are ready, You can launch an attack to the bandits attacked you that night." />
+    <string id="strQuestMenu005" text="Attack!" />
+    <string id="strQuestMenu006" text="Leave for now." />
+
+    <string id="strQuestMenu007" text="You and Sally found the camp of the slavers, seems like they are holding their prisoners here. This is an important outpost for the slavers, you noticed many soliders and guards are moving in the camp, this will be tough." />
+    <string id="strQuestMenu008" text="Attack!" />
+    <string id="strQuestMenu009" text="Leave for now." />
+
+    <string id="strQuestMenu010" text="You are ambushed! slavers everywhere, you must fight!" />
+    <string id="strQuestMenu011" text="Fight for your life!" />
+
+    <string id="strQuestMenu012" text="The slavers appears in your sight, looks like they won't leave without a fight, your soldiers are ready for battle." />
+    <string id="strQuestMenu013" text="Fight!" />
+    <string id="strQuestMenu014" text="Leave for now." />
+
+    <string id="strQuestMenu015" text="You followed Derian out of the tavern. Derian seemed to walk along the street with you casually. In fact, he observed every movement around. After turn two corners, you also obviously feel that someone is following you. Derian motioned you to follow him. Just as you two walked into the market, a child suddenly scattered a bucket of fruit on the ground in front of you." />
+    <string id="strQuestMenu016" text="Give Derian a signal, let him examine what happened." />
+    <string id="strQuestMenu017" text="Help the kid to pick up the fruits." />
+
+    <string id="strQuestMenu018" text="Derian nodded to you silently, and seemed to walk towards the scattered fruits on the ground with ease. His cold eyes revealed his real state at the moment, like a flying eagle, looking around at everything. Derian bent down and picked up two apples and oranges. Nothing happened. Just as he bent down to pick up the third fruit, a figure flashed out and stab him with a dagger. Derian had already made preparations. He blocked the attack with the apple in his hand. Before the figure pulled out the stucked dagger , Derian drew the dagger from his waist with his right hand, stab it into the attacker's throat. The people around immediately scattered and fled. You run to Derian and ask If he was hurt. Derian raises the apple with attacker's dagger. Then he signals you to prepare for a fight. The people who follow him have come." />
+    <string id="strQuestMenu019" text="Fight!" />
+    <string id="strQuestMenu020" text="You look around and there seems to be nothing abnormal. You carefully pick up a few fruits in front of you. Just as you bent down to pick up an orange, a figure suddenly flashed out of the shadow. Even if you were ready, his dagger stabbed you on your left shoulder. You also drew out a dagger from your waist with your right hand, and stab it into his neck. Derian rushed to you. His looks a little worried, but he told you not to mind the dagger on your left shoulder for now. More attackers appeared!" />
+  
+    <string id="strQuestMenu021" text="You managed to defeat all the attackers with the help of Derian. You thanked him and told him your purpose and wish he can answer your question about the letter." />
+    <string id="strQuestMenu022" text="Continue." />
+
+    <string id="strQuestMenu023" text="You were knocked out by the attackers, but Derian finally defeated them. After a while, you woke up. After that, you expressed your intention to Derian and hoped that he could answer your questions about this letter and help the sikans." />
+    <string id="strQuestMenu024" text="Continue." />
+
+    <string id="strQuestMenu025" text="You followed Derian through the city, through an alley, and came to a place surrounded by houses. Derian came to the only door. He knocked on the door according to a specific rhythm. You remember it down in your heart. There was no response. You and Derian looked at each other, and then saw that the door handle seemed to be askew. Derian pushed it gently, and the door opened. He rushed in." />
+    <string id="strQuestMenu026" text="Get in." />
+    <string id="strQuestMenu027" text="Leave." />
+
+    <string id="strQuestMenu028" text="Xiang's army is out of sight. Even so, you can only follow Lorin's plan. hope his plan will work." />
+    <string id="strQuestMenu029" text="You decide to charge Xiang's troops fearlessly." />
+    <string id="strQuestMenu030" text="As you charged fearlessly, the enemy troops easily surrounded your men. Instead of taking your men's lives, they asked for ransom. Facing the enemy, you could only attack again. Lost 1000 dinars." />
+    <string id="strQuestMenu031" text="You decide to attack and ready to retreat at any time." />
+    <string id="strQuestMenu032" text="In the face of a large number of enemies, even if you do not charge in, your attack will not have a good effect." />
+    <string id="strQuestMenu033" text="You decide to attack without plan." />
+    <string id="strQuestMenu034" text="With your unplanned attack, the enemy's large forces easily surrounded your men. Instead of taking your men's lives, they asked for a ransom. Facing the enemy,you could only attack again. Lost 1000 dinars." />
+
+    <string id="strQuestMenu035" text="There are too many of Xiang's troops, your attack has no effect. what is your next step?" />
+    <string id="strQuestMenu036" text="Retreat Now!" />
+    <string id="strQuestMenu037" text="Your retreat immediately provoked their pursuit." />
+    <string id="strQuestMenu038" text="Keep attacking!" />
+    <string id="strQuestMenu039" text="In this situation, continuing to attack will only lead to your men being captured. You have to pay ransom. Lost 1000 Dinars." />
+    <string id="strQuestMenu040" text="Hold the line." />
+    <string id="strQuestMenu041" text="In this situation, maintaining  defense  will only lead to your men being captured. You have to pay ransom. Lost 1000 Dinars." />
+
+    <string id="strQuestMenu042" text="With the enemy on your tail, you can retreat in several directions. You will..." />
+    <string id="strQuestMenu043" text="retreat to the mountains." />
+    <string id="strQuestMenu044" text="There was no supporting force in the direction you fled. You lost 1000 dinars and returned to the starting point." />
+    <string id="strQuestMenu045" text="retreat to the plain." />
+    <string id="strQuestMenu046" text="There was no supporting force in the direction you fled. You lost 1000 dinars and returned to the starting point." />
+    <string id="strQuestMenu047" text="retreat to the depths of the forest." />
+    <string id="strQuestMenu048" text="There was no supporting force in the direction you fled. You lost 1000 dinars and returned to the starting point." />
+    <string id="strQuestMenu049" text="retreat to the depths of the valley." />
+
+    <string id="strQuestMenu050" text="You can see many different sceneries in turn, which seem to be all regions of Sika Land continent. You also see all kinds of people around you. Finally, you see a man in black armor standing in the distance, as if he was going to attack you!" />
+    <string id="strQuestMenu051" text="Fight!" />
+    <string id="strQuestMenu052" text="As your sword gradually sank into his body, he suddenly burst out with strong vitality. He grabbed your sword with one hand, and the sword of the other hand instantly pierced your chest, and your consciousness began to gradually disappear..." />
+    <string id="strQuestMenu053" text="Coma." />
+    <string id="strQuestMenu054" text="He easily grabbed your sword with one hand, and the sword of the other hand instantly pierced your chest, and your consciousness began to gradually disappear..." />
+    <string id="strQuestMenu055" text="Coma." />
+
+    <string id="strQuestMenu056" text="You followed the Elins to the slavers camp. What are they celebrating. They should be the ones who captured the Elin princess." />
+
+    <string id="strQuestMenu057" text="The Elins has prepared a place. When Queen Radruweel has you ready, hold a Bracelet and read after her: 'Albeno-Das'." />
+    <string id="strQuestMenu058" text="Albeno-Das!" />
+
+    <string id="strQuestMenu059" text="Enter the land of the banished" />
+
+    <string id="strQuestMenu060" text="You successfully lured Xiang Chuba's troops into the canyon, and Lorin also successfully enclosed Xiang Chuba's troops in the canyon." />
+
+    <string id="strQuestMenu061" text="Derian asked you to camp here and rest your troops." />
+
+  <!-- 左侧菜单结束 -->
+
+   <!-- QuestInitBehaviour弹窗开始 -->
+    <string id="strQuestWindow016" text="A greeting from the Knights of sika" />
+    <string id="strQuestWindow017" text="Dear traveler: Knights of Sika sincere greetings you. We welcome friends from all over the world to visit us. We the Lnights of Sika have been guarding countless people when the continent was in chaos. If you have the same vision as us, we look forward to your meeting with us. This letter is a proof for you when you meet our messenger. We look forward to communicating with you. Greetings from {newline} {newline}Knights of sika." />
+    <string id="strQuestWindow018" text="Put the letter back into your bag." />
+
+    <string id="strQuestWindow019" text="Desperate Moments" />
+    <string id="strQuestWindow020" text="You and your troops fight valiantly but there were too Slavers. The soldiers beside you fell to the ground one by one. You try to cut down an enemy in front of you. Looking around, all your troops are killed or injured and fall to the ground. look back, some of the rescued prisoners were also injured by arrow rain. You gasp and return to the elder. Sally doesn't pull out the arrow, but simply bandages his wound to stop bleeding." />
+    <string id="strQuestWindow021" text="Even if you and your troops defeated the first wave of attack, more enemies continued to pour in. The soldiers around you fall to the ground one by one. You try to cut down an enemy in front of you. Looking around, all your troops are killed or injured and fall to the ground. look back, some of the rescued prisoners were also injured by arrow rain. You gasp and return to the elder. Sally doesn't pull out the arrow, but simply bandages the wound to stop bleeding." />
+    <string id="strQuestWindow019a" text="Talk to the elder" />
+
+    <string id="strQuestWindow025" text="Resource And Tools" />
+    <string id="strQuestWindow026" text="You opened the resource and tools menu, you can open it by pressing 'q' key in scence and through camp menu in campaign map." />
+    <string id="strQuestWindow027" text="Confirm" />
+
+    <string id="strQuestWindow028" text="Spiritual Beasts" />
+    <string id="strQuestWindow029" text="The knights of sika send you two spiritual beasts, It's said those beast can provide benefits for your party. You can choose one from spiritual dog and spiritual cat. Remember, The choice cannot be changed:" />
+    <string id="strQuestWindow030" text="Choose Spiritual Dog" />
+    <string id="strQuestWindow031" text="Choose Spiritual Cat" />
+
+    <string id="strQuestWindow053" text="Ambush In the Valley" />
+    <string id="strQuestWindow054" text="As your troops cross the valley, Xiang's troops rush in, with Xiang himself on the front. However, before they rushed out of the canyon, countless boulders rolled down the mountains on both sides of the Valley, blocking their way back and out. Lorin stood at the top of the valley, surrounded by a large group of crossbows and bowmen with their bows and crossbows ready to shoot." />
+    <string id="strQuestWindow055" text="Attack" />
+
+    <string id="strQuestWindow056" text="The moment of despair" />
+    <string id="strQuestWindow057" text="You led your troops to fight against the slavers, but there were slaves troops everywhere. The soldiers beside you fell to the ground one by one. You try to cut down an enemy in front of you. Looking around, all of your troops are killed or injured and fall to the ground. Look back, some of the prisoners rescued were also injured by arrow rain. You came back to the sika elder panting. Sally didn't pull out the arrow, but simply bandaged the wound to stop the blood." />
+    <string id="strQuestWindow058" text="Talk to the elder" />
+    <string id="strQuestWindow059" text="Even if you and your troops resist the first attack, but there were slaves troops everywhere. The soldiers beside you fell to the ground one by one. You try to cut down an enemy in front of you. Looking around, all of your troops are killed or injured and fall to the ground. Look back, some of the prisoners rescued were also injured by arrow rain. You came back to the sika elder panting. Sally didn't pull out the arrow, but simply bandaged the wound to stop the blood." />
+
+    <string id="strQuestWindow060" text="Dog" />
+    <string id="strQuestWindow061" text="Cat" />
+   <!-- QuestInitBehaviour弹窗结束 -->
+
+   <!-- QuestInitBehaviour部队名开始 -->
+    <string id="strQuestPartyName001" text="Slaver Warriors" />
+    <string id="strQuestPartyName002" text="Slaver Searchers" />
+   <!-- QuestInitBehaviour部队名结束 -->
+
+   <!-- QuestInitBehaviour左下角信息开始 -->
+    <string id="strSikaInformationMessage004" text="You pick up the merchant master's cargo." />
+    <string id="strSikaInformationMessage005" text="You pick up some grain." />
+    <string id="strSikaInformationMessage006" text="You pick up some meat." />
+    <string id="strSikaInformationMessage007" text="You pick up some fur." />
+    <string id="strSikaInformationMessage008" text="You pick up some oil." />
+    <string id="strSikaInformationMessage009" text="You get a donkey." />
+
+    <string id="strSikaInformationMessage020" text="You pick up Ardron's pickaxe. Please press I to Equip it." />
+
+    <string id="strSikaInformationMessage027" text="It seems that the ritual is over. hope it can help Icey. You should ask elder Monnai about the ritual." />
+    <string id="strSikaInformationMessage028" text="It seems Icey's has greatly improved. hope she can recover." />
+    <string id="strSikaInformationMessage029" text="Ardron sent some resources to you. You gained 200 stone, wood and food for each." />
+
+    <string id="strSikaInformationMessage030" text="You have obtained the spirit dog. You can enter the pet menu in the camping menu and press U key to manage it." />
+    <string id="strSikaInformationMessage031" text="You have obtained the spirit cat. You can enter the pet menu in the camping menu and press U key to manage it." />
+
+    <string id="strSikaInformationMessage042" text="Derian the wander has joined your party. Now you should seek help from the knights of sika." />
+    <string id="strSikaInformationMessage043" text="Derian the wander found some track in the house, which points to the nearest village: " />
+
+    <string id="strSikaInformationMessage045" text="Lorin of the Cagie wants you to take him and his people to your camp." />
+    <string id="strSikaInformationMessage046" text="Lorin of the Cagie told you that Monnai of the sika is waiting for you in the village hall." />
+    <string id="strSikaInformationMessage047" text="Monnai and Lorin swore they will loyal to you, but that doesn't mean anything to your problem. Lorin said you should defeat Xiang Chu Ba, a rogue nearby, and  try to persuade him to join you cause." />
+
+    <string id="strSikaInformationMessage048" text="This time you finally defeat Xiang and his army, now you should ask Lorin about your next step." />
+    <string id="strSikaInformationMessage049" text="Now you can make custom troop and troop tree in your settlement menu." />
+    <string id="strSikaInformationMessage050" text="Xiang is taunting you with a large force outside your settlement, Lorin told you just act like your plan anyway." />
+
+    <string id="strSikaInformationMessage051" text="Vilken the merchant master gave you 2000 dinars as a relief for icluding you in a conflict with the slavers." />
+    <string id="strSikaInformationMessage052" text="You take the strange letter from Vilken, maybe you will need it in the future." />
+
+    <string id="strSikaInformationMessage053" text="You have your own home. You can enter your home in the Settlement menu; at the same time, the Settlement Construction 'Player Home' project starts. You can upgrade the 'Player Home' in the Settlement Construction menu." />
+
+    <string id="strSikaInformationMessage054" text="Navi asked you to bring the statue over at night, and it seems that the summoning ceremony can only be held at night." />
+
+    <string id="strSikaInformationMessage056" text="You see many scenes, although you don't understand their significance, but the last enemy in that dream is unforgettable. Elin? Another strange race. Now you have no other choice, you look at the Bracelet in your hand and think. You can only go to the forests in the northwest of the mainland to find the territory of the Elin race. Maybe you can get some answers there." />
+
+    <string id="strSikaInformationMessage057" text="Elin's princess Melethvon decided to take you into the Elin territory, it's time to go to the Elin territory in the northwest forest." />
+
+    <string id="strSikaInformationMessage058" text="Elin's princess Melethvon was expelled from Elin and officially joined your party. Now, in the menu of any city, the option to enter the State of Banishment is enabled. After Bracelet recovers energy every week, you can enter the State of Banishment." />
+
+    <string id="strSikaInformationMessage059" text="Not enough energy in the Bracelet, it's not the proper time to enter the land of the banished." />
+
+    <string id="strSikaInformationMessage1101" text="Quest completed! You get 500 dinars." />
+    <string id="strSikaInformationMessage1102" text="Quest completed! You get 1000 dinars." />
+    <string id="strSikaInformationMessage1103" text="Quest completed! You get 2000 dinars." />
+    <string id="strSikaInformationMessage1104" text="Quest completed! You get 1000 dinars." />
+    <string id="strSikaInformationMessage1105" text="Quest completed! You get 2000 dinars." />
+    <string id="strSikaInformationMessage1106" text="Quest completed! You get 2000 dinars." />
+    <string id="strSikaInformationMessage1107" text="Quest completed! You get 3000 dinars." />
+
+   <!-- QuestInitBehaviour左下角信息开始 -->
+
+ <!-- 文件QuestInitBehaviour.cs结束 -->
+
+ <!-- 文件QuestUpdateBehaviour.cs开始 -->
+   <!-- QuestUpdateBehaviour弹窗开始 -->
+    <string id="strQuestWindow001" text="Slave Girl" />
+    <string id="strQuestWindow002" text="You clear and loot the battlefield, seems like these bandits are not normal bandits but slavers, the only thing they have is Vilken's cargo, and you free a girl from their chains." />
+    <string id="strQuestWindow003" text="Ask Her Some Question" />
+
+    <string id="strQuestWindow004" text="Monnai, the Elder of the sikans." />
+    <string id="strQuestWindow005" text="Your soldiers released all the captives. All of them were in rags and their body covered with scars. Sally helped an old man to walk over. When they were about to approach you, the old man asked Sally to let go of her hand. Sally stood aside respectfully, and the old man walked torward you slowly." />
+    <string id="strQuestWindow006" text="Talk With The Old Man" />
+
+    <string id="strQuestWindow007" text="Seiged By The Slavers" />
+    <string id="strQuestWindow008" text="Before Elder Monnai finished his words, suddenly a shower of arrows hit in the distance. The soldiers who were pacifying and treating the rescued prisoners and the rescued prisoners were attacked by the arrow rain. You also have a large number of arrows here.Elder Monnai protected you behind him and soon took an arrow in his right shoulder! You quickly lowered your body, dragged Monnai behind a rock. The Slavers completely surrounded you. A leader with full armor rode to you on a horse and asked to talk to you." />
+    <string id="strQuestWindow009" text="Talk To Their Leader" />
+
+    <string id="strQuestWindow010" text="After The Battle" />
+    <string id="strQuestWindow011" text="The tide of battle turned for several time between two sides, you can't imagine that you are still alive. Your soldiers start to loot and clean the battlefield. The sikans are starting to patch them up. Monnai, with his wound pathced. Looking for you with Sally." />
+    <string id="strQuestWindow012" text="Talk To Monnai" />
+
+    <string id="strQuestWindow013" text="New Settlement" />
+    <string id="strQuestWindow014" text="Monnai the Elder suggest that you should build a new settlement before discuss your future plan. Factions like Knights of Sika may offer you some help, but the powerful slavers still enshadow you, you must press ahead. (press 'H' to issue the command to build settlement)." />
+    <string id="strQuestWindow015" text="Leave." />
+
+   <!-- QuestUpdateBehaviour弹窗结束 -->
+
+   <!-- QuestUpdateBehaviour左下角信息开始 -->
+    <string id="strSikaInformationMessage044" text="A knight of sika come to your camp, he told you the slavers are on the way, prepare for battle!" />
+
+   <!-- QuestUpdateBehaviour左下角信息开始 -->
+
+ <!-- 文件QuestUpdateBehaviour.cs结束 -->
+
+ <!-- 文件SubModule.cs开始 -->
+   <!-- SubModule弹窗开始 -->
+    <string id="strQuestWindow022" text="Knights of sika" />
+    <string id="strQuestWindow023" text="The tremor of the earth in the distance was getting closer and closer until a figure was shown on the top of the hill. The sunlight poured down from the foot of the hillside to the top of the hillside, and finally reached the figure. White steeds, silver vests, and golden horse helmets, with red feathers swaying gently in the wind. The huge figure on the horse finally appeared with the sun. Clad in The black and gold armor, with silver helmet and a fearsome huge spear in the hands. The man on the horse raised his weapon high, as if he had given the command to charge from his mouth. Then you see a tide of black and gold cavalry rushed out from the bcak of the hill and crushed to the very heart of the slavers's formation. At first, these cavalry's charge truly give the slavers a powerful blow. Though no match for these cavalry, the slavers are still formidable fighters. With better equipment, training and organization, these cavalry take their stand inches by inches. At last, as the leader of the cavalry thrust his spear into the heart of the slaver leader, the slavers finally broken. After the battle, the leader put away his sword and walked towards you." />
+    <string id="strQuestWindow024" text="Talk to the Knight" />
+   <!-- SubModule弹窗结束 -->
+ <!-- 文件SubModule.cs结束 -->
+
+ <!-- 文件SelfSettlementMission.cs开始 -->
+   <!-- SelfSettlementMission左下角信息开始 -->
+    <string id="strSikaInformationMessage023" text="You gain one sack of grain." />
+
+    <string id="strSikaInformationMessage024" text="This must be the statue Navi talking about. Go back and talk to him." />
+    <string id="strSikaInformationMessage025" text="Navi says you should come back at night, which is the proper time for the ritual." />
+    <string id="strSikaInformationMessage026" text="Now it's time, you can find navi near the fire place I find the statue." />
+   <!-- SelfSettlementMission左下角信息结束 -->
+ <!-- 文件SelfSettlementMission.cs结束 -->
+
+ <!-- 文件QuestSpawnNPCMission.cs开始 -->
+
+   <!-- QuestSpawnNPCMission弹窗开始 -->
+    <string id="strQuestWindow032" text="The Codex Of Peace" />
+    <string id="strQuestWindow033" text="The Codex Of Peace, chapter 10:6: Lovise, the goddess of peace, exhausted her divine power to protect the land of sika. In her last moment, she spread her remaining power to her Apostles, those who follow her path can join the rank of knights of sika to share her power." />
+    <string id="strQuestWindow034" text="Gather clues." />
+
+    <string id="strQuestWindow035" text="Half Eaten Soup." />
+    <string id="strQuestWindow036" text="Half a bowl of soup, with spoon still in the bowl. Someone's dinner was forced to canceled?" />
+    <string id="strQuestWindow037" text="Gather clues." />
+
+    <string id="strQuestWindow038" text="Broken Barrel." />
+    <string id="strQuestWindow039" text="A broken barrel, empty. What used to be inside has been taken away?" />
+    <string id="strQuestWindow040" text="Gather clues." />
+
+    <string id="strQuestWindow041" text="A Cloth" />
+    <string id="strQuestWindow042" text="A cloth in front of that empty chest, dropped by accident?" />
+    <string id="strQuestWindow043" text="Gather clues." />
+
+    <string id="strQuestWindow044" text="Clothes" />
+    <string id="strQuestWindow045" text="A pile of clothes in front of the closet. It seems that all the clothes inside have been thrown out. Why?" />
+    <string id="strQuestWindow046" text="Gather clues." />
+
+    <string id="strQuestWindow047" text="Valuable Items" />
+    <string id="strQuestWindow048" text="Some valuable items are still there with dust on them. Looks like they haven't been touched for some time." />
+    <string id="strQuestWindow049" text="Gather clues." />
+
+    <string id="strQuestWindow050" text="Seasoned Meat" />
+    <string id="strQuestWindow051" text="A seasoned meat covered with sauce, must be dinner." />
+    <string id="strQuestWindow052" text="Gather clues." />
+   <!-- QuestSpawnNPCMission弹窗结束 -->
+
+   <!-- QuestSpawnNPCMission左下角信息开始 -->
+    <string id="strSikaInformationMessage032" text="Interesting story, but looks like you didn't find anything important." />
+
+    <string id="strSikaInformationMessage033" text="Ask Derian what happened at first, then search the room." />
+    <string id="strSikaInformationMessage034" text="" />
+    <string id="strSikaInformationMessage035" text="Half eaten, looks like he's really in a hurry. Something distrubed him." />
+    <string id="strSikaInformationMessage036" text="Seems like he smashed the barrel to take whatever inside it. But you can't know what used to inside this barrel." />
+    <string id="strSikaInformationMessage037" text="A cloth in front of the chest. Is that mean something?" />
+    <string id="strSikaInformationMessage038" text="All the clothes in the closet were thrown out, Was he searching for something?" />
+    <string id="strSikaInformationMessage039" text="Valuable items are untouched? he was captured and took out by force? Or whoever done this doesn't care about money?" />
+    <string id="strSikaInformationMessage040" text="A seasoned meat covered with sauce, strange, looks like a meal." />
+    <string id="strSikaInformationMessage041" text="Seems like that's all for now, go back and ask Derian did he had found anything." />
+
+    <string id="strSikaInformationMessage055" text="You haven't searched all the clues yet." />
+
+   <!-- QuestSpawnNPCMission左下角信息结束 -->
+
+ <!-- 文件QuestSpawnNPCMission.cs结束 -->
+
+ <!-- 文件SettlementMenuBehavior.cs开始 -->
+  <!-- SettlementMenuBehavior.cs左侧菜单开始 -->
+    <string id="strQuestMenu1001" text="You find a mysterious house inside a woods." />
+    <string id="strQuestMenu1002" text="Enter the mysterious house" />
+  <!-- SettlementMenuBehavior.cs左侧菜单结束 -->
+ <!-- 文件SettlementMenuBehavior.cs结束 -->
+
+ <!-- 文件QuesWitchHouse.cs开始 -->
+  <!-- QuesWitchHouse.cs正上方提示横幅开始 -->
+    <string id="strReminderBanner1001" text="Find out what happened first." />
+  <!-- QuesWitchHouse.cs正上方提示横幅结束 -->
+ <!-- 文件QuesWitchHouse.cs结束 -->
+
+  </strings>
+</base>
