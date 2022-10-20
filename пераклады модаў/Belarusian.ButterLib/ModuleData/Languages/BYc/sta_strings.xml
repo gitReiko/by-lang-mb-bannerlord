@@ -1,9 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<base xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
-      xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/BUTR/Bannerlord.XmlSchemas/master/ModuleLanguage.xsd" >
-  <tags>
-    <tag language="Беларуская" />
-  </tags>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <strings>
     <string id="PZthBmJc9B" text="Не ўдалося загрузіць Ідэнтыфікатар Кампаніі ButterLib! Глядзіце дэталі ў журнале мода." />
     <string id="UdgidGXLwg" text="{BASE_DESCRIPTOR_HERO.NAME}{?BASE_DESCRIPTOR_HERO.CLAN} {BASE_DESCRIPTOR_HERO.CLAN_NAME}{?}{\?}{?BASE_DESCRIPTOR_HERO.BIRTHPLACE} з {BASE_DESCRIPTOR_HERO.BIRTHPLACE_NAME}{?}, невядомага месца нараджэння{\?}, {BASE_DESCRIPTOR_HERO.AGE}, {?BASE_DESCRIPTOR_HERO_PARENTS}{BASE_DESCRIPTOR_HERO_PARENTS.INFO}{?}бацькі невядомы{\?}.{?BASE_DESCRIPTOR_HERO.CULTURE} {BASE_DESCRIPTOR_HERO.CULTURE_NAME}.{?}{\?}" />

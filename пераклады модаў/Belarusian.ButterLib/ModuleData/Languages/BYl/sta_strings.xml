@@ -1,9 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<base xmlns:xsi=http://www.w3.org/2001/XMLSchema-instance
-      xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/BUTR/Bannerlord.XmlSchemas/master/ModuleLanguage.xsd" >
-  <tags>
-    <tag language="Biełaruskaja" />
-  </tags>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <strings>
     <string id="PZthBmJc9B" text="Nie ŭdałosia zahruzić Identyfikatar Kampanii ButterLib! Hladzicie detali ŭ žurnale moda." />
     <string id="UdgidGXLwg" text="{BASE_DESCRIPTOR_HERO.NAME}{?BASE_DESCRIPTOR_HERO.CLAN} {BASE_DESCRIPTOR_HERO.CLAN_NAME}{?}{\?}{?BASE_DESCRIPTOR_HERO.BIRTHPLACE} z {BASE_DESCRIPTOR_HERO.BIRTHPLACE_NAME}{?}, nieviadomaha miesca naradžennia{\?}, {BASE_DESCRIPTOR_HERO.AGE}, {?BASE_DESCRIPTOR_HERO_PARENTS}{BASE_DESCRIPTOR_HERO_PARENTS.INFO}{?}baćki nieviadomy{\?}.{?BASE_DESCRIPTOR_HERO.CULTURE} {BASE_DESCRIPTOR_HERO.CULTURE_NAME}.{?}{\?}" />

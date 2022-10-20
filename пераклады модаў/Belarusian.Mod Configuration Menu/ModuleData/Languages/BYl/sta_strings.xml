@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<base xmlns:xsi=http://www.w3.org/2001/XMLSchema-instance
-      xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/BUTR/Bannerlord.XmlSchemas/master/ModuleLanguage.xsd" >
-  <tags>
-    <tag language="Biełaruskaja" />
-  </tags>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <strings>
     <string id="MCMSettings_Name" text="Mieniu Naładki Modaŭ {VERSION} (MCM)"/>
     <string id="BaseSettings_Default" text="Pa zmaŭčanni"/>
@@ -26,7 +22,7 @@
     <string id="ModOptionsVM_ChangeToPreset" text="Zmianić na pieradustaloŭku {PRESET}"/>
     <string id="ModOptionsVM_Discard" text="Vy ŭpeŭnieny, što žadajecie skasavać ciapierašnija nałady dla {NAME} da {ITEM}?"/>
     <string id="ModOptionsVM_RestartTitle" text="Hulniu Treba Pierazapuscić"/>
-    <string id="ModOptionsVM_RestartDesc" text="Kab užyć zmieny naładaŭ modaŭ, hulniu patrebna pierazapuscić. Žadajecie zakryć hulniu zaraz?"/>
+    <string id="ModOptionsVM_RestartDesc" text="Kab užyć zmieny naładaŭ modaŭ, hulniu treba pierazapuscić. Žadajecie zakryć hulniu zaraz?"/>
     <string id="SettingsPropertyGroupVM_Disabled" text="{GROUPNAME} (Adklučana)"/>
     <string id="SettingsVM_Custom" text="Ułasnyja"/>
     <string id="ModOptionsPageView_Mods" text="Mody"/>
@@ -34,8 +30,8 @@
     <string id="EscapeMenu_ModOptions" text="Nałady Modaŭ"/>
     <string id="MCMUISettings_Name" text="MCM UI {VERSION}"/>
     <string id="MCMUISettings_Name_General" text="Ahulnyja"/>
-    <string id="MCMUISettings_Name_HideMainMenuEntry" text="Schavać Uvachod u Hałoŭnym Mieniu"/>
-    <string id="MCMUISettings_Name_HideMainMenuEntryDesc" text="Chavaje radok MCM Hałoŭnaje Mieniu u Naładach Modaŭ."/>
+    <string id="MCMUISettings_Name_HideMainMenuEntry" text="Schavać Radok u Hałoŭnym Mieniu"/>
+    <string id="MCMUISettings_Name_HideMainMenuEntryDesc" text="Chavaje radok MCM Hałoŭnaje Mieniu ŭ Nałady Modaŭ."/>
     <string id="ButterLibSettings_Name" text="ButterLib {VERSION}"/>
     <string id="ButterLibSettings_Name_Logging" text="Zapis u Žurnał"/>
     <string id="ButterLibSettings_Name_LogLevel" text="Uzrovień Žurnalavannia"/>
@@ -46,8 +42,8 @@
     <string id="MCMMCMv3Settings_Name" text="MCM MCMv3 {VERSION}"/>
     <!-- ModLib -->
     <string id="MCMModLibSettings_Name" text="MCM ModLib {VERSION}"/>
-    <string id="MCMModLibSettings_HideMainMenuEntry" text="Schavać Uvachod u Hałoŭnym Mieniu"/>
-    <string id="MCMModLibSettings_HideMainMenuEntryDesc" text="Chavaje radok ModLibs u Naładach Modaŭ."/>
+    <string id="MCMModLibSettings_HideMainMenuEntry" text="Schavać Radok u Hałoŭnym Mieniu"/>
+    <string id="MCMModLibSettings_HideMainMenuEntryDesc" text="Chavaje radok ModLibs u Nałady Modaŭ."/>
     <string id="MCMModLibSettings_General" text="Ahulnyja"/>
   </strings>
 </base>
