@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi=http://www.w3.org/2001/XMLSchema-instance
+      xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/BUTR/Bannerlord.XmlSchemas/master/ModuleLanguage.xsd" >
+  <tags>
+    <tag language="Biełaruskaja" />
+  </tags>
+  <strings>
+    <string id="MCMSettings_Name" text="Mieniu Naładki Modaŭ {VERSION} (MCM)"/>
+    <string id="BaseSettings_Default" text="Pa zmaŭčanni"/>
+    <string id="SettingsPropertyGroupDefinition_Misc" text="Roznaje"/>
+    <string id="MCMImplementationSettings_Name" text="MCM {VERSION}"/>
+    <!-- UI -->
+    <string id="dzeWx4xSfR" text="Papiaredžannie ad MCM!" />
+    <string id="FE6ya1gzZR" text="Modul {DEPENDENT_MODULE} nie znojdzieny!" />
+    <string id="5G9zffrgMh" text="{MODULE} zahružany pierad {REQUIRED_MODULE}!{NL}Pierakanajciesia, što {MODULE} budzie zahružany pasla jaho!" />
+    <string id="UZ8zfvudMs" text="{MODULE} zahružany pasla {REQUIRED_MODULE}!{NL}Pierakanajciesia, što {MODULE} budzie zahružany pierad im!" />
+    <string id="eXs6FLm5DP" text="Nastojliva rekamiendujecca zaviaršyć hulniu ciapier. Vy žadajecie zaviaršyć jaje?" />
+    <string id="fGt6Gthg5y" text="Hetaja viersija MCM pryznačana dla e1.7.2 i vyšej! Vy vykarystoŭvajecie {GAMEVERSION}!" />
+
+    <string id="EditValueVM_TitleText" text="Nałady Modaŭ"/>
+    <string id="EditValueVM_TitleText" text="Redahavać &quot;{PROPERTYNAME}&quot;"/>
+    <string id="EditValueVM_DescriptionText_Numeric" text="Adredahavać paramietr &quot;{PROPERTYNAME}&quot;&#10;Minimalnaje značennie - {MINVALUE}; maksimalnaje - {MAXVALUE}."/>
+    <string id="EditValueVM_DescriptionText_Text" text="Adredahavać paramietr &quot;{PROPERTYNAME}&quot;."/>
+    <string id="ModOptionsVM_NotSpecified" text="Nazva Moda Nie Aznačana"/>
+    <string id="ModOptionsVM_Name" text="Nałady Modaŭ"/>
+    <string id="ModOptionsVM_ChangeToPreset" text="Zmianić na pieradustaloŭku {PRESET}"/>
+    <string id="ModOptionsVM_Discard" text="Vy ŭpeŭnieny, što žadajecie skasavać ciapierašnija nałady dla {NAME} da {ITEM}?"/>
+    <string id="ModOptionsVM_RestartTitle" text="Hulniu Treba Pierazapuscić"/>
+    <string id="ModOptionsVM_RestartDesc" text="Kab užyć zmieny naładaŭ modaŭ, hulniu patrebna pierazapuscić. Žadajecie zakryć hulniu zaraz?"/>
+    <string id="SettingsPropertyGroupVM_Disabled" text="{GROUPNAME} (Adklučana)"/>
+    <string id="SettingsVM_Custom" text="Ułasnyja"/>
+    <string id="ModOptionsPageView_Mods" text="Mody"/>
+    <string id="MainMenu_ModOptions" text="Nałady Modaŭ"/>
+    <string id="EscapeMenu_ModOptions" text="Nałady Modaŭ"/>
+    <string id="MCMUISettings_Name" text="MCM UI {VERSION}"/>
+    <string id="MCMUISettings_Name_General" text="Ahulnyja"/>
+    <string id="MCMUISettings_Name_HideMainMenuEntry" text="Schavać Uvachod u Hałoŭnym Mieniu"/>
+    <string id="MCMUISettings_Name_HideMainMenuEntryDesc" text="Chavaje radok MCM Hałoŭnaje Mieniu u Naładach Modaŭ."/>
+    <string id="ButterLibSettings_Name" text="ButterLib {VERSION}"/>
+    <string id="ButterLibSettings_Name_Logging" text="Zapis u Žurnał"/>
+    <string id="ButterLibSettings_Name_LogLevel" text="Uzrovień Žurnalavannia"/>
+    <string id="ButterLibSettings_Name_LogLevelDesc" text="Uzrovień zapisu ŭ žurnał."/>
+    <!-- MBO -->
+    <string id="MCMMBOSettings_Name" text="MCM MBO {VERSION}"/>
+    <!-- MCMv3 -->
+    <string id="MCMMCMv3Settings_Name" text="MCM MCMv3 {VERSION}"/>
+    <!-- ModLib -->
+    <string id="MCMModLibSettings_Name" text="MCM ModLib {VERSION}"/>
+    <string id="MCMModLibSettings_HideMainMenuEntry" text="Schavać Uvachod u Hałoŭnym Mieniu"/>
+    <string id="MCMModLibSettings_HideMainMenuEntryDesc" text="Chavaje radok ModLibs u Naładach Modaŭ."/>
+    <string id="MCMModLibSettings_General" text="Ahulnyja"/>
+  </strings>
+</base>
