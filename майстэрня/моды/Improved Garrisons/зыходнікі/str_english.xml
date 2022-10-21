@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="English" />
+  </tags>  
+  <strings>
+    
+    <!-- If you want to translate this mod use this xml file as a template. --> 
+    <!-- Make sure to leave the parts {SOMETHING} as it is !!! don't change the brackets -->
+    <!-- Change the language tag above the the language you want to translate to -->
+    <!-- If you are done with the translation you may upload it to NexusMods as a new mod with the type "translation" -->
+    <!-- Make sure to tag the offical Improved Garrisons mod in the upload settings -->
+
+    <!-- For updates to the last template -->
+    <!-- I recommend using the tool Notepad++ with the compare plugin --> 
+    <!-- Open the tool and go to the "plugins" tab -->
+    <!-- Press on "plugins admin" and search for "compare" -->
+    <!-- After installation again press on plugins and use the compare plugin to compare the latest version you translated with the newest -->
+    <!-- This will highlight you all the removed, modified and added lines -->
+
+    <!-- SECTION Improved Garrison Menu -->
+
+    <string id="ui_settlementinformation_garrisonsize1" text="The current Garrisonsize." />
+    <string id="ui_settlementinformation_garrisonsize2" text="Garrisonsize" />
+    <string id="ui_settlementinformation_foodamount1" text="The current change in Food of your Town." />
+    <string id="ui_settlementinformation_foodamount2" text="Food" />
+    <string id="ui_settlementinformation_guardparty1" text="Has a active Guard party." />
+    <string id="ui_settlementinformation_guardparty2" text="Active Guard" />
+    <string id="ui_settlementinformation_goldchange1" text="The calculated value of your town-tax and workshops minus the garrison and guard wage." />
+    <string id="ui_settlementinformation_goldchange2" text="Goldchange" />
+    <string id="ui_settlementinformation_prosperity1" text="The current Prosperity value of your Town." />
+    <string id="ui_settlementinformation_prosperity2" text="Prosperity" />
+    <string id="ui_settlementinformation_militia1" text="The current amount of Milita of your Town." />
+    <string id="ui_settlementinformation_militia2" text="Militia" />
+    <string id="ui_settlementinformation_loyality1" text="The current Loyality value of your Town." />
+    <string id="ui_settlementinformation_loyality2" text="Loyality" />
+    <string id="ui_settlementinformation_construction1" text="The current construction value of your Town." />
+    <string id="ui_settlementinformation_construction2" text="Construction" />
+    <string id="ui_settlementinformation_reserve1" text="The current amount of reserve in your Town." />
+    <string id="ui_settlementinformation_reserve2" text="Reserve" />
+    <string id="ui_settlementinformation_activ" text="activ" />
+    <string id="ui_settlementinformation_none" text="none" />
+    <string id="ui_settlementitemwidget_track" text="Track Settlement" />
+    <string id="ui_settlementitemwidget_raid" text="Under Raid" />
+    <string id="ui_settlementitemwidget_hostileraid" text="Hostile Raid" />
+    <string id="ui_settlementitemwidget_raided" text="Raided" />
+    <string id="ui_settlementitemwidget_siege" text="Under Siege" />
+    <string id="ui_settlementitemwidget_peace" text="Peaceful" />
+    <string id="ui_villagetitemwidget_track" text="Track Village" />
+    <string id="ui_guardsui_infotitle" text="Guard Information" />
+    <string id="ui_guardsui_createguard" text="Create a new Guard" />
+    <string id="ui_guardsui_guardorders" text="Guard Orders" />
+    <string id="ui_guardsui_healthytroops" text="Healthy Troops" />
+    <string id="ui_guardsui_woundedtroops" text="Wounded Troops" />
+    <string id="ui_guardsui_prisoners" text="Prisoners" />
+    <string id="ui_guardsui_orderpatrol" text="Order to Patrol" />
+    <string id="ui_guardsui_orderescort" text="Order to Escort" />
+    <string id="ui_guardsui_orderreturn" text="Order to Return" />
+    <string id="ui_guardsui_creationtitle" text="Smart Guard Creation Settings" />
+    <string id="ui_guardsui_settings" text="Guard Behavior Settings" />
+    <string id="ui_guardsui_allowupgrade1" text="Allow to upgrade troops" />
+    <string id="ui_guardsui_allowupgrade2" text="Allow this garrison Guards to upgrade its troops." />
+    <string id="ui_guardsui_allowreplenish1" text="Allow to replenish" />
+    <string id="ui_guardsui_allowreplenish2" text="Allow this garrison Guards to go back to their home town/castle to refill their lost troops and to heal if they are wounded. {newline} {newline}Guards will only replenish troop types that were in the initial guard party setup! Therefore make sure to have these units produced by the Improved Garrison for the guards to pick up later." />
+    <string id="ui_guardsui_allowsell1" text="Allow to sell prisoners" />
+    <string id="ui_guardsui_allowsell2" text="Allow this garrison guards to sell captured prisoners." />
+    <string id="ui_guardsui_allowrecruit1" text="Allow to recruit prisoners" />
+    <string id="ui_guardsui_allowrecruit2" text="Allow this garrisons guards to recruit captured prisoners." />
+    <string id="ui_guardsui_allowhorses1" text="Allow to buy horses" />
+    <string id="ui_guardsui_allowhorses2" text="Allow this garrisons guards to buy horses to increase movement speed." />
+    <string id="ui_guardsui_noguards" text="There is no active guard party" />
+    <string id="ui_guardsui_autocreateguards1" text="auto create Guards" />
+    <string id="ui_guardsui_autocreateguards2" text="Allow this garrison to automatically establish a guard party." />
+    <string id="ui_guardsui_autodefend1" text="Automatically create a Guard party to defend villages" />
+    <string id="ui_guardsui_autodefend2" text="This allows the current garrison to automatically establish a guard party to defend attacked villages." />
+    <string id="ui_guardsui_autoroam1" text="Automatically create a Guard party to roam the region" />
+    <string id="ui_guardsui_autoroam2" text="Allow this garrison to automatically establish a guard party." />
+    <string id="ui_guardsui_partycreationsize1" text="Auto-Guard-creation partysize" />
+    <string id="ui_guardsui_partycreationsize2" text="Set the size of your Guard party when automatically created by your current garrison." />
+    <string id="ui_guardsui_partycreationsize_small" text="Small" />
+    <string id="ui_guardsui_partycreationsize_medium" text="Medium" />
+    <string id="ui_guardsui_partycreationsize_large" text="Large" />
+    <string id="ui_guardsui_autocreationthreshold1" text="Auto-Guard-creation threshold" />
+    <string id="ui_guardsui_autocreationthreshold2" text="Set the size of your garrison that has to be reached for a Guard to be automatically created. {newline} {newline}Note: The auto create Guards option has to be enabled." />
+    <string id="ui_guardsui_returnthreshold1" text="Return threshold (%)" />
+    <string id="ui_guardsui_returnthreshold2" text="Set the threshold in relation to the initial party size for the guard party to return. {newline} {newline} Set this to 0.9 and the guard will return after losing 10% of it's troops {newline} {newline} Set this to 0.1 and 90% of the guards initial party size has to be reached in order to return." />
+
+    <string id="ui_managementui_copymanager" text="Copy Manager" />
+    <string id="ui_garrisonui_currentgarrison" text="Current Garrison" />
+    <string id="ui_garrisonui_transfer" text="Transfer Troops" />
+    <string id="ui_garrisonui_garrisonactivity" text="Garrison Activity" />
+    <string id="ui_garrisonui_weeklyinformation" text="Weekly Garrison Information" />
+    <string id="ui_garrisonui_weeklycosts1" text="This weeks amount of recruited troops." />
+    <string id="ui_garrisonui_weeklycosts2" text="Recruited troops" />
+    <string id="ui_garrisonui_weeklycosts3" text="This weeks Improved Garrisons recruitment costs" />
+    <string id="ui_garrisonui_weeklycosts4" text="Recruiting" />
+    <string id="ui_garrisonui_weeklycosts5" text="This weeks amount of upgraded troops." />
+    <string id="ui_garrisonui_weeklycosts6" text="Upgraded troops" />
+    <string id="ui_garrisonui_weeklycosts7" text="This weeks Improved Garrisons training costs" />
+    <string id="ui_garrisonui_weeklycosts8" text="Training" />
+    <string id="ui_managementui_information" text="Town/Castle Information" />
+    <string id="ui_managementui_transferbuttonhint" text="Transfer Troops from the current garrison to another garrison." />
+    <string id="ui_managementui_dailywagehint" text="The daily wage for each troop in your garrison." />
+    <string id="ui_managementui_copycastles1" text="Copy to all Castles" />
+    <string id="ui_managementui_copycastles2" text="Copy the current garrisons settings to all your castles." />
+    <string id="ui_managementui_copytown1" text="Copy to all Towns" />
+    <string id="ui_managementui_copytown2" text="Copy the current garrisons settings to all your towns." />
+    <string id="ui_managementui_copyspecific1" text="Specific copy" />
+    <string id="ui_managementui_copyspecific2" text="Copy the current garrisons settings to a specific town or castle you own." />
+    <string id="ui_managementui_progresstext" text="Progress" />
+    <string id="ui_managementui_queuetext" text="Queue" />
+    <string id="ui_managementui_noqueuetext" text="No project in queue" />
+    <string id="ui_managementui_dailydefaulttext" text="Daily Default" />
+    <string id="ui_managementui_townprojectstext" text="Town Projects" />
+
+
+    <string id="ui_overviewui_fiefs" text="Your Fiefs" />
+    <string id="ui_recruitmentui_recruitmentfollowstemplate" text="Recruitment follows template" />
+    <string id="ui_recruitmentui_recruitmentfollowstemplate2" text="}The recruitment of the Improved Garrison will only recruit troops that are either part of the current training template or are needed for an upgrade towards a template troop." />
+    <string id="ui_recruitmentui_vanillarecruitment" text="Vanilla Recruitment" />  
+    <string id="ui_recruitmentui_vanillarecruitment2" text="Disable the garrison recruitment of the base game. {newline} {newline}This setting sets the auto recruitment option of this garrison to false when disabled which stops the daily recruitment of recruits to the garrison which is NOT controlled by the Improved Garrison and may conflict with your template settings. {newline} {newline}It is highly recommended to keep this option disabled for a better control of your garrison party." />
+    <string id="ui_recruitmentui_vanillatraining" text="Vanilla Training" />  
+    <string id="ui_recruitmentui_vanillatraining2" text="Disable the garrison training of the base game. {newline} {newline}This setting sets the party wage limit for the garrison to 0 when disabled which stops the wage control of the base game which is NOT controlled by the Improved Garrison and may conflict with your template settings. If you enable this setting the base game will downgrade and upgrade units without the control of the Improved Garrison. {newline} {newline}It is highly recommended to keep this option disabled for a better control of your garrison party." />  
+    <string id="ui_recruitmentui_recruitmentfollowstemplate" text="Recruitment follows template" />
+    <string id="ui_recruitmentui_createrecruiter" text="Create a new Recruiter" />
+    <string id="ui_recruitmentui_recruiterinfo" text="Recruiter Information" />
+    <string id="ui_recruitmentui_recruitmentwithtemplate" text="Recruitment settings with template" />    
+    <string id="ui_recruitmentui_recruitmentwithouttemplate_regiontitle" text="Region and Prisoner Recruitment Settings" />   
+    <string id="ui_recruitmentui_recruitmentwithouttemplate_recruitertitle" text="Region and Prisoner Recruitment Settings" />   
+    <string id="ui_recruitmentui_returnrecruiter" text="Return Recruiter" /> 
+    <string id="ui_recruitmentui_recruiterdesc" text="A Recruiter is used to recruit new troops from outside of this fiefs region." /> 
+    <string id="ui_recruitmentui_regionrecruitment" text="Recruitment Settings" /> 
+    <string id="ui_recruitmentui_regionrecruitmentdesc" text="The Region Recruitment will recruit troops from nearby villages and the current fief. {newline}To recruit outside of the local region a Recruiter party should be used." /> 
+    <string id="ui_recruitmentui_regionrecruitmentenable1" text="Recruit from Region" /> 
+    <string id="ui_recruitmentui_regionrecruitmentenable2" text="Allow this garrison to recruit troops from the towns or castles villages and the town itself." /> 
+    <string id="ui_recruitmentui_recruitprisoners1" text="Recruit Prisoners" /> 
+    <string id="ui_recruitmentui_recruitprisoners2" text="Allow this garrison to recruit prisoners that are in this garrisons dungeon overtime." /> 
+    <string id="ui_recruitmentui_partysize" text="Partysize" />    
+    <string id="ui_recruitmentui_recruitedtroops" text="Recruited Troops" /> 
+    <string id="ui_recruitmentui_culture" text="Culture" /> 
+    <string id="ui_recruitmentui_regionsettings1" text="Region Recruitment Settings" /> 
+    <string id="ui_recruitmentui_regionsettings2" text="Region Recruitment allows your Improved Garrison to recruit troops from this regions villages.{newline} {newline}The following settings allows you to customize the recruitment behavior." /> 
+    <string id="ui_recruitmentui_recruitthreshold1" text="Maximum amount of troops to recruit" /> 
+    <string id="ui_recruitmentui_recruitthreshold2" text="The maximum amount of units this garrison will recruit from the dungeon and its region." /> 
+    <string id="ui_recruitmentui_prisonerthreshold1" text="Recruit Prisoners above threshold" /> 
+    <string id="ui_recruitmentui_prisonerthreshold2" text="Allow this garrison to recruit prisoners above the region recruitment threshold." />    
+    <string id="ui_recruitmentui_recruitelite1" text="Recruit only Elite Troops from region" /> 
+    <string id="ui_recruitmentui_recruitelite2" text="Allow this garrison's region recruitment to only recruit elite units." /> 
+    <string id="ui_recruitmentui_recruitersettings1" text="Recruiter Settings" />    
+    <string id="ui_recruitmentui_recruitersettings2" text="A Recruiter party walks around the world to gather troops for your garrison. Use the following settings to change the recruitment behavior. {newline} {newline}Hint: The recruiter will only recruit units you would also be able to recruit by yourself. For example: a recruiter can't recruit from clans you are at war with!" /> 
+    <string id="ui_recruitmentui_autocreate1" text="Automatically gather template units" /> 
+    <string id="ui_recruitmentui_autocreate2" text="Allow this garrison to automatically create recruiters to gather all the necessary troops needed for your current training template. {newline} {newline}This feature makes it incredible convenient to train your armies. Just enable this setting and wait until the Improved Garrison gathers from all the necessary cultures and trains the units you desire." />    
+    <string id="ui_recruitmentui_recruiterrecruitamount1" text="Recruiter recruitment amount" /> 
+    <string id="ui_recruitmentui_recruiterrecruitamount2" text="Set the amount of troops the recruiter should gather before returning" />   
+    <string id="ui_recruitmentui_prisonertemplate1" text="Prisoner Recruitment ignores template" /> 
+    <string id="ui_recruitmentui_prisonertemplate2" text="The Improved Garrison will recruit your prisoners even if they are not part of your template." />  
+    <string id="ui_recruitmentui_recruiteronlyelite1" text="Recruiter only recruits Elite Troops" /> 
+    <string id="ui_recruitmentui_recruiteronlyelite2" text="If enabled this garrisons recruiter will only gather elite units." />    
+    <string id="ui_recruitmentui_recruiterculture1" text="Change the culture the Recruiter recruits from" /> 
+    <string id="ui_recruitmentui_recruiterculture2" text="Change the culture this garrisons recruiter should recruit from." />    
+    <string id="ui_recruitmentui_recruiterhorses1" text="Allow to buy Horses" /> 
+    <string id="ui_recruitmentui_recruiterhorses2" text="Allow this garrisons recruiter party to buy horses to increase movement speed. {newline} {newline}(Can be expansive!)" />    
+    <string id="ui_recruitmentui_notemplate" text="To auto spawn a recruiter a training template is needed!" /> 
+    <string id="ui_recruitmentui_norecruiter" text="There is no active recruiter party" /> 
+    <string id="ui_recruitmentui_notenoughtroops" text="Not enough troops to auto spawn a recruiter party!" />
+    <string id="ui_recruitmentui_trainingdisabled" text="Training has to be enabled to auto spawn a recruiter party!" />
+    <string id="ui_trainingui_addtroops" text="Add Troops" />    
+    <string id="ui_trainingui_currenttemplate" text="Current Template" /> 
+    <string id="ui_trainingui_templatemanager" text="Template Manager" /> 
+    <string id="ui_trainingui_trainingsettings" text="Training Settings" /> 
+    <string id="ui_trainingui_addtroopshint" text="Add new troops to the training template.{newline}{newline}A training template is used to define the upgrade path the Improved Garrison will take while training troops. The troops you select here are not affected by the training tier restriction.{newline}{newline} Use a training template to compose your army as you want it. >ou are able to set the amount of troops that should be trained for each upgrade target you define. You could for example, define the amount of infantry, archery or cavalary troops your garrison should have." /> 
+    <string id="ui_trainingui_templatemanagerhint" text="A training template is used to define the upgrade path the Improved Garrison will take while training troops. The troops you select here are not affected by the training tier restriction.{newline} {newline}Use a training template to compose your army as you want it. You are able to set the amount of troops that should be trained for each upgrade target you define. You could for example, define the amount of infantry, archery or cavalary troops your garrison should have.{newline} {newline}The template manager is used to save, apply, inspect or remove your training templates. Your training templates are synchronized across your garrisons and game saves." /> 
+    <string id="ui_trainingui_dailywagetemplatehint" text="The daily wage for each troop in your template." /> 
+    <string id="ui_trainingui_dailywagetext" text="Daily wage:" /> 
+    <string id="ui_trainingui_garrisontraining1" text="Improved Garrison Training" /> 
+    <string id="ui_trainingui_garrisontraining2" text="Enable this Improved Garrison to train it's troops. {newline} {newline}You may select the maximum tier the garrison should train to and/or set a training template to determine the upgrade paths." />    
+    <string id="ui_trainingui_autogather1" text="Auto create Recruiter" /> 
+    <string id="ui_trainingui_autogather2" text="Allow this garrison to automatically create recruiters to gather all the necessary troops needed for your current training template. {newline} {newline}This feature makes it incredible convenient to train your armies. Just enable this setting, setup your training template and wait until the Improved Garrison gathers from all the necessary cultures and trains the units you desire." /> 
+    <string id="ui_trainingui_maxupgradetier1" text="Max Upgrade Tier for troops {newline} (non Template)" /> 
+    <string id="ui_trainingui_maxupgradetier2" text="The maximum tier this garrison will train it's garrisoned troop to that are NOT specified in the current training template." /> 
+    <string id="ui_trainingui_removenontemplate1" text="Remove non template units from garrison" /> 
+    <string id="ui_trainingui_removenontemplate2" text="Allow this garrison to automatically remove troops from the garrison that are not part of the currently specified template. Troops that are needed for upgrade are not removed." /> 
+    <string id="ui_improvedgarrisonsui_title" text="Improved Garrisons" /> 
+    <string id="ui_improvedgarrisonsui_overview" text="Overview" />    
+    <string id="ui_improvedgarrisonsui_recruitment" text="Recruitment" /> 
+    <string id="ui_improvedgarrisonsui_guards" text="Guards" /> 
+    <string id="ui_improvedgarrisonsui_training" text="Training" /> 
+    <string id="ui_improvedgarrisonsui_management" text="Management" /> 
+    <string id="ui_improvedgarrisonsui_maptogglehint" text="Use the Improved Garrisons Menu on the world map." /> 
+    <string id="ui_improvedgarrisonsui_maptoggle" text="Enable on Map" />    
+    <string id="ui_improvedgarrisonwidget_removetroop" text="Right-Click to remove troop from template." />
+    <string id="ui_improvedgarrisonwidget_currentamount" text="Current Amount of this troop in the template." />
+    <string id="ui_improvedgarrisonwidget_currentgarrisonamount" text="Current Amount of this troop in the garrison." />
+    <string id="ui_improvedgarrisonsui_tutorialhint" text="Start the Improved Garrisons Tutorial." />
+    <string id="ui_improvedgarrisonsui_configurationhint" text="Open the configuration settings of Improved Garrisons." />  
+    <string id="ui_improvedgarrisonsui_resethint" text="Set the currently selected settlement to its default mod settings." /> 
+    <string id="ui_improvedgarrisonsui_tutorialtext" text="Tutorial" />  
+    <string id="ui_improvedgarrisonsui_configurationtext" text="Configuration" />  
+    <string id="ui_improvedgarrisonsui_defaulttext" text="Default Settings" />
+    <string id="ui_improvedgarrisonsui_finance" text="Finance" />  
+    <string id="ui_improvedgarrisonsui_garrison" text="Garrison" />
+    <string id="ui_improvedgarrisonsui_resetdefault_title" text="Reset settlement to default settings" /> 
+    <string id="ui_improvedgarrisonsui_resetdefault_description" text="Do you want to set the currently selected settlement to its default mod settings?" />
+
+    <string id="ui_buildingui_currentproject" text=">> Current Town Project <<" />
+    <string id="ui_buildingui_effects" text="Effects:" />
+    <string id="ui_buildingui_effectshint" text="Note: Only works if there is no current project." />
+    <string id="ui_buildingui_setascurrent" text="Set as current project" />
+    <string id="ui_buildingui_currenthint1" text="The current town project for" />
+    <string id="ui_buildingui_currenthint2" text="has been set to" />
+    <string id="ui_buildingui_boostproject" text="Boost current project" />
+    <string id="ui_buildingui_deselectproject" text="Deselect current project" />
+    <string id="ui_buildingui_removequeue1" text="The town project" />
+    <string id="ui_buildingui_removequeue2" text="is no longer the current project of" />
+    <string id="ui_buildingui_removequeue3" text="Remove from queue" />
+    <string id="ui_buildingui_removequeue4" text="has been removed from the project queue of" />
+    <string id="ui_buildingui_addqueue1" text="Add to project queue" />
+    <string id="ui_buildingui_addqueue2" text="The town project" />
+    <string id="ui_buildingui_addqueue3" text="has been added to the project queue of" />
+    <string id="ui_buildingui_action" text="Project Action" />
+    <string id="ui_buildingui_addreserve" text="Add reserve to boost project" />
+    <string id="ui_buildingui_addreserve2" text="You don't have enough gold." />
+
+
+    <!-- SECTION Activity log-->
+    <string id="ui_improvedgarrisonsui_activity" text="Settlement Action" />
+    <string id="ui_improvedgarrisonsui_activity_recruitment1" text="troops have been recruited from" />
+    <string id="ui_improvedgarrisonsui_activity_recruitment2" text="has been recruited from the dungeon." />
+    <string id="ui_improvedgarrisonsui_activity_recruitment3" text="have been recruited from the dungeon." />
+    <string id="ui_improvedgarrisonsui_activity_recruitment4" text="troops have been recruited." />
+    <string id="ui_improvedgarrisonsui_activity_partymerge1" text="has returned with" />
+    <string id="ui_improvedgarrisonsui_activity_partymerge2" text="troops to the garrison." />
+    <string id="ui_improvedgarrisonsui_activity_recruiter1" text="Create Recruiter" />
+    <string id="ui_improvedgarrisonsui_activity_recruiter2" text="Return Recruiter" />
+    <string id="ui_improvedgarrisonsui_activity_guard1" text="Create Guard" />
+    <string id="ui_improvedgarrisonsui_activity_guard2" text="Return Guard" />
+    <string id="ui_improvedgarrisonsui_activity_noguards" text="There are no active guard parties" />
+    <string id="ui_improvedgarrisonsui_activity_village1" text="Village Action" />
+    <string id="ui_improvedgarrisonsui_activity_partycreation1" text="A new party" />
+    <string id="ui_improvedgarrisonsui_activity_partycreation2" text="has been created with" />
+    <string id="ui_improvedgarrisonsui_activity_partycreation3" text="troops." />
+    <string id="ui_improvedgarrisonsui_activity_destroyed1" text="has been destroyed." />
+    <string id="ui_improvedgarrisonsui_activity_townmanagement" text="Town Management" />
+    <string id="ui_improvedgarrisonsui_activity_projects" text="Projects" />
+    <string id="ui_improvedgarrisonsui_activity_upgrade1" text="has been trained to" />
+    <string id="ui_improvedgarrisonsui_activity_upgrade2" text="have been trained to" />
+    <string id="ui_improvedgarrisonsui_activity_defend1" text="Defend Settlement" />
+    <string id="ui_improvedgarrisonsui_activity_defend2" text="Defend" />
+
+
+
+    <!-- SECTION Configuration Settings --> 
+    <string id="settings_improvedgarrisons" text="Please select a garrison." />  
+    <string id="settings_managementsettings_select" text="Select a Garrison" />  
+    <string id="settings_managementsettings_selectdesc" text="Select the garrison you want to transfer units to" />   
+    <string id="settings_managementsettings_copyselction" text="Copy to Garrison" />  
+    <string id="settings_managementsettings_copydesc" text="Select the garrisons you want to copy the settings of the current garrison to." />  
+    <string id="settings_managementsettings_copytownselection" text="Copy settings to all my Towns" />  
+    <string id="settings_managementsettings_copytownselectiondesc" text="If you continue, all your towns will have the same settings as this one." />  
+    <string id="settings_managementsettings_copycastleselection" text="Copy settings to all my Castles" />  
+    <string id="settings_managementsettings_copycastleselectiondesc" text="If you continue, all your castles will have the same settings as this one." />  
+    <string id="settings_managementsettings_selectionescort1" text="Escort Selection" />
+    <string id="settings_managementsettings_selectionescort2" text="Select the party that should be supported" />  
+    <string id="settings_managementsettings_hideoutclear1" text="Enabled clear hideouts for the guards of" />  
+    <string id="settings_recruitmentsettings_recruiteramount1" text="Recruiter recruitment amount" />  
+    <string id="settings_recruitmentsettings_recruiteramount2" text="Set the amount of recruits the recruiter should recruit before returning" />  
+    <string id="settings_templatemanager_savetemplate" text="Save current template" />  
+    <string id="settings_templatemanager_title" text="Training Templates" />  
+    <string id="settings_templatemanager_desc" text="Choose a training template." />  
+    <string id="settings_templatemanager_addnew1" text="Add new Template" />  
+    <string id="settings_templatemanager_addnew2" text="This adds the current training setup to your template Manager. The template will be accessible across all your saves. {newline} {newline}Please select a name for your template." />  
+    <string id="settings_recruitmentsettings_apply" text="Apply template" />  
+    <string id="settings_recruitmentsettings_inspect" text="Inspect template" />  
+    <string id="settings_recruitmentsettings_rename" text="Rename template" />  
+    <string id="settings_recruitmentsettings_remove" text="Remove template" /> 
+    <string id="settings_recruitmentsettings_manage" text="Manage template" />  
+    <string id="settings_recruitmentsettings_renamedesc" text="Enter a new name for your template." /> 
+    <string id="settings_recruitmentsettings_yourtemplate" text="Your template" />  
+    <string id="settings_recruitmentsettings_inspect2" text="Inspect" /> 
+    <string id="settings_trainingsettings_currenttemplate1" text="Current training Template" />  
+    <string id="settings_trainingsettings_currenttemplate2" text="Your list of specified training targets" /> 
+    <string id="settings_trainingsettings_specifytroops1" text="Specify troops to train" />  
+    <string id="settings_trainingsettings_specifytroops2" text="List of all troops" />
+    <string id="settings_trainingsettings_selecttargets" text="Select Training Troops" />  
+    <string id="settings_trainingsettings_selecttargetsdesc" text="Normally if a troop can be upgraded to the next tier the Improved Garrison randomly chooses which path to take. But here you can select wether you want to remove or add troops to specify their upgrade path. This upgrade is NOT affected by your tier restriction. If a troops upgrade path hasn't been specified by the player, they will still upgrade but randomly and only up to the tier restriction. {newline}> The first list is an overview of the current upgrade paths the Improved Garrison is upgrading to. {newline}> The second list contains all possible upgrade paths for you to select." /> 
+    <string id="settings_trainingsettings_archer" text="Archer" />  
+    <string id="settings_trainingsettings_infantry" text="Infantry" />
+    <string id="settings_trainingsettings_cavalary" text="Cavalary" />  
+    <string id="settings_trainingsettings_filtertype" text="Filter by Type" /> 
+    <string id="settings_trainingsettings_filtertypedesc" text="What is the type of the troops you want to add to the template?" />  
+    <string id="settings_trainingsettings_filterculture1" text="Filter by Culture" />
+    <string id="settings_trainingsettings_filterculture2" text="Please select the culture of your desired troops." />  
+    <string id="settings_trainingsettings_currenttroops" text="Current Troops to train" /> 
+    <string id="settings_trainingsettings_troopstoselect" text="Troops to select" />  
+    <string id="settings_trainingsettings_removetroop1" text="Remove Template Troop" />
+    <string id="settings_trainingsettings_removetroop2" text="Are you sure you want to remove this troop from the current template?" />  
+    <string id="settings_recruitmentsettings_recruiterculture1" text="Recruiter recruitment culture" />
+    <string id="settings_recruitmentsettings_recruiterculture2" text="Which culture should the Recruiter party recruit from?" />
+    <string id="settings_mobilegarrisonsettings_autoguardcreation1" text="Enabled automatic guard creation for" />
+    <string id="settings_mobilegarrisonsettings_autoguardcreation2" text="Disabled automatic guard creation for" />
+    <string id="settings_mobilegarrisonsettings_autodefend1" text="Enabled automatic guard creation to defend villages for" />
+    <string id="settings_mobilegarrisonsettings_autodefend2" text="Disabled automatic guard creation to defend villages for" />
+    <string id="settings_mobilegarrisonsettings_" text="" />
+    <string id="settings_mobilegarrisonsettings_" text="" />
+    <string id="settings_mobilegarrisonsettings_" text="" />
+    <string id="settings_mobilegarrisonsettings_" text="" />
+
+    <!-- STATUS Section -->
+    <string id="menu_recruiter_status_goingto" text="The recruiter is going to" />
+    <string id="menu_recruiter_status_returningto" text="The recruiter is returning to" />
+    <string id="menu_recruiter_status_gatheringintel" text="The recruiter is gathering intel for new recruits" />
+    <string id="menu_recruiter_status_tradingwith" text="The recruiter is trading with" />
+    <string id="menu_guard_status_isattacking" text="The guard is attacking" />
+    <string id="menu_guard_status_isattackinghideout" text="The guard is attacking a hideout" />
+    <string id="menu_guard_status_isdefending" text="The guard is defending" />
+    <string id="menu_guard_status_issupporting" text="The guard is escorting" />
+    <string id="menu_guard_status_isfortifying" text="The guard is fortifying" />
+    <string id="menu_guard_status_iswaiting" text="The guard is waiting" />
+    <string id="menu_guard_status_ispatrolingaround" text="The guard is patroling around" />
+    <string id="menu_guard_status_ispatroling" text="The guard is patroling" />
+    <string id="menu_guard_status_turningprisoners" text="The guard is turning in prisoners" />
+    <string id="menu_guard_status_isreplenishing" text="The guard is replenishing" />
+    <string id="menu_guard_status_returningto" text="The guard is returning to" />
+    <string id="menu_guard_status_returning" text="The guard is returning" />
+    <string id="menu_guard_status_returninghome" text="The guard is returning to its home region" />
+    <string id="menu_guard_status_istradingwith" text="The guard is trading with" />
+    <string id="menu_guard_status_istrading" text="The guard is trading" />
+    <string id="menu_guard_status_noguards" text="There is no active guard party" />
+
+    <!-- MODULESTRINGS Section -->
+    <strind id="menu_yes" text="Yes" />
+    <strind id="menu_no" text="No" />
+    <strind id="menu_leave" text="Leave" />
+    <strind id="menu_ok" text="Okay" />
+    <strind id="menu_back" text="Back" />
+    <strind id="menu_your" text="Your" />
+    <strind id="menu_remove" text="remove" />
+    <strind id="menu_continue" text="Continue" />
+    <strind id="menu_cancel" text="Cancel" />
+    <strind id="menu_and" text="and" />
+    <strind id="menu_none" text="none" />
+    <strind id="menu_of" text="of" />
+    <strind id="menu_for" text="for" />
+    <strind id="menu_gold" text="gold" />
+    <strind id="menu_bought" text="bought" />
+    <strind id="menu_close" text="Close" />
+    <strind id="menu_save" text="Save" />
+    <strind id="menu_description" text="Description:" />
+    <strind id="menu_requirements" text="Requirements:" />
+    <strind id="menu_reset" text="Reset to default" />
+    <strind id="menu_train_pathamount_restr" text="no restr." />
+    <strind id="menu_selectall" text="Select all" />
+    <strind id="menu_small" text="Small" />
+    <strind id="menu_medium" text="Medium" />
+    <strind id="menu_large" text="Large" />
+    
+    <!-- SECTION hints -->
+    <string id="hint_train_path_list1" text="Your list of specified training targets" />    
+    <string id="hint_train_path_list2" text="List of all troops" />
+    <string id="hint_select_all_clans" text="Select all clans in the list" />
+    
+    <!-- SECTION chat information -->
+    <string id="info_guards_undersiege" text="This garrison is currently under siege. The guards can't get out!" />
+    <string id="info_transfer_undersiege" text="This garrison is currently under siege. The transferparty can't get out!" />
+    <string id="info_global_conf" text="You are now configurating the settings of" />
+    <string id="info_guards_noguards" text="This garrison currently has no garrisonguard party." />
+    <string id="info_guards_autoguardsstopped" text="The automatic creation of guards has been stopped." />
+    <string id="info_transfer_dupe" text="This garrison already has a transfer party. Please wait for it to reach its location." />
+    <string id="info_guards_dupe" text="This garrison already has a garrison guard party. Please order to return it first." />
+    <string id="info_transfer_new" text="A new transfer party for" />         
+    <string id="info_transfer_new2" text="has been created. It will be sent to " />        
+    <string id="info_guards_new" text="A new garrisonguard party for" />        
+    <string id="info_guards_new2" text="has been created." />                    
+    <string id="info_path_set" text="The upgrade paths for " />       
+    <string id="info_path_set2" text="has been set to" />        
+    <string id="info_tier_max" text="is now training up to a maximum of tier" />        
+    <string id="info_escort_new" text="The garrisonguards of" />
+    <string id="info_escort_new2" text="are now escorting" />
+    <string id="info_patrol_new" text="The garrisonguards of" />
+    <string id="info_patrol_new2" text="are now patrolling the region." />
+    <string id="info_return_new" text="The garrisonguards of" />
+    <string id="info_return_new2" text="are now returning to the garrison." />  
+    <string id="info_recruit_max" text="is now recruiting up to a maximum of" />
+    <string id="info_recruit_max2" text="troops." />
+    <string id="info_train_enable" text="Enabled training for" />   
+    <string id="info_train_disable" text="Disabled training for" />
+    <string id="info_vanillatrain_enable" text="Enabled vanilla training for" />   
+    <string id="info_vanillatrain_disable" text="Disabled vanilla training for" />
+    <string id="info_food_new" text="The garrison of" />
+    <string id="info_food_new2" text="is now gathering" />  
+    <string id="info_food_new3" text="food per day." />
+    <string id="info_food_stop" text="The garrison of" />
+    <string id="info_guards_new" text="Please select units for your new Guards. {newline}The more troops you choose the slower your guards will be!{newline}If you want your guards to clear looters and bandits the size should be around 30. By default the guards will patrol your region. You can give them different orders in the Improved Garrisons Menu." />
+    <string id="info_food_stop2" text="stopped gathering more food." />   
+    <string id="info_prison_enable" text="Enabled prisoner recruitment for" />
+    <string id="info_prison_disable" text="Disabled prisoner recruitment for" />
+    <string id="info_recruit_enable" text="Enabled region recruitment for" />    
+    <string id="info_recruit_disable" text="Disabled region recruitment for" />
+    <string id="info_vanillarecruitment_enable" text="Enabled vanilla recruitment for" />    
+    <string id="info_vanillarecruitment_disable" text="Disabled vanilla recruitment for" /> 
+    <string id="info_recruit_onlyelites_enable" text="Enabled only elite recruitment for" />
+    <string id="info_recruit_onlyelites_disable" text="Disabled only elite recruitment for" />
+    <string id="info_prison_above_enable" text="Enabled prisoner recruitment above threshold for" />
+    <string id="info_prison_above_disable" text="Disabled prisoner recruitment above threshold for" />  
+    <string id="info_manage_copy" text="Copied settings to" />
+    <string id="info_guards_return2" text="have returned to your garrison." />
+    <string id="info_daily_info1" text="&quot;My lord your Improved Garrisons recruited" />
+    <string id="info_daily_info2" text="recruits, upgraded" />
+    <string id="info_daily_info3" text="troops to the next tier and persuaded" />
+    <string id="info_daily_info4" text="prisoners today.&quot;" />    
+    <string id="info_train_path_remove" text="has been removed from the specific upgrade list of" />    
+    <string id="info_emptygarrison" text="Your garrison is empty." />
+    <string id="info_train_path_removeall" text="Removed all upgrade targets from the list" />
+    <string id="info_train_pathamount_new" text="The Improved Garrison of" />
+    <string id="info_config_reset_done" text="The Improved Garrisons Configuration has been reset to its default values." /> 
+    <string id="info_config_save_done" text="Improved Garrison configuration saved successfully." /> 
+    <string id="info_transfer_done" text="have reached there transfer location." /> 
+    <string id="info_guards_sell" text="sold its prisoners." /> 
+    <string id="info_guards_sell_enable" text="Enabled prisoner trade for the guards of" /> 
+    <string id="info_guards_sell_disable" text="Disabled prisoner trade for the guards of" />     
+    <string id="info_guards_prisonerrecruit_enable" text="Enabled prisoner recruitment for the guards of" /> 
+    <string id="info_guards_prisonerrecruit_disable" text="Disabled prisoner recruitment for the guards of" />     
+    <string id="info_guards_replenish_enable" text="Enabled replenish and heal for the guards of" />
+    <string id="info_guards_replenish_disable" text="Disabled replenish and heal for the guards of" />     
+    <string id="info_guards_upgrade_enable" text="Enabled upgrading of troops for the guards of" />
+    <string id="info_guards_upgrade_disable" text="Disabled upgrading of troops for the guards of" />     
+    <string id="info_template_nosetup" text="Your setup currently doesn't have training units." />  
+    <string id="info_template_apply" text="has been applied." />  
+    <string id="info_template_remove" text="has been removed." />  
+    <string id="info_template_rename" text="has been renamed to" />  
+    <string id="info_template_add" text="has been added." />  
+    <string id="info_guards_needshelpdefending1" text="needs help defending" />  
+    <string id="info_guards_needshelpdefending2" text="against" />  
+    <string id="info_guards_needshelpdefending3" text="of size" />  
+    <string id="info_guards_defending1" text="are defending" />  
+    <string id="info_guards_defending2" text="against" />  
+    <string id="info_guards_defending3" text="of size" />  
+    <string id="info_guards_prisoners_put" text="put" />  
+    <string id="info_guards_prisoners_intodungeon" text="prisoners into the dungeon." />  
+    <string id="info_guards_hideoutcleared" text="cleared a hideout." /> 
+    <string id="info_guards_sellitems1" text="sold" /> 
+    <string id="info_guards_sellitems2" text="items to" /> 
+    <string id="info_guards_buyhorses" text="horses from" /> 
+    <string id="info_recruiter_nomorerecruits" text="couldn't find any more recruits and is now returning." /> 
+    <string id="info_recruiter_returned1" text="has returned with" /> 
+    <string id="info_recruiter_returned2" text="troops to" /> 
+    <string id="info_recruiter_dupe" text="This garrison already has a recruiter party." /> 
+    <string id="info_recruiter_emptygarrison" text="Your garrison is empty. You need at least one unit to create a recruiter." /> 
+    <string id="info_recruiter_siege" text="This garrison is currently under siege. The Recruiter can't get out!" /> 
+    <string id="info_recruiter_autocreate_enabled" text="The Improved Garrison is now gathering the necessary troops for the current template of automatically. Make sure to have at least 1 unit for the recruiter to spawn in the garrison of" /> 
+    <string id="info_recruiter_autocreate_disabled" text="Disabled automatic troop gathering for" /> 
+    <string id="info_recruiter_onlyelite_enabled" text="Enabled only elite recruitment for recruiters of" /> 
+    <string id="info_recruiter_onlyelite_disabled" text="Disabled only elite recruitment for recruiters of" /> 
+    <string id="info_recruiter_buyhorses_enabled" text="Enabled horse buy for recruiters of" /> 
+    <string id="info_recruiter_buyhorses_disabled" text="Disabled horse buy for recruiters of" /> 
+    <string id="info_recruiter_of" text="Recruiter of" />
+    <string id="info_recruiter_threshold1" text="is now recruiting up to a maximum of" />
+    <string id="info_recruiter_threshold2" text="garrison troops." />
+    <string id="info_recruiter_amount1" text="is now recruiting" />
+    <string id="info_recruiter_amount2" text="recruits before returning." />
+    <string id="info_recruiter_return" text="is now returning to the garrison." />  
+    <string id="info_recruiter_changeculture1" text="Changed the recruitment culture to" /> 
+    <string id="info_recruiter_changeculture2" text="for the recruiter of" />   
+    <string id="info_recruiter_norecruiter" text="has no active recruiter party." />    
+    <string id="info_recruit_followtemplate_enable" text="The Improved Garrison recruitment is now only recruiting troops that are either part of the template or needed for upgrades towards a template troop." /> 
+    <string id="info_recruit_followtemplate_disable" text="The Improved Garrison recruitment is no longer only recruiting template related troops." />  
+    <string id="info_recruit_removenontemplate_enable" text="Enabled automatic removal of non template troops for" /> 
+    <string id="info_recruit_removenontemplate_disable" text="Disabled automatic removal of non template troops for" /> 
+    <string id="info_recruiter_newrecruiter_desc" text="Select Units for your Recruiter party. You need at least one unit to establish the party!" /> 
+    <string id="info_recruit_prisonertemplate_enable" text="Prisoner recruitment now ignores the training template of" /> 
+    <string id="info_recruit_prisonertemplate_disable" text="Prisoner recruitment no longer ignores the training template of" /> 
+    
+    <string id="info_template_notargets" text="There currently are no Improved Garrisons upgrade targets defined." />   
+    <string id="info_template_managetargets" text="On this screen you are able to adjust the amount of units the Improved Garrison should train. You may also remove troops from the list. {newline} {newline}On the left side are your current troops the Improved Garrison is training towards. On the right side you find a copy of the same units to add to the left side." /> 
+    <string id="info_template_newtargets1" text="The training template for" /> 
+    <string id="info_template_newtargets2" text="has been set." /> 
+    <string id="info_template_removedtargets1" text="The Improved Garrison of" /> 
+    <string id="info_template_removedtargets2" text="no longer has a training template." /> 
+    <string id="info_template_newtargets_desc" text="Move the troops you want the Improved Garrison to train towards the left side of the screen. {newline}Make sure to select the amount you want to have trained. {newline} {newline}Note: The Improved Garrison will always try to have this amount of units in the garrison and automatically train new units once there are less in the garrison." /> 
+    <string id="info_guards_hideoutclear1" text="Enabled clear hideouts for the guards of" />
+    <string id="info_guards_hideoutclear2" text="Disabled clear hideouts for the guards of" />
+    <string id="info_guards_horsebuy1" text="Enabled horse trade for the guards of" />
+    <string id="info_guards_horsebuy2" text="Disabled horse trade for the guards of" />
+    <string id="info_recruiter_norecruiter" text="The garrison currently has no active recruiter" />
+    <string id="info_recruiter_disabledautocreation" text="Disabled automatic Recruiter creation for" />    
+    <string id="info_guards_returnafterthreshold" text="size has fallen below the threshold you have given. The Guard is returning now." />
+    <string id="info_save_delete" text="The Improved Garrison data has been deleted for the save:" />
+    <string id="info_recruitment_recruitervalue" text="Value has to be between 1 and 150" />
+    
+    <!-- SECTION parties -->
+    <string id="party_guards_name" text="Garrisonguards of" /> 
+    <string id="party_recruits_name" text="Garrison Recruits" />    
+    <string id="party_transfer_name" text="Garrisontransferparty of" /> 
+    <string id="party_destroyed_new" text="Your" />
+    <string id="party_destroyed_new2" text="have been destroyed." />
+    <string id="party_healed" text="healed its troops." /> 
+    <string id="party_replenished" text="replenished its troops." /> 
+    <string id="party_recruiter_name" text="Garrison Recruiter of" /> 
+    <string id="party_recruiter" text="Garrison Recruiter" />
+    <string id="party_guards" text="Garrisonguards" />
+
+    <!-- SECTION dialog -->    
+    <string id="dialog_recruit_start" text="Hello my lord, we are new garrison recruits heading to your settlement!" />
+    <string id="dialog_recruit_neutral_start" text="Hello, we are new recruits to help keeping our home save!" />
+    <string id="dialog_end_nice" text="Carry on, then. Farewell." />
+    <string id="dialog_transfer_start" text="Hello my lord, we are the garrison transfer group!" />
+    <string id="dialog_guard_start" text="Hello my lord! How can we be of service?" />
+    <string id="dialog_guard_return_answer" text="Ok we will return to your garrison my lord!" />
+    <string id="dialog_guard_return" text="Return to your garrison." />
+    <string id="dialog_guard_escort_answer" text="Ok we will protect you with our life my lord!" />
+    <string id="dialog_guard_escort" text="Fight by my side!" />   
+    <string id="dialog_guard_patrol_answer" text="Ok we will protect your region my lord!" />
+    <string id="dialog_guard_patrol" text="Patrol your region!" />    
+    <string id="dialog_guard_pretalk" text="It's a pleasure serving you my lord." />  
+    <string id="dialog_guard_inspect" text="Let me inspect your troops." />     
+    <string id="dialog_guard_fortify" text="Fortify a garrison." />         
+    <string id="dialog_guard_fortify_answer" text="Ok we will fortify the garrison." />     
+    <string id="dialog_recruiter_start" text="Hello my lord, we are your garrison recruiters!" />   
+    <string id="dialog_recruiter_pretalk" text="Anything else we can help you with?" />
+    <string id="dialog_recruiter_inspect" text="Let me inspect your troops." />
+    <string id="dialog_recruiter_culturechange_answer" text="Ok we will change our recruitment to another culture!" />
+    <string id="dialog_recruiter_culturechange" text="Change your recruitment culture." />
+    <string id="dialog_npcguard_neutral_start" text="Hello! We are the Guards patrolling this region." />
+    <string id="dialog_npcguard_hostile_startplayer" text="We are the Guards patrolling this region." />
+    <string id="dialog_npcguard_hostile_fight" text="Surrender or Die!" />
+    <string id="dialog_npcguard_hostile_startnpc" text="We are the Guards patrolling this region. You know we are at war! Trespassing is not allowed here." />
+  
+    
+    <!-- SECTION configuration menu -->     
+    <string id="config_category_base_title" text="Mod Settings" />
+    <string id="config_category_cheats_title" text="Cheats" />
+    <string id="config_category_npc_title" text="NPC Settings" />
+    <string id="config_category_default_title" text="Default Setting" />
+    <string id="config_reload_desc" text="A reload of your save is required for all Improved Garrison settings to apply." />
+    <string id="config_reload_title" text="Reload required" />
+    <string id="config_category_dummyname" text="Category Title" />
+    <string id="config_category_cheats_garrisonwage_name" text="Garrison wage multiplier" />
+    <string id="config_category_cheats_garrisonwage_description" text="Lower the garrison wage. Set this to 1 for normal cost and to 0 for no costs." />
+    <string id="config_category_cheats_garrisonwage_extradescription" text="If the number is below 1 a bonus equal to your garrison costs will be added to your finances." />
+    <string id="config_category_cheats_trainingcost_name" text="Improved Garrison training multiplier" />
+    <string id="config_category_cheats_trainingcost_description" text="Lower the costs of the Improved Garrison training of garrisoned troops. Set this to 1 for normal cost and to 0 for no costs." />
+    <string id="config_category_cheats_trainingcost_extradescription" text="This option affects the upgrade costs of your garrisoned troops. Use this if you want to disable the upgrade costs." />
+    <string id="config_category_cheats_partysize_name" text="custom player party size multiplier" />
+    <string id="config_category_cheats_partysize_description" text="Set a party size multiplier to increase the maximum size of your own party." />
+    <string id="config_category_cheats_partysize_requirements" text="[{LoadCustomPartySizeModel}] has to be enabled." />
+    <string id="config_category_cheats_clanpartysize_name" text="custom player clan party size multiplier" />
+    <string id="config_category_cheats_clanpartysize_description" text="Set a party size multiplier to increase the maximum size of all your clan parties." />
+    <string id="config_category_cheats_clanpartysize_requirements" text="[{LoadCustomPartySizeModel}] has to be enabled." />
+    <string id="config_category_cheats_aiclanpartysize_name" text="custom AI clan party size multiplier" />
+    <string id="config_category_cheats_aiclanpartysize_description" text="Set a party size multiplier to increase the maximum size for all AI parties." />
+    <string id="config_category_cheats_aiclanpartysize_requirements" text="[{LoadCustomPartySizeModel}] has to be enabled." />
+    <string id="config_category_cheats_garrisonguardwage_name" text="Garrison guards wage multiplier" />
+    <string id="config_category_cheats_garrisoguardnwage_description" text="Lower the garrison guards wage. Set this to 1 for normal cost and to 0 for no costs." />
+    <string id="config_category_cheats_partyspeed_name" text="garrison guard, recruiter and transfer party speed" />    
+    <string id="config_category_cheats_partyspeed_description" text="Set a custom movement speed for guard, recruiter and transfer parties." />
+    <string id="config_category_cheats_partyspeed_requirements" text="[{LoadCustomPartySpeedModel}] has to be enabled." />
+    <string id="config_category_cheats_garrisonsize_name" text="custom garrison size multiplier" />
+    <string id="config_category_cheats_garrisonsize_description" text="Set a garrison size multiplier to increase the size of your garrisons. The auto recruitment will not go above the overall garrison size!" />
+    <string id="config_category_cheats_garrisonsize_requirements" text="[{LoadCustomPartySizeModel}] has to be enabled." />    
+    <string id="config_category_cheats_onlynoble_name" text="Spawn noble troops in garrison" /> 
+    <string id="config_category_cheats_onlynoble_description" text="With this option enabled noble troops are spawned in the garrisons &quot;out of thin air&quot;. The amount can be set with [{AmountOfUnitsToSpawn}]." /> 
+    <string id="config_category_cheats_onlynoble_requirements" text="}[{RecruitsAreRecruitedFromVillages}] has to be enabled!" /> 
+    <string id="config_category_cheats_garrisondonteat_name" text="Enable garrisons don't eat food" /> 
+    <string id="config_category_cheats_garrisondonteat_description" text="Adds a food bonus to settlements equal the amount of food needed by the garrison. This practically disables garrisons needing food in the most compatible way." /> 
+    <string id="config_category_cheats_garrisondonteat_requirements" text="[{LoadFoodGatheringModule}] has to be enabled." /> 
+    <string id="config_category_cheats_foodbonusenable_name" text="Enable food bonus" /> 
+    <string id="config_category_cheats_foodbonusenable_description" text="Activate the food bonus for your castles and settlements." /> 
+    <string id="config_category_cheats_foodbonusenable_requirements" text="[{LoadFoodGatheringModule}] has to be enabled." /> 
+    
+    <string id="config_category_base_fromvillages_name" text="Spawn new troops directly in garrison" />
+    <string id="config_category_base_fromvillages_description" text="With this option enabled the Improved Garrison will no longer have to wait for the troops to be generated by the surrounding villages. New troops will be spawned in the garrison &quot;out of thin air&quot; every day." />
+    <string id="config_category_base_fromvillages_extradescription" text="If you have recruit from villages aktivated and enabled the recruitment in your garrisons menu (default), the recruitment logic of this mod will lookup each bound village and this settlements units that are able to be recruited by the player. Be aware that the amount of available troops to recruit is affected by the relation a player has with this villages. Once the recruitment logic has gathered a minimum amount of recruits (4 by default) a party of the available villages recruits will be created and send on its way to the garrison. The recruits will be removed from the villages pool so it will take some time for the village to generate more troops." />
+    <string id="config_category_base_minrecruits_name" text="Village recruit-party size" />
+    <string id="config_category_base_minrecruits_description" text="Set the minimum amount of recruits that need to be gathered in villages before a new recruit party is established and sent to the garrison.." />
+    <string id="config_category_base_minrecruits_requirements" text="[{RecruitsAreRecruitedFromVillages}] has to be enabled." />
+    <string id="config_category_base_spawnamount_name" text="Amount of troops to spawn" />
+    <string id="config_category_base_spawnamount_description" text="Set the amount of troops that are spawned in garrisons. If they are not recruited from nearby villages and settlements." />
+    <string id="config_category_base_spawnamount_requirements" text="[{RecruitsAreRecruitedFromVillages}] has to be enabled." />
+    <string id="config_category_base_dailyexp_name" text="Daily EXP amount" />
+    <string id="config_category_base_dailyexp_description" text="Set the amount of daily exp your garrisoned troops gain while training." />
+    <string id="config_category_base_dailyexp_extradescription" text="The mod gives each troop - roster a set amount of exp multiplied by the amount of units this troop - roster has.If for example you have 20 recruits and they need 250Exp to upgrade and the daily exp gain is set to 50, they will get 50 * 20 = 1000 Exp.As a unit from this troop - roster needs 250Exp, the upgrade logic will upgrade 1000 / 250 = 4 Units." />
+    <string id="config_category_base_prisonerconformity_name" text="Daily prisoner conformity amount" />
+    <string id="config_category_base_prisonerconformity_description" text="Set the amount of daily conformity each prisoner in dungeons get." />
+    <string id="config_category_base_prisonerconformity_extradescription" text="Each prisoner in Mount and Blade has his own conformity value that needs to be reached in order to be recruitable. With this setting you can set the daily amount of conformity they get." />
+    <string id="config_category_base_loadsize_name" text="Load custom size module" />
+    <string id="config_category_base_loadsize_description" text="Loads the custom size module of Improved Garrisons. This enables you to set the maximum size for your garrisons and garrison guards." />
+    <string id="config_category_base_loadsize_requirements" text="The game has to be restarted." />
+    <string id="config_category_base_partysize_name" text="garrison guard and transfer party size" />
+    <string id="config_category_base_partysize_description" text="Set a custom size for guard and transfer parties." />
+    <string id="config_category_base_partysize_extradescription" text="This is used for the base speed and moral calculation. If your transfer, recruiter or guard partys size gets above this value, they will be slowed." />
+    <string id="config_category_base_partysize_requirements" text="[{LoadCustomPartySizeModel}] has to be enabled." />
+    <string id="config_category_base_loadspeed_name" text="Load custom speed module" />
+    <string id="config_category_base_loadspeed_description" text="Loads the custom speed module of Improved Garrisons. This enables you to manually set the speed for your garrison guards, recruits and transfer parties. Use this module if you experience compatibility issues with the custom size module." />
+    <string id="config_category_base_loadspeed_requirements" text="The game has to be restarted." />
+    <string id="config_category_base_loadfood_name" text="Load Food gathering module" />
+    <string id="config_category_base_loadfood_description" text="Loads the food gathering module of Improved Garrisons. This enables the option to add a food bonus to castles and settlements." />
+    <string id="config_category_base_loadfood_requirements" text="The game has to be restarted." />
+    <string id="config_category_base_foodamount_name" text="Daily food bonus amount" />
+    <string id="config_category_base_foodamount_description" text="Set the amount of daily food bonus each of the player castle and settlements get each day." />
+    <string id="config_category_base_foodamount_requirements" text="[{LoadFoodGatheringModule}] has to be enabled." />
+    <string id="config_category_base_reset_name" text="Reset to default" />
+    <string id="config_category_base_reset_description" text="This resets the configuration of Improved Garrisons to its default values." />
+    <string id="config_category_base_reset_prompt" text="Do you want to reset the Improved Garrison configuration to its default values?" />
+    <string id="config_category_base_guardsell_name" text="Guards prisoner sell threshold" /> 
+    <string id="config_category_base_guardsell_description" text="Lower the threshold that has to be reached for prisoners to be sold" /> 
+    <string id="config_category_base_guardsell_prompt" text="> With 0.0 the guards prisoner size capability has to be fully reached.{newline}> With 0.5 the guards will sell there prisoners at half there prisoner size capability.{newline}> With 1.0 the guards will turn in prisoners the moment they get some." /> 
+    <string id="config_Category_base_guardreplenishperc_name" text="Guards Replenishment Percentage" />    
+    <string id="config_Category_base_guardreplenishperc_description" text="The percentage the current party size has to drop to in order for the guards to go back to there home garrison to replenish there troops. The guards will only replenish if there are valid troops in your garrison! They only pick up units which were in the initial guards party and only if these units party amount is not above the initial amount." />   
+    <string id="config_Category_base_guardreplenishperc_extradescription" text="> The guards will try to refill to its initial party they were spawned with {newline}> With 0.0 the guards will never return to the garrison to replenish.{newline}> With 0.5 the guards will replenish at half there initial size.{newline}> With 1.0 the guards will replenish as soon as they lose troops and the amount of available pick up troops are above the [{GuardAvailableTroopsPercentage}]" />
+    <string id="config_Category_base_guardreplenishperc_requirements" text="[{GuardAvailableTroopsPercentage}] has to be reached" />
+    <string id="config_category_base_guardheal_name" text="Guards Heal Percentage" /> 
+    <string id="config_category_base_guardheal_description" text="The percentage of killed or wounded troops in relation to the initial party size that need to be reached in order for the patrolling party to return to a town or castle to heal." />  
+    <string id="config_category_base_guardheal_extradescription" text="> With 0.0 the party will never heal because they would need to be dead in order to be healed{newline}> With 0.5 the party will heal if the party size reaches half the initial size{newline}> With 1.0 the party will heal as soon as the party size gets lower the initial party size" /> 
+    <string id="config_category_base_errormessage_name" text="Disable Error Message" /> 
+    <string id="config_category_base_errormessage_description" text="Disables the error message that is shown whenever the mod encounters an error." />
+    <string id="config_category_base_errormessage_extradescription" text="WARNING: If you disable the error message you will no longer be notified if this mod encountered an error!" />
+    <string id="config_Category_base_guardreplenishavail_name" text="Guards Replenishment Available Troops Percentage" /> 
+    <string id="config_Category_base_guardreplenishavail_description" text="The amount of troops in relation to the guards initial party size that needs to be available in the garrison in order for the guards to return and refill." />  
+    <string id="config_Category_base_guardreplenishavail_extradescription" text="> With 1.0 the entire initial guard party size needs to be available in the garrison{newline}> With 0.5 the guards will replenish if at least half there size i available for pickup at the garrison.{newline}> With 0.0 the guards will replenish as soon as there are any available troops to pick up and there size is bellow the [{GuardReplenishPercentage}]" /> 
+    <string id="config_Category_base_guardreplenishavail_requirements" text="[{GuardReplenishPercentage}] has to be reached" />  
+    <string id="config_category_base_deleteparties_name" text="Delete all Improved Garrison Parties" /> 
+    <string id="config_category_base_deleteparties_description" text="Enable this to delete all Improved Garrison Parties in the campaign." /> 
+    <string id="config_category_base_deletesavedata_name" text="Delete unnecessary save data" /> 
+    <string id="config_category_base_deletesavedata_description" text="If you deleted a save file, the saved data of Improved Garrisons for this specific save file might still remain. If you select this setting the mod will search for data that is mapped to a save file that no longer exists and will then proceed to delete this data, as it is no longer used in any way.{newline} {newline}Note: This process might take a moment" /> 
+    <string id="config_category_base_deletesavedata_extradescription" text="You can also manually delete this data if you wish by finding Mount and Blade II Bannerlord in your documents folder and search for the configs of Improved Garrisons." /> 
+    <string id="config_category_npc_guardparties_name" text="Enable NPC's create Garrison Guard parties" />
+    <string id="config_category_npc_guardparties_description" text="Allows NPC's factions to establish Garrison Guard parties to defend their property." />
+    <string id="config_category_npc_npcguardspawnthreshold_name" text="NPC Guard spawn threshold" />
+    <string id="config_category_npc_npcguardspawnthreshold_description" text="The size a NPC garrison has to reach for a new guard to be created" />
+    <string id="config_category_npc_npcguardspawnthreshold_requirements" text="[{EnableNPCMode}] has to be enabled." />
+    <string id="config_category_npc_npcguardsizemultiplier_name" text="NPC Guard size multiplier" />
+    <string id="config_category_npc_npcguardsizemultiplier_description" text="Customize the size the NPC guards will be created with. {newline} {newline}Set to 0.2 for small guard sizes {newline}Set to 0.8 for large guard sizes." />
+    <string id="config_category_npc_npcguardsizemultiplier_requirements" text="[{EnableNPCMode}] has to be enabled." />
+    <string id="config_category_npc_worldrecruit_name" text="NPC world recruitment" />
+    <string id="config_category_npc_worldrecruit_description" text="Enables auto recruitment for all NPC Garrisons." />
+    <string id="config_category_npc_prisonerrecruit_name" text="NPC prisoner recruitment" />
+    <string id="config_category_npc_prisonerrecruit_description" text="Enables the recruitment of prisoners for all NPC Garrisons." />
+    <string id="config_category_npc_recruitthreshold_name" text="Maximum NPC recruitment threshold" />
+    <string id="config_category_npc_recruitthreshold_description" text="Maximum amount of garrison units until the recruitment is stopped." />
+    <string id="config_category_npc_recruitthreshold_requirements" text="[{EnableNPCWorldRecruitment}] has to be enabled." />
+    <string id="config_category_npc_training_name" text="NPC garrison Training" />
+    <string id="config_category_npc_training_description" text="Enables the training of garrisoned troops for all NPC Garrisons." />
+    <string id="config_category_npc_trainingtier_name" text="NPC maximum training tier" />
+    <string id="config_category_npc_trainingtier_description" text="The maximum tier NPC garrisoned troops are trained to." />
+    <string id="config_category_npc_trainingtier_requirements" text="[{EnableNPCGarrisonTraining}] has to be enabled." />
+    <string id="config_category_npc_foodgathering_name" text="NPC bonus food gathering" />
+    <string id="config_category_npc_foodgathering_description" text="Enables a bonus food amount all NPC Garrisons." />
+    <string id="config_category_npc_foodgathering_requirements" text="[{LoadFoodGatheringModule}] has to be enabled." />
+    <string id="config_category_npc_foodamount_name" text="NPC food bonus amount" />
+    <string id="config_category_npc_foodamount_description" text="The amount of food bonus all NPC Garrisons get if NPC bonus food gathering is enabled." />
+    <string id="config_category_npc_foodamount_requirements" text="[{LoadFoodGatheringModule}] has to be enabled." />
+    
+    <string id="config_category_default_recruitment_name" text="Default player enable world recruitment" />
+    <string id="config_category_default_recruitment_description" text="Enables world recruitment for player garrisons by default." />
+    <string id="config_category_default_recruitthreshold_name" text="Default player maximum recruitment threshold" />
+    <string id="config_category_default_recruitthreshold_description" text="Set the default maximum amount of garrison units until the recruitment is stopped." />
+    <string id="config_category_default_prisonerrecruit_name" text="Default player enable prisoner recruitment" />
+    <string id="config_category_default_prisonerrecruit_description" text="Enables prisoner recruitment for player garrisons by default." />
+    <string id="config_category_default_prisonerthreshold_name" text="Default player enable prisoner recruitment above threshold" />
+    <string id="config_category_default_prisonerthreshold_description" text="Enables prisoner recruitment above threshold for player garrisons by default." />
+    <string id="config_category_default_training_name" text="Default player enable training" />
+    <string id="config_category_default_training_description" text="Enables training for player garrisons by default." />
+    <string id="config_category_default_training_requirements" text="Each day your garrisoned units get a set (but customizable) amount of exp. Once they are able to be upgraded one of two things happen. If you did choose their upgrade path by selecting a specific upgrade target you want the unit to upgrade to, the Improved Garrison upgrade logic will advance its path towards to this target. If no target has been set, the path will be choosen randomly. But you can restrict their tier if you for instance only want to have tier 3 troops to lower costs. This tier restriction however is overwritten by a selected upgrade target." />
+    <string id="config_category_default_maximumtier_name" text="Default player maximum training tier" />
+    <string id="config_category_default_maximumtier_description" text="The default maximum tier player garrisoned troops are trained to." />
+    <string id="config_category_default_onlyelite_name" text="Default player only recruit elites" />
+    <string id="config_category_default_onlyelite_description" text="Enables only recruit elite units for player garrisons by default." />
+    <string id="config_category_default_guardssell_name" text="Default guards enable prisoner trade" />   
+    <string id="config_category_default_guardssell_description" text="Enables prisoner trade for player guards by default." />  
+    <string id="config_category_default_replenish_name" text="Default guards enable replenish" />    
+    <string id="config_category_default_replenish_description" text="Enables replenish and heal for player guards by default." />  
+    <string id="config_category_default_tutorial_name" text="Deactivate Tutorial" />    
+    <string id="config_category_default_tutorial_description" text="Disables the tutorial that is started upon entering a owned fief." />  
+    <string id="config_category_default_dailymessage_name" text="Disable Daily Message" />     
+    <string id="config_category_default_dailymessage_description" text="Disables the daily chat message." /> 
+    <string id="config_category_default_hideoutclear_name" text="Default guards enable clear hideouts" /> 
+    <string id="config_category_default_hideoutclear_description" text="Enables guards clear hideouts by default." /> 
+    <string id="config_category_default_buyhorses_name" text="Default guards enable buy horses" /> 
+    <string id="config_category_default_buyhorses_description" text="Enables guards buy horses to gain additional movement speed by default." /> 
+    <string id="config_category_default_guardupgrade_name" text="Default guards enable troop upgrade" />    
+    <string id="config_category_default_guardupgrade_description" text="Enables player guard parties to upgrade there troops by default." />  
+    <string id="config_category_default_guardprisonerrecruit_name" text="Default guards recruit prisoners" />    
+    <string id="config_category_default_guardprisonerrecruit_description" text="Enables recruitment of prisoners for player guards by default." />  
+    
+    
+    <!-- SECTION tutorial -->  
+    <string id="tutorial_continue" text="Continue" />
+    <string id="tutorial_cancel" text="Cancel Tutorial" />
+    <string id="tutorial_end" text="End Tutorial" />
+    <string id="tutorial_back" text="Back" />
+    <string id="tutorial_title" text="Improved Garrisons Tutorial" />
+    <string id="tutorial_introduction" text="Welcome to the Improved Garrisons Tutorial. {newline} {newline}This Tutorial will explain the basic features of your Improved Garrison." />
+    <string id="tutorial_findmenu1" text="The Improved Garrisons option menu can be opened by pressing the button" />
+    <string id="tutorial_findmenu2" text="in the Game Menu of your Castle or Town. {newline}(seen on the left side of your screen)" />
+    <string id="tutorial_uiguide1" text="Improved Garrisons Menu" />
+    <string id="tutorial_uiguide2" text="After pressing the Improved Garrison button the Improved Garrisons Menu will be opened. This menu is used to access and control your Improved Garrisons. It consists of serveral different tabs with features like Recruitment and Training of your garrisoned troops." />
+    <string id="tutorial_garrisonselector1" text="Improved Garrisons Selector" />
+    <string id="tutorial_garrisonselector2" text="At the top of the Improved Garrison Menu you find a drop-down button. All your current castles and settlements will be listed here." />
+    <string id="tutorial_garrisonselector3" text="Use this drop-down to select the Improved Garrison you want to make changes to." />
+    <string id="tutorial_overview1" text="Overview Tab" />
+    <string id="tutorial_overview2" text="This tab provides you with an overview of all your current fiefs (castles/settlements). Each of your fiefs will be listed in a list of cards. With the help of this list you can view the current status for each of your fiefs from anywhere on the map." />
+    <string id="tutorial_overview3" text="It will also dynamically show you useful information like if a fief or one of its villages is currently under attack or even destroyed." />
+    <string id="tutorial_overview4" text="Overview Tab Functions" />
+    <string id="tutorial_overview5" text="Each card you see here also comes with some functions." />
+    <string id="tutorial_overview6" text="If you left-click on the fiefs image it will be tracked on the map." />
+    <string id="tutorial_overview7" text="If you left-click the card the fief will be selected for configuration." />
+    <string id="tutorial_overview8" text="If you right-click the card a context menu opens with further options." />
+    <string id="tutorial_overview9" text="Note: The context menu also contains an option to defend with a guard party (will be explained later) when its attacked which allows you to defend a fief or village from anywhere on the map." />
+    <string id="tutorial_recruitment1" text="The Recruitment Menu" />
+    <string id="tutorial_recruitment2" text="This is the recruitment section. You have the possibility to automatically recruit from this garrisons region or to establish a recruiter party to recruit troops from outside of the region." />
+    <string id="tutorial_recruitment2_1" text="Note: A region consists of the castle/settlement and the nearby villages" />
+    <string id="tutorial_recruitment3" text="Recruiter Information" />
+    <string id="tutorial_recruitment4" text="A Recruiter party is used to recruit new troops for the garrison. The recruiter will look for new troops outside of the region of your current fief. You may select the culture and the amount of troops you want the recruiter to recruit for your garrison." />
+    <string id="tutorial_recruitment5" text="Recruitment Settings" />
+    <string id="tutorial_recruitment6" text="The recruitment part of Improved Garrisons enables your castle/settlement to automatically recruit new troops. In the highlighted section you have a couple of different options to chose on how you want new troops to be recruited." />
+    <string id="tutorial_recruitment6_1" text="Vanilla Recruitment" />
+    <string id="tutorial_recruitment6_2" text="The vanilla recruitment refers to the recruitment of the base game which is done outside of this mod. It is highly recommended to keep this setting deactivated as the recruitment from the base game is not controlled by Improved Garrisons and can therefore interfere with the settings you have set up." />
+    <string id="tutorial_recruitment6_3" text="Recruit from region" />
+    <string id="tutorial_recruitment6_4" text="With this setting enabled nearby villages send a party of recruits to the garrison without the need of you collecting it." />
+    <string id="tutorial_recruitment6_5" text="Recruit Prisoners" />
+    <string id="tutorial_recruitment6_6" text="With this setting enabled prisoners you have in the dungeon will slowly be recruited to your garrison." />
+    <string id="tutorial_recruitment7" text="Note: Each prisoner in mount and blade has his own conformity value that needs to be reached in order to be recruitable. You could run around with your prisoner and fight to build up his conformity or use the Improved Garrison option to slowly add conformity to each prisoner." />
+    <string id="tutorial_recruitment8" text="Recruitment Settings" />
+    <string id="tutorial_recruitment9" text="(You can scroll in this section)" />
+    <string id="tutorial_recruitment10" text="Use these settings to further customize the behavior of this garrisons recruitment and the recruiter party." />
+    <string id="tutorial_training1" text="The Training Menu" />
+    <string id="tutorial_training2" text="This is the training section of Improved Garrisons. Here you can tell the Improved Garrison to train garrisoned troops." />
+    <string id="tutorial_training3" text="Training Templates" />
+    <string id="tutorial_training4" text="With a training template you are able to exactly specify which troops you want your Improved Garrison to train its garrisoned troops to. With this feature you can define an entire army in a template like how many Battanian Fian Archers and how many Sturgian Soldiers you want to be trained." />
+    <string id="tutorial_training5" text="This feature can be very convenient. If you have prepared an army in one of your Improved Garrisons, the next time you lose a big fight there is no need to collect and train new troops. Just going to the garrison and collecting the prepared army you customized." />
+    <string id="tutorial_training6" text="How does it work? Each time a garrisoned troop can be upgraded, the Improved Garrison will check if the troop has a upgrade target specified in your current training template in it's path. The Improved Garrison will then proceed to upgrade the troop towards this target." />
+    <string id="tutorial_training7" text="Note: The Improved Garrison will not upgrade to troops above the target specified in the training template." />
+    <string id="tutorial_training7_1" text="Note: If a troop is not specified in the template the troop will be randomly upgraded towards the 'max upgrade tier for troops' setting." />
+    <string id="tutorial_training7_2" text="Note: The troop list that is highlighted is interactive. Right-Click to delete a troop from the list and use the '+' and '-' buttons to change the amount you want to be trained." />
+    <string id="tutorial_training8" text="Add Troops" />
+    <string id="tutorial_training9" text="Here you are able to add new troops to your currently applied template. The troops will be added in the list above so you can always have a quick look what your Improved Garrison is currently training." />
+    <string id="tutorial_training10" text="Template Manager" />
+    <string id="tutorial_training11" text="The Template Manager is a convenient feature to save and manage training templates. Your saved templates will be synchronized accross all your saves so you will always be able to apply them later if you need them." />
+    <string id="tutorial_training12" text="Training Settings" />
+    <string id="tutorial_training13" text="For the template feature to work the Improved Garrison needs your permission to train troops from your garrison. To give the permission you can enable the training here." />
+    <string id="tutorial_training14" text="Note: Keep in mind that training costs gold. If you are having struggle keeping up with your gold change it may be smart to check if you are able to maintain your current training settings." />
+    <string id="tutorial_training14_3" text="Let's go back to the recruitment section for a moment and review the highlighted setting here." />
+    <string id="tutorial_training15" text="Recruiting follows template" />
+    <string id="tutorial_training16" text="This feature is very convenient. To be able to train troops according to your current training template, the Improved Garrison of course needs units that are able to be trained to these template units!" />
+    <string id="tutorial_training16_1" text="Instead of having to collect these units by yourself, the Improved Garrison recruitment will do it for you. Keep in mind that depending on your template, troops from different cultures that are from different parts of the world map are needed. To automatically recruit troops from these cultures, enable the 'auto create recruiter' in the settings below (After activating the 'recruiting follows template' button) to have recruiter parties automatically be created for you." />
+    <string id="tutorial_training16_2" text="The recruiter is (kind of) intelligent. He knows what troops from which cultures you need for your training template and will gather these troops from around the world map for you and returns them to your garrison." />
+    <string id="tutorial_training14_1" text="Vanilla Training" />
+    <string id="tutorial_training14_2" text="As with the vanilla recruitment there is also a vanilla training setting which refers to the base games logic of upgrading troops. It is highly recommended to leave this setting disabled as the base games upgrade logic randomly upgrades and downgrades troops without looking at the training template." />
+    <string id="tutorial_training17" text="Max upgrade tier for troops (non template)" />
+    <string id="tutorial_training18" text="This feature is only relevant for all those troops in your garrison that are not affected by your current training template. The Improved Garrison will only upgrade those troops to the tier you have selected here." />
+    <string id="tutorial_training19" text="Note: If no training template is found for a troop. Its upgrade path will be randomly selected." />
+    <string id="tutorial_guards1" text="Garrison Guards" />
+    <string id="tutorial_guards2" text="This is the guards section. Here you are able to create a new guard party, see current information about your current guard, order your guard or customize the behavior." />
+    <string id="tutorial_guards3" text="A guard is a party that is created out of your currently garrisoned troops. Each Improved Garrison may have one guard party. Guard parties have a advanced custom AI build on top of the base games AI. The guards AI thinks about stuff like &quot;I should defend XY village&quot;, &quot;I shouldn't attack XY party it is to fast or to strong&quot;, &quot;I should go back to a settlement and heal my units&quot;, and more!" />
+    <string id="tutorial_guards4" text="Each guard can also be given orders. The most common usage is the defense of your region. If you tell the guard to patrol it will walk around the region clear looters and bandits and defend against sieges and raids. You may also tell the guards to escort parties. The guards will then follow the party and defend it. This can be useful if you need help with your next attack or you want one of your caravans to be protected." />
+    <string id="tutorial_guards5" text="Guard Settings" />
+    <string id="tutorial_guards6" text="(You can scroll in this section)" />
+    <string id="tutorial_guards7" text="This list consists of further behavior customization for you guards. You can for example automatically create guards when attacked, disable the recruitment of captured prisoners and more." />
+    <string id="tutorial_garrison1" text="Garrison Information" />
+    <string id="tutorial_garrison2" text="This is the garrison information section. Important information about your garrison and the acitivty of the Improved Garrison is shown here." />
+    <string id="tutorial_garrison3" text="Current Garrison" />
+    <string id="tutorial_garrison4" text="This list shows you the current garrison of the selected town/castle." />
+    <string id="tutorial_garrison5" text="At the bottom you find a button to transfer troops. This allows you to create a transfer party which will go to a selected location of yours. Use this feature if you want to transfer units between garrisons." />
+    <string id="tutorial_garrison6" text="Note: This could be useful if you are at war to transfer troops to garrisons that need protection." />
+    <string id="tutorial_garrison7" text="Weekly Garrison Information" />
+    <string id="tutorial_garrison8" text="This list shows the amount of costs the Improved Garrison had this week to recruit and train troops and also shows the cumulative amount of troops that have been recruited and upgraded this week." />
+    <string id="tutorial_garrison9" text="Garrison Activity" />
+    <string id="tutorial_garrison10" text="A chat like list that fills up with the latest activities the Improved Garrison performed. This list shows activities like recruitments and upgrades with timestamps." />
+    <string id="tutorial_management1" text="Management" />
+    <string id="tutorial_management2" text="The management section shows you current information about your fief, allows you to copy settings between them and manage their projects." />
+    <string id="tutorial_management4" text="" />
+    <string id="tutorial_management5" text="" />
+    <string id="tutorial_management6" text="" />
+    <string id="tutorial_management7" text="Copy Manager" />
+    <string id="tutorial_management8" text="The copy manager is used to copy the settings of your currently selected Improved Garrison to other Improved Garrison." />
+    <string id="tutorial_management9" text="Note: For example if you quickly want all your fiefs to collect 300 troops to prepare for your next war, you can do this here." />
+    <string id="tutorial_enableonmap1" text="Enable on Map" />
+    <string id="tutorial_enableonmap2" text="Quick Tip: If you want to use the Improved Garrisons Menu while going around the map, you can check this button." />
+    <string id="tutorial_configmanager1" text="Configuration Manager" />
+    <string id="tutorial_configmanager2" text="The Improved Garrison Configuration Manager is accessible anytime while on the map by pressing [left ALT] + [G]. {newline} {newline}Here you are able to adjust many mods values as you'd like. You could for example:{newline}> Change the daily training exp{newline}> lower your Guards and Garrisons costs{newline}> Increase the speed your prisoners are recruited{newline}> Load the food gathering module{newline}> Activate the mod for the npc factions{newline}> Change the default values that are set upon getting a new fief{newline}> Activate cheat settings{newline}> ... and much more!" />    
+    <string id="tutorial_thankyou" text="Aaand you made it through the tutorial!! :-){newline} {newline}I personally want to thank you for using Improved Garrisons! I put countless hours of work in this project and seeing how many people enjoy the mod is truly amazing.{newline} {newline}If you like my work it would be awesome to hear back from you. Consider leaving a comment and endorsement on the Nexus Mod Page. And if you want to support my work you can donate me a coffee for my late night development sessions :-){newline} {newline}On to a great journey of Mount and Blade {newline} ~ Sidies" />
+    
+    <!-- SECTION tips -->
+    <string id="tipstext" text="Tips" />
+    <string id="tips_tip1" text="The Improved Garrison can recruit and train template troops for you." />
+    <string id="tips_tip2" text="Guards can join you on sieges." />
+    <string id="tips_tip3" text="A training template is used to specify the upgrade target for the Improved Garrison." />
+    <string id="tips_tip4" text="Clicking on the icon in the overview section tracks the village or settlement." />
+    <string id="tips_tip5" text="The settings for a Improved Garrison can be copied from another Improved Garrison." />
+    <string id="tips_tip6" text="The Configurationmanager is used to change many of the mods values. It can be opened by pressing (ALT + G)." />
+    <string id="tips_tip7" text="Recruiters can automatically collect troops for your current training template." />
+    <string id="tips_tip8" text="The garrison party wage can be disabled in the cheat section of the Improved Garrison configuration." />
+    <string id="tips_tip9" text="The Improved Garrison can automatically send out a Guard party to defend attacked villages if set up." />
+    <string id="tips_tip10" text="A new Guard party can automatically be created after it has been destroyed." />
+
+    <!-- SECTION misc -->       
+    <string id="misc_costmodel_trainingcosts" text="Improved Garrison Training of" />
+    <string id="misc_costmodel_recruitmentcosts" text="Improved Garrison Recruitment of" />
+    <string id="misc_ig_onmapload" text="Loaded Improved Garrisons." />
+    <string id="misc_deletepartiesmode" text="Delete all Improved Garrisons Parties mode has been activated and will now be executed." />
+    <string id="misc_update_title" text="Improved Garrison Update" />
+    <string id="misc_update_desc" text="~ Thanks for using Improved Garrisons {newline} {newline}There are new configuration options in the latext update!{newline} {newline}It is recommended to reset the configuration to its default values. These new configurations are otherwise set to false or 0. {newline} {newline}You can always check the mods configuration by pressing ALT + G. {newline} {newline}Have fun playing! {newline}~ Sidies" />
+    <string id="misc_update_pass" text="I check myself" />
+    <string id="misc_igname" text="Improved Garrison" />
+    <string id="misc_guardwages" text="Guard wages" />
+    <string id="misc_guards" text="Guards" />
+    <string id="misc_costs" text="costs" />
+    <string id="misc_any" text="any" /> 
+    <string id="misc_activ" text="activ" /> 
+    <string id="misc_next" text="Next" /> 
+    <string id="misc_none" text="none" /> 
+    <string id="misc_template" text="template" /> 
+    <string id="misc_hour" text="h" /> 
+    
+  </strings>
+</base>
