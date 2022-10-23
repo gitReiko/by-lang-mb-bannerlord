@@ -198,7 +198,7 @@
     <string id="V542tneW" text="Стомленасць ад Вайны" />
     <string id="lSttctYC" text="Уключыць Стомленасць ад Вайны" />
     <string id="Cxyn9ROT" text="Калі адключана, то механіка стомленасці ад вайны будзе адключана. Значэнне па змаўчанні - уключана." />
-    <string id="8TFQWL55" text="Стомленасць ад Вайны за Дзень" />
+    <string id="8TFQWL55" text="Штодзённая Стомленасць ад Вайны" />
     <string id="lgza5wDq" text="Колькасць стомленасці ад вайны, якая будзе дададзена за кожны дзень вайны. Значэнне па змаўчанні - 1.0." />
     <string id="s6dNpM6M" text="Стомленасць ад Вайны за Ахвяры" />
     <string id="NcJtGeM7" text="Колькасць стомленасці ад вайны, якая будзе дададзена фракцыі, што мае баявыя ахвяры. Значэнне па змаўчанні - 0.01." />
@@ -207,67 +207,67 @@
     <string id="jI9NSxtz" text="Уключыць Наладачныя Паведамленні Стомленасці ад Вайны для Гульца" />
     <string id="LYyNbQds" text="Уключае наладачныя паведамленні пра стомленасць ад вайны, якая будзе дададзена гаспадарству гульца. Значэнне па змаўчанні - не."/>
 
-    <string id="Bh7vme9y" text="Max War Exhaustion" />
-    <string id="6Ij1WEWz" text="The amount of war exhaustion that forces a faction to propose peace. Default value is 100.0." />
-    <string id="eWVGwf2m" text="War Exhaustion Per Raid" />
-    <string id="ufHDJt8H" text="The amount of war exhaustion added when a faction's village is raided. Default value is 3.0." />
-    <string id="Fyion5Hw" text="War Exhaustion Decay per Day" />
-    <string id="o99AUWR8" text="The amount of war exhaustion decay per day the factions are at peace. Default value is 2.0." />
+    <string id="Bh7vme9y" text="Макс Стомленасць ад Вайны" />
+    <string id="6Ij1WEWz" text="Колькасць стомленасці ад вайны, якая прымушае фракцыю прапанаваць мір. Значэнне па змаўчанні - 100.0." />
+    <string id="eWVGwf2m" text="Стомленасць ад Вайны за Кожнае Рабаванне" />
+    <string id="ufHDJt8H" text="Колькасць стомленасці ад вайны, што дадаецца пры рабаванні вёскі фракцыі. Значэнне па змаўчанні - 3.0." />
+    <string id="Fyion5Hw" text="Штодзённы Заняпад Стомленасці ад Вайны" />
+    <string id="o99AUWR8" text="Штодзённая колькасць змяншэння стомленасці ад вайны для фракцыі падчас міру. Значэнне па змаўчанні - 2.0." />
 
-    <string id="Ckd1Lsoa" text="Gold Costs" />
-    <string id="HFtZsD6v" text="Scaling War Reparations Gold Cost Multiplier" />
-    <string id="MIhbrqbr" text="Multiplier for the scaling of war reparations gold costs. Default value is 100." />
+    <string id="Ckd1Lsoa" text="Кошт Золата" />
+    <string id="HFtZsD6v" text="Множнік Маштабавання Кошту Золата для Вайсковай Даніны" />
+    <string id="MIhbrqbr" text="Множнік маштабавання кошту золата для вайсковай даніны. Значэнне па змаўчанні - 100." />
 
-    <string id="2XC8QHkl" text="Enable Alliances" />
-    <string id="5YJBZx28" text="If disabled, this disables the ability to form alliances for both player and AI kingdoms. Default value is enabled." />
-
-
-    <string id="OfEMJWiR" text="Relation" />
-    <string id="6l9QNMrB" text="Grant Fief Postiive Relation Multiplier" />
-    <string id="FQaghHo7" text="Multiplier for the relation gain when granting fiefs. Default value is 1." />
-    <string id="9qKclHq3" text="Grant Fief Relation Penalty" />
-    <string id="fgc8Dvg0" text="The relation penalty assessed when granting a fief to another clan. Default value is -2."/>
-
-    <string id="8ZPKToTq" text="Influence Balancing"/>
-    <string id="4jlYRUdZ" text="Enable Influence Balancing"/>
-    <string id="tOMN9DQD" text="Enables influence balancing. May need to be disabled for mod compatibility."/>
-
-    <string id="vzKRX2JA" text="Influence Decay"/>
-    <string id="szYr4OTG" text="Enable Influence Decay" />
-    <string id="rKS9z4Sz" text="Enables influence decay, which gradually decays influence each day. Default value is enabled."/>
-
-    <string id="pVE1yNlm" text="Influence Decay Threshold"/>
-    <string id="MnLk08uW" text="The amount of influence exempt from influence decay. Default value is 1000."/>
-    <string id="WTeM4Rba" text="Maximum Influence Loss per Day"/>
-    <string id="CGixJ6ng" text="The maximum amount of daily influence loss. Default value is 20."/>
-    <string id="yob5ZHtz" text="Influence Decay Percentage per Day"/>
-    <string id="IYFl4kJx" text="The percentage of influence that decays away per day. Default value is 2.0." />
-
-    <string id="e5fHDXgl" text="Corruption" />
-    <string id="KWAH0S4h" text="Enable Corruption" />
-    <string id="trgnZ0pn" text="Enables corruption, which gradually decays a clan's influence each day when holding too many fiefs. Default value is enabled."/>
+    <string id="2XC8QHkl" text="Уключыць Хаўрусы" />
+    <string id="5YJBZx28" text="Гэтая налада ўключае магчымасць стварэння хаўрусаў як для гаспадарства гульца, гэтак і для гаспадарстваў ШІ. Значэнне па змаўчанні - уключана." />
 
 
-    <string id="ZqQaUIil" text="Expansionism"/>
-    <string id="2raR1ZHv" text="Coalitions"/>
-    <string id="Pr4dcRKm" text="Minimum Expansionism Per Fief"/>
-    <string id="9qcAWjI7" text="The minimum amount of expansionism a fief contributes. Default value is 3."/>
-    <string id="MnhMW8iq" text="Expansionism Per Siege"/>
-    <string id="lCbie62E" text="Expanionism added per successful siege. Default value is 20."/>
-    <string id="mEXGC0h3" text="Expansionism Decay Per Day"/>
-    <string id="kgPeQvqE" text="The amount of expansionism that decays each day. Default value is 1."/>
-    <string id="ZIf1tRII" text="Enable Coalitions"/>
-    <string id="8v8q0OGu" text="Enables coalitions, which allow factions to band together against a strong, expansionist faction. Default value is enabled."/>
-    <string id="1kSd88X5" text="Expansionism Threshold"/>
-    <string id="EUnASoee" text="The amount of expansionism a faction requires before a coalition is formed against it. Default value is 100."/>
-    <string id="zwbL9BHe" text="Coalition Chance Percentage per Day"/>
-    <string id="9ugCWA3v" text="The percentage change of a coalition forming against a faction over the expansionism threshold. Default value is 5."/>
+    <string id="OfEMJWiR" text="Адносіны" />
+    <string id="6l9QNMrB" text="Множнік Станоўчых Адносінаў за Дарэнне Воласцяў" />
+    <string id="FQaghHo7" text="Множнік атрыманых адносінаў за дарэнне воласцяў. Значэнне па змаўчанні - 1." />
+    <string id="9qKclHq3" text="Штраф Адносінаў за Дарэнне Воласцяў" />
+    <string id="fgc8Dvg0" text="Штраф да адносінаў, што атрымліваецца пры дарэнні воласцяў іншаму клану. Значэнне па змаўчанні - 2."/>
 
-    <string id="lsyl0VSX" text ="Storyline Protection"/>
-    <string id="EVrErrTR" text="When enabled, prevents the player from breaking the main storyline. Disable when using mods like &quot;Just Let Me Play&quot;. Default value is true." />
+    <string id="8ZPKToTq" text="Балансаванне Ўплыву"/>
+    <string id="4jlYRUdZ" text="Уключыць Балансаванне Ўплыву"/>
+    <string id="tOMN9DQD" text="Уключае балансаванне ўплыву. Можа быць адключана для сумяшчальнасці з модамі."/>
 
-    <string id="f6n2UAEC" text="Unfinished Features" />
-    <string id="HSoZfvXH" text="Enable Usurp Throne Feature" />
-    <string id="ZIAo4er4" text="When enabled, this allows the player to usurp the throne of a kingdom. This feature is unbalanced and is pending a rework and thus not recommended. Default value is false." />
+    <string id="vzKRX2JA" text="Заняпад Уплыву"/>
+    <string id="szYr4OTG" text="Уключыць Заняпад Уплыву" />
+    <string id="rKS9z4Sz" text="Уключае паступовы штодзённы заняпад уплыву. Значэнне па змаўчанні - уключана."/>
+
+    <string id="pVE1yNlm" text="Парог Заняпаду Уплыву"/>
+    <string id="MnLk08uW" text="Колькасць уплыву пасля якога пачынаецца заняпад уплыву. Значэнне па змаўчанні - 1000."/>
+    <string id="WTeM4Rba" text="Максімальная Штодзённая Страта Уплыву"/>
+    <string id="CGixJ6ng" text="Максімальная колькасць штодзённых страт уплыву. Значэнне па змаўчанні - 20."/>
+    <string id="yob5ZHtz" text="Адсотак Штодзённага Заняпаду Уплыву"/>
+    <string id="IYFl4kJx" text="Адсотак, на які ўплыў штодня змяншаецца. Значэнне па змаўчанні - 2.0." />
+
+    <string id="e5fHDXgl" text="Карупцыя" />
+    <string id="KWAH0S4h" text="Уключыць Карупцыю" />
+    <string id="trgnZ0pn" text="Уключае карупцыю, якая паступова змяншае ўплыў клана кожны дзень, калі клан мае зашмат воласцяў. Значэнне па змаўчанні - уключана."/>
+
+
+    <string id="ZqQaUIil" text="Экспансіянізм"/>
+    <string id="2raR1ZHv" text="Кааліцыі"/>
+    <string id="Pr4dcRKm" text="Мінімальны Экспансіянізм за Воласць"/>
+    <string id="9qcAWjI7" text="Мінімальная колькасць экспансіянізму, якая дае воласць. Значэнне па змаўчанні - 3."/>
+    <string id="MnhMW8iq" text="Экспансіянізм за Аблогу"/>
+    <string id="lCbie62E" text="Экспансіянізм, што дадаецца за кожную паспяховую аблогу. Значэнне па змаўчанні - 20."/>
+    <string id="mEXGC0h3" text="Штодзённы Заняпад Экспансіянізму"/>
+    <string id="kgPeQvqE" text="Колькасць штодзённага заняпаду экспансіянізму. Значэнне па змаўчанні - 1."/>
+    <string id="ZIf1tRII" text="Уключыць Кааліцыі"/>
+    <string id="8v8q0OGu" text="Уключае кааліцыі, магчымасць фракцый яднацца разам супраць моцнай экспансіянісцкай фракцыі. Значэнне па змаўчанні - уключана."/>
+    <string id="1kSd88X5" text="Парог Экспансіянізму"/>
+    <string id="EUnASoee" text="Колькасць экспансіянізму фракцыі, пасля якога супраць яе будзе сфармавана кааліцыя. Значэнне па змаўчанні - 100."/>
+    <string id="zwbL9BHe" text="Штодзённы Адсотак Шанцу Кааліцыі"/>
+    <string id="9ugCWA3v" text="Шанец, у адсотках, фармаванні кааліцыі супраць фракцыі пасля перавышэння парога экспансіянізму. Значэнне па змаўчанні - 5."/>
+
+    <string id="lsyl0VSX" text ="Абарона Сюжэтнай Лініі"/>
+    <string id="EVrErrTR" text="Калі ўключана, не дазваляе гульцу парушыць асноўную сюжэтную лінію. Адключыце пры выкарыстанні такіх модаў, як &quot;Проста Дай Мне Пагуляць&quot;. Значэнне па змаўчанні - так." />
+
+    <string id="f6n2UAEC" text="Незавершаныя Магчымасці" />
+    <string id="HSoZfvXH" text="Уключыць Функцыю Узурпаваць Трон" />
+    <string id="ZIAo4er4" text="Калі гэтая функцыя ўключана, яна дазваляе гульцу ўзурпаваць трон гаспадарства. Гэтая функцыя не збалансавана і знаходзіцца на стадыі дапрацоўкі, таму не рэкамендуецца. Значэнне па змаўчанні - не." />
   </strings>
 </base>

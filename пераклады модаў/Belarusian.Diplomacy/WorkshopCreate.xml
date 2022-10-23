@@ -1,0 +1,58 @@
+<Tasks>
+    <CreateItem/>
+    <UpdateItem>
+        <ModuleFolder Value="C:\Program Files (x86)\Steam\steamapps\common\Mount &amp; Blade II Bannerlord\Modules\Belarusian.Diplomacy"/>
+        <!-- A direct path of your module -->
+        <ItemDescription Value="Аматарскі пераклад мода Diplomacy 1.1.12 на беларускую мову.
+
+        Гэта толькі пераклад. Мод Diplomacy льга спампаваць па спасылцы https://www.nexusmods.com/mountandblade2bannerlord/mods/832 . Гэтага мода пакуль няма ў Steam Workshop.
+
+        Мод Diplomacy льга пачаць альбо перастаць выкарыстоўваць на ўсякай стадыі гульні.
+        
+        Функцыі & змены мода Diplomacy:
+        - Адпраўленне пасланнікаў да усіх персанажаў гульні;
+        - Грамадзянскія войны, якія могуць прымусіць гаспадара зрачыся трона альбо стварыць новае гаспадарства;
+        - Зручныя механікі дапамогі шляхтічам гаспадарства;
+        - Паляпшэнне інтэрфейсу акна дыпламатыі;
+        - Права першаснага валодання захопленым селішчам (для гульца);
+        - Фармаванне кааліцый супраць занадта моцных і экспансіўных гаспадарстваў. Кааліцыя - гэта яднанне некалькіх гаспадарстваў супраць моцнага;
+        - Фармаванне пактаў пра ненапад;
+        - Фармаванне хаўрусаў з іншымі гаспадарствамі.
+
+        Чарга загрузкі:
+
+        (моды, якія патрабуюцца для працы мода Diplomacy)
+        1. Harmony
+        2. ButterLib
+        3. UIExtenderEx
+        4. Mod Configuration Menu
+
+        (стандартныя модулі гульні)
+        5. Native
+        6. SandBoxCore
+        7. Sandbox
+        8. StoryMode
+
+        (модулі перакладу. першым трэба запусціць Belarusian Core. чарга іншых перакладаў не мае значэння)
+        9. Belarusian Core
+        10. Belarusian Diplomacy
+        11. Іншыя беларускія пераклады
+        
+        "/>
+        <!-- A description that will be displayed on Steam Workshop, can be edited via the Steam UI -->
+        <Tags> 
+            <!-- You can use the following tags: -->
+            <!-- Type: Graphical Enhancement, Map Pack, Partial Conversion, Sound, Total Conversion, Troops, UI, Utility, Weapons and Armour -->
+            <!-- Setting: Native, Antiquity, Dark Ages, Medieval, Musket Era, Modern, Sci-Fi, Fantasy, Oriental, Apocalypse, Other -->
+            <!-- Game Mode: Singleplayer, Multiplayer -->
+            <!-- Compatible Version: e1.9.0, v1.0.0,... The currently available versions can be found at the Steam Workshop "Browse by Tag" section -->
+            <Tag Value="UI" />
+            <Tag Value="Singleplayer" />
+            <Tag Value="e1.8.1" />
+        </Tags>
+        <Image Value="C:\Program Files (x86)\Steam\steamapps\common\Mount &amp; Blade II Bannerlord\Modules\Belarusian.Diplomacy\Image.jpg"/>
+        <!-- Determines the featured image displayed on Steam Workshop, a direct path to it must be inserted here (the image should be smaller than 1 MB) -->
+        <Visibility Value="Private"/>
+        <!-- Determines visibility on Steam Workshop. Can be: Public, FriendsOnly, Private -->
+    </UpdateItem>
+</Tasks>
