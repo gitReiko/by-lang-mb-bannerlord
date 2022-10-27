@@ -9,7 +9,6 @@
     <string id="0FVlAbbJ" text="Золата III" />
     <string id="0Itt3bZM" text="Цяперашняя версія дакумента прывязкі клавішаў састарэла. Прывязкі клавіш былі вернуты да значэнняў па змаўчанні." />
     <string id="0tUYng4e" text="Узровень Павышаны!" />
-    <string id="12ja2ilo" text="Паказаць Індыкатары &amp; Энцыклапедыю" />
     <string id="18yFEEIL" text="Меркаваны час чакання" />
     <string id="1A1t1naG" text="Вы пакінулі рангавую гульню, якая праходзіць. Калі ласка, далучыцеся да гульні наноў." />
     <string id="1Bm1Wk1v" text="Пяхота" />
@@ -18,6 +17,7 @@
     <string id="1imGhhZl" text="Дапамогі" />
     <string id="1JlzQIXE" text="Адключ." />
     <string id="1pwQgr04" text="Запыт Стварэння Матча" />
+    <string id="2baWg4Gq" text="Хост" />
     <string id="2faDtaGz" text="Золата I" />
     <string id="2FaZ6E1k" text="Каэфіцыент Забойстваў і Смерцяў" />
     <string id="2kvGep9s" text="Абярыце Камандзіра Для Пабудовы {FORMATION_INDEX}" />
@@ -116,6 +116,7 @@
     <string id="bfQLwMUp" text="Кланы" />
     <string id="bhQiSzOU" text="Профіль недаступны" />
     <string id="bIcFZT6L" text="Тып Брывоў" />
+    <string id="bjJkW9dO" text="Прагляд Профілю" />
     <string id="bLPSaLNv" text="Хуткі Рух Курсора Направа" />
     <string id="bn0v5ST0" text="Прасунуты!" />
     <string id="bON4Kn6B" text="Аўтапрызначэнне" />
@@ -140,7 +141,6 @@
     <string id="cLJdeUWz" text="Вышыня:" />
     <string id="clxT9H4T" text="Увядзіце Сваё Імя" />
     <string id="cO2FDHCa" text="Дуэль з {OPPONENT_NAME} пачнецца праз {DUEL_REMAINING_TIME} секундаў." />
-    <string id="cru84oB8" text="Афіцыйн." />
     <string id="CW2JkWzC" text="Вы сапраўды жадаеце выдаліць гэтую аб'яву?" />
     <string id="cw5QyeRU" text="Прычына Скаргі" />
     <string id="cZNA5Z6l" text="Пабудова {NUMBER}" />
@@ -205,6 +205,7 @@
     <string id="FRSGOfUJ" text="Пераключыць Актыўнасць Журнала Бою" />
     <string id="ftoSCQ0x" text="Даўжыня" />
     <string id="FTXx0aRp" text="Гуляць як" />
+    <string id="FvYhaE3z" text="Сцяг" />
     <string id="FzFqhHKU" text="Бракуе здабычы" />
     <string id="g1lgiwn1" text="Уваход Не Выкананы" />
     <string id="g5W32uf4" text="Напішыце Вашую Аб'яву" />
@@ -241,22 +242,22 @@
     <string id="HUndnpNw" text="Паніжаны!" />
     <string id="HXWpxvgT" text="{ACTION} ({SECONDS})" />
     <string id="HXxNfncd" text="Канец Бітвы" />
-    <string id="IBEJPlEj" text="Дом" />
-    <string id="Ie9I2Bha" text="Колючая Шкода" />
-    <string id="IS4SifJG" text="Перамога" />
-    <string id="Ise5gWw3" text="{PLAYED_GAMES} / {TOTAL_GAMES} Згуляна ацэнкавых матчаў" />
-    <string id="Iu2eFSsh" text="Перамогі Пяхоты" />
     <string id="i0esOr2l" text="Камандзір не прызначаны!" />
     <string id="i0OEsfLt" text="Наладжвальная Бітва Адключана" />
     <string id="i28Kjuay" text="Перасунуць Персанажа" />
     <string id="i2mNBaxE" text="Атрымаць" />
     <string id="i3dJSlD0" text="Ніводная з камандаў не перамагла ў тайм-аўце" />
     <string id="i4Oo6aoM" text="Загрузка Кантэнту..." />
+    <string id="IBEJPlEj" text="Дом" />
     <string id="iCaRFZpG" text="разам з гэтымі гульцамі" />
+    <string id="Ie9I2Bha" text="Колючая Шкода" />
     <string id="iKtIhlbo" text="Раўнды" />
     <string id="imUnCFgZ" text="Скінуць прагляд" />
     <string id="iNqucBor" text="Уваход у Сістэму" />
     <string id="iPx4jep6" text="Уздзеянне" />
+    <string id="IS4SifJG" text="Перамога" />
+    <string id="Ise5gWw3" text="{PLAYED_GAMES} / {TOTAL_GAMES} Згуляна ацэнкавых матчаў" />
+    <string id="Iu2eFSsh" text="Перамогі Пяхоты" />
     <string id="J0vjDOFO" text="Колючая Хут." />
     <string id="J2wEawTl" text="Катэгорыя" />
     <string id="j35pgljM" text="Абраць Фракцыю" />
@@ -265,16 +266,15 @@
     <string id="J5rb5YVV" text="/ {SCORE}" />
     <string id="JPimShCw" text="Тып Гульні" />
     <string id="jPXglGWT" text="Каманда суперніка была знішчана" />
-    <string id="jQJbU9Wl" text="Пошук матча" />
     <string id="jR237DSU" text="Камандзір прызначаны!" />
     <string id="jS5rrX8M" text="Няма ніякіх зменаў для ўжывання." />
     <string id="JTMegIk4" text="Прынята" />
     <string id="Jw0GMgzv" text="Цяжкая Браня" />
+    <string id="JXyxj1J5" text="Модулі" />
     <string id="JY2pBVHQ" text="Аб'ява" />
     <string id="JYIURZLb" text="+{LOOT} ад матча" />
     <string id="jyJXcOLe" text="Тэг Не Павінен Утрымліваць Абразлівых Словаў" />
     <string id="K1Gb5a5Q" text="Вам трэба запусціць гульню з антычытам" />
-    <string id="K2gwwMCB" text="Вы павінны быць лідарам сваёй партыі, і ўсе гульцы ў вашай партыі павінны быць у тым жа клане, што і вы" />
     <string id="K3Cr70PY" text="Аддаць перавагу ваярам з тронкавай зброяй" />
     <string id="k7fJ7TF0" text="Павінна быць як мінімум" />
     <string id="K8CGzQYL" text="Атрыманыя Запыты" />
@@ -285,6 +285,7 @@
     <string id="KOVHgkVq" text="Галасаванне Скончыцца Праз:" />
     <string id="koX9okuG" text="Ніяк." />
     <string id="KtweIQJQ" text="Не існуе пабудовы з класам {FORMATION_CLASS}!" />
+    <string id="kVII0pqT" text="Паказаць Гульнявую Карту" />
     <string id="Kvqb1lQR" text="{SCORE} Ачкоў" />
     <string id="l2CNxPXG" text="Тып Зубоў" />
     <string id="L3DJHTdY" text="Увядзіце Bannerlord ID" />
@@ -310,6 +311,8 @@
     <string id="mPCrz4rs" text="Заблакаваць адсотак ваяроў ад адносных зменаў." />
     <string id="MPgnsZoo" text="Чаканне адказу" />
     <string id="MS4Ng2iw" text="Вы сапраўды жадаеце прасунуць {MEMBER_NAME} да афіцэра клана?" />
+    <string id="MT4b8H9h" text="Невядома" />
+    <string id="mueocuFG" text="Паказаць Індыкатары" />
     <string id="MVOPbhNj" text="Аддаць перавагу ваярам са шчытамі" />
     <string id="N0DXasar" text="Перападлучэнне" />
     <string id="n6yb5VCI" text="Значкі Дасягненняў" />
@@ -342,6 +345,7 @@
     <string id="ou5KJERr" text="Націсніце '{KEY}', каб скрыць" />
     <string id="OUvFT99g" text="Тэг" />
     <string id="OVcoYxj1" text="Назва Сервера" />
+    <string id="ovqtG4LS" text="Паказаць Профіль Сеткі PlayStation™" />
     <string id="OwqFpPwa" text="Фільтры" />
     <string id="oyVeCtlg" text="Ростар" />
     <string id="oZc8oEAP" text="Скінуць гэтую катэгорыю да па змаўчанні" />
@@ -371,7 +375,6 @@
     <string id="Pwi1YCjH" text="Капіяваць Bannerlord ID" />
     <string id="Q1Ga032B" text="Не аддаваць перавагі ніводнаму тыпу ваяроў." />
     <string id="q2Y7aHSF" text="Запрашальная Прапанова" />
-    <string id="Q3bhM3gU" text="Схема Кантролера" />
     <string id="Q50X65NB" text="Класы" />
     <string id="q7VcSSbp" text="Абраць Герб" />
     <string id="qa9aOxLm" text="Жадаеце далучыцца да гэтага клану?" />
@@ -415,8 +418,10 @@
     <string id="SLY8z9fP" text="Абраны ўсе пабудовы!" />
     <string id="SoQcsslF" text="ЦЯПЕРАШНЯЯ КАМАНДА" />
     <string id="sPkRekRL" text="Індывідуалізацыя" />
+    <string id="SQpGQzTI" text="Кантролер" />
     <string id="SrfYbg3x" text="Лідар" />
     <string id="SS5WyUWR" text="Дуэляў Выйграна" />
+    <string id="suyl7WWa" text="Сцяг не экіпіяваны" />
     <string id="sWnQva5O" text="Ранг Зараз" />
     <string id="SwSaXwQg" text="досвед" />
     <string id="SyklU5aP" text="Інфармацыя" />
@@ -455,9 +460,11 @@
     <string id="vBkrw5VV" text="Выпадкова" />
     <string id="VFqoa6vD" text="Жадаеце запрасіць гэтага гульца ў сваю партыю?" />
     <string id="vGF5S2hE" text="Табліца Лідараў" />
+    <string id="Vivr788x" text="Сумяшчальнасць Модуляў" />
     <string id="vlACTion" text="Вы адблакавалі ўсе значкі!" />
     <string id="vW1VgmaP" text="Вы ўпэўнены, што жадаеце расфармаваць свой клан?" />
     <string id="W4DLzPSb" text="Сервер не запоўнены" />
+    <string id="W51HSyXy" text="Націсніце {VIEW_PROFILE_KEY} для прагляду профілю хаста" />
     <string id="w7Yrbi5t" text="Скасаваць" />
     <string id="w9m11T1y" text="Мапа" />
     <string id="wGjQgQlY" text="Наступная гульня пачнецца праз:" />
@@ -509,6 +516,7 @@
     <string id="zBld61ck" text="Вага:" />
     <string id="zEMWM4h3" text="Ужо ў Клане" />
     <string id="ZixS1b4u" text="Вы не ўзначальваеце гэтую бітву." />
+    <string id="zjcZZgUY" text="Эфекты Сцяга" />
     <string id="znKxunbQ" text="Наступны Персанаж" />
     <string id="zpAamvDv" text="Срэбра II" />
     <string id="zravuI1b" text="Надрукуйце Інфармацыю пра Клан" />
