@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <strings>
-    <string id="0GKH29JG" text="Mercenary Guard" />
+    <string id="0gi5Fp8c" text="Veteran Sword Sister" />
     <string id="0GkJB08d" text="Sturgian Veteran Caravan Guard" />
     <string id="1gAasy1t" text="Lake Rat Veteran" />
     <string id="1PsLlMaQ" text="Imperial Equite" />
@@ -23,6 +23,7 @@
     <string id="79ElOr2x" text="Horse Trader" />
     <string id="7aRhhGAs" text="Expert Thug" />
     <string id="7EUhAv8b" text="Ghulam" />
+    <string id="7WV17e5Q" text="Hired Elite Pike" />
     <string id="7WWUxI6y" text="Sturgian Veteran Bowman" />
     <string id="8bA4PvdG" text="Imperial Veteran Archer" />
     <string id="8Gh8q1PX" text="Beni Zilal Royal Guard" />
@@ -41,7 +42,6 @@
     <string id="AoFZUbun" text="Aserai Vanguard Faris" />
     <string id="arb5nRri" text="Aserai Tribesman" />
     <string id="aseraipeasantwoman" text="Aserai Peasant" />
-    <string id="AssCCFew" text="Mercenary Horseman" />
     <string id="aUHtqC9o" text="Vlandian Militia Spearman" />
     <string id="B4ls6R2b" text="Aserai Master Archer" />
     <string id="b4QPaEnA" text="Battanian Militia Archer" />
@@ -79,6 +79,7 @@
     <string id="DIt9SuMb" text="Sprout" />
     <string id="DlIU2vJB" text="Khuzait Marksman" />
     <string id="DNsbKR7B" text="Battanian Wood Runner" />
+    <string id="DxtSIxyZ" text="Elite Hired Crossbow" />
     <string id="e8qbF7Ey" text="Imperial Menavliaton" />
     <string id="ECxiXTbF" text="Artisan Notary" />
     <string id="ehACDRBk" text="Hidden Pawn" />
@@ -108,14 +109,16 @@
     <string id="HMHzTNqJ" text="Battanian Trained Warrior" />
     <string id="HsboF2mR" text="Imperial Militia Veteran Archer" />
     <string id="HYx5NZSk" text="Sturgian Otrok" />
+    <string id="i5DfUz6D" text="Battanian Militia Veteran Archer" />
     <string id="IfjWyWjc" text="Imperial Infantryman" />
+    <string id="ifL3F7E2" text="Gallant Sword Sister" />
     <string id="IHczn7ti" text="Battanian Highborn Warrior" />
     <string id="IHKXNP9H" text="Tournament Master" />
     <string id="IKvwsCaJ" text="Battanian Raider" />
     <string id="IxcCmtxz" text="Battanian Militia Veteran Spearman" />
-    <string id="IZ8OmByJ" text="Imperial Trained Infantryman" />
-    <string id="i5DfUz6D" text="Battanian Militia Veteran Archer" />
     <string id="iXjMfCyp" text="Khuzait Horseman" />
+    <string id="IZ8OmByJ" text="Imperial Trained Infantryman" />
+    <string id="J4k9mg65" text="Hired Spear" />
     <string id="jaK1A7CI" text="Aserai Faris" />
     <string id="JGsUtBT3" text="Imperial Legionary" />
     <string id="jRFfRZv2" text="Sturgian Militia Archer" />
@@ -128,6 +131,7 @@
     <string id="KnhpjA7Y" text="Koleman" />
     <string id="kPCcelVX" text="Trader " />
     <string id="kppseK3N" text="Khuzait Tribal Warrior" />
+    <string id="kyt087eN" text="Veteran Outrider" />
     <string id="L0cGAnWw" text="Battanian Militia Spearman" />
     <string id="l6NFOl8c" text="Khuzait Armed Trader" />
     <string id="LbjxH9yp" text="Imperial Archer" />
@@ -148,21 +152,21 @@
     <string id="malethug" text="Thug" />
     <string id="Mcbjdntz" text="Jawwal Camel Rider" />
     <string id="MDIuyBHP" text="Khuzait Militia Spearman" />
-    <string id="Mgr6qv1j" text="Mercenary Swordsman" />
     <string id="mrBbsiPN" text="Young Wolf" />
     <string id="muu5cofb" text="Townsman" />
     <string id="MVHawAEp" text="Hidden Hand" />
     <string id="MYwUFMsz" text="Imperial Elite Cataphract" />
     <string id="n41jlEa3" text="Imperial Vigla Recruit" />
+    <string id="n89z19Dv" text="Hired Pike" />
     <string id="nDoENDqD" text="Aserai Caravan Master" />
     <string id="nPyqHxmf" text="Vlandian Sergeant" />
+    <string id="NRvuCvMN" text="Sellsword" />
     <string id="o1jvmi9P" text="Khuzait Raider" />
     <string id="OQPDvtpk" text="Vlandian Gallant" />
     <string id="oseSwa56" text="Vlandian Knight" />
     <string id="P4lcbA0b" text="Aserai Mamluke Heavy Cavalry" />
     <string id="P8EATvn8" text="Imperial Militia Archer" />
     <string id="Pd9qAiOu" text="Aserai Militia Veteran Spearman" />
-    <string id="PgOknaEN" text="Mercenary Crossbowman" />
     <string id="PJNW1UWK" text="Shop Keeper" />
     <string id="pooybAKI" text="Vlandian Swordsman" />
     <string id="pRbbJHkU" text="Imperial Bucellarii" />
@@ -183,17 +187,15 @@
     <string id="QlVeZvbv" text="Aserai Veteran Caravan Guard" />
     <string id="qMYpZKWo" text="Principes" />
     <string id="QvSmhaAV" text="Chosen Wolf" />
-    <string id="R74i2pQz" text="Hired Blade" />
+    <string id="r8npO8hG" text="Sisterhood Follower" />
     <string id="reoVAtrE" text="Merchant Notary" />
     <string id="rIqwYlSK" text="Khuzait Nomad" />
     <string id="riT39wKu" text="Sapling" />
     <string id="RJNNsaSP" text="Sturgian Brigand" />
     <string id="rQ0t0Wws" text="Vlandian Caravan Guard" />
-    <string id="RYP9hzIy" text="Watchman" />
     <string id="s3IJIFUw" text="Imperial Recruit" />
     <string id="S6BosJUq" text="Recruit Eleftheroi" />
     <string id="SAILNYbu" text="Vlandian Infantry" />
-    <string id="SaqVvzyV" text="Mercenary Cavalry" />
     <string id="Sc1d2lsH" text="Sturgian Line Breaker" />
     <string id="SDRIahK8" text="Crazy Man" />
     <string id="Si5ZCb1O" text="Vlandian Pikeman" />
@@ -216,11 +218,13 @@
     <string id="u0UNwnw2" text="Imperial Cataphract" />
     <string id="u3K1SozQ" text="Arboreal" />
     <string id="UaN2lfwi" text="Weaponsmith" />
+    <string id="UBHngTIf" text="Mercenary Maceman" />
     <string id="uca778lM" text="Beni Zilal Recruit" />
     <string id="uDseaKcb" text="Sturgian Caravan Master" />
     <string id="UdTc1PGo" text="Imperial Crossbowman" />
     <string id="ueasbGtd" text="Veteran Forester" />
     <string id="ULaNn3pp" text="Aserai Militia Spearman" />
+    <string id="uPypJHlm" text="Elite Mercenary Maceman" />
     <string id="UrSjhs4x" text="Vlandian Voulgier" />
     <string id="UsvCnAS7" text="Blaze" />
     <string id="uViDMxLC" text="Skolder Recruit" />
@@ -245,9 +249,9 @@
     <string id="X3KYysuv" text="Dancer" />
     <string id="X4GvzDdW" text="Battanian Falxman" />
     <string id="X6CQ9CMZ" text="Vlandian Sharpshooter" />
-    <string id="xaYwo9tM" text="Mercenary Scout" />
     <string id="XgjXfmM1" text="Prison Guard" />
     <string id="xJ4koSsx" text="Spark" />
+    <string id="xl6QstMW" text="Outrider" />
     <string id="xnzpQbwQ" text="Sturgian Horse Raider" />
     <string id="XzDObEiH" text="Vlandian Squire" />
     <string id="YE4RGuzU" text="Vlandian Veteran Caravan Guard" />
@@ -260,6 +264,7 @@
     <string id="z6RMWTaA" text="Tavern Maid" />
     <string id="zfCoeglY" text="Musician" />
     <string id="ZhKoCVby" text="Imperial Militia Spearman" />
+    <string id="ZK0GXYCx" text="Sword Sister" />
     <string id="ZKuabzhK" text="Khuzait Noble's Son" />
     <string id="Zmajp2o1" text="Sturgian Militia Spearman" />
     <string id="zqaGJBYZ" text="Vlandian Militia Veteran Crossbowman" />
