@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <strings>
+ <!-- 近战武器的英文文本 -->
+ <!-- 双手类武器 -->
+  <!-- 炎朝双手 -->
+    <string id="THJDY01" text="{.Zanocy}Matyka" />
+  <!-- 普若尤恩双手 -->
+    <string id="THPRU01" text="{.Muzcynski}Dvuchručny Mieč Rycara Honaru" />
+    <string id="THPRU02" text="{.Muzcynski}Dvuchručny Mieč Bandyta" />
+  <!-- 埃布拉蒙双手 -->
+    <string id="THRBL01" text="{.Zanocy}Vartavaja Siakiera Mamluka" />
+    <string id="THRBL02" text="{.Zanocy}Vartavaja Dvuchručnaja Bułava Mamluka" />
+    <string id="THRBL03" text="{.Zanocy}Ciažkaja Bułava Mamluka-Vieršnika" />
+    <string id="THRBL04" text="{.Zanocy}Dvuchručnaja Bułava Mamluka-Majstra" />
+    <string id="THRBL05" text="{.Zanocy}Elitnaja Vartavaja Bułava Mamluka" />
+    <string id="THRBL06" text="{.Muzcynski}Rabbłamijski Šlachietny Dvuchručny Bułat" />
+  <!-- 纳堪维亚双手 -->
+    <string id="THNKN01" text="{.Zanocy}Niekienijskaja Dvuchručnaja Siakiera Palaŭničaha" />
+    <string id="THNKN02" text="{.Zanocy}Niekienijskaja Šlachietnaja Dvuchručnaja Siakiera" />
+  <!-- 乌拉索维双手 -->
+    <string id="THWLT01" text="{.Zanocy}Siakiera Drevaruba" />
+    <string id="THWLT02" text="{.Zanocy}Vulciskaja Dvuchručnaja Siakiera" />
+    <string id="THWLT03" text="{.Zanocy}Vulciskaja Siakiera Najeznika" />
+    <string id="THWLT04" text="{.Zanocy}Vulciskaja Dvuchručnaja Vajskovaja Siakiera" />
+    <string id="THWLT05" text="{.Zanocy}Vulciskaja Šokavaja Siakiera" />
+    <string id="THWLT06" text="{.Zanocy}Vulciskaja Dvuchručnaja Pałka" />
+    <string id="THWLT07" text="{.Muzcynski}Vulciski Bierdyš Vajara" />
+    <string id="THWLT08" text="{.Muzcynski}Vulciski Bierdyš Advažnika" />
+    <string id="THWLT09" text="{.Muzcynski}Vulciski Cudoŭny Bierdyš" />
+  <!-- 落月双手 -->
+    <string id="THLMC01" text="{.Zanocy}Łamokijskaja Katana" />
+    <string id="THLMC02" text="{.Zanocy}Łamokijskaja Katana Samuraja" />
+    <string id="THLMC03" text="{.Zanocy}Łamokijskaja Nodačy" />
+  <!-- 雅瑞安双手 -->
+    <string id="THYRN01" text="{.Zanocy}Jarynskaja Dvuchručnaja Bułava Vajara" />
+    <string id="THYRN02" text="{.Zanocy}Jarynskaja Cudoŭnaja Bułava Vajara" />
+    <string id="THYRN03" text="{.Zanocy}Vajskovaja Bułava Valtura" />
+  <!-- 无文化特殊双手 -->
+    <string id="THSTY01" text="{.Muzcynski}Ciomny Šyroki Mieč" />
+    <string id="THSTY02" text="{.Muzcynski}Vydatny Mieč Krainy Mary" />
+    <string id="THSTY03" text="{.Mnozny}Zahany Łиtenijena" />
+  <!-- 强盗双手 -->
+    <string id="THBDT01" text="{.Muzcynski}Dvuchručny Mieč Deziertyraŭ" />
+    <string id="THBDT02" text="{.Zanocy}Dvuchručnaja Siakiera Dzikaha Lesu" />
+    <string id="THBDT03" text="{.Zanocy}Siakiera Lasničaha Dzikaha Lesu" />
+    <string id="THBDT04" text="{.Zanocy}Dvuchručnaja Siakiera Pirata" />
+    <string id="THBDT05" text="{.Zanocy}Dvuchručnaja Vajarskaja Siakiera Biasstrašša" />
+  <!-- 特殊小家族双手 -->
+    <string id="THMNR01" text="{.Zanocy}Pałka Demanaŭ-Pažyralnikaŭ" />
+  <!-- 艾灵族双手 -->
+    <string id="THELN01" text="{.Muzcynski}Elinski Dvuchručny Mieč" />
+
+ <!-- 双手类武器结束 -->
+
+ <!-- 单手类武器开始 -->
+  <!-- 炎朝单手 -->
+    <string id="OHJDY01" text="{.Muzcynski}Karotki Mieč Chen" />
+    <string id="OHJDY02" text="{.Muzcynski}Mieč Chen" />
+    <string id="OHJDY03" text="{.Muzcynski}Mieč Jańlin" />
+    <string id="OHJDY04" text="{.Muzcynski}Mieč Taj Czi" />
+    <string id="OHJDY05" text="{.Muzcynski}Doŭhi Mieč Jańlin" />
+    <string id="OHJDY06" text="{.Zanocy}Bajavaja Siakiera Jań" />
+    <string id="OHJDY07" text="{.Muzcynski}Ciažki Mieč Chen" />
+    <string id="OHJDY08" text="{.Muzcynski}Sierp Ziemlaroba" />
+    <string id="OHJDY09" text="{.Muzcynski}Pamiežny Piachoty Mieč" />
+    <string id="OHJDY10" text="{.Muzcynski}Pamiežny Mieč Alebardysta" />
+    <string id="OHJDY11" text="{.Muzcynski}Mieč Alebardysta-Pratektarata" />
+    <string id="OHJDY12" text="{.Muzcynski}Cziń Hua" />
+  <!-- 普若尤恩单手 -->
+    <string id="OHPRU01" text="{.Zanocy}Kirka" />
+    <string id="OHPRU02" text="{.Muzcynski}Pruenijski Mieč Rušennia" />
+    <string id="OHPRU03" text="{.Muzcynski}Pruenijski Mieč" />
+    <string id="OHPRU04" text="{.Muzcynski}Pruenijski Mieč Piachoty" />
+    <string id="OHPRU05" text="{.Muzcynski}Pruenijski Karotki Mieč" />
+    <string id="OHPRU06" text="{.Muzcynski}Pruenijski Mieč Vieršnika" />
+    <string id="OHPRU07" text="{.Muzcynski}Pruenijski Ŭzbrojeny Mieč" />
+    <string id="OHPRU08" text="{.Muzcynski}Pruenijski Doŭhi Mieč" />
+    <string id="OHPRU09" text="{.Muzcynski}Pruenijski Vajskovy Mieč" />
+    <string id="OHPRU10" text="{.Muzcynski}Pruenijski Karotki Vajskovy Mieč" />
+    <string id="OHPRU11" text="{.Muzcynski}Pruenijski Mieč Razryvu" />
+    <string id="OHPRU12" text="{.Muzcynski}Mieč Rycara Honaru" />
+    <string id="OHPRU13" text="{.Zanocy}Bułava Razbojnika" />
+    <string id="OHPRU14" text="{.Zanocy}Bułava Bandyta" />
+  <!-- 埃布拉蒙单手 -->
+    <string id="OHRBL01" text="{.Muzcynski}Maleńki Mołat" />
+    <string id="OHRBL02" text="{.Muzcynski}Pustelny Kinžał" />
+    <string id="OHRBL03" text="{.Zanocy}Karotkaja Bułava Najmita" />
+    <string id="OHRBL04" text="{.Zanocy}Šabla Najmita" />
+    <string id="OHRBL05" text="{.Zanocy}Rabbłamijskaja Šabla" />
+    <string id="OHRBL06" text="{.Zanocy}Šabla Najeznika" />
+    <string id="OHRBL07" text="{.Zanocy}Rabbłamijskaja Spiralnaja Bułava" />
+    <string id="OHRBL08" text="{.Zanocy}Rabbłamijskaja Šabla Vieterana" />
+    <string id="OHRBL09" text="{.Zanocy}Rabbłamijskaja Karotkaja Bułava" />
+    <string id="OHRBL10" text="{.Zanocy}Rabbłamijskaja Doŭhaja Šabla" />
+    <string id="OHRBL11" text="{.Zanocy}Rabbłamijskaja Bułava Najeznika" />
+    <string id="OHRBL12" text="{.Zanocy}Rabbłamijskaja Vydatnaja Stalovaja Bułava" />
+    <string id="OHRBL13" text="{.Zanocy}Rabbłamijskaja Vajskovaja Bułava" />
+    <string id="OHRBL14" text="{.Zanocy}Ciažkaja Šabla" />
+    <string id="OHRBL15" text="{.Muzcynski}Elitny Bułat" />
+    <string id="OHRBL16" text="{.Zanocy}Siakiera Mamluka-Rekruta" />
+    <string id="OHRBL17" text="{.Zanocy}Siakiera Mamluka-Najeznika" />
+    <string id="OHRBL18" text="{.Zanocy}Bułava Mamluka-Majstra" />
+  <!-- 蒙戈黎安单手 -->
+    <string id="OHMGR01" text="{.Muzcynski}Dubiec z Vystupam" />
+    <string id="OHMGR02" text="{.Muzcynski}Falkian Kačeŭnika" />
+    <string id="OHMGR03" text="{.Zanocy}Šabla Kačeŭnika" />
+    <string id="OHMGR04" text="{.Zanocy}Šyrokaja Šabla Kačeŭnika" />
+    <string id="OHMGR05" text="{.Zanocy}Mohryjskaja Šabla" />
+    <string id="OHMGR06" text="{.Zanocy}Bułava Vieršnika-Kačeŭnika" />
+    <string id="OHMGR07" text="{.Zanocy}Žaleznaja Bułava Konnika" />
+  <!-- 纳堪维亚单手 -->
+    <string id="OHNKN01" text="{.Muzcynski}Palaŭničy Nož" />
+    <string id="OHNKN02" text="{.Muzcynski}Tapor" />
+    <string id="OHNKN03" text="{.Zanocy}Karotkaja Siakiera" />
+    <string id="OHNKN04" text="{.Zanocy}Niekienijskaja Lohkaja Siakiera" />
+    <string id="OHNKN05" text="{.Zanocy}Niekienijskaja Siakiera Palaŭničaha" />
+    <string id="OHNKN06" text="{.Zanocy}Niekienijskaja Siakiera Vajara" />
+    <string id="OHNKN07" text="{.Zanocy}Niekienijskaja Vajskovaja Siakiera" />
+    <string id="OHNKN08" text="{.Zanocy}Niekienijskaja Asciukavataja Vajskovaja Siakiera" />
+    <string id="OHNKN09" text="{.Muzcynski}Niekienijski Karotki Mieč" />
+    <string id="OHNKN10" text="{.Muzcynski}Niekienijski Karotki Vajskovy Mieč" />
+    <string id="OHNKN11" text="{.Muzcynski}Niekienijski Mieč" />
+    <string id="OHNKN12" text="{.Zanocy}Niekienijskaja Vartavaja Siakiera" />
+    <string id="OHNKN13" text="{.Zanocy}Niekienijskaja Siakiera Chuskarła" />
+  <!-- 乌拉索维单手 -->
+    <string id="OHWLT01" text="{.Muzcynski}Šypaty Dubiec" />
+    <string id="OHWLT02" text="{.Muzcynski}Vulciski Mołat Ramiesnika" />
+    <string id="OHWLT03" text="{.Muzcynski}Nož Miasnika" />
+    <string id="OHWLT04" text="{.Zanocy}Vulciskaja Karotkaja Šabla" />
+    <string id="OHWLT05" text="{.Zanocy}Vulciskaja Šabla Žaŭniora" />
+    <string id="OHWLT06" text="{.Muzcynski}Vulciski Šypaty Dubiec" />
+    <string id="OHWLT07" text="{.Zanocy}Vulciskaja Prybitaja Bułava" />
+    <string id="OHWLT08" text="{.Zanocy}Vulciskaja Adnaručnaja Siakiera" />
+    <string id="OHWLT09" text="{.Zanocy}Vulciskaja Vartavaja Šabla" />
+    <string id="OHWLT10" text="{.Zanocy}Vulciskaja Bajavaja Prybitaja Bułava" />
+  <!-- 落月单手 -->
+    <string id="OHLMC01" text="{.Muzcynski}Łamokijski Tanto" />
+    <string id="OHLMC02" text="{.Muzcynski}Łamokijski Vakidzasi" />
+    <string id="OHLMC03" text="{.Zanocy}Łamokijskaja Karotkaja Učykatana" />
+    <string id="OHLMC04" text="{.Zanocy}Łamokijskaja Učykatana" />
+  <!-- 雅瑞安单手 -->
+    <string id="OHYRN01" text="{.Zanocy}Karotkaja Bułava Plemia" />
+    <string id="OHYRN02" text="{.Zanocy}Bułava Plemia" />
+    <string id="OHYRN03" text="{.Zanocy}Inkrustavanaja Kascianaja Bułava Plemia" />
+    <string id="OHYRN04" text="{.Zanocy}Inkrustavanaja Kascianaja Žorstkaja Bułava Plemia" />
+    <string id="OHYRN05" text="{.Zanocy}Inkrustavanaja Kascianaja Doŭhaja Bułava Plemia" />
+    <string id="OHYRN06" text="{.Zanocy}Inkrustavanaja Kascianaja Vajskovaja Bułava Plemia" />
+  <!-- 采集工具 -->
+    <string id="OHSTY01" text="{.Zanocy}Draŭlanaja Siakiera" />
+    <string id="OHSTY02" text="{.Zanocy}Draŭlanaja Siakiera-Kirka" />
+  <!-- 无文化特殊单手 -->
+    <string id="OHSTY03" text="{.Muzcynski}Tapor Orsina" />
+    <string id="OHSTY04" text="{.Muzcynski}Mieč Rycaraŭ Suddziaŭ" />
+    <string id="OHSTY05" text="{.Muzcynski}Mieč Rycara Srebnaha Ščyta" />
+  <!-- 特殊小家族单手 -->
+    <string id="OHMNR01" text="{.Zanocy}Bułava Kryvavaha Łotasu" />
+  <!-- 艾灵族单手 -->
+    <string id="OHELN01" text="{.Muzcynski}Elinski Karotki Mieč" />
+    <string id="OHELN02" text="{.Muzcynski}Elinski Mieč" />
+    <string id="OHELN03" text="{.Muzcynski}Elinski Mieč Lidara" />
+ <!-- 单手类武器结束 -->
+
+ <!-- 长杆类武器开始 -->
+  <!-- 炎朝长杆 -->
+    <string id="POJDY01" text="{.Nijaki}Karotkaje Kapjo Jań" />
+    <string id="POJDY02" text="{.Nijaki}Kapjo Jań" />
+    <string id="POJDY03" text="{.Zanocy}Kinžał-Siakiera Piachoty" />
+    <string id="POJDY04" text="{.Nijaki}Trochkancovaje Lazo" />
+    <string id="POJDY05" text="{.Nijaki}Šo" />
+    <string id="POJDY06" text="{.Nijaki}Doŭhaje Šo" />
+    <string id="POJDY07" text="{.Nijaki}Lazo Po" />
+    <string id="POJDY08" text="{.Nijaki}Lazo Mo" />
+    <string id="POJDY09" text="{.Mnozny}Hrabli" />
+    <string id="POJDY10" text="{.Zanocy}Alebarda Pamiežnaj Piachoty" />
+    <string id="POJDY11" text="{.Zanocy}Alebarda Pratektarata" />
+    <string id="POJDY12" text="{.Nijaki}Šyrokaje Kapjo" />
+    <string id="POJDY13" text="{.Zanocy}Kinžał-Siakiera Rušennia Jań" />
+    <string id="POJDY14" text="{.Nijaki}Ma Šo" />
+    <string id="POJDY15" text="{.Nijaki}Lazo CinŁun" />
+    <string id="POJDY16" text="{.Zanocy}Alebarda FanCiań" />
+  <!-- 普若尤恩长杆 -->
+    <string id="POPRU01" text="{.Zanocy}Kasa" />
+    <string id="POPRU02" text="{.Zanocy}Lasnaja Rydloŭka" />
+    <string id="POPRU03" text="{.Nijaki}Pruenijskaje Kapjo Rušennia" />
+    <string id="POPRU04" text="{.Nijaki}Pruenijskaje Karotkaje Kapjo" />
+    <string id="POPRU05" text="{.Nijaki}Pruenijskaje Kapjo" />
+    <string id="POPRU06" text="{.Zanocy}Pruenijskaja Lohkaja Dzida" />
+    <string id="POPRU07" text="{.Zanocy}Pruenijskaja Pika" />
+    <string id="POPRU08" text="{.Zanocy}Pruenijskaja Cudoŭnaja Pika" />
+    <string id="POPRU09" text="{.Zanocy}Pruenijskaja Ciažkaja Dzida" />
+    <string id="POPRU10" text="{.Zanocy}Pruenijskaja Dzida" />
+    <string id="POPRU11" text="{.Zanocy}Dzida Rycara Honaru" />
+  <!-- 埃布拉蒙长杆 -->
+    <string id="PORBL01" text="{.Mnozny}Lasnyja Doŭhija Viły" />
+    <string id="PORBL02" text="{.Nijaki}Rabbłamijskaje Karotkaje Kapjo" />
+    <string id="PORBL03" text="{.Nijaki}Bambukavaje Kapjo Mamluka-Rekruta" />
+    <string id="PORBL04" text="{.Nijaki}Bambukavaje Kapjo Mamluka-Najeznika" />
+    <string id="PORBL05" text="{.Zanocy}Lohkaja Dzida Mamluka" />
+    <string id="PORBL06" text="{.Zanocy}Dzida Mamluka" />
+  <!-- 蒙戈黎安长杆 -->
+    <string id="POMGR01" text="{.Mnozny}Hrabli" />
+    <string id="POMGR02" text="{.Nijaki}Karotkaje Bambukavaje Kapjo" />
+    <string id="POMGR03" text="{.Nijaki}Mohryjskaje Prostaje Kapjo" />
+    <string id="POMGR04" text="{.Nijaki}Mohryjskaje Kapjo" />
+    <string id="POMGR05" text="{.Nijaki}Mohryjskaje Karotkaje Kapjo" />
+    <string id="POMGR06" text="{.Nijaki}Mohryjskaje Ciažkaje Karotkaje Kapjo" />
+    <string id="POMGR07" text="{.Zanocy}Mohryjskaja Lohkaja Dzida" />
+    <string id="POMGR08" text="{.Zanocy}Mohryjskaja Dzida" />
+    <string id="POMGR09" text="{.Zanocy}Mohryjskaja Dzida Plemia" />
+    <string id="POMGR10" text="{.Zanocy}Žaleznaja Dzida Konnika" />
+    <string id="POMGR11" text="{.Zanocy}Hlefa Najeznika Vietru" />
+    <string id="POMGR12" text="{.Zanocy}Hlefa Najeznika Bury" />
+    <string id="POMGR13" text="{.Nijaki}Mohryjskaje Karotkaje Kapjo Rušennia" />
+    <string id="POMGR14" text="{.Nijaki}Mohryjskaja Kapjo Rušennia" />
+  <!-- 纳堪维亚长杆 -->
+    <string id="PONKN01" text="{.Mnozny}Žaleznyja Machovi" />
+    <string id="PONKN02" text="{.Nijaki}Niekienijskaje Šlachietnaje Kapjo" />
+    <string id="PONKN03" text="{.Mnozny}Niekienijskija Viły Vartaŭnika Ščyta" />
+  <!-- 乌拉索维长杆 -->
+    <string id="POWLT01" text="{.Zanocy}Šlachietnaja Dzida Sniežnaha Pola" />
+  <!-- 落月长杆 -->
+    <string id="POLMC01" text="{.Nijaki}Łamokijskaje Karotkaje Kapjo" />
+    <string id="POLMC02" text="{.Nijaki}Łamokijskaje Kapjo Asiharu" />
+    <string id="POLMC03" text="{.Nijaki}Łamokijskaje Kapjo" />
+    <string id="POLMC04" text="{.Zanocy}Łamokijskaja Nahinata" />
+    <string id="POLMC05" text="{.Zanocy}Łamokijskaja Pika" />
+    <string id="POLMC06" text="{.Zanocy}Łamokijskaja Pika Samuraja" />
+    <string id="POLMC07" text="{.Zanocy}Łamokijskaja Skryžavanaja Pika" />
+  <!-- 雅瑞安长杆 -->
+    <string id="POYRN01" text="{.Nijaki}Karotkaje Kapjo Plemia" />
+    <string id="POYRN02" text="{.Nijaki}Kapjo Plemia" />
+    <string id="POYRN03" text="{.Nijaki}Šyrokaje Kapjo Plemia" />
+  <!-- 强盗长杆 -->
+    <string id="POBDT02" text="{.Nijaki}Pustelnaje Bambukavaje Kapjo" />
+    <string id="POBDT03" text="{.Nijaki}Pahanskaje Karotkaje Kapjo Pasłanca" />
+    <string id="POBDT04" text="{.Nijaki}Pahanskaje Karotkaje Kapjo Vartaŭnika" />
+    <string id="POBDT05" text="{.Nijaki}Pahanskaje Karotkaje Kapjo Majstra" />
+    <string id="POBDT06" text="{.Muzcynski}Pahanski Doŭhi Posach Pasłanca" />
+    <string id="POBDT07" text="{.Muzcynski}Pahanski Doŭhi Posach Vartaŭnika" />
+    <string id="POBDT08" text="{.Muzcynski}Pahanski Doŭhi Posach Majstra" />
+  <!-- 中立长杆 -->
+    <string id="POBDT01" text="{.Muzcynski}Doŭhi Posach" />
+  <!-- 特殊小家族长杆 -->
+    <string id="POMNR01" text="{.Nijaki}Kapjo Tamplijera Biełaha Marozu" />
+    <string id="POMNR02" text="{.Zanocy}Dzida Złoha Połymia" />
+  <!-- 无文化特殊长杆 -->
+    <string id="POSTY01" text="{.Nijaki}Žaleznaje Kapjo z Miednymi Pałoskami" />
+    <string id="POSTY02" text="{.Zanocy}Dzida Rycara Siki" />
+ <!-- 长杆类武器结束 -->
+
+  </strings>
+</base>
