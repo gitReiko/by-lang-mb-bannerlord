@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+      xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/BUTR/Bannerlord.XmlSchemas/master/ModuleLanguage.xsd" >
+  <tags>
+    <tag language="English" />
+  </tags>
+  <strings>
+    <string id="ieJye6ml10N" text="Settings"/>
+    <string id="ieJye6ml8N" text="Gradual Assimilation"/>
+    <string id="ieJye6ml11N" text="Assimilation Resistance Factor"/>
+    <string id="ieJye6ml12N" text="(Default true) The culture will gradually switch to the new culture"/>
+    <string id="ieJye6ml13N" text="(Default 45) Resistance factor for change in culture. Higher resistance slows down the rate of change"/>
+    <string id="ieJye6ml14N" text="(Default 5) Extra influence for the owner of the settlement"/>
+    <string id="ieJye6ml15N" text="(Default 30) Geographical range to check for influence from surrounding settlements"/>
+    <string id="ieJye6ml16N" text="(Default true) Settlements linked by peasant trade will influence each other"/>
+    <string id="ieJye6ml17N" text="(Default false) Only the Player's kingdom's settlements will change culture"/>
+    <string id="ieJye6ml18N" text="(Default true) When a settlement change culture activating this will change the culture of Notable (It will affect recruit/volunteer type)."/>
+    <string id="ieJye6ml19N" text="Owner Kingdom Influence Strength"/>
+    <string id="ieJye6ml20N" text="Culture Influence"/>
+    <string id="ieJye6ml21N" text="Settlement Influence Range"/>
+    <string id="ieJye6ml22N" text="Linked Settlements Cause Influence"/>
+    <string id="ieJye6ml23N" text="Assimilate Player Kingdom Only"/>
+    <string id="ieJye6ml24N" text="Change Notables Culture"/>
+    <string id="ieJye6ml25N" text="Governor Influence Strength"/>
+    <string id="ieJye6ml26N" text="(Default 0 (The governor culture doesn't influence the settlement culture)) Allow the governor culture to influence the culture of the settlement it's assigned to. If you want to change city culture to the one of your governor you probably want a high value (30 to max) if the settlement is surround by settlements with the same culture (if you have high owner influence it might conflict)"/>
+    <string id="ieJye6ml27N" text="Governor Influence"/>
+    <string id="ieJye6ml28N" text="(Default true) Governor culture will only affect player settlement"/>
+    <string id="ieJye6ml29N" text="Governor Influence Player Settlement Only"/>
+  </strings>
+</base>
