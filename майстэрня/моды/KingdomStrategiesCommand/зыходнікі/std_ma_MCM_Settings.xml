@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="English" />
+  </tags>
+    <!-- Dialogos -->
+  <strings>
+    <string id="KSC_Text000" text="{CFP_START_ORDER} (Required: {CFP_INFLUENCE_COST}{INFLUENCE_ICON})"/>
+    <string id="KSC_Text001" text="My lord, hear my plan..."/>
+    <string id="KSC_Text002" text="Listen, I have a plan that you will participate in..."/>
+    <string id="KSC_Text003" text="I will do my duty sir."/>
+    <string id="KSC_Text004" text="I'm listening..."/>
+    <string id="KSC_Text005" text="Forgive me sir, but I'm running out of food."/>
+    <string id="KSC_Text006" text="I'm afraid I can't help, I need to find more food first."/>
+    <string id="KSC_Text007" text="Forgive me sir, it won't happen again!"/>
+    <string id="KSC_Text0071" text="Oh fuck!"/>"/>
+    <string id="KSC_Text008" text="Maybe next time."/>
+    <string id="KSC_Text0081" text="OK, it does not matter."/>
+    <string id="KSC_Text009" text="I need you to reinforce a garrison."/>
+    <string id="KSC_Text010" text="My lord, I ask that you hear my plan and reinforce a vulnerable garrison."/>
+    <string id="KSC_Text011" text="Which garrison my lord?"/>
+    <string id="KSC_Text012" text="Hã? And what garrison would that be?"/>
+    <string id="KSC_Text013" text="Sorry sir, my group is not ready for this yet."/>
+    <string id="KSC_Text014" text="Hmmmm..."/>
+    <string id="KSC_Text015" text="..."/> 
+    <string id="KSC_Text016" text="Thinking better..."/>
+    <string id="KSC_Text017" text="..."/>
+    <string id="KSC_Text018" text="You no longer need to reinforce the garrison."/>
+    <string id="KSC_Text019" text="Yes, my Sir..."/>
+    <string id="KSC_Text020" text="Okay, so I'm off..."/>
+    <string id="KSC_Text021" text="Go to {CIDADE}."/>
+    <string id="KSC_Text022" text="I will leave immediately."/>
+    <string id="KSC_Text023" text="{NOME} says it will cost you {INFLUENCIA} in influence."/>
+    <!-- Siege -->
+    <string id="KSC_Text024" text="I need you to form an army and lay siege to an enemy settlement. (Required: {CFP_INFLUENCE_COST}{INFLUENCE_ICON})"/>
+    <string id="KSC_Text025" text="My lord, Create an Army for I know of a settlement that is easy to conquer and that will surely bring you glory. (Required: {CFP_INFLUENCE_COST}{INFLUENCE_ICON})"/>
+    <string id="KSC_Text026" text="I need your army to besiege an enemy settlement."/>
+    <string id="KSC_Text027" text="My lord, I know of a settlement that would be easy for your army and sure to bring you glory."/>
+    <string id="KSC_Text028" text="Which settlement should we besiege?"/>
+    <string id="KSC_Text029" text="Sorry sir, my group is not ready for this yet."/>
+    <string id="KSC_Text030" text="Which settlement should we besiege?"/>
+    <string id="KSC_Text031" text="Your army is ready. (Be sure of the amount needed, weak groups tend to dissipate)"/>
+    <string id="KSC_Text032" text="Which settlement should we besiege?"/>
+    <string id="KSC_Text033" text="Hmmmm..."/>
+    <string id="KSC_Text034" text="..."/>
+    <string id="KSC_Text035" text="Thinking better..."/>
+    <string id="KSC_Text036" text="Hmmmm..."/>
+    <string id="KSC_Text037" text="..."/>
+    <string id="KSC_Text038" text="Thinking better..."/>
+    <string id="KSC_Text039" text="..."/>
+    <string id="KSC_Text040" text="You no longer need to surround that enemy settlement."/>
+    <string id="KSC_Text041" text="Go to {CIDADE}"/>
+    <string id="KSC_Text042" text="Which group should I message to join the army?"/>
+    <string id="KSC_Text043" text="{NOME} says it will cost you {INFLUENCIA} in influence."/>
+    <string id="KSC_Text044" text="I will leave immediately. (If there is a superior army intercepting we will abandon the mission)"/>
+    <string id="KSC_Text045" text="{NOME} says it will cost you {INFLUENCIA} in influence."/>
+    
+    <!-- ESCORT -->
+    
+    <string id="KSC_Text046" text="Follow me."/>
+    <string id="KSC_Text047" text="My lord, I need you to follow me. For the security of the kingdom is at stake!"/>
+    <string id="KSC_Text048" text="I need you to escort a Group."/>
+    <string id="KSC_Text049" text="My lord, your help is much needed, a group on an important mission to the kingdom needs an escort."/>
+    <string id="KSC_Text050" text="Which group my lord?"/>
+    <string id="KSC_Text051" text="Hã? And which group would that be?"/>
+    <string id="KSC_Text052" text="Sorry my lord, my army is not ready for this yet."/>
+    <string id="KSC_Text053" text="Can we hunt enemies while providing escorts?"/>
+    <string id="KSC_Text054" text="Please do."/>
+    <string id="KSC_Text055" text="No, only engage if your target is in trouble."/>
+    <string id="KSC_Text056" text="Understood. I will leave immediately. "/>
+    <string id="KSC_Text057" text="{NOME} says it will cost you {INFLUENCIA} influence. "/>
+    <string id="KSC_Text058" text="Hmmmm..."/>
+    <string id="KSC_Text059" text="..."/>
+    <string id="KSC_Text060" text="Thinking better..."/>
+    <string id="KSC_Text061" text="You no longer need to provide an escort."/>
+    <string id="KSC_Text062" text="There is not enough influence to command."/>
+    <string id="KSC_Text063" text="Call {NOME} to your Army."/>
+    <string id="KSC_Text0631" text="will cost {CUSTO}{INFLUENCE_ICON};in the distance of : {DISTANCIA}; With {SOLDADOS} Soldiers."/>
+    <string id="KSC_Text064" text="Someone else?"/>
+    <string id="KSC_Text065" text="escort of {NOME}."/>
+    
+    <!-- Configuração -->
+    
+    <string id="KSC_Text066" text="Only Rule"/>
+    <string id="KSC_Text067" text="Toggle the ability to command the parties only as ruler. You will always be able to command the parts of your clan ruling the realm or not"/>
+    <string id="KSC_Text068" text="Allow Mercenaries"/>
+    <string id="KSC_Text069" text="Toggle the ability to command groups from other clans as mercenaries."/> 
+    
+    <!--  Caixas de Textos -->
+    
+    <string id="KSC_Text070" text="{NAME}'S ARMY HAS BEEN INTERCIPITED, MISSION ABANDONED!!."/>
+    <string id="KSC_Text071" text="Influence spent, {CFP_INFLUENCE_COST} has been Regained!!"/>
+    <string id="KSC_Text072" text="Exassion !!!"/>
+    <string id="KSC_Text073" text="A Messenger has arrived saying that the Army of {NAME} is low on troops and needs to Disband, Lord {NAME} regrets this situation has rewarded you and abandoned the quest."/>
+    <string id="KSC_Text074" text="Disband the troops."/>
+    <string id="KSC_Text075" text="Continue with the troops."/>
+    <string id="KSC_Text076" text="Interception!!!"/>
+    <string id="KSC_Text077" text="A Messenger arrived saying that {NAME}'s Army was intercepted by the enemy during the journey. The army was demoralized and abandoned the mission. The lord {NAME} said awaits you in the future!!!."/>
+    <string id="KSC_Text078" text="disband the troops"/>
+    <string id="KSC_Text079" text="Victory !!!"/>
+    <string id="KSC_Text080" text="A messenger has arrived informing you that the Army of {NAME} has taken the city!! (We gained 100 Influence and 10 Renown) , The Lord wants to know what to do with the Army?."/>
+    <string id="KSC_Text081" text="Disband Army."/>
+    <string id="KSC_Text082" text="Let the Army Decide."/>
+    <string id="KSC_Text083" text="Defeat!!!"/>
+    <string id="KSC_Text084" text="A Messenger has arrived saying that the Army of {NAME} has been annihilated by the enemy. Your strategy was failed, How do you want to act?. (Omission will cause loss of 25 Renown) "/>
+    <string id="KSC_Text085" text="Pay (100,000) Gold"/>
+    <string id="KSC_Text086" text="Spend (150) Influence"/>
+    <string id="KSC_Text087" text="Ambush!!!"/>
+    <string id="KSC_Text088" text="A Messenger arrived saying that {NAME}'s Army was ambushed by the enemy during the siege. The army panicked and disbanded. Lord {NAME} sent to tell you that he had not forgotten. His strategy was disastrous!!!, How do you want to act?."/>
+    <string id="KSC_Text089" text="Pay (50,000) for losses."/>
+    <string id="KSC_Text090" text="Do not respond, -20 to renown"/>
+    <string id="KSC_Start" text="Loading"/>
+    
+
+
+
+  </strings>
+</base>
