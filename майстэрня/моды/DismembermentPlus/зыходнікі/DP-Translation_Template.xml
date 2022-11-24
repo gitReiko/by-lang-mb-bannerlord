@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="English" />
+  </tags>
+  <strings>
+    <string id="dp_MessagingSection" text="Messaging" />
+    <string id="dp_Debug" text="Show Debug Messages" />
+    <string id="dp_SuccessMessage" text="Show Success Messages" />
+	<string id="dp_JSON_create" text="DismembermentPlus.json was created in {filepath}" />
+	<string id="dp_JSON_write_error" text="{ERROR} Unable to write DismembermentPlus.json." />
+	<string id="dp_JSON_read_error" text="{ERROR} Unable to read DismembermentPlus.json." />	
+
+    <string id="dp_ApplicationSection" text="Application" />
+    <string id="dp_AllowedDismembermentSection" text="Allowed Dismemberments" />
+    <string id="dp_AICanDismember" text="AI can dismember" />
+    <string id="dp_dp_AICanDismember_hint" text="Controls the ability for AI to dismember other AI." />
+    
+    <string id="dp_HeadDismemberment" text="Head Dismemberment." />
+    <string id="dp_HandDismemberment" text="Hand Dismemberment." />
+    <string id="dp_FootDismemberment" text="Foot Dismemberment." />
+    <string id="dp_ArmDismemberment" text="Arm Dismemberment." />
+    <string id="dp_LegDismemberment" text="Leg Dismemberment." />
+    
+    <string id="dp_EnableHeadDismemberment_hint" text="Enable/Disable head dismemberments." />
+    <string id="dp_EnableHandDismemberment_hint" text="Enable/Disable hand dismemberments." />
+    <string id="dp_EnableFootDismemberment_hint" text="Enable/Disable foot dismemberments." />    
+    <string id="dp_EnableArmDismemberment_hint" text="Enable/Disable arm dismemberments." />    
+    <string id="dp_EnableLegDismemberment_hint" text="Enable/Disable leg dismemberments." />
+
+    <string id="dp_DismembermentChanceSection" text="Dismemberment Chance" />
+    <string id="dp_DismembermentChanceSection_hint" text="If activated dismemberments will trigger based on percentage of chance that calculates on every killing/wounding blow." />
+    <string id="dp_DismembermentChance_hint" text="Set percentage of chance for dismemberment type." />
+
+    <string id="dp_DismembermentRealismSection" text="Dismemberment Realism" />
+    <string id="dp_DismembermentRealismSection_hint" text="If activated dismemberments will only trigger based on skill and damage dealt to your victim." />
+    
+    <string id="dp_SlowMotionSection" text="Slow Motion" />
+    <string id="dp_SlowMotion_hint" text="Controls whether or not a dimemberment will activate the slow motion camera." />
+    <string id="dp_SMHeadChance" text="Slow Motion Head Dismemberment" />
+    <string id="dp_SMHandChance" text="Slow Motion Hand Dismemberment" />
+    <string id="dp_SMFootChance" text="Slow Motion Foot Dismemberment" />
+    <string id="dp_SMArmChance" text="Slow Motion Arm Dismemberment" />
+    <string id="dp_SMLegChance" text="Slow Motion Leg Dismemberment" />
+    <string id="dp_SMChance_hint" text="Set percentage of chance for slow motion dismemberment of type." />
+  
+    <!--Debug Strings-->
+    <string id="dp_BasicHitLogic" text="Tried to add a dismemberment to Dismemberment Queue, but it failed attack logic." />
+    <string id="dp_InvalidAgent" text="Tried to add a dismemberment to the Dismemberment Queue, but Victim or Attacker is invalid." />
+    <string id="dp_ArenaCombatant" text="Tried to add an arena combatant to the Dismemberment Queue." />
+    <string id="dp_NonHuman" text="Tried to add a non-human agent to the Dismemberment Queue." />
+    <string id="dp_PlayerHero" text="Tried to add an Unconcious player/hero to the Dismemberment Queue." />
+    <string id="dp_ThrownWeapon" text="Tried to add a dismembertment to the Dismemberment Queue, but it was triggered by a trown weapon." />
+    <string id="dp_RandomChance" text="Tried to add a dismembertment to the Dismemberment Queue, but it was rejected due to random chance failure." />
+    <string id="dp_RealismFail" text="The Schwarz is with you but you are not a hero yet." />
+    <string id="dp_AICannotDismember" text="Tried to add an AI tiggered Dismemberment to the Dismemberment Queue, but AICanDismember is set to false." />
+
+    <string id="dp_attackFail" text="{DP_VICTIMNAME} attack did not result in incapacitation or kill, removing from Dismemberment Queue." />
+    <string id="dp_attackSucess" text="Added {DP_VICTIMNAME} to Dismemberment Queue" />
+    <string id="dp_DebugMessage" text="[DEBUG]: {DP_MESSAGE}" />
+    <string id="dp_DismembermentSucess" text="{DP_VICTIMNAME} was dismembered!" />
+    <string id="dp_DismembermentSplash" text="DISMEMBERED!" />
+  </strings>
+</base>
