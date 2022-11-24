@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <strings>
+    <string id="dp_MessagingSection" text="Paviedamlenni" />
+    <string id="dp_Debug" text="Pakazvać Naładačnyja Paviedamlenni" />
+    <string id="dp_SuccessMessage" text="Pakazvać Paviedamlenni pra Pospiech" />
+	<string id="dp_JSON_create" text="DismembermentPlus.json byŭ stvorany ŭ {filepath}" />
+	<string id="dp_JSON_write_error" text="{ERROR} Niemahčyma pisać u DismembermentPlus.json." />
+	<string id="dp_JSON_read_error" text="{ERROR} Niemahčyma čytać DismembermentPlus.json." />	
+
+    <string id="dp_ApplicationSection" text="Užyvannie" />
+    <string id="dp_AllowedDismembermentSection" text="Dazvolenyja adsiačenni" />
+    <string id="dp_AICanDismember" text="ŠI moža adsiakać" />
+    <string id="dp_dp_AICanDismember_hint" text="Kantraluje zdolnasć ŠI adsiakać u inšaha ŠI." />
+    
+    <string id="dp_HeadDismemberment" text="Adsiačennie Hałavy." />
+    <string id="dp_HandDismemberment" text="Adsiačennie Ruki." />
+    <string id="dp_FootDismemberment" text="Adsiačennie Stupni." />
+    <string id="dp_ArmDismemberment" text="Adsiačennie Plača." />
+    <string id="dp_LegDismemberment" text="Adsiačennie Nahi." />
+    
+    <string id="dp_EnableHeadDismemberment_hint" text="Uklučyć/Vyklučyć adsiačennie hałavy." />
+    <string id="dp_EnableHandDismemberment_hint" text="Uklučyć/Vyklučyć adsiačennie ruki." />
+    <string id="dp_EnableFootDismemberment_hint" text="Uklučyć/Vyklučyć adsiačennie stupni." />    
+    <string id="dp_EnableArmDismemberment_hint" text="Uklučyć/Vyklučyć adsiačennie plača." />    
+    <string id="dp_EnableLegDismemberment_hint" text="Uklučyć/Vyklučyć adsiačennie nahi." />
+
+    <string id="dp_DismembermentChanceSection" text="Šaniec adsiačennia" />
+    <string id="dp_DismembermentChanceSection_hint" text="Pasla aktyvacyi rassiačennia buduć spracoŭvać na asnovie adsotkavaha šancu, jaki različvajecca dla kožnaha ŭdara, jaki zabivaje abo ranić." />
+    <string id="dp_DismembermentChance_hint" text="Ustalujcie adsotak šancu dla typa adsiačennia." />
+
+    <string id="dp_DismembermentRealismSection" text="Dismemberment Realism" />
+    <string id="dp_DismembermentRealismSection_hint" text="If activated dismemberments will only trigger based on skill and damage dealt to your victim." />
+    
+    <string id="dp_SlowMotionSection" text="Zapavolennie Ruchu" />
+    <string id="dp_SlowMotion_hint" text="Vyznačaje, ci budzie adsiačennie aktyvavać kamieru zapavolenaha ruchu." />
+    <string id="dp_SMHeadChance" text="Zapavolennie Ruchu Padčas Adsiačennia Hałavy" />
+    <string id="dp_SMHandChance" text="Zapavolennie Ruchu Padčas Adsiačennia Ruki" />
+    <string id="dp_SMFootChance" text="Zapavolennie Ruchu Padčas Adsiačennia Stupni" />
+    <string id="dp_SMArmChance" text="Zapavolennie Ruchu Padčas Adsiačennia Plača" />
+    <string id="dp_SMLegChance" text="Zapavolennie Ruchu Padčas Adsiačennia Nahi" />
+    <string id="dp_SMChance_hint" text="Vyznačaje adsotak šancu zapavolennia ruchu padčas adsiačennia." />
+  
+    <!--Debug Strings-->
+    <string id="dp_BasicHitLogic" text="Sproba dadannia adsiačennia ŭ Čarhu Adsiačennia, ale nie spracavała łohika ataki." />
+    <string id="dp_InvalidAgent" text="Sproba dadannia adsiačennia ŭ Čarhu Adsiačennia, ale Achviara ci Napadnik nieprymalnyja." />
+    <string id="dp_ArenaCombatant" text="Sproba dadannia vajara areny ŭ Čarhu Adsiačennia." />
+    <string id="dp_NonHuman" text="Sproba dadannia niečałavieka ŭ Čarhu Adsiačennia." />
+    <string id="dp_PlayerHero" text="Sproba dadannia hulca/hieroja biez prytomnasci ŭ Čarhu Adsiačennia." />
+    <string id="dp_ThrownWeapon" text="Sproba dadannia adsiačennia ŭ Čarhu Adsiačennia, ale jana była vyklikana kidalnaj zbrojaj." />
+    <string id="dp_RandomChance" text="Sproba dadannia adsiačennia ŭ Čarhu Adsiačennia, ale jana była adchilena z-za vypadkovaha niaščascia." />
+    <string id="dp_RealismFail" text="Švarc z vami, ale vy dahetul nie hieroj." />
+    <string id="dp_AICannotDismember" text="Sproba dadannia adsiačennia vyklikanaha ŠI ŭ Čarhu Adsiačennia, ale mahčymasć adsiačennia dla ŠI adklučana." />
+
+    <string id="dp_attackFail" text="Ataka pa {DP_VICTIMNAME} nie pryviała da straty prytomnasci ci zabojstva, tamu vydalajecca z Čarhi Adsiačennia." />
+    <string id="dp_attackSucess" text="{DP_VICTIMNAME} dadany ŭ Čarhu Adsiačennia" />
+    <string id="dp_DebugMessage" text="[ADŁADKA]: {DP_MESSAGE}" />
+    <string id="dp_DismembermentSucess" text="{DP_VICTIMNAME} rassiečany!" />
+    <string id="dp_DismembermentSplash" text="ADSIAČENNIE!" />
+  </strings>
+</base>

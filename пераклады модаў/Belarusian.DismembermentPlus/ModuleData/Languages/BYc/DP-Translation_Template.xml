@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <strings>
+    <string id="dp_MessagingSection" text="Паведамленні" />
+    <string id="dp_Debug" text="Паказваць Наладачныя Паведамленні" />
+    <string id="dp_SuccessMessage" text="Паказваць Паведамленні пра Поспех" />
+	<string id="dp_JSON_create" text="DismembermentPlus.json быў створаны ў {filepath}" />
+	<string id="dp_JSON_write_error" text="{ERROR} Немагчыма пісаць у DismembermentPlus.json." />
+	<string id="dp_JSON_read_error" text="{ERROR} Немагчыма чытаць DismembermentPlus.json." />	
+
+    <string id="dp_ApplicationSection" text="Ужыванне" />
+    <string id="dp_AllowedDismembermentSection" text="Дазволеныя адсячэнні" />
+    <string id="dp_AICanDismember" text="ШІ можа адсякаць" />
+    <string id="dp_dp_AICanDismember_hint" text="Кантралюе здольнасць ШІ адсякаць у іншага ШІ." />
+    
+    <string id="dp_HeadDismemberment" text="Адсячэнне Галавы." />
+    <string id="dp_HandDismemberment" text="Адсячэнне Рукі." />
+    <string id="dp_FootDismemberment" text="Адсячэнне Ступні." />
+    <string id="dp_ArmDismemberment" text="Адсячэнне Пляча." />
+    <string id="dp_LegDismemberment" text="Адсячэнне Нагі." />
+    
+    <string id="dp_EnableHeadDismemberment_hint" text="Уключыць/Выключыць адсячэнне галавы." />
+    <string id="dp_EnableHandDismemberment_hint" text="Уключыць/Выключыць адсячэнне рукі." />
+    <string id="dp_EnableFootDismemberment_hint" text="Уключыць/Выключыць адсячэнне ступні." />    
+    <string id="dp_EnableArmDismemberment_hint" text="Уключыць/Выключыць адсячэнне пляча." />    
+    <string id="dp_EnableLegDismemberment_hint" text="Уключыць/Выключыць адсячэнне нагі." />
+
+    <string id="dp_DismembermentChanceSection" text="Шанец адсячэння" />
+    <string id="dp_DismembermentChanceSection_hint" text="Пасля актывацыі рассячэння будуць спрацоўваць на аснове адсоткавага шанцу, які разлічваецца для кожнага ўдара, які забівае або раніць." />
+    <string id="dp_DismembermentChance_hint" text="Усталюйце адсотак шанцу для тыпа адсячэння." />
+
+    <string id="dp_DismembermentRealismSection" text="Dismemberment Realism" />
+    <string id="dp_DismembermentRealismSection_hint" text="If activated dismemberments will only trigger based on skill and damage dealt to your victim." />
+    
+    <string id="dp_SlowMotionSection" text="Запаволенне Руху" />
+    <string id="dp_SlowMotion_hint" text="Вызначае, ці будзе адсячэнне актываваць камеру запаволенага руху." />
+    <string id="dp_SMHeadChance" text="Запаволенне Руху Падчас Адсячэння Галавы" />
+    <string id="dp_SMHandChance" text="Запаволенне Руху Падчас Адсячэння Рукі" />
+    <string id="dp_SMFootChance" text="Запаволенне Руху Падчас Адсячэння Ступні" />
+    <string id="dp_SMArmChance" text="Запаволенне Руху Падчас Адсячэння Пляча" />
+    <string id="dp_SMLegChance" text="Запаволенне Руху Падчас Адсячэння Нагі" />
+    <string id="dp_SMChance_hint" text="Вызначае адсотак шанцу запаволення руху падчас адсячэння." />
+  
+    <!--Debug Strings-->
+    <string id="dp_BasicHitLogic" text="Спроба дадання адсячэння ў Чаргу Адсячэння, але не спрацавала логіка атакі." />
+    <string id="dp_InvalidAgent" text="Спроба дадання адсячэння ў Чаргу Адсячэння, але Ахвяра ці Нападнік непрымальныя." />
+    <string id="dp_ArenaCombatant" text="Спроба дадання ваяра арэны ў Чаргу Адсячэння." />
+    <string id="dp_NonHuman" text="Спроба дадання нечалавека ў Чаргу Адсячэння." />
+    <string id="dp_PlayerHero" text="Спроба дадання гульца/героя без прытомнасці ў Чаргу Адсячэння." />
+    <string id="dp_ThrownWeapon" text="Спроба дадання адсячэння ў Чаргу Адсячэння, але яна была выклікана кідальнай зброяй." />
+    <string id="dp_RandomChance" text="Спроба дадання адсячэння ў Чаргу Адсячэння, але яна была адхілена з-за выпадковага няшчасця." />
+    <string id="dp_RealismFail" text="Шварц з вамі, але вы дагэтуль не герой." />
+    <string id="dp_AICannotDismember" text="Спроба дадання адсячэння выкліканага ШІ ў Чаргу Адсячэння, але магчымасць адсячэння для ШІ адключана." />
+
+    <string id="dp_attackFail" text="Атака па {DP_VICTIMNAME} не прывяла да страты прытомнасці ці забойства, таму выдаляецца з Чаргі Адсячэння." />
+    <string id="dp_attackSucess" text="{DP_VICTIMNAME} даданы ў Чаргу Адсячэння" />
+    <string id="dp_DebugMessage" text="[АДЛАДКА]: {DP_MESSAGE}" />
+    <string id="dp_DismembermentSucess" text="{DP_VICTIMNAME} рассечаны!" />
+    <string id="dp_DismembermentSplash" text="АДСЯЧЭННЕ!" />
+  </strings>
+</base>
