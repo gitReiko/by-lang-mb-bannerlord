@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="English" />
+  </tags>
+  <strings>
+    <string id="str.str_culture_description.nordling" text="" />
+    <string id="str.str_culture_description.vagir" text="" />
+    <string id="str.str_culture_description.rhodok" text="" />
+    <string id="str.str_culture_description.apolssalian" text="" />
+    <string id="str.str_culture_description.lyrion" text="" />
+    <string id="str.str_culture_description.rebkhu" text="" />
+    <string id="str.str_culture_description.paleician" text="" />
+    <string id="str.str_culture_description.republic" text="" />
+    <string id="str.str_culture_rich_name.nordling" text="Nordling" />
+    <string id="str.str_culture_rich_name.vagir" text="Vagir" />
+    <string id="str.str_culture_rich_name.rhodok" text="Rhodok" />
+    <string id="str.str_culture_rich_name.apolssalian" text="Apolssalian" />
+    <string id="str.str_culture_rich_name.lyrion" text="Lyrion" />
+    <string id="str.str_culture_rich_name.rebkhu" text="Rebel Khuzait" />
+    <string id="str.str_culture_rich_name.paleician" text="Paleician" />
+    <string id="str.str_culture_rich_name.republic" text="Republic" />
+    <string id="str.str_faction_official.nordling" text="a jarl" />
+    <string id="str.str_faction_official.nordling_f" text="a jarl" />
+    <string id="str.str_faction_ruler.nordling" text="King" />
+    <string id="str.str_faction_ruler.nordling_f" text="Queen" />
+    <string id="str.str_faction_ruler_term_in_speech.nordlings" text="{?RULER.GENDER}Queen{?}King{\?} {RULER.NAME}" />
+    <string id="str.str_adjective_for_faction.nordlings" text="Nordlings" />
+    <string id="str.str_short_term_for_faction.nordlings" text="Nordlings" />
+    <string id="str.str_faction_formal_name_for_culture.nordlings" text="Nordling Kingdom" />
+    <string id="str.str_neutral_term_for_culture.nordling" text="Nordling" />
+    <string id="str.str_player_brother_name.nordling" text="Nozhon" />
+    <string id="str.str_player_father_name.nordling" text="Baldim" />
+    <string id="str.str_player_mother_name.nordling" text="Tarya" />
+    <string id="str.str_player_little_brother_name.nordling" text="Fodor" />
+    <string id="str.str_player_little_sister_name.nordling" text="Alishka" />
+    <string id="str.str_faction_official.vagir" text="a chieftain" />
+    <string id="str.str_faction_official.vagir_f" text="a chieftain" />
+    <string id="str.str_faction_ruler.vagir" text="King" />
+    <string id="str.str_faction_ruler.vagir_f" text="Queen" />
+    <string id="str.str_faction_ruler_term_in_speech.vagir" text="{?RULER.GENDER}Queen{?}King{\?} {RULER.NAME}" />
+    <string id="str.str_adjective_for_faction.vagir" text="Vagir" />
+    <string id="str.str_short_term_for_faction.vagir" text="Vagir" />
+    <string id="str.str_faction_formal_name_for_culture.vagir" text="Vagir Kingdom" />
+    <string id="str.str_neutral_term_for_culture.vagir" text="Vagir" />
+    <string id="str.str_player_brother_name.vagir" text="Nozhon" />
+    <string id="str.str_player_father_name.vagir" text="Baldim" />
+    <string id="str.str_player_mother_name.vagir" text="Tarya" />
+    <string id="str.str_player_little_brother_name.vagir" text="Fodor" />
+    <string id="str.str_player_little_sister_name.vagir" text="Alishka" />
+    <string id="str.str_faction_official.rhodok" text="a baron" />
+    <string id="str.str_faction_official.rhodok_f" text="a baroness" />
+    <string id="str.str_faction_ruler.rhodok" text="King" />
+    <string id="str.str_faction_ruler.rhodok_f" text="Queen" />
+    <string id="str.str_faction_ruler_term_in_speech.royalist_vlandia" text="{?RULER.GENDER}Queen{?}King{\?} {RULER.NAME}" />
+    <string id="str.str_adjective_for_faction.royalist_vlandia" text="Royalist Vlandians" />
+    <string id="str.str_short_term_for_faction.royalist_vlandia" text="Royalists" />
+    <string id="str.str_faction_formal_name_for_culture.royalist_vlandia" text="Royalist Vlandia" />
+    <string id="str.str_neutral_term_for_culture.rhodok" text="Royalist Vlandia" />
+    <string id="str.str_player_brother_name.rhodok" text="Nogand" />
+    <string id="str.str_player_father_name.rhodok" text="Baldrim" />
+    <string id="str.str_player_mother_name.rhodok" text="Tertha" />
+    <string id="str.str_player_little_brother_name.rhodok" text="Varic" />
+    <string id="str.str_player_little_sister_name.rhodok" text="Alda" />
+    <string id="str.str_faction_official.apolssalian" text="an ankas" />
+    <string id="str.str_faction_official.apolssalian_f" text="an ankas" />
+    <string id="str.str_faction_ruler.apolssalian" text="Posis" />
+    <string id="str.str_faction_ruler.apolssalian_f" text="Posis" />
+    <string id="str.str_faction_ruler_term_in_speech.apolssaly" text="{?RULER.GENDER}Posis{?}Posis{\?} {RULER.NAME}" />
+    <string id="str.str_adjective_for_faction.apolssalian" text="Aserai" />
+    <string id="str.str_short_term_for_faction.apolssalian" text="Aserai" />
+    <string id="str.str_faction_formal_name_for_culture.apolssalian" text="Apolssaly Sultanate" />
+    <string id="str.str_neutral_term_for_culture.apolssalian" text="Apolssaly" />
+    <string id="str.str_player_brother_name.apolssalian" text="Najun" />
+    <string id="str.str_player_father_name.apolssalian" text="Baladir" />
+    <string id="str.str_player_mother_name.apolssalian" text="Tira" />
+    <string id="str.str_player_little_brother_name.apolssalian" text="Fathid" />
+    <string id="str.str_player_little_sister_name.apolssalian" text="Alya" />
+    <string id="str.str_faction_official.lyrion" text="an ebri" />
+    <string id="str.str_faction_official.lyrion_f" text="an ebri" />
+    <string id="str.str_faction_ruler.lyrion" text="Lauchume" />
+    <string id="str.str_faction_ruler.lyrion_f" text="Lauchume" />
+    <string id="str.str_faction_ruler_term_in_speech.lyrion" text="{?RULER.GENDER}Lauchume{?}Lauchume{\?} {RULER.NAME}" />
+    <string id="str.str_adjective_for_faction.lyrion" text="Lyrion" />
+    <string id="str.str_short_term_for_faction.lyrion" text="Lyrions" />
+    <string id="str.str_faction_formal_name_for_culture.lyrion" text="Lyrion Kingdom" />
+    <string id="str.str_neutral_term_for_culture.lyrion" text="Lyrion" />
+    <string id="str.str_player_brother_name.lyrion" text="Najun" />
+    <string id="str.str_player_father_name.lyrion" text="Baladir" />
+    <string id="str.str_player_mother_name.lyrion" text="Tira" />
+    <string id="str.str_player_little_brother_name.lyrion" text="Fathid" />
+    <string id="str.str_player_little_sister_name.lyrion" text="Alya" />
+    <string id="str.str_faction_official.rebkhu" text="a beg" />
+    <string id="str.str_faction_official.rebkhu_f" text="a begum" />
+    <string id="str.str_faction_ruler.rebkhu" text="Khan" />
+    <string id="str.str_faction_ruler.rebkhu_f" text="Khatun" />
+    <string id="str.str_faction_ruler_term_in_speech.rebkhu" text="{?RULER.GENDER}Khatun{?}Khan{\?}{RULER.NAME}" />
+    <string id="str.str_adjective_for_faction.rebkhu" text="Rebel Khuzait" />
+    <string id="str.str_short_term_for_faction.rebkhu" text="Rebel Khuzaits" />
+    <string id="str.str_faction_formal_name_for_culture.rebkhu" text="Rebel Khuzaits" />
+    <string id="str.str_neutral_term_for_culture.rebkhu" text="Rebel" />
+    <string id="str.str_player_brother_name.rebkhu" text="Nusun" />
+    <string id="str.str_player_father_name.rebkhu" text="Bandan" />
+    <string id="str.str_player_mother_name.rebkhu" text="Terte" />
+    <string id="str.str_player_little_brother_name.rebkhu" text="Jatu" />
+    <string id="str.str_player_little_sister_name.rebkhu" text="Alte" />
+    <string id="str.str_faction_official.paleician" text="a duke" />
+    <string id="str.str_faction_official.paleician_f" text="a duke" />
+    <string id="str.str_faction_ruler.paleician" text="King" />
+    <string id="str.str_faction_ruler.paleician_f" text="Queen" />
+    <string id="str.str_faction_ruler_term_in_speech.paleician" text="{?RULER.GENDER}Queen{?}King{\?} {RULER.NAME}" />
+    <string id="str.str_adjective_for_faction.paleician" text="Paleician" />
+    <string id="str.str_short_term_for_faction.paleician" text="Paleician" />
+    <string id="str.str_faction_formal_name_for_culture.paleician" text="Paleician Empire" />
+    <string id="str.str_neutral_term_for_culture.paleician" text="Paleician" />
+    <string id="str.str_player_brother_name.paleician" text="Nathanos" />
+    <string id="str.str_player_father_name.paleician" text="Baldimos" />
+    <string id="str.str_player_mother_name.paleician" text="Terea" />
+    <string id="str.str_player_little_brother_name.paleician" text="Phasos" />
+    <string id="str.str_player_little_sister_name.paleician" text="Alea" />
+    <string id="str.str_faction_official.republic" text="a magistrate" />
+    <string id="str.str_faction_official.republic_f" text="a magistrate" />
+    <string id="str.str_faction_ruler.republic" text="Consul" />
+    <string id="str.str_faction_ruler.republic_f" text="Consul" />
+    <string id="str.str_faction_ruler_term_in_speech.republic" text="{?RULER.GENDER}Consul{?}Consul{\?} {RULER.NAME}" />
+    <string id="str.str_adjective_for_faction.republic" text="Republic" />
+    <string id="str.str_short_term_for_faction.republic" text="Republic" />
+    <string id="str.str_faction_formal_name_for_culture.republic" text="Calradian Republic" />
+    <string id="str.str_neutral_term_for_culture.republic" text="Republic" />
+    <string id="str.str_player_brother_name.republic" text="Nathanos" />
+    <string id="str.str_player_father_name.republic" text="Baldimos" />
+    <string id="str.str_player_mother_name.republic" text="Terea" />
+    <string id="str.str_player_little_brother_name.republic" text="Phasos" />
+    <string id="str.str_player_little_sister_name.republic" text="Alea" />
+    <string id="str.str_culture_description.nordling" text="Hailing from the deeper northlands the Nordlings are true masters of cold weather fighting and raiding. For a time the Nords had aided the Sturgians in the efforts to claim lands and plunder. However they have now grown tired of their allies mewling efforts. Raganvad, being a descendant of Nord stock was promised to be made a full King of these lands with their aid and now seeks to weed out the weak Sturgian Princes and drive into other lands for more conquest." />
+    <string id="str.str_culture_description.vagir" text="The Vagir are a mix of Sturgian northerns and disgruntled Battanians. This cross of cultures has made them strong and hardy, able to overcome thick snowfall and dense forests with ease. For now their neighbours seem intent on fighting one another and this, they hope, will give them time to fortify and make ready for when war comes to their newly founded Kingdom." />
+    <string id="str.str_culture_description.rhodok" text="The Vlandians are the descendants of adventurers from the west who lived under the Empire for centuries before forming an independent kingdom. With the decline of imperial authority, they have evolved into a well organised feudal society led by a caste of warlike nobles who prefer to fight with spears and lances on horseback." />
+    <string id="str.str_culture_description.apolssalian" text="The Apolssalians came from the south and fight in well organised phalanxes of spearmen supported by fast cavalry. Their engineering knowledge is strong and their merchants class thrifty and shrewd, this combination leading to a well provided for Kingdom, if a little tight when it comes to giving out gold." />
+    <string id="str.str_culture_description.lyrion" text="The Lyrion people hailed from the south eastern lands and arrived with a rapid pace of conquest over the Aserai. With their skilled skirmishers and well armed noble men their mixed tactics overpowered the merchantmen of the Nahasa desert." />
+    <string id="str.str_culture_description.rebkhu" text="The Rebel Khuzait are determined to settle their lands and protect their borders and are quickly seeking to gain knowledge of more advanced engineering to do this. While culturally skilled horsemen and historically nomads their leaders are pushing their culture forwards intellectually which has led to mixed results." />
+    <string id="str.str_culture_description.paleician" text="The indigenous people of Calradia, the Paleic people have been held down and used for centuries as lesser people by almost every other Kingdom of the lands, but no more. The Paleic people have risen up and have taken advantage of the chaos of war to stake their claim to Calradia. Taking most of their weapons and armour from the Vlandians who they have overthrown they are quickly seeking to establish themselves as a true Kingdom of the land." />
+    <string id="str.str_culture_description.republic" text="The Dryatican Republic is ruled for the people by the people. How this works is elected senators and officials who answer to an assembled congress. While this bureaucracy can slow down some decisions it has resulted in an increased sense of service and duty among the populus." />
+    <string id="str.str_culture_description.ariorum" text="" />
+    <string id="str.str_culture_rich_name.nordling" text="Nordling" />
+    <string id="str.str_culture_rich_name.vagir" text="Vagir" />
+    <string id="str.str_culture_rich_name.rhodok" text="Royalist" />
+    <string id="str.str_culture_rich_name.apolssalian" text="Apolssalian" />
+    <string id="str.str_culture_rich_name.lyrion" text="Lyrion" />
+    <string id="str.str_culture_rich_name.rebkhu" text="Rebel Khuzait" />
+    <string id="str.str_culture_rich_name.paleician" text="Paleician" />
+    <string id="str.str_culture_rich_name.republic" text="Republic" />
+    <string id="str.str_culture_rich_name.ariorum" text="Republic" />
+    <string id="str.str_faction_official.nordling" text="a jarl" />
+    <string id="str.str_faction_official.nordling_f" text="a jarl" />
+    <string id="str.str_faction_ruler.nordling" text="King" />
+    <string id="str.str_faction_ruler.nordling_f" text="Queen" />
+    <string id="str.str_faction_ruler_term_in_speech.nordlings" text="{?RULER.GENDER}Queen{?}King{\?} {RULER.NAME}" />
+    <string id="str.str_adjective_for_faction.nordlings" text="Nordlings" />
+    <string id="str.str_short_term_for_faction.nordlings" text="Nordlings" />
+    <string id="str.str_faction_formal_name_for_culture.nordlings" text="Nordling Kingdom" />
+    <string id="str.str_neutral_term_for_culture.nordling" text="Nordling" />
+    <string id="str.str_player_brother_name.nordling" text="Nozhon" />
+    <string id="str.str_player_father_name.nordling" text="Baldim" />
+    <string id="str.str_player_mother_name.nordling" text="Tarya" />
+    <string id="str.str_player_little_brother_name.nordling" text="Fodor" />
+    <string id="str.str_player_little_sister_name.nordling" text="Alishka" />
+    <string id="str.str_faction_official.vagir" text="a chieftain" />
+    <string id="str.str_faction_official.vagir_f" text="a chieftain" />
+    <string id="str.str_faction_ruler.vagir" text="King" />
+    <string id="str.str_faction_ruler.vagir_f" text="Queen" />
+    <string id="str.str_faction_ruler_term_in_speech.vagir" text="{?RULER.GENDER}Queen{?}King{\?} {RULER.NAME}" />
+    <string id="str.str_adjective_for_faction.vagir" text="Vagir" />
+    <string id="str.str_short_term_for_faction.vagir" text="Vagir" />
+    <string id="str.str_faction_formal_name_for_culture.vagir" text="Vagir Kingdom" />
+    <string id="str.str_neutral_term_for_culture.vagir" text="Vagir" />
+    <string id="str.str_player_brother_name.vagir" text="Nozhon" />
+    <string id="str.str_player_father_name.vagir" text="Baldim" />
+    <string id="str.str_player_mother_name.vagir" text="Tarya" />
+    <string id="str.str_player_little_brother_name.vagir" text="Fodor" />
+    <string id="str.str_player_little_sister_name.vagir" text="Alishka" />
+    <string id="str.str_faction_official.rhodok" text="a baron" />
+    <string id="str.str_faction_official.rhodok_f" text="a baroness" />
+    <string id="str.str_faction_ruler.rhodok" text="King" />
+    <string id="str.str_faction_ruler.rhodok_f" text="Queen" />
+    <string id="str.str_faction_ruler_term_in_speech.rhodok" text="{?RULER.GENDER}Queen{?}King{\?} {RULER.NAME}" />
+    <string id="str.str_adjective_for_faction.royalist_vlandia" text="Royalist Vlandians" />
+    <string id="str.str_short_term_for_faction.royalist_vlandia" text="Royalists" />
+    <string id="str.str_faction_formal_name_for_culture.royalist_vlandia" text="Royalist Vlandia" />
+    <string id="str.str_neutral_term_for_culture.rhodok" text="Royalist Vlandia" />
+    <string id="str.str_player_brother_name.rhodok" text="Nogand" />
+    <string id="str.str_player_father_name.rhodok" text="Baldrim" />
+    <string id="str.str_player_mother_name.rhodok" text="Tertha" />
+    <string id="str.str_player_little_brother_name.rhodok" text="Varic" />
+    <string id="str.str_player_little_sister_name.rhodok" text="Alda" />
+    <string id="str.str_faction_official.apolssalian" text="an ankas" />
+    <string id="str.str_faction_official.apolssalian_f" text="an ankas" />
+    <string id="str.str_faction_ruler.apolssalian" text="Posis" />
+    <string id="str.str_faction_ruler.apolssalian_f" text="Posis" />
+    <string id="str.str_faction_ruler_term_in_speech.apolssalian" text="{?RULER.GENDER}Posis{?}Posis{\?} {RULER.NAME}" />
+    <string id="str.str_adjective_for_faction.apolssalian" text="Apolssaly" />
+    <string id="str.str_short_term_for_faction.apolssalian" text="Apolssaly" />
+    <string id="str.str_faction_formal_name_for_culture.apolssalian" text="Apolssaly League" />
+    <string id="str.str_neutral_term_for_culture.apolssalian" text="Apolssaly" />
+    <string id="str.str_player_brother_name.apolssalian" text="Najun" />
+    <string id="str.str_player_father_name.apolssalian" text="Baladir" />
+    <string id="str.str_player_mother_name.apolssalian" text="Tira" />
+    <string id="str.str_player_little_brother_name.apolssalian" text="Fathid" />
+    <string id="str.str_player_little_sister_name.apolssalian" text="Alya" />
+    <string id="str.str_faction_official.lyrion" text="an ebri" />
+    <string id="str.str_faction_official.lyrion_f" text="an ebri" />
+    <string id="str.str_faction_ruler.lyrion" text="Lauchume" />
+    <string id="str.str_faction_ruler.lyrion_f" text="Lauchume" />
+    <string id="str.str_faction_ruler_term_in_speech.lyrion" text="{?RULER.GENDER}Lauchume{?}Lauchume{\?} {RULER.NAME}" />
+    <string id="str.str_adjective_for_faction.lyrion" text="Lyrion" />
+    <string id="str.str_short_term_for_faction.lyrion" text="Lyrions" />
+    <string id="str.str_faction_formal_name_for_culture.lyrion" text="Lyrion Kingdom" />
+    <string id="str.str_neutral_term_for_culture.lyrion" text="Lyrion" />
+    <string id="str.str_player_brother_name.lyrion" text="Najun" />
+    <string id="str.str_player_father_name.lyrion" text="Baladir" />
+    <string id="str.str_player_mother_name.lyrion" text="Tira" />
+    <string id="str.str_player_little_brother_name.lyrion" text="Fathid" />
+    <string id="str.str_player_little_sister_name.lyrion" text="Alya" />
+    <string id="str.str_faction_official.rebkhu" text="a beg" />
+    <string id="str.str_faction_official.rebkhu_f" text="a begum" />
+    <string id="str.str_faction_ruler.rebkhu" text="Khan" />
+    <string id="str.str_faction_ruler.rebkhu_f" text="Khatun" />
+    <string id="str.str_faction_ruler_term_in_speech.rebkhu" text="{?RULER.GENDER}Khatun{?}Khan{\?}{RULER.NAME}" />
+    <string id="str.str_adjective_for_faction.rebkhu" text="Rebel Khuzait" />
+    <string id="str.str_short_term_for_faction.rebkhu" text="Rebel Khuzaits" />
+    <string id="str.str_faction_formal_name_for_culture.rebkhu" text="Rebel Khuzaits" />
+    <string id="str.str_neutral_term_for_culture.rebkhu" text="Rebel" />
+    <string id="str.str_player_brother_name.rebkhu" text="Nusun" />
+    <string id="str.str_player_father_name.rebkhu" text="Bandan" />
+    <string id="str.str_player_mother_name.rebkhu" text="Terte" />
+    <string id="str.str_player_little_brother_name.rebkhu" text="Jatu" />
+    <string id="str.str_player_little_sister_name.rebkhu" text="Alte" />
+    <string id="str.str_faction_official.paleician" text="a duke" />
+    <string id="str.str_faction_official.paleician_f" text="a duke" />
+    <string id="str.str_faction_ruler.paleician" text="King" />
+    <string id="str.str_faction_ruler.paleician_f" text="Queen" />
+    <string id="str.str_faction_ruler_term_in_speech.paleician" text="{?RULER.GENDER}Queen{?}King{\?} {RULER.NAME}" />
+    <string id="str.str_adjective_for_faction.paleician" text="Paleicians" />
+    <string id="str.str_short_term_for_faction.paleician" text="Paleician" />
+    <string id="str.str_faction_formal_name_for_culture.paleician" text="Paleician Empire" />
+    <string id="str.str_neutral_term_for_culture.paleician" text="Paleician" />
+    <string id="str.str_player_brother_name.paleician" text="Nathanos" />
+    <string id="str.str_player_father_name.paleician" text="Baldimos" />
+    <string id="str.str_player_mother_name.paleician" text="Terea" />
+    <string id="str.str_player_little_brother_name.paleician" text="Phasos" />
+    <string id="str.str_player_little_sister_name.paleician" text="Alea" />
+    <string id="str.str_faction_official.republic" text="a magistrate" />
+    <string id="str.str_faction_official.republic_f" text="a magistrate" />
+    <string id="str.str_faction_ruler.republic" text="Consul" />
+    <string id="str.str_faction_ruler.republic_f" text="Consul" />
+    <string id="str.str_faction_ruler_term_in_speech.republic" text="{?RULER.GENDER}Consul{?}Consul{\?} {RULER.NAME}" />
+    <string id="str.str_adjective_for_faction.republic" text="Republic" />
+    <string id="str.str_short_term_for_faction.republic" text="Republic" />
+    <string id="str.str_faction_formal_name_for_culture.republic" text="Calradian Republic" />
+    <string id="str.str_neutral_term_for_culture.republic" text="Republic" />
+    <string id="str.str_player_brother_name.republic" text="Nathanos" />
+    <string id="str.str_player_father_name.republic" text="Baldimos" />
+    <string id="str.str_player_mother_name.republic" text="Terea" />
+    <string id="str.str_player_little_brother_name.republic" text="Phasos" />
+    <string id="str.str_player_little_sister_name.republic" text="Alea" />
+    <string id="str.str_faction_official.ariorum" text="a savi" />
+    <string id="str.str_faction_official.ariorum_f" text="a savi" />
+    <string id="str.str_faction_ruler.ariorum" text="Duke" />
+    <string id="str.str_faction_ruler.ariorum_f" text="Duke" />
+    <string id="str.str_faction_ruler_term_in_speech.ariorum" text="{?RULER.GENDER}Duke{?}Duke{\?} {RULER.NAME}" />
+    <string id="str.str_adjective_for_faction.ariorum" text="Ariorum" />
+    <string id="str.str_short_term_for_faction.ariorum" text="Ariorum" />
+    <string id="str.str_faction_formal_name_for_culture.ariorum" text="Ariorum Trade Kingdom" />
+    <string id="str.str_neutral_term_for_culture.ariorum" text="Ariorum" />
+    <string id="str.str_player_brother_name.ariorum" text="Nathanos" />
+    <string id="str.str_player_father_name.ariorum" text="Baldimos" />
+    <string id="str.str_player_mother_name.ariorum" text="Terea" />
+    <string id="str.str_player_little_brother_name.ariorum" text="Phasos" />
+    <string id="str.str_player_little_sister_name.ariorum" text="Alea" />
+  </strings>
+</base>
