@@ -519,17 +519,17 @@
     <string id="strTalkSikaSettlementBlueIce002" text="Чаму? Ардрон прасіў мяне пагаварыць з табой." />
     <string id="strTalkSikaSettlementBlueIce003" text="Не, я проста не жадаю гаварыць ні з кім." />
     <string id="strTalkSikaSettlementBlueIce004" text="Калі ты маеш праблемы, проста скажы." />
-    <string id="strTalkSikaSettlementBlueIce005" text="Не марнуйце майго часу, я кажу 'кажы'!" />
+    <string id="strTalkSikaSettlementBlueIce005" text="Не марнуй мой час, я гавару 'кажы'!" />
     <string id="strTalkSikaSettlementBlueIce006" text="Не, я не жадаю гаварыць." />
     <string id="strTalkSikaSettlementBlueIce007" text="У цябе ўсё добра?" />
     <string id="strTalkSikaSettlementBlueIce008" text="Я не хачу гаварыць." />
     <string id="strTalkSikaSettlementBlueIce009" text="Айсі? Айсі! Халера! Яна проста паўтарае 'не хачу гаварыць', зноў і зноў, здаецца, я мушу спытаць Салі, што з ёй здарылася." />
 
-    <string id="strTalkSikaSettlementBlueIce010" text="Спадар? Дзякуй, дзякуй за дапамогу, мама кажа, што яны будуць заўжды са мной." />
-    <string id="strTalkSikaSettlementBlueIce011" text="Не, дзякуй, я толькі зрабіў тое, што мусіў." />
-    <string id="strTalkSikaSettlementBlueIce012" text="'Спадар'! Не, дзякуй, я проста зрабіў тое, што павінен быў." />
+    <string id="strTalkSikaSettlementBlueIce010" text="{?PLAYER.GENDER}Спадарыня{?}Спадар{\?}? Дзякуй, дзякуй за дапамогу, мама кажа, што яны будуць са мной заўжды." />
+    <string id="strTalkSikaSettlementBlueIce011" text="Не, дзякуй, я толькі {?PLAYER.GENDER}зрабіла{?}зрабіў{\?} тое, што {?PLAYER.GENDER}мусіла{?}мусіў{\?}." />
+    <string id="strTalkSikaSettlementBlueIce012" text="'{?PLAYER.GENDER}Спадарыня{?}Спадар{\?}'! Не, дзякуй, я проста {?PLAYER.GENDER}зрабіла{?}зрабіў{\?} тое, што {?PLAYER.GENDER}мусіла{?}мусіў{\?}." />
     <string id="strTalkSikaSettlementBlueIce013" text="Добра, мама сказала, што мы мусім на ўсе жылы імкнуцца дапамагчы вам, а брат Ардрон сказаў, што ён сабраў рэсурсы, і спадар можа выкарыстоўваць іх па сваім жаданні!" />
-    <string id="strTalkSikaSettlementBlueIce014" text="Так, спадар, мама сказала, што мы мусім на ўсе жылы імкнуцца дапамагчы спадару, а брат Ардрон сказаў, што ён сабраў рэсурсы, і спадар можа выкарыстоўваць іх паводле свайго меркавання!" />
+    <string id="strTalkSikaSettlementBlueIce014" text="Так, спадар, мама сказала, што мы мусім на ўсе жылы імкнуцца дапамагчы спадару, а брат Ардрон сказаў, што ён сабраў рэсурсы, і {?PLAYER.GENDER}спадарыня{?}спадар{\?} можа выкарыстоўваць іх паводле свайго меркавання!" />
     <string id="strTalkSikaSettlementBlueIce015" text="Добра." />
 
     <string id="strTalkSikaSettlementBlueIce016" text="Я не хачу з табой гаварыць." />
@@ -546,16 +546,16 @@
    <!-- 纳维对话开始 -->
     <!-- For Translation: In Nive's words, "master" use "{?PLAYER.GENDER}Big Sister{?}Big Brother{\?}" -->
     <!-- For example: strTalkSikaSettlementWarmNaive001 - "Anything I can do for you? {?PLAYER.GENDER}Big Sister{?}Big Brother{\?}." -->
-    <string id="strTalkSikaSettlementWarmNaive001" text="Я магу вам чымсьці дапамагчы, спадар?" />
-    <string id="strTalkSikaSettlementWarmNaive002" text="Прывітанне, маленькі Наві, спадару трэба твая дапамога." />
+    <string id="strTalkSikaSettlementWarmNaive001" text="Я магу вам чымсьці дапамагчы, {?PLAYER.GENDER}спадарыня{?}спадар{\?}?" />
+    <string id="strTalkSikaSettlementWarmNaive002" text="Прывітанне, маленькі Наві, {?PLAYER.GENDER}спадарыне{?}спадару{\?} трэба твая дапамога." />
     <string id="strTalkSikaSettlementWarmNaive003" text="Не, маленькі Наві нікому не можа дапамагчы." />
-    <string id="strTalkSikaSettlementWarmNaive004" text="Па чутках маленькі Наві - аракул вёскі, а я - спадар вёскі. Дык, ці можа маленькі Наві дапамагчы свайму спадару?" />
+    <string id="strTalkSikaSettlementWarmNaive004" text="Па чутках маленькі Наві - аракул вёскі, а я - {?PLAYER.GENDER}спадарыня{?}спадар{\?} вёскі. Дык, ці можа маленькі Наві дапамагчы свайму {?PLAYER.GENDER}спадарыне{?}спадару{\?}?" />
     <string id="strTalkSikaSettlementWarmNaive005" text="Вы чалавек, які выратаваў нас? Я ведаю гэтае. З радасцю памагу вам." />
-    <string id="strTalkSikaSettlementWarmNaive006" text="Выдатна! Ты знаеш Айсі? Салі сказала мне, што яе бацькі вярнуліся да багоў. Яна выглядае вельмі сумнай, а яшчэ Салі сказала, што ты можаш дапамагчы Айсі." />
+    <string id="strTalkSikaSettlementWarmNaive006" text="Выдатна! Ты знаеш Айсі? Салі сказала, што яе бацькі вярнуліся да багоў. Яна выглядае вельмі сумнай, гэтак жа Салі сказала, што ты можаш дапамагчы Айсі." />
     <string id="strTalkSikaSettlementWarmNaive007" text="Я магу дапамагчы вам, але бацькі Айсі не вярнуліся і не памерлі." />
     <string id="strTalkSikaSettlementWarmNaive008" text="Што?" />
     <string id="strTalkSikaSettlementWarmNaive009" text="Старэйшына Моннай сказаў мне не гаварыць Айсі праўду. Але калі Айсі не верыць, што яе бацькі не вярнуліся, я нічога не магу зрабіць для яе." />
-    <string id="strTalkSikaSettlementWarmNaive010" text="Хочаш сказаць, што яны не памерлі? А калі Айсі ў гэтае паверыць? Яны ўсё ж памерлі, так?" />
+    <string id="strTalkSikaSettlementWarmNaive010" text="Жадаеш сказаць, што яны не памерлі? А калі Айсі ў гэтае паверыць? Яны ўсё ж памерлі, так?" />
     <string id="strTalkSikaSettlementWarmNaive011" text="Так, іх няма, але яны будуць вечна жыць у нашых сэрцах. Таму яны не могуць вярнуцца, а значыць яны не памерлі па сапраўднасці." />
     <string id="strTalkSikaSettlementWarmNaive012" text="То бок, ты жадаеш сказаць, што мы мусім дапамагчы Айсі паверыць, што яе бацькі будуць жыць у яе сэрцы вечна?" />
     <string id="strTalkSikaSettlementWarmNaive013" text="Не, я маю на ўвазе, што я выклічу іх і дапамагу Айсі паверыць, што яны дагэтуль жывыя." />
@@ -566,10 +566,10 @@
     <string id="strTalkSikaSettlementWarmNaive018" text="(Збегла? Статуэтка збегла?) Добра, я знайду яе." />
 
     <string id="strTalkSikaSettlementWarmNaive019" text="Вы знайшлі маю статуэтку?" />
-    <string id="strTalkSikaSettlementWarmNaive020" text="(Вы паказваеце статуэтку, знойдзеную ў рацэ) Гэта тая статуэтка, якую вы шукаеце." />
-    <string id="strTalkSikaSettlementWarmNaive021" text="Так, гэта так, я думаю, вы павінны захаваць яе, яна дапаможа вам у будучыні." />
-    <string id="strTalkSikaSettlementWarmNaive022" text="Дапамагчы мне ў будучыні? Але ты толькі што сказаў мне, што мы будзем выкарыстоўваць яго, каб выклікаць бацькоў Айсі." />
-    <string id="strTalkSikaSettlementWarmNaive023" text="Так, толькі прынясі яе мне ўначы, Айсі і я буду чакаць вас каля вогнішча, у якога вы знайшлі статуэтку." />
+    <string id="strTalkSikaSettlementWarmNaive020" text="(Вы паказваеце статуэтку, знойдзеную ў рацэ) Гэта тая статуэтка, якую ты шукаў?" />
+    <string id="strTalkSikaSettlementWarmNaive021" text="Так, гэта яна, думаю, вы павінны захаваць яе, яна дапаможа вам у будучыні." />
+    <string id="strTalkSikaSettlementWarmNaive022" text="Дапамагчы мне ў будучыні? Але ты толькі што сказаў мне, што мы будзем выкарыстоўваць яе, каб выклікаць бацькоў Айсі." />
+    <string id="strTalkSikaSettlementWarmNaive023" text="Так, толькі прынясі яе мне ўначы, Айсі і я будзем чакаць вас каля вогнішча, у якога вы знайшлі статуэтку." />
     <string id="strTalkSikaSettlementWarmNaive024" text="Уцямна." />
 
     <string id="strTalkSikaSettlementWarmNaive025" text="Я думаю, мы можам пайсці." />
@@ -585,7 +585,7 @@
     <string id="strTalkSikaSettlementWarmNaive031" text="У хаосе святла і цемры, у полымі надзеі і безнадзейнасці, у вялікім коле заняпаду і велічы, у коле дабра і зла, учуй кліч сваіх сыноў і дачок, вялікая маці Раінэс!" />
     <string id="strTalkSikaSettlementWarmNaive032" text="У тваіх цёплых абдымках, абудзіся ад бясконцага сну!" />
     <string id="strTalkSikaSettlementWarmNaive033" text="Мама! (Калі Наві закончыў сваё заклінанне, са статуэткі з'явілася фігура жанчыны, Айсі кінулася да жанчыны і абняла яе са слязамі на вачах)." />
-    <string id="strTalkSikaSettlementWarmNaive034" text="(маці Айсі гаварыла з ёй пэўны час, раптам жанчына ўстала) Дзякуй, падарожнік, хай будзе з табой святло багіні-маці. (потым жанчына знікла)" />
+    <string id="strTalkSikaSettlementWarmNaive034" text="(маці Айсі гаварыла з ёй пэўны час, раптам жанчына ўстала) Дзякуй, {?PLAYER.GENDER}падарожніца{?}падарожнік{\?}, няхай святло багіні-маці будзе з вамі. (потым жанчына знікла)" />
     <string id="strTalkSikaSettlementWarmNaive035" text="Мама!" />
     <!-- strTalkSikaSettlementWarmNaive027 - "{?PLAYER.GENDER}Big Sister{?}Big Brother{\?}, the ritual is over, you can keep the statue, It may help you in the future." -->
     <string id="strTalkSikaSettlementWarmNaive036" text="Рытуал скончаны, вы можаце пакінуць статуэтку сабе, яна можа дапамагчы вам у будучыні." />
