@@ -1,81 +1,81 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
 	<strings>
-		<!-- Shoulder Armors -->
-		<string id="osa_ao_durkhan_tassled_necklace" text="Eastern Tassled Necklace"/>
-		<string id="osa_ao_generic_short_cape" text="Plain Short Cape"/>
-		<string id="osa_ao_focale" text="Imperial Focale"/>
-		<string id="osa_ao_battanian_cloak" text="Highland Cloth Cloak"/>
-		<string id="osa_ao_battanian_medallion" text="Highland Medallion"/>
-		<string id="osa_ao_caladogs_medallion" text="Highland Noble Medallion"/>
-		<string id="osa_ao_imperial_noblemans_sash" text="Imperial Noble Sash"/>
-		<string id="osa_ao_light_fur_shoulder" text="Highland Shoulder Cloak"/>
-		<string id="osa_ao_battanian_mail_shoulders" text="Highland Trimmed Mail Shoulders"/>
-		<string id="osa_ao_aserai_shoulders_a" text="Brass Scale Shoulders"/>
-		<string id="osa_ao_aserai_shoulders_b" text="Brass Scale Shoulder Guards"/>
-		<string id="osa_ao_aserai_shoulders_c" text="Brass Scale Pauldrons With Cape"/>
+		<!-- Плечавы Armors -->
+		<string id="osa_ao_durkhan_tassled_necklace" text="{.Mnozny}Усходнія Тасіраваныя Каралі"/>
+		<string id="osa_ao_generic_short_cape" text="{.Zanocy}Кароткая Накідка Раўнін"/>
+		<string id="osa_ao_focale" text="{.Zanocy}Імперская Фокалі"/>
+		<string id="osa_ao_battanian_cloak" text="{.Muzcynski}Горны Тканы Плашч"/>
+		<string id="osa_ao_battanian_medallion" text="{.Muzcynski}Горны Медальён"/>
+		<string id="osa_ao_caladogs_medallion" text="{.Muzcynski}Горны Шляхетны Медальён"/>
+		<string id="osa_ao_imperial_noblemans_sash" text="{.Muzcynski}Імперская Шляхетны Пояс"/>
+		<string id="osa_ao_light_fur_shoulder" text="{.Muzcynski}Горны Плечавы Плашч"/>
+		<string id="osa_ao_battanian_mail_shoulders" text="{.Mnozny}Горныя Падстрыжаныя Кальчужныя Наплечнікі"/>
+		<string id="osa_ao_aserai_shoulders_a" text="{.Mnozny}Латуневыя Лускаватыя Наплечнікі"/>
+		<string id="osa_ao_aserai_shoulders_b" text="{.Zanocy}Латуневая Лускаватая Абарона Плячэй"/>
+		<string id="osa_ao_aserai_shoulders_c" text="{.Mnozny}Латуневыя Лускаватыя Палдроны з Накідкай"/>
 		<!-- Arm Armors -->
-		<string id="osa_ao_imperial_decorated_bracers" text="Plate Vambraces"/>
-		<string id="osa_ao_imperial_decorated_bracers_b" text="Heavy Plate Vambraces"/>
-		<string id="osa_ao_durkhan_gauntlets_a" text="Lamellar Vambraces"/>
-		<string id="osa_ao_durkhan_gauntlets_b" text="Gilded Lamellar Vambraces"/>
+		<string id="osa_ao_imperial_decorated_bracers" text="{.Mnozny}Пласцінкавыя Поручы"/>
+		<string id="osa_ao_imperial_decorated_bracers_b" text="{.Mnozny}Цяжкія Пласцінкавыя Поручы"/>
+		<string id="osa_ao_durkhan_gauntlets_a" text="{.Mnozny}Ламелярныя Поручы"/>
+		<string id="osa_ao_durkhan_gauntlets_b" text="{.Mnozny}Пазалочаныя Ламелярная Поручы"/>
 		<!-- Leg Armors -->
-		<string id="osa_ao_durkhan_tassled_boots" text="Eastern Tassled Boots"/>
-		<string id="osa_ao_leather_shoes" text="Blackened Leather Shoes"/>
+		<string id="osa_ao_durkhan_tassled_boots" text="{.Mnozny}Усходнія Тасіраваныя Боты"/>
+		<string id="osa_ao_leather_shoes" text="{.Mnozny}Чэрненыя Скураныя Туфлі"/>
 		<!-- Body Armors -->
-		<string id="osa_ao_battanian_hauberk_with_kilt" text="Highland Hauberk With Kilt"/>
-		<string id="osa_ao_battanian_mail_shirt_with_kilt" text="Highland Mail Shirt With Kilt"/>
-		<string id="osa_ao_battanian_gambeson" text="Highland Gambeson Over Tunic"/>
-		<string id="osa_ao_battanian_gambeson_with_kilt" text="Highland Gambeson Over Tunic With Kilt"/>
-		<string id="osa_ao_battanian_scale_armor" text="Highland Rugged Scale Armor Over Tunic"/>
-		<string id="osa_ao_battanian_cloth_tunic_with_kilt" text="Highland Cloth Tunic With Kilt"/>
-		<string id="osa_ao_battanian_woolen_tunic_with_kilt" text="Highland Woolen Tunic With Kilt"/>
-		<string id="osa_ao_battanian_bronze_scale_over_tunic_with_kilt" text="Highland Bronze Scale Armor With Kilt"/>
-		<string id="osa_ao_battanian_leather_tunic_with_kilt" text="Highland Leather Tunic With Kilt"/>
-		<string id="osa_ao_battanian_decorated_scale_armor" text="Highland Decorated Scale Armor over Kilted Mail"/>
-		<string id="osa_ao_durkhan_hide_poncho" text="Eastern Hide Vest"/>
-		<string id="osa_ao_durkhan_tunic" text="Eastern Ragged Tunic"/>
-		<string id="osa_ao_durkhan_trousers" text="Eastern Cloth Trousers"/>
-		<string id="osa_ao_durkhan_leather_lamellar" text="Eastern Leather Lamellar"/>
-		<string id="osa_ao_durkhan_sleeveless_leather_lamellar" text="Eastern Sleeveless Leather Lamellar"/>
-		<string id="osa_ao_durkhan_chestplate" text="Eastern Leather Chestplate"/>
-		<string id="osa_ao_durkhan_topless_leather_lamellar" text="Eastern Open Leather Lamellar"/>
-		<string id="osa_ao_durkhan_light_lamellar" text="Eastern Light Lamellar"/>
-		<string id="osa_ao_durkhan_lamellar" text="Eastern Lamellar"/>
-		<string id="osa_ao_durkhan_lamellar_thighguard" text="Eastern Lamellar With Thighguard"/>
-		<string id="osa_ao_durkhan_heavy_lamellar" text="Eastern Heavy Lamellar"/>
-		<string id="osa_ao_durkhan_nobles_lamellar" text="Eastern Noble Lamellar"/>
-		<string id="osa_ao_durkhan_lamellar_with_mail" text="Eastern Heavy Lamellar With Mail"/>
-		<string id="osa_ao_eorling_plates_over_mail" text="Western Iron Scale Over Mail"/>
-		<string id="osa_ao_eorling_plates_over_gambeson" text="Western Iron Scale Over Gambeson"/>
-		<string id="osa_ao_eorling_bronze_scale_over_mail" text="Highland Bronze Scale Over Mail"/>
-		<string id="osa_ao_gen_sleeveless_leather_tunic" text="Sleeveless Leather Tunic"/>
-		<string id="osa_ao_gen_gambeson_over_mail" text="Northern Padded Coat Over Mail"/>
-		<string id="osa_ao_crude_mail_with_tunic" text="Crude Mail Over Tunic"/>
-		<string id="osa_ao_imperial_southern_scale_armor_over_mail" text="Imperial Heavy Scale Armor Over Mail"/>
-		<string id="osa_ao_imperial_southern_scale_armor_over_mail_b" text="Imperial Heavy Brass Scale Armor Over Mail"/>
-		<string id="osa_ao_imperial_lamellar_vest" text="Imperial Steel Lamellar Over Padded Cloth"/>
-		<string id="osa_ao_imperial_lamellar_vest_b" text="Imperial Brass Lamellar Over Padded Cloth"/>
-		<string id="osa_ao_imperial_lamellar_vest_over_mail" text="Imperial White Brass Lamellar Over Mail"/>
-		<string id="osa_ao_imperial_lamellar_vest_over_mail_b" text="Imperial Brass Lamellar Over Mail"/>
-		<string id="osa_ao_imperial_cataphracts_lamellar" text="Imperial White Brass Lamellar Over Scale"/>
-		<string id="osa_ao_imperial_cataphracts_lamellar_b" text="Imperial Brass Lamellar Over Scale"/>
-		<string id="osa_ao_imperial_scouts_tunic" text="Imperial Explorator's Tunic"/>
-		<string id="osa_ao_imperial_brass_scale_armor" text="Brass Scale Coat Over Padded Mail"/>
-		<string id="osa_ao_imperial_brass_scale_armor_b" text="Iron Scale Coat Over Padded Mail"/>
-		<string id="osa_ao_imperial_light_leather" text="Imperial Rugged Leather Armor"/>
-		<string id="osa_ao_sturgian_lamellar_vest" text="Lamellar Vest Over Hauberk"/>
-		<string id="osa_ao_sturgian_leather_over_mail" text="Northern Leather Coat Over Hauberk"/>
-		<string id="osa_ao_khuzait_leather_vest" text="Eastern Leather Vest Over Tunic"/>
-		<string id="osa_ao_nordic_sloven_mail_sleeveless" text="Nordic Sloven Mail Shirt"/>
+		<string id="osa_ao_battanian_hauberk_with_kilt" text="Горны Hauberk With Kilt"/>
+		<string id="osa_ao_battanian_mail_shirt_with_kilt" text="Горны Кальчужны Shirt With Kilt"/>
+		<string id="osa_ao_battanian_gambeson" text="Горны Gambeson Over Tunic"/>
+		<string id="osa_ao_battanian_gambeson_with_kilt" text="Горны Gambeson Over Tunic With Kilt"/>
+		<string id="osa_ao_battanian_scale_armor" text="Горны Rugged Лускаватая Armor Over Tunic"/>
+		<string id="osa_ao_battanian_cloth_tunic_with_kilt" text="Горны Тканы Tunic With Kilt"/>
+		<string id="osa_ao_battanian_woolen_tunic_with_kilt" text="Горны Woolen Tunic With Kilt"/>
+		<string id="osa_ao_battanian_bronze_scale_over_tunic_with_kilt" text="Горны Bronze Лускаватая Armor With Kilt"/>
+		<string id="osa_ao_battanian_leather_tunic_with_kilt" text="Горны Скураныя Tunic With Kilt"/>
+		<string id="osa_ao_battanian_decorated_scale_armor" text="Горны Decorated Лускаватая Armor over Kilted Кальчужны"/>
+		<string id="osa_ao_durkhan_hide_poncho" text="Усходняя Hide Vest"/>
+		<string id="osa_ao_durkhan_tunic" text="Усходняя Ragged Tunic"/>
+		<string id="osa_ao_durkhan_trousers" text="Усходняя Тканы Trousers"/>
+		<string id="osa_ao_durkhan_leather_lamellar" text="Усходняя Скураныя Ламелярная"/>
+		<string id="osa_ao_durkhan_sleeveless_leather_lamellar" text="Усходняя Sleeveless Скураныя Ламелярная"/>
+		<string id="osa_ao_durkhan_chestplate" text="Усходняя Скураныя Chestplate"/>
+		<string id="osa_ao_durkhan_topless_leather_lamellar" text="Усходняя Open Скураныя Ламелярная"/>
+		<string id="osa_ao_durkhan_light_lamellar" text="Усходняя Light Ламелярная"/>
+		<string id="osa_ao_durkhan_lamellar" text="Усходняя Ламелярная"/>
+		<string id="osa_ao_durkhan_lamellar_thighguard" text="Усходняя Ламелярная With Thighguard"/>
+		<string id="osa_ao_durkhan_heavy_lamellar" text="Усходняя Цяжкія Ламелярная"/>
+		<string id="osa_ao_durkhan_nobles_lamellar" text="Усходняя Шляхетны Ламелярная"/>
+		<string id="osa_ao_durkhan_lamellar_with_mail" text="Усходняя Цяжкія Ламелярная With Кальчужны"/>
+		<string id="osa_ao_eorling_plates_over_mail" text="Western Iron Лускаватая Over Кальчужны"/>
+		<string id="osa_ao_eorling_plates_over_gambeson" text="Western Iron Лускаватая Over Gambeson"/>
+		<string id="osa_ao_eorling_bronze_scale_over_mail" text="Горны Bronze Лускаватая Over Кальчужны"/>
+		<string id="osa_ao_gen_sleeveless_leather_tunic" text="Sleeveless Скураныя Tunic"/>
+		<string id="osa_ao_gen_gambeson_over_mail" text="Northern Padded Coat Over Кальчужны"/>
+		<string id="osa_ao_crude_mail_with_tunic" text="Crude Кальчужны Over Tunic"/>
+		<string id="osa_ao_imperial_southern_scale_armor_over_mail" text="Імперская Цяжкія Лускаватая Armor Over Кальчужны"/>
+		<string id="osa_ao_imperial_southern_scale_armor_over_mail_b" text="Імперская Цяжкія Латуневыя Лускаватая Armor Over Кальчужны"/>
+		<string id="osa_ao_imperial_lamellar_vest" text="Імперская Steel Ламелярная Over Padded Тканы"/>
+		<string id="osa_ao_imperial_lamellar_vest_b" text="Імперская Латуневыя Ламелярная Over Padded Тканы"/>
+		<string id="osa_ao_imperial_lamellar_vest_over_mail" text="Імперская White Латуневыя Ламелярная Over Кальчужны"/>
+		<string id="osa_ao_imperial_lamellar_vest_over_mail_b" text="Імперская Латуневыя Ламелярная Over Кальчужны"/>
+		<string id="osa_ao_imperial_cataphracts_lamellar" text="Імперская White Латуневыя Ламелярная Over Лускаватая"/>
+		<string id="osa_ao_imperial_cataphracts_lamellar_b" text="Імперская Латуневыя Ламелярная Over Лускаватая"/>
+		<string id="osa_ao_imperial_scouts_tunic" text="Імперская Explorator's Tunic"/>
+		<string id="osa_ao_imperial_brass_scale_armor" text="Латуневыя Лускаватая Coat Over Padded Кальчужны"/>
+		<string id="osa_ao_imperial_brass_scale_armor_b" text="Iron Лускаватая Coat Over Padded Кальчужны"/>
+		<string id="osa_ao_imperial_light_leather" text="Імперская Rugged Скураныя Armor"/>
+		<string id="osa_ao_sturgian_lamellar_vest" text="Ламелярная Vest Over Hauberk"/>
+		<string id="osa_ao_sturgian_leather_over_mail" text="Northern Скураныя Coat Over Hauberk"/>
+		<string id="osa_ao_khuzait_leather_vest" text="Усходняя Скураныя Vest Over Tunic"/>
+		<string id="osa_ao_nordic_sloven_mail_sleeveless" text="Nordic Sloven Кальчужны Shirt"/>
 		<string id="osa_ao_sleeveless_mail_hauberk" text="Northern Sleeveless Hauberk"/>
-		<string id="osa_ao_mail_shirt_sleeveless" text="Western Sleeveless Mail Shirt"/>
+		<string id="osa_ao_mail_shirt_sleeveless" text="Western Sleeveless Кальчужны Shirt"/>
 		<string id="osa_ao_mabili_hide_skirt" text="Southern Hide Skirt"/>
-		<string id="osa_ao_mabili_hide_armor_a" text="Southern Open Leather Lamellar"/>
-		<string id="osa_ao_mabili_hide_armor_b" text="Southern Open Leather Vest"/>
+		<string id="osa_ao_mabili_hide_armor_a" text="Southern Open Скураныя Ламелярная"/>
+		<string id="osa_ao_mabili_hide_armor_b" text="Southern Open Скураныя Vest"/>
 		<string id="osa_ao_vlandian_tabard_over_aketon" text="Western Tabard Over Aketon"/>
-		<string id="osa_ao_vlandian_tabard_over_aketon_b" text="Western Plain Tabard Over Aketon"/>
-		<string id="osa_ao_aserai_armor_a" text="Brass Scale Armor Over Long Tunic"/>
-		<string id="osa_ao_aserai_armor_b" text="Iron Scale Armor Over Long Tunic"/>
+		<string id="osa_ao_vlandian_tabard_over_aketon_b" text="Western Раўнін Tabard Over Aketon"/>
+		<string id="osa_ao_aserai_armor_a" text="Латуневыя Лускаватая Armor Over Long Tunic"/>
+		<string id="osa_ao_aserai_armor_b" text="Iron Лускаватая Armor Over Long Tunic"/>
 	</strings>
 </base>
