@@ -1,0 +1,1511 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settlements>
+  <Settlement id="town_TT1" name="{=Settlements.Settlement.name.CE_NT_TT1}Liberartis" owner="Faction.clan_empire_west_3" posX="428.81" posY="240.41" culture="Culture.empire" prosperity="4000" gate_posX="428.93" gate_posY="237.47">
+    <Components>
+      <Town id="town_comp_TT1" is_castle="false" level="2" background_crop_position="0.0" background_mesh="menu_empire_3" wait_mesh="wait_empire_town" gate_rotation="0.108" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.town_complex">
+      <Location id="center" scene_name="empire_town_g" scene_name_1="empire_town_g" scene_name_2="empire_town_g" scene_name_3="empire_town_g" />
+      <Location id="arena" scene_name="arena_empire_a" />
+      <Location id="tavern" scene_name="empire_house_c_tavern_a" />
+      <Location id="lordshall" scene_name_1="empire_castle_keep_a_l1_interior" scene_name_2="empire_castle_keep_a_l2_interior" scene_name_3="empire_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="empire_dungeon_a" />
+      <Location id="house_1" scene_name="empire_house_d_interior_house" />
+      <Location id="house_2" scene_name="empire_house_d_interior_house" />
+      <Location id="house_3" scene_name="empire_house_d_interior_house" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
+      <Area type="Clearing" name="{=LWHIVshb}Clearing" />
+      <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_TT1_1" name="{=Settlements.Settlement.name.village_EW1_1}Piscabus" posX="419.00" posY="235.34" culture="Culture.empire" text="{=CE_NV_INFO_TT1}Piscabus is a fine fishing village.">
+    <Components>
+      <Village id="village_comp_TT1_1" village_type="VillageType.fisherman" hearth="253" bound="Settlement.town_TT1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="empire_village_007" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_TT1_2" name="{=Settlements.Settlement.name.village_EW1_2}Multarebus" posX="449.35" posY="241.90" culture="Culture.empire" text="{=CE_NV_INFO_TT2}Multarebus is a prosperous fishing village.">
+    <Components>
+      <Village id="village_comp_TT1_2" village_type="VillageType.fisherman" hearth="222" bound="Settlement.town_TT1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="empire_village_008" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_TT1_3" name="{=CE_NV_EW1}Altumdivita" posX="419.91" posY="241.10" culture="Culture.empire" text="{=CE_NV_INFO_TT3}Altumdivita has a deep silvermine and is one of the reasons Liberatis is such a wealthy trade town.">
+    <Components>
+      <Village id="village_comp_TT1_3" village_type="VillageType.silver_mine" hearth="450"  bound="Settlement.town_TT1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="empire_village_008" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="poreale_EW4_3" name="{=CE_NV_EW1}Poreale" posX="312.889" posY="370.9834" culture="Culture.empire" text="{=CE_NV_INFO_EW1}Poreale it's a great place to live.">
+    <Components>
+      <Village id="village_comp_EW1_3" village_type="VillageType.vineyard" hearth="141" bound="Settlement.town_EW1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="empire_village_008" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="rhoanne_EW6_2" name="{=CE_NV_EW8}Rhoanne" posX="403.01" posY="402.30" culture="Culture.empire" text="{=CE_NV_INFO_EW8}Rhoanne.">
+    <Components>
+      <Village id="castle_village_comp_EW6_3" village_type="VillageType.wheat_farm" hearth="141" bound="Settlement.town_EW6" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="empire_village_008" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_EW3_1" name="{=CE_NV_EW10}Neocorys" posX="393.508" posY="322.385" culture="Culture.empire" text="{=CE_NV_INFO_EW10}Neocorys is a fishing village, located where the Tripotamian plains meet Lake Perasos. The shallow waters here are known for catfish and freshwater sole.">
+    <Components>
+      <Village id="village_comp_EW3_1" village_type="VillageType.europe_horse_ranch" hearth="378" gate_rotation="0.008"  bound="Settlement.town_EW3" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="empire_village_x" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="castle_village_EW2_3" name="{=CE_NV_EW16}Thorios" posX="452.6953" posY="373.1036" culture="Culture.empire" text="{=CE_NV_INFO_EW16}Thorios sits in the landward side of the coastal Epiric hills, between the sea and the Zeos valley. The lands, woodland that is relatively recently settled, now yield a fine crop of grain.">
+    <Components>
+      <Village id="village_comp_EW5_3" village_type="VillageType.flax_plant" hearth="232"  bound="Settlement.town_EW5" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="empire_village_p" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="castle_village_B8_3" name="{=CE_NV_EN2}Ismilkorg" posX="382.78" posY="476.71" culture="Culture.empire" text="{=CE_NV_INFO_EN2}Ismilkorg sits in a shallow wooded glen in the hills bordering the Seavorn valley. The villagers harvest oak and fir from these hills.">
+    <Components>
+      <Village id="village_comp_EN1_4" village_type="VillageType.cattle_farm" hearth="697" gate_rotation="0.008" bound="Settlement.town_EN1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="empire_village_x" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="castle_village_EN9_3" name="{=CE_NV_EN5}Gymos" posX="429.111" posY="460.234" culture="Culture.empire" text="{=CE_NV_INFO_EN5}Gymos sits by a small stream running into Lake Laconys. The thin woodlands and meadows at the dry western end of the lake are good territory for the imperial breeds of horses.">
+    <Components>
+      <Village id="castle_village_comp_EN3_3" village_type="VillageType.fisherman" hearth="125" bound="Settlement.castle_EN3" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="empire_village_x" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_EN3_4" name="{=CE_NV_EN7}Aeoria" posX="529.121" posY="415.945" culture="Culture.empire" text="{=CE_NV_INFO_EN7}Aeoria sits on a low ridge between the Aris valley and the Vithys. Wheat grows here, fed by the ample rains of the north.">
+    <Components>
+      <Village id="village_comp_EN3_4" village_type="VillageType.wheat_farm" hearth="275" gate_rotation="0.158" bound="Settlement.town_EN3" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="empire_village_003" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="castle_village_EN2_3" name="{=CE_NV_EN11}Nortanisa" posX="507.37" posY="499.57" culture="Culture.empire" text="{=CE_NV_INFO_EN11}None.">
+    <Components>
+      <Village id="village_comp_EN4_1" village_type="VillageType.fisherman" hearth="557" gate_rotation="0.008" bound="Settlement.town_EN4" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="empire_village_x" max_prosperity="70" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="castle_village_EN8_3" name="{=CE_NV_EN17}Albersto" posX="630.421" posY="469.841" culture="Culture.empire" text="{=CE_NV_INFO_EN17}Albersto sits at the base of a key pass over the Carassic massif, the highest mountains in the Empire. It sits atop a narrow ravine, in the sides of which are fine seams of iron ore.">
+    <Components>
+      <Village id="village_comp_EN6_3" village_type="VillageType.lumberjack" hearth="422" bound="Settlement.town_EN6" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="empire_village_004" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="castle_M1" name="{=CE_NC_EN2}Vealos Castle" owner="Faction.clan_empire_north_1" posX="560.61" posY="454.95" culture="Culture.empire" prosperity="560" gate_posX="562.61" gate_posY="452.70">
+    <Components>
+      <Town id="castle_comp_M1" is_castle="true" level="2" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="empire_castle_004" scene_name_1="empire_castle_004" scene_name_2="empire_castle_004" scene_name_3="empire_castle_004" />
+      <Location id="lordshall" scene_name_1="empire_castle_keep_a_l1_interior" scene_name_2="empire_castle_keep_a_l2_interior" scene_name_3="empire_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="empire_dungeon_a" />
+    </Locations>
+  </Settlement>
+  <Settlement id="village_EN5_5" name="{=CE_NV_EN20}Orthra" posX="569.399" posY="432.571" culture="Culture.empire" text="{=CE_NV_INFO_EN20}Orthra sits in the foothills of the Dryatic mountains, overlooking a steep canyon. The hillsides have been terraced to allow the growing of crops and mulberry plants on which to raise silkworms.">
+    <Components>
+      <Village id="castle_village_comp_M1_2" village_type="VillageType.europe_horse_ranch" hearth="170" bound="Settlement.castle_M1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="empire_village_007" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_EN5_6" name="{=CE_NV_EN21}Vealos" posX="574.82" posY="453.289" culture="Culture.empire" text="{=CE_NV_INFO_EN21}Vealos sits in the foothills of the Dryatic mountains, overlooking a steep canyon. The hillsides have been terraced to allow the growing of crops and mulberry plants on which to raise silkworms.">
+    <Components>
+      <Village id="castle_village_comp_M1_1" village_type="VillageType.europe_horse_ranch" hearth="170" bound="Settlement.castle_M1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="empire_village_007" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="town_ES8" name="{=CE_NT_ES1}Mantola" owner="Faction.clan_empire_south_8" posX="581.346" posY="300.906" culture="Culture.empire" prosperity="3400" gate_posX="583.07" gate_posY="303.04">
+    <Components>
+      <Town id="town_comp_ES8" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.town_complex">
+      <Location id="center" scene_name="empire_town_j_siege" scene_name_1="empire_town_j_siege" scene_name_2="empire_town_j_siege" scene_name_3="empire_town_j_siege" />
+      <Location id="arena" scene_name="arena_empire_a" />
+      <Location id="tavern" scene_name="empire_house_c_tavern_a" />
+      <Location id="lordshall" scene_name_1="empire_castle_keep_a_l1_interior" scene_name_2="empire_castle_keep_a_l2_interior" scene_name_3="empire_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="empire_dungeon_a" />
+      <Location id="house_1" scene_name="empire_house_d_interior_house" />
+      <Location id="house_2" scene_name="empire_house_d_interior_house" />
+      <Location id="house_3" scene_name="empire_house_d_interior_house" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
+      <Area type="Clearing" name="{=LWHIVshb}Clearing" />
+      <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_ES8_1" name="{=CE_NV_ES1}Rendocia" posX="567.509" posY="306.480" culture="Culture.empire" text="{=CE_NV_INFO_ES1}Rendocia sits near the source of the Miron, a river that divides the Carassic massif from the highlands of Visilia. Sheep graze where imperial settlers have cleared away the forests.">
+    <Components>
+      <Village id="village_comp_ES8_1" village_type="VillageType.fisherman" hearth="402" bound="Settlement.town_ES8" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="empire_village_002" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_ES8_2" name="{=CE_NV_ES2}Bozonte" posX="592.602" posY="286.202" culture="Culture.empire" text="{=CE_NV_INFO_ES2}Bozonte sits in Visilia, a sparsely populated plateau region east of the Carassic massif. Silkworm mulberry grows here in the fresh highland air. The dialect here is strongly influenced by Palaic, the language of the tribes in this region before the imperial conquest.">
+    <Components>
+      <Village id="village_comp_ES8_2" village_type="VillageType.olive_trees" hearth="288" bound="Settlement.town_ES8" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="empire_village_p" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_ES8_3" name="{=CE_NV_ES3}Casartle" posX="590.117" posY="311.634" culture="Culture.empire" text="{=CE_NV_INFO_ES3}Casartle sits at the head of a pass that descends from the plateaus of the imperial highlands to the basin of the Ophthys. Though the steep ravines of the region limit cultivation, wheat grows well in the region's dark soil.">
+    <Components>
+      <Village id="village_comp_ES8_3" village_type="VillageType.vineyard" hearth="282" bound="Settlement.town_ES8" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="empire_village_008" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="castle_village_ES7_3" name="{=CE_NV_ES6}Farrella" posX="636.495" posY="400.115" culture="Culture.empire" text="{=CE_NV_INFO_ES6}Farrella is the center of a rural district on the southern shores of Lake Tanaesis, located amid oak scrub and woodland suitable for the cultivation of mulberry trees used in silk production.">
+    <Components>
+      <Village id="village_comp_ES7_2" village_type="VillageType.wheat_farm" hearth="256" gate_rotation="0.008" bound="Settlement.town_ES7" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="empire_village_003" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="castle_village_ES1_3" name="{=CE_NV_ES13}Lavenia" posX="600.638" posY="242.03" culture="Culture.empire" text="{=CE_NV_INFO_ES13}Lavenia sits near an isolated valley in the far southeast of the empire. This frontier zone, long underpopulated due to wars and raiding, still has enough oak to support a thriving forestry industry.">
+    <Components>
+      <Village id="village_comp_ES2_1" village_type="VillageType.fisherman" hearth="272" gate_rotation="0.008" bound="Settlement.town_ES2" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="empire_village_003" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="castle_village_ES8_3" name="{=CE_NV_ES16}Chanopsis" posX="570.062" posY="366.622" culture="Culture.empire" text="{=CE_NV_INFO_ES16}Chanopsis sits on the wooded ridges overlooking the Tripotamian highlands. Many of the foresters here still speak the languages of the Paleic people, who lived in these lands before the Empire came.">
+    <Components>
+      <Village id="village_comp_ES6_3" village_type="VillageType.wheat_farm" hearth="203" bound="Settlement.town_ES6" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="empire_village_003" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_ES4_2" name="{=CE_NV_ES19}Isolano" posX="541.406" posY="329.990" culture="Culture.empire" text="{=Settlements.Settlement.text.village_ES4_3}Isolano sits near where the headwaters of the Sethys come rushing out of a stone outcrop in the midst of the Tripotamian highlands. The chalky soil in these parts makes for fine grazing for horses.">
+    <Components>
+      <Village id="village_comp_ES4_2" village_type="VillageType.silk_plant" hearth="169" gate_rotation="0.008" bound="Settlement.town_ES4" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="empire_village_002" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="castle_S11" name="{=CE_NC_SG1}Kaldavic Castle" owner="Faction.clan_sturgia_3" posX="701.225" posY="559.015" culture="Culture.sturgia" prosperity="660" gate_posX="699.9971" gate_posY="560.7781">
+    <Components>
+      <Town id="castle_comp_S11" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="sturgia_castle_003" scene_name_1="sturgia_castle_003" scene_name_2="sturgia_castle_003" scene_name_3="sturgia_castle_003" />
+      <Location id="lordshall" scene_name_1="sturgia_castle_keep_a_l3_interior" scene_name_2="sturgia_castle_keep_a_l3_interior" scene_name_3="sturgia_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="sturgia_dungeon_a" />
+    </Locations>
+  </Settlement>
+  <Settlement id="castle_village_S11_1" name="{=CE_NV_SG1}Kalavala" posX="696.952" posY="567.461" culture="Culture.sturgia" text="{=CE_NV_INFO_SG1}Kalavala lies on the rocky eastern shores of Lake Laconys. Rich fishing can be found near the mouths of the streams that flow down from the hills into the lake.">
+    <Components>
+      <Village id="castle_village_comp_S11_1" village_type="VillageType.cattle_farm" hearth="572" gate_rotation="0.208" bound="Settlement.castle_S11" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_j" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="town_S9" name="{=CE_NT_SG1}Lysemork" owner="Faction.clan_sturgia_3" posX="699.561" posY="595.235" culture="Culture.sturgia" prosperity="2000" gate_posX="695.2395" gate_posY="594.124">
+    <Components>
+      <Town id="town_comp_S9" is_castle="false" level="3" background_crop_position="0.0" background_mesh="gui_bg_town_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.308" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.town_complex">
+      <Location id="center" scene_name="sturgia_town_c" scene_name_1="sturgia_town_c" scene_name_2="sturgia_town_c" scene_name_3="sturgia_town_c" />
+      <Location id="arena" scene_name="arena_sturgia_a" />
+      <Location id="tavern" scene_name="sturgia_house_b_interior_tavern" />
+      <Location id="lordshall" scene_name_1="sturgia_castle_keep_a_l3_interior" scene_name_2="sturgia_castle_keep_a_l3_interior" scene_name_3="sturgia_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="sturgia_dungeon_a" />
+      <Location id="house_1" scene_name="sturgia_town_house_d1_interior_b_house" />
+      <Location id="house_2" scene_name="sturgia_town_house_d1_interior_b_house" />
+      <Location id="house_3" scene_name="sturgia_town_house_d1_interior_b_house" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
+      <Area type="Clearing" name="{=LWHIVshb}Clearing" />
+      <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_S9_1" name="{=CE_NV_SG2}Oltebrot" posX="692.006" posY="588.905" culture="Culture.sturgia" text="{=CE_NV_INFO_SG2}Oltebrot.">
+    <Components>
+      <Village id="village_comp_S9_1" village_type="VillageType.cattle_farm" hearth="270" gate_rotation="0.258" bound="Settlement.town_S9" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_j" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_S9_2" name="{=CE_NV_SG3}Kleviby" posX="716.181" posY="604.925" culture="Culture.sturgia" text="{=CE_NV_INFO_SG3}Kleviby.">
+    <Components>
+      <Village id="village_comp_S9_2" village_type="VillageType.fisherman" hearth="270" gate_rotation="0.258" bound="Settlement.town_S9" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_j" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_S9_3" name="{=CE_NV_SG4}Sinskard" posX="710.074" posY="580.538" culture="Culture.sturgia" text="{=CE_NV_INFO_SG4}Sinskard.">
+    <Components>
+      <Village id="village_comp_S9_3" village_type="VillageType.lumberjack" hearth="270" gate_rotation="0.258" bound="Settlement.town_S9" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_j" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="castle_S9" name="{=CE_NC_SG2}Stenpunkt Castle" owner="Faction.clan_sturgia_6" posX="580.25" posY="584.62" culture="Culture.sturgia" prosperity="990" gate_posX="579.22" gate_posY="586.22">
+    <Components>
+      <Town id="castle_comp_S9" is_castle="true" level="2" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="sturgia_castle_siege_001" scene_name_1="sturgia_castle_siege_001" scene_name_2="sturgia_castle_siege_001" scene_name_3="sturgia_castle_siege_001" />
+      <Location id="lordshall" scene_name_1="sturgia_castle_keep_a_l3_interior" scene_name_2="sturgia_castle_keep_a_l3_interior" scene_name_3="sturgia_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="sturgia_dungeon_a" />
+    </Locations>
+  </Settlement>
+  <Settlement id="castle_village_S9_2" name="{=CE_NV_SG5}Glanta" posX="597.283" posY="600.864" culture="Culture.sturgia" text="{=Settlements.Settlement.text.village_S6_1}The villagers of Glanta raise small, sturdy cattle on the foothills of Mount Iltan. They include the descendants of refugees and malcontents from across Calradia, seeking isolation in the cold northern forests.">
+    <Components>
+      <Village id="castle_village_comp_S9_2" village_type="VillageType.lumberjack" hearth="508" bound="Settlement.castle_S9" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_e" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="town_S8" name="{=CE_NT_SG2}Kullstad" owner="Faction.clan_sturgia_7" posX="410.251" posY="540.195" culture="Culture.sturgia" prosperity="2000" gate_posX="411.1611" gate_posY="535.7975">
+    <Components>
+      <Town id="town_comp_S8" is_castle="false" level="3" background_crop_position="0.0" background_mesh="gui_bg_town_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.308" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.town_complex">
+      <Location id="center" scene_name="sturgia_town_c" scene_name_1="sturgia_town_c" scene_name_2="sturgia_town_c" scene_name_3="sturgia_town_c" />
+      <Location id="arena" scene_name="arena_sturgia_a" />
+      <Location id="tavern" scene_name="sturgia_house_b_interior_tavern" />
+      <Location id="lordshall" scene_name_1="sturgia_castle_keep_a_l3_interior" scene_name_2="sturgia_castle_keep_a_l3_interior" scene_name_3="sturgia_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="sturgia_dungeon_a" />
+      <Location id="house_1" scene_name="sturgia_town_house_d1_interior_b_house" />
+      <Location id="house_2" scene_name="sturgia_town_house_d1_interior_b_house" />
+      <Location id="house_3" scene_name="sturgia_town_house_d1_interior_b_house" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
+      <Area type="Clearing" name="{=LWHIVshb}Clearing" />
+      <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_S8_1" name="{=CE_NV_SG6}Faltby" posX="400.405" posY="533.951" culture="Culture.sturgia" text="{=CE_NV_INFO_SG6}Faltby, super.">
+    <Components>
+      <Village id="village_comp_S8_1" village_type="VillageType.sturgian_horse_ranch" hearth="270" gate_rotation="0.258" bound="Settlement.town_S8" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_j" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_S8_2" name="{=CE_NV_SG7}Brekkaby" posX="421.288" posY="526.097" culture="Culture.sturgia" text="{=CE_NV_INFO_SG7}Brekkaby, not as super as Faltby.">
+    <Components>
+      <Village id="village_comp_S8_2" village_type="VillageType.flax_plant" hearth="270" gate_rotation="0.258" bound="Settlement.town_S8" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_j" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_S3_3" name="{=CE_NV_SG8}Kaldrhus" posX="457.853" posY="526.708" culture="Culture.sturgia" text="{=CE_NV_INFO_SG8}Kaldrhus sits on the Skorniva, a stream running out of the northern forests. Like other villages on the river, the people here trade in the salmon who migrate up and down with the seasons.">
+    <Components>
+      <Village id="village_comp_S3_3" village_type="VillageType.fisherman" hearth="161" gate_rotation="0.908" bound="Settlement.town_S3" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_h" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="castle_village_S4_3" name="{=CE_NV_SG11}Kranirog" posX="371.462" posY="539.871" culture="Culture.sturgia" text="{=CE_NV_INFO_SG11}Kranirog sits in the southern reaches of the Battanian lands, near the source of the Trand River. Warm days, and mornings cooled by ocean mists coming eastward up the river, allow the growing of wine grapes.">
+    <Components>
+      <Village id="village_comp_S1_2" village_type="VillageType.trapper" hearth="328"  bound="Settlement.town_S1" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="battania_village_j" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_S7_3" name="{=CE_NV_SG12}Trelandsby" posX="314.242" posY="576.376" culture="Culture.sturgia" text="{=CE_NV_INFO_SG12}Trelandsby sits on the northern coast of the Lachyar peninsula, bordering the Byalic Gulf. The cold forests here produce an ambudance of berries, that are gathered and dried and sold as spice.">
+    <Components>
+      <Village id="village_comp_S7_3" village_type="VillageType.wheat_farm" hearth="296" gate_rotation="0.758" bound="Settlement.town_S7" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_l" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="castle_S10" name="{=CE_NC_SG5}Jernborg Castle" owner="Faction.clan_sturgia_1" posX="329.70" posY="589.13" culture="Culture.sturgia" prosperity="890" gate_posX="330.60" gate_posY="587.46">
+    <Components>
+      <Town id="castle_comp_S10" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_battania_town" gate_rotation="0.408" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="sturgia_castle_siege_001" scene_name_1="sturgia_castle_siege_001" scene_name_2="sturgia_castle_siege_001" scene_name_3="sturgia_castle_siege_001" />
+      <Location id="lordshall" scene_name_1="sturgia_castle_keep_a_l3_interior" scene_name_2="sturgia_castle_keep_a_l3_interior" scene_name_3="sturgia_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="sturgia_dungeon_a" />
+    </Locations>
+  </Settlement>
+  <Settlement id="castle_village_S10_1" name="{=CE_NV_SG13}Jerngrend" posX="342.459" posY="582.408" culture="Culture.sturgia" text="{=CE_NV_INFO_SG13}Jerngrend sits where the Seavorn river reaches the Bay of Varcheg. Villagers here tend flax in the cool and misty lowlands.">
+    <Components>
+      <Village id="castle_village_comp_S10_1" village_type="VillageType.iron_mine" hearth="240" gate_rotation="0.258" bound="Settlement.castle_S10" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_e" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="town_B6" name="{=CE_NT_BN1}Sargeth" owner="Faction.clan_battania_6" posX="240.20" posY="556.58" culture="Culture.battania" prosperity="3300" gate_posX="241.37" gate_posY="549.96">
+    <Components>
+      <Town id="town_comp_B6" is_castle="false" level="2" background_crop_position="0.0" background_mesh="gui_bg_town_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.808" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.town_complex">
+      <Location id="center" scene_name="sturgia_town_b" scene_name_1="sturgia_town_b" scene_name_2="sturgia_town_b" scene_name_3="sturgia_town_b" />
+      <Location id="arena" scene_name="arena_sturgia_a" />
+      <Location id="tavern" scene_name="sturgia_house_b_interior_tavern" />
+      <Location id="lordshall" scene_name_1="sturgia_castle_keep_a_l3_interior" scene_name_2="sturgia_castle_keep_a_l3_interior" scene_name_3="sturgia_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="sturgia_dungeon_a" />
+      <Location id="house_1" scene_name="sturgia_town_house_d1_interior_b_house" />
+      <Location id="house_2" scene_name="sturgia_town_house_d1_interior_b_house" />
+      <Location id="house_3" scene_name="sturgia_town_house_d1_interior_b_house" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
+      <Area type="Clearing" name="{=LWHIVshb}Clearing" />
+      <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_B4_5" name="{=CE_NV_BN5}Pendraic" posX="255.625" posY="536.213" culture="Culture.battania" text="{=CE_NV_INFO_BN5}Pendraic sits in the southern Rhennod, near Garentor pass. The woodsmen of these hills harvest timbers from the thick forests.">
+    <Components>
+      <Village id="village_comp_B6_1" village_type="VillageType.sheep_farm" hearth="145"  bound="Settlement.town_B6" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="battania_village_j" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="castle_village_V6_3" name="{=CE_NV_BN6}Deriat" posX="206" posY="555.33" culture="Culture.battania" text="{=CE_NV_INFO_BN6}Deriat sits where the swift-flowing river the Battanians call the Tryn slows in the lowlands and becomes the Trand. The folk of this region harvest the pines and other trees that grow next to the local marshes.">
+    <Components>
+      <Village id="village_comp_B6_3" village_type="VillageType.wheat_farm" hearth="347" gate_rotation="0.008" bound="Settlement.town_B6" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="battania_village_j" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="castle_village_V6_4" name="{=CE_NV_BN7}Malharic" posX="243.165" posY="540.646" culture="Culture.battania" text="{=CE_NV_INFO_BN7}Malharic sits on gentle hills on the lower Trand valley. Cold ocean mists in the morning and sandy soil allow the growing of fine grapes.">
+    <Components>
+      <Village id="village_comp_B6_2" village_type="VillageType.flax_plant" hearth="360" gate_rotation="0.008"  bound="Settlement.town_B6" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="battania_village_j" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="castle_village_B7_3" name="{=CE_NV_BN9}Savreth" posX="251.317" posY="498.091" culture="Culture.battania" text="{=CE_NV_INFO_BN9}Savreth lies by the wooded banks of the River Seavorn. The clays of this lowland region provide the raw materials for Battania's famed pottery.">
+    <Components>
+      <Village id="village_comp_B3_4" village_type="VillageType.lumberjack" hearth="473" gate_rotation="0.308" bound="Settlement.town_B3" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="battania_village_l" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="town_V4" name="{=CE_NT_VD1}Tihramn" owner="Faction.clan_vlandia_6" posX="170.500" posY="595.963" culture="Culture.vlandia" prosperity="5100" gate_posX="165.7505" gate_posY="595.2216">
+    <Components>
+      <Town id="town_comp_V4" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.town_complex">
+      <Location id="center" scene_name="vlandia_town_a" scene_name_1="vlandia_town_a" scene_name_2="vlandia_town_a" scene_name_3="vlandia_town_a" />
+      <Location id="arena" scene_name="arena_vlandia_a" />
+      <Location id="tavern" scene_name="vlandia_tavern_interior_a" />
+      <Location id="lordshall" scene_name_1="european_castle_keep_a_l1_interior" scene_name_2="european_castle_keep_a_l2_interior" scene_name_3="european_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="vlandia_dungeon_a" />
+      <Location id="house_1" scene_name="vlandia_city_house_a_interior_house" />
+      <Location id="house_2" scene_name="vlandia_city_house_a_interior_house" />
+      <Location id="house_3" scene_name="vlandia_city_house_a_interior_house" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
+      <Area type="Clearing" name="{=LWHIVshb}Clearing" />
+      <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="castle_village_V5_3" name="{=CE_NV_VD1}Tirby" posX="161.077" posY="586.582" culture="Culture.vlandia" text="{=CE_NV_INFO_VD1}Horemdac lies on the Bay of Varcheg. This end of the bay has few good fishing-grounds, but villagers plant flax on the narrow coastal plain.">
+    <Components>
+      <Village id="village_comp_V4_2" village_type="VillageType.silver_mine" hearth="640" bound="Settlement.town_V4" background_crop_position="0.0" background_mesh="gui_bg_village_vlanda" wait_mesh="wait_vlandia_village" castle_background_mesh="gui_bg_castle_vlanda" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="vlandia_village_g" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_V4_1" name="{=CE_NV_VD2}Cuxhaven" posX="175.827" posY="580.603" culture="Culture.vlandia" text="{=CE_NV_INFO_VD2}Cuxhaven lies in the gentle wooded hills of the Trand valley. The people of this district are largely foresters.">
+    <Components>
+      <Village id="village_comp_V4_1" village_type="VillageType.fisherman" hearth="516" gate_rotation="0.008" bound="Settlement.town_V4" background_crop_position="0.0" background_mesh="gui_bg_village_vlanda" wait_mesh="wait_vlandia_village" castle_background_mesh="gui_bg_castle_vlanda" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="vlandia_village_g" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_V3_1" name="{=CE_NV_VD4}Breitveld" posX="138.992" posY="494.745" culture="Culture.vlandia" text="{=CE_NV_INFO_VD4}Breitveld sits on gentle hills on the lower Trand valley. Cold ocean mists in the morning and sandy soil allow the growing of fine grapes.">
+    <Components>
+      <Village id="village_comp_V3_1" village_type="VillageType.wheat_farm" hearth="360" gate_rotation="0.008" bound="Settlement.town_V3" background_crop_position="0.0" background_mesh="gui_bg_village_vlanda" wait_mesh="wait_vlandia_village" castle_background_mesh="gui_bg_castle_vlanda" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="vlandia_village_m" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="town_V11" name="{=CE_NT_VD2}Valanby" owner="Faction.clan_vlandia_3" posX="95.268" posY="509.860" culture="Culture.vlandia" prosperity="3000" gate_posX="100.0233" gate_posY="509.9068">
+    <Components>
+      <Town id="town_comp_V11" is_castle="false" level="2" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.408" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.town_complex">
+      <Location id="center" scene_name="vlandia_town_a" scene_name_1="vlandia_town_a" scene_name_2="vlandia_town_a" scene_name_3="vlandia_town_a" />
+      <Location id="arena" scene_name="arena_vlandia_a" />
+      <Location id="tavern" scene_name="vlandia_tavern_interior_a" />
+      <Location id="lordshall" scene_name_1="european_castle_keep_a_l1_interior" scene_name_2="european_castle_keep_a_l2_interior" scene_name_3="european_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="vlandia_dungeon_a" />
+      <Location id="house_1" scene_name="vlandia_city_house_a_interior_house" />
+      <Location id="house_2" scene_name="vlandia_city_house_a_interior_house" />
+      <Location id="house_3" scene_name="vlandia_city_house_a_interior_house" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
+      <Area type="Clearing" name="{=LWHIVshb}Clearing" />
+      <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_V6_6" name="{=CE_NV_VD7}Feyend" posX="90.797" posY="492.182" culture="Culture.vlandia" text="{=CE_NV_INFO_VD7}Feyend sits where the swift-flowing river the Battanians call the Tryn slows in the lowlands and becomes the Trand. The folk of this region harvest the pines and other trees that grow next to the local marshes.">
+    <Components>
+      <Village id="village_comp_V11_1" village_type="VillageType.fisherman" hearth="347" gate_rotation="0.008" bound="Settlement.town_V11" background_crop_position="0.0" background_mesh="gui_bg_village_vlanda" wait_mesh="wait_vlandia_village" castle_background_mesh="gui_bg_castle_vlanda" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="vlandia_village_g" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_V6_5" name="{=CE_NV_VD8}Valanveld" posX="117.556" posY="500.743" culture="Culture.vlandia" text="{=CE_NV_INFO_VD8}Valanveld sits at the mouth of Seavorn river. The cold northern climate and wet coastal lowlands nearby support the growing of flax.">
+    <Components>
+      <Village id="village_comp_V11_2" village_type="VillageType.flax_plant" hearth="132" gate_rotation="0.008" bound="Settlement.town_V11" background_crop_position="0.0" background_mesh="gui_bg_village_vlanda" wait_mesh="wait_vlandia_village" castle_background_mesh="gui_bg_castle_vlanda" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="vlandia_village_k" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_V11_3" name="{=CE_NV_VD9}Weizenheim" posX="112.080" posY="511.986" culture="Culture.vlandia" text="{=CE_NV_INFO_VD9}Weizenheim sits on gentle hills on the lower Trand valley. Cold ocean mists in the morning and sandy soil allow the growing of fine grapes.">
+    <Components>
+      <Village id="village_comp_V11_3" village_type="VillageType.vlandian_horse_ranch" hearth="360" gate_rotation="0.008" bound="Settlement.town_V11" background_crop_position="0.0" background_mesh="gui_bg_village_vlanda" wait_mesh="wait_vlandia_village" castle_background_mesh="gui_bg_castle_vlanda" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="vlandia_village_m" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_V1_3" name="{=Settlements.Settlement.name.village_V1_2}Maisbur" posX="196.647" posY="378.771" culture="Culture.vlandia" text="{=Settlements.Settlement.text.village_V1_2}Maisbur sits in the short stretch of rocky coastline between the mouths of the Cafal and Seavorn rivers. Villagers tend fields of flax in the surrounding floodplains.">
+    <Components>
+      <Village id="village_comp_V1_3" village_type="VillageType.wheat_farm" hearth="101" gate_rotation="0.258" bound="Settlement.town_V1" background_crop_position="0.0" background_mesh="gui_bg_village_vlanda" wait_mesh="wait_vlandia_village" castle_background_mesh="gui_bg_castle_vlanda" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="vlandia_village_l" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_V7_3" name="{=Settlements.Settlement.name.village_V6_4}Eisenweiler" posX="177.780" posY="355.846" culture="Culture.vlandia" text="{=Settlements.Settlement.text.village_V6_4}Eisenweiler is a fishing village that sits on a sheltered cove. The sea breezes ensure a mild climate most of the year, and sardines and tuna can be caught in the warm ocean currents coming up from the south, just beyond the headlands.">
+    <Components>
+      <Village id="village_comp_V7_3" village_type="VillageType.iron_mine" hearth="157" bound="Settlement.town_V7" background_crop_position="0.0" background_mesh="gui_bg_village_vlanda" wait_mesh="wait_vlandia_village" castle_background_mesh="gui_bg_castle_vlanda" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="vlandia_village_m" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="castle_village_V1_2" name="{=Settlements.Settlement.name.village_V6_4}Wolleham" posX="213.080" posY="357.07" culture="Culture.vlandia" text="{=Settlements.Settlement.text.village_V6_4}Wolleham is a fishing village that sits on a sheltered cove. The sea breezes ensure a mild climate most of the year, and sardines and tuna can be caught in the warm ocean currents coming up from the south, just beyond the headlands.">
+    <Components>
+      <Village id="castle_village_comp_V1_2" village_type="VillageType.sheep_farm" hearth="357" bound="Settlement.castle_V1" background_crop_position="0.0" background_mesh="gui_bg_village_vlanda" wait_mesh="wait_vlandia_village" castle_background_mesh="gui_bg_castle_vlanda" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="vlandia_village_i" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="town_A14" name="{=CE_NT_AS1}Aridayar" owner="Faction.clan_aserai_7" posX="579.079" posY="61.210" culture="Culture.aserai" prosperity="3200" gate_posX="576.0365" gate_posY="63.31746">
+    <Components>
+      <Town id="town_comp_A14" is_castle="false" level="2" background_crop_position="0.179" background_mesh="menu_aserai_3" wait_mesh="wait_aserai_town" gate_rotation="0.908" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.town_complex">
+      <Location id="center" scene_name="aserai_town_b" scene_name_1="aserai_town_b" scene_name_2="aserai_town_b" scene_name_3="aserai_town_b" />
+      <Location id="arena" scene_name="arena_aserai_a" />
+      <Location id="tavern" scene_name="aserai_tavern_interior" />
+      <Location id="lordshall" scene_name_1="aserai_castle_keep_a_l1_interior" scene_name_2="aserai_castle_keep_a_l2_interior" scene_name_3="aserai_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="aserai_dungeon_a" />
+      <Location id="house_1" scene_name="arabian_house_new_a_interior_a_house" />
+      <Location id="house_2" scene_name="arabian_house_new_a_interior_a_house" />
+      <Location id="house_3" scene_name="arabian_house_new_a_interior_a_house" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
+      <Area type="Clearing" name="{=LWHIVshb}Clearing" />
+      <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_A14_1" name="{=CE_NV_AS1}Tashawa" posX="573.649" posY="78.976" culture="Culture.aserai" text="{=CE_NV_INFO_AS1}Tashawa sits in a ravine in the desert steppe southeast of the Bahr al-Yeshm. Groundwater provides just enough water to grow crops for subsistence, while the village makes its money from rearing horses on the rich but short-lived grass that grows after the spring rains.">
+    <Components>
+      <Village id="village_comp_A14_1" village_type="VillageType.date_farm" hearth="231" bound="Settlement.town_A14" background_crop_position="0.145" background_mesh="menu_aserai_village_2" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="aserai_village_e" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_A14_2" name="{=CE_NV_AS2}Mah Seif" posX="560.816" posY="82.408" culture="Culture.aserai" text="{=CE_NV_INFO_AS2}Mah Seif sits in a nook of the bleak hills east of the Bahr al-Yeshm, where the granite rocks of the region trap rainwater in an oasis pool. The farmland is bountiful but limited, and the land is best known for the horses that are grazed on the desert's short-lived but rich spring grasses.">
+    <Components>
+      <Village id="village_comp_A14_2" village_type="VillageType.silver_mine" hearth="150" bound="Settlement.town_A14" background_crop_position="0.141" background_mesh="menu_aserai_village_4" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="aserai_village_e" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_A14_3" name="{=CE_NV_AS3}Damayeh" posX="582.200" posY="71.090" culture="Culture.aserai" text="{=CE_NV_INFO_AS3}Damayeh, the so-called 'monastery of the winds' named after a colony of ascetics who lived here long ago, sits in the bleak hills southeast of the Bahr al-Yeshm lake. They sink wells where the rocky hills trap rainwater, and cultivate aromatic berries which are dried and crushed and sold as spice.">
+    <Components>
+      <Village id="village_comp_A14_3" village_type="VillageType.date_farm" hearth="155" bound="Settlement.town_A14" background_crop_position="0.141" background_mesh="menu_aserai_village_4" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="aserai_village_i" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="town_A10" name="{=CE_NT_AS2}Kavloniki" owner="Faction.clan_aserai_1" posX="243.273" posY="232.480" culture="Culture.aserai" prosperity="2500" gate_posX="244.7795" gate_posY="229.8825">
+    <Components>
+      <Town id="town_comp_A10" is_castle="false" level="1" background_crop_position="0.401" background_mesh="menu_aserai_4" wait_mesh="wait_aserai_town" gate_rotation="0.408" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.town_complex">
+      <Location id="center" scene_name="aserai_town_c" scene_name_1="aserai_town_c" scene_name_2="aserai_town_c" scene_name_3="aserai_town_c" />
+      <Location id="arena" scene_name="arena_aserai_a" />
+      <Location id="tavern" scene_name="aserai_tavern_interior" />
+      <Location id="lordshall" scene_name_1="aserai_castle_keep_a_l1_interior" scene_name_2="aserai_castle_keep_a_l2_interior" scene_name_3="aserai_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="aserai_dungeon_a" />
+      <Location id="house_1" scene_name="arabian_house_new_a_interior_a_house" />
+      <Location id="house_2" scene_name="arabian_house_new_a_interior_a_house" />
+      <Location id="house_3" scene_name="arabian_house_new_a_interior_a_house" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
+      <Area type="Clearing" name="{=LWHIVshb}Clearing" />
+      <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_A10_1" name="{=CE_NV_AS4}Paraoi" posX="251.632" posY="263.255" culture="Culture.aserai" text="{=CE_NV_INFO_AS4}Paraoi is a fishing village where the river that the Aserai call the Gabsa reaches the sea. Villagers sail out onto the calm waters of the gulf to seek tuna, sardines, and shark.">
+    <Components>
+      <Village id="village_comp_A10_1" village_type="VillageType.fisherman" hearth="148" bound="Settlement.town_A10" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="aserai_village_i" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_A10_2" name="{=CE_NV_AS5}Naumoi" posX="261.643" posY="237.089" culture="Culture.aserai" text="{=CE_NV_INFO_AS5}Naumoi sits in the rocky edges of the Jebal Tamar hills. The surrounding lands, though dry, produce enough grass in the spring to allow the breeding of horses.">
+    <Components>
+      <Village id="village_comp_A10_2" village_type="VillageType.desert_horse_ranch" hearth="375" bound="Settlement.town_A10" background_crop_position="0.308" background_mesh="menu_aserai_village_3" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="aserai_village_l" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_A10_3" name="{=CE_NV_AS6}Ermirin" posX="235.95" posY="215.42" culture="Culture.aserai" text="{=CE_NV_INFO_AS6}Ermirin sits just inland of the Gulf of Charas. Prevailing easterly winds from the desert means that the land grows dry quickly, but this allows the cultivation of aromatic berries ground up for spices.">
+    <Components>
+      <Village id="village_comp_A10_3" village_type="VillageType.sheep_farm" hearth="235" bound="Settlement.town_A10" background_crop_position="0.308" background_mesh="menu_aserai_village_3" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="aserai_village_e" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="town_A9" name="{=CE_NT_AS3}Flotois" owner="Faction.clan_aserai_3" posX="270.976" posY="166.294" culture="Culture.aserai" prosperity="1500" gate_posX="274.85" gate_posY="167.26">
+    <Components>
+      <Town id="town_comp_A9" is_castle="false" level="1" background_crop_position="0.179" background_mesh="menu_aserai_3" wait_mesh="wait_aserai_town" gate_rotation="0.908" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.town_complex">
+      <Location id="center" scene_name="aserai_town_b" scene_name_1="aserai_town_b" scene_name_2="aserai_town_b" scene_name_3="aserai_town_b" />
+      <Location id="arena" scene_name="arena_aserai_a" />
+      <Location id="tavern" scene_name="aserai_tavern_interior" />
+      <Location id="lordshall" scene_name_1="aserai_castle_keep_a_l1_interior" scene_name_2="aserai_castle_keep_a_l2_interior" scene_name_3="aserai_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="aserai_dungeon_a" />
+      <Location id="house_1" scene_name="arabian_house_new_a_interior_a_house" />
+      <Location id="house_2" scene_name="arabian_house_new_a_interior_a_house" />
+      <Location id="house_3" scene_name="arabian_house_new_a_interior_a_house" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
+      <Area type="Clearing" name="{=LWHIVshb}Clearing" />
+      <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_A9_1" name="{=CE_NV_AS7}Lechio" posX="254.74" posY="152.21" culture="Culture.aserai" text="{=CE_NV_INFO_AS7}Lechio sits in the rocky edges of the Jebal Tamar hills. The surrounding lands, though dry, produce enough grass in the spring to allow the breeding of horses.">
+    <Components>
+      <Village id="village_comp_A9_1" village_type="VillageType.sheep_farm" hearth="375" bound="Settlement.town_A9" background_crop_position="0.308" background_mesh="menu_aserai_village_3" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="aserai_village_i" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_A9_2" name="{=CE_NV_AS8}Gerani" posX="292.441" posY="166.492" culture="Culture.aserai" text="{=CE_NV_INFO_AS8}Gerani is a village on the right bank of the Damar River, which waters the arid south. The river widens and slows near the lake, and can be used to irrigate fine crops of wheat.">
+    <Components>
+      <Village id="village_comp_A9_2" village_type="VillageType.iron_mine" hearth="477" bound="Settlement.town_A9" background_crop_position="0.145" background_mesh="menu_aserai_village_2" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="aserai_village_e" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_A9_3" name="{=CE_NV_AS9}Peperi" posX="277.070" posY="199.987" culture="Culture.aserai" text="{=CE_NV_INFO_AS9}Peperi sits just inland of the Gulf of Charas. Prevailing easterly winds from the desert means that the land grows dry quickly, but this allows the cultivation of aromatic berries ground up for spices.">
+    <Components>
+      <Village id="village_comp_A9_3" village_type="VillageType.date_farm" hearth="235" bound="Settlement.town_A9" background_crop_position="0.308" background_mesh="menu_aserai_village_3" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="aserai_village_e" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_A8_3" name="{=CE_NV_AS13}Nabetz" posX="493.026" posY="153.404" culture="Culture.aserai" text="{=CE_NV_INFO_AS13}Nabetz sits overlooking a small bay in the Retana, the strip of coastline in the far west of the Aserai lands. Villagers fish for tuna, sardines, and the occasional shark.">
+    <Components>
+      <Village id="village_comp_A8_3" village_type="VillageType.wheat_farm" hearth="326" gate_rotation="0.108" bound="Settlement.town_A8" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="aserai_village_e" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="castle_village_A5_3" name="{=CE_NV_AS14}Hunab" posX="493.275" posY="130.276" culture="Culture.aserai" text="{=CE_NV_INFO_AS14}Hunab sits on the plains running from the Jejara Escarpment to Lake Perasos. Like many villages of these parts, it is centered on a rock formation that traps groundwater. The fine clays of this area are brought to the local towns to make pottery.">
+    <Components>
+      <Village id="village_comp_A3_2" village_type="VillageType.desert_horse_ranch" hearth="131" gate_rotation="0.008" bound="Settlement.town_A3" background_crop_position="0.141" background_mesh="menu_aserai_village_4" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="aserai_village_e" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_A2_4" name="{=CE_NV_AS16}Uhqaah" posX="686.626" posY="216.030" culture="Culture.aserai" text="{=Settlements.Settlement.text.castle_village_A8_1}Uhqaah sits in a small depression as the narrow plain by the Bahr al-Yeshm lake rises to meet the ridges of the Jejara Escarpment. Clay can be gathered from the local wadis.">
+    <Components>
+      <Village id="village_comp_A2_1" village_type="VillageType.clay_mine" hearth="352" gate_rotation="0.008" bound="Settlement.town_A2" background_crop_position="0.141" background_mesh="menu_aserai_village_4" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="aserai_village_e" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="town_A11" name="{=CE_NT_AS4}Nikrish" owner="Faction.clan_aserai_1" posX="350.29" posY="75.49" culture="Culture.aserai" prosperity="3000" gate_posX="347.59" gate_posY="76.04">
+    <Components>
+      <Town id="town_comp_A11" is_castle="false" level="1" background_crop_position="0.401" background_mesh="menu_aserai_4" wait_mesh="wait_aserai_town" gate_rotation="0.408" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.town_complex">
+      <Location id="center" scene_name="aserai_town_c" scene_name_1="aserai_town_c" scene_name_2="aserai_town_c" scene_name_3="aserai_town_c" />
+      <Location id="arena" scene_name="arena_aserai_a" />
+      <Location id="tavern" scene_name="aserai_tavern_interior" />
+      <Location id="lordshall" scene_name_1="aserai_castle_keep_a_l1_interior" scene_name_2="aserai_castle_keep_a_l2_interior" scene_name_3="aserai_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="aserai_dungeon_a" />
+      <Location id="house_1" scene_name="arabian_house_new_a_interior_a_house" />
+      <Location id="house_2" scene_name="arabian_house_new_a_interior_a_house" />
+      <Location id="house_3" scene_name="arabian_house_new_a_interior_a_house" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
+      <Area type="Clearing" name="{=LWHIVshb}Clearing" />
+      <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_A11_1" name="{=CE_NV_AS17}Krajic" posX="345.511" posY="102.695" culture="Culture.aserai" text="{=CE_NV_INFO_AS17}Krajic sits in the rocky edges of the Jebal Tamar hills. The surrounding lands, though dry, produce enough grass in the spring to allow the breeding of horses.">
+    <Components>
+      <Village id="village_comp_A11_1" village_type="VillageType.silver_mine" hearth="375" bound="Settlement.town_A11" background_crop_position="0.308" background_mesh="menu_aserai_village_3" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="aserai_village_l" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_A11_2" name="{=CE_NV_AS18}Poltanas" posX="352.109" posY="88.446" culture="Culture.aserai" text="{=CE_NV_INFO_AS18}Poltanas sits far upstream on the Damar river, not far from its source in the Tair mountains. As the first source of water a traveller coming across the desert would encounter, it is a major source of the spices brought from the lands to the east.">
+    <Components>
+      <Village id="village_comp_A11_2" village_type="VillageType.date_farm" hearth="258" gate_rotation="0.508" bound="Settlement.town_A11" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="aserai_village_i" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_A11_3" name="{=CE_NV_AS19}Livaigi" posX="361.170" posY="62.510" culture="Culture.aserai" text="{=CE_NV_INFO_AS19}Livaigi sits far upstream on the Damar river, not far from its source in the Tair mountains. As the first source of water a traveller coming across the desert would encounter, it is a major source of the spices brought from the lands to the east.">
+    <Components>
+      <Village id="village_comp_A11_3" village_type="VillageType.wheat_farm" hearth="258" gate_rotation="0.508" bound="Settlement.town_A11" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="aserai_village_i" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_A11_4" name="{=CE_NV_AS20}Anachia" posX="367.03" posY="71.94" culture="Culture.aserai" text="{=CE_NV_INFO_AS20}Anachia sits far upstream on the Damar river, not far from its source in the Tair mountains. As the first source of water a traveller coming across the desert would encounter, it is a major source of the spices brought from the lands to the east.">
+    <Components>
+      <Village id="village_comp_A11_4" village_type="VillageType.wheat_farm" hearth="258" gate_rotation="0.508" bound="Settlement.town_A11" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="aserai_village_i" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="castle_A10" name="{=CE_NC_AS1}Koilhal Castle" owner="Faction.clan_aserai_5" posX="320.697" posY="133.253" culture="Culture.aserai" prosperity="610" gate_posX="319.5014" gate_posY="132.4677">
+    <Components>
+      <Town id="castle_comp_A10" is_castle="true" level="3" background_crop_position="0.0" background_mesh="menu_aserai_3" wait_mesh="wait_aserai_town" gate_rotation="0.908" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="aserai_castle_002" scene_name_1="aserai_castle_002" scene_name_2="aserai_castle_002" scene_name_3="aserai_castle_002" />
+      <Location id="lordshall" scene_name_1="aserai_castle_keep_a_l1_interior" scene_name_2="aserai_castle_keep_a_l2_interior" scene_name_3="aserai_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="aserai_dungeon_a" />
+    </Locations>
+  </Settlement>
+  <Settlement id="castle_village_A10_1" name="{=CE_NV_AS21}Gerdal" posX="324.465" posY="145.533" culture="Culture.aserai" text="{=CE_NV_INFO_AS21}The oasis of Gerdal lies in a depression in the plateau east of the Bahr al-Yeshm. The farmland is bountiful but limited, and the land is best known for the horses that are grazed on the desert's short-lived but rich spring grasses.">
+    <Components>
+      <Village id="castle_village_comp_A10_1" village_type="VillageType.desert_horse_ranch" hearth="202" gate_rotation="0.008" bound="Settlement.castle_A10" background_crop_position="0.141" background_mesh="menu_aserai_village_4" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="aserai_village_e" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="castle_A11" name="{=CE_NC_AS2}Drovraz Castle" owner="Faction.clan_aserai_5" posX="443.289" posY="63.970" culture="Culture.aserai" prosperity="610" gate_posX="441.9299" gate_posY="64.18314">
+    <Components>
+      <Town id="castle_comp_A11" is_castle="true" level="3" background_crop_position="0.0" background_mesh="menu_aserai_3" wait_mesh="wait_aserai_town" gate_rotation="0.908" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="aserai_castle_002" scene_name_1="aserai_castle_002" scene_name_2="aserai_castle_002" scene_name_3="aserai_castle_002" />
+      <Location id="lordshall" scene_name_1="aserai_castle_keep_a_l1_interior" scene_name_2="aserai_castle_keep_a_l2_interior" scene_name_3="aserai_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="aserai_dungeon_a" />
+    </Locations>
+  </Settlement>
+  <Settlement id="castle_village_A11_1" name="{=CE_NV_AS22}Pella" posX="447.709" posY="57.442" culture="Culture.aserai" text="{=CE_NV_INFO_AS22}The oasis of Pella lies in a depression in the plateau east of the Bahr al-Yeshm. The farmland is bountiful but limited, and the land is best known for the horses that are grazed on the desert's short-lived but rich spring grasses.">
+    <Components>
+      <Village id="castle_village_comp_A11_1" village_type="VillageType.desert_horse_ranch" hearth="202" gate_rotation="0.008" bound="Settlement.castle_A11" background_crop_position="0.141" background_mesh="menu_aserai_village_4" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="aserai_village_e" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="castle_village_A11_2" name="{=CE_NV_AS23}Trikrus" posX="454.097" posY="67.606" culture="Culture.aserai" text="{=CE_NV_INFO_AS23}Trikrus sits in the edge of the Jebal Tarba, a series of mesas carved by ancient rivers. Pockets of groundwater, trapped by the shifting faults, water groves of date palms.">
+    <Components>
+      <Village id="castle_village_comp_A11_2" village_type="VillageType.date_farm" hearth="540" bound="Settlement.castle_A11" background_crop_position="0.308" background_mesh="menu_aserai_village_3" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="aserai_village_e" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="town_A12" name="{=CE_NT_AS5}Pionitas" owner="Faction.clan_aserai_8" posX="676.472" posY="78.477" culture="Culture.aserai" prosperity="3200" gate_posX="675.9432" gate_posY="76.20741">
+    <Components>
+      <Town id="town_comp_A12" is_castle="false" level="2" background_crop_position="0.179" background_mesh="menu_aserai_3" wait_mesh="wait_aserai_town" gate_rotation="0.908" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.town_complex">
+      <Location id="center" scene_name="aserai_town_b" scene_name_1="aserai_town_b" scene_name_2="aserai_town_b" scene_name_3="aserai_town_b" />
+      <Location id="arena" scene_name="arena_aserai_a" />
+      <Location id="tavern" scene_name="aserai_tavern_interior" />
+      <Location id="lordshall" scene_name_1="aserai_castle_keep_a_l1_interior" scene_name_2="aserai_castle_keep_a_l2_interior" scene_name_3="aserai_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="aserai_dungeon_a" />
+      <Location id="house_1" scene_name="arabian_house_new_a_interior_a_house" />
+      <Location id="house_2" scene_name="arabian_house_new_a_interior_a_house" />
+      <Location id="house_3" scene_name="arabian_house_new_a_interior_a_house" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
+      <Area type="Clearing" name="{=LWHIVshb}Clearing" />
+      <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_A12_1" name="{=CE_NV_AS24}Maihal" posX="693.596" posY="68.912" culture="Culture.aserai" text="{=CE_NV_INFO_AS24}Maihal sits in the rocky edges of the Jebal Tamar hills. The surrounding lands, though dry, produce enough grass in the spring to allow the breeding of horses.">
+    <Components>
+      <Village id="village_comp_A12_1" village_type="VillageType.desert_horse_ranch" hearth="375" bound="Settlement.town_A12" background_crop_position="0.308" background_mesh="menu_aserai_village_3" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="aserai_village_i" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_A12_2" name="{=CE_NV_AS25}Gernila" posX="651.961" posY="77.520" culture="Culture.aserai" text="{=CE_NV_INFO_AS25}Gernila is a village on the right bank of the Damar River, which waters the arid south. The river widens and slows near the lake, and can be used to irrigate fine crops of wheat.">
+    <Components>
+      <Village id="village_comp_A12_2" village_type="VillageType.wheat_farm" hearth="477" bound="Settlement.town_A12" background_crop_position="0.145" background_mesh="menu_aserai_village_2" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="aserai_village_e" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_A12_3" name="{=CE_NV_AS26}Bier Haoul" posX="663.002" posY="86.621" culture="Culture.aserai" text="{=CE_NV_INFO_AS26}Bier Haoul sits just inland of the Gulf of Charas. Prevailing easterly winds from the desert means that the land grows dry quickly, but this allows the cultivation of aromatic berries ground up for spices.">
+    <Components>
+      <Village id="village_comp_A12_3" village_type="VillageType.sheep_farm" hearth="235" bound="Settlement.town_A12" background_crop_position="0.308" background_mesh="menu_aserai_village_3" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="aserai_village_e" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="town_A13" name="{=CE_NT_AS6}Kapudere" owner="Faction.clan_aserai_2" posX="672.220" posY="163.283" culture="Culture.aserai" prosperity="3200" gate_posX="673.0613" gate_posY="161.6141">
+    <Components>
+      <Town id="town_comp_A13" is_castle="false" level="2" background_crop_position="0.179" background_mesh="menu_aserai_3" wait_mesh="wait_aserai_town" gate_rotation="0.908" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.town_complex">
+      <Location id="center" scene_name="aserai_town_b" scene_name_1="aserai_town_b" scene_name_2="aserai_town_b" scene_name_3="aserai_town_b" />
+      <Location id="arena" scene_name="arena_aserai_a" />
+      <Location id="tavern" scene_name="aserai_tavern_interior" />
+      <Location id="lordshall" scene_name_1="aserai_castle_keep_a_l1_interior" scene_name_2="aserai_castle_keep_a_l2_interior" scene_name_3="aserai_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="aserai_dungeon_a" />
+      <Location id="house_1" scene_name="arabian_house_new_a_interior_a_house" />
+      <Location id="house_2" scene_name="arabian_house_new_a_interior_a_house" />
+      <Location id="house_3" scene_name="arabian_house_new_a_interior_a_house" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
+      <Area type="Clearing" name="{=LWHIVshb}Clearing" />
+      <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_A13_1" name="{=CE_NV_AS27}Edikuyu" posX="690.623" posY="149.687" culture="Culture.aserai" text="{=CE_NV_INFO_AS27}Edikuyu sits in the rocky edges of the Jebal Tamar hills. The surrounding lands, though dry, produce enough grass in the spring to allow the breeding of horses.">
+    <Components>
+      <Village id="village_comp_A13_1" village_type="VillageType.fisherman" hearth="375" bound="Settlement.town_A13" background_crop_position="0.308" background_mesh="menu_aserai_village_3" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="aserai_village_i" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_A13_2" name="{=CE_NV_AS28}Kamkli" posX="660.762" posY="159.054" culture="Culture.aserai" text="{=CE_NV_INFO_AS28}Kamkli is a village on the right bank of the Damar River, which waters the arid south. The river widens and slows near the lake, and can be used to irrigate fine crops of wheat.">
+    <Components>
+      <Village id="village_comp_A13_2" village_type="VillageType.wheat_farm" hearth="477" bound="Settlement.town_A13" background_crop_position="0.145" background_mesh="menu_aserai_village_2" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="aserai_village_e" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_A13_3" name="{=CE_NV_AS29}Musanas" posX="654.150" posY="175.690" culture="Culture.aserai" text="{=CE_NV_INFO_AS29}Musanas sits just inland of the Gulf of Charas. Prevailing easterly winds from the desert means that the land grows dry quickly, but this allows the cultivation of aromatic berries ground up for spices.">
+    <Components>
+      <Village id="village_comp_A13_3" village_type="VillageType.lumberjack" hearth="235" bound="Settlement.town_A13" background_crop_position="0.308" background_mesh="menu_aserai_village_3" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="aserai_village_e" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="castle_A12" name="{=CE_NC_AS3}Damsrak Castle" owner="Faction.clan_aserai_5" posX="639.59" posY="249.08" culture="Culture.aserai" prosperity="610" gate_posX="640.98" gate_posY="249.35">
+    <Components>
+      <Town id="castle_comp_A12" is_castle="true" level="3" background_crop_position="0.0" background_mesh="menu_aserai_3" wait_mesh="wait_aserai_town" gate_rotation="0.908" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="aserai_castle_002" scene_name_1="aserai_castle_002" scene_name_2="aserai_castle_002" scene_name_3="aserai_castle_002" />
+      <Location id="lordshall" scene_name_1="aserai_castle_keep_a_l1_interior" scene_name_2="aserai_castle_keep_a_l2_interior" scene_name_3="aserai_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="aserai_dungeon_a" />
+    </Locations>
+  </Settlement>
+  <Settlement id="castle_village_A12_1" name="{=CE_NV_AS30}Pinlek" posX="641.773" posY="241.670" culture="Culture.aserai" text="{=CE_NV_INFO_AS30}The oasis of Pinlek lies in a depression in the plateau east of the Bahr al-Yeshm. The farmland is bountiful but limited, and the land is best known for the horses that are grazed on the desert's short-lived but rich spring grasses.">
+    <Components>
+      <Village id="castle_village_comp_A12_1" village_type="VillageType.silk_plant" hearth="202" gate_rotation="0.008" bound="Settlement.castle_A12" background_crop_position="0.141" background_mesh="menu_aserai_village_4" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="aserai_village_e" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="castle_village_A12_2" name="{=CE_NV_AS31}Kirkanli" posX="626.377" posY="234.478" culture="Culture.aserai" text="{=CE_NV_INFO_AS31}Kirkanli sits in the edge of the Jebal Tarba, a series of mesas carved by ancient rivers. Pockets of groundwater, trapped by the shifting faults, water groves of date palms.">
+    <Components>
+      <Village id="castle_village_comp_A12_2" village_type="VillageType.date_farm" hearth="540" bound="Settlement.castle_A12" background_crop_position="0.308" background_mesh="menu_aserai_village_3" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="aserai_village_e" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="castle_village_K1_3" name="{=CE_NV_KZ1}Usek" posX="690.54" posY="441.721" culture="Culture.khuzait" text="{=CE_NV_INFO_KZ1}The village of Usek and its surrounding hamlets lie at the center of the Devseg plateau, prime grazing lands for the flocks of the Khuzaits and their confederates.">
+    <Components>
+      <Village id="village_comp_K5_1" village_type="VillageType.wheat_farm" hearth="121" gate_rotation="0.508" bound="Settlement.town_K5" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_battania" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_i" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="castle_village_K5_3" name="{=CE_NV_KZ4}Omrotok" posX="764.184" posY="455.996" culture="Culture.khuzait" text="{=CE_NV_INFO_KZ4}Omrotok and its outlying hamlets lie in a nook of hills on the edge of the Devseg plateau, and are known for the fine clay that can be gathered from their streambeds.">
+    <Components>
+      <Village id="village_comp_K4_1" village_type="VillageType.lumberjack" hearth="463" gate_rotation="0.508" bound="Settlement.town_K4" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_battania" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_i" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="castle_village_K2_3" name="{=CE_NV_KZ6}Kiraz" posX="725.944" posY="390.208" culture="Culture.khuzait" text="{=CE_NV_INFO_KZ6}Kiraz is the center of a rural district on the eastern edge of the Devseg plateau, where rain can be trapped in the many shallow valleys and wheat can be grown.">
+    <Components>
+      <Village id="village_comp_K2_3" village_type="VillageType.sheep_farm" hearth="272" bound="Settlement.town_K2" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_a" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_K2_5" name="{=CE_NV_KZ7}Rokamil" posX="740.972" posY="362.119" culture="Culture.khuzait" text="{=CE_NV_INFO_KZ7}Rokamil sits in a valley amid the jagged hills that rise north of the Asacys rivers. Its foresters harvest timbers and other goods from the northern woods.">
+    <Components>
+      <Village id="village_comp_K2_4" village_type="VillageType.lumberjack" hearth="470" gate_rotation="0.508" bound="Settlement.town_K2" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_l" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="castle_K10" name="{=CE_NC_KZ1}Tsogeel Castle" owner="Faction.clan_khuzait_8" posX="717.886" posY="268.96" culture="Culture.khuzait" prosperity="530" gate_posX="718.9913" gate_posY="270.4958">
+    <Components>
+      <Town id="castle_comp_K10" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.908" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="khuzait_castle_siege_001" scene_name_1="khuzait_castle_siege_001" scene_name_2="khuzait_castle_siege_001" scene_name_3="khuzait_castle_siege_001" />
+      <Location id="lordshall" scene_name_1="khuzait_castle_keep_a_l1_interior" scene_name_2="khuzait_castle_keep_a_l2_interior" scene_name_3="khuzait_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="khuzait_dungeon_a" />
+    </Locations>
+  </Settlement>
+  <Settlement id="castle_village_K10_1" name="{=CE_NV_KZ10}Tsogeel" posX="726.422" posY="262.432" culture="Culture.khuzait" text="{=CE_NV_INFO_KZ10}Tsogeel and its outlying hamlets lie beneath a rocky ridge on the western edge of the Devseg plateau, in some of the steppe peoples' most prized grazing grounds.">
+    <Components>
+      <Village id="castle_village_comp_K10_1" village_type="VillageType.wheat_farm" hearth="670" gate_rotation="0.508" bound="Settlement.castle_K10" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_battania" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_i" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="castle_village_K10_2" name="{=CE_NV_KZ11}Khureeman" posX="726.192" posY="275.298" culture="Culture.khuzait" text="{=CE_NV_INFO_KZ11}Khureeman lies on the eastern side of Mount Iltan, a volcanic massif that marks the boundaries between the Sturgian and Khuzait lands. The highland pastures are good for grazing, though winters here are harsh.">
+    <Components>
+      <Village id="castle_village_comp_K10_2" village_type="VillageType.cattle_farm" hearth="177" gate_rotation="0.508" bound="Settlement.castle_K10" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_battania" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_i" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="castle_K11" name="{=CE_NC_KZ2}Kamkhul Castle" owner="Faction.clan_khuzait_4" posX="691.548" posY="362.284" culture="Culture.khuzait" prosperity="480" gate_posX="690.7394" gate_posY="364.3052">
+    <Components>
+      <Town id="castle_comp_K11" is_castle="true" level="2" background_crop_position="0.0" background_mesh="gui_bg_castle_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.908" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="khuzait_castle_siege_001" scene_name_1="khuzait_castle_siege_001" scene_name_2="khuzait_castle_siege_001" scene_name_3="khuzait_castle_siege_001" />
+      <Location id="lordshall" scene_name_1="khuzait_castle_keep_a_l1_interior" scene_name_2="khuzait_castle_keep_a_l2_interior" scene_name_3="khuzait_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="khuzait_dungeon_a" />
+    </Locations>
+  </Settlement>
+  <Settlement id="castle_village_K2_4" name="{=CE_NV_KZ12}Kamshar" posX="677.361" posY="384.641" culture="Culture.khuzait" text="{=CE_NV_INFO_KZ12}Kamshar sits in the rocky hills near the headwaters of the River Vithys. Seams of iron ore can be found in the limestone ravines cut by the highland streams.">
+    <Components>
+      <Village id="castle_village_comp_K11_1" village_type="VillageType.salt_mine" hearth="194" gate_rotation="0.508" bound="Settlement.castle_K11" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_i" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="castle_village_K11_2" name="{=CE_NV_KZ13}Mazuak" posX="684.399" posY="371.485" culture="Culture.khuzait" text="{=CE_NV_INFO_KZ13}The village of Mazuak sits atop a pass over the Akkan hills. Many of its inhabitants live off the clay that can be gathered from nearby streambeds.">
+    <Components>
+      <Village id="castle_village_comp_K11_2" village_type="VillageType.wheat_farm" hearth="121" gate_rotation="0.508" bound="Settlement.castle_K11" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_battania" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_l" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="town_K7" name="{=CE_NT_KZ1}Altangan" owner="Faction.clan_khuzait_3" posX="804.220" posY="395.873" culture="Culture.khuzait" prosperity="3700" gate_posX="797.9578" gate_posY="395.8453">
+    <Components>
+      <Town id="town_comp_K7" is_castle="false" level="2" background_crop_position="0.0" background_mesh="gui_bg_town_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.008" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.town_complex">
+      <Location id="center" scene_name="khuzait_city_a" scene_name_1="khuzait_city_a" scene_name_2="khuzait_city_a" scene_name_3="khuzait_city_a" />
+      <Location id="arena" scene_name="arena_khuzait_a" />
+      <Location id="tavern" scene_name="khuzait_tavern_a" />
+      <Location id="lordshall" scene_name_1="khuzait_castle_keep_a_l1_interior" scene_name_2="khuzait_castle_keep_a_l2_interior" scene_name_3="khuzait_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="khuzait_dungeon_a" />
+      <Location id="house_1" scene_name="khuzait_house_c_interior_a_house" />
+      <Location id="house_2" scene_name="khuzait_house_c_interior_a_house" />
+      <Location id="house_3" scene_name="khuzait_house_c_interior_a_house" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
+      <Area type="Clearing" name="{=LWHIVshb}Clearing" />
+      <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_K7_1" name="{=CE_NV_KZ14}Urdgmal" posX="810.045" posY="382.433" culture="Culture.khuzait" text="{=CE_NV_INFO_KZ14}Urdgmal sits in a valley amid the jagged hills that rise north of the Asacys rivers. Its foresters harvest timbers and other goods from the northern woods.">
+    <Components>
+      <Village id="village_comp_K7_1" village_type="VillageType.lumberjack" hearth="470" gate_rotation="0.508" bound="Settlement.town_K7" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_l" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_K7_2" name="{=CE_NV_KZ15}Khukher" posX="800.084" posY="411.982" culture="Culture.khuzait" text="{=CE_NV_INFO_KZ15}Khukher lies near the northernmost part of Calradia where it is still possible to grow grain. Although the local barley makes for a tougher, drier bread than more southerly crops, horses thrive on it, especially the sturdy steppe breeds.">
+    <Components>
+      <Village id="village_comp_K7_2" village_type="VillageType.steppe_horse_ranch" hearth="108" bound="Settlement.town_K7" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_l" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_K7_3" name="{=CE_NV_KZ19}Taoslan" posX="787.811" posY="402.335" culture="Culture.khuzait" text="{=CE_NV_INFO_KZ19}Taoslan sits in dry hills overlooking the valley of the River Vithys. Rich seams of iron ore can be found where the streams cut through the shale and limestone bedrock.">
+    <Components>
+      <Village id="village_comp_K7_3" village_type="VillageType.sheep_farm" hearth="204" bound="Settlement.town_K7" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_l" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="town_K8" name="{=CE_NT_KZ2}Khuovai" owner="Faction.clan_khuzait_3" posX="743.26" posY="299.95" culture="Culture.khuzait" prosperity="1700" gate_posX="738.42" gate_posY="302.23">
+    <Components>
+      <Town id="town_comp_K8" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.008" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.town_complex">
+      <Location id="center" scene_name="khuzait_city_a" scene_name_1="khuzait_city_a" scene_name_2="khuzait_city_a" scene_name_3="khuzait_city_a" />
+      <Location id="arena" scene_name="arena_khuzait_a" />
+      <Location id="tavern" scene_name="khuzait_tavern_a" />
+      <Location id="lordshall" scene_name_1="khuzait_castle_keep_a_l1_interior" scene_name_2="khuzait_castle_keep_a_l2_interior" scene_name_3="khuzait_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="khuzait_dungeon_a" />
+      <Location id="house_1" scene_name="khuzait_house_c_interior_a_house" />
+      <Location id="house_2" scene_name="khuzait_house_c_interior_a_house" />
+      <Location id="house_3" scene_name="khuzait_house_c_interior_a_house" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
+      <Area type="Clearing" name="{=LWHIVshb}Clearing" />
+      <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_K8_1" name="{=CE_NV_KZ16}Turglar" posX="759.420" posY="287.640" culture="Culture.khuzait" text="{=CE_NV_KZ16}Turglar sits in a valley amid the jagged hills that rise north of the Asacys rivers. Its foresters harvest timbers and other goods from the northern woods.">
+    <Components>
+      <Village id="village_comp_K8_1" village_type="VillageType.lumberjack" hearth="470" gate_rotation="0.508" bound="Settlement.town_K8" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_l" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_K8_2" name="{=CE_NV_KZ17}Chikyant" posX="734.73" posY="289.22" culture="Culture.khuzait" text="{=CE_NV_INFO_KZ17}Chikyant lies near the northernmost part of Calradia where it is still possible to grow grain. Although the local barley makes for a tougher, drier bread than more southerly crops, horses thrive on it, especially the sturdy steppe breeds.">
+    <Components>
+      <Village id="village_comp_K8_2" village_type="VillageType.steppe_horse_ranch" hearth="108" bound="Settlement.town_K8" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_l" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  <Settlement id="village_K8_3" name="{=CE_NV_KZ18}Khushuut" posX="729.37" posY="309.15" culture="Culture.khuzait" text="{=CE_NV_INFO_KZ18}Khushuut sits in dry hills overlooking the valley of the River Vithys. Rich seams of iron ore can be found where the streams cut through the shale and limestone bedrock.">
+    <Components>
+      <Village id="village_comp_K8_3" village_type="VillageType.sheep_farm" hearth="204" bound="Settlement.town_K8" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_l" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+</Settlements>
