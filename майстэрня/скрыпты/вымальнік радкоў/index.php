@@ -58,7 +58,7 @@ function add_string_to_global_array($attribute)
 
 function form_text_string($attribute)
 {
-    $chunks = explode('}', $attribute);
+    $chunks = explode('}', $attribute, 2);
 
     $string = new stdClass;
     $string->id = trim($chunks[0], '{=');
