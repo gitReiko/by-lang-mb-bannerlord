@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+
+
+
+  <strings>
+    <string id="str.str_culture_description.nordling" text="" />
+    <string id="str.str_culture_description.vagir" text="" />
+    <string id="str.str_culture_description.rhodok" text="" />
+    <string id="str.str_culture_description.apolssalian" text="" />
+    <string id="str.str_culture_description.lyrion" text="" />
+    <string id="str.str_culture_description.rebkhu" text="" />
+    <string id="str.str_culture_description.paleician" text="" />
+    <string id="str.str_culture_description.republic" text="" />
+    <string id="str.str_culture_rich_name.nordling" text="Nordlinh" />
+    <string id="str.str_culture_rich_name.vagir" text="Vahir" />
+    <string id="str.str_culture_rich_name.rhodok" text="Rodak" />
+    <string id="str.str_culture_rich_name.apolssalian" text="Apołselija" />
+    <string id="str.str_culture_rich_name.lyrion" text="Liryja" />
+    <string id="str.str_culture_rich_name.rebkhu" text="Paŭstałyja Chuzaity" />
+    <string id="str.str_culture_rich_name.paleician" text="Palijcyja" />
+    <string id="str.str_culture_rich_name.republic" text="Respublika" />
+    <string id="str.str_faction_official.nordling" text="jarł" />
+    <string id="str.str_faction_official.nordling_f" text="jarł" />
+    <string id="str.str_faction_ruler.nordling" text="Konunh" />
+    <string id="str.str_faction_ruler.nordling_f" text="Konunh" />
+    <string id="str.str_faction_ruler_term_in_speech.nordlings" text="{?RULER.GENDER}Konunh{?}Konunh{\?} {RULER.NAME}" />
+    <string id="str.str_adjective_for_faction.nordlings" text="Nordlinh" />
+    <string id="str.str_short_term_for_faction.nordlings" text="Nordlinh" />
+    <string id="str.str_faction_formal_name_for_culture.nordlings" text="Nordlinhskaje Konunhctva" />
+    <string id="str.str_neutral_term_for_culture.nordling" text="Nordlinh" />
+    <string id="str.str_player_brother_name.nordling" text="Nozan" />
+    <string id="str.str_player_father_name.nordling" text="Bołdzim" />
+    <string id="str.str_player_mother_name.nordling" text="Tarja" />
+    <string id="str.str_player_little_brother_name.nordling" text="Fodar" />
+    <string id="str.str_player_little_sister_name.nordling" text="Ališka" />
+    <string id="str.str_faction_official.vagir" text="kniaź" />
+    <string id="str.str_faction_official.vagir_f" text="kniažna" />
+    <string id="str.str_faction_ruler.vagir" text="Vialiki Kniaź" />
+    <string id="str.str_faction_ruler.vagir_f" text="Vialikaja Kniažna" />
+    <string id="str.str_faction_ruler_term_in_speech.vagir" text="{?RULER.GENDER}Vialikaja Kniažna{?}Vialiki Kniaź{\?} {RULER.NAME}" />
+    <string id="str.str_adjective_for_faction.vagir" text="Vahir" />
+    <string id="str.str_short_term_for_faction.vagir" text="Vahir" />
+    <string id="str.str_faction_formal_name_for_culture.vagir" text="Vahirskaje Kniastva" />
+    <string id="str.str_neutral_term_for_culture.vagir" text="Vahir" />
+    <string id="str.str_player_brother_name.vagir" text="Nozan" />
+    <string id="str.str_player_father_name.vagir" text="Bołdzim" />
+    <string id="str.str_player_mother_name.vagir" text="Tarja" />
+    <string id="str.str_player_little_brother_name.vagir" text="Fodar" />
+    <string id="str.str_player_little_sister_name.vagir" text="Ališka" />
+    <string id="str.str_faction_official.rhodok" text="baron" />
+    <string id="str.str_faction_official.rhodok_f" text="baranesa" />
+    <string id="str.str_faction_ruler.rhodok" text="Karol" />
+    <string id="str.str_faction_ruler.rhodok_f" text="Karaleva" />
+    <string id="str.str_faction_ruler_term_in_speech.royalist_vlandia" text="{?RULER.GENDER}Karaleva{?}Karol{\?} {RULER.NAME}" />
+    <string id="str.str_adjective_for_faction.royalist_vlandia" text="Rajalisty" />
+    <string id="str.str_short_term_for_faction.royalist_vlandia" text="Rajalisty" />
+    <string id="str.str_faction_formal_name_for_culture.royalist_vlandia" text="Vłandyjskaje Rajalistva" />
+    <string id="str.str_neutral_term_for_culture.rhodok" text="Vłandyjskaje Rajalistva" />
+    <string id="str.str_player_brother_name.rhodok" text="Nohand" />
+    <string id="str.str_player_father_name.rhodok" text="Bołdrym" />
+    <string id="str.str_player_mother_name.rhodok" text="Terta" />
+    <string id="str.str_player_little_brother_name.rhodok" text="Varyk" />
+    <string id="str.str_player_little_sister_name.rhodok" text="Alda" />
+    <string id="str.str_faction_official.apolssalian" text="ankas" />
+    <string id="str.str_faction_official.apolssalian_f" text="ankas" />
+    <string id="str.str_faction_ruler.apolssalian" text="Pozis" />
+    <string id="str.str_faction_ruler.apolssalian_f" text="Pozis" />
+    <string id="str.str_faction_ruler_term_in_speech.apolssaly" text="{?RULER.GENDER}Pozis{?}Pozis{\?} {RULER.NAME}" />
+    <string id="str.str_adjective_for_faction.apolssalian" text="Esieraj" />
+    <string id="str.str_short_term_for_faction.apolssalian" text="Esieraj" />
+    <string id="str.str_faction_formal_name_for_culture.apolssalian" text="Apołselski Sułtanat" />
+    <string id="str.str_neutral_term_for_culture.apolssalian" text="Apołselija" />
+    <string id="str.str_player_brother_name.apolssalian" text="Nejdžyn" />
+    <string id="str.str_player_father_name.apolssalian" text="Baładzir" />
+    <string id="str.str_player_mother_name.apolssalian" text="Tajra" />
+    <string id="str.str_player_little_brother_name.apolssalian" text="Facid" />
+    <string id="str.str_player_little_sister_name.apolssalian" text="Alija" />
+    <string id="str.str_faction_official.lyrion" text="ebry" />
+    <string id="str.str_faction_official.lyrion_f" text="ebry" />
+    <string id="str.str_faction_ruler.lyrion" text="Lukumo" />
+    <string id="str.str_faction_ruler.lyrion_f" text="Lukumo" />
+    <string id="str.str_faction_ruler_term_in_speech.lyrion" text="{?RULER.GENDER}Lukumo{?}Lukumo{\?} {RULER.NAME}" />
+    <string id="str.str_adjective_for_faction.lyrion" text="Liryja" />
+    <string id="str.str_short_term_for_faction.lyrion" text="Liryja" />
+    <string id="str.str_faction_formal_name_for_culture.lyrion" text="Liryjskaje Lukumstva" />
+    <string id="str.str_neutral_term_for_culture.lyrion" text="Liryja" />
+    <string id="str.str_player_brother_name.lyrion" text="Nejdžyn" />
+    <string id="str.str_player_father_name.lyrion" text="Baładzir" />
+    <string id="str.str_player_mother_name.lyrion" text="Tajra" />
+    <string id="str.str_player_little_brother_name.lyrion" text="Facid" />
+    <string id="str.str_player_little_sister_name.lyrion" text="Alija" />
+    <string id="str.str_faction_official.rebkhu" text="bieh" />
+    <string id="str.str_faction_official.rebkhu_f" text="biehum" />
+    <string id="str.str_faction_ruler.rebkhu" text="Chan" />
+    <string id="str.str_faction_ruler.rebkhu_f" text="Chatun" />
+    <string id="str.str_faction_ruler_term_in_speech.rebkhu" text="{?RULER.GENDER}Chatun{?}Chan{\?}{RULER.NAME}" />
+    <string id="str.str_adjective_for_faction.rebkhu" text="Paŭstałyja Chuzaity" />
+    <string id="str.str_short_term_for_faction.rebkhu" text="Paŭstałyja Chuzaity" />
+    <string id="str.str_faction_formal_name_for_culture.rebkhu" text="Chuzaitskaje Paŭstanctva" />
+    <string id="str.str_neutral_term_for_culture.rebkhu" text="Paŭstałyja Chuzaity" />
+    <string id="str.str_player_brother_name.rebkhu" text="Nusun" />
+    <string id="str.str_player_father_name.rebkhu" text="Bandan" />
+    <string id="str.str_player_mother_name.rebkhu" text="Terte" />
+    <string id="str.str_player_little_brother_name.rebkhu" text="Džatu" />
+    <string id="str.str_player_little_sister_name.rebkhu" text="Alta" />
+    <string id="str.str_faction_official.paleician" text="hiercah" />
+    <string id="str.str_faction_official.paleician_f" text="hiercahinia" />
+    <string id="str.str_faction_ruler.paleician" text="Impieratar" />
+    <string id="str.str_faction_ruler.paleician_f" text="Impieratryca" />
+    <string id="str.str_faction_ruler_term_in_speech.paleician" text="{?RULER.GENDER}Impieratryca{?}Impieratar{\?} {RULER.NAME}" />
+    <string id="str.str_adjective_for_faction.paleician" text="Palijcyja" />
+    <string id="str.str_short_term_for_faction.paleician" text="Palijcyja" />
+    <string id="str.str_faction_formal_name_for_culture.paleician" text="Palijckaja Impieryja" />
+    <string id="str.str_neutral_term_for_culture.paleician" text="Palijcyja" />
+    <string id="str.str_player_brother_name.paleician" text="Netanas" />
+    <string id="str.str_player_father_name.paleician" text="Bołdzimas" />
+    <string id="str.str_player_mother_name.paleician" text="Cyryja" />
+    <string id="str.str_player_little_brother_name.paleician" text="Fejsas" />
+    <string id="str.str_player_little_sister_name.paleician" text="Elija" />
+    <string id="str.str_faction_official.republic" text="mahistrat" />
+    <string id="str.str_faction_official.republic_f" text="mahistratka" />
+    <string id="str.str_faction_ruler.republic" text="Konsuł" />
+    <string id="str.str_faction_ruler.republic_f" text="Konsułka" />
+    <string id="str.str_faction_ruler_term_in_speech.republic" text="{?RULER.GENDER}Konsułka{?}Konsuł{\?} {RULER.NAME}" />
+    <string id="str.str_adjective_for_faction.republic" text="Respublika" />
+    <string id="str.str_short_term_for_faction.republic" text="Respublika" />
+    <string id="str.str_faction_formal_name_for_culture.republic" text="Kalradyjskaja Respublika" />
+    <string id="str.str_neutral_term_for_culture.republic" text="Respublika" />
+    <string id="str.str_player_brother_name.republic" text="Netanas" />
+    <string id="str.str_player_father_name.republic" text="Bołdzimas" />
+    <string id="str.str_player_mother_name.republic" text="Cyryja" />
+    <string id="str.str_player_little_brother_name.republic" text="Fejsas" />
+    <string id="str.str_player_little_sister_name.republic" text="Elija" />
+    <string id="str.str_culture_description.nordling" text="Nordlinhi - vychadcy z hłuchich paŭnočnych ziemlaŭ, sapraŭdnyja majstry bitvaŭ i nabiehaŭ u chałodnaje nadvorje. Peŭny čas nordlinhi dapamahali sturhijcam zachoplivać i rabavać ziemli. Adnak zaraz jany stamilisia ad nyccia svaich chaŭrusnikaŭ. Rahańvad zjaŭlajecca naščadkam nordlinhaŭ. Jon paabiacaŭ nordlinham stać paŭnapraŭnym haspadarom hetych ziemlaŭ i zaraz imkniecca pazbavicca ad słabych sturhijskich kniazioŭ i rušyć u inšyja ziemli dla novych zavajoŭ." />
+    <string id="str.str_culture_description.vagir" text="Vahiry - heta sumieś paŭnočnikaŭ Sturhii i niezadavolenych battanijcaŭ. Hetaje pierakryžavannie kulturaŭ zrabiła ich mocnymi i tryvałymi, zdolnymi z lohkasciu pieraadolvać hustyja sniehapady i hłuchija lasy. Zdajecca, pakul ich susiedzi majuć namier vajavać adzin z adnym, jany spadziajucca, što heta dasć im čas umacavacca i padrychtavacca da prychodu vajny ŭ maładoje haspadarstva." />
+    <string id="str.str_culture_description.rhodok" text="Vłandyjcy - naščadki avanturystaŭ z zachadu, jakija stahoddziami žyli pad uładaj Impieryi, pierš čym sfarmavać niezaležnaje karaleŭstva. Z zaniapadam impierskaj ułady jany pieratvarylisia ŭ dobra arhanizavanaje fieadalnaje hramadstva, uznačalenaje kastaj vajaŭničych šlachcičaŭ, jakija addajuć pieravahu vajnie dzidami na koniach i piešym." />
+    <string id="str.str_culture_description.apolssalian" text="Apołselcy pryjšli z poŭdnia. Jany vajujuć dobra arhanizavanymi fałanhami kapijnikaŭ pry padtrymcy chutkaj vieršnicy. Apołselcy vałodajuć dobrymi inžyniernymi viedami, a kłas handlaroŭ aščadny i praniklivy. Hetaje spałučennie pryvodzić da dobraha zabiaspiečennia haspadarstva. Chacia isnuje niejkaja scisnutasć u srodkach, kali sprava dachodzić da razdačy zołata." />
+    <string id="str.str_culture_description.lyrion" text="Liryjcy prybyli z paŭdniova-ŭschodnich ziemlaŭ i imkliva zavajavali esierajaŭ. Dziakujučy majsterskim strałkam i dobra ŭzbrojenaj šlachcie ich zmiašanaja taktyka zdabyła vierch nad handlarami pustelni Nachasa." />
+    <string id="str.str_culture_description.rebkhu" text="Paŭstałyja chuzaity poŭnyja rašučasci zasialać svaje ziemli i baranić ichnija miežy. Kab ažyciavić hetaje, jany imknucca chutka atrymać prasunutyja inžyniernyja viedy. Zjaŭlajučysia ŭ kulturnym spryčynienni majsterskimi vieršnikami i histaryčnymi kačeŭnikami, ich lidary prasoŭvajuć svaju kulturu napierad u intelektualnym płanie, što pryvodzić da nieadnaznačnych vynikaŭ." />
+    <string id="str.str_culture_description.paleician" text="Karenny narod Kalradyi, palijcy, na praciahu mnohich stahoddziaŭ pryhnietaŭsia i vykarystoŭvaŭsia jak druhi hatunak amal usimi inšymi haspadarstvami hetaha kraja, ale nie ciapier. Palijcy skarystalisia chaosam vajny i paŭstali, kab zajavić svaje pravy na Kalradyju. Jany zabrali bolšuju častku zbroi i brani ŭ zrynutych vłandyjcaŭ dy chutka sprabujuć zacvierdzicca ŭ jakasci sapraŭdnych haspadaroŭ hetaha kraja." />
+    <string id="str.str_culture_description.republic" text="Kalradyjskaja Respublika kirujecca narodam dla naroda. Dla hetaha abirajucca sienatary i słužboŭcy, jakija adkazvajuć pierad abranym kanhresam. Chacia hetaja biurakratyja zapavolvaje pryniaccie častki pastanovaŭ, jana pryvodzić da ŭzrostu pačuccia słužennia i abaviazku siarod nasielnictva." />
+    <string id="str.str_culture_description.ariorum" text="" />
+    <string id="str.str_culture_rich_name.nordling" text="Nordlinh" />
+    <string id="str.str_culture_rich_name.vagir" text="Vahir" />
+    <string id="str.str_culture_rich_name.rhodok" text="Rajalist" />
+    <string id="str.str_culture_rich_name.apolssalian" text="Apołselija" />
+    <string id="str.str_culture_rich_name.lyrion" text="Liryja" />
+    <string id="str.str_culture_rich_name.rebkhu" text="Paŭstałyja Chuzaity" />
+    <string id="str.str_culture_rich_name.paleician" text="Palijcyja" />
+    <string id="str.str_culture_rich_name.republic" text="Respublika" />
+    <string id="str.str_culture_rich_name.ariorum" text="Respublika" />
+    <string id="str.str_faction_official.nordling" text="jarł" />
+    <string id="str.str_faction_official.nordling_f" text="jarł" />
+    <string id="str.str_faction_ruler.nordling" text="Konunh" />
+    <string id="str.str_faction_ruler.nordling_f" text="Konunh" />
+    <string id="str.str_faction_ruler_term_in_speech.nordlings" text="{?RULER.GENDER}Konunh{?}Konunh{\?} {RULER.NAME}" />
+    <string id="str.str_adjective_for_faction.nordlings" text="Nordlinh" />
+    <string id="str.str_short_term_for_faction.nordlings" text="Nordlinh" />
+    <string id="str.str_faction_formal_name_for_culture.nordlings" text="Nordlinhskaje Konunhctva" />
+    <string id="str.str_neutral_term_for_culture.nordling" text="Nordlinh" />
+    <string id="str.str_player_brother_name.nordling" text="Nozan" />
+    <string id="str.str_player_father_name.nordling" text="Bołdzim" />
+    <string id="str.str_player_mother_name.nordling" text="Tarja" />
+    <string id="str.str_player_little_brother_name.nordling" text="Fodar" />
+    <string id="str.str_player_little_sister_name.nordling" text="Ališka" />
+    <string id="str.str_faction_official.vagir" text="kniaź" />
+    <string id="str.str_faction_official.vagir_f" text="kniažna" />
+    <string id="str.str_faction_ruler.vagir" text="Vialiki Kniaź" />
+    <string id="str.str_faction_ruler.vagir_f" text="Vialikaja Kniažna" />
+    <string id="str.str_faction_ruler_term_in_speech.vagir" text="{?RULER.GENDER}Vialikaja Kniažna{?}Vialiki Kniaź{\?} {RULER.NAME}" />
+    <string id="str.str_adjective_for_faction.vagir" text="Vahir" />
+    <string id="str.str_short_term_for_faction.vagir" text="Vahir" />
+    <string id="str.str_faction_formal_name_for_culture.vagir" text="Vahirskaje Kniastva" />
+    <string id="str.str_neutral_term_for_culture.vagir" text="Vahir" />
+    <string id="str.str_player_brother_name.vagir" text="Nozan" />
+    <string id="str.str_player_father_name.vagir" text="Bołdzim" />
+    <string id="str.str_player_mother_name.vagir" text="Tarja" />
+    <string id="str.str_player_little_brother_name.vagir" text="Fodar" />
+    <string id="str.str_player_little_sister_name.vagir" text="Ališka" />
+    <string id="str.str_faction_official.rhodok" text="baron" />
+    <string id="str.str_faction_official.rhodok_f" text="baranesa" />
+    <string id="str.str_faction_ruler.rhodok" text="Karol" />
+    <string id="str.str_faction_ruler.rhodok_f" text="Karaleva" />
+    <string id="str.str_faction_ruler_term_in_speech.rhodok" text="{?RULER.GENDER}Karaleva{?}Karol{\?} {RULER.NAME}" />
+    <string id="str.str_adjective_for_faction.royalist_vlandia" text="Rajalisty" />
+    <string id="str.str_short_term_for_faction.royalist_vlandia" text="Rajalisty" />
+    <string id="str.str_faction_formal_name_for_culture.royalist_vlandia" text="Vłandyjskaje Rajalistva" />
+    <string id="str.str_neutral_term_for_culture.rhodok" text="Vłandyjskaje Rajalistva" />
+    <string id="str.str_player_brother_name.rhodok" text="Nohand" />
+    <string id="str.str_player_father_name.rhodok" text="Bołdrym" />
+    <string id="str.str_player_mother_name.rhodok" text="Terta" />
+    <string id="str.str_player_little_brother_name.rhodok" text="Varyk" />
+    <string id="str.str_player_little_sister_name.rhodok" text="Alda" />
+    <string id="str.str_faction_official.apolssalian" text="ankas" />
+    <string id="str.str_faction_official.apolssalian_f" text="ankas" />
+    <string id="str.str_faction_ruler.apolssalian" text="Pozis" />
+    <string id="str.str_faction_ruler.apolssalian_f" text="Pozis" />
+    <string id="str.str_faction_ruler_term_in_speech.apolssalian" text="{?RULER.GENDER}Pozis{?}Pozis{\?} {RULER.NAME}" />
+    <string id="str.str_adjective_for_faction.apolssalian" text="Apołselija" />
+    <string id="str.str_short_term_for_faction.apolssalian" text="Apołselija" />
+    <string id="str.str_faction_formal_name_for_culture.apolssalian" text="Apołselskaja Liha" />
+    <string id="str.str_neutral_term_for_culture.apolssalian" text="Apołselija" />
+    <string id="str.str_player_brother_name.apolssalian" text="Nejdžyn" />
+    <string id="str.str_player_father_name.apolssalian" text="Baładzir" />
+    <string id="str.str_player_mother_name.apolssalian" text="Tajra" />
+    <string id="str.str_player_little_brother_name.apolssalian" text="Facid" />
+    <string id="str.str_player_little_sister_name.apolssalian" text="Alija" />
+    <string id="str.str_faction_official.lyrion" text="ebry" />
+    <string id="str.str_faction_official.lyrion_f" text="ebry" />
+    <string id="str.str_faction_ruler.lyrion" text="Lukumo" />
+    <string id="str.str_faction_ruler.lyrion_f" text="Lukumo" />
+    <string id="str.str_faction_ruler_term_in_speech.lyrion" text="{?RULER.GENDER}Lukumo{?}Lukumo{\?} {RULER.NAME}" />
+    <string id="str.str_adjective_for_faction.lyrion" text="Liryja" />
+    <string id="str.str_short_term_for_faction.lyrion" text="Liryja" />
+    <string id="str.str_faction_formal_name_for_culture.lyrion" text="Liryjskaje Lukumstva" />
+    <string id="str.str_neutral_term_for_culture.lyrion" text="Liryja" />
+    <string id="str.str_player_brother_name.lyrion" text="Nejdžyn" />
+    <string id="str.str_player_father_name.lyrion" text="Baładzir" />
+    <string id="str.str_player_mother_name.lyrion" text="Tajra" />
+    <string id="str.str_player_little_brother_name.lyrion" text="Facid" />
+    <string id="str.str_player_little_sister_name.lyrion" text="Alija" />
+    <string id="str.str_faction_official.rebkhu" text="bieh" />
+    <string id="str.str_faction_official.rebkhu_f" text="biehum" />
+    <string id="str.str_faction_ruler.rebkhu" text="Chan" />
+    <string id="str.str_faction_ruler.rebkhu_f" text="Chatun" />
+    <string id="str.str_faction_ruler_term_in_speech.rebkhu" text="{?RULER.GENDER}Chatun{?}Chan{\?}{RULER.NAME}" />
+    <string id="str.str_adjective_for_faction.rebkhu" text="Paŭstałyja Chuzaity" />
+    <string id="str.str_short_term_for_faction.rebkhu" text="Paŭstałyja Chuzaity" />
+    <string id="str.str_faction_formal_name_for_culture.rebkhu" text="Chuzaitskaje Paŭstanctva" />
+    <string id="str.str_neutral_term_for_culture.rebkhu" text="Paŭstanctva" />
+    <string id="str.str_player_brother_name.rebkhu" text="Nusun" />
+    <string id="str.str_player_father_name.rebkhu" text="Bandan" />
+    <string id="str.str_player_mother_name.rebkhu" text="Terte" />
+    <string id="str.str_player_little_brother_name.rebkhu" text="Džatu" />
+    <string id="str.str_player_little_sister_name.rebkhu" text="Alta" />
+    <string id="str.str_faction_official.paleician" text="hiercah" />
+    <string id="str.str_faction_official.paleician_f" text="hiercahinia" />
+    <string id="str.str_faction_ruler.paleician" text="Impieratar" />
+    <string id="str.str_faction_ruler.paleician_f" text="Impieratryca" />
+    <string id="str.str_faction_ruler_term_in_speech.paleician" text="{?RULER.GENDER}Impieratryca{?}Impieratar{\?} {RULER.NAME}" />
+    <string id="str.str_adjective_for_faction.paleician" text="Palijcyja" />
+    <string id="str.str_short_term_for_faction.paleician" text="Palijcyja" />
+    <string id="str.str_faction_formal_name_for_culture.paleician" text="Palijckaja Impieryja" />
+    <string id="str.str_neutral_term_for_culture.paleician" text="Palijcyja" />
+    <string id="str.str_player_brother_name.paleician" text="Netanas" />
+    <string id="str.str_player_father_name.paleician" text="Bołdzimas" />
+    <string id="str.str_player_mother_name.paleician" text="Cyryja" />
+    <string id="str.str_player_little_brother_name.paleician" text="Fejsas" />
+    <string id="str.str_player_little_sister_name.paleician" text="Elija" />
+    <string id="str.str_faction_official.republic" text="mahistrat" />
+    <string id="str.str_faction_official.republic_f" text="mahistratka" />
+    <string id="str.str_faction_ruler.republic" text="Konsuł" />
+    <string id="str.str_faction_ruler.republic_f" text="Konsułka" />
+    <string id="str.str_faction_ruler_term_in_speech.republic" text="{?RULER.GENDER}Konsułka{?}Konsuł{\?} {RULER.NAME}" />
+    <string id="str.str_adjective_for_faction.republic" text="Respublika" />
+    <string id="str.str_short_term_for_faction.republic" text="Respublika" />
+    <string id="str.str_faction_formal_name_for_culture.republic" text="Kalradyjskaja Respublika" />
+    <string id="str.str_neutral_term_for_culture.republic" text="Respublika" />
+    <string id="str.str_player_brother_name.republic" text="Netanas" />
+    <string id="str.str_player_father_name.republic" text="Bołdzimas" />
+    <string id="str.str_player_mother_name.republic" text="Cyryja" />
+    <string id="str.str_player_little_brother_name.republic" text="Fejsas" />
+    <string id="str.str_player_little_sister_name.republic" text="Elija" />
+    <string id="str.str_faction_official.ariorum" text="sevi" />
+    <string id="str.str_faction_official.ariorum_f" text="sevi" />
+    <string id="str.str_faction_ruler.ariorum" text="Hiercoh" />
+    <string id="str.str_faction_ruler.ariorum_f" text="Hiercahinia" />
+    <string id="str.str_faction_ruler_term_in_speech.ariorum" text="{?RULER.GENDER}Hiercahinia{?}Hiercoh{\?} {RULER.NAME}" />
+    <string id="str.str_adjective_for_faction.ariorum" text="Aryjorum" />
+    <string id="str.str_short_term_for_faction.ariorum" text="Aryjorum" />
+    <string id="str.str_faction_formal_name_for_culture.ariorum" text="Aryjorumskaje Handlovaje Hiercahstva" />
+    <string id="str.str_neutral_term_for_culture.ariorum" text="Aryjorum" />
+    <string id="str.str_player_brother_name.ariorum" text="Netanas" />
+    <string id="str.str_player_father_name.ariorum" text="Bołdzimas" />
+    <string id="str.str_player_mother_name.ariorum" text="Cyryja" />
+    <string id="str.str_player_little_brother_name.ariorum" text="Fejsas" />
+    <string id="str.str_player_little_sister_name.ariorum" text="Elija" />
+  </strings>
+</base>
