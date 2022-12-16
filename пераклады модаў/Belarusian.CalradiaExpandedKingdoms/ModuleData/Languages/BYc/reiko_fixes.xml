@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
     <strings>
+
+        <!-- aserai.xml -->
+        <string id="npc.aserai_camel_recruit" text="Эсерайскі Вярблюджы Наезнік " />
+
+        <!-- bandits.xml -->
         <string id="npc.looter" text="Рабаўнік " />
         <string id="npc.pillager" text="Грабежнік " />
         <string id="npc.deserter" text="Дэзертыр " />
@@ -26,5 +31,39 @@
         <string id="npc.forest_bandits_boss" text="Верхавод Лясных Бандытаў " />
         <string id="npc.desert_bandits_boss" text="Верхавод Пустэльных Бандытаў " />
         <string id="npc.steppe_bandits_boss" text="Верхавод Стэпавых Бандытаў " />
+
+        <!-- battania.xml -->
+        <string id="npc.retinue_battanian_2" text="Баттанійскі Фіан-Рыёга " />
+        <string id="npc.highlander_mercenary_2" text="Горны Найміт-Застрэльнік " />
+        <string id="npc.highlander_mercenary_3" text="Горны Найміт-Дротыкар " />
+        <string id="npc.highlander_mercenary_4" text="Горны Найміт-Ветэран " />
+
+        <!-- caravans.xml -->
+        <string id="vkuJeNSa" text="Вландыйскі Лучнік-Ратнік " />
+        <string id="DNIa6a5p" text="Вландыйскі Лучнік-Ратнік Ветэран " />
+
+        <!-- khuzait.xml -->
+        <string id="npc.eastern_mercenary_1" text="Ўсходні Найміт-Налётнік " />
+        <string id="npc.eastern_mercenary_2" text="Ўсходні Найміт Конны Лучнік " />
+        <string id="npc.eastern_mercenary_3" text="Ўсходні Найміт Цяжкі Конны Лучнік " />
+
+        <!-- npctemplates.xml -->
+        <string id="JMZiICD8" text="Вландыйскі Вясковец " />
+
+        <!-- paleician.xml -->
+        <string id="npc.paleician_mercenary_1" text="Палійцкі Найміт-Горац " />
+        <string id="npc.paleician_mercenary_2" text="Палійцкі Найміт-Гэллаглас " />
+        <string id="npc.paleician_mercenary_3" text="Палійцкі Найміт-Гэллаглач " />
+
+        <!-- rhodok.xml -->
+        <string id="npc.rhodok_scout" text="Родаскі Выведнік " />
+        <string id="npc.western_mercenary_1" text="Вландыйскі Найміт-Коннік " />
+        <string id="npc.western_mercenary_2" text="Вландыйскі Найміт-Вершнік " />
+        <string id="npc.western_mercenary_3" text="Вландыйскі Найміт-Катафракт " />
+
+        <!-- swadia.xml -->
+        <string id="npc.vlandian_trained_spearman" text="Кортэнскі Навучаны Дзіднік " />
+        <string id="npc.vlandian_spear_sergeant_new" text="Кортэнскі Сяржант-Капійнік " />
+
     </strings>
 </base>
