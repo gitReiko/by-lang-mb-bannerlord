@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="English" />
+  </tags>
+  <strings>
+    <string id="FLT0000000" text="{HERO} has been promoted to tier {TIER}" />
+	<string id="FLT0000001" text="{HERO}, you have served long enough to fulfill your enlistment.  You can honorably retire and keep your gear, but I have need for talented soldiers.  I will offer you a bonus of 25000 {COIN} if you are willing to re-enlist." />
+	<string id="FLT0000002" text="I will re-enlist." />
+	<string id="FLT0000003" text="I will retire." />
+	<string id="FLT0000004" text="{HERO}, you have shown yourself to be a warrior with no equal.  Hundreds of my enemies have died by your hands.  I need people like you in my kingdom.  I am willing to make you a vassal of my realm.  I will give you a generous bonus if you agree." />
+	<string id="FLT0000005" text="I will grant you the settlement of {FIEF} as your personal fief as a reward for your service." />
+	<string id="FLT0000006" text="My place is as a soldier on the battlefield." />
+	<string id="FLT0000007" text="Talk to me again if you change your mind." />
+    <string id="FLT0000008" text="It would be an honor to serve you my liege." />
+	<string id="FLT0000009" text="I will grant you a sum of 500000 {COIN} as a reward for your service." />
+	<string id="FLT0000010" text="{HERO}, I received a message from {KING}, the leader of our kingdom.  {KING_GENDER_PRONOUN} would like to speak with you personally about offering you a lordship in our kingdom.  You have the permission to leave my warband." />
+	<string id="FLT0000011" text="I would rather stay here." />
+	<string id="FLT0000012" text="I will take my leave then." />
+	<string id="FLT0000013" text="{HERO}, you have proven yourself to be a fine warrior.  For your bravery and loyalty, I have decided to give you a promotion.  Visit my bladesmith and armourer in the camp and they will provide you with the gear befitting your new rank." />
+	<string id="FLT0000014" text="It is an honor my lord." />
+	<string id="FLT0000015" text="I want to serve in your warband as a soldier." />
+	<string id="FLT0000016" text="There is no way I would let a wanted criminal like you join my ranks." />
+	<string id="FLT0000017" text="I don't want you in my warband. You and I don't get along." />
+	<string id="FLT0000018" text="About that lordship you offered me..." />
+	<string id="FLT0000019" text="{HERO}, you have shown yourself to be a warrior with no equal.  Hundreds of my enemies have died by your hands.  I need people like you in my kingdom." />
+	<string id="FLT0000020" text="It would be an honor to serve you my liege." />
+	<string id="FLT0000021" text="I changed my mind." />
+	<string id="FLT0000022" text="I will grant you the settlement of " />
+	<string id="FLT0000023" text=" as your personal fief as a reward for your service." />
+	<string id="FLT0000024" text="I will grant you a sum of 500000 {COIN} as a reward for your service." />
+	<string id="FLT0000025" text="Sure, you may join." />
+	<string id="FLT0000026" text="{HERO} has enlisted at tier {TIER} due to high reputation with the {FACTION}" />
+	<string id="FLT0000027" text="Change Equipment" />
+	<string id="FLT0000028" text="Train with the troops" />
+	<string id="FLT0000029" text="Not enough men or uninjured men in lord's party" />
+	<string id="FLT0000030" text="Battle Commands : All" />
+	<string id="FLT0000031" text="Commands for all formations will be shouted during battle\nClick to toggle" />
+	<string id="FLT0000032" text="Battle Commands : Player Formation Only" />
+	<string id="FLT0000033" text="Commands for only the player's formation will be shouted during battle\nClick to toggle" />
+	<string id="FLT0000034" text="Participate in tournament" />
+	<string id="FLT0000035" text="Show reputation with factions" />
+	<string id="FLT0000036" text="Ask commander for leave" />
+	<string id="FLT0000037" text="Ask for a different assignment" />
+	<string id="FLT0000038" text="Lure bandits into ambush" />
+	<string id="FLT0000039" text="A small group of bandits is way too nimble to catch normally.  The only way to catch them is to trick them into attacking, although there is a chance things could go wrong." />
+	<string id="FLT0000040" text="You need to be mounted to do this" />
+	<string id="FLT0000041" text="You are wounded" />
+    <string id="FLT0000042" text="The bandits did not fall for your trap." />
+	<string id="FLT0000043" text="You took some minor injuries while being chased by bandits." />
+	<string id="FLT0000044" text="Abandon Party" />
+	<string id="FLT0000045" text="This will damage your reputation with the {FACTION}" />
+	<string id="FLT0000046" text="Are you sure you want to abandon the party?  This will harm your relations with the entire faction." />
+	<string id="FLT0000047" text="Yes" />
+	<string id="FLT0000048" text="No" />
+	<string id="FLT0000049" text="Back" />
+	<string id="FLT0000050" text="{HERO}, I heard you are not happy with your current assignment.  What to would you rather do instead?" />
+	<string id="FLT0000051" text="Would this bag of {GOLD}{COIN} gold change your mind?" />
+	<string id="FLT0000052" text="Okay, you can do that." />
+	<string id="FLT0000053" text="I want to do manual labor." />
+	<string id="FLT0000054" text="I want to do guard duty." />
+	<string id="FLT0000055" text="I want to prepare the meals." />
+	<string id="FLT0000056" text="I want to forage for supplies." />
+	<string id="FLT0000057" text="I want to drill the troops." />
+	<string id="FLT0000058" text="Sure thing, friend." />
+	<string id="FLT0000059" text="Of course, you are the perfect person for the job." />
+	<string id="FLT0000060" text="Sorry, but I don't think you have the skills for the job." />
+	<string id="FLT0000061" text="Alright, thank you. Farewell." />
+	<string id="FLT0000062" text="You made a very persuasive argument. Fine, you can be one of my sergeants." />
+	<string id="FLT0000063" text="I want to lead the scouting expeditions." />
+	<string id="FLT0000064" text="You made a very persuasive argument. Fine, you can lead my scouts." />
+	<string id="FLT0000065" text="I want manage logistics." />
+	<string id="FLT0000066" text="You made a very persuasive argument. Fine, you can be my quartermaster." />
+	<string id="FLT0000067" text="I want to build war machines." />
+	<string id="FLT0000068" text="You made a very persuasive argument. Fine, you can be an engineer." />
+	<string id="FLT0000069" text="I want to take care of the wounded." />
+	<string id="FLT0000070" text="You made a very persuasive argument. Fine, you can be a surgeon." />
+	<string id="FLT0000071" text="I want to discuss war strategies." />
+	<string id="FLT0000072" text="You made a very persuasive argument. Fine, you can be my strategist." />
+	<string id="FLT0000073" text="{HERO}, your enlistment contract has not expired yet.  I can not have my soldiers leaving whenever they feel like it." />
+	<string id="FLT0000074" text="You are right my lord.  I will return to my duties." />
+	<string id="FLT0000075" text="I do need the money... Fine, you may leave." />
+	<string id="FLT0000076" text="Select equipment to use" />
+    <string id="FLT0000077" text="Continue" />
+	<string id="FLT0000078" text="Camping" />
+	<string id="FLT0000079" text="Holding" />
+	<string id="FLT0000080" text="Engaging {TARGET_PARTY}" />
+	<string id="FLT0000081" text="Chasing {TARGET_PARTY}" />
+	<string id="FLT0000082" text="Running from {TARGET_PARTY}" />
+	<string id="FLT0000083" text="Running from {TARGET_PARTY} to settlement" />
+	<string id="FLT0000084" text="Defending {TARGET_SETTLEMENT}" />
+	<string id="FLT0000085" text="Raiding {TARGET_SETTLEMENT}" />
+	<string id="FLT0000086" text="Besieging {TARGET_SETTLEMENT}" />
+	<string id="FLT0000087" text="Patrolling around {TARGET_SETTLEMENT}" />
+	<string id="FLT0000088" text="Patrolling" />
+	<string id="FLT0000089" text="Travelling" />
+    <string id="FLT0000090" text="Gathering Army" />
+	<string id="FLT0000091" text="Running to {TARGET_PARTY}" />
+	<string id="FLT0000092" text="Travelling to {TARGET_PARTY}" />
+	<string id="FLT0000093" text="Travelling to a settlement" />
+	<string id="FLT0000094" text="Attacking {TARGET_SETTLEMENT}" />
+	<string id="FLT0000095" text="Following {TARGET_PARTY}" />
+	<string id="FLT0000096" text="Unknown Behavior" />
+	<string id="FLT0000097" text="Horse Archer" />
+	<string id="FLT0000098" text="Cavalry" />
+	<string id="FLT0000099" text="Ranged" />
+	<string id="FLT0000100" text="Infantry" />
+	<string id="FLT0000101" text="Party Objective" />
+	<string id="FLT0000102" text="Army Objective" />
+	<string id="FLT0000103" text="Enlistment Time" />
+	<string id="FLT0000104" text="Enlistment Tier" />
+	<string id="FLT0000105" text="Formation" />
+	<string id="FLT0000106" text="Wage" />
+	<string id="FLT0000107" text="Current Experience" />
+	<string id="FLT0000108" text="Next Level Experience" />
+	<string id="FLT0000109" text="When not fighting" />
+	<string id="FLT0000110" text="You are currently assigned to perform grunt work.  Most tasks are unpleasant, tiring or involve menial labor. (Passive Daily Athletics XP)" />
+	<string id="FLT0000111" text="You are currently assigned to guard duty.  You spend many sleepless nights keeping watch for signs of intruders. (Passive Daily Scouting XP)" />
+	<string id="FLT0000112" text="You are currently assigned as one of the cooks.  You prepare the camp meals with whatever limited ingredients available. (Passive Daily Steward XP)" />
+	<string id="FLT0000113" text="You are currently assigned to forage.  You ride through the nearby countryside looking for food. (Passive Daily Riding XP and Daily Food To Party)" />
+	<string id="FLT0000114" text="You are currently assigned as the surgeon. You spend your time taking care of the wounded men. (Medicine XP from party)" />
+	<string id="FLT0000115" text="You are currently assigned as the engineer.  The party relies on your knowledge of siegecraft to build war machines. (Engineering XP from party)" />
+	<string id="FLT0000116" text="You are currently assigned to quartermaster. You make sure that the party is well supplied and the troops get paid on time. (Steward XP from party)" />
+	<string id="FLT0000117" text="You are currently assigned to lead the scouting parties.  You and your men spend their time looking for signs of enemy parties and easy passages through difficult terrain. (Scouting XP from party)" />
+	<string id="FLT0000118" text="You are currently assigned as one of the sergeants.  You drill the men for war and discipline anyone who steps out of line. (Passive Daily Leadership XP and Daily XP To Troops In Party)" />
+	<string id="FLT0000119" text="You are currently assigned as the strategist.  You spend your time in the commander's tent discussing war plans. (Tactics XP from party)" />
+	<string id="FLT0000120" text="You have no current assigned duties.  You spend your idle time drinking, gambling, and chatting with the idle soldiers." />
+	<string id="FLT0000121" text="I'm here to teach you miserable maggots how to fight, so you better listen up and do everything I say!" />
+	<string id="FLT0000122" text="Control the recruits and gain enough xp through dueling to be able to upgrade them and complete the mission." />
+	<string id="FLT0000123" text="You will fail the mission if all recruits get knocked out before getting enough xp." />
+	<string id="FLT0000124" text="Recruits left" />
+	<string id="FLT0000125" text="Training Completed" />
+	<string id="FLT0000126" text="Training progress" />
+	<string id="FLT0000127" text="Can not leave before training finishes!" />
+	<string id="FLT0000128" text="The men need time to rest and recover.  There is no one left to fight" />
+	<string id="FLT0000129" text="I should stop before I seriously injury myself" />
+	<string id="FLT0000130" text="You win, I give up!" />
+	<string id="FLT0000131" text="Ouch that really hurt, I'm done!" />
+	<string id="FLT0000132" text="You just got lucky, I will beat you next time!" />
+	<string id="FLT0000133" text="I am going to be sore in the morning!" />
+	<string id="FLT0000134" text="Well fought, friend!" />
+	<string id="FLT0000135" text="I shouldn't have agreed to this!" />
+	<string id="FLT0000136" text="Ahhh! I think that broke a bone!" />
+	<string id="FLT0000137" text="I didn't expect training weapons to hurt this much!" />
+	<string id="FLT0000138" text="No fair, you cheated!" />
+	<string id="FLT0000139" text="I yield!" />
+	<string id="FLT0000140" text="Infantry" />
+	<string id="FLT0000141" text="Archers" />
+	<string id="FLT0000142" text="Cavalry" />
+	<string id="FLT0000143" text="Horse archers" />
+	<string id="FLT0000144" text="Skirmishers" />
+	<string id="FLT0000145" text="Heavy infantry" />
+	<string id="FLT0000146" text="Light cavalry" />
+	<string id="FLT0000147" text="Heavy cavalry" />
+	<string id="FLT0000148" text="{HERO}, You have done well, the recruits can actual hold their own now. [rf:very_positive_hi, rb:very_positive]" />
+	<string id="FLT0000149" text="Just doing my job!" />
+	<string id="FLT0000150" text="{HERO} I expected better from you! [rf:very_positive_ag, rb:very_positive]" />
+	<string id="FLT0000151" text="I am sorry my lord." />
+	<string id="FLT0000152" text="{HERO} I have a task for you!  I have a bunch of new recruits that won't be of much use in a battle.  I need you to train them and get them caught up to the rest of the army.  You can make use of the sparring equipment at the arena to train. [rf:very_positive_ag, rb:very_positive]" />
+	<string id="FLT0000153" text="Of course my lord!" />
+	<string id="FLT0000154" text="I can't turn a bunch of peasants into soldiers overnight, only the trials of many battles can do that." />
+	<string id="FLT0000155" text="Thank you {HERO}, You saved my bussiness![rf:very_positive_hi, rb:very_positive]" />
+	<string id="FLT0000156" text="{HERO} are you okay?[rf:unsure_hi, rb:unsure]" />
+	<string id="FLT0000157" text="I'm fine. I'm sorry I let the thugs escape" />.
+	<string id="FLT0000158" text="Don't feel bad, the thugs had you outnumbered.  You had no chance against that many.  The commotion from that fight drew the attention of every guard in town.  The thugs had to flee so fast that the weren't able to take any of my merchandise with them." />
+	<string id="FLT0000159" text="Glad I could help." />
+	<string id="FLT0000160" text="Guards! Guards!  {ROBBER}'s thugs are stealing all of the goods from my shop!  Come quick before they get away![rf:very_negative_hi, rb:very_negative]" />
+	<string id="FLT0000161" text="I am a soldier, not a guard!  This is none of my business!" />
+	<string id="FLT0000162" text="{RIVAL_GANG_LEADER}'s Party" />
+	<string id="FLT0000163" text="A few of the men from your party found your body and brought it back to the camp." />
+	<string id="FLT0000164" text="Well done {HERO}, here is the money I promised you![rf:very_positive_hi, rb:very_positive]" />
+	<string id="FLT0000165" text="You want to make some quick gold?  I got a problem with a upstart by the name of {RIVAL}.  {GENDER_PRONOUN} has been bothering shop owners under our protection, demanding money and making threats. Let me tell you something - those shop owners are my cows, and no one else gets to milk them.  Me and my boys are eager to teach them a lesson but I figure some extra muscle wouldn't hurt." />
+	<string id="FLT0000166" text="Quick gold you say, sign me up!" />
+	<string id="FLT0000167" text="I don't want any part in this." />
+	<string id="FLT0000168" text="Men!  Ready you weapons!  I warned these poacher scum never to come back here again!   [rf:very_negative_hi, rb:very_negative]" />
+	<string id="FLT0000169" text="Time to teach those bastards a lesson!" />
+	<string id="FLT0000170" text="Thank you so much for protecting our village![rf:very_positive_hi, rb:very_positive]" />
+	<string id="FLT0000171" text="Men!  We will be staying in this village for a while.  The locals have told me a band of army deserters have been extorting the villagers.  We will hide in the houses and ambush the brigands when they show up again." />
+	<string id="FLT0000172" text="Sound the alarm!  We are under attack!  To arms men!  [rf:very_negative_hi, rb:very_negative]" />
+	<string id="FLT0000173" text="Where did they come from?" />
+	<string id="FLT0000174" text="Bandit Ambush Party" />
+	<string id="FLT0000175" text="As you walk through the ravaged village, you notice one house in particular that is covered in blood.  As you walk closer the stench of death hits your nostrils.  It become clear to you what happened here.  The stubborn yet foolish family of this house decided to stay behind and defend what little they owned.  The looting soldiers of your army had little patience for those that resisted and cut down the family where they stood." />
+	<string id="FLT0000176" text="Suddenly the sound of cries and screams catches your attention.  Someone is still inside.  As you go in to investigate, you quickly find source of the noise.  It is a child, barely older than an infant.  The soldiers that came by earlier either didn't notice or didn't have the heart to kill the child.  You realize that with all the villagers driven away, it might be days or even weeks before anyone return and you are not sure what will happen to the child by then." />
+	<string id="FLT0000177" text="Take the child with you." />
+	<string id="FLT0000178" text="Leave." />
+	<string id="FLT0000179" text="{HERO} adopted a child named {CHILD}." />
+	<string id="FLT0000180" text="Melee" />
+	<string id="FLT0000181" text="Ranged" />
+	<string id="FLT0000182" text="Cavalry" />
+	<string id="FLT0000183" text="Select training type" />
+	<string id="FLT0000184" text="Attack enemy villagers" />
+	<string id="FLT0000185" text="Ride out with the cavalry to attack enemy villagers" />
+	<string id="FLT0000186" text="The villagers managed to escape" />
+	<string id="FLT0000187" text="Cavalry Detachment" />
+	<string id="FLT0000188" text="Attack the enemy caravan" />
+	<string id="FLT0000189" text="Ride out with the cavalry to attack enemy caravan" />
+	<string id="FLT0000190" text="The caravan managed to escape" />
+	<string id="FLT0000191" text="Serving As Soldier Base" />
+	<string id="FLT0000192" text="Medicine Skill" />
+	<string id="FLT0000193" text="{HERO}, you have proven yourself to be a fine warrior.  For your bravery and loyalty, I have decided to give you a promotion.  You can serve as one of my commanders and you have the privilege of assembling your own retinue of companions and kinsmen while serving under me.  I will pay for their wages as well." />
+	<string id="FLT0000194" text="Manage Retinue" />
+	<string id="FLT0000195" text="One-handed : " />
+	<string id="FLT0000196" text="Two-handed : " />
+	<string id="FLT0000197" text="Polearm : " />
+	<string id="FLT0000198" text="Bow : " />
+	<string id="FLT0000199" text="Crossbow : " />
+	<string id="FLT0000200" text="Throwing : " />
+	<string id="FLT0000201" text="Riding : " />
+	<string id="FLT0000202" text="Athletics : " />
+	<string id="FLT0000203" text="Select companion(s) to join you" />
+	<string id="FLT0000204" text="Throwing" />
+	<string id="FLT0000205" text="Serve As Soldier : Winning tournaments while enlisted grants 50% more xp for promotions." />
+	<string id="FLT0000206" text="Serve As Soldier : Training with troops grants 50% more xp towards combat skill." />
+	<string id="FLT0000207" text="Serve As Soldier : Knock downs while training with troops grant 0.1 renown." />
+	<string id="FLT0000208" text="Serve As Soldier : Knock downs while serving as a soldier in battle grant 0.3 renown." />
+	<string id="FLT0000209" text="Serve As Soldier : Knock downs while fighting on foot in battles grant 0.3 renown." />
+	<string id="FLT0000210" text="Serve As Soldier : Wages earned increased by 20%." />
+	<string id="FLT0000211" text="Serve As Soldier : Knock downs caused by ranged damage in battles grant 0.3 renown." />
+	<string id="FLT0000212" text="Serve As Soldier : Headshots in battle generate extra skill xp." />
+	<string id="FLT0000213" text="Serve As Soldier : Crossbow shots in battle that hit from over 50 meters away generate extra skill xp." />
+	<string id="FLT0000214" text="Serve As Soldier : Crossbow shots in battle while mounted generate extra skill xp." />
+	<string id="FLT0000215" text="Serve As Soldier : Receive a 1000 gold bonus for every enemy lord knocked out in battle." />
+	<string id="FLT0000216" text="Serve As Soldier : Knock outs with throwing weapons while training with troops grants 0.2 renown." />
+	<string id="FLT0000217" text="One focus point gained in {SKILL} from training." />
+	<string id="FLT0000218" text="One attribute point gained in {ATTRIBUTE} from training." />
+	<string id="FLT0000219" text="Wait in reserve" />
+	<string id="FLT0000220" text="You are waiting in reserve" />
+	<string id="FLT0000221" text="You cant wait in reserve if there are less than 100 healthy troops in the army" />
+	<string id="FLT0000222" text="Rejoin the battle" />
+	<string id="FLT0000223" text="One focus point gained in {SKILL} from daily assignment" />
+	<string id="FLT0000224" text="One attribute point gained in {ATTRIBUTE} from daily assignment" />
+	<string id="FLT0000225" text="Press U to switch characters" />
+	<string id="FLT0000226" text="Playing as {CHARACTER}" />
+	<string id="FLT0000227" text="Press H to toggle auto-train" />
+	<string id="FLT0000228" text="Opponets defeated : {KILLS}" />
+	<string id="FLT0000229" text="{LORD} recruited {HERO}" />
+	<string id="FLT0000230" text="{HERO} is no longer employeed by the {CLAN}" />
+	<string id="FLT0000231" text="Defect to other side" />
+	<string id="FLT0000232" text="Can only serve lords part of a kingdom" />
+	<string id="FLT0000233" text="State Issued" />
+	<string id="FLT0000234" text="I can use someone like you in my retinue." />
+	<string id="FLT0000235" text="Sorry but I am happy with serving lord {LORD}." />
+	<string id="FLT0000236" text="Sorry, but you and I simply dont get along." />
+	<string id="FLT0000237" text="Sure, but I don't come cheap.  I need enough gold to pay off current enlistment contract with {LORD} and I want a bit extra leftover for myself.  In total, I need {GOLD}{COIN}." />
+	<string id="FLT0000238" text="Sure, but I don't come cheap.  In total, I need {GOLD}{COIN}." />
+	<string id="FLT0000239" text="Let's go for a round of drinks at the tavern!  I will pay!" />
+	<string id="FLT0000240" text="What exactly are you planning?  Are you trying to slip some poison in to my drink or steal my coin purse when I am passed out.  I can tell you are up to no good.  Now if you don't have anything else to say, get out of my sight." />
+	<string id="FLT0000241" text="I appreciate the offer, but if I drink anymore the commander will have my hide." />
+	<string id="FLT0000242" text="It has been ages since I gotten a decent drink!  Let's go!" />
+	<string id="FLT0000243" text="Thank you captain, but if drink anymore, I won't be able to complete my duties." />
+	<string id="FLT0000244" text="You seem injured.  Let me bandage your wounds.  I am the camp surgeon afterall." />
+	<string id="FLT0000245" text="You worthless layabout!  Where where you when - Never mind.  Hurry up and get it done already!" />
+	<string id="FLT0000246" text="Can you take look at my {BODY_PART}?.  It is in a lot of pain." />
+	<string id="FLT0000247" text="head" />
+	<string id="FLT0000248" text="arm" />
+	<string id="FLT0000249" text="neck" />
+	<string id="FLT0000250" text="chest" />
+	<string id="FLT0000251" text="leg" />
+	<string id="FLT0000252" text="foot" />
+	<string id="FLT0000253" text="hand" />
+	<string id="FLT0000254" text="back" />
+	<string id="FLT0000255" text="Join in on looting" />
+	<string id="FLT0000256" text="kill, plunder, rape- you need to download captivity events mod for that option\nThis might harm relations with other soldiers in the party who have the merciful trait." />
+	<string id="FLT0000257" text="We must defend our homes at all cost!" />
+	<string id="FLT0000258" text="You already looted this village." />
+	<string id="FLT0000259" text="Cut down these peasant swine and take anything of value!" />
+	<string id="FLT0000260" text="I better get going before all the decent loot is taken" />
+	<string id="FLT0000261" text="Please have mercy!" />
+	<string id="FLT0000262" text="Please spare the children!" />
+	<string id="FLT0000263" text="I will give you anything, please don't kill me!" />
+	<string id="FLT0000264" text="Help! Help!" />
+	<string id="FLT0000265" text="I surrender!" />
+	<string id="FLT0000266" text="Get out of our village, scum!" />
+	<string id="FLT0000267" text="Train with troops" />
+	<string id="FLT0000268" text="Do you want to end your training?" />
+	<string id="FLT0000269" text="Train recruits mission" />
+	<string id="FLT0000270" text="Leave Arena?" />
+	<string id="FLT0000271" text="Leaving before training is complete will cause you fail the mission.\nLeave Arena?" />
+	<string id="FLT0000272" text="The commander has decided to show mercy to this town" />
+	<string id="FLT0000273" text="No killing is allowed, but you can still earn a good amount of gold from taking property.\nJoining in on the looting will affect your reputation and traits." />
+	<string id="FLT0000274" text="Can I talk to someone else in your party?" />
+	<string id="FLT0000275" text="How would you like to work for me instead?  Maybe this bag of {GOLD}{COIN} will persuade you?" />
+	<string id="FLT0000276" text="How can I saw no to such a generous offer.  You have yourself a deal!" />
+	<string id="FLT0000277" text="You can not buy my loyalty with gold!" />
+	<string id="FLT0000278" text="" />
+	<string id="FLT0000279" text="" />
+  </strings>
+</base>
