@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+
+
+
+  <strings>
+    <string id="FLT0000000" text="Uzrovień {HERO} pavyšany da {TIER}" />
+	<string id="FLT0000001" text="{HERO}, vy prasłužyli dosyć, kab vykanać svoj abaviazak. Možacie z honaram pajści ŭ adstaŭku i zachavać svajo ekipijavańnie, ale ja maju patrebu ŭ talenavitych vajarach. Tamu vy atrymajecie bonus, 25000 {COIN}, kali pahodziciesia słužyć mnie dalej." />
+	<string id="FLT0000002" text="Ja budu słužyć dalej." />
+	<string id="FLT0000003" text="Ja pajdu ŭ adstaŭku." />
+	<string id="FLT0000004" text="{HERO}, vy prajavili siabie {?PLAYER.GENDER}vajarkaj, jakoj{?}vajarom, jakomu{\?} niama roŭnych. Ja maju patrebu ŭ takich ludziach, u svaim haspadarstvie. Budźcie {?PLAYER.GENDER}majoj vasałkaj{?}maim vasałam{\?}. Zrazumieła, vas čakaja ščodraja ŭznaharoda, kali vy pahodziciesia." />
+	<string id="FLT0000005" text="Va ŭznaharodu za słužbu ja daruju vam sielišča {FIEF} u jakaści vašaj asabistaj vołaści." />
+	<string id="FLT0000006" text="Majo miesca na poli boju ŭ jakaści {?PLAYER.GENDER}vajarki{?}vajara{\?}." />
+	<string id="FLT0000007" text="Pahavarycie sa mnoj, kali razdumajecie." />
+    <string id="FLT0000008" text="Dla mianie budzie honaram słužyć vam, moj haspadar." />
+	<string id="FLT0000009" text="Va ŭznaharodu za vašuju słužbu ja daruju vam 500000 {COIN}." />
+	<string id="FLT0000010" text="{HERO}, ja atrymaŭ paviedamleńnie ad {KING}, našaha haspadara. {KING_GENDER_PRONOUN} choča asabista pahavaryć z vami i prapanavać vam šlachiectva ŭ našym haspadarstvie. Vy majecie dazvoł pakinuć maju vajskovuju bandu." />
+	<string id="FLT0000011" text="Paliču za lepšaje zastacca tut." />
+	<string id="FLT0000012" text="Tady ja pajdu." />
+	<string id="FLT0000013" text="{HERO}, vy daviali, što zjaŭlajeciesia {?PLAYER.GENDER}vydatnaj vajarkaj{?}vydatnym vajarom{\?}. Za vašuju advahu i viernasć vyrašana pavysić vašy ranh. Naviedajcie maich kavala i zbrojnika ŭ łahiery, jany daduć vam ekipijavańnie, što budzie adpaviadać vašamu novamu ranhu." />
+	<string id="FLT0000014" text="Heta honar dla mianie, šlachcič." />
+	<string id="FLT0000015" text="Ja žadaju słužyć u vašaj vajskovaj bandzie ŭ jakaści {?PLAYER.GENDER}vajarki{?}vajara{\?}." />
+	<string id="FLT0000016" text="Ja nikoli nie dazvolu {?PLAYER.GENDER}złačyncy, jakuju{?}złačyncu, jakoha{\?} šukajuć, dałučycca da maich šerahaŭ." />
+	<string id="FLT0000017" text="Ja nie žadaju, kab vy byli ŭ majoj vajskovaj bandzie. My z vami majem kryŭdy." />
+	<string id="FLT0000018" text="Pra šlachiectva, jakoje vy mnie prapanoŭvali..." />
+	<string id="FLT0000019" text="{HERO}, vy prajavili siabie {?PLAYER.GENDER}vajarkaj, jakoj{?}vajarom, jakomu{\?} niama roŭnych.  Sotni maich vorahaŭ zahinuli ad vašych rukaŭ. Mnie patrebnyja takija ludzi, jak vy, u maim haspadarstvie." />
+	<string id="FLT0000020" text="Dla mianie budzie honaram słužyć vam, moj haspadar." />
+	<string id="FLT0000021" text="Ja {?PLAYER.GENDER}źmianiła{?}źmianiŭ{\?} svaje dumki." />
+	<string id="FLT0000022" text="Ja daruju vam sielišča " />
+	<string id="FLT0000023" text=" u jakaści vašaj asabistaj vołaści va ŭznaharodu za słužbu." />
+	<string id="FLT0000024" text="Va ŭznaharodu za vašuju słužbu ja daruju vam 500000 {COIN}." />
+	<string id="FLT0000025" text="Viadoma, vy možacie dałučycca." />
+	<string id="FLT0000026" text="{HERO} {?PLAYER.GENDER}pavyšana{?}pavyšany{\?} da uzroŭniu {TIER} z-za dobrych adnosinaŭ z haspadarom {FACTION}" />
+	<string id="FLT0000027" text="Źmianić ekipijavańnie" />
+	<string id="FLT0000028" text="Rychtavacca razam z vajarami" />
+	<string id="FLT0000029" text="Brakuje ludziej ci zdarovych ludziej u partyi šlachciča" />
+	<string id="FLT0000030" text="Bajavyja kamandy : Usio" />
+	<string id="FLT0000031" text="Kamandy buduć vykrykvacca dla ŭsich pabudovaŭ padčas boju{newline}Naciśnicie dla pieraklučeńnia" />
+	<string id="FLT0000032" text="Bajavyja kamandy : Tolki dla Pabudovy Hulca" />
+	<string id="FLT0000033" text="Kamandy buduć vykrykvacca tolki dla pabudovy hulca padčas boju{newline}Naciśnicie dla pieraklučeńnia" />
+	<string id="FLT0000034" text="Udzielničać u turniry" />
+	<string id="FLT0000035" text="Pakazać adnosiny z frakcyjami" />
+	<string id="FLT0000036" text="Paprasić kamandzira pra adstaŭku" />
+	<string id="FLT0000037" text="Paprasić inšuju pracu" />
+	<string id="FLT0000038" text="Pryvabić bandytaŭ u zasadu" />
+	<string id="FLT0000039" text="Maleńkaja hrupa bandytaŭ zanadta žvavaja, kab złavić ich zvyčajnym sposabam. Adziny sposab - zmanam prymusić ich napasć, chacia isnuje imaviernasć, što ŭsio moža pajści drenna." />
+	<string id="FLT0000040" text="Vam patrebien koń dla hetaha" />
+	<string id="FLT0000041" text="Vy {?PLAYER.GENDER}paraniena{?}paranieny{\?}" />
+    <string id="FLT0000042" text="Bandyty nia trapili ŭ vašuju pastku." />
+	<string id="FLT0000043" text="Vy atrymali niaznačnyja ranieńni padčas pieraśledvańnia bandytami." />
+	<string id="FLT0000044" text="Kinuć Partyju" />
+	<string id="FLT0000045" text="Heta sapsuje vašuju reputacyju z haspadarstvam {FACTION}" />
+	<string id="FLT0000046" text="Vy ŭpeŭnieny, što žadajecie kinuć partyju? Heta paškodzić vašym adnosinam z usioj frakcyjaj." />
+	<string id="FLT0000047" text="Tak" />
+	<string id="FLT0000048" text="Nie" />
+	<string id="FLT0000049" text="Nazad" />
+	<string id="FLT0000050" text="{HERO}, havorać, vy niezadavoleny svajoj ciapierašniaj pracaj. Čym vy žadajecie zajmacca zamiž?" />
+	<string id="FLT0000051" text="Ci moža hety miech zołata {GOLD}{COIN} źmianić vašuju dumku?" />
+	<string id="FLT0000052" text="Dobra, vy možacie zajmacca hetym." />
+	<string id="FLT0000053" text="Ja chaču zaniacca fizičnaj pracaj." />
+	<string id="FLT0000054" text="Ja chaču pracavać {?PLAYER.GENDER}vartaŭnicaj{?}vartaŭnikom{\?}." />
+	<string id="FLT0000055" text="Ja chaču hatavać ježu." />
+	<string id="FLT0000056" text="Ja chaču zdabyvać ježu." />
+	<string id="FLT0000057" text="Ja chaču rychtavać vajaroŭ." />
+	<string id="FLT0000058" text="Zrazumieła, siabar." />
+	<string id="FLT0000059" text="Viadoma, vy - pasujučy čałaviek dla hetaj pracy." />
+	<string id="FLT0000060" text="Prabačcie, ale ja dumaju, što vy nia majecie navykaŭ dla hetaj pracy." />
+	<string id="FLT0000061" text="Dobra, dziakuj. Darujcie." />
+	<string id="FLT0000062" text="Vy pryviali vielmi pierakanaŭčy arhumient. Vydatna, možacie stać adnym z maich siaržantaŭ." />
+	<string id="FLT0000063" text="Ja žadaju ŭznačalić ekśpiedycyi vyviednikaŭ." />
+	<string id="FLT0000064" text="Vy pryviali vielmi pierakanaŭčy arhumient. Dobra, vy možacie ŭznačalić maich vyviednikaŭ." />
+	<string id="FLT0000065" text="Ja žadaju kiravać łahistykaj." />
+	<string id="FLT0000066" text="Vy pryviali vielmi pierakanaŭčy arhumient. Dobra, vy možacie być maim kvatermajstram." />
+	<string id="FLT0000067" text="Ja žadaju budavać vajskovyja mašyny." />
+	<string id="FLT0000068" text="Vy pryviali vielmi pierakanaŭčy arhumient. Vydatna, vy možacie być inžynieram." />
+	<string id="FLT0000069" text="Ja žadaju kłapacicca pra paranienych." />
+	<string id="FLT0000070" text="Vy pryviali vielmi pierakanaŭčy arhumient. Vydatna, vy možacie być chirurham." />
+	<string id="FLT0000071" text="Ja žadaju abmiarkoŭvać vajskovyja stratehii." />
+	<string id="FLT0000072" text="Vy pryviali vielmi pierakanaŭčy arhumient. Dobra, vy možacie być maim strateham." />
+	<string id="FLT0000073" text="{HERO}, termin vašaha kantrakta dahetul nie minuŭ. Ja nie mahu dazvolić svaim vajaram sychodzić, kali im zamaniecca." />
+	<string id="FLT0000074" text="Vy majecie racyju, šlachcič. Ja viarnusia da svaich abaviazkaŭ." />
+	<string id="FLT0000075" text="Mnie patrebnyja hrošy... Dobra, možacie iści." />
+	<string id="FLT0000076" text="Abiarycie svajo ekipijavańnie" />
+    <string id="FLT0000077" text="Praciahnuć" />
+	<string id="FLT0000078" text="U łahiery" />
+	<string id="FLT0000079" text="U vołaści" />
+	<string id="FLT0000080" text="Uzajemadziejničaje z {TARGET_PARTY}" />
+	<string id="FLT0000081" text="Pieraśleduje {TARGET_PARTY}" />
+	<string id="FLT0000082" text="Uciakaje ad {TARGET_PARTY}" />
+	<string id="FLT0000083" text="Uciakaje ad {TARGET_PARTY} u sielišča" />
+	<string id="FLT0000084" text="Baronić {TARGET_SETTLEMENT}" />
+	<string id="FLT0000085" text="Rabuje {TARGET_SETTLEMENT}" />
+	<string id="FLT0000086" text="Biare ŭ abłohu {TARGET_SETTLEMENT}" />
+	<string id="FLT0000087" text="Patruluje vakoł {TARGET_SETTLEMENT}" />
+	<string id="FLT0000088" text="Patruluje" />
+	<string id="FLT0000089" text="Vandruje" />
+    <string id="FLT0000090" text="Źbiraje Vojska" />
+	<string id="FLT0000091" text="Ruchajecca da {TARGET_PARTY}" />
+	<string id="FLT0000092" text="Vandruje da {TARGET_PARTY}" />
+	<string id="FLT0000093" text="Vandruje ŭ sielišča" />
+	<string id="FLT0000094" text="Atakuje {TARGET_SETTLEMENT}" />
+	<string id="FLT0000095" text="Idzie ŭśled za {TARGET_PARTY}" />
+	<string id="FLT0000096" text="Nieviadomyja Pavodziny" />
+	<string id="FLT0000097" text="Konny Łučnik" />
+	<string id="FLT0000098" text="Vieršnica" />
+	<string id="FLT0000099" text="Daloki Boj" />
+	<string id="FLT0000100" text="Piachota" />
+	<string id="FLT0000101" text="Meta Partyi" />
+	<string id="FLT0000102" text="Meta Vojska" />
+	<string id="FLT0000103" text="Čas Słužby" />
+	<string id="FLT0000104" text="Uzrovień Słužby" />
+	<string id="FLT0000105" text="Pabudova" />
+	<string id="FLT0000106" text="Zarobak" />
+	<string id="FLT0000107" text="Ciapierašni Dośvied" />
+	<string id="FLT0000108" text="Dośvied da Nastupnaha Ŭzroŭnia" />
+	<string id="FLT0000109" text="Kali nie vajujecie" />
+	<string id="FLT0000110" text="Zaraz vy pryznačany dla vykanańnia čornaj pracy. Bolšasć zadańniaŭ niepryjemnaja, stomnaja ci datyčnaja fizičnaj pracaj. (Pasiŭny Štodzionny Dośvied u Atletycy)" />
+	<string id="FLT0000111" text="Zaraz vy pryznačany ŭ achovu. Vy pravodzicie šmat niaspanych načej, vyhladvajučy ślady parušalnikaŭ. (Pasiŭny Štodzionny Dośvied u Vyviedcy)" />
+	<string id="FLT0000112" text="Zaraz vy pryznačany adnym z kucharaŭ. Vy hatujecie ježu ŭ łahiery z usiakich dastupnych abmiežavanych inhredyjentaŭ. (Pasiŭny Štodzionny Dośvied u Zahadvańni)" />
+	<string id="FLT0000113" text="Zaraz vam daručana narychtoŭvać ježu. Vy jezdzicie pa navakolli ŭ pošukach ježy. (Pasiŭny Štodzionny Dośvied u Konnaj Jazdzie dy Štodzionnaja Ježa Partyi)" />
+	<string id="FLT0000114" text="Zaraz vy pryznačany chirurham. Vy bavicie svoj čas, dahladajučy paranienych. (Dośvied u Miedycynie ad partyi)" />
+	<string id="FLT0000115" text="Zaraz vy pryznačany inžynieram. Partyja spadziajecca na vašyja viedy abłohavaj spravy dla stvareńnia vajskovych mašynaŭ. (Dośvied u Inžynieryi ad partyi)" />
+	<string id="FLT0000116" text="Zaraz vy pryznačany kvatermajstaram. Vy sočycie za tym, kab partyja była dobra zabiaśpiečana, i vajary ŭ čas atrymlivali zarobak. (Dośvied u Zahadvańni ad partyi)" />
+	<string id="FLT0000117" text="Zaraz vam daručana ŭznačalvać vyviednyja partyi. Vy i vašyja ludzi pravodziać svoj čas u pošukach śladoŭ varožych partyj i lohkich šlachoŭ praz ciažkaprachodnuju miascovasć. (Dośvied u Vyviedcy ad partyi)" />
+	<string id="FLT0000118" text="Zaraz vy pryznačany adnym z siaržantaŭ. Vy rychtujecie ludziej da vajny i dyscyplinujecie ŭsich, chto vychodzić z šychta. (Pasiŭny Štodzionny Dośvied u Lidarstvie i Štodzionny Dośvied Vajaram Partyi)" />
+	<string id="FLT0000119" text="Zaraz vy pryznačany strateham. Vy bavicie čas u namiocie kamandzira, abmiarkoŭvajučy vajskovyja płany. (Dośvied u Taktycy ad partyi)" />
+	<string id="FLT0000120" text="Zaraz vy nia majecie nijakich abaviazkaŭ. Vy bavicie svoj čas pa-hultajsku, vypivajučy, hulajučy ŭ azartnyja hulni i hutaračy ź inšymi vajarami." />
+	<string id="FLT0000121" text="Ja tut, kab rychtavać vas, nikčemnyja ličynki, da vajskovaj spravy, tamu słuchajcie i rabicie ŭsio, što ja havaru!" />
+	<string id="FLT0000122" text="Kirujcie rekrutami i atrymlivajcie dosyć dośviedu ŭ duelach, kab mieć mahčymasć palepšać rekrutaŭ i zaviaršyć misiju." />
+	<string id="FLT0000123" text="Vy pravalicie zadańnie, kali ŭsie rekruty straciać prytomnasć da atrymańnia dastatkovaj kolkaści dośviedu." />
+	<string id="FLT0000124" text="Rekrutaŭ zastałosia" />
+	<string id="FLT0000125" text="Rychtoŭla zavieršana" />
+	<string id="FLT0000126" text="Chod rychtoŭli" />
+	<string id="FLT0000127" text="Nielha syści da skančeńnia rychtoŭli!" />
+	<string id="FLT0000128" text="Ludziam patrebien čas, kab adpačyć i adnavicca. Nie zastałosia nikoha, chto b moh zmahacca" />
+	<string id="FLT0000129" text="Ja mušu spynicca, pakul nie nanios sabie surjoznaje paškodžańnie" />
+	<string id="FLT0000130" text="Vy pieramahli, ja zdajusia!" />
+	<string id="FLT0000131" text="Voj, jak baluča, ja skončyŭ!" />
+	<string id="FLT0000132" text="Vam prosta paščaściła, u nastupny raz ja vas pabju!" />
+	<string id="FLT0000133" text="Ranicaj ja budu chvareć!" />
+	<string id="FLT0000134" text="Vydatnaje zmahańnie, siabar!" />
+	<string id="FLT0000135" text="Ja nia musiŭ zhadžacca na hetaje!" />
+	<string id="FLT0000136" text="A-a-a! Dumaju, ja złamaŭ kostku!" />
+	<string id="FLT0000137" text="Ja nie čakaŭ, što rychtavalnaja zbroja takaja balučaja!" />
+	<string id="FLT0000138" text="Niesumlenna, vy machlavali!" />
+	<string id="FLT0000139" text="Ja sastupaju!" />
+	<string id="FLT0000140" text="Piachota" />
+	<string id="FLT0000141" text="Łučniki" />
+	<string id="FLT0000142" text="Vieršnica" />
+	<string id="FLT0000143" text="Konnyja Łučniki" />
+	<string id="FLT0000144" text="Zastrelniki" />
+	<string id="FLT0000145" text="Ciažkaja piachota" />
+	<string id="FLT0000146" text="Lohkaja vieršnica" />
+	<string id="FLT0000147" text="Ciažkaja vieršnica" />
+	<string id="FLT0000148" text="{HERO}, vy dobra papracavali, rekruty zaraz čahości kaštujuć. [rf:very_positive_hi, rb:very_positive]" />
+	<string id="FLT0000149" text="Prosta rablu svaju pracu!" />
+	<string id="FLT0000150" text="{HERO}, ad vas čakalisia značniejšyja vyniki! [rf:very_positive_ag, rb:very_positive]" />
+	<string id="FLT0000151" text="Prabačcie, šlachcič." />
+	<string id="FLT0000152" text="{HERO} Ja žadaju daručyć vam zadańnie! Ja maju kuču rekrutaŭ, ad jakich niama nijakaha tołku ŭ bitvie. Mnie treba, kab vy padrychtavali da ŭzroŭnia astatniaha vojska. Dla rychtoŭli možacie vykarystoŭvać abstalavańnie dla navučańnia z areny. [rf:very_positive_ag, rb:very_positive]" />
+	<string id="FLT0000153" text="Zrazumieła, šlachcič!" />
+	<string id="FLT0000154" text="Ja nie mahu pieratvaryć kupku pryhonnych u vajaroŭ za adnu noč, tolki vyprabavańni šmatlikich bitvaŭ zmohuć zrabić hetaje." />
+	<string id="FLT0000155" text="Dziakuj {HERO}, vy vyratavali maja spravu![rf:very_positive_hi, rb:very_positive]" />
+	<string id="FLT0000156" text="{HERO} usio dobra?[rf:unsure_hi, rb:unsure]" />
+	<string id="FLT0000157" text="Tak. Prabačcie, što {?PLAYER.GENDER}dazvoliła{?}dazvoliŭ{\?} bandytam źbiehčy." />.
+	<string id="FLT0000158" text="Nie zasmučajciesia, bandyty pierasiahali vas likam. Vy nia mieli šancaŭ suprać takoj kolkaści. Mituśnia, vyklikanaja hetaj bojkaj, pryciahnuła ŭvahu ŭsich vartaŭnikoŭ horada. Bandytam daviałosia biehčy tak chutka, što jany nie paśpieli zabrać z saboj nijakich maich tavaraŭ." />
+	<string id="FLT0000159" text="{?PLAYER.GENDER}Rada, što zmahła{?}Rady, što zmoh{\?} dapamahčy." />
+	<string id="FLT0000160" text="Varta! Varta! Bandyty {ROBBER} kraduć usie tavary z majoj kramy! Biažycie chutčej, pakul jany nie syšli![rf:very_negative_hi, rb:very_negative]" />
+	<string id="FLT0000161" text="Ja vajar, a nie vartaŭnik! Heta nia maja sprava!" />
+	<string id="FLT0000162" text="Partyja {RIVAL_GANG_LEADER}" />
+	<string id="FLT0000163" text="Niekalki čałaviek z vašaj partyi znajšli vašaje cieła i prynieśli jaho ŭ łahier." />
+	<string id="FLT0000164" text="Małajčyna {HERO}, voś hrošy, jakija ja vam abiacaŭ![rf:very_positive_hi, rb:very_positive]" />
+	<string id="FLT0000165" text="Žadajecie chutka zarabić trochi zołata? Ja maju prablemy z vyskačkaj, jakoha zavuć {RIVAL}. {GENDER_PRONOUN} niepakoić ułaśnikaŭ kram pad našaj abaronaj, patrabuje hrošy i pahražaje. Voś što ja vam skažu: ułaśniki hetych kramaŭ - maje karovy, i nichto inšy nia moža ich daić. Ja i maje chłopcy žadajem dać im urok, ale dumaju, lišnija muskuły nie pieraškodziać." />
+	<string id="FLT0000166" text="Kažycie, chutkaje zołata? Ja ŭ spravie!" />
+	<string id="FLT0000167" text="Ja nie žadaju u hetym udzielničać." />
+	<string id="FLT0000168" text="Ludzi! Rychtujcie zbroju! Ja papiaredžvaŭ hetych brakańjerskich paskudnikaŭ, kab jany bolej siudy nie viartalisia! [rf:very_negative_hi, rb:very_negative]" />
+	<string id="FLT0000169" text="Čas dać urok hetym vyradkam!" />
+	<string id="FLT0000170" text="Vialiki dziakuj! Vy abaranili našuju viosku![rf:very_positive_hi, rb:very_positive]" />
+	<string id="FLT0000171" text="Chłopcy! My zastaniomsia ŭ hetaj vioscy na peŭny čas. Miascovyja raskazali, što banda vajskovych dezierciraŭ vymahała ŭ ich hrošy. My schavajemsia ŭ chatach i zładzim zasadu na razbojnikaŭ, kali jany znoŭ zjaviacca." />
+	<string id="FLT0000172" text="Bicie tryvohu! My atakavany! Da zbroi! [rf:very_negative_hi, rb:very_negative]" />
+	<string id="FLT0000173" text="Adkul jany zjavilisia?" />
+	<string id="FLT0000174" text="Partyja Zasadnych Bandytaŭ" />
+	<string id="FLT0000175" text="Prachodziačy pa spustošanaj vioscy, vy zaŭvažajecie adnuju chatu, asabliva zalituju kryvioj. Kali vy padychodzicie bližej, u nozdry bje smurod śmierci. Vam robicca jasna, što tut adbyłosia. Upartaja, ale biazhłuzdaja siamja hetaj chaty vyrašyła zastacca i baranić toje małaje što, mieła. Vajary-maradziory vašaha vojska nia viedali litaści da tych, chto supraciviŭsia, i siekli siamju tam, dzie jana stajała." />
+	<string id="FLT0000176" text="Raptam kryki i lamant pryciahvaje vašuju ŭvahu. Chtości dahetul znachodzicca ŭnutry. Uvojdučy ŭ chatu, vy chutka vyjaŭlajecie krynicu šumu. Heta dzicio, naŭrad ci starejšaje za niemaŭla. Vajary, jakija prychodzili raniej, abo nie zaŭvažyli, abo ŭ ich nie chapiła duchu zabić dzicio. Vy razumiejecie, što, pakolki ŭsie žychary vioski razjechalisia, moža prajści niekalki dzion ci navat tydniaŭ, pierš čym chtości vierniecca, i vy nia viedajecie, ci dažyvie dzicio da taho času." />
+	<string id="FLT0000177" text="Zabrać dzicio z saboj." />
+	<string id="FLT0000178" text="Pakinuć." />
+	<string id="FLT0000179" text="{HERO} {?PLAYER.GENDER}uziała{?}uziaŭ{\?} dzicio, jakoje zavuć {CHILD}." />
+	<string id="FLT0000180" text="Blizki Boj" />
+	<string id="FLT0000181" text="Daloki Boj" />
+	<string id="FLT0000182" text="Vieršnica" />
+	<string id="FLT0000183" text="Abiarycie typ navučańnia" />
+	<string id="FLT0000184" text="Atakavać varožych viaskoŭcaŭ" />
+	<string id="FLT0000185" text="Vyskačyć z vieršnicaj, kab napaści na varožych viaskoŭcaŭ" />
+	<string id="FLT0000186" text="Žycharam vioski paščaściła vyratavacca" />
+	<string id="FLT0000187" text="Atrad Vieršnicy" />
+	<string id="FLT0000188" text="Atakavać varožy karavan" />
+	<string id="FLT0000189" text="Vyskačyć z vieršnicaj, kab napaści na varožy karavan" />
+	<string id="FLT0000190" text="Karavanu paščaściła vyratavacca" />
+	<string id="FLT0000191" text="Słužba Vajarom Asnoŭnaje" />
+	<string id="FLT0000192" text="Navyk Miedycyny" />
+	<string id="FLT0000193" text="{HERO}, vy prajavili siabie {?PLAYER.GENDER}vydatnaj vajarkaj{?}vydatnym vajarom{\?}. Za vašuju advahu i viernasć ja vyrašyŭ pavysić vas. Vy možacie słužyć adnym z maich kamandziraŭ, u hetym vypadku, vy budziecie mieć pryvilej sabrać svaju ŭłasnuju śvitu z kampańjonaŭ i svajakoŭ, pakul słužycie pad maim pačatkam. Taksama ja budu płacić im zarobak." />
+	<string id="FLT0000194" text="Kiravać Śvitaj" />
+	<string id="FLT0000195" text="Adnaručnaja : " />
+	<string id="FLT0000196" text="Dvuchručnaja : " />
+	<string id="FLT0000197" text="Tronkavaja : " />
+	<string id="FLT0000198" text="Łuk : " />
+	<string id="FLT0000199" text="Arbalet : " />
+	<string id="FLT0000200" text="Kidalnaja : " />
+	<string id="FLT0000201" text="Konnaja Jazda : " />
+	<string id="FLT0000202" text="Atletyka : " />
+	<string id="FLT0000203" text="Abiarycie kampańjonaŭ, jakija dałučacca da vas" />
+	<string id="FLT0000204" text="Kidalnaja" />
+	<string id="FLT0000205" text="Słužba Vajarom : Pieramoha ŭ turnirach padčas słužby daje na 50% bolej dośviedu dla pavyšeńnia." />
+	<string id="FLT0000206" text="Słužba Vajarom : Rychtoŭli z vajarami dajuć na 50% bolej dośviedu bajavym navykam." />
+	<string id="FLT0000207" text="Słužba Vajarom : Źnieprytomlevańni padčas rychtoŭli z vajarami dajuć 0.1 viadomasć." />
+	<string id="FLT0000208" text="Słužba Vajarom : Źnieprytomlevańni padčas słužby ŭ jakaści vajara dajuć 0.3 viadomaści." />
+	<string id="FLT0000209" text="Słužba Vajarom : Źnieprytomlevańni padčas bitvy piešym dajuć 0.3 viadomaści." />
+	<string id="FLT0000210" text="Słužba Vajarom : Zarobak pavialičany na 20%." />
+	<string id="FLT0000211" text="Słužba Vajarom : Źnieprytomlevańni zroblenyja dalokaj zbrojaj padčas bitvy dajuć 0.3 viadomaści." />
+	<string id="FLT0000212" text="Słužba Vajarom : Streły ŭ hałavu padčas bitvy hienierujuć dadatkovy dośvied navyku." />
+	<string id="FLT0000213" text="Słužba Vajarom : Arbaletnyja streły padčas bitvy z adlehłaści prynamsi 50 mietraŭ hienierujuć dadatkovy dośvied navyku." />
+	<string id="FLT0000214" text="Słužba Vajarom : Arbaletnyja streły na kani padčas bitvy hienierujuć dadatkovy dośvied navyku." />
+	<string id="FLT0000215" text="Słužba Vajarom : Atrymańnie bonusa 1000 załatych za kožnaha varožaha šlachciča, jaki źnieprytomiŭ z-za vas padčas bitvy." />
+	<string id="FLT0000216" text="Słužba Vajarom : Źnieprytomlevańni kidalnaj zbrojaj padčas rychtoŭli z vajarami dajuć 0.2 viadomaści." />
+	<string id="FLT0000217" text="Atrymana adno ačko fokusa dla {SKILL} ad rychtoŭli." />
+	<string id="FLT0000218" text="Atrymany adzin atrybut ŭ {ATTRIBUTE} ad rychtoŭli." />
+	<string id="FLT0000219" text="Čakać u reziervie" />
+	<string id="FLT0000220" text="Vy čakajecie ŭ reziervie" />
+	<string id="FLT0000221" text="Vy nia možacie čakać u reziervie, kali vojska maje mieniej 100 zdarovych vajaroŭ" />
+	<string id="FLT0000222" text="Iznoŭ dałučycca da bitvy" />
+	<string id="FLT0000223" text="Atrymana adno ačko fokusa dla {SKILL} ad štodzionnaj pracy" />
+	<string id="FLT0000224" text="Atrymany adzin atrybut ŭ {ATTRIBUTE} ad štodzionnaj pracy" />
+	<string id="FLT0000225" text="Naciśnicie U dla źmieny piersanaža" />
+	<string id="FLT0000226" text="Hulać u roli {CHARACTER}" />
+	<string id="FLT0000227" text="Naciśnicie H dla pieraklučeńnia pamiž aŭtarychtoŭlaj" />
+	<string id="FLT0000228" text="Apanientaŭ pieramožana : {KILLS}" />
+	<string id="FLT0000229" text="{LORD} rekrutuje {HERO}" />
+	<string id="FLT0000230" text="{HERO} bolej nie pracuje na kłan {CLAN}" />
+	<string id="FLT0000231" text="Pierajści na inšy bok" />
+	<string id="FLT0000232" text="Moža słužyć tolki šlachcičam častki haspadarstva" />
+	<string id="FLT0000233" text="Vydadziena haspadarstvam" />
+	<string id="FLT0000234" text="Mnie patrebien niechta nakšałt vas u svajoj śvicie." />
+	<string id="FLT0000235" text="Prabačcie, ale mnie padabajecca słužyć majmu šlachciču {LORD}." />
+	<string id="FLT0000236" text="Prabačcie, ale my z vami majem kryŭdy." />
+	<string id="FLT0000237" text="Viadoma, ale heta nia budzie tanna. Mnie patrebna dosyć zołata, kab raźličycca z {LORD} pa ciapierašnim kantrakcie słužby, a jašče ja žadaju trochi pakinuć sabie. Uvohule, mnie treba {GOLD}{COIN}." />
+	<string id="FLT0000238" text="Viadoma, ale heta nia budzie tanna. Narešcie, mnie treba {GOLD}{COIN}." />
+	<string id="FLT0000239" text="Davajcie vypjem u karčmie! Ja płaču!" />
+	<string id="FLT0000240" text="Što mienavita vy płanujecie? Sprabujecie padsypać jad u moj napoj ci ŭkraści hamaniec z manietami, kali ja napjusia. Dumaju, vy zadumvajecie niešta lichoje. Kali vam bolš niama čaho skazać, preč z maich vačej." />
+	<string id="FLT0000241" text="Dziakuju za prapanovu, ale kali ja vypju jašče, kamandzir zdziare z mianie skuru." />
+	<string id="FLT0000242" text="Sto hadoŭ nia {?PLAYER.GENDER}piła{?}piŭ{\?} ničoha prystojnaha! Upiarod!" />
+	<string id="FLT0000243" text="Dziakuj, kapitan, ale kali ja vypju jašče, to nie zmahu vykonvać svaje abaviazki." />
+	<string id="FLT0000244" text="Zdajecca, vy paranieny. Dazvolcie mnie pieraviazać vašyja rany. Urešcie rešt, ja chirurh łahiera." />
+	<string id="FLT0000245" text="Ty {?PLAYER.GENDER}nikčemnaja łajdačka{?}nikčemny łajdak{\?}! Dzie, kali... Niavažna.  Pryskorsia i zrabi ŭžo hetaje!" />
+	<string id="FLT0000246" text="Kali łaska, pahladzicie {BODY_PART}. Vielmi mocna balić." />
+	<string id="FLT0000247" text="maju hałavu" />
+	<string id="FLT0000248" text="maju kisć" />
+	<string id="FLT0000249" text="maju šyju" />
+	<string id="FLT0000250" text="mai hrudzi" />
+	<string id="FLT0000251" text="maju nahu" />
+	<string id="FLT0000252" text="maju stupniu" />
+	<string id="FLT0000253" text="maju ruku" />
+	<string id="FLT0000254" text="maju śpinu" />
+	<string id="FLT0000255" text="Dałučycca da rabavańnia" />
+	<string id="FLT0000256" text="zabivajcie, rabujcie, hvałtujcie - dla hetaha vam treba spampavać mod captivity events (padziei ŭ pałonie). {newline}Heta moža paškodzić adnosinam ź inšymi vajarami ŭ partyi, jakija vałodajuć asablivaściu litasć." />
+	<string id="FLT0000257" text="My musim baranić svaje chaty lubym koštam!" />
+	<string id="FLT0000258" text="Vy ŭžo razrabavali hetuju viosku." />
+	<string id="FLT0000259" text="Siačycie hetych pryhonnych śvińniaŭ i zabirajcie ŭsio kaštoŭnaje!" />
+	<string id="FLT0000260" text="Ja lepš pajdu, pakul nie zabrali ŭsiu prystojnuju zdabyču." />
+	<string id="FLT0000261" text="Kali łaska, źlitujciesia!" />
+	<string id="FLT0000262" text="Kali łaska, paškadujcie dziaciej!" />
+	<string id="FLT0000263" text="Ja dam vam usio, tolki nie zabivajcie!" />
+	<string id="FLT0000264" text="Pamažycie! Pamažycie!" />
+	<string id="FLT0000265" text="Ja zdajusia!" />
+	<string id="FLT0000266" text="Heć z našaj vioski, poskudź!" />
+	<string id="FLT0000267" text="Rychtavacca z vajarami" />
+	<string id="FLT0000268" text="Žadajecie skončyć rychtoŭlu?" />
+	<string id="FLT0000269" text="Misija rychtoŭli rekrutaŭ" />
+	<string id="FLT0000270" text="Pakinuć Arenu?" />
+	<string id="FLT0000271" text="Vychad da zaviaršeńnia rychtoŭli pryviadzie da pravału misii.{newline}Pakinuć Arenu?" />
+	<string id="FLT0000272" text="Kamandzir vyrašyŭ prajavić litasć da hetaha horada" />
+	<string id="FLT0000273" text="Zabojstvy zabaronieny, ale vy ŭsio adno možacie zarabić šmat zołata za zachop majomaści.{newline}Udzieł u rabavańniach paŭpłyvaje na vašuju reputacyju i asablivaści." />
+	<string id="FLT0000274" text="Ci mahu ja pahavaryć z kimści jašče z vašaj partyi?" />
+	<string id="FLT0000275" text="Žadajecie pracavać uzamien na mianie? Moža, hety miech {GOLD}{COIN} pierakanaje vas?" />
+	<string id="FLT0000276" text="Jak ja mahu admovicca ad takoj ščodraj prapanovy. Uhoda składziena!" />
+	<string id="FLT0000277" text="Vy nia možacie kupić maju addanasć za zołata!" />
+	<string id="FLT0000278" text="" />
+	<string id="FLT0000279" text="" />
+  </strings>
+</base>
