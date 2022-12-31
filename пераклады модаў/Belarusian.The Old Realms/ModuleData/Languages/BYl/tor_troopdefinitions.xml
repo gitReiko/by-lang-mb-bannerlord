@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+    <strings>
+        <string id="str_tor_empire_villager" text="Impierski Viaskoviec " />
+        <string id="str_tor_empire_recruit" text="Impiervski Rekrut " />
+        <string id="str_tor_empire_state_troop" text="Impierski Dziaržaŭny Žaŭnier " />
+        <string id="str_tor_empire_swordsman" text="Impierski Miečnik " />
+        <string id="str_tor_empire_spearman" text="Impierski Kapijnik " />
+        <string id="str_tor_empire_armored_spearman" text="Impierski Braniavany Kapijnik " />
+        <string id="str_tor_empire_veteran_swordsman" text="Impierski Miečnik-Vieteran " />
+        <string id="str_tor_empire_halberdier" text="Impierski Aliebardzir " />
+        <string id="str_tor_empire_greatsword" text="Impierski Vialiki Mieč " />
+        <string id="str_tor_empire_pikeman" text="Impierski Pikinior " />
+        <string id="str_tor_empire_sergeant" text="Impierski Siaržant " />
+        <string id="str_tor_empire_scout" text="Impierski Vyviednik " />
+        <string id="str_tor_empire_archer" text="Impierski Lučnik " />
+        <string id="str_tor_empire_skirmisher" text="Impierski Zastreĺnik " />
+        <string id="str_tor_empire_handgunner" text="Impierski Stralok " />
+        <string id="str_tor_empire_crossbowman" text="Impierski Arbalietnik " />
+        <string id="str_tor_empire_longbowman" text="Impierski Dlinnalučnik " />
+        <string id="str_tor_empire_huntsman" text="Impierski Paliaŭničy " />
+        <string id="str_tor_empire_marksman_crossbowman" text="Impierski Arbalietnik-Snajpier " />
+        <string id="str_tor_empire_marksman_handgunner" text="Impierski Stralok-Snajpier " />
+        <string id="str_tor_empire_young_noble_squire" text="Impierski Malady Šliachietny Zbrajanosiec " />
+        <string id="str_tor_empire_noble_cavalry" text="Impierski Šliachietny Vieršnik " />
+        <string id="str_tor_empire_reiksguard_knight" text="Impierski Rajkshardzki Rycar " />
+        <string id="str_tor_empire_pistolier" text="Impierski Pistaĺjer " />
+        <string id="str_tor_empire_outrider" text="Impierski Miežavy Najeźnik " />
+        <string id="str_tor_empire_reiksguard_preceptor" text="Impierski Rajkshardzki Rycar-Pryseptar " />
+        <string id="str_tor_empire_innercircle_knight" text="Impierski Rycar Unutranaha Kola " />
+        <string id="str_tor_demigryph_knight" text="Impierski Rycar na Demihryfie " />
+        <string id="str_tor_valiant_outrider" text="Impierski Advažny Miežavy Najeźnik " />
+        <string id="str_tor_valiant_outrider_grenade" text="Impierski Advažny Miežavy Najeźnik (Hranatakid) " />
+        <string id="str_tor_reiksguard_preceptor_innercircle" text="Impierski Rajkshardzki Rycar-Pryseptar Unutranaha Kola " />
+        <string id="str_tor_demigryph_innercircle" text="Impierski Rajkshardzki Demihryf Unutranaha Kola " />
+        <string id="str_tor_empire_novice_engineer" text="Inžynier-Navik " />
+        <string id="str_tor_empire_trainee_artillery_crew" text="Harmatnik-Navik " />
+        <string id="str_tor_empire_apprentice_engineer" text="Inžynier-Patužnik " />
+        <string id="str_tor_empire_iron_company_guard" text="Vartaŭnik Žalieznaj Kampanii " />
+        <string id="str_tor_empire_experienced_artillery_crew" text="Daśviedčany Harmatnik " />
+        <string id="str_tor_empire_associate_engineer" text="Inžynier-Vučań " />
+        <string id="str_tor_empire_iron_company_troop" text="Žaŭnier Žalieznaj Kampanii " />
+        <string id="str_tor_empire_veteran_artillery_crew" text="Harmatnik-Vieteran " />
+        <string id="str_tor_empire_master_engineer" text="Inžynier-Majstar " />
+        <string id="str_tor_empire_ironsider" text="Nuĺnski Žalieznaboki " />
+        <string id="str_tor_empire_caravan_captain" text="Impierski Kapitan Karavana " />
+        <string id="str_tor_empire_caravan_guard" text="Impierski Vartaŭnik Karavana " />
+        <string id="str_tor_empire_caravan_vetguard" text="Impierski Rycar " />
+        <string id="str_tor_empire_caravan_ranged" text="Impierski Arbalietnik " />
+        <string id="str_tor_vc_villager" text="Siĺvanski Pryhonny " />
+        <string id="str_tor_vc_empire_recruit" text="Siĺvanski Ŭzbrojeny Pryhonny " />
+        <string id="str_tor_vc_empire_levy" text="Siĺvanski Rušeniec " />
+        <string id="str_tor_vc_empire_state_troop" text="Siĺvanski Dziaržaŭny Žaŭnier " />
+        <string id="str_tor_vc_empire_veteran_state_troop" text="Siĺvanski Dziaržaŭny Žaŭnier-Vieteran " />
+        <string id="str_tor_vc_empire_sergeant" text="Siĺvanski Siaržant " />
+        <string id="str_tor_vc_empire_archer" text="Siĺvanski Vyviednik " />
+        <string id="str_tor_vc_empire_hunter" text="Siĺvanski Paliaŭničy " />
+        <string id="str_tor_vc_empire_ranger" text="Siĺvanski Rejndžar Bahnaŭ " />
+        <string id="str_tor_vc_summoned_skeleton" text="Zaklikany Kaściak " />
+        <string id="str_tor_vc_skeleton" text="Kaściak " />
+        <string id="str_tor_vc_skeleton_swordsman" text="Kaściak-Miečnik " />
+        <string id="str_tor_vc_skeleton_spearman" text="Kaściak-Kapijnik " />
+        <string id="str_tor_vc_skeleton_champion" text="Kaściak-Čempijon " />
+        <string id="str_tor_vc_skeleton_crypt_guard" text="Vartaŭnik Skliepa " />
+        <string id="str_tor_vc_spirit_host" text="Duch-Chost " />
+        <string id="str_tor_vc_grave_guard" text="Vartaŭnik Mahilaŭ " />
+        <string id="str_tor_vc_grave_guard_seneschal" text="Vartaŭnik-Sieniešaĺ Mahilaŭ " />
+        <string id="str_tor_vc_cairn_wraith" text="Pryvid Piramidaŭ " />
+        <string id="str_tor_vc_crypt_wraith" text="Pryvid Skliepa " />
+        <string id="str_tor_vc_drakenhof_guard" text="Drakienchofski Vartaŭnik " />
+        <string id="str_tor_vc_hex_wraith" text="Pryvid Nahavoru " />
+        <string id="str_tor_vc_black_knight" text="Čorny Rycar " />
+        <string id="str_tor_vc_hell_knight" text="Piakieĺny Rycar " />
+        <string id="str_tor_vc_hell_wraith" text="Piakieĺny Pryvid " />
+        <string id="str_tor_vc_vampire_newblood" text="Vampir Novaja Kroŭ " />
+        <string id="str_tor_vc_von_carstein" text="Vampir fon Karštajna " />
+        <string id="str_tor_vc_von_carstein_sister" text="Siastra fon Karštajna " />
+        <string id="str_tor_vc_blood_knight" text="Kryvavy Rycar " />
+        <string id="str_tor_vc_von_carstein_noblewoman" text="Šliachcianka fon Karštajna " />
+        <string id="str_tor_vc_drakenhof_templar" text="Drakienchofski Tamplijer " />
+        <string id="str_tor_vc_von_carstein_countess" text="Hrafinia fon Karštajna " />
+        <string id="str_tor_vc_drakenhof_kastelan" text="Drakienchofski Kašcielian " />
+        <string id="str_tor_vc_caravan_captain" text="Siĺvanski Kapitan Karavana " />
+        <string id="str_tor_vc_caravan_guard" text="Karavana Vartaŭnik-Vieršnik " />
+        <string id="str_tor_vc_caravan_ranged" text="Siĺvanski Arbalietnik " />
+        <string id="str_tor_chaos_nurgle_warrior" text="Hnily Karoĺ Zaniapadu " />
+        <string id="str_tor_chaos_nurgle_warrior_002" text="Vajar Nurhla " />
+        <string id="str_tor_chaos_nurgle_warrior_003" text="Abrany Nurhla " />
+        <string id="str_tor_chaos_chosen" text="Abrany Chaosu " />
+        <string id="str_tor_chaos_khorne_warrior" text="Vajar Kchorna " />
+        <string id="str_tor_chaos_chaos_knight" text="Rycar Chaosu " />
+        <string id="str_tor_beast_ungor" text="Niaroch " />
+        <string id="str_tor_beast_shielded_ungor" text="Niaroch-Ščytanos " />
+        <string id="str_tor_beast_ungor_raider" text="Niaroch-Naliotnik " />
+        <string id="str_tor_beast_ungor_chief" text="Niaroch-Pravadyr " />
+        <string id="str_tor_dog_braganza_01" text="Abložnik-Arbalietnik " />
+        <string id="str_tor_dog_braganza_02" text="Abložnik-Arbaliest " />
+        <string id="str_tor_dog_braganza_03" text="Abložnik Brahanzy " />
+        <string id="str_tor_dog_cursed_company_01" text="Zaniavolieny Vajar " />
+        <string id="str_tor_dog_cursed_company_02" text="Prakliaty Vajar " />
+        <string id="str_tor_dog_cursed_company_03" text="Prakliaty Kampańjon " />
+        <string id="str_tor_dog_leopard_01" text="Lieapard-Najmit " />
+        <string id="str_tor_dog_leopard_02" text="Lieapard-Pikinior " />
+        <string id="str_tor_dog_leopard_03" text="Lieapard-Pikinior Lieapoĺda " />
+        <string id="str_tor_dog_voland_01" text="Konny Vinejtar-Najmit " />
+        <string id="str_tor_dog_voland_02" text="Vinejtar-Kondaćjera " />
+        <string id="str_tor_dog_voland_03" text="Vinejtar Volanda " />
+        <string id="str_tor_dog_muktar_01" text="Arabski Najmit-Końnik " />
+        <string id="str_tor_dog_muktar_02" text="Arabski Pusteĺny Destryjer " />
+        <string id="str_tor_dog_muktar_03" text="Pusteĺny Pios Aĺ-Muktara " />
+        <string id="str_tor_dog_miragliano_01" text="Arbalietnik Miraĺjana " />
+        <string id="str_tor_dog_miragliano_02" text="Arbielast Miraĺjana " />
+        <string id="str_tor_dog_miragliano_03" text="Snajpier Miraĺjana " />
+        <string id="str_tor_dog_ricco_01" text="Rymanski Patryjot " />
+        <string id="str_tor_dog_ricco_02" text="Rymanski Pikinior " />
+        <string id="str_tor_dog_ricco_03" text="Respublikanski Vartaŭnik Rykka " />
+        <string id="str_tor_merc_free_company_volunteer" text="Samaachvotnik Voĺnaj Kampanii " />
+        <string id="str_tor_merc_free_company_scout" text="Vyviednik Voĺnaj Kampanii " />
+        <string id="str_tor_merc_free_company_militiaman" text="Rušeniec Voĺnaj Kampanii " />
+        <string id="str_tor_merc_free_company_bowman" text="Lučnik Voĺnaj Kampanii " />
+        <string id="str_tor_merc_free_company_pistolier" text="Pistaĺjer Voĺnaj Kampanii " />
+        <string id="str_tor_ror_kragsburg_retainer" text="Služačy fon Kraksburha " />
+        <string id="str_tor_ror_kragsburg_sergeant" text="Siaržant fon Kraksburha " />
+        <string id="str_tor_ror_kragsburg_house_guard" text="Vartaŭnik Doma fon Kraksburh " />
+        <string id="str_tor_ror_kragsburg_personal_guard" text="Asabisty Vartaŭnik fon Kraksburha " />
+        <string id="str_tor_ror_stir_river_scout" text="Vyviednik Raki Šcir " />
+        <string id="str_tor_ror_stir_river_patrolman" text="Patruĺny Raki Šcir " />
+        <string id="str_tor_ror_stir_river_patrol_guardsman" text="Patruĺny-Vartaŭnik Raki Šcir " />
+        <string id="str_tor_ror_stir_river_patrol_nimrod" text="Patruĺny Nimroda Raki Šcir " />
+        <string id="str_tor_ror_blazing_sun_initiate" text="Inicyjavany Palymianaha Sonca " />
+        <string id="str_tor_ror_blazing_sun_knight" text="Rycar Palymianaha Sonca " />
+        <string id="str_tor_ror_blazing_sun_preceptor" text="Pryseptar Palymianaha Sonca " />
+        <string id="str_tor_ror_blazing_sun_demigryph_knight" text="Rycar na Demihryfie Palymianaha Sonca " />
+        <string id="str_tor_ror_blazing_sun_innercircle" text="Rycar Unutranaha Kola Palymianaha Sonca " />
+        <string id="str_tor_ror_blazing_sun_demigryph_innercircle" text="Demihryf Unutranaha Kola Palymianaha Sonca " />
+        <string id="str_tor_ror_grundel_defender_troop" text="Žaŭnier-Abaronca Hrundelia " />
+        <string id="str_tor_ror_grundel_defender_stalwart" text=" Abaronca Štaĺvarta Hrundelia " />
+        <string id="str_tor_ror_grundel_defender_sergeant" text="Siaržant-Abaronca Hrundelia " />
+        <string id="str_tor_ror_grundel_defender_defender" text="Chrabry Abaronca Hrundelia " />
+        <string id="str_tor_ror_deathjack_longbowman" text="Dlinnalučnik Śmiarotnaha Džeka " />
+        <string id="str_tor_ror_deathjack_marksman" text="Snajpier Śmiarotnaha Džeka " />
+        <string id="str_tor_ror_deathjack_toxophilite" text="Strelafil Śmiarotnaha Džeka " />
+        <string id="str_tor_ror_ward_of_taal" text="Padapiečny Taalia " />
+        <string id="str_tor_ror_hunter_of_taal" text="Paliaŭničy Taalia " />
+        <string id="str_tor_ror_horned_hunter" text="Rahaty Paliaŭničy " />
+        <string id="str_tor_ror_longshank_initiate" text="Daŭhanohi Inicyjavany " />
+        <string id="str_tor_ror_longshank_strider" text="Daŭhanohi Badziaha " />
+        <string id="str_tor_ror_longshank_warden" text="Daŭhanohi Nahliadnik " />
+        <string id="str_tor_ror_longshank_ranger" text="Daŭhanohi Rejndžar " />
+        <string id="str_tor_ror_griffon_initiate" text="Inicyjavany Hryfona " />
+        <string id="str_tor_ror_griffon_knight" text="Rycar Hryfona " />
+        <string id="str_tor_ror_griffon_preceptor_knight" text="Rycar-Pryseptar Hryfona " />
+        <string id="str_tor_ror_griffon_innercircle_knight" text="Rycar Hryfona Unutranaha Kola " />
+        <string id="str_tor_ror_griffon_demi_knight" text="Rycar Hryfona na Demihryfie " />
+        <string id="str_tor_ror_griffon_demi_preceptor_knight" text="Rycar-Pryseptar Hryfona na Demihryfie " />
+        <string id="str_tor_ror_son_of_altdorf" text="Syn Aĺtdorfa " />
+        <string id="str_tor_ror_altdorf_companyman" text="Kampańjon Aĺtdorfa " />
+        <string id="str_tor_ror_altdorf_company_sergeant" text="Siaržant Kampanii Aĺtdorfa " />
+        <string id="str_tor_ror_sternieste_skeleton" text="Kaściak Zamka Štarniste " />
+        <string id="str_tor_ror_sternieste_grave_guard" text="Vartaŭnik Mahilaŭ Zamka Štarniste " />
+        <string id="str_tor_ror_sternieste_sternsmen" text="Štarnar " />
+        <string id="str_tor_ror_sternieste_black_knight" text="Čorny Rycar Zamka Štarniste " />
+        <string id="str_tor_ror_sternieste_reaver" text="Spustašaĺnik Viereka " />
+        <string id="str_tor_ror_dragon_knight_initiate" text="Inicyjavany Kryvavaha Drakona " />
+        <string id="str_tor_ror_dragon_knight" text="Rycar Kryvavaha Drakona " />
+        <string id="str_tor_ror_dragon_templar" text="Tamplijer Kryvavaha Drakona " />
+        <string id="str_tor_ror_konigstein_skeleton" text="Pieraśliednik Konihštajna " />
+        <string id="str_tor_ror_konigstein_swordsman" text="Pieraśliednik-Miečnik Konihštajna " />
+        <string id="str_tor_ror_konigstein_spearman" text="Pieraśliednik-Kapijnik Konihštajna " />
+        <string id="str_tor_chaos_cult_acolyte" text="Kuĺtyst Chaosu " />
+        <string id="str_tor_chaos_cult_darksoul" text="Ciomnaja Duša Chaosu " />
+        <string id="str_tor_chaos_cult_magister" text="Paly Mahistar " />
+        <string id="str_tor_cult_bw_expelled_magister" text="Vyhnany Mahistar " />
+        <string id="str_tor_cult_bw_vengeful_cultist" text="Pomślivy Kuĺtyst " />
+        <string id="str_tor_cult_bw_sorcerer_broken_wheel" text="Viadźmar Zlamanaha Kola " />
+        <string id="str_tor_cult_coi_unlit_candle" text="Patuchlaja Śviečka " />
+        <string id="str_tor_cult_coi_beacon" text="Majak " />
+        <string id="str_tor_cult_coi_order_of_star_acolyte" text="Ordenavy Zornaha Akalita " />
+        <string id="str_tor_cult_fsf_puer_ulceris" text="Smurodzi Jaźvis " />
+        <string id="str_tor_cult_fsf_ulcus_frater" text="Bratar Jazvus " />
+        <string id="str_tor_cult_fsf_ulcerator" text="Jazvatar " />
+        <string id="str_tor_roaming_undead_skeleton" text="Valacužny Niamiortvy " />
+        <string id="str_tor_roaming_undead_warrior" text="Valacužny Niamiortvy Vajar " />
+        <string id="str_tor_empire_outlaw" text="Impierski Zlačynca " />
+        <string id="str_tor_empire_outlaw_leader" text="Impierski Zlačynca-Kapitan " />
+        <string id="str_tor_empire_deserter" text="Deziertyr " />
+        <string id="str_tor_empire_deserter_sergeant" text="Deziertyr-Siaržant " />
+        <string id="str_tor_empire_deserter_scout" text="Deziertyr-Vyviednik " />
+    </strings>
+</base>
