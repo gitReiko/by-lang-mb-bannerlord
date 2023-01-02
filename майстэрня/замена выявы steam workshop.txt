@@ -1,0 +1,71 @@
+How to update your mod's thumbnail on Steam Workshop using SteamCMD
+
+RemingtonRyder
+
+-----------------------------------------------------------------------
+
+The usual way of updating your mod's thumbnail on Steam Workshop (or adding one, if you didn't have one when you first uploaded the mod) is to re-upload your mod with an image of size 640x360 named Preview.png in the About folder.
+
+There are various reasons why you might not want to do this. For example, maybe you're working on a new version of the mod but you're not ready to release it yet, but you do want to update the thumbnail. Also, Preview.png is displayed when you're looking at the mod in the mod list, which means that your mod's description is pushed further down the page.
+
+SteamCMD is a command-line tool which allows you to push updates to Steam Workshop items which you have uploaded. More importantly, it allows you to be quite specific about what you want to update, using VDF files.
+
+This is an example of a VDF file which changes the thumbnail and sets the workshop item to be visible (by default, your Workshop items are set to be hidden when first uploaded):
+
+Code: [Select]
+
+-----------------------------------------------------------------------
+
+"workshopitem"
+{
+    "appid"                "294100"
+    "previewfile"        "C:\Users\johnsmith\Pictures\Thumbnail-SomeThumbnailTitle.png"
+    "visibility"        "0"
+    "title"                "Mod title here for your sanity only"
+	"changenote"			"Thumbnail upload"
+	"publishedfileid"		"999999999"
+}
+
+-----------------------------------------------------------------------
+
+appid is 294100 for RimWorld. Some games with Workshop support don't have a built-in Workshop upload facility, so SteamCMD is pretty much the only way to upload. So change appid accordingly if you're uploading for a different game.
+
+previewfile tells SteamCMD where to look for your thumbnail. Recommended dimensions: 640x360 pixels.
+
+publishedfileid is a value you will have to find in your mod's About folder after uploading it for the first time in RimWorld (tags like 'Mod' and 'Alpha 17' will not be set by SteamCMD).
+
+title allows you to change the title of the mod. I included it in the example because sometimes you want to see at a glance whether this is the right file to edit.
+
+changenote allows you to add an entry to the changelog.
+
+visibility is 0 for public, 1 for visible to friends only, or 2 for hidden.
+
+I recommend editing VDF files in Notepad++ or similar and keeping them in the SteamCMD folder so they can be easily accessed at the command line.
+
+It is important to note that logging into your Steam account using SteamCMD will log you out of your account on the Steam client on the computer you are using, meaning you will need to exit it and log back in.
+
+To build a workshop item (that is, update it using the instructions given in the VDF file) you first need to run SteamCMD from the command prompt.
+
+On Windows you will probably need to run the command prompt as an Administrator. Then change directory using the command prompt to the place where you installed SteamCMD, and type steamcmd to run.
+
+Next, SteamCMD needs to be logged in to your Steam account. Type 'login username' at the SteamCMD prompt and then when prompted for your password, enter it.
+
+Then type at the SteamCMD prompt:
+
+workshop_build_item this_is_an_example.vdf
+
+-----------------------------------------------------------------------
+
+Мой паспяховы vsd 
+
+Bannerlord - Serve as Soldier
+
+---
+
+"workshopitem"
+{
+    "appid"                "261550"
+    "previewfile"        	"C:\Users\khorn\Desktop\steamcmd\Image.jpg"
+	"changenote"			"Thumbnail upload"
+	"publishedfileid"		"2905709865"
+}
