@@ -104,64 +104,64 @@
     <!--#endRegion Maritime Mechanic-->
 
     <!--#region Port Mechanic-->
-    <string id="QElCv2DXcP" text="The enemy surely won't allow me to land here peacfully. I should look for a suitable landing area."/>
-    <string id="ggYEnbhls1" text="I doubt the besiegers will allow me to cross their lines. Let us turn back."/>
-    <string id="cArNEYb9I2" text="One of your men reminds you that you are a wanted criminal here. Bet to turn back for now."/>
-    <string id="RlXjIo4mKS" text="Go to the port"/>
-    <string id="ineEV8sgAq" text="The port is bustling with sailors and ships."/>
-    <string id="HPurm5Munl" text="Talk to the harbormaster."/>
-    <string id="DwQyzuvmiP" text="Ask about paying for passage to another port."/>
-    <string id="jH5jv95pCU" text="Talk to the shipwright."/>
-    <string id="ujX52u7JMg" text="Buy, sell and build ships."/>
-    <string id="Y53KNYuZYL" text="Manage docked fleets"/>
-    <string id="H2O554VLoL" text="Manage your fleet at this port"/>
-    <string id="IdUeyLfjDL" text="Manage your {NUM_FLEETS} fleets at this port"/>
-    <string id="StqsEz5JgS" text="You have no fleets at this port"/>
-    <string id="izhtC9ysv9" text="[Cheat] Set sail from port."/>
-    <string id="mer6pjy1Mn" text="Set sail"/>
-    <string id="RDav1vM63u" text="You have no fleets at this port to set sail with."/>
-    <string id="Sn7TJjpjyT" text="Your fleet does not have enough room for {SHIP_COUNT} of your men"/>
-    <string id="j89pN06eqg" text="Choose fleet"/>
-    <string id="c1bSJVV3FQ" text="Return to the town"/>
-    <string id="xwMAo1cVZP" text="You meet with the harbormaster who presents you with the following options for travelling between ports."/>
-    <string id="rrLe6CwRLo" text="Hire ships for a one-way passage."/>
-    <string id="INfOcDqf7l" text="Back to the port"/>
-    <string id="wZLwMFuFCu" text="Select your destination. Prices are based on party size, amount of cargo, relation with the town, and, of course, distance to the destination."/>
-    <string id="EGq8HfN5hU" text="No one here is willing to sail to a hostile port"/>
-    <string id="8Iin6bXmiH" text="No one here is willing to sail to a town that is under siege"/>
-    <string id="zXjHzHUpxo" text="You are prohibited entry to this destination"/>
-    <string id="92DBEQc1p9" text="Return to the Harbormaster"/>
-    <string id="7pNR2Xuwrt" text="Travel to {TRAVEL_DEST} for {TRAVEL_COST}{GOLD_ICON}?"/>
-    <string id="eKpE17JjB3" text="Not enough gold"/>
-    <string id="ivXfiOske9" text="Return to destination selection"/>
-    <string id="KQWVBQ8oE3" text="You are surrounded by the sights and sounds of the ship-making process."/>
-    <string id="RCrK6j86cV" text="[Cheat] Add random ship."/>
-    <string id="5b7r9SOqSQ" text="See the ships that are available for purchase."/>
-    <string id="LlfjyuSnsn" text="Here are the ships for sale in the harbor today."/>
-    <string id="8hc9mPS9Mr" text="Class"/>
-    <string id="CFL4v1v3XV" text="Crew Capacity"/>
-    <string id="vwNi091pvN" text="Troop Capacity"/>
-    <string id="nZdnsiiv3y" text="Cargo Capacity"/>
-    <string id="Nsz666Od5K" text="Cost"/>
-    <string id="juNTiIthcH" text="Confirm purchase of {SHIP_CLASS} for {SHIP_COST}{GOLD_ICON}?"/>
-    <string id="XqSmBEPlJm" text="Yes. Another fine addition to the fleet."/>
-    <string id="8zmfY3TjZm" text="Looks like I don't have enough gold"/>
-    <string id="gcymi6BlCj" text="Which fleet shall we send her to?"/>
-    <string id="hFSVMu1Ut9" text="Create a new fleet"/>
-    <string id="SnTAwIcMUi" text="Your docked fleets"/>
-    <string id="CqbzVqMo2o" text="Ship Count"/>
-    <string id="RO8Iz3FI6h" text="Flagship"/>
-    <string id="hxvo8CFBpw" text="Your fleet"/>
-    <string id="qco1qQSk3b" text="Rename"/>
-    <string id="jcShFM9hoS" text="Fleet Name"/>
-    <string id="Dj96iVLElL" text="Manage the ships"/>
-    <string id="V24R3feGz9" text="The ships in your fleet {FLEET_NAME}"/>
-    <string id="UgIDUQ4o94" text="Return to select fleet"/>
-    <string id="3GcjXQvyPI" text="Transfer to another fleet"/>
-    <string id="4Vm5F55ggE" text="Select the receiving fleet or create a new one"/>
-    <string id="IXBdFAKDzw" text="Sell your ship {MANAGED_SHIP_NAME} for {SHIP_VALUE}{GOLD_ICON}?"/>
-    <string id="1PhHfHu8aI" text="Manage another ship"/>
-    <string id="Mlh6zpQTB1" text="Confirm"/>
+    <string id="QElCv2DXcP" text="Вораг, вядома, не дазволіць спакойна высадзіцца тут. Варта пашукаць прыдатную пляцоўку для высадкі."/>
+    <string id="ggYEnbhls1" text="Сумняюся, што абложнікі дазволяць перасекчы мяжу. Мы мусім павярнуць назад."/>
+    <string id="cArNEYb9I2" text="Адзін з вашых людзей напомніў вам, што вы тут {?PLAYER.GENDER}злачынка ў{?}злачынец у{\?} вышуку. Вы вырашылі павярнуць назад."/>
+    <string id="RlXjIo4mKS" text="Пайсці ў порт"/>
+    <string id="ineEV8sgAq" text="Порт поўны маракамі і караблямі."/>
+    <string id="HPurm5Munl" text="Пагаварыць з загадніка порта."/>
+    <string id="DwQyzuvmiP" text="Спытаць пра аплату падарожжа ў іншы порт."/>
+    <string id="jH5jv95pCU" text="Пагаварыць з карабельнікам."/>
+    <string id="ujX52u7JMg" text="Купля, продаж і будаваньне караблёў."/>
+    <string id="Y53KNYuZYL" text="Кіраваць флотам у доках"/>
+    <string id="H2O554VLoL" text="Кіраваць сваім флотам у гэтым порце"/>
+    <string id="IdUeyLfjDL" text="Кіраваць сваімі {NUM_FLEETS} флотамі ў гэтым порце"/>
+    <string id="StqsEz5JgS" text="Вы не маеце флатоў у гэтым порце"/>
+    <string id="izhtC9ysv9" text="[Чыт] Зладзіць плаваньне з порта."/>
+    <string id="mer6pjy1Mn" text="Зладзіць плаваньне"/>
+    <string id="RDav1vM63u" text="Вы не маеце флатоў у гэтым порце, на якіх льга плаваць."/>
+    <string id="Sn7TJjpjyT" text="Вашаму флоту бракуе {SHIP_COUNT} месца для вашых людзей"/>
+    <string id="j89pN06eqg" text="Абраць флот"/>
+    <string id="c1bSJVV3FQ" text="Вярнуцца ў горад"/>
+    <string id="xwMAo1cVZP" text="Вы сустракаеце з загадніка порта, які прапануе вам наступныя варыянты падарожжа між партамі."/>
+    <string id="rrLe6CwRLo" text="Наняць караблі для падарожжа ў адзін канец."/>
+    <string id="INfOcDqf7l" text="Вярнуцца ў порт"/>
+    <string id="wZLwMFuFCu" text="Абраць пункт прызначэньня. Кошт залежыць ад памеру партыі, колькасьці грузу, адносінаў з горадам і, вядома, адлегласьці да пункта прызначэньня."/>
+    <string id="EGq8HfN5hU" text="Ніхто не жадае плыць у варожы порт"/>
+    <string id="8Iin6bXmiH" text="Ніхто не жадае плыць у горад, які знаходзіцца пад аблогай"/>
+    <string id="zXjHzHUpxo" text="Вам забаронены ўваход у гэты пункт прызначэньня"/>
+    <string id="92DBEQc1p9" text="Вярнуцца да Загадніка Порта"/>
+    <string id="7pNR2Xuwrt" text="Падарожнічаць да {TRAVEL_DEST} за {TRAVEL_COST}{GOLD_ICON}?"/>
+    <string id="eKpE17JjB3" text="Бракуе золата"/>
+    <string id="ivXfiOske9" text="Вярнуцца да абраньня пункта прызначэньня"/>
+    <string id="KQWVBQ8oE3" text="Вы аточаны відамі і гукамі стварэньня караблёў."/>
+    <string id="RCrK6j86cV" text="[Чыт] Дадаць выпадковы карабель."/>
+    <string id="5b7r9SOqSQ" text="Паглядзець караблі, якія льга купіць."/>
+    <string id="LlfjyuSnsn" text="Тут знаходзяцца караблі, якія цяпер прадаюцца ў порце."/>
+    <string id="8hc9mPS9Mr" text="Клас"/>
+    <string id="CFL4v1v3XV" text="Ёмістасць Экіпажа"/>
+    <string id="vwNi091pvN" text="Ёмістасць Ваяроў"/>
+    <string id="nZdnsiiv3y" text="Ёмістасць Грузу"/>
+    <string id="Nsz666Od5K" text="Кошт"/>
+    <string id="juNTiIthcH" text="Пацьвердзіць куплю {SHIP_CLASS} за {SHIP_COST}{GOLD_ICON}?"/>
+    <string id="XqSmBEPlJm" text="Так. Шчэ адзін выдатны дадатак да флоту."/>
+    <string id="8zmfY3TjZm" text="Здаецца, вам бракуе золата"/>
+    <string id="gcymi6BlCj" text="У які флот адправіць карабель?"/>
+    <string id="hFSVMu1Ut9" text="Стварыць новы флот"/>
+    <string id="SnTAwIcMUi" text="Вашыя флаты щ доках"/>
+    <string id="CqbzVqMo2o" text="Колькасьць Караблёў"/>
+    <string id="RO8Iz3FI6h" text="Флагман"/>
+    <string id="hxvo8CFBpw" text="Вашы флот"/>
+    <string id="qco1qQSk3b" text="Пераназваць"/>
+    <string id="jcShFM9hoS" text="Назва Флота"/>
+    <string id="Dj96iVLElL" text="Кіраваць караблямі"/>
+    <string id="V24R3feGz9" text="Караблі вашага флоту {FLEET_NAME}"/>
+    <string id="UgIDUQ4o94" text="Вярнуцца да абраньня флоту"/>
+    <string id="3GcjXQvyPI" text="Перадаць у іншы флот"/>
+    <string id="4Vm5F55ggE" text="Абраць прымаючы флот ці стварыць новы"/>
+    <string id="IXBdFAKDzw" text="Прадаць свой карабель {MANAGED_SHIP_NAME} за {SHIP_VALUE}{GOLD_ICON}?"/>
+    <string id="1PhHfHu8aI" text="Кіраваць іншым караблём"/>
+    <string id="Mlh6zpQTB1" text="Пацьвердзіць"/>
     <!--#endRegion Port Mechanic-->
     
     <!--#region Landing Area-->
