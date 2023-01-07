@@ -165,35 +165,35 @@
     <!--#endRegion Port Mechanic-->
     
     <!--#region Landing Area-->
-    <string id="rvR4uIlKFX" text="You come upon a suitable landing area for landing your fleet"/>
-    <string id="436PZSKkv5" text="You arrive at an occupied landing area"/>
-    <string id="qWcFPy2JBs" text="You arrive at a vacant landing area"/>
-    <string id="1iUbm1nEGZ" text="Land your fleet"/>
-    <string id="jZJQ9254Uw" text="Cancel the landing"/>
-    <string id="3im6aN6sSu" text="Manage landed fleets"/>
-    <string id="52p2YbiaVX" text="Set sail"/>
-    <string id="NB28ZVMP4Y" text="Stay on land"/>
+    <string id="rvR4uIlKFX" text="Вы знаходзіце прыдатную мясцовасьць для высадкі свайго флоту"/>
+    <string id="436PZSKkv5" text="Вы прыбываеце на занятую мясцовасць для высадкі"/>
+    <string id="qWcFPy2JBs" text="Вы прыбываеце на свабодную мясцовасць для высадкі"/>
+    <string id="1iUbm1nEGZ" text="Высадзіць свой флот"/>
+    <string id="jZJQ9254Uw" text="Скасаваць высадку"/>
+    <string id="3im6aN6sSu" text="Кіраваць высаджаным флотам"/>
+    <string id="52p2YbiaVX" text="Зладзіць плаваньне"/>
+    <string id="NB28ZVMP4Y" text="Застацца на зямлі"/>
     <!--#endRegion Landing Area-->
 
     <!--#region Landing Area-->
-    <string id="G1RDhmezVl" text="The ferryman will take you across for {TRAVEL_COST}{GOLD_ICON}"/>
-    <string id="mfSaooHMbp" text="Pay and cross"/>
-    <string id="Eq3ojL7yBq" text="Not enough gold"/>
+    <string id="G1RDhmezVl" text="Пераправнік даставіць вас за {TRAVEL_COST}{GOLD_ICON}."/>
+    <string id="mfSaooHMbp" text="Заплаціць і перасекчы"/>
+    <string id="Eq3ojL7yBq" text="Бракуе золата"/>
     <!--#endRegion Landing Area-->
 
 
     <!--#region Borrowed Ships-->
-    <string id="HZnYOZEL1v" text="Your current fleet has been stored at {SETTLEMENT_NAME}"/>
-    <string id="DpWY5omszx" text="Your current fleet has been stored at a Ferry Point near {SETTLEMENT_NAME}"/>
-    <string id="G1RDhmezVl" text="Return Borrowed Ships"/>
-    <string id="mfSaooHMbp" text="You have borrowed a fleet of ships in order to complete your quest for {QUEST_GIVER.LINK}. Once that quest is completed, you must return to land in order for the ships to make their way back to their owner."/>
-    <string id="Eq3ojL7yBq" text="You have borrowed a fleet of ships in order to follow the army of {QUEST_GIVER.LINK}. Once you have left the army, you must return to land in order for the ships to make their way back to their owner."/>
-    <string id="HZnYOZEL1v" text="You have completed your quest for {QUEST_GIVER.LINK}. Now the owner wants his boats back. Simply return to land within {DAYS_COUNT}."/>
-    <string id="k0I6ystnxl" text="You have left the army of {QUEST_GIVER.LINK} with the ships he lent you. Either return to land or rejoin the army within {DAYS_COUNT} days."/>
-    <string id="EPbNTwZaiX" text="You have rejoined the army of {QUEST_GIVER.LINK} with the ships he lent you."/>
-    <string id="7rOIhINhUX" text="You have successfully returned the ships you borrowed from {QUEST_GIVER.LINK}."/>
-    <string id="EoG0sKAdtd" text="You have stolen the boats you borrowed from {QUEST_GIVER.LINK}. This has degraded his trust in you."/>
-    <string id="D4fESsLIAH" text="You have lost the ships you borrowed from {QUEST_GIVER.LINK}. This has degraded his trust in you."/>
+    <string id="HZnYOZEL1v" text="Вашы цяперашні флот знаходзіцца ў {SETTLEMENT_NAME}"/>
+    <string id="DpWY5omszx" text="Вашы цяперашні флот знаходзіцца на Пераправе каля {SETTLEMENT_NAME}"/>
+    <string id="G1RDhmezVl" text="Вярнуць Пазычанныя Караблі"/>
+    <string id="mfSaooHMbp" text="Вы пазычылі флот караблёў, каб выканаць квэст {QUEST_GIVER.LINK}. Пасля завяршэння гэтага квэста вы мусіце высадзіцца на зямлю, каб караблі вярнуліся да свайго ўласніка."/>
+    <string id="Eq3ojL7yBq" text="Вы пазычылі флот караблёў, каб ісці ўслед за войскам {QUEST_GIVER.LINK}. Пасля таго як вы пакінеце войска, вы мусіце высадзіцца на зямлю, каб караблі змаглі вярнуцца да свайго ўласніка."/>
+    <string id="HZnYOZEL1v" text="Вы выканалі квэст {QUEST_GIVER.LINK}. Зараз уласнік жадае вярнуць свае караблі. Проста высадзіцеся на зямлю цягам {DAYS_COUNT}."/>
+    <string id="k0I6ystnxl" text="Вы пакінулі войска {QUEST_GIVER.LINK} з караблямі, якія {?QUEST_GIVER.GENDER}яна вам пазычыла{?}ён вам пазычыў{\?}. Або высадзіцеся на зямлю, або ўз'яднайцеся з войскам цягам {DAYS_COUNT} дзён."/>
+    <string id="EPbNTwZaiX" text="Вы далучыліся да войска {QUEST_GIVER.LINK} з караблямі, якія {?QUEST_GIVER.GENDER}яна вам пазычыла{?}ён вам пазычыў{\?}."/>
+    <string id="7rOIhINhUX" text="Вы паспяхова вярнулі караблі, пазычаныя ў {QUEST_GIVER.LINK}."/>
+    <string id="EoG0sKAdtd" text="Вы ўкралі караблі, якія пазычылі ў {QUEST_GIVER.LINK}. Гэта падарвала {?QUEST_GIVER.GENDER}яе{?}яго{\?} давер да вас."/>
+    <string id="D4fESsLIAH" text="Вы страцілі караблі, якія пазычылі ў {QUEST_GIVER.LINK}. Гэта падарвала {?QUEST_GIVER.GENDER}яе{?}яго{\?} давер да вас."/>
     <!--#endRegion Borrowed Ships-->
     
   </strings>
