@@ -1,0 +1,58 @@
+<Translation>
+    <LanguageItem Key="general_save" Value="Save" />
+    <LanguageItem Key="general_saved" Value="Saved" />
+    <LanguageItem Key="general_delete" Value="Delete" />
+    <LanguageItem Key="general_cancel" Value="Cancel" />
+    <LanguageItem Key="general_play" Value="Play" />
+    <LanguageItem Key="menu_main" Value="Mods" />
+    <LanguageItem Key="menu_preset" Value="Presets" />
+    <LanguageItem Key="menu_settings" Value="Options" />
+    <LanguageItem Key="dashboard_title" Value="Mods" />
+    <LanguageItem Key="dashboard_scan" Value="Scan Modules" />
+    <LanguageItem Key="dashboard_warning" Value="Mod {1} is required for {2}. {3} exists but version requirement not matching. Currently you have {4} but required version is {5}." />
+    <LanguageItem Key="dashboard_require" Value="Mod {1} is required for {2}. {3} doesn't exist in current load order." />
+    <LanguageItem Key="dashboard_missing" Value="Mod {1} isn't installed on your machine." />
+    <LanguageItem Key="dashboard_missingnavigate" Value="You can search and download from here." />
+    <LanguageItem Key="dashboard_missingnavigatedirect" Value="You can directly download from here." />
+    <LanguageItem Key="dashboard_exported" Value="Preset {1} successfully exported." />
+    <LanguageItem Key="dashboard_savedpreset" Value="Changes saved to preset {1} successfully." />
+    <LanguageItem Key="dashboard_modinstalltitle" Value="Installed" />
+    <LanguageItem Key="dashboard_modinstalled" Value="Mod successfully installed. However, you might want to unblock its dll files." />
+    <LanguageItem Key="dashboard_modinstallfailed" Value="Mod installation failed." />
+    <LanguageItem Key="dashboard_modwrongfile" Value="We can only install archive files (zip,gzip,tar,tar.gzip,tar.bzip2,tar.lzip,.xz,.rar,.7zip) or extracted mod folders. Dragged type is not supported" />
+    <LanguageItem Key="main_exported" Value="Exported" />
+    <LanguageItem Key="main_savepreset" Value="Save Preset" />
+    <LanguageItem Key="main_saveaspreset" Value="Save Preset As" />
+    <LanguageItem Key="main_exportpreset" Value="Export" />
+    <LanguageItem Key="main_exportpresetname" Value="Preset Name:" />
+    <LanguageItem Key="main_preset" Value="Preset:" />
+    <LanguageItem Key="main_loadorder" Value="Load Order" />
+    <LanguageItem Key="main_restofmods" Value="Rest of the Mods" />
+    <LanguageItem Key="settings_languages" Value="Languages:" />
+    <LanguageItem Key="settings_warningaboutengine" Value="If you are not sure about these settings, don't change them. Wrong configuration can cause unwanted crash." />
+    <LanguageItem Key="settings_tooloptions" Value="Launcher Settings" />
+    <LanguageItem Key="settings_blconfig" Value="Bannerlord Settings" />
+    <LanguageItem Key="settings_unblockgood" Value="Successfully unblocked the .dll files" />
+    <LanguageItem Key="settings_engineconfig" Value="Engine Settings" />
+    <LanguageItem Key="settings_unblockdesc" Value="Unblock all mod .dll files" />
+    <LanguageItem Key="settings_proceed" Value="Unblock" />
+    <LanguageItem Key="settings_warning" Value="Warning: Unblocking .dll files means they will be run on your machine. Do this only if you TRUST the downloaded source." />
+    <LanguageItem Key="preset_wrongfile" Value="This file doesn't seem to be a valid preset file. It can be corrupted or wrong file." />
+    <LanguageItem Key="preset_alreadyexist" Value="You already have this preset!" />
+    <LanguageItem Key="preset_great" Value="Great" />
+    <LanguageItem Key="preset_greatinfo" Value="Preset is successfully saved. You can now use it." />
+    <LanguageItem Key="preset_deletepreset" Value="Delete Preset" />
+    <LanguageItem Key="preset_deletepresetexplain" Value="Do you really want to delete {1} preset?" />
+    <LanguageItem Key="preset_deleted" Value="Deleted" />
+    <LanguageItem Key="preset_deletedexp" Value="Requested preset is deleted successfully" />
+    <LanguageItem Key="preset_deletedoops" Value="Something went wrong!" />
+    <LanguageItem Key="preset_title" Value="Presets" />
+    <LanguageItem Key="preset_loadorder" Value="Preset Loading Order" />
+    <LanguageItem Key="preset_createdby" Value="Created By:" />
+    <LanguageItem Key="preset_lastupdate" Value="Last Update:" />
+    <LanguageItem Key="preset_reqver" Value="Required Version:" />
+    <LanguageItem Key="preset_id" Value="Id:" />
+    <LanguageItem Key="preset_url" Value="URL:" />
+    <LanguageItem Key="preset_deleteselected" Value="Delete Selected" />
+    <LanguageItem Key="preset_explain" Value="You can drag and drop any valid preset to here and it will be added automatically. You can also edit existing presets or remove them here. If you want to create a new one, go to main section and press Export." />
+</Translation>
