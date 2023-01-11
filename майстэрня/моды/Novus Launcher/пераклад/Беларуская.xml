@@ -5,7 +5,7 @@
     <LanguageItem Key="general_cancel" Value="Скасаваць" />
     <LanguageItem Key="general_play" Value="Гуляць" />
     <LanguageItem Key="menu_main" Value="Моды" />
-    <LanguageItem Key="menu_preset" Value="Перадусталёўкі" />
+    <LanguageItem Key="menu_preset" Value="Зьвязкі" />
     <LanguageItem Key="menu_settings" Value="Налады" />
     <LanguageItem Key="dashboard_title" Value="Моды" />
     <LanguageItem Key="dashboard_scan" Value="Сканаваць Модулі" />
@@ -14,45 +14,45 @@
     <LanguageItem Key="dashboard_missing" Value="Мод {1} не ўсталяваны на вашай машыне." />
     <LanguageItem Key="dashboard_missingnavigate" Value="Можаце шукаць і спампоўваць адсюль." />
     <LanguageItem Key="dashboard_missingnavigatedirect" Value="Можаце наўпрост спампаваць адсюль." />
-    <LanguageItem Key="dashboard_exported" Value="Перадусталёўка {1} паспяхова экспартавана." />
-    <LanguageItem Key="dashboard_savedpreset" Value="Зьмены захаваны ў перадусталёўку {1} паспяхова." />
+    <LanguageItem Key="dashboard_exported" Value="Зьвязак {1} пасьпяхова экспартаваны." />
+    <LanguageItem Key="dashboard_savedpreset" Value="Зьмены ў зьвязак {1} пасьпяхова захаваны." />
     <LanguageItem Key="dashboard_modinstalltitle" Value="Усталявана" />
-    <LanguageItem Key="dashboard_modinstalled" Value="Мод паспяхова ўсталяваны. Але вы можаце пажадаць адблакаваць яго dll-файлы." />
+    <LanguageItem Key="dashboard_modinstalled" Value="Мод пасьпяхова ўсталяваны. Але вы можаце пажадаць адблакаваць яго dll-файлы." />
     <LanguageItem Key="dashboard_modinstallfailed" Value="Усталёўка мода не ўдалася." />
-    <LanguageItem Key="dashboard_modwrongfile" Value="Мы можам усталёўваць толькі архіўныя файлы (zip,gzip,tar,tar.gzip,tar.bzip2,tar.lzip,.xz,.rar,.7zip) ці разархіваваныя тэчкі модаў. Перацягваньне не падтрымліваецца" />
+    <LanguageItem Key="dashboard_modwrongfile" Value="Маецца магчымасьць усталёўкі толькі архіўных файлаў (zip,gzip,tar,tar.gzip,tar.bzip2,tar.lzip,.xz,.rar,.7zip) і разархіваваных тэчак модаў. Перацягваньне не падтрымліваецца" />
     <LanguageItem Key="main_exported" Value="Экспартавана" />
-    <LanguageItem Key="main_savepreset" Value="Захаваць Перадусталёўку" />
-    <LanguageItem Key="main_saveaspreset" Value="Захаваць Перадусталёўку Як" />
+    <LanguageItem Key="main_savepreset" Value="Захаваць Зьвязак" />
+    <LanguageItem Key="main_saveaspreset" Value="Захаваць Зьвязак Як" />
     <LanguageItem Key="main_exportpreset" Value="Экспарт" />
-    <LanguageItem Key="main_exportpresetname" Value="Назва Перадусталёўкі:" />
-    <LanguageItem Key="main_preset" Value="Перадусталёўка:" />
+    <LanguageItem Key="main_exportpresetname" Value="Назва Зьвязку:" />
+    <LanguageItem Key="main_preset" Value="Зьвязак:" />
     <LanguageItem Key="main_loadorder" Value="Чарга Загрузкі" />
     <LanguageItem Key="main_restofmods" Value="Астатнія Моды" />
     <LanguageItem Key="settings_languages" Value="Мовы:" />
-    <LanguageItem Key="settings_warningaboutengine" Value="Калі вы не ўпэўнены ў гэтых наладах, не змяняйце іх. Няслушныя налады могуць прывесьці да непажаданага збою." />
-    <LanguageItem Key="settings_tooloptions" Value="Налады Загрузніка" />
+    <LanguageItem Key="settings_warningaboutengine" Value="Калі вы не ўпэўнены ў гэтых наладах, не зьмяняйце іх. Няслушныя налады могуць прывесьці да непажаданага збою." />
+    <LanguageItem Key="settings_tooloptions" Value="Налады Загрузьніка" />
     <LanguageItem Key="settings_blconfig" Value="Налады Bannerlord" />
-    <LanguageItem Key="settings_unblockgood" Value=".dll файлы паспяхова адблакаваны" />
+    <LanguageItem Key="settings_unblockgood" Value=".dll файлы пасьпяхова адблакаваны" />
     <LanguageItem Key="settings_engineconfig" Value="Налады Рухавіка" />
     <LanguageItem Key="settings_unblockdesc" Value="Адблакаваць .dll файлы ўсіх модаў" />
     <LanguageItem Key="settings_proceed" Value="Адблакаваць" />
-    <LanguageItem Key="settings_warning" Value="Увага: Адблакаваньне файлаў .dll азначае, што яны будуць запушчаны на вашай машыне. Рабіце гэта толькі ў тым выпадку, калі вы ДАВЯРАЕЦЕ крыніцы загрузкі." />
-    <LanguageItem Key="preset_wrongfile" Value="Здаецца, гэты файл не з'яўляецца валідным файлам перадусталёўкі. Ён можа быць пашкоджаным ці няслушным." />
-    <LanguageItem Key="preset_alreadyexist" Value="Вы ўжо маеце гэтую перадусталёўку!" />
+    <LanguageItem Key="settings_warning" Value="Увага: Адблакаваньне файлаў .dll азначае, што яны будуць запушчаны на вашай машыне. Рабіце гэта толькі ў тым выпадку, калі вы ДАВЯРАЕЦЕ крыніцы загрузкі (бо могуць быць вірусы і іншыя шкодныя праграмы)." />
+    <LanguageItem Key="preset_wrongfile" Value="Здаецца, гэты файл ня з'яўляецца валідным файлам зьвязку. Ён можа быць пашкоджаным ці няслушным." />
+    <LanguageItem Key="preset_alreadyexist" Value="Вы ўжо маеце гэты зьвязак!" />
     <LanguageItem Key="preset_great" Value="Выдатна" />
-    <LanguageItem Key="preset_greatinfo" Value="Перадусталёўкі паспяхова захаваны. Цяпер вы можаце іх выкарыстоўваць." />
-    <LanguageItem Key="preset_deletepreset" Value="Выдаліць Перадусталёўку" />
-    <LanguageItem Key="preset_deletepresetexplain" Value="Вы сапраўды жадаеце выдаліць перадусталёўку {1}?" />
-    <LanguageItem Key="preset_deleted" Value="Выдалена" />
-    <LanguageItem Key="preset_deletedexp" Value="Requested preset is deleted successfully" />
-    <LanguageItem Key="preset_deletedoops" Value="Something went wrong!" />
-    <LanguageItem Key="preset_title" Value="Presets" />
-    <LanguageItem Key="preset_loadorder" Value="Preset Loading Order" />
-    <LanguageItem Key="preset_createdby" Value="Created By:" />
-    <LanguageItem Key="preset_lastupdate" Value="Last Update:" />
-    <LanguageItem Key="preset_reqver" Value="Required Version:" />
+    <LanguageItem Key="preset_greatinfo" Value="Зьвязкі пасьпяхова захаваны. Цяпер вы можаце іх выкарыстоўваць." />
+    <LanguageItem Key="preset_deletepreset" Value="Выдаліць Зьвязку" />
+    <LanguageItem Key="preset_deletepresetexplain" Value="Вы сапраўды жадаеце выдаліць зьвязак {1}?" />
+    <LanguageItem Key="preset_deleted" Value="Выдалены" />
+    <LanguageItem Key="preset_deletedexp" Value="Запытаны зьвязак пасьпяхова выдалены" />
+    <LanguageItem Key="preset_deletedoops" Value="Нешта пайшло хібна!" />
+    <LanguageItem Key="preset_title" Value="Зьвязкі" />
+    <LanguageItem Key="preset_loadorder" Value="Чарга Загрузкі Зьвязку" />
+    <LanguageItem Key="preset_createdby" Value="Створаны:" />
+    <LanguageItem Key="preset_lastupdate" Value="Апошняя Абнова:" />
+    <LanguageItem Key="preset_reqver" Value="Патрабаваная Версія:" />
     <LanguageItem Key="preset_id" Value="Id:" />
-    <LanguageItem Key="preset_url" Value="URL:" />
-    <LanguageItem Key="preset_deleteselected" Value="Delete Selected" />
-    <LanguageItem Key="preset_explain" Value="You can drag and drop any valid preset to here and it will be added automatically. You can also edit existing presets or remove them here. If you want to create a new one, go to main section and press Export." />
+    <LanguageItem Key="preset_url" Value="Спасылка:" />
+    <LanguageItem Key="preset_deleteselected" Value="Выдаліць Абранае" />
+    <LanguageItem Key="preset_explain" Value="Вы можаце перацягнуць сюды ўсякі валідны зьвязак, і ён будзе аўтаматычна даданы. Таксама вы можаце тут рэдагаваць існы зьвязак ці выдаліць яго. Калі вы жадаеце стварыць новы, перайдзіце ў галоўны падзел і націсьніце Экспарт." />
 </Translation>
