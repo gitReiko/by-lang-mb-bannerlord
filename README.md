@@ -70,7 +70,7 @@
 
 ## Аўтар
 
-Denis Makouski (Reiko17)
+Yan Lidski (Reiko17)
 
 ## Разьвіцьцё перакладу альбо мадыфікацыя
 
