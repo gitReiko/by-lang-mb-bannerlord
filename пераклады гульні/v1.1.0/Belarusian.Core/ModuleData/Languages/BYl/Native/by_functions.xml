@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+
+   <functions>
+    <function functionName="GENDER" functionBody="{?$0!.Muzcynski}0{:?$0!.Zanocy}1{:?$0!.Nijaki}2{:?$0!.Mnozny}3{:}0{\?}"/>
+    <function functionName="PLURAL" functionBody="{?$0.Plural}{$0.Plural}{?}{$0}{.s}{\?}"/>
+  </functions>
+</base>
