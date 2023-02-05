@@ -17,10 +17,11 @@
     <string id="1imGhhZl" text="Assists" />
     <string id="1JlzQIXE" text="Disabled" />
     <string id="1pwQgr04" text="Matchmaking Request" />
+    <string id="1UaxKbn6" text="Returning to the Lobby..." />
+    <string id="2AGvFYk9" text="To start the mission, you need to have at least one formation with {FORMATION_CLASS} class." />
     <string id="2baWg4Gq" text="Host" />
     <string id="2faDtaGz" text="Gold I" />
     <string id="2FaZ6E1k" text="Kill Death Ratio" />
-    <string id="2kvGep9s" text="Choose Commander for Formation {FORMATION_INDEX}" />
     <string id="2KZLf51A" text="Evaluation Matches Finished" />
     <string id="2YIVRuRa" text="Remove From Friends" />
     <string id="2zcrC0h1" text="Gameplay" />
@@ -50,8 +51,8 @@
     <string id="65oGXBYQ" text="Create" />
     <string id="67hsZZor" text="Are you sure want to leave your clan?" />
     <string id="6GSXsdeX" text="Speed" />
-    <string id="6Labpvyp" text="You are the #{POSITION} player" />
     <string id="6MQaCah5" text="Join a Game" />
+    <string id="6mZymVS8" text="You are at the final rank" />
     <string id="6syoutpV" text="From {WHISPER_TARGET}" />
     <string id="6zYeU0VO" text="Disconnected from a match" />
     <string id="74PKmRWJ" text="Flip Hair" />
@@ -90,6 +91,7 @@
     <string id="ADKHovtz" text="Reset Deployment" />
     <string id="ADPaaX8R" text="Best Players of This Battle" />
     <string id="aeouhelq" text="Yes" />
+    <string id="aGGq9lJT" text="Change Culture" />
     <string id="Agtv9l7S" text="This Name Already Exists" />
     <string id="AGUXiN8u" text="Voivode" />
     <string id="ahiBhAqU" text="Armor" />
@@ -111,6 +113,7 @@
     <string id="Ba50zU7Z" text="Change" />
     <string id="BAaS5Dkc" text="Apply" />
     <string id="BANC61K5" text="Previous Character" />
+    <string id="BBmEESTT" text="This server allows optional modules." />
     <string id="bD8nTS86" text="Rarity" />
     <string id="bExIl1A2" text="Name Length Is Invalid" />
     <string id="bfQLwMUp" text="Clans" />
@@ -140,6 +143,7 @@
     <string id="cl2DnRYR" text="Name Should Not Contain Offensive Words" />
     <string id="cLJdeUWz" text="Height:" />
     <string id="clxT9H4T" text="Type Your Name" />
+    <string id="CNR4cZwZ" text="Modules compatible" />
     <string id="cO2FDHCa" text="Duel with {OPPONENT_NAME} is starting in {DUEL_REMAINING_TIME} seconds." />
     <string id="CW2JkWzC" text="Are you sure want to delete this announcement?" />
     <string id="cw5QyeRU" text="Report Reason" />
@@ -162,14 +166,12 @@
     <string id="DraJ6bxq" text="Vote for the Next Map" />
     <string id="DUrxKsJj" text="Silver I" />
     <string id="DvnRkWQg" text="Transfer Troops To {FORMATION_INDEX}" />
-    <string id="DWWa3aIb" text="Give preference to troops with Thrown Weapons" />
     <string id="DXczLzml" text="Status" />
     <string id="dxlkHhw5" text="Games Won" />
     <string id="DyeaObj5" text="Please cancel game search request before logging out." />
     <string id="E0q43haK" text="Please wait until you are logged in." />
     <string id="E3Bqugs0" text="Unranked" />
     <string id="e3IeNR9W" text="Bronze II" />
-    <string id="Ea3K1PVR" text="Thrown Weapons" />
     <string id="ebUrBmHK" text="Price" />
     <string id="ECb8IPbA" text="Create Clan" />
     <string id="eCOJSSUH" text="({BOT_COUNT} Bots)" />
@@ -178,6 +180,7 @@
     <string id="eGuQKRhb" text="You are leaving the area!" />
     <string id="ehkVpzpa" text="Unable to get cosmetic information" />
     <string id="empirefaction" text="Empire" />
+    <string id="EmVbbIUc" text="Return" />
     <string id="EQAjujjO" text="Clan creation information can't be retrieved" />
     <string id="eQPSEUml" text="Abandoned" />
     <string id="erp8X0KD" text="+{LOOT} from badges" />
@@ -188,7 +191,6 @@
     <string id="f64QfbTO" text="'{KEY}' to send" />
     <string id="F70rOpkK" text="Captain" />
     <string id="F7dBjl83" text="Custom Battle feature is currently disabled" />
-    <string id="f83FU4X6" text="Polearms" />
     <string id="FaKWQccs" text="Gold Gained From Objectives" />
     <string id="FD7EQDmW" text="Looking for game" />
     <string id="fdR3xpBS" text="MVP Badges" />
@@ -201,7 +203,6 @@
     <string id="FKe05WtJ" text="Kills" />
     <string id="fLddxLjh" text="Invite to Clan" />
     <string id="fM9E7frB" text="Performance" />
-    <string id="FNLfNWH3" text="Cavalry and Horse Archer" />
     <string id="FRSGOfUJ" text="Toggle include Combat Log" />
     <string id="ftoSCQ0x" text="Length" />
     <string id="FTXx0aRp" text="Play as" />
@@ -216,8 +217,10 @@
     <string id="gamevideo" text="Video" />
     <string id="GAZ5QLZi" text="Unarmed" />
     <string id="gcl2duJH" text="Reset your badge" />
+    <string id="Gcs49qcC" text="The client doesn't have the map ({MAP_NAME}) being played on the server loaded, or the local map is not identical." />
     <string id="gGa3ZhqN" text="This player will be muted automatically." />
     <string id="GGseMDd3" text="Durability" />
+    <string id="ghjSIyIL" text="Choose Culture" />
     <string id="gk5dCG1j" text="kick" />
     <string id="GMhOZGnb" text="Cannot issue order while dead." />
     <string id="GmU1to3Y" text="Statistics" />
@@ -248,7 +251,6 @@
     <string id="i2mNBaxE" text="Obtain" />
     <string id="i3dJSlD0" text="No team had the upper hand at timeout" />
     <string id="i4Oo6aoM" text="Downloading Content..." />
-    <string id="IBEJPlEj" text="Home" />
     <string id="iCaRFZpG" text="along with these players" />
     <string id="Ie9I2Bha" text="Thrust Dmg." />
     <string id="iKtIhlbo" text="Rounds" />
@@ -260,22 +262,20 @@
     <string id="Iu2eFSsh" text="Infantry Wins" />
     <string id="J0vjDOFO" text="Thrust Spd." />
     <string id="J2wEawTl" text="Category" />
-    <string id="j35pgljM" text="Choose Faction" />
     <string id="j4F7tTzy" text="Clan" />
     <string id="j5pLIV91" text="Focus Start" />
     <string id="J5rb5YVV" text="/ {SCORE}" />
+    <string id="JdEiK70R" text="Clan Leaderboard" />
     <string id="JPimShCw" text="Game Type" />
     <string id="jPXglGWT" text="Enemy team was wiped out" />
     <string id="jR237DSU" text="Commander is mounted!" />
     <string id="jS5rrX8M" text="There are no changes to apply." />
     <string id="JTMegIk4" text="Accepted" />
-    <string id="Jw0GMgzv" text="Heavy Armors" />
     <string id="JXyxj1J5" text="Modules" />
     <string id="JY2pBVHQ" text="Announcements" />
     <string id="JYIURZLb" text="+{LOOT} from match" />
     <string id="jyJXcOLe" text="Tag Should Not Contain Offensive Words" />
     <string id="K1Gb5a5Q" text="You need to run the game with Anti-cheat" />
-    <string id="K3Cr70PY" text="Give preference to troops with Polearms" />
     <string id="k7fJ7TF0" text="Has to be at least" />
     <string id="K8CGzQYL" text="Received Requests" />
     <string id="kF3b8cH1" text="Create Your Clan" />
@@ -284,7 +284,6 @@
     <string id="klkYFik9" text="You've already reported this player." />
     <string id="KOVHgkVq" text="Voting Ends In:" />
     <string id="koX9okuG" text="None" />
-    <string id="KtweIQJQ" text="No formation with {FORMATION_CLASS} class exists!" />
     <string id="kVII0pqT" text="Show Gamercard" />
     <string id="Kvqb1lQR" text="{SCORE} Score" />
     <string id="l2CNxPXG" text="Teeth Type" />
@@ -302,7 +301,6 @@
     <string id="m7vOLTpp" text="Screen Resolution Has Been Changed" />
     <string id="macpKFaG" text="Voice" />
     <string id="mAxXKaXp" text="Reset" />
-    <string id="mBDj5uG5" text="Infantry and Ranged" />
     <string id="MceLT3Zg" text="Wireless Controller" />
     <string id="meFS5F4V" text="-{DAMAGE}" />
     <string id="mFMPj9zg" text="Searching for matches" />
@@ -311,13 +309,15 @@
     <string id="mPCrz4rs" text="Lock troop percentage from relative changes." />
     <string id="MPgnsZoo" text="Waiting for response" />
     <string id="MS4Ng2iw" text="Are you sure want to promote {MEMBER_NAME} as clan officer?" />
+    <string id="MsokbMx2" text="Does not support Clan feature" />
+    <string id="MssTzJJb" text="Assign as Commander" />
     <string id="MT4b8H9h" text="Unknown" />
     <string id="mueocuFG" text="Show Indicators" />
-    <string id="MVOPbhNj" text="Give preference to troops with Shields" />
     <string id="N0DXasar" text="Reconnecting" />
     <string id="n6yb5VCI" text="Achievement Badges" />
     <string id="NaZ6xg33" text="Couldn't find an applicable server to join." />
     <string id="nEpZvaEl" text="Fast Cursor Move Down" />
+    <string id="ngyMTaqr" text="Assign as Hero Troop" />
     <string id="NJolh9ye" text="Recent Games" />
     <string id="nLdQvaRK" text="Arena preference updated to {ARENA_TYPE}." />
     <string id="NLKmdNbt" text="Search" />
@@ -330,7 +330,6 @@
     <string id="NwiYsUwm" text="Clan doesn't have a description" />
     <string id="nWJGjCgy" text="characters" />
     <string id="oBbiVeKE" text="Hit Points" />
-    <string id="oemxqua2" text="Already assigned." />
     <string id="oeSrXaKt" text="You need to demote one of the officers" />
     <string id="oF27vprQ" text="Vote for the Next Culture" />
     <string id="oFWcihyW" text="Disband Clan" />
@@ -347,6 +346,7 @@
     <string id="OVcoYxj1" text="Server Name" />
     <string id="ovqtG4LS" text="Show PlayStation™Network Profile" />
     <string id="OwqFpPwa" text="Filters" />
+    <string id="oYS9sabI" text="(optional)" />
     <string id="oyVeCtlg" text="Roster" />
     <string id="oZc8oEAP" text="Reset this category to default" />
     <string id="OzifZbSB" text="Match Type" />
@@ -356,6 +356,7 @@
     <string id="P3IWytsr" text="Formation is currently empty" />
     <string id="P5Z9owOy" text="Sigil" />
     <string id="P7moPm3F" text="Set as party leader" />
+    <string id="p83IO9ls" text="You must select a culture" />
     <string id="partykick" text="Kick" />
     <string id="PDdh1sBj" text="Name" />
     <string id="PE5LqC9O" text="Team Matches" />
@@ -367,13 +368,10 @@
     <string id="playgame" text="Play" />
     <string id="PmbKYDON" text="Cheer" />
     <string id="Po8jNaXb" text="Can only contain letters" />
-    <string id="PqGJXYol" text="Missing Formations" />
     <string id="pSb1P6ZA" text="Are you sure want to demote {MEMBER_NAME} from clan officers?" />
     <string id="pSheKLB4" text="Spectator" />
-    <string id="PSN8IaIg" text="Shields" />
     <string id="PUjDWe5j" text="Culture" />
     <string id="Pwi1YCjH" text="Copy Bannerlord ID" />
-    <string id="Q1Ga032B" text="Don't give preference to any type of troop." />
     <string id="q2Y7aHSF" text="Invite Suggestion" />
     <string id="Q50X65NB" text="Classes" />
     <string id="q7VcSSbp" text="Choose Sigil" />
@@ -385,13 +383,16 @@
     <string id="qipBkhys" text="Cavalry Wins" />
     <string id="qmNeO8FG" text="Keybindings" />
     <string id="QndVFTbx" text="Unequip" />
+    <string id="qnxJYAs7" text="Party" />
     <string id="qTYsYJ9V" text="Send" />
     <string id="QvDxB57o" text="{STR1} | {STR2}" />
     <string id="QwbVdMLi" text="Sent Requests" />
     <string id="qXxpITdc" text="Eye Color:" />
     <string id="qyuhC21P" text="wants to {ACTION}" />
+    <string id="r223yChR" text="Overview" />
     <string id="R28ac5ij" text="{NUMBER} Players" />
     <string id="r5WzivPb" text="Round Time" />
+    <string id="RbazQjFt" text="Match is Finished" />
     <string id="Rc95Kq8r" text="Please wait..." />
     <string id="RCuCoVgd" text="ROUND WON" />
     <string id="RfXJdNye" text="Players" />
@@ -400,9 +401,9 @@
     <string id="RN6zHak0" text="Player" />
     <string id="RNgWFLIO" text="Swing Dmg." />
     <string id="Rov73lC3" text="Unsaved Changes" />
-    <string id="RPCjrF5X" text="You must select a faction" />
     <string id="RSx1e5Wf" text="Edit Character" />
     <string id="RVIKFCno" text="Reset to Defaults" />
+    <string id="RvKwdXWs" text="Commander" />
     <string id="Rvr1bcu8" text="Next" />
     <string id="rWm5udCd" text="You must enter a valid Bannerlord ID" />
     <string id="rx18kyZb" text="Combat Log" />
@@ -412,9 +413,11 @@
     <string id="s6qslcQY" text="{PERCENTAGE} ({TROOP_COUNT}/{TOTAL_TROOP_COUNT})" />
     <string id="S8pZEPni" text="Kick From Clan" />
     <string id="saZ1OvPt" text="You can press the login button to establish connection" />
-    <string id="SBa9mHsb" text="No Commander Assigned." />
+    <string id="Sbb8YcJM" text="Deselect all selected heroes" />
+    <string id="sEbeLmZP" text="This server does not allow optional modules." />
     <string id="sFDrUfNR" text="ban" />
     <string id="SfsnlbyK" text="Changes applied." />
+    <string id="SHiA1TRX" text="Enabling the DedicatedCustomServerHelper module allows downloading maps from supported servers!" />
     <string id="SLY8z9fP" text="All formations are selected!" />
     <string id="SoQcsslF" text="CURRENT TEAM" />
     <string id="sPkRekRL" text="Customization" />
@@ -434,6 +437,7 @@
     <string id="tidE1V1k" text="Accept duel" />
     <string id="tjioq56N" text="Friend List" />
     <string id="Tlc2buKG" text="Is Official" />
+    <string id="tSMckUw3" text="Invite Members" />
     <string id="tTwQsP6j" text="Player does not exist" />
     <string id="TxphX8Uk" text="Deployment" />
     <string id="TzYWE9tA" text="No Recent Games Found" />
@@ -446,7 +450,6 @@
     <string id="un7poy9x" text="Preview" />
     <string id="uOrwqeQl" text="You must select a sigil icon" />
     <string id="uoVKchoC" text="Region" />
-    <string id="ush8OHIw" text="Give preference to troops with Heavy Armors" />
     <string id="usLhlY2j" text="Please wait until player data is downloaded." />
     <string id="uTXYEAOg" text="[{STR}]" />
     <string id="uUoSmCBS" text="In Bannerlord" />
@@ -460,12 +463,11 @@
     <string id="vBkrw5VV" text="Random" />
     <string id="VFqoa6vD" text="Do you want to invite this player to your party?" />
     <string id="vGF5S2hE" text="Leaderboard" />
-    <string id="Vivr788x" text="Modules Compatible" />
     <string id="vlACTion" text="You've unlocked all badges!" />
     <string id="vW1VgmaP" text="Are you sure want to disband your clan?" />
+    <string id="VyMD4iRV" text="Hero Troops" />
     <string id="W4DLzPSb" text="Server not full" />
-    <string id="W51HSyXy" text="Press {VIEW_PROFILE_KEY} to view host's profile" />
-    <string id="w7Yrbi5t" text="Unset" />
+    <string id="W51HSyXy" text="Press {VIEW_OPTIONS_KEY} to view options" />
     <string id="w9m11T1y" text="Map" />
     <string id="wGjQgQlY" text="Next Game begins in:" />
     <string id="WHKG5Rbq" text="This team wants to join the match you created." />
@@ -478,7 +480,6 @@
     <string id="wTtyFa89" text="PLAY" />
     <string id="wubDWOlh" text="Select Profile" />
     <string id="wuKqRvc3" text="Game: {GAME_TYPES}  |  Region: {REGIONS}" />
-    <string id="WVauJViF" text="Game Ends In:" />
     <string id="WW2N3zJf" text="Wins" />
     <string id="wwbIcqsq" text="Conqueror" />
     <string id="WXAaWZVf" text="Previous" />
@@ -511,6 +512,7 @@
     <string id="yS7PvrTD" text="OK" />
     <string id="yUpH2mQ4" text="Ammo" />
     <string id="YVGtcLHF" text="Cavalry" />
+    <string id="YwbymaBc" text="Select all heroes" />
     <string id="Z0TW2cub" text="Are you sure want to promote {MEMBER_NAME} as clan leader? You will lose your leadership." />
     <string id="ZAejS7WF" text="Select players to invite to your clan" />
     <string id="zBld61ck" text="Weight:" />
@@ -520,7 +522,6 @@
     <string id="znKxunbQ" text="Next Character" />
     <string id="zpAamvDv" text="Silver II" />
     <string id="zravuI1b" text="Type Clan Information" />
-    <string id="zSXXfnYY" text="Change Faction" />
     <string id="Zv1lg272" text="Offline" />
     <string id="ZwN6rzTC" text="No permission" />
     <string id="ZYF2t1VI" text="Officer" />

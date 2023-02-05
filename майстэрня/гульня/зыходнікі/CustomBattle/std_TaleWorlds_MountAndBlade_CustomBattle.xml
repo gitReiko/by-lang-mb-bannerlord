@@ -7,8 +7,8 @@
     <string id="35IHscBa" text="ENEMY" />
     <string id="4gOGGbeQ" text="Custom Battle" />
     <string id="4IuXGSdc" text="Wall Hitpoints" />
-    <string id="8ZNOgT8Z" text="Troops in the formation gain {BONUS_AMOUNT}% melee damage." />
-    <string id="9RZLSV3E" text="Melee troops in the formation have their damage increased by {BONUS_AMOUNT}% against mounted troops." />
+    <string id="8ZNOgT8Z" text="{BONUS_AMOUNT}% melee damage to troops in your formation." />
+    <string id="9RZLSV3E" text="{BONUS_AMOUNT}% damage by melee troops in your formation against cavalry." />
     <string id="a3Vc59WV" text="Decreased Taken Melee Attack Damage" />
     <string id="AiNXIt5N" text="Dual Breached" />
     <string id="AmfIfeIc" text="Choose Attacker Siege Machines" />
@@ -19,7 +19,6 @@
     <string id="CTtjSwRb" text="Noon" />
     <string id="customgamemapname" text="Map" />
     <string id="customgametitle" text="Map" />
-    <string id="CxICwUtD" text="Increased Ranged Weapon Accuracy" />
     <string id="cZzfNlxd" text="Fall" />
     <string id="dsMeB3vi" text="Solid" />
     <string id="DszSWnc3" text="Time of Day" />
@@ -27,30 +26,31 @@
     <string id="eMbuGGus" text="Select troops to spawn in formation." />
     <string id="f7vOVQb7" text="Summer" />
     <string id="fAxjyMt5" text="Night" />
-    <string id="g0l7W5xQ" text="Mounts in your formation gain {BONUS_AMOUNT}% movement speed." />
+    <string id="g0l7W5xQ" text="{BONUS_AMOUNT}% movement speed to mounts in your formation." />
     <string id="g9VIbA9s" text="Sergeant" />
     <string id="gENb9SSW" text="Evening" />
     <string id="iSQTtNUD" text="This faction doesn't have this troop type." />
     <string id="J2gvnexb" text="Afternoon" />
     <string id="JPimShCw" text="Game Type" />
     <string id="KASD0tnO" text="Attacker" />
-    <string id="klGEDUmw" text="Troops in your formation take {BONUS_AMOUNT}% less damage to their shields" />
+    <string id="klGEDUmw" text="{BONUS_AMOUNT}% damage to shields of troops in your formation." />
     <string id="Kvxo2jzJ" text="Single Breached" />
-    <string id="labbKop6" text="Troops in your formation have their ranged damage increased by {BONUS_AMOUNT}%" />
-    <string id="Lso8j7Iv" text="Morale shocks have {BONUS_AMOUNT}% less effect on troops' morale in your formation." />
-    <string id="m86oViPX" text="Troops in your formation gain {BONUS_AMOUNT}% to their accuracy with ranged weapons." />
+    <string id="labbKop6" text="{BONUS_AMOUNT}% ranged damage to troops in your formation." />
+    <string id="Lso8j7Iv" text="{BONUS_AMOUNT}% morale penalty from casualties to troops in your formation." />
+    <string id="m86oViPX" text="{BONUS_AMOUNT}% accuracy penalty for ranged troops in your formation." />
+    <string id="MkBPRCuF" text="Decreased Ranged Accuracy Penalty" />
     <string id="MVOWsP48" text="Select a Melee Machine" />
     <string id="nMfxbc0Y" text="Increased Mount Movement Speed" />
     <string id="nOMT0Cw6" text="Decreased Morale Shock" />
-    <string id="nqWulUTP" text="Troops in your formation gain {BONUS_AMOUNT}% movement speed." />
+    <string id="nqWulUTP" text="{BONUS_AMOUNT}% movement speed to infantry in your formation." />
     <string id="nWbp3o3H" text="Spring" />
     <string id="nwqUFaU8" text="Winter" />
     <string id="O2oBC9sH" text="Increased Charge Damage" />
-    <string id="ORFrCYSn" text="Troops in your formation take {BONUS_AMOUNT}% less damage by melee attacks." />
+    <string id="ORFrCYSn" text="{BONUS_AMOUNT}% damage by melee attacks to troops in your formation." />
     <string id="p0JFbL7G" text="Decreased Taken Ranged Attack Damage" />
     <string id="P3rMg4uZ" text="Player Side" />
     <string id="PbJAOKKZ" text="Increased Troop Movement Speed" />
-    <string id="q7NmR3AP" text="Troops in your formation take {BONUS_AMOUNT}% less damage by ranged attacks" />
+    <string id="q7NmR3AP" text="{BONUS_AMOUNT}% morale penalty from casualties to troops in your formation." />
     <string id="QAYngoNQ" text="Enemy Character" />
     <string id="SLZzfNPr" text="Select a Ranged Machine" />
     <string id="sSJSTe5p" text="Player Party" />
@@ -61,6 +61,6 @@
     <string id="X3gcUz7C" text="Morning" />
     <string id="XEVFUaFj" text="Defender" />
     <string id="xTzDM5XE" text="Season" />
-    <string id="Z2xgnrDa" text="Mounted troops in your formation have their charge damage increased by {BONUS_AMOUNT}%." />
+    <string id="Z2xgnrDa" text="{BONUS_AMOUNT}% charge damage to mounted troops in your formation." />
   </strings>
 </base>
