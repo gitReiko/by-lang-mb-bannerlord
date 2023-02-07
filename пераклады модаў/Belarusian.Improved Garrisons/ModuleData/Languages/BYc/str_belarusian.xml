@@ -170,82 +170,82 @@
     <string id="ui_trainingui_trainingsettings" text="Налады Рыхтоўлі" /> 
     <string id="ui_trainingui_addtroopshint" text="Дадаць новых ваяроў да шаблону рыхтоўлі.{newline}{newline}Шаблон рыхтоўлі выкарыстоўваецца для вызначэньня шляха паляпшэньня ваяроў падчас рыхтоўлі для Палепшана Гарнізону. Ваяры, якіх вы абралі тут, не ўплываюць на абмежаваньні ўзроўню рыхтоўлі.{newline}{newline} Выкарыстоўвайце шаблон, каб сфармаваць войска, якое жадаеце. Вы здольны вызначыць колькасьць ваяроў, якія мусяць быць падрыхтаваны для кожнай вызначанай вамі мэты паляпшэньня. Напрыклад, вы можаце вызначыць колькасьць пяхоты, лучнікаў ці вершнікаў, якія мусіць мець вашы гарнізон." /> 
     <string id="ui_trainingui_templatemanagerhint" text="Шаблон рыхтоўлі выкарыстоўваецца для вызначэньня шляха паляпшэньня ваяроў падчас рыхтоўлі для Палепшана Гарнізону. Ваяры, якіх вы абралі тут, не ўплываюць на абмежаваньні ўзроўню рыхтоўлі.{newline} {newline}Выкарыстоўвайце шаблон, каб сфармаваць войска, якое жадаеце. Вы здольны вызначыць колькасьць ваяроў, якія мусяць быць падрыхтаваны для кожнай вызначанай вамі мэты паляпшэньня. Напрыклад, вы можаце вызначыць колькасьць пяхоты, лучнікаў ці вершнікаў, якія мусіць мець вашы гарнізон.{newline} {newline}Кіраўнік шаблонаў выкарыстоўваецца для захаваньня, ужываньня, агляду ці выдаленьня шаблона рыхтоўлі. Вашыя шаблоны рыхтоўлі сінхранізуюцца між гарнізонамі і захаваньнямі гульні." /> 
-    <string id="ui_trainingui_dailywagetemplatehint" text="The daily wage for each troop in your template." /> 
-    <string id="ui_trainingui_dailywagetext" text="Daily wage:" /> 
-    <string id="ui_trainingui_garrisontraining1" text="Improved Garrison Training" /> 
-    <string id="ui_trainingui_garrisontraining2" text="Enable this Improved Garrison to train it's troops. {newline} {newline}You may select the maximum tier the garrison should train to and/or set a training template to determine the upgrade paths." />    
-    <string id="ui_trainingui_autogather1" text="Auto create Recruiter" /> 
-    <string id="ui_trainingui_autogather2" text="Allow this garrison to automatically create recruiters to gather all the necessary troops needed for your current training template. {newline} {newline}This feature makes it incredible convenient to train your armies. Just enable this setting, setup your training template and wait until the Improved Garrison gathers from all the necessary cultures and trains the units you desire." /> 
-    <string id="ui_trainingui_maxupgradetier1" text="Max Upgrade Tier for troops {newline} (non Template)" /> 
-    <string id="ui_trainingui_maxupgradetier2" text="The maximum tier this garrison will train it's garrisoned troop to that are NOT specified in the current training template." /> 
-    <string id="ui_trainingui_removenontemplate1" text="Remove non template units from garrison" /> 
-    <string id="ui_trainingui_removenontemplate2" text="Allow this garrison to automatically remove troops from the garrison that are not part of the currently specified template. Troops that are needed for upgrade are not removed." /> 
-    <string id="ui_improvedgarrisonsui_title" text="Improved Garrisons" /> 
-    <string id="ui_improvedgarrisonsui_overview" text="Overview" />    
-    <string id="ui_improvedgarrisonsui_recruitment" text="Recruitment" /> 
-    <string id="ui_improvedgarrisonsui_guards" text="Guards" /> 
-    <string id="ui_improvedgarrisonsui_training" text="Training" /> 
-    <string id="ui_improvedgarrisonsui_management" text="Management" /> 
-    <string id="ui_improvedgarrisonsui_maptogglehint" text="Use the Improved Garrisons Menu on the world map." /> 
-    <string id="ui_improvedgarrisonsui_maptoggle" text="Enable on Map" />    
-    <string id="ui_improvedgarrisonwidget_removetroop" text="Right-Click to remove troop from template." />
-    <string id="ui_improvedgarrisonwidget_currentamount" text="Current Amount of this troop in the template." />
-    <string id="ui_improvedgarrisonwidget_currentgarrisonamount" text="Current Amount of this troop in the garrison." />
-    <string id="ui_improvedgarrisonsui_tutorialhint" text="Start the Improved Garrisons Tutorial." />
-    <string id="ui_improvedgarrisonsui_configurationhint" text="Open the configuration settings of Improved Garrisons." />  
-    <string id="ui_improvedgarrisonsui_resethint" text="Set the currently selected settlement to its default mod settings." /> 
-    <string id="ui_improvedgarrisonsui_tutorialtext" text="Tutorial" />  
-    <string id="ui_improvedgarrisonsui_configurationtext" text="Configuration" />  
-    <string id="ui_improvedgarrisonsui_defaulttext" text="Default Settings" />
-    <string id="ui_improvedgarrisonsui_finance" text="Finance" />  
-    <string id="ui_improvedgarrisonsui_garrison" text="Garrison" />
-    <string id="ui_improvedgarrisonsui_resetdefault_title" text="Reset settlement to default settings" /> 
-    <string id="ui_improvedgarrisonsui_resetdefault_description" text="Do you want to set the currently selected settlement to its default mod settings?" />
+    <string id="ui_trainingui_dailywagetemplatehint" text="Штодзённы заробак за кожнага ваяра ў вашым шаблоне." /> 
+    <string id="ui_trainingui_dailywagetext" text="Штодзённы заробак:" /> 
+    <string id="ui_trainingui_garrisontraining1" text="Рыхтоўля Палепшанага Гарнізону" /> 
+    <string id="ui_trainingui_garrisontraining2" text="Уключыць гэты Палепшаны Гарнізон для рыхтоўлі яго ваяроў. {newline} {newline}Вы можаце абраць максімальны ўзровень, які гарнізон мусіць рыхтаваць, і ўсталяваць шаблон рыхтоўлі, каб вызначыць шляхі паляпшэньня." />    
+    <string id="ui_trainingui_autogather1" text="Аўтастварэньне Рэкрутара" /> 
+    <string id="ui_trainingui_autogather2" text="Дазволіць гэтаму гарнізону аўтаматычна ствараць рэкрутараў, каб зьбіраць усіх ваяроў, неабходных вашаму цяперашняму шаблону рыхтоўлі. {newline} {newline}Гэтая функцыя робіць неверагодна зручнай рыхтоўлю вашых войскаў. Проста ўключыце гэтую наладу і пачакайце, пакуль Палепшаны Гарнізон зьбярэ ўсе патрэбныя культуры і падрыхтуе пажаданыя адзінкі." /> 
+    <string id="ui_trainingui_maxupgradetier1" text="Макс Ровень Паляпшэньня Ваяроў {newline} (Не з Шаблону)" /> 
+    <string id="ui_trainingui_maxupgradetier2" text="Максімальны ўзровень ваяроў, што Ня вызначаны ў цяперашнім шаблоне рыхтоўлі, да якога гарнізон будзе рыхтаваць ваяроў." /> 
+    <string id="ui_trainingui_removenontemplate1" text="Выдаляць не шаблонных ваяроў з гарнізону" /> 
+    <string id="ui_trainingui_removenontemplate2" text="Дазваляе гэтаму гарнізону аўтаматычна выдаляць ваяроў з гарнізону, якія ня з'яўляюцца часткай вызначанага зараз шаблону. Ваяры, якія патрабуюцца для паляпшэньня, ня будуць выдалены." /> 
+    <string id="ui_improvedgarrisonsui_title" text="Палепшаныя Гарнізоны" /> 
+    <string id="ui_improvedgarrisonsui_overview" text="Агляд" />    
+    <string id="ui_improvedgarrisonsui_recruitment" text="Рэкрутаваньне" /> 
+    <string id="ui_improvedgarrisonsui_guards" text="Варта" /> 
+    <string id="ui_improvedgarrisonsui_training" text="Рыхтоўля" /> 
+    <string id="ui_improvedgarrisonsui_management" text="Кіраваньне" /> 
+    <string id="ui_improvedgarrisonsui_maptogglehint" text="Выкарыстаньне меню Палепшанага Гарнізону на мапе сьвету." /> 
+    <string id="ui_improvedgarrisonsui_maptoggle" text="Уключыць на Мапе" />    
+    <string id="ui_improvedgarrisonwidget_removetroop" text="Правы націск, каб выдаліць ваяра з шаблону." />
+    <string id="ui_improvedgarrisonwidget_currentamount" text="Колькасьць ваяроў гэтага тыпу ў шаблоне зараз." />
+    <string id="ui_improvedgarrisonwidget_currentgarrisonamount" text="Колькасьць ваяроў гэтага тыпу ў гарнізоне зараз." />
+    <string id="ui_improvedgarrisonsui_tutorialhint" text="Пачаць Навучаньне Палепшанага Гарнізону." />
+    <string id="ui_improvedgarrisonsui_configurationhint" text="Адкрыць налады канфігураваньня Палепшанага Гарнізону." />  
+    <string id="ui_improvedgarrisonsui_resethint" text="Усталяваць налады моду да па змоўчаньні для селішча, што абарана зараз." /> 
+    <string id="ui_improvedgarrisonsui_tutorialtext" text="Навучаньне" />  
+    <string id="ui_improvedgarrisonsui_configurationtext" text="Канфігураваньне" />  
+    <string id="ui_improvedgarrisonsui_defaulttext" text="Налады па Змоўчаньні" />
+    <string id="ui_improvedgarrisonsui_finance" text="Фінансы" />  
+    <string id="ui_improvedgarrisonsui_garrison" text="Гарнізон" />
+    <string id="ui_improvedgarrisonsui_resetdefault_title" text="Скінуць селішча да наладаў па змоўчаньні" /> 
+    <string id="ui_improvedgarrisonsui_resetdefault_description" text="Вы жадаеце ўставляваць налады па змоўчаньні для абранага зараз селішча?" />
 
-    <string id="ui_buildingui_currentproject" text=">> Current Town Project <<" />
-    <string id="ui_buildingui_effects" text="Effects:" />
-    <string id="ui_buildingui_effectshint" text="Note: Only works if there is no current project." />
-    <string id="ui_buildingui_setascurrent" text="Set as current project" />
-    <string id="ui_buildingui_currenthint1" text="The current town project for" />
-    <string id="ui_buildingui_currenthint2" text="has been set to" />
-    <string id="ui_buildingui_boostproject" text="Boost current project" />
-    <string id="ui_buildingui_deselectproject" text="Deselect current project" />
-    <string id="ui_buildingui_removequeue1" text="The town project" />
-    <string id="ui_buildingui_removequeue2" text="is no longer the current project of" />
-    <string id="ui_buildingui_removequeue3" text="Remove from queue" />
-    <string id="ui_buildingui_removequeue4" text="has been removed from the project queue of" />
-    <string id="ui_buildingui_addqueue1" text="Add to project queue" />
-    <string id="ui_buildingui_addqueue2" text="The town project" />
-    <string id="ui_buildingui_addqueue3" text="has been added to the project queue of" />
-    <string id="ui_buildingui_action" text="Project Action" />
-    <string id="ui_buildingui_addreserve" text="Add reserve to boost project" />
-    <string id="ui_buildingui_addreserve2" text="You don't have enough gold." />
+    <string id="ui_buildingui_currentproject" text=">> Цяперашні Праект Горада <<" />
+    <string id="ui_buildingui_effects" text="Эфекты:" />
+    <string id="ui_buildingui_effectshint" text="Нататка: Працуе толькі, калі няма цяперашняга праекта." />
+    <string id="ui_buildingui_setascurrent" text="Усталяваць як цяперашні праект" />
+    <string id="ui_buildingui_currenthint1" text="Цяперашні гарадскі праект для" />
+    <string id="ui_buildingui_currenthint2" text="быў заменены на" />
+    <string id="ui_buildingui_boostproject" text="Фарсаваць цяперашні праект" />
+    <string id="ui_buildingui_deselectproject" text="Скасаваць цяперашні праект" />
+    <string id="ui_buildingui_removequeue1" text="Гарадскі праект" />
+    <string id="ui_buildingui_removequeue2" text="болей ня з'яўляецца цяперашнім праектам" />
+    <string id="ui_buildingui_removequeue3" text="Прыбраць з чаргі" />
+    <string id="ui_buildingui_removequeue4" text="быў выдалены з чаргі праектаў" />
+    <string id="ui_buildingui_addqueue1" text="Дадаць да чаргі праектаў" />
+    <string id="ui_buildingui_addqueue2" text="Гарадскі праект" />
+    <string id="ui_buildingui_addqueue3" text="быў даданы да чаргі праектаў" />
+    <string id="ui_buildingui_action" text="Дзеяньне Праекта" />
+    <string id="ui_buildingui_addreserve" text="Дадаць рэзерв для фарсаваньня праекта" />
+    <string id="ui_buildingui_addreserve2" text="Вам бракуе золата." />
 
 
     <!-- SECTION Activity log-->
-    <string id="ui_improvedgarrisonsui_activity" text="Settlement Action" />
-    <string id="ui_improvedgarrisonsui_activity_recruitment1" text="troops have been recruited from" />
-    <string id="ui_improvedgarrisonsui_activity_recruitment2" text="has been recruited from the dungeon." />
-    <string id="ui_improvedgarrisonsui_activity_recruitment3" text="have been recruited from the dungeon." />
-    <string id="ui_improvedgarrisonsui_activity_recruitment4" text="troops have been recruited." />
-    <string id="ui_improvedgarrisonsui_activity_partymerge1" text="has returned with" />
-    <string id="ui_improvedgarrisonsui_activity_partymerge2" text="troops to the garrison." />
-    <string id="ui_improvedgarrisonsui_activity_recruiter1" text="Create Recruiter" />
-    <string id="ui_improvedgarrisonsui_activity_recruiter2" text="Return Recruiter" />
-    <string id="ui_improvedgarrisonsui_activity_guard1" text="Create Guard" />
-    <string id="ui_improvedgarrisonsui_activity_guard2" text="Return Guard" />
-    <string id="ui_improvedgarrisonsui_activity_noguards" text="There are no active guard parties" />
-    <string id="ui_improvedgarrisonsui_activity_village1" text="Village Action" />
-    <string id="ui_improvedgarrisonsui_activity_partycreation1" text="A new party" />
-    <string id="ui_improvedgarrisonsui_activity_partycreation2" text="has been created with" />
-    <string id="ui_improvedgarrisonsui_activity_partycreation3" text="troops." />
-    <string id="ui_improvedgarrisonsui_activity_destroyed1" text="has been destroyed." />
-    <string id="ui_improvedgarrisonsui_activity_townmanagement" text="Town Management" />
-    <string id="ui_improvedgarrisonsui_activity_projects" text="Projects" />
-    <string id="ui_improvedgarrisonsui_activity_upgrade1" text="has been trained to" />
-    <string id="ui_improvedgarrisonsui_activity_upgrade2" text="have been trained to" />
-    <string id="ui_improvedgarrisonsui_activity_defend1" text="Defend Settlement" />
-    <string id="ui_improvedgarrisonsui_activity_defend2" text="Defend" />
+    <string id="ui_improvedgarrisonsui_activity" text="Дзеяньне Селішча" />
+    <string id="ui_improvedgarrisonsui_activity_recruitment1" text="ваяроў было рэкрутавана з" />
+    <string id="ui_improvedgarrisonsui_activity_recruitment2" text="быў рэкрутаваны з вязьніцы." />
+    <string id="ui_improvedgarrisonsui_activity_recruitment3" text="былі рэкрутаваны з вязьніцы." />
+    <string id="ui_improvedgarrisonsui_activity_recruitment4" text="ваяроў было рэкрутавана." />
+    <string id="ui_improvedgarrisonsui_activity_partymerge1" text="вярнуўся з" />
+    <string id="ui_improvedgarrisonsui_activity_partymerge2" text="ваяроў да гарнізону." />
+    <string id="ui_improvedgarrisonsui_activity_recruiter1" text="Стварыць Рэкрутара" />
+    <string id="ui_improvedgarrisonsui_activity_recruiter2" text="Вярнуць Рэкрутара" />
+    <string id="ui_improvedgarrisonsui_activity_guard1" text="Стварыць Варту" />
+    <string id="ui_improvedgarrisonsui_activity_guard2" text="Вярнуць Варту" />
+    <string id="ui_improvedgarrisonsui_activity_noguards" text="Тут няма актыўных партыяў варты" />
+    <string id="ui_improvedgarrisonsui_activity_village1" text="Дзеяньне Вёскі" />
+    <string id="ui_improvedgarrisonsui_activity_partycreation1" text="Новая партыя" />
+    <string id="ui_improvedgarrisonsui_activity_partycreation2" text="была створана з" />
+    <string id="ui_improvedgarrisonsui_activity_partycreation3" text="ваяроў." />
+    <string id="ui_improvedgarrisonsui_activity_destroyed1" text="была зьнішчана." />
+    <string id="ui_improvedgarrisonsui_activity_townmanagement" text="Кіраўнік Горада" />
+    <string id="ui_improvedgarrisonsui_activity_projects" text="Праекты" />
+    <string id="ui_improvedgarrisonsui_activity_upgrade1" text="быў падрыхтаваны да" />
+    <string id="ui_improvedgarrisonsui_activity_upgrade2" text="былі падрыхтаваны да" />
+    <string id="ui_improvedgarrisonsui_activity_defend1" text="Бараніць Селішча" />
+    <string id="ui_improvedgarrisonsui_activity_defend2" text="Бараніць" />
 
 
 
