@@ -356,52 +356,52 @@
     
     <!-- SECTION hints -->
     <string id="hint_train_path_list1" text="Вашы сьпіс вызначаных мэтаў рыхтоўлі" />    
-    <string id="hint_train_path_list2" text="Спіс усіх ваяроў" />
+    <string id="hint_train_path_list2" text="Сьпіс усіх ваяроў" />
     <string id="hint_select_all_clans" text="Абраць усе кланы са сьпіса" />
     
     <!-- SECTION chat information -->
-    <string id="info_guards_undersiege" text="This garrison is currently under siege. The guards can't get out!" />
-    <string id="info_transfer_undersiege" text="This garrison is currently under siege. The transferparty can't get out!" />
-    <string id="info_global_conf" text="You are now configurating the settings of" />
-    <string id="info_guards_noguards" text="This garrison currently has no garrisonguard party." />
-    <string id="info_guards_autoguardsstopped" text="The automatic creation of guards has been stopped." />
-    <string id="info_transfer_dupe" text="This garrison already has a transfer party. Please wait for it to reach its location." />
-    <string id="info_guards_dupe" text="This garrison already has a garrison guard party. Please order to return it first." />
-    <string id="info_transfer_new" text="A new transfer party for" />         
-    <string id="info_transfer_new2" text="has been created. It will be sent to " />        
-    <string id="info_guards_new" text="A new garrisonguard party for" />        
-    <string id="info_guards_new2" text="has been created." />                    
-    <string id="info_path_set" text="The upgrade paths for " />       
-    <string id="info_path_set2" text="has been set to" />        
-    <string id="info_tier_max" text="is now training up to a maximum of tier" />        
-    <string id="info_escort_new" text="The garrisonguards of" />
-    <string id="info_escort_new2" text="are now escorting" />
-    <string id="info_patrol_new" text="The garrisonguards of" />
-    <string id="info_patrol_new2" text="are now patrolling the region." />
-    <string id="info_return_new" text="The garrisonguards of" />
-    <string id="info_return_new2" text="are now returning to the garrison." />  
-    <string id="info_recruit_max" text="is now recruiting up to a maximum of" />
-    <string id="info_recruit_max2" text="troops." />
-    <string id="info_train_enable" text="Enabled training for" />   
-    <string id="info_train_disable" text="Disabled training for" />
-    <string id="info_vanillatrain_enable" text="Enabled vanilla training for" />   
-    <string id="info_vanillatrain_disable" text="Disabled vanilla training for" />
-    <string id="info_food_new" text="The garrison of" />
-    <string id="info_food_new2" text="is now gathering" />  
-    <string id="info_food_new3" text="food per day." />
-    <string id="info_food_stop" text="The garrison of" />
-    <string id="info_guards_new" text="Please select units for your new Guards. {newline}The more troops you choose the slower your guards will be!{newline}If you want your guards to clear looters and bandits the size should be around 30. By default the guards will patrol your region. You can give them different orders in the Improved Garrisons Menu." />
-    <string id="info_food_stop2" text="stopped gathering more food." />   
-    <string id="info_prison_enable" text="Enabled prisoner recruitment for" />
-    <string id="info_prison_disable" text="Disabled prisoner recruitment for" />
-    <string id="info_recruit_enable" text="Enabled region recruitment for" />    
-    <string id="info_recruit_disable" text="Disabled region recruitment for" />
-    <string id="info_vanillarecruitment_enable" text="Enabled vanilla recruitment for" />    
-    <string id="info_vanillarecruitment_disable" text="Disabled vanilla recruitment for" /> 
-    <string id="info_recruit_onlyelites_enable" text="Enabled only elite recruitment for" />
-    <string id="info_recruit_onlyelites_disable" text="Disabled only elite recruitment for" />
-    <string id="info_prison_above_enable" text="Enabled prisoner recruitment above threshold for" />
-    <string id="info_prison_above_disable" text="Disabled prisoner recruitment above threshold for" />  
+    <string id="info_guards_undersiege" text="Гэты гарнізон зараз знаходзіцца пад аблогай. Варта ня можа выйсьці!" />
+    <string id="info_transfer_undersiege" text="Гэты гарнізон зараз знаходзіцца пад аблогай. Партыя пераданьня ня можа выйсьці!" />
+    <string id="info_global_conf" text="Зараз вы вызначаеце налады" />
+    <string id="info_guards_noguards" text="Гэты гарнізон зараз ня мае партыі варты гарнізону." />
+    <string id="info_guards_autoguardsstopped" text="Аўтаматычнае стварэньне варты спынена." />
+    <string id="info_transfer_dupe" text="Гарнізон ужо мае партыю перадачы. Калі ласка, пачакайце пакуль яна дасягне сваё прызначэньне." />
+    <string id="info_guards_dupe" text="Гэты гарнізон ужо мае партыю варты гарнізону. Калі ласка, спачатку загадайце вярнуцца." />
+    <string id="info_transfer_new" text="Новая партыя перадачы для" />         
+    <string id="info_transfer_new2" text="была створана. Яна будзе накірована ў " />        
+    <string id="info_guards_new" text="Новая партыя варты гарнізону для" />        
+    <string id="info_guards_new2" text="была створана." />                    
+    <string id="info_path_set" text="Шляхі паляпшэньня для " />       
+    <string id="info_path_set2" text="былі ўсталяваны да" />        
+    <string id="info_tier_max" text="зараз рыхтуецца да максімальнага роўню" />        
+    <string id="info_escort_new" text="Варта гарнізону" />
+    <string id="info_escort_new2" text="зараз суправаджае" />
+    <string id="info_patrol_new" text="Варта гарнізону" />
+    <string id="info_patrol_new2" text="зараз патрулюе край." />
+    <string id="info_return_new" text="Варта гарнізону" />
+    <string id="info_return_new2" text="вяртаецца ў гарнізон." />  
+    <string id="info_recruit_max" text="зараз рэкрутуе да максімума з" />
+    <string id="info_recruit_max2" text="ваяроў." />
+    <string id="info_train_enable" text="Уключана рыхтоўля для" />   
+    <string id="info_train_disable" text="Выключана рыхтоўля для" />
+    <string id="info_vanillatrain_enable" text="Уключана ванільная рыхтоўля для" />   
+    <string id="info_vanillatrain_disable" text="Выключана ванільная рыхтоўля для" />
+    <string id="info_food_new" text="Гарнізон" />
+    <string id="info_food_new2" text="зараз зьбірае" />  
+    <string id="info_food_new3" text="ежы штодзень." />
+    <string id="info_food_stop" text="Гарнізон" />
+    <string id="info_guards_new" text="Калі ласка, абярыце адзінкі для вашай новай Варты. {newline}Чым болей ваяроў вы абярэце, тым павольней будзе варта!{newline}Калі вы жадаеце каб вашая варта зьнішчала рабаўнікоў і бандытаў яе памер мусіць быць каля 30. Па змоўчаньні варта будзе патруляваць вашы край. Вы можаце даць ёй розныя загады ў Меню Палепшага Гарнізона." />
+    <string id="info_food_stop2" text="спыніў зьбіраць ежу." />   
+    <string id="info_prison_enable" text="Уключана рэкрутаваньне палонных для" />
+    <string id="info_prison_disable" text="Выключана рэкрутаваньне палонных для" />
+    <string id="info_recruit_enable" text="Уключана рэкрутаваньне краю для" />    
+    <string id="info_recruit_disable" text="Выключана рэкрутаваньне краю для" />
+    <string id="info_vanillarecruitment_enable" text="Уключана ванільнае рэкрутаваньне для" />    
+    <string id="info_vanillarecruitment_disable" text="Выключана ванільнае рэкрутаваньне для" /> 
+    <string id="info_recruit_onlyelites_enable" text="Уключана толькі элітнае рэкрутаваньне для" />
+    <string id="info_recruit_onlyelites_disable" text="Выключана толькі элітнае рэкрутаваньне для" />
+    <string id="info_prison_above_enable" text="Уключана рэкрутаваньне палонных вышэйшых за парог для" />
+    <string id="info_prison_above_disable" text="Выключана рэкрутаваньне палонных вышэйшых за парог для" />  
     <string id="info_manage_copy" text="Copied settings to" />
     <string id="info_guards_return2" text="have returned to your garrison." />
     <string id="info_daily_info1" text="&quot;My lord your Improved Garrisons recruited" />
