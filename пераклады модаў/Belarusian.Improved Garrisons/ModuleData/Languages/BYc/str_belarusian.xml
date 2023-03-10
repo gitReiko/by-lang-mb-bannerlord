@@ -472,32 +472,32 @@
     
     <string id="info_template_notargets" text="Зараз мэты паляпшэньня Палепшанага Гарнізону ня вызначаны." />   
     <string id="info_template_managetargets" text="У гэтым вакне вы можаце наладзіць колькасьць адзінак, якіх будзе рыхтаваць Палепшаны Гарнізон. {newline} {newline}На левым боку знаходзяцца вашыя цяперашнія ваяры, якіх рыхтуе Палепшаны Гарнізон. На правым боку вы знойдзеце копію тых самых адзінак, каб дадаць на левы бок." /> 
-    <string id="info_template_newtargets1" text="The training template for" /> 
-    <string id="info_template_newtargets2" text="has been set." /> 
-    <string id="info_template_removedtargets1" text="The Improved Garrison of" /> 
-    <string id="info_template_removedtargets2" text="no longer has a training template." /> 
-    <string id="info_template_newtargets_desc" text="Move the troops you want the Improved Garrison to train towards the left side of the screen. {newline}Make sure to select the amount you want to have trained. {newline} {newline}Note: The Improved Garrison will always try to have this amount of units in the garrison and automatically train new units once there are less in the garrison." /> 
-    <string id="info_guards_hideoutclear1" text="Enabled clear hideouts for the guards of" />
-    <string id="info_guards_hideoutclear2" text="Disabled clear hideouts for the guards of" />
-    <string id="info_guards_horsebuy1" text="Enabled horse trade for the guards of" />
-    <string id="info_guards_horsebuy2" text="Disabled horse trade for the guards of" />
-    <string id="info_recruiter_norecruiter" text="The garrison currently has no active recruiter" />
-    <string id="info_recruiter_disabledautocreation" text="Disabled automatic Recruiter creation for" />    
-    <string id="info_guards_returnafterthreshold" text="size has fallen below the threshold you have given. The Guard is returning now." />
-    <string id="info_save_delete" text="The Improved Garrison data has been deleted for the save:" />
-    <string id="info_recruitment_recruitervalue" text="Value has to be between 1 and 150" />
+    <string id="info_template_newtargets1" text="Шаблон рыхтоўлі для" /> 
+    <string id="info_template_newtargets2" text="быў усталяваны." /> 
+    <string id="info_template_removedtargets1" text="Палепшаны Гарнізон" /> 
+    <string id="info_template_removedtargets2" text="болей ня мае шаблону рыхтоўлі." /> 
+    <string id="info_template_newtargets_desc" text="Перасуньце ваяроў, якіх мусіць рыхтаваць Палепшаны Гарнізон, у левы бок вокна. {newline}Абавязкова вызначце колькасьць ваяроў, якіх вы жадаеце рыхтаваць. {newline} {newline}Нататка: Палепшаны Гарнізон заўжды будзе намагацца ўтрымліваць колькасьць адзінак у гарнізоне і аўтаматычна рыхтаваць новыя адзінкі, калі іх стае меней." /> 
+    <string id="info_guards_hideoutclear1" text="Уключана ачышчэньне сховішчаў для варты" />
+    <string id="info_guards_hideoutclear2" text="Выключана ачышчэньне сховішчаў для варты" />
+    <string id="info_guards_horsebuy1" text="Уключаны гандаль коньмі для варты" />
+    <string id="info_guards_horsebuy2" text="Выключана гандаль коньмі для варты" />
+    <string id="info_recruiter_norecruiter" text="Гарнізон зараз ня мае актыўнага рэкрутара" />
+    <string id="info_recruiter_disabledautocreation" text="Выключана аўтаматычнае стварэньне Рэкрутара для" />    
+    <string id="info_guards_returnafterthreshold" text="памер зваліўся ніжэй за азначаны вамі парог. Зараз Варта вяртаецца." />
+    <string id="info_save_delete" text="Дадзеныя Палепшанага Гарнізону былі выдалены для захаваньня:" />
+    <string id="info_recruitment_recruitervalue" text="Значэньне павінна быць між 1 і 150" />
     
     <!-- SECTION parties -->
-    <string id="party_guards_name" text="Garrisonguards of" /> 
-    <string id="party_recruits_name" text="Garrison Recruits" />    
-    <string id="party_transfer_name" text="Garrisontransferparty of" /> 
-    <string id="party_destroyed_new" text="Your" />
-    <string id="party_destroyed_new2" text="have been destroyed." />
-    <string id="party_healed" text="healed its troops." /> 
-    <string id="party_replenished" text="replenished its troops." /> 
-    <string id="party_recruiter_name" text="Garrison Recruiter of" /> 
-    <string id="party_recruiter" text="Garrison Recruiter" />
-    <string id="party_guards" text="Garrisonguards" />
+    <string id="party_guards_name" text="Варта Гарнізону" /> 
+    <string id="party_recruits_name" text="Рэкруты Гарнізону" />    
+    <string id="party_transfer_name" text="Партыя Перадачы Гарнізону" /> 
+    <string id="party_destroyed_new" text="Вашая" />
+    <string id="party_destroyed_new2" text="была зьнішчана." />
+    <string id="party_healed" text="вылечіла сваіх ваяроў." /> 
+    <string id="party_replenished" text="папоўніла сваіх ваяроў." /> 
+    <string id="party_recruiter_name" text="Рэкрутар Гарнізону" /> 
+    <string id="party_recruiter" text="Рэкрутар Гарнізону" />
+    <string id="party_guards" text="Варта Гарнізону" />
 
     <!-- SECTION dialog -->    
     <string id="dialog_recruit_start" text="Hello my lord, we are new garrison recruits heading to your settlement!" />
