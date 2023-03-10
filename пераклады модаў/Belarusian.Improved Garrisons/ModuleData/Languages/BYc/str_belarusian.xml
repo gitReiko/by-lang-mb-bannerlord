@@ -527,55 +527,55 @@
   
     
     <!-- SECTION configuration menu -->     
-    <string id="config_category_base_title" text="Mod Settings" />
-    <string id="config_category_cheats_title" text="Cheats" />
-    <string id="config_category_npc_title" text="NPC Settings" />
-    <string id="config_category_default_title" text="Default Setting" />
-    <string id="config_reload_desc" text="A reload of your save is required for all Improved Garrison settings to apply." />
-    <string id="config_reload_title" text="Reload required" />
-    <string id="config_category_dummyname" text="Category Title" />
-    <string id="config_category_cheats_garrisonwage_name" text="Garrison wage multiplier" />
-    <string id="config_category_cheats_garrisonwage_description" text="Lower the garrison wage. Set this to 1 for normal cost and to 0 for no costs." />
-    <string id="config_category_cheats_garrisonwage_extradescription" text="If the number is below 1 a bonus equal to your garrison costs will be added to your finances." />
-    <string id="config_category_cheats_trainingcost_name" text="Improved Garrison training multiplier" />
-    <string id="config_category_cheats_trainingcost_description" text="Lower the costs of the Improved Garrison training of garrisoned troops. Set this to 1 for normal cost and to 0 for no costs." />
-    <string id="config_category_cheats_trainingcost_extradescription" text="This option affects the upgrade costs of your garrisoned troops. Use this if you want to disable the upgrade costs." />
-    <string id="config_category_cheats_partysize_name" text="custom player party size multiplier" />
-    <string id="config_category_cheats_partysize_description" text="Set a party size multiplier to increase the maximum size of your own party." />
-    <string id="config_category_cheats_partysize_requirements" text="[{LoadCustomPartySizeModel}] has to be enabled." />
-    <string id="config_category_cheats_clanpartysize_name" text="custom player clan party size multiplier" />
-    <string id="config_category_cheats_clanpartysize_description" text="Set a party size multiplier to increase the maximum size of all your clan parties." />
-    <string id="config_category_cheats_clanpartysize_requirements" text="[{LoadCustomPartySizeModel}] has to be enabled." />
-    <string id="config_category_cheats_aiclanpartysize_name" text="custom AI clan party size multiplier" />
-    <string id="config_category_cheats_aiclanpartysize_description" text="Set a party size multiplier to increase the maximum size for all AI parties." />
-    <string id="config_category_cheats_aiclanpartysize_requirements" text="[{LoadCustomPartySizeModel}] has to be enabled." />
-    <string id="config_category_cheats_garrisonguardwage_name" text="Garrison guards wage multiplier" />
-    <string id="config_category_cheats_garrisoguardnwage_description" text="Lower the garrison guards wage. Set this to 1 for normal cost and to 0 for no costs." />
-    <string id="config_category_cheats_partyspeed_name" text="garrison guard, recruiter and transfer party speed" />    
-    <string id="config_category_cheats_partyspeed_description" text="Set a custom movement speed for guard, recruiter and transfer parties." />
-    <string id="config_category_cheats_partyspeed_requirements" text="[{LoadCustomPartySpeedModel}] has to be enabled." />
-    <string id="config_category_cheats_garrisonsize_name" text="custom garrison size multiplier" />
-    <string id="config_category_cheats_garrisonsize_description" text="Set a garrison size multiplier to increase the size of your garrisons. The auto recruitment will not go above the overall garrison size!" />
-    <string id="config_category_cheats_garrisonsize_requirements" text="[{LoadCustomPartySizeModel}] has to be enabled." />    
-    <string id="config_category_cheats_onlynoble_name" text="Spawn noble troops in garrison" /> 
-    <string id="config_category_cheats_onlynoble_description" text="With this option enabled noble troops are spawned in the garrisons &quot;out of thin air&quot;. The amount can be set with [{AmountOfUnitsToSpawn}]." /> 
-    <string id="config_category_cheats_onlynoble_requirements" text="}[{RecruitsAreRecruitedFromVillages}] has to be enabled!" /> 
-    <string id="config_category_cheats_garrisondonteat_name" text="Enable garrisons don't eat food" /> 
-    <string id="config_category_cheats_garrisondonteat_description" text="Adds a food bonus to settlements equal the amount of food needed by the garrison. This practically disables garrisons needing food in the most compatible way." /> 
-    <string id="config_category_cheats_garrisondonteat_requirements" text="[{LoadFoodGatheringModule}] has to be enabled." /> 
-    <string id="config_category_cheats_foodbonusenable_name" text="Enable food bonus" /> 
-    <string id="config_category_cheats_foodbonusenable_description" text="Activate the food bonus for your castles and settlements." /> 
-    <string id="config_category_cheats_foodbonusenable_requirements" text="[{LoadFoodGatheringModule}] has to be enabled." /> 
+    <string id="config_category_base_title" text="Налады Мода" />
+    <string id="config_category_cheats_title" text="Чыты" />
+    <string id="config_category_npc_title" text="Налады НГП" />
+    <string id="config_category_default_title" text="Налады па Змоўчаньні" />
+    <string id="config_reload_desc" text="Для ўжываньня ўсіх наладаў Палепшанага Гарнізону патрабуецца перазагрузка." />
+    <string id="config_reload_title" text="Патрабуецца перазагрузка" />
+    <string id="config_category_dummyname" text="Назва Катэгорыі" />
+    <string id="config_category_cheats_garrisonwage_name" text="Множнік заробку гарнізону" />
+    <string id="config_category_cheats_garrisonwage_description" text="Зьмяншэньне заробку гарнізону. Усталюйце значэньне 1 для нармальных выдаткаў і 0 для адсутнасьці выдаткаў." />
+    <string id="config_category_cheats_garrisonwage_extradescription" text="Калі значэньне меней за 1, да вашых фінансаў будзе дададзены бонус, роўны выдаткам на гарнізон." />
+    <string id="config_category_cheats_trainingcost_name" text="Множнік рыхтоўлі Палепшанага Гарнізону" />
+    <string id="config_category_cheats_trainingcost_description" text="Зьніжае кошты на рыхтоўлю ваяроў гарнізону Палепшанага Гарнізону. Усталюйце значэньне 1 для нармальных коштаў і 0 для адсутнасьці коштаў." />
+    <string id="config_category_cheats_trainingcost_extradescription" text="Гэтая налада ўплывае на кошт паляпшэньня вашых ваяроў гарнізону. Выкарыстоўвайце гэтае, калі жадаеце адключыць кошт паляпшэньня." />
+    <string id="config_category_cheats_partysize_name" text="множнік памеру партыі гульца" />
+    <string id="config_category_cheats_partysize_description" text="Усталюйце множнік памеру партыі для павялічэньня максімальнага памеру сваёй уласнай партыі." />
+    <string id="config_category_cheats_partysize_requirements" text="[{LoadCustomPartySizeModel}] мусіць быць уключаны." />
+    <string id="config_category_cheats_clanpartysize_name" text="множнік памеру партый клана гульца" />
+    <string id="config_category_cheats_clanpartysize_description" text="Усталюйце множнік памеру партыі для павялічэньня максімальнага памеру ўсіх вашых партый клана." />
+    <string id="config_category_cheats_clanpartysize_requirements" text="[{LoadCustomPartySizeModel}] мусіць быць уключаны." />
+    <string id="config_category_cheats_aiclanpartysize_name" text="множнік памеру партый клана ШІ" />
+    <string id="config_category_cheats_aiclanpartysize_description" text="Усталюйце множнік памеру партыі для павялічэньня максімальнага памеру ўсіх партый клана ШІ." />
+    <string id="config_category_cheats_aiclanpartysize_requirements" text="[{LoadCustomPartySizeModel}] мусіць быць уключаны." />
+    <string id="config_category_cheats_garrisonguardwage_name" text="Множнік выдаткаў на варту гарнізону" />
+    <string id="config_category_cheats_garrisoguardnwage_description" text="Зьмяншэньне выдаткаў варты гарнізону. Усталюйце значэньне 1 для нармальных коштаў і 0 для адсутнасьці коштаў." />
+    <string id="config_category_cheats_partyspeed_name" text="хуткасьць партыі варты гарнізону, рэкрутара і партыі перадачы" />    
+    <string id="config_category_cheats_partyspeed_description" text="Усталюйце ўласную хуткасьць руху для варты, рэкрутара і партый перадачы." />
+    <string id="config_category_cheats_partyspeed_requirements" text="[{LoadCustomPartySpeedModel}] мусіць быць уключаны." />
+    <string id="config_category_cheats_garrisonsize_name" text="уласны множнік памеру гарнізону" />
+    <string id="config_category_cheats_garrisonsize_description" text="Усталюйце множнік памеру гарнізону для павялічэньня памеру вашых гарнізонаў. Аўтарэкрутаваньне не перасягне агульны памер гарнізону!" />
+    <string id="config_category_cheats_garrisonsize_requirements" text="[{LoadCustomPartySizeModel}] мусіць быць уключаны." />    
+    <string id="config_category_cheats_onlynoble_name" text="Папоўніць гарнізон шляхетнымі ваярамі" /> 
+    <string id="config_category_cheats_onlynoble_description" text="Калі ўключыць гэтую наладу, шляхетныя ваяры папоўняць гарнізоны &quot;з паветра&quot;. Колькасьць льга ўсталяваць з дапамогай [{AmountOfUnitsToSpawn}]." /> 
+    <string id="config_category_cheats_onlynoble_requirements" text="}[{RecruitsAreRecruitedFromVillages}] мусіць быць уключаны!" /> 
+    <string id="config_category_cheats_garrisondonteat_name" text="Дазволіць гарнізонам не спажываць ежы" /> 
+    <string id="config_category_cheats_garrisondonteat_description" text="Дадае бонус ежы селішчам роўны колькасьці ежы патрэбнай гарнізону. На практыцы адключае спажываньне ежы гарнізонам самым зручным шляхам." /> 
+    <string id="config_category_cheats_garrisondonteat_requirements" text="[{LoadFoodGatheringModule}] мусіць быць уключаны." /> 
+    <string id="config_category_cheats_foodbonusenable_name" text="Уключыць бонус ежы" /> 
+    <string id="config_category_cheats_foodbonusenable_description" text="Актываваць бонус ежы для вашых замкаў і селішчаў." /> 
+    <string id="config_category_cheats_foodbonusenable_requirements" text="[{LoadFoodGatheringModule}] мусіць быць уключаны." /> 
     
     <string id="config_category_base_fromvillages_name" text="Spawn new troops directly in garrison" />
     <string id="config_category_base_fromvillages_description" text="With this option enabled the Improved Garrison will no longer have to wait for the troops to be generated by the surrounding villages. New troops will be spawned in the garrison &quot;out of thin air&quot; every day." />
     <string id="config_category_base_fromvillages_extradescription" text="If you have recruit from villages aktivated and enabled the recruitment in your garrisons menu (default), the recruitment logic of this mod will lookup each bound village and this settlements units that are able to be recruited by the player. Be aware that the amount of available troops to recruit is affected by the relation a player has with this villages. Once the recruitment logic has gathered a minimum amount of recruits (4 by default) a party of the available villages recruits will be created and send on its way to the garrison. The recruits will be removed from the villages pool so it will take some time for the village to generate more troops." />
     <string id="config_category_base_minrecruits_name" text="Village recruit-party size" />
     <string id="config_category_base_minrecruits_description" text="Set the minimum amount of recruits that need to be gathered in villages before a new recruit party is established and sent to the garrison.." />
-    <string id="config_category_base_minrecruits_requirements" text="[{RecruitsAreRecruitedFromVillages}] has to be enabled." />
+    <string id="config_category_base_minrecruits_requirements" text="[{RecruitsAreRecruitedFromVillages}] мусіць быць уключаны." />
     <string id="config_category_base_spawnamount_name" text="Amount of troops to spawn" />
     <string id="config_category_base_spawnamount_description" text="Set the amount of troops that are spawned in garrisons. If they are not recruited from nearby villages and settlements." />
-    <string id="config_category_base_spawnamount_requirements" text="[{RecruitsAreRecruitedFromVillages}] has to be enabled." />
+    <string id="config_category_base_spawnamount_requirements" text="[{RecruitsAreRecruitedFromVillages}] мусіць быць уключаны." />
     <string id="config_category_base_dailyexp_name" text="Daily EXP amount" />
     <string id="config_category_base_dailyexp_description" text="Set the amount of daily exp your garrisoned troops gain while training." />
     <string id="config_category_base_dailyexp_extradescription" text="The mod gives each troop - roster a set amount of exp multiplied by the amount of units this troop - roster has.If for example you have 20 recruits and they need 250Exp to upgrade and the daily exp gain is set to 50, they will get 50 * 20 = 1000 Exp.As a unit from this troop - roster needs 250Exp, the upgrade logic will upgrade 1000 / 250 = 4 Units." />
@@ -588,7 +588,7 @@
     <string id="config_category_base_partysize_name" text="garrison guard and transfer party size" />
     <string id="config_category_base_partysize_description" text="Set a custom size for guard and transfer parties." />
     <string id="config_category_base_partysize_extradescription" text="This is used for the base speed and moral calculation. If your transfer, recruiter or guard partys size gets above this value, they will be slowed." />
-    <string id="config_category_base_partysize_requirements" text="[{LoadCustomPartySizeModel}] has to be enabled." />
+    <string id="config_category_base_partysize_requirements" text="[{LoadCustomPartySizeModel}] мусіць быць уключаны." />
     <string id="config_category_base_loadspeed_name" text="Load custom speed module" />
     <string id="config_category_base_loadspeed_description" text="Loads the custom speed module of Improved Garrisons. This enables you to manually set the speed for your garrison guards, recruits and transfer parties. Use this module if you experience compatibility issues with the custom size module." />
     <string id="config_category_base_loadspeed_requirements" text="The game has to be restarted." />
@@ -597,7 +597,7 @@
     <string id="config_category_base_loadfood_requirements" text="The game has to be restarted." />
     <string id="config_category_base_foodamount_name" text="Daily food bonus amount" />
     <string id="config_category_base_foodamount_description" text="Set the amount of daily food bonus each of the player castle and settlements get each day." />
-    <string id="config_category_base_foodamount_requirements" text="[{LoadFoodGatheringModule}] has to be enabled." />
+    <string id="config_category_base_foodamount_requirements" text="[{LoadFoodGatheringModule}] мусіць быць уключаны." />
     <string id="config_category_base_reset_name" text="Reset to default" />
     <string id="config_category_base_reset_description" text="This resets the configuration of Improved Garrisons to its default values." />
     <string id="config_category_base_reset_prompt" text="Do you want to reset the Improved Garrison configuration to its default values?" />
@@ -627,28 +627,28 @@
     <string id="config_category_npc_guardparties_description" text="Allows NPC's factions to establish Garrison Guard parties to defend their property." />
     <string id="config_category_npc_npcguardspawnthreshold_name" text="NPC Guard spawn threshold" />
     <string id="config_category_npc_npcguardspawnthreshold_description" text="The size a NPC garrison has to reach for a new guard to be created" />
-    <string id="config_category_npc_npcguardspawnthreshold_requirements" text="[{EnableNPCMode}] has to be enabled." />
+    <string id="config_category_npc_npcguardspawnthreshold_requirements" text="[{EnableNPCMode}] мусіць быць уключаны." />
     <string id="config_category_npc_npcguardsizemultiplier_name" text="NPC Guard size multiplier" />
     <string id="config_category_npc_npcguardsizemultiplier_description" text="Customize the size the NPC guards will be created with. {newline} {newline}Set to 0.2 for small guard sizes {newline}Set to 0.8 for large guard sizes." />
-    <string id="config_category_npc_npcguardsizemultiplier_requirements" text="[{EnableNPCMode}] has to be enabled." />
+    <string id="config_category_npc_npcguardsizemultiplier_requirements" text="[{EnableNPCMode}] мусіць быць уключаны." />
     <string id="config_category_npc_worldrecruit_name" text="NPC world recruitment" />
     <string id="config_category_npc_worldrecruit_description" text="Enables auto recruitment for all NPC Garrisons." />
     <string id="config_category_npc_prisonerrecruit_name" text="NPC prisoner recruitment" />
     <string id="config_category_npc_prisonerrecruit_description" text="Enables the recruitment of prisoners for all NPC Garrisons." />
     <string id="config_category_npc_recruitthreshold_name" text="Maximum NPC recruitment threshold" />
     <string id="config_category_npc_recruitthreshold_description" text="Maximum amount of garrison units until the recruitment is stopped." />
-    <string id="config_category_npc_recruitthreshold_requirements" text="[{EnableNPCWorldRecruitment}] has to be enabled." />
+    <string id="config_category_npc_recruitthreshold_requirements" text="[{EnableNPCWorldRecruitment}] мусіць быць уключаны." />
     <string id="config_category_npc_training_name" text="NPC garrison Training" />
     <string id="config_category_npc_training_description" text="Enables the training of garrisoned troops for all NPC Garrisons." />
     <string id="config_category_npc_trainingtier_name" text="NPC maximum training tier" />
     <string id="config_category_npc_trainingtier_description" text="The maximum tier NPC garrisoned troops are trained to." />
-    <string id="config_category_npc_trainingtier_requirements" text="[{EnableNPCGarrisonTraining}] has to be enabled." />
+    <string id="config_category_npc_trainingtier_requirements" text="[{EnableNPCGarrisonTraining}] мусіць быць уключаны." />
     <string id="config_category_npc_foodgathering_name" text="NPC bonus food gathering" />
     <string id="config_category_npc_foodgathering_description" text="Enables a bonus food amount all NPC Garrisons." />
-    <string id="config_category_npc_foodgathering_requirements" text="[{LoadFoodGatheringModule}] has to be enabled." />
+    <string id="config_category_npc_foodgathering_requirements" text="[{LoadFoodGatheringModule}] мусіць быць уключаны." />
     <string id="config_category_npc_foodamount_name" text="NPC food bonus amount" />
     <string id="config_category_npc_foodamount_description" text="The amount of food bonus all NPC Garrisons get if NPC bonus food gathering is enabled." />
-    <string id="config_category_npc_foodamount_requirements" text="[{LoadFoodGatheringModule}] has to be enabled." />
+    <string id="config_category_npc_foodamount_requirements" text="[{LoadFoodGatheringModule}] мусіць быць уключаны." />
     
     <string id="config_category_default_recruitment_name" text="Default player enable world recruitment" />
     <string id="config_category_default_recruitment_description" text="Enables world recruitment for player garrisons by default." />
