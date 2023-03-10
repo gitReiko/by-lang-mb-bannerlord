@@ -500,30 +500,30 @@
     <string id="party_guards" text="Варта Гарнізону" />
 
     <!-- SECTION dialog -->    
-    <string id="dialog_recruit_start" text="Hello my lord, we are new garrison recruits heading to your settlement!" />
-    <string id="dialog_recruit_neutral_start" text="Hello, we are new recruits to help keeping our home save!" />
-    <string id="dialog_end_nice" text="Carry on, then. Farewell." />
-    <string id="dialog_transfer_start" text="Hello my lord, we are the garrison transfer group!" />
-    <string id="dialog_guard_start" text="Hello my lord! How can we be of service?" />
-    <string id="dialog_guard_return_answer" text="Ok we will return to your garrison my lord!" />
-    <string id="dialog_guard_return" text="Return to your garrison." />
-    <string id="dialog_guard_escort_answer" text="Ok we will protect you with our life my lord!" />
-    <string id="dialog_guard_escort" text="Fight by my side!" />   
-    <string id="dialog_guard_patrol_answer" text="Ok we will protect your region my lord!" />
-    <string id="dialog_guard_patrol" text="Patrol your region!" />    
-    <string id="dialog_guard_pretalk" text="It's a pleasure serving you my lord." />  
-    <string id="dialog_guard_inspect" text="Let me inspect your troops." />     
-    <string id="dialog_guard_fortify" text="Fortify a garrison." />         
-    <string id="dialog_guard_fortify_answer" text="Ok we will fortify the garrison." />     
-    <string id="dialog_recruiter_start" text="Hello my lord, we are your garrison recruiters!" />   
-    <string id="dialog_recruiter_pretalk" text="Anything else we can help you with?" />
-    <string id="dialog_recruiter_inspect" text="Let me inspect your troops." />
-    <string id="dialog_recruiter_culturechange_answer" text="Ok we will change our recruitment to another culture!" />
-    <string id="dialog_recruiter_culturechange" text="Change your recruitment culture." />
-    <string id="dialog_npcguard_neutral_start" text="Hello! We are the Guards patrolling this region." />
-    <string id="dialog_npcguard_hostile_startplayer" text="We are the Guards patrolling this region." />
-    <string id="dialog_npcguard_hostile_fight" text="Surrender or Die!" />
-    <string id="dialog_npcguard_hostile_startnpc" text="We are the Guards patrolling this region. You know we are at war! Trespassing is not allowed here." />
+    <string id="dialog_recruit_start" text="Вітаю, {?PLAYER.GENDER}мая шляхцянка{?}мой шляхціч{\?}. Мы новыя рэкруты гарнізону. Накіроўваемся ў вашае селішча!" />
+    <string id="dialog_recruit_neutral_start" text="Прывітаньне, мы новыя рэкруты. Дапаможам захаваць наш дом!" />
+    <string id="dialog_end_nice" text="Тады, працягвайце. Даруйце." />
+    <string id="dialog_transfer_start" text="Вітаю, {?PLAYER.GENDER}мая шляхцянка{?}мой шляхціч{\?}. Мы група перадачы гарнізону!" />
+    <string id="dialog_guard_start" text="Вітаю, {?PLAYER.GENDER}мая шляхцянка{?}мой шляхціч{\?}. Чым магу дапамагчы?" />
+    <string id="dialog_guard_return_answer" text="Добра, мы вернёмся ў вашы гарнізон, {?PLAYER.GENDER}мая шляхцянка{?}мой шляхціч{\?}!" />
+    <string id="dialog_guard_return" text="Вяртайцеся ў вашы гарнізон." />
+    <string id="dialog_guard_escort_answer" text="Добра, мы будзем бараніць вас сваімі жыцьцямі, {?PLAYER.GENDER}мая шляхцянка{?}мой шляхціч{\?}!" />
+    <string id="dialog_guard_escort" text="Змагайцеся на маім боку!" />   
+    <string id="dialog_guard_patrol_answer" text="Добра, мы будзем бараніць вашы край, {?PLAYER.GENDER}мая шляхцянка{?}мой шляхціч{\?}!" />
+    <string id="dialog_guard_patrol" text="Патрулюйце свой край!" />    
+    <string id="dialog_guard_pretalk" text="Мне прыемна служыць вам, {?PLAYER.GENDER}мая шляхцянка{?}мой шляхціч{\?}." />  
+    <string id="dialog_guard_inspect" text="Дазвольце аглядзець сваіх ваяроў." />     
+    <string id="dialog_guard_fortify" text="Узмацніце гарнізон." />         
+    <string id="dialog_guard_fortify_answer" text="Добра, мы ўзмацнім гарнізон." />     
+    <string id="dialog_recruiter_start" text="Вітаю, {?PLAYER.GENDER}мая шляхцянка{?}мой шляхціч{\?}. Мы рэкрутары вашага гарнізону!" />   
+    <string id="dialog_recruiter_pretalk" text="Мы можам дапамагчы вам з чымсьці яшчэ?" />
+    <string id="dialog_recruiter_inspect" text="Дазвольце аглядзець вашых ваяроў." />
+    <string id="dialog_recruiter_culturechange_answer" text="Добра, мы зьменім нашую культуру рэкрутаваньня на іншую!" />
+    <string id="dialog_recruiter_culturechange" text="Зьмяніце вашую культуру рэкрутаваньня." />
+    <string id="dialog_npcguard_neutral_start" text="Прывітаньне! Мы Варта, што патрулюе гэты край." />
+    <string id="dialog_npcguard_hostile_startplayer" text="Мы Варта, якая патрулюе гэты край." />
+    <string id="dialog_npcguard_hostile_fight" text="Здавайцеся ці Памрыце!" />
+    <string id="dialog_npcguard_hostile_startnpc" text="Мы Варта, што патрулюе гэты край. Вы ведаеце, мы ваюем! Праход тут забаронены." />
   
     
     <!-- SECTION configuration menu -->     
