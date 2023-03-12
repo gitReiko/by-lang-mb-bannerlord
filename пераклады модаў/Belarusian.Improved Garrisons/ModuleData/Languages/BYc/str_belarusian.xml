@@ -579,31 +579,31 @@
     <string id="config_category_base_dailyexp_name" text="Штодзённая колькасьць досьведу" />
     <string id="config_category_base_dailyexp_description" text="Усталюйце колькасьць штодзённага досьведу, які атрымліваюць вашыя ваяры гарнізону падчас рыхтоўлі." />
     <string id="config_category_base_dailyexp_extradescription" text="Мод дае кожнаму ваяру ростара колькасьць досьведу, памножаную на колькасьць адзінак гэтага ваяра ў ростары. Калі, напрыклад, вы маеце 20 рэкрутаў і яны патрабуюць 250 досьведу для паляпшэньня, а штодзённае атрыманьне досьведу роўнае 50, то яны атрымаюць 50 * 20 = 1000 досьведу. Паколькі адзінка з гэтагу ростару ваяроў патрабуе 250 досьведу, логіка паляпшэньня палепшыць 1000 / 250 = 4 адзінкі." />
-    <string id="config_category_base_prisonerconformity_name" text="Daily prisoner conformity amount" />
-    <string id="config_category_base_prisonerconformity_description" text="Set the amount of daily conformity each prisoner in dungeons get." />
-    <string id="config_category_base_prisonerconformity_extradescription" text="Each prisoner in Mount and Blade has his own conformity value that needs to be reached in order to be recruitable. With this setting you can set the daily amount of conformity they get." />
-    <string id="config_category_base_loadsize_name" text="Load custom size module" />
-    <string id="config_category_base_loadsize_description" text="Loads the custom size module of Improved Garrisons. This enables you to set the maximum size for your garrisons and garrison guards." />
-    <string id="config_category_base_loadsize_requirements" text="The game has to be restarted." />
-    <string id="config_category_base_partysize_name" text="garrison guard and transfer party size" />
-    <string id="config_category_base_partysize_description" text="Set a custom size for guard and transfer parties." />
-    <string id="config_category_base_partysize_extradescription" text="This is used for the base speed and moral calculation. If your transfer, recruiter or guard partys size gets above this value, they will be slowed." />
+    <string id="config_category_base_prisonerconformity_name" text="Штодзённая колькасьць згодных палонных" />
+    <string id="config_category_base_prisonerconformity_description" text="Усталюйце штодзённую колькасьць згоды ўсякага палоннага ў вязніцы." />
+    <string id="config_category_base_prisonerconformity_extradescription" text="Кожны палонны ў Mount and Blade мае сваё ўласнае значэньне згоды, якое трэба дасягнуць, каб рэкрутаваць. Гэтай наладай вы можаце ўсталяваць штодзённую колькасьць згоды, якую атрымаюць." />
+    <string id="config_category_base_loadsize_name" text="Загрузіць модуль уласнага памеру" />
+    <string id="config_category_base_loadsize_description" text="Загружае модуль уласнага памеру Палепшанага Гарнізону. Гэта дазволіць усталяваць максімальны памер для вашых гарнізонаў і варты гарнізону." />
+    <string id="config_category_base_loadsize_requirements" text="Гульня мусіць быць перазапушчана." />
+    <string id="config_category_base_partysize_name" text="памер партыі варты гарнізону і партыі перадачы" />
+    <string id="config_category_base_partysize_description" text="Усталюйце ўласны памер для партый варты і перадачы." />
+    <string id="config_category_base_partysize_extradescription" text="Гэтае значэньне выкарыстоўваецца для разліка базавай хуткасьці і маралі. Калі памеры партый перадачы, рэкрутаў ці варты перасягнуць гэтае значэньне, яны будуць запаволены." />
     <string id="config_category_base_partysize_requirements" text="[{LoadCustomPartySizeModel}] мусіць быць уключаны." />
-    <string id="config_category_base_loadspeed_name" text="Load custom speed module" />
-    <string id="config_category_base_loadspeed_description" text="Loads the custom speed module of Improved Garrisons. This enables you to manually set the speed for your garrison guards, recruits and transfer parties. Use this module if you experience compatibility issues with the custom size module." />
-    <string id="config_category_base_loadspeed_requirements" text="The game has to be restarted." />
-    <string id="config_category_base_loadfood_name" text="Load Food gathering module" />
-    <string id="config_category_base_loadfood_description" text="Loads the food gathering module of Improved Garrisons. This enables the option to add a food bonus to castles and settlements." />
-    <string id="config_category_base_loadfood_requirements" text="The game has to be restarted." />
-    <string id="config_category_base_foodamount_name" text="Daily food bonus amount" />
-    <string id="config_category_base_foodamount_description" text="Set the amount of daily food bonus each of the player castle and settlements get each day." />
+    <string id="config_category_base_loadspeed_name" text="Загрузіць модуль уласнай хуткасьці" />
+    <string id="config_category_base_loadspeed_description" text="Загружае модуль уласнай хуткасьці Палепшанага Гарнізону. Гэта дазволіць вам уручную ўсталяваць хуткасьць для партый варты гарнізону, рэкрутаў і перадачы. Выкарыстоўвайце гэты модуль, калі вашы досьвед сумяшчальнасьці з модулем уласнага памеру." />
+    <string id="config_category_base_loadspeed_requirements" text="Гульня мусіць быць перазапушчана." />
+    <string id="config_category_base_loadfood_name" text="Загрузіць модуль збору ежы" />
+    <string id="config_category_base_loadfood_description" text="Загружае модуль збору ежы Палепшанага Гарнізону. Гэтая налада ўключае даданьне бонусу ежы замкам і селішчам." />
+    <string id="config_category_base_loadfood_requirements" text="Гульня мусіць быць перазапушчана." />
+    <string id="config_category_base_foodamount_name" text="Штодзённая колькасьць бонуснай ежы" />
+    <string id="config_category_base_foodamount_description" text="Усталюйце штодзённую колькасьць бонуснай ежы, якую будзе атрымліваць кожны замак і селішча гульца." />
     <string id="config_category_base_foodamount_requirements" text="[{LoadFoodGatheringModule}] мусіць быць уключаны." />
-    <string id="config_category_base_reset_name" text="Reset to default" />
-    <string id="config_category_base_reset_description" text="This resets the configuration of Improved Garrisons to its default values." />
-    <string id="config_category_base_reset_prompt" text="Do you want to reset the Improved Garrison configuration to its default values?" />
-    <string id="config_category_base_guardsell_name" text="Guards prisoner sell threshold" /> 
-    <string id="config_category_base_guardsell_description" text="Lower the threshold that has to be reached for prisoners to be sold" /> 
-    <string id="config_category_base_guardsell_prompt" text="> With 0.0 the guards prisoner size capability has to be fully reached.{newline}> With 0.5 the guards will sell there prisoners at half there prisoner size capability.{newline}> With 1.0 the guards will turn in prisoners the moment they get some." /> 
+    <string id="config_category_base_reset_name" text="Скінуць да па змоўчаньні" />
+    <string id="config_category_base_reset_description" text="Гэта скіне налады Палепшанага Гарнізону да значэньняў па змоўчаньні." />
+    <string id="config_category_base_reset_prompt" text="Вы жадаеце скінуць налады Палепшанага Гарнізону да значэньняў па змоўчаньні?" />
+    <string id="config_category_base_guardsell_name" text="Парог продажу палонных для варты" /> 
+    <string id="config_category_base_guardsell_description" text="Зьнізьце парог, які трэба дасягнуць каб прадаць палонных" /> 
+    <string id="config_category_base_guardsell_prompt" text="> Пры значэньні 0.0 ёмістасьць палонных варты мусіць быць поўнасьцю запоўнена.{newline}> Пры значэньне 0.5 варта будзе прадаваць палонных на палове ёмістасьці палонных. {newline}> Пры значэньні 1.0 варта будзе прадаваць палонных у момант атрыманьня." /> 
     <string id="config_Category_base_guardreplenishperc_name" text="Guards Replenishment Percentage" />    
     <string id="config_Category_base_guardreplenishperc_description" text="The percentage the current party size has to drop to in order for the guards to go back to there home garrison to replenish there troops. The guards will only replenish if there are valid troops in your garrison! They only pick up units which were in the initial guards party and only if these units party amount is not above the initial amount." />   
     <string id="config_Category_base_guardreplenishperc_extradescription" text="> The guards will try to refill to its initial party they were spawned with {newline}> With 0.0 the guards will never return to the garrison to replenish.{newline}> With 0.5 the guards will replenish at half there initial size.{newline}> With 1.0 the guards will replenish as soon as they lose troops and the amount of available pick up troops are above the [{GuardAvailableTroopsPercentage}]" />
