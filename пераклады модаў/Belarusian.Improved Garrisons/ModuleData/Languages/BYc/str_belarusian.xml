@@ -623,39 +623,39 @@
     <string id="config_category_base_deletesavedata_name" text="Выдаліць непатрэбны дадзеныя захаваньня" /> 
     <string id="config_category_base_deletesavedata_description" text="Калі вы выдалілі файл захаваньня, захаваныя дадзеныя Палепшанага Гарнізону для гэтага азначаннага файла захаваньня могуць застацца. Калі вы абярэце гэтую наладу, мод будзе шукаць дадзенныя супастаўленыя з файлам захаваньня, які болей не існуе, а потым выдале іх, бо яны болей не выкарыстоўваюцца.{newline} {newline}Нататка: Гэты працэс можа заняць пэўны час" /> 
     <string id="config_category_base_deletesavedata_extradescription" text="Вы таксама маеце магчымасьць выдаліць гэтыя дадзеныя ўручную, калі жадаеце. Знайдзіце Mount and Blade II Bannerlord у тэчцы вашых дакументаў і знайдзіці канфігурацыі Палепшаных Гарнізонаў." /> 
-    <string id="config_category_npc_guardparties_name" text="Enable NPC's create Garrison Guard parties" />
-    <string id="config_category_npc_guardparties_description" text="Allows NPC's factions to establish Garrison Guard parties to defend their property." />
-    <string id="config_category_npc_npcguardspawnthreshold_name" text="NPC Guard spawn threshold" />
-    <string id="config_category_npc_npcguardspawnthreshold_description" text="The size a NPC garrison has to reach for a new guard to be created" />
+    <string id="config_category_npc_guardparties_name" text="Уключыць стварэньне партыяў Варты Гарнізону для НГП" />
+    <string id="config_category_npc_guardparties_description" text="Дазволіць фракцыям НГП ствараць партыі Варты Гарнізону для абароны сваёй уласнасьці." />
+    <string id="config_category_npc_npcguardspawnthreshold_name" text="Парог з'яўленьня Варты НГП" />
+    <string id="config_category_npc_npcguardspawnthreshold_description" text="Памер гарнізону НГП, які трэба дасягнуць для стварэньня новай варты" />
     <string id="config_category_npc_npcguardspawnthreshold_requirements" text="[{EnableNPCMode}] мусіць быць уключаны." />
-    <string id="config_category_npc_npcguardsizemultiplier_name" text="NPC Guard size multiplier" />
-    <string id="config_category_npc_npcguardsizemultiplier_description" text="Customize the size the NPC guards will be created with. {newline} {newline}Set to 0.2 for small guard sizes {newline}Set to 0.8 for large guard sizes." />
+    <string id="config_category_npc_npcguardsizemultiplier_name" text="Множнік памеру Варты НГП" />
+    <string id="config_category_npc_npcguardsizemultiplier_description" text="Наладзьце памер варты НГП, які будзе стварацца. {newline} {newline}Усталюйце 0.2 для варты маленькіх памераў {newline}Усталюйце 0.8 для варты вялікіх памераў." />
     <string id="config_category_npc_npcguardsizemultiplier_requirements" text="[{EnableNPCMode}] мусіць быць уключаны." />
-    <string id="config_category_npc_worldrecruit_name" text="NPC world recruitment" />
-    <string id="config_category_npc_worldrecruit_description" text="Enables auto recruitment for all NPC Garrisons." />
-    <string id="config_category_npc_prisonerrecruit_name" text="NPC prisoner recruitment" />
-    <string id="config_category_npc_prisonerrecruit_description" text="Enables the recruitment of prisoners for all NPC Garrisons." />
-    <string id="config_category_npc_recruitthreshold_name" text="Maximum NPC recruitment threshold" />
-    <string id="config_category_npc_recruitthreshold_description" text="Maximum amount of garrison units until the recruitment is stopped." />
+    <string id="config_category_npc_worldrecruit_name" text="Рэкрутаваньне сьвету НГП" />
+    <string id="config_category_npc_worldrecruit_description" text="Уключае аўтарэкрутаваньне для ўсіх Гарнізонаў НГП." />
+    <string id="config_category_npc_prisonerrecruit_name" text="Рэкрутаваньне палонных НГП" />
+    <string id="config_category_npc_prisonerrecruit_description" text="Уключае рэкрутаваньне палонных для ўсіх Гарнізонаў НГП." />
+    <string id="config_category_npc_recruitthreshold_name" text="Максімальны парог рэкрутаваньня НГП" />
+    <string id="config_category_npc_recruitthreshold_description" text="Максімальная колькасьць адзінак у гарнізонах, пасьля якой рэкрутаваньне будзе спынена." />
     <string id="config_category_npc_recruitthreshold_requirements" text="[{EnableNPCWorldRecruitment}] мусіць быць уключаны." />
-    <string id="config_category_npc_training_name" text="NPC garrison Training" />
-    <string id="config_category_npc_training_description" text="Enables the training of garrisoned troops for all NPC Garrisons." />
-    <string id="config_category_npc_trainingtier_name" text="NPC maximum training tier" />
-    <string id="config_category_npc_trainingtier_description" text="The maximum tier NPC garrisoned troops are trained to." />
+    <string id="config_category_npc_training_name" text="Рыхтоўля гарнізонаў НГП" />
+    <string id="config_category_npc_training_description" text="Уключае рыхтоўлю ваяроў гарнізону для ўсіх Гарнізонаў НГП." />
+    <string id="config_category_npc_trainingtier_name" text="Максімальны ўзровень рыхтоўлі НГП" />
+    <string id="config_category_npc_trainingtier_description" text="Максімальны ўзровень ваяроў гарнізону НГП, да якога будзе рыхтоўля." />
     <string id="config_category_npc_trainingtier_requirements" text="[{EnableNPCGarrisonTraining}] мусіць быць уключаны." />
-    <string id="config_category_npc_foodgathering_name" text="NPC bonus food gathering" />
-    <string id="config_category_npc_foodgathering_description" text="Enables a bonus food amount all NPC Garrisons." />
+    <string id="config_category_npc_foodgathering_name" text="Збор бонуснай ежы НГП" />
+    <string id="config_category_npc_foodgathering_description" text="Уключае бонусную ежу для ўсіх Гарнізонаў НГП." />
     <string id="config_category_npc_foodgathering_requirements" text="[{LoadFoodGatheringModule}] мусіць быць уключаны." />
-    <string id="config_category_npc_foodamount_name" text="NPC food bonus amount" />
-    <string id="config_category_npc_foodamount_description" text="The amount of food bonus all NPC Garrisons get if NPC bonus food gathering is enabled." />
+    <string id="config_category_npc_foodamount_name" text="Колькасьць бонуснай ежы НГП" />
+    <string id="config_category_npc_foodamount_description" text="Колькасьць бонуснай ежы для ўсіх Гарнізонаў НГП, якую атрымліваюць НГП, калі збор бонуснай ежы ўключаны." />
     <string id="config_category_npc_foodamount_requirements" text="[{LoadFoodGatheringModule}] мусіць быць уключаны." />
     
-    <string id="config_category_default_recruitment_name" text="Default player enable world recruitment" />
-    <string id="config_category_default_recruitment_description" text="Enables world recruitment for player garrisons by default." />
-    <string id="config_category_default_recruitthreshold_name" text="Default player maximum recruitment threshold" />
-    <string id="config_category_default_recruitthreshold_description" text="Set the default maximum amount of garrison units until the recruitment is stopped." />
-    <string id="config_category_default_prisonerrecruit_name" text="Default player enable prisoner recruitment" />
-    <string id="config_category_default_prisonerrecruit_description" text="Enables prisoner recruitment for player garrisons by default." />
+    <string id="config_category_default_recruitment_name" text="Па змоўчаньні рэкрутаваньне сьвету уключана для гульца" />
+    <string id="config_category_default_recruitment_description" text="Уключае рэкрутаваньне сьвету для гарнізонаў гульца па змоўчаньні." />
+    <string id="config_category_default_recruitthreshold_name" text="Па змоўчаньні максімальны парог рэкрутаваньня гульца" />
+    <string id="config_category_default_recruitthreshold_description" text="Усталюйце максімальную колькасьць (па змоўчаньні) ваяроў гарнізону, пасьля якога рэкрутаваньне будзе спынена." />
+    <string id="config_category_default_prisonerrecruit_name" text="Па змоўчаньні рэкрутаваньне палонных уключана для гульца" />
+    <string id="config_category_default_prisonerrecruit_description" text="Уключае рэкрутаваньне палонных для гарнізонаў гульца па змоўчаньні." />
     <string id="config_category_default_prisonerthreshold_name" text="Default player enable prisoner recruitment above threshold" />
     <string id="config_category_default_prisonerthreshold_description" text="Enables prisoner recruitment above threshold for player garrisons by default." />
     <string id="config_category_default_training_name" text="Default player enable training" />
