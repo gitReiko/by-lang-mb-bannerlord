@@ -570,15 +570,15 @@
     <string id="config_category_base_fromvillages_name" text="Ствараць новых ваяроў непасрэдна ў гарнізоне" />
     <string id="config_category_base_fromvillages_description" text="Пасьля ўключэньня гэтай налады Палепшаны Гарнізон болей ня будзе чакаць пакуль навакольныя вёскі створаць ваяроў. Новыя ваяры будуць з'яўляцца ў гарнізоне &quot;з паветра&quot; штодзень." />
     <string id="config_category_base_fromvillages_extradescription" text="Калі рэкрутаваньне з вёсак актывавана і ўключана рэкрутаваньне ў меню вашага гарнізону (па змоўчаньні), логіка рэкрутаваньня гэтага мода будзе шукаць усякую зьвязаную вёску і гэтае селішча, з якіх гулец можа рэкрутаваць. Улічвайце, што на колькасьць даступных для рэкрутаваньня ваяроў уплывае тое, у якіх адносінах гулец знаходзіцца з гэтымі вёскамі. Як толькі логіка рэкрутаваньня зьбярэ мінімальную колькасьць рэкрутаў (па змоўчваньні 4), будзе створана партыя з рэкрутаў даступных вёсак і адпраўлены ў гарнізон. Рэкруты будуць выдалены з запасаў вёскі, таму спатрэбіцца нейкі час, каб вёска змагла стварыць болей ваяроў." />
-    <string id="config_category_base_minrecruits_name" text="Village recruit-party size" />
-    <string id="config_category_base_minrecruits_description" text="Set the minimum amount of recruits that need to be gathered in villages before a new recruit party is established and sent to the garrison.." />
+    <string id="config_category_base_minrecruits_name" text="Памер партыі рэкрутаваньня вёскі" />
+    <string id="config_category_base_minrecruits_description" text="Усталюйце мінімальную колькасьць рэкрутаў, якую трэба сабраць у вёсках, каб новая партыя рэкрутаў была створана і адпраўлена ў гарнізон." />
     <string id="config_category_base_minrecruits_requirements" text="[{RecruitsAreRecruitedFromVillages}] мусіць быць уключаны." />
-    <string id="config_category_base_spawnamount_name" text="Amount of troops to spawn" />
-    <string id="config_category_base_spawnamount_description" text="Set the amount of troops that are spawned in garrisons. If they are not recruited from nearby villages and settlements." />
+    <string id="config_category_base_spawnamount_name" text="Колькасьць ваяроў, што папоўняць" />
+    <string id="config_category_base_spawnamount_description" text="Усталюйце колькасьць ваяроў, якія папоўняць гарнізоны. Калі яны не рэкрутуюцца з найблізкіх вёсак і селішчаў." />
     <string id="config_category_base_spawnamount_requirements" text="[{RecruitsAreRecruitedFromVillages}] мусіць быць уключаны." />
-    <string id="config_category_base_dailyexp_name" text="Daily EXP amount" />
-    <string id="config_category_base_dailyexp_description" text="Set the amount of daily exp your garrisoned troops gain while training." />
-    <string id="config_category_base_dailyexp_extradescription" text="The mod gives each troop - roster a set amount of exp multiplied by the amount of units this troop - roster has.If for example you have 20 recruits and they need 250Exp to upgrade and the daily exp gain is set to 50, they will get 50 * 20 = 1000 Exp.As a unit from this troop - roster needs 250Exp, the upgrade logic will upgrade 1000 / 250 = 4 Units." />
+    <string id="config_category_base_dailyexp_name" text="Штодзённая колькасьць досьведу" />
+    <string id="config_category_base_dailyexp_description" text="Усталюйце колькасьць штодзённага досьведу, які атрымліваюць вашыя ваяры гарнізону падчас рыхтоўлі." />
+    <string id="config_category_base_dailyexp_extradescription" text="Мод дае кожнаму ваяру ростара колькасьць досьведу, памножаную на колькасьць адзінак гэтага ваяра ў ростары. Калі, напрыклад, вы маеце 20 рэкрутаў і яны патрабуюць 250 досьведу для паляпшэньня, а штодзённае атрыманьне досьведу роўнае 50, то яны атрымаюць 50 * 20 = 1000 досьведу. Паколькі адзінка з гэтагу ростару ваяроў патрабуе 250 досьведу, логіка паляпшэньня палепшыць 1000 / 250 = 4 адзінкі." />
     <string id="config_category_base_prisonerconformity_name" text="Daily prisoner conformity amount" />
     <string id="config_category_base_prisonerconformity_description" text="Set the amount of daily conformity each prisoner in dungeons get." />
     <string id="config_category_base_prisonerconformity_extradescription" text="Each prisoner in Mount and Blade has his own conformity value that needs to be reached in order to be recruitable. With this setting you can set the daily amount of conformity they get." />
