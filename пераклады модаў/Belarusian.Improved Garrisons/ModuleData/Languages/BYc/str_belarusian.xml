@@ -661,26 +661,26 @@
     <string id="config_category_default_training_name" text="Па змоўчаньні рыхтоўля ўключана для гульца" />
     <string id="config_category_default_training_description" text="Уключае рыхтоўлю для гарнізонаў гульца па змоўчаньні." />
     <string id="config_category_default_training_requirements" text="Штодзень вашыя адзінкі гарнізону атрымліваюць колькасьць досьведу (наладжваецца). Калі яны гатовыя да паляпшэньня, можа здарыцца адна з двух рэчаў. Калі вы абралі для іх пэўны пажаданы шлях паляпшэньня, логіка паляпшэньня Палепшанага Гарнізону прасуне адзінку далей па шляху да мэты. Калі мэта не ўсталявана, шлях будзе абраны выпадкова. Таксама вы можаце абмежаваць іх ровень, калі, напрыклад, жадаеце мець ваяроў толькі 3 роўня для зьніжэньня выдаткаў. Гэтае абмежаваньне роўню скасоўваецца, абраньнем мэты паляпшэньня." />
-    <string id="config_category_default_maximumtier_name" text="Default player maximum training tier" />
-    <string id="config_category_default_maximumtier_description" text="The default maximum tier player garrisoned troops are trained to." />
-    <string id="config_category_default_onlyelite_name" text="Default player only recruit elites" />
-    <string id="config_category_default_onlyelite_description" text="Enables only recruit elite units for player garrisons by default." />
-    <string id="config_category_default_guardssell_name" text="Default guards enable prisoner trade" />   
-    <string id="config_category_default_guardssell_description" text="Enables prisoner trade for player guards by default." />  
-    <string id="config_category_default_replenish_name" text="Default guards enable replenish" />    
-    <string id="config_category_default_replenish_description" text="Enables replenish and heal for player guards by default." />  
-    <string id="config_category_default_tutorial_name" text="Deactivate Tutorial" />    
-    <string id="config_category_default_tutorial_description" text="Disables the tutorial that is started upon entering a owned fief." />  
-    <string id="config_category_default_dailymessage_name" text="Disable Daily Message" />     
-    <string id="config_category_default_dailymessage_description" text="Disables the daily chat message." /> 
-    <string id="config_category_default_hideoutclear_name" text="Default guards enable clear hideouts" /> 
-    <string id="config_category_default_hideoutclear_description" text="Enables guards clear hideouts by default." /> 
-    <string id="config_category_default_buyhorses_name" text="Default guards enable buy horses" /> 
-    <string id="config_category_default_buyhorses_description" text="Enables guards buy horses to gain additional movement speed by default." /> 
-    <string id="config_category_default_guardupgrade_name" text="Default guards enable troop upgrade" />    
-    <string id="config_category_default_guardupgrade_description" text="Enables player guard parties to upgrade there troops by default." />  
-    <string id="config_category_default_guardprisonerrecruit_name" text="Default guards recruit prisoners" />    
-    <string id="config_category_default_guardprisonerrecruit_description" text="Enables recruitment of prisoners for player guards by default." />  
+    <string id="config_category_default_maximumtier_name" text="Максімальны ровень рыхтоўлі гульца па змоўчаньні" />
+    <string id="config_category_default_maximumtier_description" text="Максімальны ровень ваяроў гарнізону гульца па змоўчаньні, да якога будуць рыхтавацца." />
+    <string id="config_category_default_onlyelite_name" text="Рэкрутаваньне толькі эліты для гульца па змоўчаньні" />
+    <string id="config_category_default_onlyelite_description" text="Уключае толькі рэкрутаваньне элітных адзінак для гарнізонаў гульца па змоўчаньні." />
+    <string id="config_category_default_guardssell_name" text="Гандаль палоннымі ўключаны для варты па змоўчаньні" />   
+    <string id="config_category_default_guardssell_description" text="Уключае гандаль палоннымі для варты гульца па змоўчаньні." />  
+    <string id="config_category_default_replenish_name" text="Аднаўленьне ўключана для варты па змоўчаньні" />    
+    <string id="config_category_default_replenish_description" text="Уключае аднаўленьне і лячэньне для варты гульца па змоўчаньні." />  
+    <string id="config_category_default_tutorial_name" text="Дэактываваць Навучаньне" />    
+    <string id="config_category_default_tutorial_description" text="Адключае навучаньне, якое пачынаецца пасьля ўваходу ва ўласную воласьць." />  
+    <string id="config_category_default_dailymessage_name" text="Адключыць Штодзённае Паведамленьне" />     
+    <string id="config_category_default_dailymessage_description" text="Адключае штодзённае паведамленьне чату." /> 
+    <string id="config_category_default_hideoutclear_name" text="Зачыстка сховішчаў уключана для варты па змоўчаньні" /> 
+    <string id="config_category_default_hideoutclear_description" text="Уключае зачыстку сховішчаў для варты па змоўчаньні." /> 
+    <string id="config_category_default_buyhorses_name" text="Гандаль коньмі ўключаны для варты па змоўчаньні" /> 
+    <string id="config_category_default_buyhorses_description" text="Уключае гандаль коньмі для варты, каб атрымаць дадатковую хуткасьць руху па змоўчаньні." /> 
+    <string id="config_category_default_guardupgrade_name" text="Паляпшэньне ваяроў уключана для варты па змоўчаньні" />    
+    <string id="config_category_default_guardupgrade_description" text="Уключае магчымасьць паляпшэньня ваяроў для партыяў варты гульца па змоўчаньні." />  
+    <string id="config_category_default_guardprisonerrecruit_name" text="Рэкрутаваньне палонных вартай па змоўчаньні" />    
+    <string id="config_category_default_guardprisonerrecruit_description" text="Уключае рэкрутаваньне палонных для варты гульца па змоўчаньні." />  
     
     
     <!-- SECTION tutorial -->  
