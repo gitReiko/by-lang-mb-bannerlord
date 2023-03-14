@@ -745,24 +745,24 @@
     <string id="tutorial_training16_1" text="Замест патрэбы самастойнага зьбіраньня гэтых адзінак Палепшаны Гарнізон рэкрутуе іх замест вас. Памятайце, што вашы шаблон можа патрабаваць розных ваяроў з розных культураў, якія знаходзяцца на розных частках мапы сьвету. Для аўтаматычнага рэкрутаваньня ваяроў гэтых культураў, уключыце 'аўтастварэньне рэкрутара' у паказаных наладах (Пасьля актывацыі кнопкі 'рэкрутаваньне прытрымліваецца шаблону'). Партыі рэкрутара будуць стварацца аўтаматычна для вас." />
     <string id="tutorial_training16_2" text="Рэкрутар досыць разумны. Ён ведае якія ваяры з якіх культураў вам патрэбны для шаблону рыхтоўлі, і будзе зьбіраць гэтых ваяроў з усей мапы сьвету, ды вяртаць іх вашы гарнізон." />
     <string id="tutorial_training14_1" text="Ванільная Рыхтоўля" />
-    <string id="tutorial_training14_2" text="As with the vanilla recruitment there is also a vanilla training setting which refers to the base games logic of upgrading troops. It is highly recommended to leave this setting disabled as the base games upgrade logic randomly upgrades and downgrades troops without looking at the training template." />
-    <string id="tutorial_training17" text="Max upgrade tier for troops (non template)" />
-    <string id="tutorial_training18" text="This feature is only relevant for all those troops in your garrison that are not affected by your current training template. The Improved Garrison will only upgrade those troops to the tier you have selected here." />
-    <string id="tutorial_training19" text="Note: If no training template is found for a troop. Its upgrade path will be randomly selected." />
-    <string id="tutorial_guards1" text="Garrison Guards" />
-    <string id="tutorial_guards2" text="This is the guards section. Here you are able to create a new guard party, see current information about your current guard, order your guard or customize the behavior." />
-    <string id="tutorial_guards3" text="A guard is a party that is created out of your currently garrisoned troops. Each Improved Garrison may have one guard party. Guard parties have a advanced custom AI build on top of the base games AI. The guards AI thinks about stuff like &quot;I should defend XY village&quot;, &quot;I shouldn't attack XY party it is to fast or to strong&quot;, &quot;I should go back to a settlement and heal my units&quot;, and more!" />
-    <string id="tutorial_guards4" text="Each guard can also be given orders. The most common usage is the defense of your region. If you tell the guard to patrol it will walk around the region clear looters and bandits and defend against sieges and raids. You may also tell the guards to escort parties. The guards will then follow the party and defend it. This can be useful if you need help with your next attack or you want one of your caravans to be protected." />
-    <string id="tutorial_guards5" text="Guard Settings" />
-    <string id="tutorial_guards6" text="(You can scroll in this section)" />
-    <string id="tutorial_guards7" text="This list consists of further behavior customization for you guards. You can for example automatically create guards when attacked, disable the recruitment of captured prisoners and more." />
-    <string id="tutorial_garrison1" text="Garrison Information" />
-    <string id="tutorial_garrison2" text="This is the garrison information section. Important information about your garrison and the acitivty of the Improved Garrison is shown here." />
-    <string id="tutorial_garrison3" text="Current Garrison" />
-    <string id="tutorial_garrison4" text="This list shows you the current garrison of the selected town/castle." />
-    <string id="tutorial_garrison5" text="At the bottom you find a button to transfer troops. This allows you to create a transfer party which will go to a selected location of yours. Use this feature if you want to transfer units between garrisons." />
-    <string id="tutorial_garrison6" text="Note: This could be useful if you are at war to transfer troops to garrisons that need protection." />
-    <string id="tutorial_garrison7" text="Weekly Garrison Information" />
+    <string id="tutorial_training14_2" text="Побач з ванільным рэкрутаваньнем існуе таксама ванільная рыхтоўля, якая тычыцца логікі паляпшэньня ваяроў базавай гульні. Настойліва рэкамендуецца пакінуць гэтую наладу адключанай, бо логіка базавай гульні выпадковым чынам павялічвае і зьніжае ровень ваяроў, не зважаючы на шаблон рыхтоўлі." />
+    <string id="tutorial_training17" text="Макс ровень паляпшэньня ваяроў (не з шаблону)" />
+    <string id="tutorial_training18" text="Гэтая функцыя тычыцца толькі тых ваяроў вашага ганізону, на якіх ня дзейнічае цяперашні шаблон рыхтоўлі. Палепшаны Гарнізон павысіць ровень гэтых ваяроў да ўзроўня, абранага тут." />
+    <string id="tutorial_training19" text="Нататка: Калі для ваяра ня знойдзены шаблон рыхтоўлі, яго шлях паляпшэньня будзе абраны выпадковым чынам." />
+    <string id="tutorial_guards1" text="Варта Гарнізону" />
+    <string id="tutorial_guards2" text="Гэта падзел варты. Тут вы можаце стварыць новую партыю варты, праглядзець актуальную інфармацыю пра вашую цяперашнюю варту, загадаць варце ці наладзіць яе паводзіны." />
+    <string id="tutorial_guards3" text="Варта - гэта партыя, якая ствараецца з ваяроў вашага гарнізону. Кожны Палепшаны Гарнізон можа мець адну партыю варты. Партыі варты маюць прасунуты ШІ, пабудаваны па-над ШІ базавай гульні. ШІ варты думае пра такія рэчы, як &quot;ці мушу я бараніць вёску XY&quot;, &quot;я ня мушу атакаваць партыю XY, бо яна захуткая ці замоцная&quot;, &quot;Я мушу вярнуцца назад у селішка, каб вылячыць свае адзінкі&quot;, і многае іншае!" />
+    <string id="tutorial_guards4" text="Кожнай варце таксама льга даваць загады. Самае пашыранае выкарыстанне - абарона вашага краю. Калі вы загадаеце варце патруляваць, яна будзе вандраваць па краю, ачышчаць яго ад рабаўнікоў ды бандытаў, бараніць край ад аблогаў і рабаваньняў. Таксама вы можаце загадаць варце суправаджаць партыі. Такім чынам варта будзе ісьці ўслед за партыяй і бараніць яе. Гэта можа быць карысным, калі вам патрабуецца дапамога падчас наступнага нападу ці калі вы жадаеце, каб адзін з вашых караванаў быў пад абаронай." />
+    <string id="tutorial_guards5" text="Налады Варты" />
+    <string id="tutorial_guards6" text="(Вы можаце прагартаць гэты падзел)" />
+    <string id="tutorial_guards7" text="Гэты сьпіс складаецца з далейшай наладкі паводзінаў вашай варты. Напрыклад, вы можаце ствараць варту аўтаматычна падчас атакі, адключыць рэкрутаваньне захопленых палонных і болей." />
+    <string id="tutorial_garrison1" text="Інфармацыя пра Гарнізон" />
+    <string id="tutorial_garrison2" text="Гэта падзел пра інфармацыю аб гарнізоне. Тут пададзена важная інфармацыя пра вашы гарнізон і дзейнасьць Палепшанага Гарнізону." />
+    <string id="tutorial_garrison3" text="Цяперашні Гарнізон" />
+    <string id="tutorial_garrison4" text="Гэты сьпіс паказвае цяперашні гарнізон абранага гораду/замка." />
+    <string id="tutorial_garrison5" text="Унізе вы знойдзеце кнопку для перадачы ваяроў. Гэта дазваляе вам стварыць партыю перадачы, якая адправіцца ў абранае вамі месца. Выкарыстоўвайце гэтую функцыю, калі жадаеце перасоўваць ваяроў між гарнізонамі." />
+    <string id="tutorial_garrison6" text="Нататка: Гэта можа быць карысным, калі вы ваюеце і перасоўваеце ваяроў у гарнізоны, патрабуючыя абарону." />
+    <string id="tutorial_garrison7" text="Штотыднёвая Інфармацыя пра Гарнізон" />
     <string id="tutorial_garrison8" text="This list shows the amount of costs the Improved Garrison had this week to recruit and train troops and also shows the cumulative amount of troops that have been recruited and upgraded this week." />
     <string id="tutorial_garrison9" text="Garrison Activity" />
     <string id="tutorial_garrison10" text="A chat like list that fills up with the latest activities the Improved Garrison performed. This list shows activities like recruitments and upgrades with timestamps." />
