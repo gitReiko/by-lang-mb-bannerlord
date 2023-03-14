@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+
+
+
+  <strings>
+    
+    <!-- If you want to translate this mod use this xml file as a template. --> 
+    <!-- Make sure to leave the parts {SOMETHING} as it is !!! dont change the brackets -->
+    <!-- Change the language tag above the the language you want to translate to -->
+    <!-- If you are done with the translation you may upload it to NexusMods as a new mod with the type "translation" -->
+    <!-- Make sure to tag the offical Improved Garrisons mod in the upload settings -->
+
+    <!-- For updates to the last template -->
+    <!-- I recommend using the tool Notepad++ with the compare plugin --> 
+    <!-- Open the tool and go to the "plugins" tab -->
+    <!-- Press on "plugins admin" and search for "compare" -->
+    <!-- After installation again press on plugins and use the compare plugin to compare the latest version you translated with the newest -->
+    <!-- This will highlight you all the removed, modified and added lines -->
+
+    <!-- SECTION Improved Garrison Menu -->
+
+    <string id="ui_settlementinformation_garrisonsize1" text="Pamier harnizonu ciapier." />
+    <string id="ui_settlementinformation_garrisonsize2" text="Pamier harnizonu" />
+    <string id="ui_settlementinformation_foodamount1" text="Źmiena Ježy ŭ vašym Horadzie ciapier." />
+    <string id="ui_settlementinformation_foodamount2" text="Ježa" />
+    <string id="ui_settlementinformation_guardparty1" text="Maje aktyŭnuju partyju Varty." />
+    <string id="ui_settlementinformation_guardparty2" text="Aktyŭnaja Varta" />
+    <string id="ui_settlementinformation_goldchange1" text="Raźličanaje značeńnie vašych haradskich padatkaŭ i majsterni minus zarobak harnizonu i varty." />
+    <string id="ui_settlementinformation_goldchange2" text="Źmieny Zołata" />
+    <string id="ui_settlementinformation_prosperity1" text="Roskvit u vašym Horadzie ciapier." />
+    <string id="ui_settlementinformation_prosperity2" text="Roskvit" />
+    <string id="ui_settlementinformation_militia1" text="Kolkaść Rušeńnia ŭ vašym Horadzie ciapier." />
+    <string id="ui_settlementinformation_militia2" text="Rušeńnie" />
+    <string id="ui_settlementinformation_loyality1" text="Łajalnaść u vašym Horadzie ciapier." />
+    <string id="ui_settlementinformation_loyality2" text="Łajalnaść" />
+    <string id="ui_settlementinformation_construction1" text="Budavańnie ŭ vašym Horadzie ciapier." />
+    <string id="ui_settlementinformation_construction2" text="Budavańnie" />
+    <string id="ui_settlementinformation_reserve1" text="Kolkaść Reziervu ŭ vašym Horadzie ciapier." />
+    <string id="ui_settlementinformation_reserve2" text="Rezierv" />
+    <string id="ui_settlementinformation_activ" text="aktyŭ" />
+    <string id="ui_settlementinformation_none" text="nie" />
+    <string id="ui_settlementitemwidget_track" text="Adsočvać Sielišča" />
+    <string id="ui_settlementitemwidget_raid" text="Rabujecca" />
+    <string id="ui_settlementitemwidget_hostileraid" text="Varožaje Rabavańnie" />
+    <string id="ui_settlementitemwidget_raided" text="Abrabavana" />
+    <string id="ui_settlementitemwidget_siege" text="Pad Abłohaj" />
+    <string id="ui_settlementitemwidget_peace" text="Mir" />
+    <string id="ui_villagetitemwidget_track" text="Adsočvać Viosku" />
+    <string id="ui_guardsui_infotitle" text="Infarmacyja pra Vartu" />
+    <string id="ui_guardsui_createguard" text="Stvaryć novuju Vartu" />
+    <string id="ui_guardsui_guardorders" text="Zahady Varcie" />
+    <string id="ui_guardsui_healthytroops" text="Zdarovyja Vajary" />
+    <string id="ui_guardsui_woundedtroops" text="Ranienyja Vajary" />
+    <string id="ui_guardsui_prisoners" text="Pałonnyja" />
+    <string id="ui_guardsui_orderpatrol" text="Zahadać Patrulavać" />
+    <string id="ui_guardsui_orderescort" text="Zahadać Supravadžać" />
+    <string id="ui_guardsui_orderreturn" text="Zahadać Viarnucca" />
+    <string id="ui_guardsui_creationtitle" text="Razumnyja Nałady Stvareńnia Varty" />
+    <string id="ui_guardsui_settings" text="Nałady Pavodzinaŭ Varty" />
+    <string id="ui_guardsui_allowupgrade1" text="Dazvolić palapšać vajaroŭ" />
+    <string id="ui_guardsui_allowupgrade2" text="Dazvolić hetaj Varcie harnizonu palapšać svaich vajaroŭ." />
+    <string id="ui_guardsui_allowreplenish1" text="Dazvolić adnaŭleńnie" />
+    <string id="ui_guardsui_allowreplenish2" text="Dazvolić Varcie harnizonu viartacca ŭ svoj dom (horad ci zamak) dla adnaŭleńnia stračannych vajaroŭ dy lačeńnia, kali jana paranienaja.{newline} {newline}Varta budzie adnaŭlać tolki typy vajaroŭ, jakija jana mieła napačatku stvareńnia partyi varty! Tamu pakłapaciciesia pra toje, kab hetyja adzinki rychtavalisia ŭ Palepšanym harnizonie, kab varta mahła zabrać ich paźniej." />
+    <string id="ui_guardsui_allowsell1" text="Dazvolić pradavać pałonnych" />
+    <string id="ui_guardsui_allowsell2" text="Dazvolić Varcie harnizonu pradavać zachoplennych pałonnych." />
+    <string id="ui_guardsui_allowrecruit1" text="Dazvolić rekrutavańnie pałonnych" />
+    <string id="ui_guardsui_allowrecruit2" text="Dazvolić Varcie harnizonu rekrutavać zachoplennych pałonnych." />
+    <string id="ui_guardsui_allowhorses1" text="Dazvolić kuplu koniej" />
+    <string id="ui_guardsui_allowhorses2" text="Dazvolić Varcie harnizonu kuplać koniej dla pavialičeńnia chutkaści ruchu." />
+    <string id="ui_guardsui_noguards" text="Niama aktyŭnaj partyi varty" />
+    <string id="ui_guardsui_autocreateguards1" text="aŭtastvareńnie Varty" />
+    <string id="ui_guardsui_autocreateguards2" text="Dazvolić harnizonu aŭtamatyčna stvarać partyju varty." />
+    <string id="ui_guardsui_autodefend1" text="Aŭtamatyčna stvarać partyju Varty dla abarony viosak" />
+    <string id="ui_guardsui_autodefend2" text="Dazvolić hetamu harnizonu aŭtamatyčna stvarać partyju varty dla abarony atakavanych viosak." />
+    <string id="ui_guardsui_autoroam1" text="Aŭtamatyčna stvarać partyju Varty dla patrula kraju" />
+    <string id="ui_guardsui_autoroam2" text="Dazvolić hetamu harnizonu aŭtamatyčna stvarać partyju varty." />
+    <string id="ui_guardsui_partycreationsize1" text="Pamier aŭtastvareńnia partyi Varty" />
+    <string id="ui_guardsui_partycreationsize2" text="Ustalavać pamier partyi Varty padčas aŭtamatyčnaha stvareńnia hetym harnizonam." />
+    <string id="ui_guardsui_partycreationsize_small" text="Maleńki" />
+    <string id="ui_guardsui_partycreationsize_medium" text="Siaredni" />
+    <string id="ui_guardsui_partycreationsize_large" text="Vialiki" />
+    <string id="ui_guardsui_autocreationthreshold1" text="Paroh aŭtastvareńnia Varty" />
+    <string id="ui_guardsui_autocreationthreshold2" text="Ustalavać pamier vašaha harnizonu, paśla dasiahnieńnia jakoha Varta budzie aŭtamatyčna stvorana. {newline} {newline}Uvaha: Nałady aŭtastvarenia Varty ŭklučany." />
+    <string id="ui_guardsui_returnthreshold1" text="Paroh viartańnia (%)" />
+    <string id="ui_guardsui_returnthreshold2" text="Ustalavać paroh viartańnia u adnosinach da pačatkovaha pamieru partyi varty. {newline} {newline} Ustalujcie značeńnie 0.9, i varta vierniecca paśla straty 10% svaich vajaroŭ. {newline} {newline} stalujcie značeńnie 0.1, i varta vierniecca paśla straty 90% svaich vajaroŭ." />
+
+    <string id="ui_managementui_copymanager" text="Kiravalnik Kapijavańnia" />
+    <string id="ui_garrisonui_currentgarrison" text="Ciapierašni Harnizon" />
+    <string id="ui_garrisonui_transfer" text="Pieradača Vajaroŭ" />
+    <string id="ui_garrisonui_garrisonactivity" text="Aktyŭnaść Harnizonu" />
+    <string id="ui_garrisonui_weeklyinformation" text="Štotydniovaja Infa pra Harnizon" />
+    <string id="ui_garrisonui_weeklycosts1" text="Kolkaść rekrutavanych vajaroŭ hetym tydniem." />
+    <string id="ui_garrisonui_weeklycosts2" text="Rekrutavana vajaroŭ" />
+    <string id="ui_garrisonui_weeklycosts3" text="Košt rekrutavańnia Palepšaha Harnizonu hetym tydniem" />
+    <string id="ui_garrisonui_weeklycosts4" text="Rekrutavańnie" />
+    <string id="ui_garrisonui_weeklycosts5" text="Kolkaść palepšanych vajaroŭ hetym tydniem." />
+    <string id="ui_garrisonui_weeklycosts6" text="Palepšana vajaroŭ" />
+    <string id="ui_garrisonui_weeklycosts7" text="Košt rychtoŭli Palepšaha Harnizonu hetym tydniem" />
+    <string id="ui_garrisonui_weeklycosts8" text="Rychtoŭlu" />
+    <string id="ui_managementui_information" text="Infarmacyja Horada/Zamka" />
+    <string id="ui_managementui_transferbuttonhint" text="Pieradać vajaroŭ z hetaha harnizonu ŭ inšy." />
+    <string id="ui_managementui_dailywagehint" text="Štodzionnyja zarobki kožnaha vajara hetaha harnizonu." />
+    <string id="ui_managementui_copycastles1" text="Kapijavać dla ŭsich Zamkaŭ" />
+    <string id="ui_managementui_copycastles2" text="Kapijuje nałady hetaha harnizonu dla ŭsich vašych zamkaŭ." />
+    <string id="ui_managementui_copytown1" text="Kapijavać dla ŭsich Haradoŭ" />
+    <string id="ui_managementui_copytown2" text="Kapijuje nałady hetaha harnizonu dla ŭsich vašych haradoŭ." />
+    <string id="ui_managementui_copyspecific1" text="Asablivaje kapiravańnie" />
+    <string id="ui_managementui_copyspecific2" text="Kapijuje nałady hetaha harnizonu dla abranaha horada ci zamka, jakim vy vałodajecie." />
+    <string id="ui_managementui_progresstext" text="Prahres" />
+    <string id="ui_managementui_queuetext" text="Čarha" />
+    <string id="ui_managementui_noqueuetext" text="Niama prajekta ŭ čarzie" />
+    <string id="ui_managementui_dailydefaulttext" text="Štodnia pa Zmoŭčvańni" />
+    <string id="ui_managementui_townprojectstext" text="Haradskija Prajekty" />
+
+
+    <string id="ui_overviewui_fiefs" text="Vašyja Vołaści" />
+    <string id="ui_recruitmentui_recruitmentfollowstemplate" text="Rekrutavańnie kirujecca šabłonam" />
+    <string id="ui_recruitmentui_recruitmentfollowstemplate2" text="}U Palepšany Harnizon buduć rekrutavacca tolki tyja vajary, jakija abo ŭvachodziać u ciapierašni šabłon navučańnia, abo nieabchodny dla palapšeńnia vajaroŭ šabłonu." />
+    <string id="ui_recruitmentui_vanillarecruitment" text="Vanilnaje Rekrutavańnie" />  
+    <string id="ui_recruitmentui_vanillarecruitment2" text="Adklučaje rekrutavańnie harnizonu bazavaj hulni. {newline} {newline}Hetaja nałada vyznačaje opcyju aŭtarekrutavańnia hetaha harnizonu. Adklučeńnie, spyniaje štodzionnaje rekrutavańnie u harnizon, jakoje NIE kantralujecca Palepšanym Harnizonam i moža kanfliktavać z naładami vašaha šabłonu. {newline} {newline}Nastojliva rekamiendujecca adklučyć hetuju naładu dla lepšaha kantrolu za partyjaj harnizonu." />
+    <string id="ui_recruitmentui_vanillatraining" text="Vanilnaja Rychtoŭla" />  
+    <string id="ui_recruitmentui_vanillatraining2" text="Adklučaje rekrutavańnie harnizonu bazavaj hulni. {newline} {newline}Hetaja nałada ŭstaloŭvaje nulovy limit zarobku dla partyi harnizonu. Adklučeńnie, spyniaje kantrol za zarobkam bazavaj hulnioj, jaki NIE kantralujecca Palepšanym Harnizonam i moža kanfliktavać z naładami vašaha šabłonu. {newline} {newline}Nastojliva rekamiendujecca adklučyć hetuju naładu dla lepšaha kantrolu za partyjaj harnizonu." />  
+    <string id="ui_recruitmentui_recruitmentfollowstemplate" text="Rekrutavańnie kirujecca šabłonam" />
+    <string id="ui_recruitmentui_createrecruiter" text="Stvaryć novaha Rekrutara" />
+    <string id="ui_recruitmentui_recruiterinfo" text="Infarmacyja Rekrutara" />
+    <string id="ui_recruitmentui_recruitmentwithtemplate" text="Nałady rekrutavańnia z dapamohaj šabłonu" />    
+    <string id="ui_recruitmentui_recruitmentwithouttemplate_regiontitle" text="Nałady Rekrutavańnia Pałonnych i Kraju" />   
+    <string id="ui_recruitmentui_recruitmentwithouttemplate_recruitertitle" text="Nałady Rekrutavańnia Pałonnych i Kraju" />   
+    <string id="ui_recruitmentui_returnrecruiter" text="Viarnuć Rekrutara" /> 
+    <string id="ui_recruitmentui_recruiterdesc" text="Rekrutar vykarystoŭvajecca dla rekrutavańnia vajaroŭ za miežami kraju hetaj vołaści." /> 
+    <string id="ui_recruitmentui_regionrecruitment" text="Nałady Rekrutavańnia" /> 
+    <string id="ui_recruitmentui_regionrecruitmentdesc" text="Padčas rekrutavańnia vajary nabirajucca z najblizkich viosak i hetaj vołaści. {newline}Dla rekrutavańnia pa-za miežami hetaha kraju treba vykarystoŭvać partyju Rekrutara." /> 
+    <string id="ui_recruitmentui_regionrecruitmentenable1" text="Rekrutavać z Kraju" /> 
+    <string id="ui_recruitmentui_regionrecruitmentenable2" text="Dazvalaje hetamu harnizonu rekrutavać vajaroŭ sa źviazanych viosak i ŭłasna horada." /> 
+    <string id="ui_recruitmentui_recruitprisoners1" text="Rekrutavać Pałonnych" /> 
+    <string id="ui_recruitmentui_recruitprisoners2" text="Dazvalaje hetamu harnizonu rekrutavać pałonnych, jakija znachodziacca zadoŭha ŭ viaźnicy." /> 
+    <string id="ui_recruitmentui_partysize" text="Pamier Partyi" />    
+    <string id="ui_recruitmentui_recruitedtroops" text="Rekrutavanyja Vajary" /> 
+    <string id="ui_recruitmentui_culture" text="Kultura" /> 
+    <string id="ui_recruitmentui_regionsettings1" text="Nałady Rekrutavańnia Kraju" /> 
+    <string id="ui_recruitmentui_regionsettings2" text="Rekrutavańnie Kraju dazvalaje vašamu Palepšanamu Harnizonu rekrutavać vajaroŭ z viosak hetaha kraju.{newline} {newline}Hetyja paramietry dazvalajuć naładzić pavodziny rekrutavańnia." /> 
+    <string id="ui_recruitmentui_recruitthreshold1" text="Rekrutavać maksimalnuju kolkaść vajaroŭ" /> 
+    <string id="ui_recruitmentui_recruitthreshold2" text="Maksimalnaja kolkaść vajaroŭ, jakuju hety harnizon budzie rekrutavać z viaźnicy i kraju." /> 
+    <string id="ui_recruitmentui_prisonerthreshold1" text="Rekrutavać Pałonnych vyšej za paroh" /> 
+    <string id="ui_recruitmentui_prisonerthreshold2" text="Dazvalaje hetamu harnizonu rekrutavać pałonnych vyšej za paroh rekrutavańnia kraju." />    
+    <string id="ui_recruitmentui_recruitelite1" text="Rekrutavać tolki Elitnych Vajaroŭ z kraju" /> 
+    <string id="ui_recruitmentui_recruitelite2" text="Dazvalaje hetamu harnizonu rekrutavać tolki elitnyja adzinki z kraju." /> 
+    <string id="ui_recruitmentui_recruitersettings1" text="Nałady Rekrutara" />    
+    <string id="ui_recruitmentui_recruitersettings2" text="Partyja Rekrutara padarožničaje pa śvietu, kab rekrutavać vajaroŭ dla vašaha harnizonu. {newline} {newline}Padkazka: Rekrutar nabiraje tolki tych vajaroŭ, jakija vy sami zdolny rekrutavać. Naprykład: rekrutar nia moža rekrutavać z kłanaŭ, ź jakimi vy vajujecie!" /> 
+    <string id="ui_recruitmentui_autocreate1" text="Aŭtamatyčna nabirać šabłonnyja adzinki" /> 
+    <string id="ui_recruitmentui_autocreate2" text="Dazvolić hetamu harnizonu aŭtamatyčna stvarać rekrutaraŭ, kab nabirać usich vajaroŭ, zapatrabavanych dla ciapierašniaha šabłonu rychtoŭli. {newline} {newline}Hetaja funkcyja robić nievierahodna zručnaj rychtoŭlu vašych vojskaŭ. Prosta ŭklučycie hetuju naładu i pačakajcie, pakul Palepšany Harnizon źbiare ŭsie patrebnyja kultury i padrychtuje pažadanyja adzinki." />    
+    <string id="ui_recruitmentui_recruiterrecruitamount1" text="Kolkaść rekrutaŭ rekrutara" /> 
+    <string id="ui_recruitmentui_recruiterrecruitamount2" text="Vyznačaje kolkaść vajaroŭ, jakich rekrutar musić sabrać da viartańnia" />   
+    <string id="ui_recruitmentui_prisonertemplate1" text="Rekrutavańnie Pałonnych ihnaruje šabłon" /> 
+    <string id="ui_recruitmentui_prisonertemplate2" text="Palepšany Harnizon budzie rekrutavać vašych pałonnych, navat kali jany nie adpaviadajuć šabłonu." />  
+    <string id="ui_recruitmentui_recruiteronlyelite1" text="Rekrutar rekrutuje tolki Elitnych Vajaroŭ" /> 
+    <string id="ui_recruitmentui_recruiteronlyelite2" text="Kali ŭklučana, rekrutar hetaha harnizonu budzie źbirać tolki elitnyja adzinki." />    
+    <string id="ui_recruitmentui_recruiterculture1" text="Źmianić kulturu, ź jakoj Rekrutar budzie rekrutavać" /> 
+    <string id="ui_recruitmentui_recruiterculture2" text="Źmianić kulturu, ź jakoj rekrutar budzie rekrutavać vajaroŭ dla hetaha harnizonu." />    
+    <string id="ui_recruitmentui_recruiterhorses1" text="Dazvolić kuplu Koniej" /> 
+    <string id="ui_recruitmentui_recruiterhorses2" text="Dazvolić partyi rekrutara hetaha harnizonu kuplać koniej dla pavialičeńnia chutkaści ruchu. {newline} {newline}(Moža šmat kaštavać!)" />    
+    <string id="ui_recruitmentui_notemplate" text="Dla aŭtamatyčnaha zjaŭleńnia rekrutara patrabujecca šabłon rychtoŭli!" /> 
+    <string id="ui_recruitmentui_norecruiter" text="Niama aktyŭnaj partyi rekrutara" /> 
+    <string id="ui_recruitmentui_notenoughtroops" text="Brakuje vajaroŭ dla aŭtazjaŭleńnia partyi rekrutara!" />
+    <string id="ui_recruitmentui_trainingdisabled" text="Rychtoŭla musić być uklučana dla aŭtazjaŭleńnia partyi rekrutara!" />
+    <string id="ui_trainingui_addtroops" text="Dadać Vajaroŭ" />    
+    <string id="ui_trainingui_currenttemplate" text="Ciapierašni Šabłon" /> 
+    <string id="ui_trainingui_templatemanager" text="Kiraŭnik Šabłonaŭ" /> 
+    <string id="ui_trainingui_trainingsettings" text="Nałady Rychtoŭli" /> 
+    <string id="ui_trainingui_addtroopshint" text="Dadać novych vajaroŭ da šabłonu rychtoŭli.{newline}{newline}Šabłon rychtoŭli vykarystoŭvajecca dla vyznačeńnia šlacha palapšeńnia vajaroŭ padčas rychtoŭli dla Palepšana Harnizonu. Vajary, jakich vy abrali tut, nie ŭpłyvajuć na abmiežavańni ŭzroŭniu rychtoŭli.{newline}{newline} Vykarystoŭvajcie šabłon, kab sfarmavać vojska, jakoje žadajecie. Vy zdolny vyznačyć kolkaść vajaroŭ, jakija musiać być padrychtavany dla kožnaj vyznačanaj vami mety palapšeńnia. Naprykład, vy možacie vyznačyć kolkaść piachoty, łučnikaŭ ci vieršnikaŭ, jakija musić mieć vašy harnizon." /> 
+    <string id="ui_trainingui_templatemanagerhint" text="Šabłon rychtoŭli vykarystoŭvajecca dla vyznačeńnia šlacha palapšeńnia vajaroŭ padčas rychtoŭli dla Palepšana Harnizonu. Vajary, jakich vy abrali tut, nie ŭpłyvajuć na abmiežavańni ŭzroŭniu rychtoŭli.{newline} {newline}Vykarystoŭvajcie šabłon, kab sfarmavać vojska, jakoje žadajecie. Vy zdolny vyznačyć kolkaść vajaroŭ, jakija musiać być padrychtavany dla kožnaj vyznačanaj vami mety palapšeńnia. Naprykład, vy možacie vyznačyć kolkaść piachoty, łučnikaŭ ci vieršnikaŭ, jakija musić mieć vašy harnizon.{newline} {newline}Kiraŭnik šabłonaŭ vykarystoŭvajecca dla zachavańnia, užyvańnia, ahladu ci vydaleńnia šabłona rychtoŭli. Vašyja šabłony rychtoŭli sinchranizujucca miž harnizonami i zachavańniami hulni." /> 
+    <string id="ui_trainingui_dailywagetemplatehint" text="Štodzionny zarobak za kožnaha vajara ŭ vašym šabłonie." /> 
+    <string id="ui_trainingui_dailywagetext" text="Štodzionny zarobak:" /> 
+    <string id="ui_trainingui_garrisontraining1" text="Rychtoŭla Palepšanaha Harnizonu" /> 
+    <string id="ui_trainingui_garrisontraining2" text="Uklučyć hety Palepšany Harnizon dla rychtoŭli jaho vajaroŭ. {newline} {newline}Vy možacie abrać maksimalny ŭzrovień, jaki harnizon musić rychtavać, i ŭstalavać šabłon rychtoŭli, kab vyznačyć šlachi palapšeńnia." />    
+    <string id="ui_trainingui_autogather1" text="Aŭtastvareńnie Rekrutara" /> 
+    <string id="ui_trainingui_autogather2" text="Dazvolić hetamu harnizonu aŭtamatyčna stvarać rekrutaraŭ, kab źbirać usich vajaroŭ, nieabchodnych vašamu ciapierašniamu šabłonu rychtoŭli. {newline} {newline}Hetaja funkcyja robić nievierahodna zručnaj rychtoŭlu vašych vojskaŭ. Prosta ŭklučycie hetuju naładu i pačakajcie, pakul Palepšany Harnizon źbiare ŭsie patrebnyja kultury i padrychtuje pažadanyja adzinki." /> 
+    <string id="ui_trainingui_maxupgradetier1" text="Maks Rovień Palapšeńnia Vajaroŭ {newline} (Nie z Šabłonu)" /> 
+    <string id="ui_trainingui_maxupgradetier2" text="Maksimalny ŭzrovień vajaroŭ, što Nia vyznačany ŭ ciapierašnim šabłonie rychtoŭli, da jakoha harnizon budzie rychtavać vajaroŭ." /> 
+    <string id="ui_trainingui_removenontemplate1" text="Vydalać nie šabłonnych vajaroŭ z harnizonu" /> 
+    <string id="ui_trainingui_removenontemplate2" text="Dazvalaje hetamu harnizonu aŭtamatyčna vydalać vajaroŭ z harnizonu, jakija nia zjaŭlajucca častkaj vyznačanaha zaraz šabłonu. Vajary, jakija patrabujucca dla palapšeńnia, nia buduć vydaleny." /> 
+    <string id="ui_improvedgarrisonsui_title" text="Palepšanyja Harnizony" /> 
+    <string id="ui_improvedgarrisonsui_overview" text="Ahlad" />    
+    <string id="ui_improvedgarrisonsui_recruitment" text="Rekrutavańnie" /> 
+    <string id="ui_improvedgarrisonsui_guards" text="Varta" /> 
+    <string id="ui_improvedgarrisonsui_training" text="Rychtoŭla" /> 
+    <string id="ui_improvedgarrisonsui_management" text="Kiravańnie" /> 
+    <string id="ui_improvedgarrisonsui_maptogglehint" text="Vykarystańnie mieniu Palepšanaha Harnizonu na mapie śvietu." /> 
+    <string id="ui_improvedgarrisonsui_maptoggle" text="Uklučyć na Mapie" />    
+    <string id="ui_improvedgarrisonwidget_removetroop" text="Pravy nacisk, kab vydalić vajara z šabłonu." />
+    <string id="ui_improvedgarrisonwidget_currentamount" text="Kolkaść vajaroŭ hetaha typu ŭ šabłonie zaraz." />
+    <string id="ui_improvedgarrisonwidget_currentgarrisonamount" text="Kolkaść vajaroŭ hetaha typu ŭ harnizonie zaraz." />
+    <string id="ui_improvedgarrisonsui_tutorialhint" text="Pačać Navučańnie Palepšanaha Harnizonu." />
+    <string id="ui_improvedgarrisonsui_configurationhint" text="Adkryć nałady kanfihuravańnia Palepšanaha Harnizonu." />  
+    <string id="ui_improvedgarrisonsui_resethint" text="Ustalavać nałady modu da pa zmoŭčańni dla sielišča, što abarana zaraz." /> 
+    <string id="ui_improvedgarrisonsui_tutorialtext" text="Navučańnie" />  
+    <string id="ui_improvedgarrisonsui_configurationtext" text="Kanfihuravańnie" />  
+    <string id="ui_improvedgarrisonsui_defaulttext" text="Nałady pa Zmoŭčańni" />
+    <string id="ui_improvedgarrisonsui_finance" text="Finansy" />  
+    <string id="ui_improvedgarrisonsui_garrison" text="Harnizon" />
+    <string id="ui_improvedgarrisonsui_resetdefault_title" text="Skinuć sielišča da naładaŭ pa zmoŭčańni" /> 
+    <string id="ui_improvedgarrisonsui_resetdefault_description" text="Vy žadajecie ŭstavlavać nałady pa zmoŭčańni dla abranaha zaraz sielišča?" />
+
+    <string id="ui_buildingui_currentproject" text=">> Ciapierašni Prajekt Horada <<" />
+    <string id="ui_buildingui_effects" text="Efiekty:" />
+    <string id="ui_buildingui_effectshint" text="Natatka: Pracuje tolki, kali niama ciapierašniaha prajekta." />
+    <string id="ui_buildingui_setascurrent" text="Ustalavać jak ciapierašni prajekt" />
+    <string id="ui_buildingui_currenthint1" text="Ciapierašni haradski prajekt dla" />
+    <string id="ui_buildingui_currenthint2" text="byŭ zamienieny na" />
+    <string id="ui_buildingui_boostproject" text="Farsavać ciapierašni prajekt" />
+    <string id="ui_buildingui_deselectproject" text="Skasavać ciapierašni prajekt" />
+    <string id="ui_buildingui_removequeue1" text="Haradski prajekt" />
+    <string id="ui_buildingui_removequeue2" text="bolej nia zjaŭlajecca ciapierašnim prajektam" />
+    <string id="ui_buildingui_removequeue3" text="Prybrać z čarhi" />
+    <string id="ui_buildingui_removequeue4" text="byŭ vydaleny z čarhi prajektaŭ" />
+    <string id="ui_buildingui_addqueue1" text="Dadać da čarhi prajektaŭ" />
+    <string id="ui_buildingui_addqueue2" text="Haradski prajekt" />
+    <string id="ui_buildingui_addqueue3" text="byŭ dadany da čarhi prajektaŭ" />
+    <string id="ui_buildingui_action" text="Dziejańnie Prajekta" />
+    <string id="ui_buildingui_addreserve" text="Dadać rezierv dla farsavańnia prajekta" />
+    <string id="ui_buildingui_addreserve2" text="Vam brakuje zołata." />
+
+
+    <!-- SECTION Activity log-->
+    <string id="ui_improvedgarrisonsui_activity" text="Dziejańnie Sielišča" />
+    <string id="ui_improvedgarrisonsui_activity_recruitment1" text="vajaroŭ było rekrutavana z" />
+    <string id="ui_improvedgarrisonsui_activity_recruitment2" text="byŭ rekrutavany z viaźnicy." />
+    <string id="ui_improvedgarrisonsui_activity_recruitment3" text="byli rekrutavany z viaźnicy." />
+    <string id="ui_improvedgarrisonsui_activity_recruitment4" text="vajaroŭ było rekrutavana." />
+    <string id="ui_improvedgarrisonsui_activity_partymerge1" text="viarnuŭsia z" />
+    <string id="ui_improvedgarrisonsui_activity_partymerge2" text="vajaroŭ da harnizonu." />
+    <string id="ui_improvedgarrisonsui_activity_recruiter1" text="Stvaryć Rekrutara" />
+    <string id="ui_improvedgarrisonsui_activity_recruiter2" text="Viarnuć Rekrutara" />
+    <string id="ui_improvedgarrisonsui_activity_guard1" text="Stvaryć Vartu" />
+    <string id="ui_improvedgarrisonsui_activity_guard2" text="Viarnuć Vartu" />
+    <string id="ui_improvedgarrisonsui_activity_noguards" text="Tut niama aktyŭnych partyjaŭ varty" />
+    <string id="ui_improvedgarrisonsui_activity_village1" text="Dziejańnie Vioski" />
+    <string id="ui_improvedgarrisonsui_activity_partycreation1" text="Novaja partyja" />
+    <string id="ui_improvedgarrisonsui_activity_partycreation2" text="była stvorana z" />
+    <string id="ui_improvedgarrisonsui_activity_partycreation3" text="vajaroŭ." />
+    <string id="ui_improvedgarrisonsui_activity_destroyed1" text="była źniščana." />
+    <string id="ui_improvedgarrisonsui_activity_townmanagement" text="Kiraŭnik Horada" />
+    <string id="ui_improvedgarrisonsui_activity_projects" text="Prajekty" />
+    <string id="ui_improvedgarrisonsui_activity_upgrade1" text="byŭ padrychtavany da" />
+    <string id="ui_improvedgarrisonsui_activity_upgrade2" text="byli padrychtavany da" />
+    <string id="ui_improvedgarrisonsui_activity_defend1" text="Baranić Sielišča" />
+    <string id="ui_improvedgarrisonsui_activity_defend2" text="Baranić" />
+
+
+
+    <!-- SECTION Configuration Settings --> 
+    <string id="settings_improvedgarrisons" text="Kali łaska, abiarycie harnizon." />  
+    <string id="settings_managementsettings_select" text="Abrać Harnizon" />  
+    <string id="settings_managementsettings_selectdesc" text="Abiarycie harnizon, u jaki žadajecie pieradać adzinki" />   
+    <string id="settings_managementsettings_copyselction" text="Kapijavać u Harnizon" />  
+    <string id="settings_managementsettings_copydesc" text="Abiarycie harnizony, u jakija vy žadajecie kapijavać nałady z ciapierašniaha harnizonu." />  
+    <string id="settings_managementsettings_copytownselection" text="Kapijavać nałady dla ŭsich maich Haradoŭ" />  
+    <string id="settings_managementsettings_copytownselectiondesc" text="Kali vy praciahnicie, usie vašyja harady buduć mieć adnolkavyja z hetaj nałady." />  
+    <string id="settings_managementsettings_copycastleselection" text="Kapijavać nałady dla ŭsich maich Zamkaŭ" />  
+    <string id="settings_managementsettings_copycastleselectiondesc" text="Kali vy praciahnicie, usie vašyja zamki buduć mieć adnolkavyja z hetaj nałady." />  
+    <string id="settings_managementsettings_selectionescort1" text="Abrańnie Supravodu" />
+    <string id="settings_managementsettings_selectionescort2" text="Abiarycie partyju, jakuju treba padtrymać" />  
+    <string id="settings_managementsettings_hideoutclear1" text="Dazvolić ačyščać schoviščy varcie" />  
+    <string id="settings_recruitmentsettings_recruiteramount1" text="Kolkaść rekrutaŭ rekrutara" />  
+    <string id="settings_recruitmentsettings_recruiteramount2" text="Vyznačaje kolkaść vajaroŭ, jakich rekrutar musić sabrać da viartańnia" />  
+    <string id="settings_templatemanager_savetemplate" text="Zachavać ciapierašni šabłon" />  
+    <string id="settings_templatemanager_title" text="Šabłony Rychtoŭli" />  
+    <string id="settings_templatemanager_desc" text="Abiarycie šabłon rychtoŭli." />  
+    <string id="settings_templatemanager_addnew1" text="Dadać novy Šabłon" />  
+    <string id="settings_templatemanager_addnew2" text="Heta dadaść ciapierašniuju naładu rychtoŭli da vašaha Kiraŭnika Šabłonami. Šabłon budzie dastupny ŭva ŭsich vašych zachavańniach. {newline} {newline}Kali łaska, abiarycie nazvu dla vašaha šabłonu." />  
+    <string id="settings_recruitmentsettings_apply" text="Užyć šabłon" />  
+    <string id="settings_recruitmentsettings_inspect" text="Ahladzieć šabłon" />  
+    <string id="settings_recruitmentsettings_rename" text="Pieranazvać šabłon" />  
+    <string id="settings_recruitmentsettings_remove" text="Vydalić šabłon" /> 
+    <string id="settings_recruitmentsettings_manage" text="Kiravać šabłonam" />  
+    <string id="settings_recruitmentsettings_renamedesc" text="Uviadzicie novaje imia dla vašaha šabłonu." /> 
+    <string id="settings_recruitmentsettings_yourtemplate" text="Vašy šabłon" />  
+    <string id="settings_recruitmentsettings_inspect2" text="Ahlad" /> 
+    <string id="settings_trainingsettings_currenttemplate1" text="Ciapierašni Šabłon Rychtoŭli" />  
+    <string id="settings_trainingsettings_currenttemplate2" text="Vašy śpis vyznačanych metaŭ rychtoŭli" /> 
+    <string id="settings_trainingsettings_specifytroops1" text="Vyznačyć vajaroŭ dla rychtoŭli" />  
+    <string id="settings_trainingsettings_specifytroops2" text="Śpis usich vajaroŭ" />
+    <string id="settings_trainingsettings_selecttargets" text="Abrać Vajaroŭ dla Rychtoŭli" />  
+    <string id="settings_trainingsettings_selecttargetsdesc" text="Zvyčajna, kali vajara lha palepšyć da nastupnaha roŭniu, Palepšany Harnizon vypadkova abiraje šlach palapšeńnia. Ale tut vy možacie abrać pažadanych vajaroŭ i vyznačyć ich šlach palapšeńnia. Na hetaje palapšeńnie NIE ŭpłyvaje abmiežavańnie uzroŭniu. Kali šlach palapšeńnia vajaroŭ nia vyznačany hulcom, vajary ŭsio adno buduć palapšacca, ale vypadkova i da abmiežavańnia pa ŭzroŭniu. {newline}> Pieršy śpis - heta ahlad ciapierašnich šlachoŭ palapšeńnia Palepšanaha Harnizonu.{newline}> Druhi śpis składajecca z usich mahčymych šlachoŭ palapšeńnia, jakija vy možacie abrać." /> 
+    <string id="settings_trainingsettings_archer" text="Łučnik" />  
+    <string id="settings_trainingsettings_infantry" text="Piachota" />
+    <string id="settings_trainingsettings_cavalary" text="Vieršnica" />  
+    <string id="settings_trainingsettings_filtertype" text="Filtr pa Typie" /> 
+    <string id="settings_trainingsettings_filtertypedesc" text="Jaki typ vajaroŭ vy žadajecie dadać u šabłon?" />  
+    <string id="settings_trainingsettings_filterculture1" text="Filtr pa Kulturie" />
+    <string id="settings_trainingsettings_filterculture2" text="Kali łaska, abiarycie kulturu patrebnych vam vajaroŭ." />  
+    <string id="settings_trainingsettings_currenttroops" text="Vajary Zaraz dla rychtoŭli" /> 
+    <string id="settings_trainingsettings_troopstoselect" text="Vajary dla abrańnia" />  
+    <string id="settings_trainingsettings_removetroop1" text="Vydalić Šabłon Vajaroŭ" />
+    <string id="settings_trainingsettings_removetroop2" text="Vy ŭpeŭnieny, što žadajecie vydalić hetaha vajara z ciapierašniaha šabłonu?" />  
+    <string id="settings_recruitmentsettings_recruiterculture1" text="Kultura rekrutavańnia rekrutara" />
+    <string id="settings_recruitmentsettings_recruiterculture2" text="Jakuju kulturu musić rekrutavać Rekrutar u partyju?" />
+    <string id="settings_mobilegarrisonsettings_autoguardcreation1" text="Uklučana aŭtamatyčnaje stvareńnie varty dla" />
+    <string id="settings_mobilegarrisonsettings_autoguardcreation2" text="Adklučana aŭtamatyčnaje stvareńnie varty dla" />
+    <string id="settings_mobilegarrisonsettings_autodefend1" text="Uklučana aŭtamatyčnaje stvareńnie varty dla abarony viosak dla" />
+    <string id="settings_mobilegarrisonsettings_autodefend2" text="Adklučana aŭtamatyčnaje stvareńnie varty dla abarony viosak dla" />
+    <string id="settings_mobilegarrisonsettings_" text="" />
+    <string id="settings_mobilegarrisonsettings_" text="" />
+    <string id="settings_mobilegarrisonsettings_" text="" />
+    <string id="settings_mobilegarrisonsettings_" text="" />
+
+    <!-- STATUS Section -->
+    <string id="menu_recruiter_status_goingto" text="Rekrutar idzie da" />
+    <string id="menu_recruiter_status_returningto" text="Rekrutar viartajecca ŭ" />
+    <string id="menu_recruiter_status_gatheringintel" text="Rekrutar źbiraje infarmacyju a novych rekrutach" />
+    <string id="menu_recruiter_status_tradingwith" text="Rekrutar handluje z" />
+    <string id="menu_guard_status_isattacking" text="Varta atakuje" />
+    <string id="menu_guard_status_isattackinghideout" text="Varta atakuje schovišča" />
+    <string id="menu_guard_status_isdefending" text="Varta baronicca" />
+    <string id="menu_guard_status_issupporting" text="Varta supravaždaje" />
+    <string id="menu_guard_status_isfortifying" text="Varta ŭmacoŭvajecca" />
+    <string id="menu_guard_status_iswaiting" text="Varta čakaje" />
+    <string id="menu_guard_status_ispatrolingaround" text="Varta patruluje kala" />
+    <string id="menu_guard_status_ispatroling" text="Varta patruluje" />
+    <string id="menu_guard_status_turningprisoners" text="Varta pieradaje pałonnych" />
+    <string id="menu_guard_status_isreplenishing" text="Varta papaŭniajecca" />
+    <string id="menu_guard_status_returningto" text="Varta viartajecca ŭ" />
+    <string id="menu_guard_status_returning" text="Varta viartajecca" />
+    <string id="menu_guard_status_returninghome" text="Varta viartajecca ŭ svoj chatni kraj" />
+    <string id="menu_guard_status_istradingwith" text="Varta handluje z" />
+    <string id="menu_guard_status_istrading" text="Varta handluje" />
+    <string id="menu_guard_status_noguards" text="Niama aktyŭnaj partyi varty" />
+
+    <!-- MODULESTRINGS Section -->
+    <strind id="menu_yes" text="Tak" />
+    <strind id="menu_no" text="Nie" />
+    <strind id="menu_leave" text="Pakinuć" />
+    <strind id="menu_ok" text="Dobra" />
+    <strind id="menu_back" text="Nazad" />
+    <strind id="menu_your" text="Vaš" />
+    <strind id="menu_remove" text="vydalić" />
+    <strind id="menu_continue" text="Praciahnuć" />
+    <strind id="menu_cancel" text="Skasavać" />
+    <strind id="menu_and" text="i" />
+    <strind id="menu_none" text="ničoha" />
+    <strind id="menu_of" text="z" />
+    <strind id="menu_for" text="dla" />
+    <strind id="menu_gold" text="zołata" />
+    <strind id="menu_bought" text="kuplena" />
+    <strind id="menu_close" text="Zakryć" />
+    <strind id="menu_save" text="Zachavać" />
+    <strind id="menu_description" text="Apisańnie:" />
+    <strind id="menu_requirements" text="Patrabavańni:" />
+    <strind id="menu_reset" text="Skinuć da pa zmoŭčańni" />
+    <strind id="menu_train_pathamount_restr" text="niama abmiež." />
+    <strind id="menu_selectall" text="Abrać ŭsio" />
+    <strind id="menu_small" text="Maleńki" />
+    <strind id="menu_medium" text="Siaredni" />
+    <strind id="menu_large" text="Vialiki" />
+    
+    <!-- SECTION hints -->
+    <string id="hint_train_path_list1" text="Vašy śpis vyznačanych metaŭ rychtoŭli" />    
+    <string id="hint_train_path_list2" text="Śpis usich vajaroŭ" />
+    <string id="hint_select_all_clans" text="Abrać usie kłany sa śpisa" />
+    
+    <!-- SECTION chat information -->
+    <string id="info_guards_undersiege" text="Hety harnizon zaraz znachodzicca pad abłohaj. Varta nia moža vyjści!" />
+    <string id="info_transfer_undersiege" text="Hety harnizon zaraz znachodzicca pad abłohaj. Partyja pieradańnia nia moža vyjści!" />
+    <string id="info_global_conf" text="Zaraz vy vyznačajecie nałady" />
+    <string id="info_guards_noguards" text="Hety harnizon zaraz nia maje partyi varty harnizonu." />
+    <string id="info_guards_autoguardsstopped" text="Aŭtamatyčnaje stvareńnie varty spyniena." />
+    <string id="info_transfer_dupe" text="Harnizon užo maje partyju pieradačy. Kali łaska, pačakajcie pakul jana dasiahnie svajo pryznačeńnie." />
+    <string id="info_guards_dupe" text="Hety harnizon užo maje partyju varty harnizonu. Kali łaska, spačatku zahadajcie viarnucca." />
+    <string id="info_transfer_new" text="Novaja partyja pieradačy dla" />         
+    <string id="info_transfer_new2" text="była stvorana. Jana budzie nakirovana ŭ " />        
+    <string id="info_guards_new" text="Novaja partyja varty harnizonu dla" />        
+    <string id="info_guards_new2" text="była stvorana." />                    
+    <string id="info_path_set" text="Šlachi palapšeńnia dla " />       
+    <string id="info_path_set2" text="byli ŭstalavany da" />        
+    <string id="info_tier_max" text="zaraz rychtujecca da maksimalnaha roŭniu" />        
+    <string id="info_escort_new" text="Varta harnizonu" />
+    <string id="info_escort_new2" text="zaraz supravadžaje" />
+    <string id="info_patrol_new" text="Varta harnizonu" />
+    <string id="info_patrol_new2" text="zaraz patruluje kraj." />
+    <string id="info_return_new" text="Varta harnizonu" />
+    <string id="info_return_new2" text="viartajecca ŭ harnizon." />  
+    <string id="info_recruit_max" text="zaraz rekrutuje da maksimuma z" />
+    <string id="info_recruit_max2" text="vajaroŭ." />
+    <string id="info_train_enable" text="Uklučana rychtoŭla dla" />   
+    <string id="info_train_disable" text="Vyklučana rychtoŭla dla" />
+    <string id="info_vanillatrain_enable" text="Uklučana vanilnaja rychtoŭla dla" />   
+    <string id="info_vanillatrain_disable" text="Vyklučana vanilnaja rychtoŭla dla" />
+    <string id="info_food_new" text="Harnizon" />
+    <string id="info_food_new2" text="zaraz źbiraje" />  
+    <string id="info_food_new3" text="ježy štodzień." />
+    <string id="info_food_stop" text="Harnizon" />
+    <string id="info_guards_new" text="Kali łaska, abiarycie adzinki dla vašaj novaj Varty. {newline}Čym bolej vajaroŭ vy abiarecie, tym pavolniej budzie varta!{newline}Kali vy žadajecie kab vašaja varta źniščała rabaŭnikoŭ i bandytaŭ jaje pamier musić być kala 30. Pa zmoŭčańni varta budzie patrulavać vašy kraj. Vy možacie dać joj roznyja zahady ŭ Mieniu Palepšaha Harnizonu." />
+    <string id="info_food_stop2" text="spyniŭ źbirać ježu." />   
+    <string id="info_prison_enable" text="Uklučana rekrutavańnie pałonnych dla" />
+    <string id="info_prison_disable" text="Vyklučana rekrutavańnie pałonnych dla" />
+    <string id="info_recruit_enable" text="Uklučana rekrutavańnie kraju dla" />    
+    <string id="info_recruit_disable" text="Vyklučana rekrutavańnie kraju dla" />
+    <string id="info_vanillarecruitment_enable" text="Uklučana vanilnaje rekrutavańnie dla" />    
+    <string id="info_vanillarecruitment_disable" text="Vyklučana vanilnaje rekrutavańnie dla" /> 
+    <string id="info_recruit_onlyelites_enable" text="Uklučana tolki elitnaje rekrutavańnie dla" />
+    <string id="info_recruit_onlyelites_disable" text="Vyklučana tolki elitnaje rekrutavańnie dla" />
+    <string id="info_prison_above_enable" text="Uklučana rekrutavańnie pałonnych vyšejšych za paroh dla" />
+    <string id="info_prison_above_disable" text="Vyklučana rekrutavańnie pałonnych vyšejšych za paroh dla" />  
+    <string id="info_manage_copy" text="Skapijavanyja nałady ŭ" />
+    <string id="info_guards_return2" text="viarnułasia ŭ svoj harnizon." />
+    <string id="info_daily_info1" text="&quot;{?PLAYER.GENDER}Maja šlachcianka{?}Moj šlachcič{\?} vašy Palepšany Harnizon rekrutavaŭ" />
+    <string id="info_daily_info2" text="vajaroŭ, palepšyŭ" />
+    <string id="info_daily_info3" text="adzinak da nastupnaha roŭniu i pieravabiŭ" />
+    <string id="info_daily_info4" text="pałonnych siońnia.&quot;" />
+    <string id="info_train_path_remove" text="byŭ vydaleny z śpisa vyznačannaha palapšeńnia" />    
+    <string id="info_emptygarrison" text="Vašy harnizon pusty." />
+    <string id="info_train_path_removeall" text="Vydaleny ŭsie mety palapšeńnia ź śpisa" />
+    <string id="info_train_pathamount_new" text="Palepšany Harnizon" />
+    <string id="info_config_reset_done" text="Kanfihuracyja Palepšanaha Harnizonu była skinuta da značeńniaŭ pa zmoŭčańni." /> 
+    <string id="info_config_save_done" text="Kanfihuracyja Palepšanaha Harnizonu paśpiachova zachavana." /> 
+    <string id="info_transfer_done" text="dasiahnuŭ tut kropki pieradačy." /> 
+    <string id="info_guards_sell" text="pradaŭ svaich pałonnych." /> 
+    <string id="info_guards_sell_enable" text="Uklučany handal pałonnymi dla varty" /> 
+    <string id="info_guards_sell_disable" text="Vyklučany handal pałonnymi dla varty" />     
+    <string id="info_guards_prisonerrecruit_enable" text="Uklučana rekrutavańnie pałonnych dla varty" /> 
+    <string id="info_guards_prisonerrecruit_disable" text="Vyklučana rekrutavańnie pałonnych dla varty" />     
+    <string id="info_guards_replenish_enable" text="Uklučana papaŭnieńnie i lačeńnie dla varty" />
+    <string id="info_guards_replenish_disable" text="Vyklučana papaŭnieńnie i lačeńnie dla varty" />     
+    <string id="info_guards_upgrade_enable" text="Uklučana palapšeńnie vajaroŭ dla varty" />
+    <string id="info_guards_upgrade_disable" text="Vyklučana palapšeńnie vajaroŭ dla varty" />     
+    <string id="info_template_nosetup" text="Vašaja ciapierašniaja nałada nia maje vajaroŭ, što padrychtoŭvajucca." />  
+    <string id="info_template_apply" text="byŭ užyty." />  
+    <string id="info_template_remove" text="byŭ vydaleny." />  
+    <string id="info_template_rename" text="byŭ pieranazvany na" />  
+    <string id="info_template_add" text="byŭ dadany." />  
+    <string id="info_guards_needshelpdefending1" text="maje patrebu ŭ dapamozie dla abarony" />  
+    <string id="info_guards_needshelpdefending2" text="suprać" />  
+    <string id="info_guards_needshelpdefending3" text="pamieram" />  
+    <string id="info_guards_defending1" text="baronicca" />  
+    <string id="info_guards_defending2" text="suprać" />  
+    <string id="info_guards_defending3" text="pamieram" />  
+    <string id="info_guards_prisoners_put" text="źmiaściŭ" />  
+    <string id="info_guards_prisoners_intodungeon" text="pałonnych u viaźnicu." />  
+    <string id="info_guards_hideoutcleared" text="začyściŭ schovišča." /> 
+    <string id="info_guards_sellitems1" text="pradaŭ" /> 
+    <string id="info_guards_sellitems2" text="pradmiety" /> 
+    <string id="info_guards_buyhorses" text="koniej u" /> 
+    <string id="info_recruiter_nomorerecruits" text="nia zmoh znajści novych rekrutaŭ i zaraz viartajecca." /> 
+    <string id="info_recruiter_returned1" text="viarnuŭsia z" /> 
+    <string id="info_recruiter_returned2" text="vajarami ŭ" /> 
+    <string id="info_recruiter_dupe" text="Hety harnizon užo maje partyju rekrutara." /> 
+    <string id="info_recruiter_emptygarrison" text="Vašy harnizon pusty. Vam patrebien prynamsi adzin vajar, kab stvaryć rekrutara." /> 
+    <string id="info_recruiter_siege" text="Hety harnizon zaraz znachodzicca pad abłohaj. Rekrutar nia moža vyjści!" /> 
+    <string id="info_recruiter_autocreate_enabled" text="Palepšany Harnizon zaraz aŭtamatyčna źbiraje nieabchodnych vajaroŭ dla ciapierašniaha šabłonu. Pierakanajciesia, što majecie prynamsi 1 adzinku dla rekrutara, kab jon zjaviŭsia ŭ harnizonie" /> 
+    <string id="info_recruiter_autocreate_disabled" text="Vyklučana aŭtamatyčnaje źbirańnie vajaroŭ dla" /> 
+    <string id="info_recruiter_onlyelite_enabled" text="Uklučana rekrutavańnie tolki elity dla rekrutaraŭ" /> 
+    <string id="info_recruiter_onlyelite_disabled" text="Vyklučana rekrutavańnie tolki elity dla rekrutaraŭ" /> 
+    <string id="info_recruiter_buyhorses_enabled" text="Uklučana kupla koniej dla rekrutaraŭ" /> 
+    <string id="info_recruiter_buyhorses_disabled" text="Vyklučana kupla koniej dla rekrutaraŭ" /> 
+    <string id="info_recruiter_of" text="Rekrutar" />
+    <string id="info_recruiter_threshold1" text="zaraz rekrutuje da maksimuma" />
+    <string id="info_recruiter_threshold2" text="vajaroŭ harnizonu." />
+    <string id="info_recruiter_amount1" text="zaraz rekrutuje" />
+    <string id="info_recruiter_amount2" text="vajaroŭ da viartańnia." />
+    <string id="info_recruiter_return" text="zaraz viartajecca ŭ harnizon." />  
+    <string id="info_recruiter_changeculture1" text="Źmieniena kultura rekrutavańnia na" /> 
+    <string id="info_recruiter_changeculture2" text="dla rekrutara" />   
+    <string id="info_recruiter_norecruiter" text="nia maje aktyŭnuju partyju rekrutara." />    
+    <string id="info_recruit_followtemplate_enable" text="Rekrutavańnie Palepšanaha Harnizonu zaraz rekrutuje vajaroŭ, jakija zjaŭlajucca častkaju šabłonu albo patrebny dla palapšeńnia vajara šabłonu." /> 
+    <string id="info_recruit_followtemplate_disable" text="Rekrutavańnie Palepšanaha Harnizonu bolej nie rekrutuje vyklučna vajaroŭ datyčnych da šabłonu." />  
+    <string id="info_recruit_removenontemplate_enable" text="Uklučana aŭtamatyčnaje vydaleńnie vajaroŭ nie z šabłonu dla" /> 
+    <string id="info_recruit_removenontemplate_disable" text="Vyklučana aŭtamatyčnaje vydaleńnie vajaroŭ nie z šabłonu dla" /> 
+    <string id="info_recruiter_newrecruiter_desc" text="Abiarycie adzinki dla vašaj partyi Rekrutara. Vy musicie mieć prynamsi adnu adzinku, kab stvaryć partyju!" /> 
+    <string id="info_recruit_prisonertemplate_enable" text="Rekrutavańnie pałonnych zaraz ihnaruje šabłon rychtoŭli" /> 
+    <string id="info_recruit_prisonertemplate_disable" text="Rekrutavańnie pałonnych zaraz nie ihnaruje šabłon rychtoŭli" /> 
+    
+    <string id="info_template_notargets" text="Zaraz mety palapšeńnia Palepšanaha Harnizonu nia vyznačany." />   
+    <string id="info_template_managetargets" text="U hetym vaknie vy možacie naładzić kolkaść adzinak, jakich budzie rychtavać Palepšany Harnizon. {newline} {newline}Na levym boku znachodziacca vašyja ciapierašnija vajary, jakich rychtuje Palepšany Harnizon. Na pravym boku vy znojdziecie kopiju tych samych adzinak, kab dadać na levy bok." /> 
+    <string id="info_template_newtargets1" text="Šabłon rychtoŭli dla" /> 
+    <string id="info_template_newtargets2" text="byŭ ustalavany." /> 
+    <string id="info_template_removedtargets1" text="Palepšany Harnizon" /> 
+    <string id="info_template_removedtargets2" text="bolej nia maje šabłonu rychtoŭli." /> 
+    <string id="info_template_newtargets_desc" text="Pierasuńcie vajaroŭ, jakich musić rychtavać Palepšany Harnizon, u levy bok vokna. {newline}Abaviazkova vyznačcie kolkaść vajaroŭ, jakich vy žadajecie rychtavać. {newline} {newline}Natatka: Palepšany Harnizon zaŭždy budzie namahacca ŭtrymlivać kolkaść adzinak u harnizonie i aŭtamatyčna rychtavać novyja adzinki, kali ich staje mieniej." /> 
+    <string id="info_guards_hideoutclear1" text="Uklučana ačyščeńnie schoviščaŭ dla varty" />
+    <string id="info_guards_hideoutclear2" text="Vyklučana ačyščeńnie schoviščaŭ dla varty" />
+    <string id="info_guards_horsebuy1" text="Uklučany handal końmi dla varty" />
+    <string id="info_guards_horsebuy2" text="Vyklučana handal końmi dla varty" />
+    <string id="info_recruiter_norecruiter" text="Harnizon zaraz nia maje aktyŭnaha rekrutara" />
+    <string id="info_recruiter_disabledautocreation" text="Vyklučana aŭtamatyčnaje stvareńnie Rekrutara dla" />    
+    <string id="info_guards_returnafterthreshold" text="pamier zvaliŭsia nižej za aznačany vami paroh. Zaraz Varta viartajecca." />
+    <string id="info_save_delete" text="Dadzienyja Palepšanaha Harnizonu byli vydaleny dla zachavańnia:" />
+    <string id="info_recruitment_recruitervalue" text="Značeńnie pavinna być miž 1 i 150" />
+    
+    <!-- SECTION parties -->
+    <string id="party_guards_name" text="Varta Harnizonu" /> 
+    <string id="party_recruits_name" text="Rekruty Harnizonu" />    
+    <string id="party_transfer_name" text="Partyja Pieradačy Harnizonu" /> 
+    <string id="party_destroyed_new" text="Vašaja" />
+    <string id="party_destroyed_new2" text="była źniščana." />
+    <string id="party_healed" text="vylečiła svaich vajaroŭ." /> 
+    <string id="party_replenished" text="papoŭniła svaich vajaroŭ." /> 
+    <string id="party_recruiter_name" text="Rekrutar Harnizonu" /> 
+    <string id="party_recruiter" text="Rekrutar Harnizonu" />
+    <string id="party_guards" text="Varta Harnizonu" />
+
+    <!-- SECTION dialog -->    
+    <string id="dialog_recruit_start" text="Vitaju, {?PLAYER.GENDER}maja šlachcianka{?}moj šlachcič{\?}. My novyja rekruty harnizonu. Nakiroŭvajemsia ŭ vašaje sielišča!" />
+    <string id="dialog_recruit_neutral_start" text="Pryvitańnie, my novyja rekruty. Dapamožam zachavać naš dom!" />
+    <string id="dialog_end_nice" text="Tady, praciahvajcie. Darujcie." />
+    <string id="dialog_transfer_start" text="Vitaju, {?PLAYER.GENDER}maja šlachcianka{?}moj šlachcič{\?}. My hrupa pieradačy harnizonu!" />
+    <string id="dialog_guard_start" text="Vitaju, {?PLAYER.GENDER}maja šlachcianka{?}moj šlachcič{\?}. Čym mahu dapamahčy?" />
+    <string id="dialog_guard_return_answer" text="Dobra, my vierniomsia ŭ vašy harnizon, {?PLAYER.GENDER}maja šlachcianka{?}moj šlachcič{\?}!" />
+    <string id="dialog_guard_return" text="Viartajciesia ŭ vašy harnizon." />
+    <string id="dialog_guard_escort_answer" text="Dobra, my budziem baranić vas svaimi žyćciami, {?PLAYER.GENDER}maja šlachcianka{?}moj šlachcič{\?}!" />
+    <string id="dialog_guard_escort" text="Zmahajciesia na maim boku!" />   
+    <string id="dialog_guard_patrol_answer" text="Dobra, my budziem baranić vašy kraj, {?PLAYER.GENDER}maja šlachcianka{?}moj šlachcič{\?}!" />
+    <string id="dialog_guard_patrol" text="Patrulujcie svoj kraj!" />    
+    <string id="dialog_guard_pretalk" text="Mnie pryjemna słužyć vam, {?PLAYER.GENDER}maja šlachcianka{?}moj šlachcič{\?}." />  
+    <string id="dialog_guard_inspect" text="Dazvolcie ahladzieć svaich vajaroŭ." />     
+    <string id="dialog_guard_fortify" text="Uzmacnicie harnizon." />         
+    <string id="dialog_guard_fortify_answer" text="Dobra, my ŭzmacnim harnizon." />     
+    <string id="dialog_recruiter_start" text="Vitaju, {?PLAYER.GENDER}maja šlachcianka{?}moj šlachcič{\?}. My rekrutary vašaha harnizonu!" />   
+    <string id="dialog_recruiter_pretalk" text="My možam dapamahčy vam z čymści jašče?" />
+    <string id="dialog_recruiter_inspect" text="Dazvolcie ahladzieć vašych vajaroŭ." />
+    <string id="dialog_recruiter_culturechange_answer" text="Dobra, my źmienim našuju kulturu rekrutavańnia na inšuju!" />
+    <string id="dialog_recruiter_culturechange" text="Źmianicie vašuju kulturu rekrutavańnia." />
+    <string id="dialog_npcguard_neutral_start" text="Pryvitańnie! My Varta, što patruluje hety kraj." />
+    <string id="dialog_npcguard_hostile_startplayer" text="My Varta, jakaja patruluje hety kraj." />
+    <string id="dialog_npcguard_hostile_fight" text="Zdavajciesia ci Pamrycie!" />
+    <string id="dialog_npcguard_hostile_startnpc" text="My Varta, što patruluje hety kraj. Vy viedajecie, my vajujem! Prachod tut zabaronieny." />
+  
+    
+    <!-- SECTION configuration menu -->     
+    <string id="config_category_base_title" text="Nałady Moda" />
+    <string id="config_category_cheats_title" text="Čyty" />
+    <string id="config_category_npc_title" text="Nałady NHP" />
+    <string id="config_category_default_title" text="Nałady pa Zmoŭčańni" />
+    <string id="config_reload_desc" text="Dla ŭžyvańnia ŭsich naładaŭ Palepšanaha Harnizonu patrabujecca pierazahruzka." />
+    <string id="config_reload_title" text="Patrabujecca pierazahruzka" />
+    <string id="config_category_dummyname" text="Nazva Katehoryi" />
+    <string id="config_category_cheats_garrisonwage_name" text="Množnik zarobku harnizonu" />
+    <string id="config_category_cheats_garrisonwage_description" text="Źmianšeńnie zarobku harnizonu. Ustalujcie značeńnie 1 dla narmalnych vydatkaŭ i 0 dla adsutnaści vydatkaŭ." />
+    <string id="config_category_cheats_garrisonwage_extradescription" text="Kali značeńnie mieniej za 1, da vašych finansaŭ budzie dadadzieny bonus, roŭny vydatkam na harnizon." />
+    <string id="config_category_cheats_trainingcost_name" text="Množnik rychtoŭli Palepšanaha Harnizonu" />
+    <string id="config_category_cheats_trainingcost_description" text="Źnižaje košty na rychtoŭlu vajaroŭ harnizonu Palepšanaha Harnizonu. Ustalujcie značeńnie 1 dla narmalnych koštaŭ i 0 dla adsutnaści koštaŭ." />
+    <string id="config_category_cheats_trainingcost_extradescription" text="Hetaja nałada ŭpłyvaje na košt palapšeńnia vašych vajaroŭ harnizonu. Vykarystoŭvajcie hetaje, kali žadajecie adklučyć košt palapšeńnia." />
+    <string id="config_category_cheats_partysize_name" text="množnik pamieru partyi hulca" />
+    <string id="config_category_cheats_partysize_description" text="Ustalujcie množnik pamieru partyi dla pavialičeńnia maksimalnaha pamieru svajoj ułasnaj partyi." />
+    <string id="config_category_cheats_partysize_requirements" text="[{LoadCustomPartySizeModel}] musić być uklučany." />
+    <string id="config_category_cheats_clanpartysize_name" text="množnik pamieru partyj kłana hulca" />
+    <string id="config_category_cheats_clanpartysize_description" text="Ustalujcie množnik pamieru partyi dla pavialičeńnia maksimalnaha pamieru ŭsich vašych partyj kłana." />
+    <string id="config_category_cheats_clanpartysize_requirements" text="[{LoadCustomPartySizeModel}] musić być uklučany." />
+    <string id="config_category_cheats_aiclanpartysize_name" text="množnik pamieru partyj kłana ŠI" />
+    <string id="config_category_cheats_aiclanpartysize_description" text="Ustalujcie množnik pamieru partyi dla pavialičeńnia maksimalnaha pamieru ŭsich partyj kłana ŠI." />
+    <string id="config_category_cheats_aiclanpartysize_requirements" text="[{LoadCustomPartySizeModel}] musić być uklučany." />
+    <string id="config_category_cheats_garrisonguardwage_name" text="Množnik vydatkaŭ na vartu harnizonu" />
+    <string id="config_category_cheats_garrisoguardnwage_description" text="Źmianšeńnie vydatkaŭ varty harnizonu. Ustalujcie značeńnie 1 dla narmalnych koštaŭ i 0 dla adsutnaści koštaŭ." />
+    <string id="config_category_cheats_partyspeed_name" text="chutkaść partyi varty harnizonu, rekrutara i partyi pieradačy" />    
+    <string id="config_category_cheats_partyspeed_description" text="Ustalujcie ŭłasnuju chutkaść ruchu dla varty, rekrutara i partyj pieradačy." />
+    <string id="config_category_cheats_partyspeed_requirements" text="[{LoadCustomPartySpeedModel}] musić być uklučany." />
+    <string id="config_category_cheats_garrisonsize_name" text="ułasny množnik pamieru harnizonu" />
+    <string id="config_category_cheats_garrisonsize_description" text="Ustalujcie množnik pamieru harnizonu dla pavialičeńnia pamieru vašych harnizonaŭ. Aŭtarekrutavańnie nie pierasiahnie ahulny pamier harnizonu!" />
+    <string id="config_category_cheats_garrisonsize_requirements" text="[{LoadCustomPartySizeModel}] musić być uklučany." />    
+    <string id="config_category_cheats_onlynoble_name" text="Papoŭnić harnizon šlachietnymi vajarami" /> 
+    <string id="config_category_cheats_onlynoble_description" text="Kali ŭklučyć hetuju naładu, šlachietnyja vajary papoŭniać harnizony &quot;z pavietra&quot;. Kolkaść lha ŭstalavać z dapamohaj [{AmountOfUnitsToSpawn}]." /> 
+    <string id="config_category_cheats_onlynoble_requirements" text="}[{RecruitsAreRecruitedFromVillages}] musić być uklučany!" /> 
+    <string id="config_category_cheats_garrisondonteat_name" text="Dazvolić harnizonam nie spažyvać ježy" /> 
+    <string id="config_category_cheats_garrisondonteat_description" text="Dadaje bonus ježy sieliščam roŭny kolkaści ježy patrebnaj harnizonu. Na praktycy adklučaje spažyvańnie ježy harnizonam samym zručnym šlacham." /> 
+    <string id="config_category_cheats_garrisondonteat_requirements" text="[{LoadFoodGatheringModule}] musić być uklučany." /> 
+    <string id="config_category_cheats_foodbonusenable_name" text="Uklučyć bonus ježy" /> 
+    <string id="config_category_cheats_foodbonusenable_description" text="Aktyvavać bonus ježy dla vašych zamkaŭ i sieliščaŭ." /> 
+    <string id="config_category_cheats_foodbonusenable_requirements" text="[{LoadFoodGatheringModule}] musić być uklučany." /> 
+    
+    <string id="config_category_base_fromvillages_name" text="Stvarać novych vajaroŭ niepasredna ŭ harnizonie" />
+    <string id="config_category_base_fromvillages_description" text="Paśla ŭklučeńnia hetaj nałady Palepšany Harnizon bolej nia budzie čakać pakul navakolnyja vioski stvorać vajaroŭ. Novyja vajary buduć zjaŭlacca ŭ harnizonie &quot;z pavietra&quot; štodzień." />
+    <string id="config_category_base_fromvillages_extradescription" text="Kali rekrutavańnie z viosak aktyvavana i ŭklučana rekrutavańnie ŭ mieniu vašaha harnizonu (pa zmoŭčańni), łohika rekrutavańnia hetaha moda budzie šukać usiakuju źviazanuju viosku i hetaje sielišča, ź jakich hulec moža rekrutavać. Uličvajcie, što na kolkaść dastupnych dla rekrutavańnia vajaroŭ upłyvaje toje, u jakich adnosinach hulec znachodzicca z hetymi vioskami. Jak tolki łohika rekrutavańnia źbiare minimalnuju kolkaść rekrutaŭ (pa zmoŭčvańni 4), budzie stvorana partyja z rekrutaŭ dastupnych viosak i adpraŭleny ŭ harnizon. Rekruty buduć vydaleny z zapasaŭ vioski, tamu spatrebicca niejki čas, kab vioska zmahła stvaryć bolej vajaroŭ." />
+    <string id="config_category_base_minrecruits_name" text="Pamier partyi rekrutavańnia vioski" />
+    <string id="config_category_base_minrecruits_description" text="Ustalujcie minimalnuju kolkaść rekrutaŭ, jakuju treba sabrać u vioskach, kab novaja partyja rekrutaŭ była stvorana i adpraŭlena ŭ harnizon." />
+    <string id="config_category_base_minrecruits_requirements" text="[{RecruitsAreRecruitedFromVillages}] musić być uklučany." />
+    <string id="config_category_base_spawnamount_name" text="Kolkaść vajaroŭ, što papoŭniać" />
+    <string id="config_category_base_spawnamount_description" text="Ustalujcie kolkaść vajaroŭ, jakija papoŭniać harnizony. Kali jany nie rekrutujucca z najblizkich viosak i sieliščaŭ." />
+    <string id="config_category_base_spawnamount_requirements" text="[{RecruitsAreRecruitedFromVillages}] musić być uklučany." />
+    <string id="config_category_base_dailyexp_name" text="Štodzionnaja kolkaść dośviedu" />
+    <string id="config_category_base_dailyexp_description" text="Ustalujcie kolkaść štodzionnaha dośviedu, jaki atrymlivajuć vašyja vajary harnizonu padčas rychtoŭli." />
+    <string id="config_category_base_dailyexp_extradescription" text="Mod daje kožnamu vajaru rostara kolkaść dośviedu, pamnožanuju na kolkaść adzinak hetaha vajara ŭ rostary. Kali, naprykład, vy majecie 20 rekrutaŭ i jany patrabujuć 250 dośviedu dla palapšeńnia, a štodzionnaje atrymańnie dośviedu roŭnaje 50, to jany atrymajuć 50 * 20 = 1000 dośviedu. Pakolki adzinka z hetahu rostaru vajaroŭ patrabuje 250 dośviedu, łohika palapšeńnia palepšyć 1000 / 250 = 4 adzinki." />
+    <string id="config_category_base_prisonerconformity_name" text="Štodzionnaja kolkaść zhodnych pałonnych" />
+    <string id="config_category_base_prisonerconformity_description" text="Ustalujcie štodzionnuju kolkaść zhody ŭsiakaha pałonnaha ŭ viaźnicy." />
+    <string id="config_category_base_prisonerconformity_extradescription" text="Kožny pałonny ŭ Mount and Blade maje svajo ŭłasnaje značeńnie zhody, jakoje treba dasiahnuć, kab rekrutavać. Hetaj naładaj vy možacie ŭstalavać štodzionnuju kolkaść zhody, jakuju atrymajuć." />
+    <string id="config_category_base_loadsize_name" text="Zahruzić modul ułasnaha pamieru" />
+    <string id="config_category_base_loadsize_description" text="Zahružaje modul ułasnaha pamieru Palepšanaha Harnizonu. Heta dazvolić ustalavać maksimalny pamier dla vašych harnizonaŭ i varty harnizonu." />
+    <string id="config_category_base_loadsize_requirements" text="Hulnia musić być pierazapuščana." />
+    <string id="config_category_base_partysize_name" text="pamier partyi varty harnizonu i partyi pieradačy" />
+    <string id="config_category_base_partysize_description" text="Ustalujcie ŭłasny pamier dla partyj varty i pieradačy." />
+    <string id="config_category_base_partysize_extradescription" text="Hetaje značeńnie vykarystoŭvajecca dla raźlika bazavaj chutkaści i marali. Kali pamiery partyj pieradačy, rekrutaŭ ci varty pierasiahnuć hetaje značeńnie, jany buduć zapavoleny." />
+    <string id="config_category_base_partysize_requirements" text="[{LoadCustomPartySizeModel}] musić być uklučany." />
+    <string id="config_category_base_loadspeed_name" text="Zahruzić modul ułasnaj chutkaści" />
+    <string id="config_category_base_loadspeed_description" text="Zahružaje modul ułasnaj chutkaści Palepšanaha Harnizonu. Heta dazvolić vam uručnuju ŭstalavać chutkaść dla partyj varty harnizonu, rekrutaŭ i pieradačy. Vykarystoŭvajcie hety modul, kali vašy dośvied sumiaščalnaści z modulem ułasnaha pamieru." />
+    <string id="config_category_base_loadspeed_requirements" text="Hulnia musić być pierazapuščana." />
+    <string id="config_category_base_loadfood_name" text="Zahruzić modul zboru ježy" />
+    <string id="config_category_base_loadfood_description" text="Zahružaje modul zboru ježy Palepšanaha Harnizonu. Hetaja nałada ŭklučaje dadańnie bonusu ježy zamkam i sieliščam." />
+    <string id="config_category_base_loadfood_requirements" text="Hulnia musić być pierazapuščana." />
+    <string id="config_category_base_foodamount_name" text="Štodzionnaja kolkaść bonusnaj ježy" />
+    <string id="config_category_base_foodamount_description" text="Ustalujcie štodzionnuju kolkaść bonusnaj ježy, jakuju budzie atrymlivać kožny zamak i sielišča hulca." />
+    <string id="config_category_base_foodamount_requirements" text="[{LoadFoodGatheringModule}] musić być uklučany." />
+    <string id="config_category_base_reset_name" text="Skinuć da pa zmoŭčańni" />
+    <string id="config_category_base_reset_description" text="Heta skinie nałady Palepšanaha Harnizonu da značeńniaŭ pa zmoŭčańni." />
+    <string id="config_category_base_reset_prompt" text="Vy žadajecie skinuć nałady Palepšanaha Harnizonu da značeńniaŭ pa zmoŭčańni?" />
+    <string id="config_category_base_guardsell_name" text="Paroh prodažu pałonnych dla varty" /> 
+    <string id="config_category_base_guardsell_description" text="Źniźcie paroh, jaki treba dasiahnuć kab pradać pałonnych" /> 
+    <string id="config_category_base_guardsell_prompt" text="> Pry značeńni 0.0 jomistaść pałonnych varty musić być poŭnaściu zapoŭniena.{newline}> Pry značeńnie 0.5 varta budzie pradavać pałonnych na pałovie jomistaści pałonnych. {newline}> Pry značeńni 1.0 varta budzie pradavać pałonnych u momant atrymańnia." /> 
+    <string id="config_Category_base_guardreplenishperc_name" text="Adsotak Adnaŭleńnia Varty" />    
+    <string id="config_Category_base_guardreplenishperc_description" text="Adsotak, da jakoha musić upaści ciapierašni pamier partyi, kab varta viarnulisia ŭ svoj harnizon dla papaŭnieńnia vajaroŭ. Varta papaŭniaje vajaroŭ tolki ŭ tym vypadku, kali ŭ vašym harnizonie majucca validnyja vajary! Jana biare tolki tyja adzinki, jakija byli ŭ pačatkovaj partyi varty, i tolki kali kolkaść vajaroŭ hetaj partyi nie pierasiahaje pačatkovaje." />   
+    <string id="config_Category_base_guardreplenishperc_extradescription" text="> Varta budzie namahacca adnavicca da svajoj pačatkovaj partyi, stanu ŭ jakim jana zjaviłasia {newline}> Pry značeńni 0.0 varta nikoli nia budzie viartacca ŭ harnizon dla adnaŭleńnia.{newline}> Pry značeńni 0.5 varta budzie adnaŭlacca paśla pałovy svajho pačatkovaha pamieru.{newline}> Pry značeńni 1.0 varta budzie adnaŭlacca jak tolki budzie stračvać vajaroŭ, a kolkaść dastupnych dla rekrutavańnia vajaroŭ vyšejšaja za [{GuardAvailableTroopsPercentage}]" />
+    <string id="config_Category_base_guardreplenishperc_requirements" text="[{GuardAvailableTroopsPercentage}] musić być dasiahnuty" />
+    <string id="config_category_base_guardheal_name" text="Adsotak Zdaroŭja Varty" /> 
+    <string id="config_category_base_guardheal_description" text="Adsotak zabitych ci paranienych vajaroŭ u adnosinach da pačatkovaha pamieru partyi, jaki musić być dasiahnuty, kab partyja patrula viarnułasia ŭ horad ci zamak dla lačeńnia." />  
+    <string id="config_category_base_guardheal_extradescription" text="> Pry značeńni 0.0 partyja nikoli nia budzie lačycca, bo jana musić być poŭnaściu zabita, kab atrymać zahad lačecca.{newline}> Pry značeńni 0.5 partyja budzie lačycca, kali pamier partyi dasiahnie pałovy pačatkovaha pamieru{newline}> Pry značeńni 1.0 partyja budzie lačycca jak tolki pamier partyi budzie mieniej pačatkovaha" /> 
+    <string id="config_category_base_errormessage_name" text="Adklučać Paviedamleńni Pamyłak" /> 
+    <string id="config_category_base_errormessage_description" text="Adklučaje paviedamlenija pra pamyłki, jakija adlustroŭvajucca ŭsiaki raz, kali mod sutykajecca z pamyłkaj." />
+    <string id="config_category_base_errormessage_extradescription" text="UVAHA: Kali vy adklučycie paviedamleńni pra pamyłki, vy bolej nikoli nia budziecie atrymlivać paviedamleńnie paśla sutyknieńnia z pamyłkaj!" />
+    <string id="config_Category_base_guardreplenishavail_name" text="Adsotak Adnaŭleńnia Varty z Dastupnych Vajaroŭ" /> 
+    <string id="config_Category_base_guardreplenishavail_description" text="Kolkaść vajaroŭ u adnosinach da pačatkovaha pamieru partyi varty, jakoje musić być dastupna ŭ harnizonie, kab varta mahła viarnucca i adnavicca." />  
+    <string id="config_Category_base_guardreplenishavail_extradescription" text="> Pry značeńni 1.0 uvieś pačatkovy pamier partyi musić być dastupny ŭ harnizonie{newline}> Pry značeńni 0.5 varta budzie adnaŭlacca kali prynamsi pałova pamieru musić być dastupna dla rekrutavańnia ŭ harnizonie.{newline}> Pry značeńni 0.0 varta budzie adnaŭlacca jak tolki buduć dastupnyja dla rekrutavańnia vajary i ich pamier budzie nižejšy za [{GuardReplenishPercentage}]" /> 
+    <string id="config_Category_base_guardreplenishavail_requirements" text="[{GuardReplenishPercentage}] musić być dasiahnuty" />  
+    <string id="config_category_base_deleteparties_name" text="Vydalić usie Partyi Palepšanaha Harnizonu" /> 
+    <string id="config_category_base_deleteparties_description" text="Uklučycie hetaje, kab vydalić usie Partyi Palepšanaha Harnizonu ŭ kampanii." /> 
+    <string id="config_category_base_deletesavedata_name" text="Vydalić niepatrebny dadzienyja zachavańnia" /> 
+    <string id="config_category_base_deletesavedata_description" text="Kali vy vydalili fajł zachavańnia, zachavanyja dadzienyja Palepšanaha Harnizonu dla hetaha aznačannaha fajła zachavańnia mohuć zastacca. Kali vy abiarecie hetuju naładu, mod budzie šukać dadziennyja supastaŭlenyja z fajłam zachavańnia, jaki bolej nie isnuje, a potym vydale ich, bo jany bolej nie vykarystoŭvajucca.{newline} {newline}Natatka: Hety praces moža zaniać peŭny čas" /> 
+    <string id="config_category_base_deletesavedata_extradescription" text="Vy taksama majecie mahčymaść vydalić hetyja dadzienyja ŭručnuju, kali žadajecie. Znajdzicie Mount and Blade II Bannerlord u tečcy vašych dakumientaŭ i znajdzici kanfihuracyi Palepšanych Harnizonaŭ." /> 
+    <string id="config_category_npc_guardparties_name" text="Uklučyć stvareńnie partyjaŭ Varty Harnizonu dla NHP" />
+    <string id="config_category_npc_guardparties_description" text="Dazvolić frakcyjam NHP stvarać partyi Varty Harnizonu dla abarony svajoj ułasnaści." />
+    <string id="config_category_npc_npcguardspawnthreshold_name" text="Paroh zjaŭleńnia Varty NHP" />
+    <string id="config_category_npc_npcguardspawnthreshold_description" text="Pamier harnizonu NHP, jaki treba dasiahnuć dla stvareńnia novaj varty" />
+    <string id="config_category_npc_npcguardspawnthreshold_requirements" text="[{EnableNPCMode}] musić być uklučany." />
+    <string id="config_category_npc_npcguardsizemultiplier_name" text="Množnik pamieru Varty NHP" />
+    <string id="config_category_npc_npcguardsizemultiplier_description" text="Naładźcie pamier varty NHP, jaki budzie stvaracca. {newline} {newline}Ustalujcie 0.2 dla varty maleńkich pamieraŭ {newline}Ustalujcie 0.8 dla varty vialikich pamieraŭ." />
+    <string id="config_category_npc_npcguardsizemultiplier_requirements" text="[{EnableNPCMode}] musić być uklučany." />
+    <string id="config_category_npc_worldrecruit_name" text="Rekrutavańnie śvietu NHP" />
+    <string id="config_category_npc_worldrecruit_description" text="Uklučaje aŭtarekrutavańnie dla ŭsich Harnizonaŭ NHP." />
+    <string id="config_category_npc_prisonerrecruit_name" text="Rekrutavańnie pałonnych NHP" />
+    <string id="config_category_npc_prisonerrecruit_description" text="Uklučaje rekrutavańnie pałonnych dla ŭsich Harnizonaŭ NHP." />
+    <string id="config_category_npc_recruitthreshold_name" text="Maksimalny paroh rekrutavańnia NHP" />
+    <string id="config_category_npc_recruitthreshold_description" text="Maksimalnaja kolkaść adzinak u harnizonach, paśla jakoj rekrutavańnie budzie spyniena." />
+    <string id="config_category_npc_recruitthreshold_requirements" text="[{EnableNPCWorldRecruitment}] musić być uklučany." />
+    <string id="config_category_npc_training_name" text="Rychtoŭla harnizonaŭ NHP" />
+    <string id="config_category_npc_training_description" text="Uklučaje rychtoŭlu vajaroŭ harnizonu dla ŭsich Harnizonaŭ NHP." />
+    <string id="config_category_npc_trainingtier_name" text="Maksimalny ŭzrovień rychtoŭli NHP" />
+    <string id="config_category_npc_trainingtier_description" text="Maksimalny ŭzrovień vajaroŭ harnizonu NHP, da jakoha budzie rychtoŭla." />
+    <string id="config_category_npc_trainingtier_requirements" text="[{EnableNPCGarrisonTraining}] musić być uklučany." />
+    <string id="config_category_npc_foodgathering_name" text="Zbor bonusnaj ježy NHP" />
+    <string id="config_category_npc_foodgathering_description" text="Uklučaje bonusnuju ježu dla ŭsich Harnizonaŭ NHP." />
+    <string id="config_category_npc_foodgathering_requirements" text="[{LoadFoodGatheringModule}] musić być uklučany." />
+    <string id="config_category_npc_foodamount_name" text="Kolkaść bonusnaj ježy NHP" />
+    <string id="config_category_npc_foodamount_description" text="Kolkaść bonusnaj ježy dla ŭsich Harnizonaŭ NHP, jakuju atrymlivajuć NHP, kali zbor bonusnaj ježy ŭklučany." />
+    <string id="config_category_npc_foodamount_requirements" text="[{LoadFoodGatheringModule}] musić być uklučany." />
+    
+    <string id="config_category_default_recruitment_name" text="Pa zmoŭčańni rekrutavańnie śvietu uklučana dla hulca" />
+    <string id="config_category_default_recruitment_description" text="Uklučaje rekrutavańnie śvietu dla harnizonaŭ hulca pa zmoŭčańni." />
+    <string id="config_category_default_recruitthreshold_name" text="Maksimalny paroh rekrutavańnia hulca pa zmoŭčańni" />
+    <string id="config_category_default_recruitthreshold_description" text="Ustalujcie maksimalnuju kolkaść (pa zmoŭčańni) vajaroŭ harnizonu, paśla jakoha rekrutavańnie budzie spyniena." />
+    <string id="config_category_default_prisonerrecruit_name" text="Pa zmoŭčańni rekrutavańnie pałonnych uklučana dla hulca" />
+    <string id="config_category_default_prisonerrecruit_description" text="Uklučaje rekrutavańnie pałonnych dla harnizonaŭ hulca pa zmoŭčańni." />
+    <string id="config_category_default_prisonerthreshold_name" text="Pa zmoŭčańni paroh rekrutavańnia pałonnych uklučany dla hulca" />
+    <string id="config_category_default_prisonerthreshold_description" text="Uklučaje paroh rekrutavańnia pałonnych dla harnizonaŭ hulca pa zmoŭčańni." />
+    <string id="config_category_default_training_name" text="Pa zmoŭčańni rychtoŭla ŭklučana dla hulca" />
+    <string id="config_category_default_training_description" text="Uklučaje rychtoŭlu dla harnizonaŭ hulca pa zmoŭčańni." />
+    <string id="config_category_default_training_requirements" text="Štodzień vašyja adzinki harnizonu atrymlivajuć kolkaść dośviedu (naładžvajecca). Kali jany hatovyja da palapšeńnia, moža zdarycca adna z dvuch rečaŭ. Kali vy abrali dla ich peŭny pažadany šlach palapšeńnia, łohika palapšeńnia Palepšanaha Harnizonu prasunie adzinku dalej pa šlachu da mety. Kali meta nie ŭstalavana, šlach budzie abrany vypadkova. Taksama vy možacie abmiežavać ich rovień, kali, naprykład, žadajecie mieć vajaroŭ tolki 3 roŭnia dla źnižeńnia vydatkaŭ. Hetaje abmiežavańnie roŭniu skasoŭvajecca, abrańniem mety palapšeńnia." />
+    <string id="config_category_default_maximumtier_name" text="Maksimalny rovień rychtoŭli hulca pa zmoŭčańni" />
+    <string id="config_category_default_maximumtier_description" text="Maksimalny rovień vajaroŭ harnizonu hulca pa zmoŭčańni, da jakoha buduć rychtavacca." />
+    <string id="config_category_default_onlyelite_name" text="Rekrutavańnie tolki elity dla hulca pa zmoŭčańni" />
+    <string id="config_category_default_onlyelite_description" text="Uklučaje tolki rekrutavańnie elitnych adzinak dla harnizonaŭ hulca pa zmoŭčańni." />
+    <string id="config_category_default_guardssell_name" text="Handal pałonnymi ŭklučany dla varty pa zmoŭčańni" />   
+    <string id="config_category_default_guardssell_description" text="Uklučaje handal pałonnymi dla varty hulca pa zmoŭčańni." />  
+    <string id="config_category_default_replenish_name" text="Adnaŭleńnie ŭklučana dla varty pa zmoŭčańni" />    
+    <string id="config_category_default_replenish_description" text="Uklučaje adnaŭleńnie i lačeńnie dla varty hulca pa zmoŭčańni." />  
+    <string id="config_category_default_tutorial_name" text="Deaktyvavać Navučańnie" />    
+    <string id="config_category_default_tutorial_description" text="Adklučaje navučańnie, jakoje pačynajecca paśla ŭvachodu va ŭłasnuju vołaść." />  
+    <string id="config_category_default_dailymessage_name" text="Adklučyć Štodzionnaje Paviedamleńnie" />     
+    <string id="config_category_default_dailymessage_description" text="Adklučaje štodzionnaje paviedamleńnie čatu." /> 
+    <string id="config_category_default_hideoutclear_name" text="Začystka schoviščaŭ uklučana dla varty pa zmoŭčańni" /> 
+    <string id="config_category_default_hideoutclear_description" text="Uklučaje začystku schoviščaŭ dla varty pa zmoŭčańni." /> 
+    <string id="config_category_default_buyhorses_name" text="Handal końmi ŭklučany dla varty pa zmoŭčańni" /> 
+    <string id="config_category_default_buyhorses_description" text="Uklučaje handal końmi dla varty, kab atrymać dadatkovuju chutkaść ruchu pa zmoŭčańni." /> 
+    <string id="config_category_default_guardupgrade_name" text="Palapšeńnie vajaroŭ uklučana dla varty pa zmoŭčańni" />    
+    <string id="config_category_default_guardupgrade_description" text="Uklučaje mahčymaść palapšeńnia vajaroŭ dla partyjaŭ varty hulca pa zmoŭčańni." />  
+    <string id="config_category_default_guardprisonerrecruit_name" text="Rekrutavańnie pałonnych vartaj pa zmoŭčańni" />    
+    <string id="config_category_default_guardprisonerrecruit_description" text="Uklučaje rekrutavańnie pałonnych dla varty hulca pa zmoŭčańni." />  
+    
+    
+    <!-- SECTION tutorial -->  
+    <string id="tutorial_continue" text="Praciahnuć" />
+    <string id="tutorial_cancel" text="Skasavać Navučańnie" />
+    <string id="tutorial_end" text="Skončyć Navučańnie" />
+    <string id="tutorial_back" text="Nazad" />
+    <string id="tutorial_title" text="Navučańnie Palepšanaha Harnizonu" />
+    <string id="tutorial_introduction" text="Sardečna zaprašajem u Navučańnie Palepšanaha Harnizonu. {newline} {newline}U hetym Navučańni tłumačacca asnoŭnyja mahčymaści vašaha Palepšanaha Harnizonu." />
+    <string id="tutorial_findmenu1" text="Mieniu naładaŭ Palepšanaha Harnizonu moža być adkryta naciskam knopki" />
+    <string id="tutorial_findmenu2" text="u Hulniavym Mieniu vašaha Zamka ci Horada. {newline}(bačny ŭ levym boku vašaha ekrana)" />
+    <string id="tutorial_uiguide1" text="Mieniu Palepšanaha Harnizonu" />
+    <string id="tutorial_uiguide2" text="Paśla nacisku knopki Palepšanaha Harnizonu adkryjecca Mieniu Palepšanaha Harnizonu. Hetaje mieniu vykarystoŭvajecca dla dostupu i kantrolu vašaha Palepšanaha Harnizonu. Jano składajecca z niekalkich roznych zakładak z takimi funkcyjami, jak Rekrutavańnie i Rychtoŭla vajaroŭ harnizonu." />
+    <string id="tutorial_garrisonselector1" text="Vybarnik Palepšanaha Harnizonu" />
+    <string id="tutorial_garrisonselector2" text="Uviersie Mieniu Palepšanaha Harnizonu vy znojdziecie vypadalnuju knopku. Usie vašyja ciapierašnija zamki i sieliščy buduć u śpisie." />
+    <string id="tutorial_garrisonselector3" text="Vykarystoŭvajcie hetuju knopku dla abrańnia Palepšanaha Harnizonu, jaki žadajecie źmianić." />
+    <string id="tutorial_overview1" text="Zakładka Ahladu" />
+    <string id="tutorial_overview2" text="Na hetaj zakładcy prezientavany ahlad usich vašych ciapierašnich vołaściaŭ (zamkaŭ/sieliščaŭ). Usiakaja vašaja vołaść budzie ŭ śpisie kartak. Z dapamohaj hetaha śpisa vy možacie ahladzieć ciapierašni status kožnaj vołaści z usiakaj kropki mapy." />
+    <string id="tutorial_overview3" text="Taksama jana dynamična pakazvaje vam karysnuju infarmacyju pra vołaść ci adnu ź jaho viosak, jakaja zaraz znachodzicca pad atakaj ci navat źniščana." />
+    <string id="tutorial_overview4" text="Ahlad Funkcyjaŭ Zakładak" />
+    <string id="tutorial_overview5" text="Kožnaja kartka, jakuju vy bačycie, taksama maje funkcyi." />
+    <string id="tutorial_overview6" text="Kali vy naciśnicie levuju knopku na vyjavie vołaści, vołaść budzie adsočvacca na mapie." />
+    <string id="tutorial_overview7" text="Kali vy naciśnicie levuju knopku na kartkie vołaści, vołaść budzie abrana dla naładžvańnia." />
+    <string id="tutorial_overview8" text="Kali vy naciśnicie pravuju knopku na kartkie, adkryjecca kantekstnaje mieniu z dadatkovymi naładami." />
+    <string id="tutorial_overview9" text="Natatka: Kantekstavaje mieniu taksama ŭtrymlivaje naładu abarony dla partyi varty (budzie rastłumačana paźniej) pry napadzie, što dazvalaje baranić vołaść ci viosku z usiakaj kropki mapy." />
+    <string id="tutorial_recruitment1" text="Mieniu Rekrutavańnia" />
+    <string id="tutorial_recruitment2" text="Heta padzieł rekrutavańnia. Vy majecie mahčymaść aŭtamatyčna rekrutavać z hetaha kraju harnizonu ci stvaryć partyju rekrutara, kab rekrutavać vajaroŭ zvonku kraja." />
+    <string id="tutorial_recruitment2_1" text="Natatka: Kraj składajecca z zamka/sielišča i najblizkich viosak" />
+    <string id="tutorial_recruitment3" text="Infarmacyja pra Rekrutara" />
+    <string id="tutorial_recruitment4" text="Partyja Rekrutara ŭžyvajecca dla rekrutavańnia novych vajaroŭ dla harnizonu. Rekrutar budzie šukać novych vajaroŭ zvonku kraju, abranaj vołaści. Vy možacie abrać kulturu i kolkaść vajaroŭ, jakich vy žadajecie, kab rekrutar rekrutavaŭ dla vašaha harnizonu." />
+    <string id="tutorial_recruitment5" text="Nałady Rekrutavańnia" />
+    <string id="tutorial_recruitment6" text="Častka rekrutavańnia Palepšanaha Harnizonu ŭklučaje aŭtamatyčnaje rekrutavańnia novych vajaroŭ dla vašaha zamka/sielišča. U vyłučanym padziele vy majecie kupku raźličnych naładaŭ abrańnia taho, jak vy žadajecie rekrutavać novych vajaroŭ." />
+    <string id="tutorial_recruitment6_1" text="Vanilnaje Rekrutavańnie" />
+    <string id="tutorial_recruitment6_2" text="Vanilnaje rekrutavańnie - heta rekrutavańnie aryhinalnaj hulni, jakoje vykarystoŭvajecca zvonku hetaha moda. Nastojliva rekamiendujecca adklučyć hetuju naładu, bo rekrutavańnie aryhinalnaj hulni nie kantralujeccca Palepšanym Harnizonam i tamu moža pieraškadžać ustalavanym vami naładam." />
+    <string id="tutorial_recruitment6_3" text="Rekrutavać z kraju" />
+    <string id="tutorial_recruitment6_4" text="Kali hetaja nałada ŭklučana, najblizkija vioski buduć adpraŭlać rekrutaŭ u harnizon biez patreby samastojnaha zboru." />
+    <string id="tutorial_recruitment6_5" text="Rekrutavańnie Pałonnych" />
+    <string id="tutorial_recruitment6_6" text="Kali hetaja nałada ŭklučana, pałonnyja, jakich vy majecie ŭ viaźnicy, buduć pavolna rekrutavacca vašym harnizonam." />
+    <string id="tutorial_recruitment7" text="Natatka: Kožny pałonny ŭ mount and blade maje svajo ŭłasnaje značeńnie zhody, jakoje treba dasiahnuć, kab rekrutavać pałonnaha. Vy možacie vandravać sa svaim pałonnym i zmahacca, kab pavialičyć jaho zhodu, ci vykarystoŭvać naładu Palepšanaha Harnizonu, kab pavolna atrymlivać zhodu kožnaha pałonnaha." />
+    <string id="tutorial_recruitment8" text="Nałady Rekrutavańnia" />
+    <string id="tutorial_recruitment9" text="(Vy možacie prahartać hety padzieł)" />
+    <string id="tutorial_recruitment10" text="Vykarystoŭvajcie hetyja nałady dla dalejšaj naładki pavodzinaŭ rekrutavańnia hetaha harnizonu i partyi rekrutara." />
+    <string id="tutorial_training1" text="Mieniu Rychtoŭli" />
+    <string id="tutorial_training2" text="Heta padzieł rychtoŭli Palepšanaha Harnizonu. Tut vy majecie mahčymaść skazać Palepšanamu Harnizonu rychtavać vajaroŭ harnizonu." />
+    <string id="tutorial_training3" text="Šabłony Rychtoŭli" />
+    <string id="tutorial_training4" text="Z dapamohaj šabłonu rychtoŭli vy možacie dakładna vyznačyć, jakich vajaroŭ harnizonu musić rychtavać Palepšany Harnizon. Z dapamohaj hetaj funkcyi vy možacie akreślić šabłon usiaho vojska, naprykład, kolki Battanijskich Fianaŭ i Sturhijskich Sałdat vy žadajecie padrychtavać." />
+    <string id="tutorial_training5" text="Hetaja funkcyja moža być vielmi zručnaj. Kali vy majecie padrychtavanaje vojska ŭ adnym sa svaich Palepšanych Harnizonach, to nastupnym razam, kali vy prajhrajecie vialikuju bitvu, nia budzie nieabchodnaści źbirać i rychtavać novych vajaroŭ. Prosta idzicie ŭ harnizon i zabiarycie svajo padrychtavanaje vojska." />
+    <string id="tutorial_training6" text="Jak heta pracuje? Usiaki raz, kali vajar harnizonu moža być palepšany, Palepšany Harnizon pravieryć, ci maje vajar vyznačany šlach palapšeńnia ŭ vašym ciapierašnim šabłonie rychtoŭli. Palepšany Harnizon palepšyć vajara zhodna ź jaho metaj." />
+    <string id="tutorial_training7" text="Natatka: Palepšany Harnizon nia budzie palepšać vajaroŭ vyšej mety vyznačanaj u šabłonie rychtoŭli." />
+    <string id="tutorial_training7_1" text="Natatka: Kali vajar nia maje vyznačanaj mety ŭ šabłonie, jon budzie palapšacca vypadkova zhodna z naładaj maksimalny rovień palapšeńnia vajaroŭ." />
+    <string id="tutorial_training7_2" text="Natatka: Vyłučany śpis vajaroŭ interaktyŭny. Pravy nacisk, kab vydalić vajara sa śpisa. Užyvajcie knopki + i -, kab źmianiać pažadanuju kolkaść vajaroŭ." />
+    <string id="tutorial_training8" text="Dadać Vajaroŭ" />
+    <string id="tutorial_training9" text="Tut vy možacie dadać novych vajaroŭ da vašaha ciapierašniaha šabłonu. Vajary buduć dadany ŭ vyšejšy śpis, tamu vy zaŭsiody zmožacie chutka pahladzieć, što zaraz rychtuje vašy Palepšany Harnizon." />
+    <string id="tutorial_training10" text="Kiraŭnik Šabłonami" />
+    <string id="tutorial_training11" text="Kiraŭnik Šabłonami zručnaja funkcyja, jakaja dazvalaje kiravać i zachoŭvać šabłony rychtoŭli. Vašyja zachavanyja šabłony buduć sinchranizavany miž usimi vašymi zachavańniami, tamu vy zaŭždy budziecie mieć mahčymaść karystacca imi padčas patreby." />
+    <string id="tutorial_training12" text="Nałady Rychtoŭli" />
+    <string id="tutorial_training13" text="Dla pracy funkcyi šabłonu Palepšany Harnizon patrabuje vašaje dazvoł na rychtoŭlu vajaroŭ ad vašaha harnizonu. Kab dać dazvoł, vy možacie ŭklučyć rychtoŭlu tut." />
+    <string id="tutorial_training14" text="Natatka: Pamiatajcie, rychtoŭla kaštuje zołata. Kali vam składana zrazumieć źmieny zołata, mahčyma, budzie razumna pravieryć, ci možacie vy padtrymlivać ciapierašnija nałady rychtoŭli." />
+    <string id="tutorial_training14_3" text="Davajcie vierniemsia nazad da padziełu rekrutavańnia na momant i razhladzim vyłučanuju naładu." />
+    <string id="tutorial_training15" text="Rekrutavańnie prytrymlivajecca šabłonu" />
+    <string id="tutorial_training16" text="Hetaja funkcyja vielmi zručnaja. Dla mahčymaści rychtoŭli vajaroŭ zhodna z vašym ciapierašnim šabłonam rychtoŭli Palepšany Harnizon, zrazumieła, maje patrebu ŭ adzinkach, jakich lha rychtavać da abranych adzinak šabłonu!" />
+    <string id="tutorial_training16_1" text="Zamiest patreby samastojnaha źbirańnia hetych adzinak Palepšany Harnizon rekrutuje ich zamiest vas. Pamiatajcie, što vašy šabłon moža patrabavać roznych vajaroŭ z roznych kulturaŭ, jakija znachodziacca na roznych častkach mapy śvietu. Dla aŭtamatyčnaha rekrutavańnia vajaroŭ hetych kulturaŭ, uklučycie aŭtastvareńnie rekrutara u pakazanych naładach (Paśla aktyvacyi knopki rekrutavańnie prytrymlivajecca šabłonu). Partyi rekrutara buduć stvaracca aŭtamatyčna dla vas." />
+    <string id="tutorial_training16_2" text="Rekrutar dosyć razumny. Jon viedaje jakija vajary ź jakich kulturaŭ vam patrebny dla šabłonu rychtoŭli, i budzie źbirać hetych vajaroŭ z usiej mapy śvietu, dy viartać ich vašy harnizon." />
+    <string id="tutorial_training14_1" text="Vanilnaja Rychtoŭla" />
+    <string id="tutorial_training14_2" text="Pobač z vanilnym rekrutavańniem isnuje taksama vanilnaja rychtoŭla, jakaja tyčycca łohiki palapšeńnia vajaroŭ bazavaj hulni. Nastojliva rekamiendujecca pakinuć hetuju naładu adklučanaj, bo łohika bazavaj hulni vypadkovym čynam pavialičvaje i źnižaje rovień vajaroŭ, nie zvažajučy na šabłon rychtoŭli." />
+    <string id="tutorial_training17" text="Maks rovień palapšeńnia vajaroŭ (nie z šabłonu)" />
+    <string id="tutorial_training18" text="Hetaja funkcyja tyčycca tolki tych vajaroŭ vašaha hanizonu, na jakich nia dziejničaje ciapierašni šabłon rychtoŭli. Palepšany Harnizon pavysić rovień hetych vajaroŭ da ŭzroŭnia, abranaha tut." />
+    <string id="tutorial_training19" text="Natatka: Kali dla vajara nia znojdzieny šabłon rychtoŭli, jaho šlach palapšeńnia budzie abrany vypadkovym čynam." />
+    <string id="tutorial_guards1" text="Varta Harnizonu" />
+    <string id="tutorial_guards2" text="Heta padzieł varty. Tut vy možacie stvaryć novuju partyju varty, prahladzieć aktualnuju infarmacyju pra vašuju ciapierašniuju vartu, zahadać varcie ci naładzić jaje pavodziny." />
+    <string id="tutorial_guards3" text="Varta - heta partyja, jakaja stvarajecca z vajaroŭ vašaha harnizonu. Kožny Palepšany Harnizon moža mieć adnu partyju varty. Partyi varty majuć prasunuty ŠI, pabudavany pa-nad ŠI bazavaj hulni. ŠI varty dumaje pra takija rečy, jak &quot;ci mušu ja baranić viosku XY&quot;, &quot;ja nia mušu atakavać partyju XY, bo jana zachutkaja ci zamocnaja&quot;, &quot;Ja mušu viarnucca nazad u sieliška, kab vylačyć svaje adzinki&quot;, i mnohaje inšaje!" />
+    <string id="tutorial_guards4" text="Kožnaj varcie taksama lha davać zahady. Samaje pašyranaje vykarystańnie - abarona vašaha kraju. Kali vy zahadajecie varcie patrulavać, jana budzie vandravać pa kraju, ačyščać jaho ad rabaŭnikoŭ dy bandytaŭ, baranić kraj ad abłohaŭ i rabavańniaŭ. Taksama vy možacie zahadać varcie supravadžać partyi. Takim čynam varta budzie iści ŭśled za partyjaj i baranić jaje. Heta moža być karysnym, kali vam patrabujecca dapamoha padčas nastupnaha napadu ci kali vy žadajecie, kab adzin z vašych karavanaŭ byŭ pad abaronaj." />
+    <string id="tutorial_guards5" text="Nałady Varty" />
+    <string id="tutorial_guards6" text="(Vy možacie prahartać hety padzieł)" />
+    <string id="tutorial_guards7" text="Hety śpis składajecca z dalejšaj naładki pavodzinaŭ vašaj varty. Naprykład, vy možacie stvarać vartu aŭtamatyčna padčas ataki, adklučyć rekrutavańnie zachoplenych pałonnych i bolej." />
+    <string id="tutorial_garrison1" text="Infarmacyja pra Harnizon" />
+    <string id="tutorial_garrison2" text="Heta padzieł pra infarmacyju ab harnizonie. Tut padadziena važnaja infarmacyja pra vašy harnizon i aktyŭnaść Palepšanaha Harnizonu." />
+    <string id="tutorial_garrison3" text="Ciapierašni Harnizon" />
+    <string id="tutorial_garrison4" text="Hety śpis pakazvaje ciapierašni harnizon abranaha horadu/zamka." />
+    <string id="tutorial_garrison5" text="Unizie vy znojdziecie knopku dla pieradačy vajaroŭ. Heta dazvalaje vam stvaryć partyju pieradačy, jakaja adpravicca ŭ abranaje vami miesca. Vykarystoŭvajcie hetuju funkcyju, kali žadajecie pierasoŭvać vajaroŭ miž harnizonami." />
+    <string id="tutorial_garrison6" text="Natatka: Heta moža być karysnym, kali vy vajujecie i pierasoŭvajecie vajaroŭ u harnizony, patrabujučyja abaronu." />
+    <string id="tutorial_garrison7" text="Štotydniovaja Infarmacyja pra Harnizon" />
+    <string id="tutorial_garrison8" text="Hety śpis pakazvaje kolkaść vydatkaŭ na rekrutavańnie i rychtoŭlu vajaroŭ, jakija mieŭ Palepšany Harnizon na hetym tydni. Taksama jon pakazvaje ahulnuju kolkaść rekrutavanych i palepšanych na hetym tydni vajaroŭ." />
+    <string id="tutorial_garrison9" text="Aktyŭnaść Harnizonu" />
+    <string id="tutorial_garrison10" text="Śpis u vyhladzie čatu z apošnimi ździejśnienymi aktyŭnaściami Palepšanaha Harnizonu. Śpis pakazvaje takija aktyŭnaści jak rekrutavańnie i palapšeńnie z časovymi paznakami." />
+    <string id="tutorial_management1" text="Kiravańnie" />
+    <string id="tutorial_management2" text="Padzieł kiravańnia pazvaje ciapierašniuju infarmacyju pra vašyja vołaści, dazvalaje vas kapijavać nałady miž imi i kiravać ich prajektami." />
+    <string id="tutorial_management4" text="" />
+    <string id="tutorial_management5" text="" />
+    <string id="tutorial_management6" text="" />
+    <string id="tutorial_management7" text="Kiraŭnik Kapijavańnia" />
+    <string id="tutorial_management8" text="Kiraŭnik kapijavańnia ŭžyvajecca dla kapijavańnia naładaŭ abranaha zaraz Palepšanaha Harnizonu ŭ inšy Palepšany Harnizon." />
+    <string id="tutorial_management9" text="Natatka: Naprykład, kali vy žadajecie, kab vašyja vołaści chutka sabrali 300 vajaroŭ dla vašaj nastupnaj vajny, vy možacie zrabić hetaje tut." />
+    <string id="tutorial_enableonmap1" text="Uklučyć na Mapie" />
+    <string id="tutorial_enableonmap2" text="Chutkaja Rada: Kali vy žadajecie vykarystoŭvać Mieniu Palepšanaha Harnizonu padčas padarožža pa mapie, vy možacie zrabić hetaje knopkaj." />
+    <string id="tutorial_configmanager1" text="Kiraŭnik Kanfihuracyjaŭ" />
+    <string id="tutorial_configmanager2" text="Kiraŭnik Kanfihuracyjaŭ Palepšanaha Harnizonu dastupny zaŭždy na mapie (naciśnicie [levy ALT] + [G]). {newline} {newline}Tut vy možacie naładzić šmatlikija značeńni modaŭ pa svaim žadańni. Naprykład, vy možacie:{newline}> Źmianić dośvied štodzionnaj rychtoŭli{newline}> źnizić vydatki na vašuju Vartu i Harnizony{newline}> Pavialičyć chutkaść rekrutavańnia vašych pałonnych{newline}> Zahruzić modul zboru ježy{newline}> Aktyvavać mod dla frakcyjaŭ NHP{newline}> Źmianić značeńni pa zmoŭčańni, jakija ŭstaloŭajucca dla novych atrymanych vołaściaŭ{newline}> Aktyvavać nałady čytoŭ{newline}> ... i mnohaje inšaje!" />    
+    <string id="tutorial_thankyou" text="Iii vy zaviaršyli hetaje navučańnie!!! :-){newline} {newline}Ja asabista žadaju padziakavać vas za vykarystańnie Palepšanaha Harnizonu! Ja vydatkavaŭ nieźličonyja hadziny pracy na hety prajekt, i rady bačyć, što mnohim ludziam padabajecca moj mod - heta sapraŭdy cudoŭna.{newline} {newline}Kali vam spadabałasia maja praca, było b vydatna atrymać ad vas vodhuk. Nie zabudźcie pakinuć kamientar i łajk na staroncy Nexus Mod. I kali vy žadajecie padtrymać maju pracu, možacie achviaravać mnie kavu dla maich poznych načnych siesij raspracoŭki :-){newline} {newline}Cudoŭnych pryhodaŭ u Mount and Blade {newline} ~ Sidies" />
+    
+    <!-- SECTION tips -->
+    <string id="tipstext" text="Rady" />
+    <string id="tips_tip1" text="Palepšany Harnizon moža rekrutavać i rychtavać vajaroŭ dla vas." />
+    <string id="tips_tip2" text="Varta moža dałučacca da vas padčas abłohaŭ." />
+    <string id="tips_tip3" text="Šabłon rychtoŭli vykarystoŭvajecca dla vyznačeńnia metaŭ palapšeńnia Palepšanaha Harnizonu." />
+    <string id="tips_tip4" text="Nacisk pa vyjavie ŭ padziele ahladu pačynaje adsočvańnie vioski ci sielišča." />
+    <string id="tips_tip5" text="Nałady Palepšanaha Harnizonu mohuć być skapijavany ŭ inšy Palepšany Harnizon." />
+    <string id="tips_tip6" text="Kiraŭnik Kanfihuravańnia vykarystoŭvajecca dla źmienaŭ mnohich značeńniaŭ modaŭ. Jaho lha adkryć naciskam (ALT + G)." />
+    <string id="tips_tip7" text="Rekrutary mohuć aŭtamatyčna źbirać vajaroŭ dla vašaha ciapierašniaha šabłonu rychtoŭli." />
+    <string id="tips_tip8" text="Vydatki na partyju harnizonu lha adklučyć ŭ padziele čytoŭ kanfihuravańnia Palepšanaha Harnizonu." />
+    <string id="tips_tip9" text="Palepšany Harnizon moža aŭtamatyčna adpraŭlać partyju Varty dla abarony, atakavanych viosak." />
+    <string id="tips_tip10" text="Novaja partyja Varty moža aŭtamatyčna stvaracca paśla źniščeńnia." />
+
+    <!-- SECTION misc -->       
+    <string id="misc_costmodel_trainingcosts" text="Rychtoŭla Palepšanaha Harnizonu" />
+    <string id="misc_costmodel_recruitmentcosts" text="Rekrutavańnie Palepšanaha Harnizonu" />
+    <string id="misc_ig_onmapload" text="Palepšanyja Harnizony Zahružany." />
+    <string id="misc_deletepartiesmode" text="Režym vydaleńnia ŭsich partyjaŭ Palepšanaha Harnizonu aktyvavany i zaraz budzie vykanany." />
+    <string id="misc_update_title" text="Abnaŭleńnie Palepšanaha Harnizonu" />
+    <string id="misc_update_desc" text="~ Dziakuj za vykarystańnie Palepšanaha Harnizonu{newline} {newline}Apošniaje abnaŭleńnie maje novyja nałady kanfihuravańnia!{newline} {newline}Rekamiendujecca skinuć kanfihuracyju da značeńniaŭ pa zmoŭčańni. Inšym čynam novyja kanfihuracyi buduć ustalavany ŭ značeńnia false (chłuśnia) or 0.{newline} {newline}Vy zaŭždy možacie pravieryć kanfihuracyi modaŭ, nacisnuŭšy ALT + G. {newline} {newline}Pryjemnaj hulni! {newline}~ Sidies" />
+    <string id="misc_update_pass" text="Pravieru samastojna" />
+    <string id="misc_igname" text="Palepšany Harnizon" />
+    <string id="misc_guardwages" text="Vydatki varty" />
+    <string id="misc_guards" text="Varta" />
+    <string id="misc_costs" text="vydatki" />
+    <string id="misc_any" text="luby" /> 
+    <string id="misc_activ" text="aktyŭ" /> 
+    <string id="misc_next" text="Nastupny" /> 
+    <string id="misc_none" text="nijaki" /> 
+    <string id="misc_template" text="šabłon" /> 
+    <string id="misc_hour" text="h" /> 
+    
+  </strings>
+</base>
