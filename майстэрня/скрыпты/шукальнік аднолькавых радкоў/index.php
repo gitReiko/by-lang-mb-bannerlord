@@ -164,7 +164,7 @@ class RenderByFile
 
     private function is_eng_text_are_indentical($string, $inputString) : bool 
     {
-        if($string->eng == $inputString['text'])
+        if(trim($string->eng) == trim($inputString['text']))
         {
             return true;
         }
