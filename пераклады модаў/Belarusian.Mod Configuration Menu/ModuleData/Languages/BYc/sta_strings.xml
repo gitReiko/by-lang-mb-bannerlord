@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/BUTR/Bannerlord.XmlSchemas/master/ModuleLanguage.xsd">
+<base xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+      xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/BUTR/Bannerlord.XmlSchemas/master/ModuleLanguage.xsd" >
 
 
 
@@ -16,6 +17,7 @@
         <string id="FcR4BXnhx8" text="{MODULE} мае ўзаемавынятковыя ўказаньні загрузкі модаў, вызначаныя для {REQUIRED_MODULE}!" />
         <string id="eXs6FLm5DP" text="Настойліва рэкамендуецца завяршыць гульню цяпер. Вы жадаеце завяршыць яе?" />
         <string id="fGt6Gthg5y" text="Гэтая версія MCM прызначана прынамсі для v1.0.0! Вы выкарыстоўваеце {GAMEVERSION}!" />
+        
         <string id="MCMUISettings_Name" text="MCM КІ {VERSION}" />
         <string id="ModOptionsVM_NotSpecified" text="Мод Ня Мае Назвы" />
         <string id="ModOptionsVM_Name" text="Налады Модаў" />

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/BUTR/Bannerlord.XmlSchemas/master/ModuleLanguage.xsd">
+<base xmlns:xsi=http://www.w3.org/2001/XMLSchema-instance
+      xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/BUTR/Bannerlord.XmlSchemas/master/ModuleLanguage.xsd" >
 
 
 
@@ -16,6 +17,7 @@
         <string id="FcR4BXnhx8" text="{MODULE} maje ŭzajemavyniatkovyja ŭkazańni zahruzki modaŭ, vyznačanyja dla {REQUIRED_MODULE}!" />
         <string id="eXs6FLm5DP" text="Nastojliva rekamiendujecca zaviaršyć hulniu ciapier. Vy žadajecie zaviaršyć jaje?" />
         <string id="fGt6Gthg5y" text="Hetaja viersija MCM pryznačana prynamsi dla v1.0.0! Vy vykarystoŭvajecie {GAMEVERSION}!" />
+        
         <string id="MCMUISettings_Name" text="MCM KI {VERSION}" />
         <string id="ModOptionsVM_NotSpecified" text="Mod Nia Maje Nazvy" />
         <string id="ModOptionsVM_Name" text="Nałady Modaŭ" />
