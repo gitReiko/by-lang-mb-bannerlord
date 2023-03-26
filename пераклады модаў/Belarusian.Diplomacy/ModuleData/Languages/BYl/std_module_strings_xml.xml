@@ -1,23 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <strings>
+
+
+
     <string id="MYz8nKqq" text="Dypłamatyja" />
     <string id="hPERH3u4" text="Dypłamatyja zahružana" />
 
     <string id="TS1iV2pO" text="Brakuje ŭpłyvu!" />
     <string id="XQFxDr11" text="Isnuje aktyŭny kvest, jaki pieraškadžaje hetamu!" />
     <string id="ONNcmltF" text="Hetaja vajna doŭžycca niedastatkova, kab viesci pieramovy! Prajšło tolki {ELAPSED_DAYS} dzion z {REQUIRED_DAYS} patrebnych." />
+    <string id="GuPOCNNZ" text="Pieramirje było składziena zanadta niadaŭna, kab razhladać mahčymasć jaho parušennia zaraz! Prajšło tolki {ELAPSED_DAYS} dzion z patrabavanych {REQUIRED_DAYS} dzion." />
 
     <string id="v0cDMIcl" text="Nielha abviascić vajnu hetamu haspadarstvu. " />
     <string id="Pqk3WuGz" text="Nielha abviascić mir z hetym haspadarstvam. " />
     <string id="zv12jjyW" text="Pasłannik Adpraŭleny" />
     <string id="uy86VZX2" text="Pasłannik Prybyŭ" />
 
-    <string id="YnRmSele" text="Pasłannik ad {FACTION1_NAME} prybyŭ da {HERO_NAME} z {FACTION2_NAME}." />
-    <string id="qNWMZP0z" text="Pasłannik ad {FACTION1_NAME} prybudzie da {HERO_NAME} z {FACTION2_NAME} ciaham {TRAVEL_TIME} dzion." />
 
-    <string id="t0ZS9maD" text="{KINGDOM_LEADER} z haspadarstva {KINGDOM} prapanoŭvaje mir haspadarstvu {PLAYER_KINGDOM}." />
-    <string id="ZrwszZww" text=" Jany hatovyja płacić daninu {DENARS} denaraŭ." />
+    <string id="JmgAuONd" text="Jakoje niaščaście. Pasłańnik trapiŭ u zasadu i byŭ zjety Žoravami padčas sproby dabracca da {HERO_NAME}!" />
+    <string id="YnRmSele" text="Pasłannik ad {FACTION1_NAME} prybyŭ da {ADDRESSEE_TEXT}.{BRIBE_TEXT}." />
+    <string id="qNWMZP0z" text="Pasłannik ad {FACTION1_NAME} prybudzie da {ADDRESSEE_TEXT} ciaham {TRAVEL_TIME} dzion." />
+    <string id="nYrezEOX" text="Pasłannik zabity" />
+    <string id="A5lug0JY" text="Vašy pasłańnik trapiŭ u zasadu i byŭ zabity hrabiežnikami padčas sproby dabracca da {HERO_NAME}!" />
+    <string id="vGyBQeEk" text="{HERO_NAME}{?HAS_FACTION} z {FACTION2_NAME}{?}{\?}" />
+    <string id="sQxAljGF" text="{NEW_LINE} {NEW_LINE}Na žal, pasłańniku zabaranili ŭvachod ŭ zamak, ale jon moža pasprabavać padkupić vartaŭnikoŭ. Heta budzie kaštavać {?IS_FEMALE}joj{?}jamu{\?} {GOLD_COST}{GOLD_ICON} i vam daviadziecca pakryć vydatki {?CAN_AFFORD}.{?}, jakija vy nia možacie zaraz sabie dazvolić.{\?}" />
+
+    <string id="bLR91Eob" text="{REASON}Pasłańnik nia zmoža dabracca da adrasata." />
+    <string id="hPra5uwZ" text="Pasłańnik albo nie razumieje, albo jamu nie padabajecca vašy žart, tamu jon admaŭlajecca ad zadannia." />
+    <string id="1mlXBnSs" text="Vy zanadta drenna viedajecie {HERO_NAME}, kab rastłumačyć pasłańniku." />
+
+    <string id="vhsHDMil" text="{HERO_NAME} {?HERO_NAME.GENDER}pamiorła{?}pamior{\?}. " />
+    <string id="CusN2JMb" text="{HERO_NAME} {?HERO_NAME.GENDER}zapałoniena{?}zapałonieny{\?} {?IS_MOBILE}{?}u{\?} {DETENTION_PLACE}. " />
+    <string id="1BISlFYx" text="{HERO_NAME} {?HERO_NAME.GENDER}zbiehła i nie žadaje, kab jaje znašli.{?}zbieh i nie žadaje, kab jaho znašli.{\?}. " />
+    <string id="ze8KJ1oL" text="{HERO_NAME} tolki {?HERO_NAME.GENDER}vyzvaliłasia{?}vyzvaliŭsia{\?} z pałonu i pakul nie {?HERO_NAME.GENDER}hatovaja{?}hatovy{\?} sustrakacca. " />
+    <string id="N5T6IXWJ" text="{HERO_NAME} vandruje inkohnita. " />
+    <string id="3lknR86H" text="{HERO_NAME} zanadta {?HERO_NAME.GENDER}niedasviedčanaja{?}niedasviedčany{\?}, kab brać udzieł u aficyjnych sustrečach. " />
 
     <string id="BkGSVccZ" text="Prapanova Mira" />
     <string id="3fTqLwkC" text="Pryniać" />
@@ -28,11 +46,10 @@
     <string id="N06wk0dB" text="Sielišča Zachoplena" />
     <string id="Zy0yjTha" text="Vy zachapili {SETTLEMENT_NAME}, tamu majecie prava pieršaj admovy. Žadajecie vaładaryć nad hetaj vołasciu?" />
 
-    <string id="XmVTQ0bH" text="Stomlenasć ad Vajny" />
-
     <string id="IWZ91JVk" text="Brakuje zołata!" />
 
     <string id="LpoyhORp" text="Padaryć Vołasć" />
+    <string id="h3b1S5Wq" text="Padaryć Vołasć Kłanu {CLAN_NAME}" />
     <string id="jznJfkfU" text="Vołasć Padaravana" />
     <string id="cXbgaPSm" text="Vołasć {SETTLEMENT_NAME} była padaravana kłanu {CLAN_NAME}."/>
 

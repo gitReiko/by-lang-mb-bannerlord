@@ -1,23 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <strings>
+
+
+
     <string id="MYz8nKqq" text="Дыпламатыя" />
     <string id="hPERH3u4" text="Дыпламатыя загружана" />
 
     <string id="TS1iV2pO" text="Бракуе ўплыву!" />
     <string id="XQFxDr11" text="Існуе актыўны квэст, які перашкаджае гэтаму!" />
     <string id="ONNcmltF" text="Гэтая вайна доўжыцца недастаткова, каб весці перамовы! Прайшло толькі {ELAPSED_DAYS} дзён з {REQUIRED_DAYS} патрэбных." />
+    <string id="GuPOCNNZ" text="Перамір'е было складзена занадта нядаўна, каб разглядаць магчымасць яго парушэння зараз! Прайшло толькі {ELAPSED_DAYS} дзён з патрабаваных {REQUIRED_DAYS} дзён." />
 
     <string id="v0cDMIcl" text="Нельга абвясціць вайну гэтаму гаспадарству. " />
     <string id="Pqk3WuGz" text="Нельга абвясціць мір з гэтым гаспадарствам. " />
     <string id="zv12jjyW" text="Пасланнік Адпраўлены" />
     <string id="uy86VZX2" text="Пасланнік Прыбыў" />
 
-    <string id="YnRmSele" text="Пасланнік ад {FACTION1_NAME} прыбыў да {HERO_NAME} з {FACTION2_NAME}." />
-    <string id="qNWMZP0z" text="Пасланнік ад {FACTION1_NAME} прыбудзе да {HERO_NAME} з {FACTION2_NAME} цягам {TRAVEL_TIME} дзён." />
 
-    <string id="t0ZS9maD" text="{KINGDOM_LEADER} з гаспадарства {KINGDOM} прапаноўвае мір гаспадарству {PLAYER_KINGDOM}." />
-    <string id="ZrwszZww" text=" Яны гатовыя плаціць даніну {DENARS} дэнараў." />
+    <string id="JmgAuONd" text="Якое няшчасьце. Пасланьнік трапіў у засаду і быў з'еты Жоравамі падчас спробы дабрацца да {HERO_NAME}!" />
+    <string id="YnRmSele" text="Пасланнік ад {FACTION1_NAME} прыбыў да {ADDRESSEE_TEXT}.{BRIBE_TEXT}." />
+    <string id="qNWMZP0z" text="Пасланнік ад {FACTION1_NAME} прыбудзе да {ADDRESSEE_TEXT} цягам {TRAVEL_TIME} дзён." />
+    <string id="nYrezEOX" text="Пасланнік забіты" />
+    <string id="A5lug0JY" text="Вашы пасланьнік трапіў у засаду і быў забіты грабежнікамі падчас спробы дабрацца да {HERO_NAME}!" />
+    <string id="vGyBQeEk" text="{HERO_NAME}{?HAS_FACTION} з {FACTION2_NAME}{?}{\?}" />
+    <string id="sQxAljGF" text="{NEW_LINE} {NEW_LINE}На жаль, пасланьніку забаранілі ўваход ў замак, але ён можа паспрабаваць падкупіць вартаўнікоў. Гэта будзе каштаваць {?IS_FEMALE}ёй{?}яму{\?} {GOLD_COST}{GOLD_ICON} і вам давядзецца пакрыць выдаткі {?CAN_AFFORD}.{?}, якія вы ня можаце зараз сабе дазволіць.{\?}" />
+
+    <string id="bLR91Eob" text="{REASON}Пасланьнік ня зможа дабрацца да адрасата." />
+    <string id="hPra5uwZ" text="Пасланьнік альбо не разумее, альбо яму не падабаецца вашы жарт, таму ён адмаўляецца ад задання." />
+    <string id="1mlXBnSs" text="Вы занадта дрэнна ведаеце {HERO_NAME}, каб растлумачыць пасланьніку." />
+
+    <string id="vhsHDMil" text="{HERO_NAME} {?HERO_NAME.GENDER}памёрла{?}памёр{\?}. " />
+    <string id="CusN2JMb" text="{HERO_NAME} {?HERO_NAME.GENDER}запалонена{?}запалонены{\?} {?IS_MOBILE}{?}у{\?} {DETENTION_PLACE}. " />
+    <string id="1BISlFYx" text="{HERO_NAME} {?HERO_NAME.GENDER}збегла і не жадае, каб яе знашлі.{?}збег і не жадае, каб яго знашлі.{\?}. " />
+    <string id="ze8KJ1oL" text="{HERO_NAME} толькі {?HERO_NAME.GENDER}вызвалілася{?}вызваліўся{\?} з палону і пакуль не {?HERO_NAME.GENDER}гатовая{?}гатовы{\?} сустракацца. " />
+    <string id="N5T6IXWJ" text="{HERO_NAME} вандруе інкогніта. " />
+    <string id="3lknR86H" text="{HERO_NAME} занадта {?HERO_NAME.GENDER}недасведчаная{?}недасведчаны{\?}, каб браць удзел у афіцыйных сустрэчах. " />
 
     <string id="BkGSVccZ" text="Прапанова Міра" />
     <string id="3fTqLwkC" text="Прыняць" />
@@ -28,11 +46,10 @@
     <string id="N06wk0dB" text="Селішча Захоплена" />
     <string id="Zy0yjTha" text="Вы захапілі {SETTLEMENT_NAME}, таму маеце права першай адмовы. Жадаеце валадарыць над гэтай воласцю?" />
 
-    <string id="XmVTQ0bH" text="Стомленасць ад Вайны" />
-
     <string id="IWZ91JVk" text="Бракуе золата!" />
 
     <string id="LpoyhORp" text="Падарыць Воласць" />
+    <string id="h3b1S5Wq" text="Падарыць Воласць Клану {CLAN_NAME}" />
     <string id="jznJfkfU" text="Воласць Падаравана" />
     <string id="cXbgaPSm" text="Воласць {SETTLEMENT_NAME} была падаравана клану {CLAN_NAME}."/>
 
