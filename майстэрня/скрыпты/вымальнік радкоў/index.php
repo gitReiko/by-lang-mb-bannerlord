@@ -1,106 +1,294 @@
-<?php 
+<?php
 
-$xml = simplexml_load_file("file.xml") or die("Error: Cannot create object");
+// Error output
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
 
-$STRINGS = array();
+// Execution code
 
-parse_child_elements($xml);
+$main = new Main;
+$main->extract();
 
-print_xml_file_start();
-print_xml_rows();
-print_xml_file_end();
 
-// functions -----------------------------------------------
 
-function parse_child_elements($parent)
+// Classes & functions
+class Main 
 {
-    foreach($parent as $child)
+    const INPUT_DIR = 'input';
+
+    public function extract() : void
     {
-        foreach ($child->attributes() as $attribute) 
+        $elements = $this->get_folder_elements();
+
+        foreach($elements as $element)
         {
-            if(is_chunk_text_string($attribute))
+            if($this->is_element_folder($element))
             {
-                add_string_to_global_array($attribute);
+                //echo 'folder '.$element.'<hr>';
             }
 
-            parse_child_elements($attribute);
+            if($this->is_element_xml_file($element))
+            {
+                $pathToFile = self::INPUT_DIR.'/'.$element;
+                $reader = new InputXMLReader($pathToFile);
+                $strings = $reader->get_strings_from_input_file();
+
+
+                $writer = new OutputWriter($strings, $element);
+                $writer->create_translation_file();
+            }
         }
 
-        parse_child_elements($child);
+        //print_r($elements);
     }
+
+    private function get_folder_elements() : array 
+    {
+        $elements = scandir(self::INPUT_DIR);
+
+        if($elements)
+        {
+            return array_diff($elements, array('.', '..'));
+        }
+        else
+        {
+            return array();
+        }
+    }
+
+    private function is_element_folder(string $element) : bool 
+    {
+        return is_dir(self::INPUT_DIR.'/'.$element);
+    }
+
+    private function is_element_xml_file(string $element) : bool 
+    {
+        if(mb_stripos($element, '.xml') === false)
+        {
+            return false;
+        }
+        else 
+        {
+            return true;
+        }
+    }
+
 }
 
-function is_chunk_text_string($attribute)
+class InputXMLReader 
 {
-    $start = mb_substr($attribute, 0, 2);
+    private $error;
+    private $pathToFile;
+    private $strings;
 
-    if($start == '{=')
+    function __construct(string $pathToFile)
     {
-        return true;
+        $this->error = 'Error: Cannot open "'.$pathToFile.'" file';
+        $this->pathToFile = $pathToFile;
+        $this->strings = array();
     }
-    else
+
+    public function get_strings_from_input_file()
     {
-        return false;
+        $xml = simplexml_load_file($this->pathToFile) or die($this->error);
+        $this->parse_child_elements($xml);
+        $this->clear_strings();
+
+        return $this->strings;
     }
-}
 
-function add_string_to_global_array($attribute)
-{
-    global $STRINGS;
-
-    $string = form_text_string($attribute);
-
-    if(is_string_unique($string))
+    private function parse_child_elements($parent) : void 
     {
-        $STRINGS[] = $string;
+        foreach($parent as $child)
+        {
+            foreach ($child->attributes() as $attribute) 
+            {
+                if($this->is_chunk_text_string($attribute))
+                {
+                    $this->add_string_to_array($attribute);
+                }
+
+                $this->parse_child_elements($attribute);
+            }
+
+            $this->parse_child_elements($child);
+        }
     }
-}
 
-function form_text_string($attribute)
-{
-    $chunks = explode('}', $attribute, 2);
-
-    $string = new stdClass;
-    $string->id = trim($chunks[0], '{=');
-    $string->text = $chunks[1];
-
-    return $string;
-}
-
-function is_string_unique($string)
-{
-    global $STRINGS;
-
-    foreach($STRINGS as $value)
+    private function is_chunk_text_string($attribute) : bool 
     {
-        if($value->id === $string->id)
+        $start = mb_substr($attribute, 0, 2);
+    
+        if($start == '{=')
+        {
+            return true;
+        }
+        else
         {
             return false;
         }
     }
 
-    return true;
-}
-
-function print_xml_file_start() 
-{
-    echo '&#x2039;?xml version="1.0" encoding="utf-8"?&#x203A;<br>';
-    echo '&#x2039;base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string"&#x203A;<br>';
-    echo '&#x2039;strings&#x203A;<br>';
-}
-
-function print_xml_rows()
-{
-    global $STRINGS;
-
-    foreach($STRINGS as $string)
+    private function add_string_to_array($attribute) : void 
     {
-        echo '&#x2039;string id="'.$string->id.'" text="'.$string->text.' " /&#x203A;<br>';
+        $string = $this->form_text_string($attribute);
+    
+        if($this->is_string_unique($string))
+        {
+            $this->strings[] = $string;
+        }
     }
+
+    private function form_text_string($attribute) : stdClass 
+    {
+        $chunks = explode('}', $attribute, 2);
+    
+        $string = new stdClass;
+        $string->id = trim($chunks[0], '{=');
+        $string->text = $chunks[1];
+    
+        return $string;
+    }
+
+    private function is_string_unique($string) : bool 
+    {
+        foreach($this->strings as $value)
+        {
+            if($value->id === $string->id)
+            {
+                return false;
+            }
+        }
+    
+        return true;
+    }
+
+    private function clear_strings() : void 
+    {
+        $cleared = array();
+
+        foreach($this->strings as $string)
+        {
+            if($this->is_id_correct($string))
+            {
+                if($this->is_string_not_empty($string))
+                {
+                    $cleared[] = $string;
+                }
+            }
+        }
+
+        $this->strings = $cleared;
+    }
+
+    private function is_id_correct($string) : bool 
+    {
+        if(trim($string->id) === '!')
+        {
+            return false;
+        }
+        else if(trim($string->id) === '?')
+        {
+            return false;
+        }
+        else
+        {
+            return true;
+        }
+    }
+
+    private function is_string_not_empty($string) : bool 
+    {
+        if(isset($string->text))
+        {
+            if(empty($string->text))
+            {
+                return false;
+            }
+            else 
+            {
+                return true;
+            }
+        }
+        else 
+        {
+            return false;
+        }
+    }
+
 }
 
-function print_xml_file_end() 
+class OutputWriter 
 {
-    echo '&#x2039;/strings&#x203A;<br>';
-    echo '&#x2039;/base&#x203A;';
+    const OUTPUT_DIR = 'output';
+
+    private $fileName;
+    private $strings;
+
+    function __construct(array $strings, string $fileName)
+    {
+        $this->strings = $strings;
+        $this->fileName = $fileName;
+    }
+
+    public function create_translation_file() : void 
+    {
+        if($this->is_input_file_has_output_strings())
+        {
+            // header
+            $xml = new XMLWriter();
+            $xml->openMemory();
+            $xml->setIndent(2);
+            $xml->startDocument('1.0', 'UTF-8');
+            $xml->startElement('base');
+            $xml->writeAttribute('xmlns:xsi', 'http://www.w3.org/2001/XMLSchema-instance');
+            $xml->writeAttribute('xmlns:xsd', 'http://www.w3.org/2001/XMLSchema');
+            $xml->writeAttribute('type', 'string');
+            $xml->startElement('strings');
+
+            // body
+            foreach($this->strings as $string)
+            {
+                $xml->startElement('string');
+                $xml->writeAttribute('id', $string->id);
+                $xml->writeAttribute('text', $string->text);
+                $xml->endElement();
+            }
+
+            // footer
+            $xml->endElement();
+            $xml->endElement();
+
+            $this->write_xml_to_file($xml);
+        }
+    }
+
+    private function is_input_file_has_output_strings() : bool 
+    {
+        if(count($this->strings))
+        {
+            return true;
+        }
+        else 
+        {
+            return false;
+        }
+    }
+
+    private function write_xml_to_file(XMLWriter $xml)
+    {
+        $pathToFile = self::OUTPUT_DIR.'/'.$this->fileName;
+        $xmlFile = fopen($pathToFile, 'w') or die('Unable to open file `'.$pathToFile.'`!');
+        fwrite($xmlFile, $xml->outputMemory());
+        fclose($xmlFile);
+    }
+
 }
+
+
+
+
+
+
+
