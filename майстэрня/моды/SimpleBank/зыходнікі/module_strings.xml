@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+  <strings>
+    <string id="str_bankCoions" text="{=str_bankCoions}denaris" />
+    <string id="str_bankDistance" text="{=str_bankDistance}km" />
+    <string id="str_bankAccount" text="{=str_bankAccount}Account" />
+    <string id="str_bankTransfer" text="{=str_bankTransfer}Transfer" />
+    <string id="str_bankCaravans" text="{=str_bankCaravans}Caravans" />
+    <string id="str_bankFiefs" text="{=str_bankFiefs}Fiefs" />
+	<string id="str_bankAF" text="{=str_bankAF}Aurum Fodiens" />
+    <string id="str_bankDone" text="{=str_bankDone}Done" />
+    <string id="str_days" text ="{=str_days}days" />
+    <string id="str_purse" text ="{=str_purse}Purse:" />
+    <string id="str_saldo" text ="{=str_saldo}Balance:" />
+    <string id="str_dailychange" text ="{=str_dailychange}Daily change:" />
+    <string id="str_daysfromlastpayment" text ="{=str_daysfromlastpayment}Days from last payment:" />
+    <string id="str_canaccessmarket" text ="{=str_canaccessmarket}Can access market:" />
+    <string id="str_currentrent" text ="{=str_currentrent}Current rent:" />
+    <string id="str_currentinterest" text ="{=str_currentinterest}Current interest:" />
+    <string id="str_maxsingleloan" text ="{=str_maxsingleloan}Max single loan:" />
+    <string id="str_maxtotalloan" text ="{=str_maxtotalloan}Max total loan:" />
+    <string id="str_dobalancing" text ="{=str_dobalancing}Do balancing:" />
+    <string id="str_date" text ="{=str_date}Current date:" />
+    <string id="str_saldochange" text ="{=str_saldochange}Balance change" />
+    <string id="str_changebuttontext" text ="{=str_changebuttontext}Change" />
+    <string id ="str_bankSelectedLord" text ="{=str_bankSelectedLord}Selected Lord"/>
+    <string id ="str_bankSelectedLordName" text ="{=str_bankSelectedLordName}Name:"/>
+    <string id ="str_bankSelectedLordRelation" text ="{=str_bankSelectedLordRelation}Relation:"/>
+    <string id ="str_bankSelectedLordCanBarter" text ="{=str_bankSelectedLordCanBarter}Can barter:"/>
+    <string id ="str_bankDoPayment" text ="{=str_bankDoPayment}Send"/>
+    <string id ="str_bankDoMeet" text ="{=str_bankDoMeet}Meet"/>
+	<string id ="str_bankMyClan" text ="{=str_bankMyClan}My Clan influence:"/>
+	<string id ="str_bankSelectedClan" text ="{=str_bankSelectedClan}Selected Clan"/>
+	<string id ="str_bankSelectedClanName" text ="{=str_bankSelectedClanName}Clan:"/>
+	<string id ="str_bankSelectedClanInfluance" text ="{=str_bankSelectedClanInfluance}Influence:"/>
+	<string id ="str_bankDoInfluenceTransfer" text ="{=str_bankDoInfluenceTransfer}Transfer"/>
+	<string id ="str_bankDoInfluenceRise" text ="{=str_bankDoInfluenceRise}Rise"/>
+	<string id ="str_bankDoInfluenceLower" text ="{=str_bankDoInfluenceLower}Lower"/>
+	<string id ="str_bankCaravanLeader" text ="{=str_bankCaravanLeader}Leader:"/>
+    <string id ="str_bankCaravanNewLeaderButtonText" text ="{=str_bankCaravanNewLeaderButtonText}Change"/>
+    <string id ="str_bankCaravanChooseNewLeader" text ="{=str_bankCaravanChooseNewLeader}Choose new leader"/>
+    <string id ="str_bankCaravanNewDestinationButtonText" text ="{=str_bankCaravanNewDestinationButtonText}Change"/>
+    <string id ="str_bankCaravanChooseNewDestination" text ="{=str_bankCaravanChooseNewDestination}Choose new destination"/>
+    <string id ="str_bankCaravanHomeSettlement" text ="{=str_bankCaravanHomeSettlement}Home town:"/>
+    <string id ="str_bankCaravanHomeSettlementButtonText" text ="{=str_bankCaravanHomeSettlementButtonText}Change"/>
+    <string id ="str_bankCaravanChooseNewHomeSettlement" text ="{=str_bankCaravanChooseNewHomeSettlement}Choose new home settlement"/>
+    <string id ="str_bankCaravanLastVisitedSettlement" text ="{=str_bankCaravanLastVisitedSettlement}Last visited:"/>
+    <string id ="str_bankCaravanDestination" text ="{=str_bankCaravanDestination}Destination:"/>
+    <string id ="str_bankCaravanDistance" text ="{=str_bankCaravanDistance}Distance:"/>
+    <string id ="str_bankCaravanGold" text ="{=str_bankCaravanGold}Gold:"/>
+    <string id ="str_bankCaravanChangeGoldButtonText" text ="{=str_bankCaravanChangeGoldButtonText}Change"/>
+    <string id ="str_bankCaravanInsured" text ="{=str_bankCaravanInsured}Insured until:"/>
+    <string id ="str_bankCaravanExecuteInsure" text ="{=str_bankCaravanExecuteInsure}Insure caravan"/>
+    <string id ="str_bankCaravanExecuteInsureDescription" text ="{=str_bankCaravanExecuteInsureDescription}The caravan want be attacked for choosen amount of time."/>
+    <string id ="str_bankCaravanInsureCaravanButtonText" text ="{=str_bankCaravanInsureCaravanButtonText}Insure"/>
+    <string id ="str_bankCaravanTroops" text ="{=str_bankCaravanTroops}Troops"/>
+    <string id ="str_bankCaravanTroopsButtonText" text ="{=str_bankCaravanTroopsButtonText}Change"/>
+    <string id ="str_bankCaravanItems" text ="{=str_bankCaravanItems}Items"/>
+	<string id ="str_bankFiefSelectedFiefLoyalityText" text ="{=str_bankFiefSelectedFiefLoyalityText}Loyality:"/>
+    <string id ="str_bankFiefSelectedFief" text ="{=str_bankFiefSelectedFief}Selected fief"/>
+    <string id ="str_bankFiefSelectedFiefNameText" text ="{=str_bankFiefSelectedFiefNameText}Name:"/>
+    <string id ="str_bankFiefSelectedFiefHasRecruitsText" text ="{=str_bankFiefSelectedFiefHasRecruitsText}Has recruits:"/>
+    <string id ="str_bankFiefSelectedFiefWealthText" text ="{=str_bankFiefSelectedFiefWealthText}Wealth:"/>
+    <string id ="str_bankFiefDoPayment" text ="{=str_bankFiefDoPayment}Transfer"/>
+    <string id ="str_bankFiefDoVisit" text ="{=str_bankFiefDoVisit}Visit"/>
+    <string id ="str_bankFiefDoGiveAwayText" text ="{=str_bankFiefDoGiveAwayText}Give away"/>
+    <string id ="str_bankFiefSelectClanToGetFief" text ="{=str_bankFiefSelectClanToGetFief}Choose clan which shell receive selected fief"/>
+    <string id ="str_bankFiefSelectedFiefIsHomeSettlementText" text ="{=str_bankFiefSelectedFiefIsHomeSettlementText}Is home settlement"/>
+    <string id ="str_bankFiefDoChangeHomeSettlement" text ="{=str_bankFiefDoChangeHomeSettlement}Make home settlement"/>
+    <string id ="str_bankFiefSelectedFiefCultureText" text ="{=str_bankFiefSelectedFiefCultureText}Culture:"/>
+    <string id ="str_bankFiefDoChangeCulture" text ="{=str_bankFiefDoChangeCulture}Change"/>
+    <string id ="str_bankFiefInsuredUntilText" text ="{=str_bankFiefInsuredUntilText}Insured until:"/>
+    <string id ="str_bankFiefDoInsureSettlementText" text ="{=str_bankFiefDoInsureSettlementText}Insure"/>
+    <string id ="str_bankFiefDoInsureAllSettlementsText" text ="{=str_bankFiefDoInsureAllSettlementsText}Insure all villages"/>
+    <string id ="str_bankFiefExecuteInsure" text ="{=str_bankFiefExecuteInsure}Insure village"/>
+    <string id ="str_bankFiefExecuteInsureAll" text ="{=str_bankFiefExecuteInsureAll}Insure all villages"/>
+    <string id ="str_bankFiefExecuteInsureDescription" text ="{=str_bankFiefExecuteInsureDescription}The village will be rebuilded after raid."/>
+	<string id ="str_bankAFSuccessChance" text ="{=str_bankAFSuccessChance}Success chance:"/>
+	<string id ="str_bankAFDiscoveryChance" text ="{=str_bankAFDiscoveryChance}Discovery chance:"/>
+	<string id ="str_bankAFClanName" text ="{=str_bankAFClanName}Clan:"/>
+	<string id ="str_bankAFClanRelation" text ="{=str_bankAFClanRelation}Relation:"/>
+    <string id ="str_bankFiefDoRise" text ="{=str_bankFiefDoRise}Rise"/>
+	<string id ="str_bankFiefDoLower" text ="{=str_bankFiefDoLower}Lower"/>
+
+	<string id="str_trait_bankName" text="{=str_trait_bankName}Bankman"/>
+	<string id="str_trait_bankDescription" text="{=str_trait_bankDescription}Level of trust bank have towards you. It determinds the amount of experiance added to your trading skill."/>
+	<string id="str_trait.bank" text="{=str_trait}Bankman"/>
+	<string id="str_trait_name_bank.0" text="{=str_trait_name_bank0}Basic bank customer" />
+	<string id="str_trait_name_bank.1" text="{=str_trait_name_bank1}Bronze bank customer" />
+	<string id="str_trait_name_bank.2" text="{=str_trait_name_bank2}Silver bank customer" />
+	<string id="str_trait_name_bank.3" text="{=str_trait_name_bank3}Gold bank customer" />
+	<string id="str_trait_name_bank.4" text="{=str_trait_name_bank4}Platinium bank customer" />
+	  
+	<string id ="str_bankLevel" text ="{=str_bankLevel}Customer level"/>
+    <string id ="str_bankLevel0" text ="{=str_bankLevel0}Basic"/>
+    <string id ="str_bankLevel1" text ="{=str_bankLevel1}Bronze"/>
+    <string id ="str_bankLevel2" text ="{=str_bankLevel2}Silver"/>
+    <string id ="str_bankLevel3" text ="{=str_bankLevel3}Gold"/>
+    <string id ="str_bankLevel4" text ="{=str_bankLevel4}Platinium"/>
+    <string id ="fief_insurance_raid_completed_header" text ="{=fief_insurance_raid_completed_header}Message from your bank"/>
+    <string id ="fief_insurance_raid_completed_body" text ="{=fief_insurance_raid_completed_body}A letter is handed to you by a harald. You open it and reads: 
+ 
+Dear sir, due to act of raid on -=SETTLEMENT_NAME=- we hereby inform you that the village have been restored according to insurance policy.
+ 
+Sincerely -=BANK_NAME=-"/>
+  <string id ="fief_insurance_fieflost_header" text ="{=fief_insurance_fieflost_header}Message from your bank"/>
+  <string id ="fief_insurance_fieflost_body" text ="{=fief_insurance_fieflost_body}A letter is handed to you by a harald. You open it and reads: 
+ 
+Dear sir, due to your lost of -=SETTLEMENT_NAME=- and insured villages of -=VILLAGES_NAMES=- we hereby inform you that the total amount of -=AMOUNT=- will be paid out into your account to cover the lost.
+The insurances of lost fiefs will be canceled.
+ 
+Sincerely -=BANK_NAME=-"/>
+    <string id ="fief_insurance_fiegivenaway_header" text ="{=fief_insurance_fiegivenaway_header}Message from your bank"/>
+    <string id ="fief_insurance_fiefgivenaway_body" text ="{=fief_insurance_fiefgivenaway_body}A letter is handed to you by a harald. You open it and reads: 
+ 
+Dear sir, due to your actions regarding -=SETTLEMENT_NAME=- and insured villages of -=VILLAGES_NAMES=- we hereby inform you that the insurance policy is bound to the fief and is transvered to its new owner.
+ 
+Sincerely -=BANK_NAME=-"/>
+  </strings>

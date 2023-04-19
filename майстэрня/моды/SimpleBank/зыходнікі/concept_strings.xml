@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Concepts>
+	<Concept title="{=Birke_Bank_Encyclopedia_Main}{Birke_Bank_Encyclopedia_Main}" 
+          text="{=Birke_Bank_Encyclopedia_Explenation}Player have possibility to eighter deposit or loan coins from bank. All calculations are done on daily basises as 24 o'clock. Player have possibility to adjust rent, interest, maximum amount of borrowed coins and few other features through submodule configuration file. In case hero have debt, rents are collected from players purse. If hero doesnt have enaught coins, then rent is added to total debt. If hero does not pay at least 10% of debt within 5 days the possibility to make new loans is disabled. If hero does not pay at least 10% of debt within 10 days then possibility to trade in every city is disabled. If bank is able to balance weakest nation, then it will choose first kingdom which have less settlements. Then it will look into kingdoms nobels who have gold below specific value. Then it will devide the amount equally to all those nobels (first one get rest from division if any). The diferent tabs of bank are open as player deposit certain amount of coins:
+{newline}{newline}
+{newline}Account (unlocks at start) ctrl+1, ctrl+a,
+{newline}-Put money with interest
+{newline}-Borrow money with rent﻿
+{newline}
+{newline}Transaction (unlocks at 100 001) ctrl+2, ctrl+t
+{newline}-Send money to Lord
+{newline}-Meet lord who you ahve already met (at 1 000 001 meet all lords is enabled)
+{newline}-Filter lords by writing name or keywords (supported keywords are: 'kings', 'leaders', 'goldunder xx', 'goldover xx', 'relationunder xx', 'relationover xx')
+{newline}
+{newline}Caravans (unlocks at 500 001) ctrl+3, ctrl+c
+{newline}-Change leader
+{newline}-Change destination
+{newline}-Change troops
+{newline}-Change items
+{newline}-Give / take money from caravan
+{newline}-Check distanse to target city
+{newline}-See last visited town
+{newline}-Change home settlement
+{newline}-Buy free passage for certain amount of days
+{newline}
+{newline}Fiefs (unlocks at 1 000 001) ctrl+4, ctrl+f
+{newline}-See and change gold
+{newline}-Visit
+{newline}-See if there are avaible recruits
+{newline}-Give away fiefs to other clans
+{newline}-Filter owned fiefs by writing free text or using some of keywords (supported keywords are: 'castles', 'towns', 'recruits')
+{newline}-Change culture of controlled fief (troops will be changed AFTER 24h tick as the recalculation of troops is done in private function in core code).
+{newline}-Insure one village at time or all villages at once for certain amount of time.
+{newline}-See if there is quest, tournament and current amount of troops in settlements."
+          link_id="BANK_LINK"
+          group="GameObjects"
+          id="str_simple_bank" />
+</Concepts>
