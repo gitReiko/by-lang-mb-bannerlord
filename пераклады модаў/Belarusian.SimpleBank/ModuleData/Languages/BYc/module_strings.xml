@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+ <strings>
+  <string id="str_bankCoions" text="дэнараў"/>
+  <string id="str_bankDistance" text="км"/>
+  <string id="str_bankAccount" text="Рахунак"/>
+  <string id="str_bankTransfer" text="Перавод"/>
+  <string id="str_bankCaravans" text="Караваны"/>
+  <string id="str_bankFiefs" text="Воласьці"/>
+  <string id="str_bankAF" text="Аўрум Фодзіянс"/>
+  <string id="str_bankDone" text="Гатова"/>
+  <string id="str_days" text="дзён"/>
+  <string id="str_purse" text="Гаманец:"/>
+  <string id="str_saldo" text="Баланс:"/>
+  <string id="str_dailychange" text="Дзённая зьмена:"/>
+  <string id="str_daysfromlastpayment" text="Дзён з апошняй выплаты:"/>
+  <string id="str_canaccessmarket" text="Мае доступ да кірмашу:"/>
+  <string id="str_currentrent" text="Рэнта зараз:"/>
+  <string id="str_currentinterest" text="Адсотак зараз:"/>
+  <string id="str_maxsingleloan" text="Макс разавая выплата:"/>
+  <string id="str_maxtotalloan" text="Макс агульная выплата:"/>
+  <string id="str_dobalancing" text="Балансаваньне:"/>
+  <string id="str_date" text="Дата зараз:"/>
+  <string id="str_saldochange" text="Зьмена балансу"/>
+  <string id="str_changebuttontext" text="Зьмяніць"/>
+  <string id="str_bankSelectedLord" text="Абраць Шляхціча"/>
+  <string id="str_bankSelectedLordName" text="Імя:"/>
+  <string id="str_bankSelectedLordRelation" text="Адносіны:"/>
+  <string id="str_bankSelectedLordCanBarter" text="Можа бартаваць:"/>
+  <string id="str_bankDoPayment" text="Адправіць"/>
+  <string id="str_bankDoMeet" text="Сустрэць"/>
+  <string id="str_bankMyClan" text="Уплыў майго Клану:"/>
+  <string id="str_bankSelectedClan" text="Абраны Клан"/>
+  <string id="str_bankSelectedClanName" text="Клан:"/>
+  <string id="str_bankSelectedClanInfluance" text="Уплыў:"/>
+  <string id="str_bankDoInfluenceTransfer" text="Перавесьці"/>
+  <string id="str_bankDoInfluenceRise" text="Павысіць"/>
+  <string id="str_bankDoInfluenceLower" text="Зьнізіць"/>
+  <string id="str_bankCaravanLeader" text="Лідар:"/>
+  <string id="str_bankCaravanNewLeaderButtonText" text="Зьмяніць"/>
+  <string id="str_bankCaravanChooseNewLeader" text="Абраць новага лідара"/>
+  <string id="str_bankCaravanNewDestinationButtonText" text="Зьмяніць"/>
+  <string id="str_bankCaravanChooseNewDestination" text="Абраць новы накірунак"/>
+  <string id="str_bankCaravanHomeSettlement" text="Хатні горад:"/>
+  <string id="str_bankCaravanHomeSettlementButtonText" text="Зьмяніць"/>
+  <string id="str_bankCaravanChooseNewHomeSettlement" text="Абраць новае хатняе селішча"/>
+  <string id="str_bankCaravanLastVisitedSettlement" text="Апошні візіт:"/>
+  <string id="str_bankCaravanDestination" text="Прызначэньне:"/>
+  <string id="str_bankCaravanDistance" text="Адлегласьць:"/>
+  <string id="str_bankCaravanGold" text="Золата:"/>
+  <string id="str_bankCaravanChangeGoldButtonText" text="Зьмяніць"/>
+  <string id="str_bankCaravanInsured" text="Застрахавана да:"/>
+  <string id="str_bankCaravanExecuteInsure" text="Застрахаваць караван"/>
+  <string id="str_bankCaravanExecuteInsureDescription" text="Караван можа быць атакаваны цягам абранага часу."/>
+  <string id="str_bankCaravanInsureCaravanButtonText" text="Застрахаваць"/>
+  <string id="str_bankCaravanTroops" text="Ваяры"/>
+  <string id="str_bankCaravanTroopsButtonText" text="Зьмяніць"/>
+  <string id="str_bankCaravanItems" text="Прадметы"/>
+  <string id="str_bankFiefSelectedFiefLoyalityText" text="Лаяльнасьць:"/>
+  <string id="str_bankFiefSelectedFief" text="Абраная воласьць"/>
+  <string id="str_bankFiefSelectedFiefNameText" text="Назва:"/>
+  <string id="str_bankFiefSelectedFiefHasRecruitsText" text="Мае рэкрутаў:"/>
+  <string id="str_bankFiefSelectedFiefWealthText" text="Багацьце:"/>
+  <string id="str_bankFiefDoPayment" text="Перавесьці"/>
+  <string id="str_bankFiefDoVisit" text="Наведаць"/>
+  <string id="str_bankFiefDoGiveAwayText" text="Аддаць"/>
+  <string id="str_bankFiefSelectClanToGetFief" text="Абярыце клан, які атрымае абраную воласьць"/>
+  <string id="str_bankFiefSelectedFiefIsHomeSettlementText" text="Ці з'яўляецца хатнім селішчам"/>
+  <string id="str_bankFiefDoChangeHomeSettlement" text="Зрабіць хатнім селішчам"/>
+  <string id="str_bankFiefSelectedFiefCultureText" text="Культура:"/>
+  <string id="str_bankFiefDoChangeCulture" text="Зьмяніць"/>
+  <string id="str_bankFiefInsuredUntilText" text="Застрахавана да:"/>
+  <string id="str_bankFiefDoInsureSettlementText" text="Застрахаваць"/>
+  <string id="str_bankFiefDoInsureAllSettlementsText" text="Застрахаваць усе вёскі"/>
+  <string id="str_bankFiefExecuteInsure" text="Застрахаваць вёску"/>
+  <string id="str_bankFiefExecuteInsureAll" text="Застрахаваць усе вёскі"/>
+  <string id="str_bankFiefExecuteInsureDescription" text="Вёска будзе адноўлена пасьля грабежу."/>
+  <string id="str_bankAFSuccessChance" text="Шанец посьпеху:"/>
+  <string id="str_bankAFDiscoveryChance" text="Шанец адкрыцьця:"/>
+  <string id="str_bankAFClanName" text="Клан:"/>
+  <string id="str_bankAFClanRelation" text="Адносіны:"/>
+  <string id="str_bankFiefDoRise" text="Павысіць"/>
+  <string id="str_bankFiefDoLower" text="Зьнізіць"/>
+  <string id="str_trait_bankName" text="Кліент Банку"/>
+  <string id="str_trait_bankDescription" text="Узровень даверу банку да вас. Ён вызначае колькасьць досьведу, які дадаецца да вашагу навыку гандаль."/>
+  <string id="str_trait" text="Кліент Банку"/>
+  <string id="str_trait_name_bank0" text="Базавы кліент банку"/>
+  <string id="str_trait_name_bank1" text="Бронзавы кліент банку"/>
+  <string id="str_trait_name_bank2" text="Срэбны кліент банку"/>
+  <string id="str_trait_name_bank3" text="Залаты кліент банку"/>
+  <string id="str_trait_name_bank4" text="Плацінавы кліент банку"/>
+  <string id="str_bankLevel" text="Кліенцкі ровень"/>
+  <string id="str_bankLevel0" text="Базавы"/>
+  <string id="str_bankLevel1" text="Бронза"/>
+  <string id="str_bankLevel2" text="Срэбра"/>
+  <string id="str_bankLevel3" text="Золата"/>
+  <string id="str_bankLevel4" text="Плаціна"/>
+  <string id="fief_insurance_raid_completed_header" text="Паведамленьне ад вашага банку"/>
+  <string id="fief_insurance_raid_completed_body" text="Харальд уручае вам ліст. Вы адкрываеце яго і чытаеце:    {?PLAYER.GENDER}Шаноўная шляхцянка{?}Шаноўны шляхціч{\?}, з-за акта грабежніцтва -=SETTLEMENT_NAME=-, дадзеным мы паведамляем вам, што вёска адноўлена ў адпаведнасьці са страхавым полісам.   З павагай -=BANK_NAME=-"/>
+  <string id="fief_insurance_fieflost_header" text="Паведамленьне ад вашага банку"/>
+  <string id="fief_insurance_fieflost_body" text="Харальд уручае вам ліст. Вы адкрываеце яго і чытаеце:    
+  {?PLAYER.GENDER}Шаноўная шляхцянка{?}Шаноўны шляхціч{\?}, у сувязі са стратай -=SETTLEMENT_NAME=- і застрахаваных вёсак -=VILLAGES_NAMES=-, дадзеным мы паведамляем вам, што -=AMOUNT=- дэнараў будзе пералічана на вашы рахунак, каб пакрыць страты. Старахаваньне страчаных воласьцяў будзе анулявана.   З павагай -=BANK_NAME=-"/>
+  <string id="fief_insurance_fiegivenaway_header" text="Паведамленьне ад вашага банку"/>
+  <string id="fief_insurance_fiefgivenaway_body" text="Харальд уручае вам ліст. Вы адкрываеце яго і чытаеце:    {?PLAYER.GENDER}Шаноўная шляхцянка{?}Шаноўны шляхціч{\?}, у сувязі з вашымі дзеяньнямі да -=SETTLEMENT_NAME=- і застрахаваных вёсак -=VILLAGES_NAMES=-, дадзеным мы паведамляем вам, што страхавы поліс, зьвязаны з воласьцю, і пераходзе да яго новага уласьніка.   З павагай -=BANK_NAME=-"/>
+ </strings>
+</base>
