@@ -16,36 +16,54 @@ $main->extract();
 class Main 
 {
     const INPUT_DIR = 'input';
+    const SEPARATER = '/';
+
+    private $files = array();
 
     public function extract() : void
     {
-        $elements = $this->get_folder_elements();
+        $this->parse_child_elements(self::INPUT_DIR);
+
+        $merger = new FolderFilesMerger($this->files);
+        $this->files = $merger->get_merged_files();
+
+        foreach($this->files as $file)
+        {
+            $writer = new OutputWriter($file->content, $file->element);
+            $writer->create_translation_file();
+        }
+    }
+
+    private function parse_child_elements($folder)
+    {
+        $elements = $this->get_folder_elements($folder);
 
         foreach($elements as $element)
-        {
-            if($this->is_element_folder($element))
-            {
-                //echo 'folder '.$element.'<hr>';
-            }
+        {       
+            $pathToFile = $folder.self::SEPARATER.$element;
 
             if($this->is_element_xml_file($element))
             {
-                $pathToFile = self::INPUT_DIR.'/'.$element;
                 $reader = new InputXMLReader($pathToFile);
-                $strings = $reader->get_strings_from_input_file();
 
+                $file = new \stdClass;
+                $file->element = $element;
+                $file->pathToFile = $pathToFile;
+                $file->content = $reader->get_strings_from_input_file();
 
-                $writer = new OutputWriter($strings, $element);
-                $writer->create_translation_file();
+                $this->files[] = $file;
+            }
+
+            if($this->is_element_folder($folder, $element))
+            {
+                $this->parse_child_elements($pathToFile);
             }
         }
-
-        //print_r($elements);
     }
 
-    private function get_folder_elements() : array 
+    private function get_folder_elements($folder) : array 
     {
-        $elements = scandir(self::INPUT_DIR);
+        $elements = scandir($folder);
 
         if($elements)
         {
@@ -57,9 +75,9 @@ class Main
         }
     }
 
-    private function is_element_folder(string $element) : bool 
+    private function is_element_folder(string $folder, string $element) : bool 
     {
-        return is_dir(self::INPUT_DIR.'/'.$element);
+        return is_dir($folder.self::SEPARATER.$element);
     }
 
     private function is_element_xml_file(string $element) : bool 
@@ -219,6 +237,160 @@ class InputXMLReader
 
 }
 
+class FolderFilesMerger 
+{
+    const COMMENT = '×§§×comment×§§×';
+
+    private $files;
+    private $merged = array();
+
+    function __construct($files)
+    {
+        $this->files = $files;
+        $this->merge_folder_files();
+        $this->unique_strings_for_all_files();
+    }
+
+    public function get_merged_files() : array 
+    {
+        return $this->merged;
+    }
+
+    private function merge_folder_files()
+    {
+        foreach($this->files as $file)
+        {
+            if($this->is_file_not_empty($file))
+            {
+                if($this->is_file_in_folder($file))
+                {
+                    $file->element = $this->get_file_element($file);
+    
+                    if($this->is_file_exists($file->element))
+                    {
+                        $this->add_new_strings_to_file($file, $file->element);
+                    }
+                    else 
+                    {
+                        // add comment string 
+                        $file->content = array_merge(
+                            $this->get_strings_comment($file),
+                            $file->content
+                        );
+    
+                        $this->merged[] = $file;
+                    }
+                }
+                else
+                {
+                    $this->merged[] = $file;
+                }
+            }
+        }
+    }
+
+    private function is_file_not_empty(\stdClass $file) : bool 
+    {
+        if(count($file->content) > 0) 
+        {
+            return true;
+        }
+        else 
+        {
+            return false;
+        }
+    }
+
+    private function is_file_in_folder(\stdClass $file) : bool 
+    {
+        $folderCount = mb_substr_count($file->pathToFile, Main::SEPARATER);
+
+        if($folderCount > 1)
+        {
+            return true;
+        }
+        else 
+        {
+            return false;
+        }
+    }
+
+    private function get_file_element(\stdClass $file) : string 
+    {
+        $chunks = explode(Main::SEPARATER, $file->pathToFile);
+
+        return $chunks[1];
+    }
+
+    private function is_file_exists(string $fileElement) : bool 
+    {
+        foreach($this->merged as $merg)
+        {
+            if($merg->element == $fileElement)
+            {
+                return true;
+            }
+        } 
+
+        return false;
+    }
+
+    private function add_new_strings_to_file(\stdClass $file, string $newElement) : void 
+    {
+        foreach($this->merged as $merg)
+        {
+            if($merg->element == $newElement)
+            {
+                $merg->content = array_merge(
+                    $merg->content, 
+                    $this->get_strings_comment($file),
+                    $file->content
+                );
+            }
+        }
+    }
+
+    private function get_strings_comment(\stdClass $file) : array   
+    {
+        $comment = new \stdClass;
+        $comment->id = self::COMMENT;
+        $comment->text = $file->pathToFile;
+        return array($comment);
+    }
+
+    private function unique_strings_for_all_files() : void 
+    {
+        foreach($this->merged as $merg)
+        {
+            $unique = array();
+    
+            foreach($merg->content as $string)
+            {
+                if($this->is_string_unique($unique, $string))
+                {
+                    $unique[] = $string;
+                }
+            }
+    
+            $merg->content = $unique;
+        }
+    }
+
+    private function is_string_unique(array $unique, \stdClass $string) : bool 
+    {
+        foreach($unique as $value)
+        {
+            if(($value->id == $string->id) && ($string->id != self::COMMENT))
+            {
+                return false;
+            }
+        }
+
+        return true;
+    }
+
+}
+
 class OutputWriter 
 {
     const OUTPUT_DIR = 'output';
@@ -250,10 +422,19 @@ class OutputWriter
             // body
             foreach($this->strings as $string)
             {
-                $xml->startElement('string');
-                $xml->writeAttribute('id', $string->id);
-                $xml->writeAttribute('text', $string->text);
-                $xml->endElement();
+                if($string->id == FolderFilesMerger::COMMENT)
+                {
+                    $xml->startComment();
+                    $xml->text($string->text);
+                    $xml->endComment();
+                }
+                else
+                {
+                    $xml->startElement('string');
+                    $xml->writeAttribute('id', $string->id);
+                    $xml->writeAttribute('text', $string->text);
+                    $xml->endElement();
+                }
             }
 
             // footer
@@ -278,7 +459,7 @@ class OutputWriter
 
     private function write_xml_to_file(XMLWriter $xml)
     {
-        $pathToFile = self::OUTPUT_DIR.'/'.$this->fileName;
+        $pathToFile = self::OUTPUT_DIR.Main::SEPARATER.$this->fileName;
         $xmlFile = fopen($pathToFile, 'w') or die('Unable to open file `'.$pathToFile.'`!');
         fwrite($xmlFile, $xml->outputMemory());
         fclose($xmlFile);
