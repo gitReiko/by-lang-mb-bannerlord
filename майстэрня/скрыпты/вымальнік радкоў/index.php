@@ -264,7 +264,7 @@ class FolderFilesMerger
             {
                 if($this->is_file_in_folder($file))
                 {
-                    $file->element = $this->get_file_element($file);
+                    $file->element = $this->get_file_element($file).'.xml';
     
                     if($this->is_file_exists($file->element))
                     {
