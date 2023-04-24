@@ -15,6 +15,8 @@
 
 [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2875208329)
 
+[Patreon](https://patreon.com/Reiko651)
+
 ## Усталёўка пераклада гульні
 
 1. Скапіяваць тэчку «Belarusian» патрэбнай версіі з тэчкі «пераклады гульні» у тэчку «~шлях да тэчкі гульні/Modules»
