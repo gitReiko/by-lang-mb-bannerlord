@@ -84,19 +84,22 @@
     <string id="KSC_Text066" text="Only Rule"/>
     <string id="KSC_Text067" text="Toggle the ability to command the parties only as ruler. You will always be able to command the parts of your clan ruling the realm or not"/>
     <string id="KSC_Text068" text="Allow Mercenaries"/>
-    <string id="KSC_Text069" text="Toggle the ability to command groups from other clans as mercenaries."/> 
+    <string id="KSC_Text069" text="Toggle the ability to command groups from other clans as mercenaries."/>
+    <string id="KSC_Text068a" text="Use (Party AI Command Overhaul) Module"/>
+    <string id="KSC_Text069a" text="Using Module (Ai Party and Command Overhaul)"/>    
     
     <!--  Caixas de Textos -->
     
     <string id="KSC_Text070" text="{NAME}'S ARMY HAS BEEN INTERCIPITED, MISSION ABANDONED!!."/>
     <string id="KSC_Text071" text="Influence spent, {CFP_INFLUENCE_COST} has been Regained!!"/>
-    <string id="KSC_Text072" text="Exassion !!!"/>
+    <string id="KSC_Text072" text="Exhaustion !!!"/>
     <string id="KSC_Text073" text="A Messenger has arrived saying that the Army of {NAME} is low on troops and needs to Disband, Lord {NAME} regrets this situation has rewarded you and abandoned the quest."/>
     <string id="KSC_Text074" text="Disband the troops."/>
     <string id="KSC_Text075" text="Continue with the troops."/>
     <string id="KSC_Text076" text="Interception!!!"/>
     <string id="KSC_Text077" text="A Messenger arrived saying that {NAME}'s Army was intercepted by the enemy during the journey. The army was demoralized and abandoned the mission. The lord {NAME} said awaits you in the future!!!."/>
     <string id="KSC_Text078" text="disband the troops"/>
+    <string id="KSC_Text078a" text="Stay And Fight!"/>
     <string id="KSC_Text079" text="Victory !!!"/>
     <string id="KSC_Text080" text="A messenger has arrived informing you that the Army of {NAME} has taken the city!! (We gained 100 Influence and 10 Renown) , The Lord wants to know what to do with the Army?."/>
     <string id="KSC_Text081" text="Disband Army."/>
@@ -109,6 +112,44 @@
     <string id="KSC_Text088" text="A Messenger arrived saying that {NAME}'s Army was ambushed by the enemy during the siege. The army panicked and disbanded. Lord {NAME} sent to tell you that he had not forgotten. His strategy was disastrous!!!, How do you want to act?."/>
     <string id="KSC_Text089" text="Pay (50,000) for losses."/>
     <string id="KSC_Text090" text="Do not respond, -20 to renown"/>
+    <string id="KSC_Text091" text="Scattered !!!"/>
+    <string id="KSC_Text092" text="{NAME} troop has been disbanded!!"/>
+    <string id="KSC_Text093" text="OK."/>
+    <string id="KSC_Text094" text="Sobre Cerco!!"/>
+    <string id="KSC_Text095" text="O Exército de {ARMY}, recebeu um mensageiro dizendo que a cidade de {CITY}, esta sendo sitiada por outro exército, o que deseja fazer ?"/>
+    <string id="KSC_Text096" text="Dispensar Exército"/>
+    <string id="KSC_Text097" text="Deixar o Exército Decidir"/>
+    <string id="KSC_Text098" text="Fim do Cerco!!"/>
+    <string id="KSC_Text099" text="Um mensageiro trouxe noticias sobre o cerco de {CITY} sobre o comando de {NAME} infelizmente não adquiriu a cidade, sem espólios de guerra!!"/>
+    <string id="KSC_Text100" text="Dispensar Exército"/>
+    <string id="KSC_Text101" text="Deixar o Exército Decidir"/>
+
+    <string id="KSC_Text102" text="Exaustão da Escolta !!"/>
+    <string id="KSC_Text103" text="Um mensageiro chegou trazendo uma mensagem que o grupo de {NAME} esta sofrendo de exaustão, e esta se liberando do serviço.  Recompense-o por seus serviços  ou ignore-o. sua decisão afeta seu renome."/>
+    <string id="KSC_Text104" text="Pagar 1000 Ouro (Ganha 10 Renome)"/>
+    <string id="KSC_Text105" text="Ignorá-lo (Perde 10 Renome)"/>
+
+    <string id="KSC_Text106" text="Derrota na Defesa de {CITY}!!!"/>
+    <string id="KSC_Text107" text="Um soldado ferido chegou trazendo uma noticia de que o grupo de {NAME} foi derrotado na defesa da cidade {CITY}, como devemos agir ?"/>
+    <string id="KSC_Text108" text="Pagar 10000 Ouro (Ganha 10 Renome)"/>
+    <string id="KSC_Text109" text="Ignorá-lo (Perde 10 Renome)"/>
+
+    <string id="KSC_Text110" text="Passou o tempo de Defesa !!!"/>
+    <string id="KSC_Text111" text="Depois de muito tempo o grupo de {NAME} não vê mais a necessidade de defender {CITY}, e partiu para outra missão!!!"/>
+    <string id="KSC_Text112" text="Pagar 5.000 de Ouro "/>
+    <string id="KSC_Text113" text="Obrigado pelo por seu tempo.."/>
+
+    <string id="KSC_Text114" text="O grupo de defesa foi interceptado!!!"/>
+    <string id="KSC_Text115" text="Um viajante chegou com um ferido, é um soldado do grupo de {NOME} que se dirigiam em defesa de {CITY}, ele diz que foram intercetados pelos inimigos, qual é a sua ação?"/>
+    <string id="KSC_Text116" text="Pague 5.000 pelos feridos."/>
+    <string id="KSC_Text117" text="Lamento pelos mortos..."/>
+    <string id="KSC_Text118" text="I {NAME} come to inform you that we did not arrive in time for the defense of the city of {CITY}, we mourn for the loss of the city!"/>
+    <string id="KSC_Text119" text="OK"/>
+    <string id="KSC_Text120" text="We Lost the City of {CITY} !!"/>
+
+    <string id="KSC_IncrRelation" text="Sua relação aumentou em {RELATION_VALUE} com o nobre {NAME}."/>
+    <string id="KSC_DecrRelation" text="Sua relação diminuiu em {RELATION_VALUE} com o nobre {NAME}."/>
+    
     <string id="KSC_Start" text="Loading"/>
     
 
