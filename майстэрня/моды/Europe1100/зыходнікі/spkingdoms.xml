@@ -46,19 +46,26 @@
   <string id="germany_kingdom_title" text="Holy Roman Empire"/>
   <string id="germany_ruler_title" text="Emperor"/>
   <string id="german_kingdom_text" text="Holy Roman Empire history text."/>
-  <string id="Republic of Venice" text="Republic of Venice"/>
-  <string id="Venetians" text="Venetians"/>
-  <string id="Doge" text="Doge"/>
-  <string id="venetian_kingdom_text" text="Venetian history text.."/>
-  <string id="Kingdom of Norway" text="Kingdom of Norway"/>
-  <string id="Norwegians" text="Norwegians"/>
-  <string id="King" text="King"/>
-  <string id="norwegian_kingdom_text" text="Norwegian history text.."/>
-  <string id="Kingdom of Sweden" text="Kingdom of Sweden"/>
-  <string id="Swedes" text="Swedes"/>
-  <string id="swedish_kingdom_text" text="Swedish history text.."/>
-  <string id="Kingdom of Denmark" text="Kingdom of Denmark"/>
-  <string id="Danes" text="Danes"/>
+  <string id="venice_republic_name" text="Republic of Venice"/>
+  <string id="venice_republic_short_name" text="Venetians"/>
+  <string id="venice_republic_title" text="Republic of Venice"/>
+  <string id="venice_ruler_title" text="Doge"/>
+  <string id="venice_republic_text" text="Venetian history text.."/>
+  <string id="norway_kingdom_name" text="Kingdom of Norway"/>
+  <string id="norway_kingdom_short_name" text="Norwegians"/>
+  <string id="norway_kingdom_title" text="Kingdom of Norway"/>
+  <string id="norway_ruler_title" text="King"/>
+  <string id="norway_kingdom_text" text="Norwegian history text.."/>
+  <string id="sweden_kingdom_name" text="Kingdom of Sweden"/>
+  <string id="sweden_kingdom_short_name" text="Swedes"/>
+  <string id="sweden_kingdom_title" text="Kingdom of Sweden"/>
+  <string id="sweden_ruler_title" text="King"/>
+  <string id="sweden_kingdom_text" text="Swedish history text.."/>
+  <string id="denmark_kingdom_name" text="Kingdom of Denmark"/>
+  <string id="denmark_kingdom_short_name" text="Danes"/>
+  <string id="denmark_kingdom_title" text="Kingdom of Denmark"/>
+  <string id="denmark_ruler_title" text="King"/>
+  <string id="denmark_kingdom_text" text="Danish history text.."/>
   <string id="polish_kingdom_name" text="Duchy of Poland"/>
   <string id="polish_kingdom_short_name" text="Poles"/>
   <string id="polish_kingdom_title" text="Duchy of Poland"/>
@@ -69,32 +76,45 @@
   <string id="hungarian_kingdom_title" text="Kingdom of Hungary"/>
   <string id="hungarian_ruler_title" text="King"/>
   <string id="hungarian_kingdom_text" text="Hungarian history text."/>
-  <string id="The Papal States" text="The Papal States"/>
-  <string id="Papal States" text="Papal States"/>
-  <string id="Pope" text="Pope"/>
-  <string id="papal_states_kingdom_text" text="Papal States history text.."/>
-  <string id="The Kingdom of Sicily" text="The Kingdom of Sicily"/>
-  <string id="Sicilians" text="Sicilians"/>
+  <string id="papal_states_name" text="The Papal States"/>
+  <string id="papal_states_short_name" text="Papal States"/>
+  <string id="papal_states_title" text="The Papal States"/>
+  <string id="papal_ruler_title" text="Pope"/>
+  <string id="papal_states_text" text="Papal States history text.."/>
+  <string id="sicily_kingdom_name" text="The Kingdom of Sicily"/>
+  <string id="sicily_kingdom_short_name" text="Sicilians"/>
+  <string id="sicily_kingdom_title" text="The Kingdom of Sicily"/>
+  <string id="sicily_ruler_title" text="King"/>
   <string id="sicily_kingdom_text" text="The Kingdom of Sicily history text.."/>
-  <string id="The Byzantine Empire" text="The Byzantine Empire"/>
-  <string id="Byzantines" text="Byzantines"/>
-  <string id="Emperor" text="Emperor"/>
-  <string id="byzantine_kingdom_text" text="Byzantine history text.."/>
-  <string id="The Byzantines" text="Cumans"/>
-  <string id="ECM_ayyubidfaction" text="The Fatimid Caliphate"/>
-  <string id="ECM_ayyubidmembers" text="Fatimid Caliphate"/>
-  <string id="ECM_ayyubidtitle" text="The Fatimid Caliphate"/>
-  <string id="ECM_ayyubidrulertitle" text="Caliph"/>
-  <string id="ECM_ayyubidtext" text="The Fatimid Caliphate was an Ismaili Shi'a caliphate extant from the tenth to the twelfth centuries AD. Spanning a large area of North Africa, it ranged from the Atlantic Ocean in the west to the Red Sea in the east. The Fatimids, a dynasty of Arab origin, trace their ancestry to Muhammad's daughter Fatima and her husband Ali b. Abi Talib, the first Shi‘a imam. The Fatimids were acknowledged as the rightful imams by different Isma‘ili communities, but also in many other Muslim lands, including Persia and the adjacent regions. Originating during the Abbasid Caliphate, the Fatimids conquered Tunisia and established the city of al-Mahdiyya. The Ismaili dynasty ruled territories across the Mediterranean coast of Africa and ultimately made Egypt the center of the caliphate. At its height, the caliphate included – in addition to Egypt – varying areas of the Maghreb, Sudan, Sicily, the Levant, and the Hijaz."/>
-  <string id="The Crusader States" text="The Crusader States"/>
-  <string id="Crusader States" text="Crusader States"/>
-  <string id="crusader_states_kingdom_text" text="The Crusader States, also known as Outremer, were four Catholic realms in the Middle East that lasted from 1098 to 1291. These feudal polities were created by the Latin Catholic leaders of the First Crusade through conquest and political intrigue. The four states were the County of Edessa the Principality of Antioch, the County of Tripoli, and the Kingdom of Jerusalem. The Kingdom of Jerusalem covered what is now Israel and Palestine, the West Bank, the Gaza Strip, and adjacent areas. The other northern states covered what are now Syria, south-eastern Turkey, and Lebanon. The description Crusader states can be misleading, as from 1130 very few of the Frankish population were crusaders. The term Outremer, used by medieval and modern writers as a synonym, is derived from the French for overseas."/>
-  <string id="The Seljuk Empire" text="The Seljuk Empire"/>
-  <string id="Seljuk Empire" text="Seljuk Empire"/>
-  <string id="Sultan" text="Sultan"/>
+  <string id="byzantine_empire_name" text="The Byzantine Empire"/>
+  <string id="byzantine_empire_short_name" text="Byzantines"/>
+  <string id="byzantine_empire_title" text="The Byzantine Empire"/>
+  <string id="byzantine_ruler_title" text="Emperor"/>
+  <string id="byzantine_empire_text" text="Byzantine history text.."/>
+  <string id="cuman_khanate_name" text="The Cuman Khanate"/>
+  <string id="cuman_khanate_short_name" text="Cumans"/>
+  <string id="cuman_khanate_title" text="The Cuman Khanate"/>
+  <string id="cuman_ruler_title" text="Khan"/>
+  <string id="cuman_khanate_text" text="The Cumans were a Turkic nomadic people from Central Asia, comprising the western branch of the Cuman–Kipchak confederation who spoke the Cuman language. After the Mongol invasion, many sought asylum in the Kingdom of Hungary, as many Cumans had settled in Hungary, the Second Bulgarian Empire playing an important role in the development of the state. Cumans played also an important role in the Byzantine Empire, the Latin Empire, and the Nicaea Empire's Anatolia. Related to the Pecheneg, they inhabited a shifting area north of the Black Sea and along the Volga River known as Cumania, from which the Cuman–Kipchaks meddled in the politics of the Caucasus and the Khwarazmian Empire. The Cumans were fierce and formidable nomadic warriors of the Eurasian Steppe who exerted an enduring influence on the medieval Balkans. They were numerous, culturally sophisticated, and militarily powerful."/>
+  <string id="fatimid_caliphate_name" text="The Fatimid Caliphate"/>
+  <string id="fatimid_caliphate_short_name" text="Fatimid Caliphate"/>
+  <string id="fatimid_caliphate_title" text="The Fatimid Caliphate"/>
+  <string id="fatimid_ruler_title" text="Caliph"/>
+  <string id="fatimid_caliphate_text" text="The Fatimid Caliphate was an Ismaili Shi'a caliphate extant from the tenth to the twelfth centuries AD. Spanning a large area of North Africa, it ranged from the Atlantic Ocean in the west to the Red Sea in the east. The Fatimids, a dynasty of Arab origin, trace their ancestry to Muhammad's daughter Fatima and her husband Ali b. Abi Talib, the first Shi‘a imam. The Fatimids were acknowledged as the rightful imams by different Isma‘ili communities, but also in many other Muslim lands, including Persia and the adjacent regions. Originating during the Abbasid Caliphate, the Fatimids conquered Tunisia and established the city of al-Mahdiyya. The Ismaili dynasty ruled territories across the Mediterranean coast of Africa and ultimately made Egypt the center of the caliphate. At its height, the caliphate included – in addition to Egypt – varying areas of the Maghreb, Sudan, Sicily, the Levant, and the Hijaz."/>
+  <string id="crusader_states_name" text="The Crusader States"/>
+  <string id="crusader_states_short_name" text="Crusader States"/>
+  <string id="crusader_states_title" text="The Crusader States"/>
+  <string id="crusader_ruler_title" text="King"/>
+  <string id="crusader_states_text" text="The Crusader States, also known as Outremer, were four Catholic realms in the Middle East that lasted from 1098 to 1291. These feudal polities were created by the Latin Catholic leaders of the First Crusade through conquest and political intrigue. The four states were the County of Edessa the Principality of Antioch, the County of Tripoli, and the Kingdom of Jerusalem. The Kingdom of Jerusalem covered what is now Israel and Palestine, the West Bank, the Gaza Strip, and adjacent areas. The other northern states covered what are now Syria, south-eastern Turkey, and Lebanon. The description Crusader states can be misleading, as from 1130 very few of the Frankish population were crusaders. The term Outremer, used by medieval and modern writers as a synonym, is derived from the French for overseas."/>
+  <string id="seljuk_empire_name" text="The Seljuk Empire"/>
+  <string id="seljuk_empire_short_name" text="Seljuk Empire"/>
+  <string id="seljuk_empire_title" text="The Seljuk Empire"/>
+  <string id="seljuk_ruler_title" text="Sultan"/>
   <string id="seljuk_empire_text" text="The Great Seljuk Empire was a high medieval, culturally Turko-Persian, Sunni Muslim empire, founded and ruled by the Qïnïq branch of Oghuz Turks. It spanned a total area of 3.9 million square kilometres from Anatolia and the Levant in the west to the Hindu Kush in the east, and from Central Asia in the north to the Persian Gulf in the south."/>
-  <string id="The Sultanate of Rum" text="The Sultanate of Rum"/>
-  <string id="Sultanate of Rum" text="Sultanate of Rum"/>
-  <string id="rum_text" text="The Sultanate of Rum was a culturally Turco-Persian Sunni Muslim state, established over conquered Byzantine territories and peoples of Anatolia by the Seljuk Turks following their entry into Anatolia after the Battle of Manzikert (1071). The name Rûm was a synonym for the medieval Eastern Roman Empire and its peoples, as it remains in modern Turkish. The Sultanate of Rum seceded from the Great Seljuk Empire under Suleiman ibn Qutalmish in 1077, just six years after the Byzantine provinces of central Anatolia were conquered at the Battle of Manzikert (1071). It had its capital first at Nicaea and then at Iconium."/>
+  <string id="rum_sultanate_name" text="The Sultanate of Rum"/>
+  <string id="rum_sultanate_short_name" text="Sultanate of Rum"/>
+  <string id="rum_sultanate_title" text="The Sultanate of Rum"/>
+  <string id="rum_ruler_title" text="Sultan"/>
+  <string id="rum_sultanate_text" text="The Sultanate of Rum was a culturally Turco-Persian Sunni Muslim state, established over conquered Byzantine territories and peoples of Anatolia by the Seljuk Turks following their entry into Anatolia after the Battle of Manzikert (1071). The name Rûm was a synonym for the medieval Eastern Roman Empire and its peoples, as it remains in modern Turkish. The Sultanate of Rum seceded from the Great Seljuk Empire under Suleiman ibn Qutalmish in 1077, just six years after the Byzantine provinces of central Anatolia were conquered at the Battle of Manzikert (1071). It had its capital first at Nicaea and then at Iconium."/>
  </strings>
 </base>
