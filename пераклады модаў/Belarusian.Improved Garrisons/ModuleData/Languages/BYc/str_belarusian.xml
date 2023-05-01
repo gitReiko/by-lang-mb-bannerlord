@@ -110,7 +110,7 @@
     <string id="ui_managementui_progresstext" text="Прагрэс" />
     <string id="ui_managementui_queuetext" text="Чарга" />
     <string id="ui_managementui_noqueuetext" text="Няма праекта ў чарзе" />
-    <string id="ui_managementui_dailydefaulttext" text="Штодня па Змоўчваньні" />
+    <string id="ui_managementui_dailydefaulttext" text="Штодзённае Прадвызначанае" />
     <string id="ui_managementui_townprojectstext" text="Гарадскія Праекты" />
 
 
@@ -193,14 +193,14 @@
     <string id="ui_improvedgarrisonwidget_currentgarrisonamount" text="Колькасьць ваяроў гэтага тыпу ў гарнізоне зараз." />
     <string id="ui_improvedgarrisonsui_tutorialhint" text="Пачаць Навучаньне Палепшанага Гарнізону." />
     <string id="ui_improvedgarrisonsui_configurationhint" text="Адкрыць налады канфігураваньня Палепшанага Гарнізону." />  
-    <string id="ui_improvedgarrisonsui_resethint" text="Усталяваць налады моду да па змоўчаньні для селішча, што абарана зараз." /> 
+    <string id="ui_improvedgarrisonsui_resethint" text="Усталяваць прадвызначаныя налады моду для селішча, што абарана зараз." /> 
     <string id="ui_improvedgarrisonsui_tutorialtext" text="Навучаньне" />  
     <string id="ui_improvedgarrisonsui_configurationtext" text="Канфігураваньне" />  
-    <string id="ui_improvedgarrisonsui_defaulttext" text="Налады па Змоўчаньні" />
+    <string id="ui_improvedgarrisonsui_defaulttext" text="Прадвызначаныя Налады" />
     <string id="ui_improvedgarrisonsui_finance" text="Фінансы" />  
     <string id="ui_improvedgarrisonsui_garrison" text="Гарнізон" />
-    <string id="ui_improvedgarrisonsui_resetdefault_title" text="Скінуць селішча да наладаў па змоўчаньні" /> 
-    <string id="ui_improvedgarrisonsui_resetdefault_description" text="Вы жадаеце ўставляваць налады па змоўчаньні для абранага зараз селішча?" />
+    <string id="ui_improvedgarrisonsui_resetdefault_title" text="Скінуць селішча да прадвызначаных наладаў" /> 
+    <string id="ui_improvedgarrisonsui_resetdefault_description" text="Вы жадаеце ўставляваць прадвызначаныя налады для абранага зараз селішча?" />
 
     <string id="ui_buildingui_currentproject" text=" Цяперашні Праект Горада " />
     <string id="ui_buildingui_effects" text="Эфекты:" />
@@ -347,7 +347,7 @@
     <string id="menu_save" text="Захаваць" />
     <string id="menu_description" text="Апісаньне:" />
     <string id="menu_requirements" text="Патрабаваньні:" />
-    <string id="menu_reset" text="Скінуць да па змоўчаньні" />
+    <string id="menu_reset" text="Скінуць да прадвызначанага" />
     <string id="menu_train_pathamount_restr" text="няма абмеж." />
     <string id="menu_selectall" text="Абраць ўсё" />
     <string id="menu_small" text="Маленькі" />
@@ -390,7 +390,7 @@
     <string id="info_food_new2" text="зараз зьбірае" />  
     <string id="info_food_new3" text="ежы штодзень." />
     <string id="info_food_stop" text="Гарнізон" />
-    <string id="info_guards_new" text="Калі ласка, абярыце адзінкі для вашай новай Варты. {newline}Чым болей ваяроў вы абярэце, тым павольней будзе варта!{newline}Калі вы жадаеце каб вашая варта зьнішчала рабаўнікоў і бандытаў яе памер мусіць быць каля 30. Па змоўчаньні варта будзе патруляваць вашы край. Вы можаце даць ёй розныя загады ў Меню Палепшага Гарнізону." />
+    <string id="info_guards_new" text="Калі ласка, абярыце адзінкі для вашай новай Варты. {newline}Чым болей ваяроў вы абярэце, тым павольней будзе варта!{newline}Калі вы жадаеце каб вашая варта зьнішчала рабаўнікоў і бандытаў яе памер мусіць быць каля 30. Па стандарту варта будзе патруляваць вашы край. Вы можаце даць ёй розныя загады ў Меню Палепшага Гарнізону." />
     <string id="info_food_stop2" text="спыніў зьбіраць ежу." />   
     <string id="info_prison_enable" text="Уключана рэкрутаваньне палонных для" />
     <string id="info_prison_disable" text="Выключана рэкрутаваньне палонных для" />
@@ -412,7 +412,7 @@
     <string id="info_emptygarrison" text="Вашы гарнізон пусты." />
     <string id="info_train_path_removeall" text="Выдалены ўсе мэты паляпшэньня зь сьпіса" />
     <string id="info_train_pathamount_new" text="Палепшаны Гарнізон" />
-    <string id="info_config_reset_done" text="Канфігурацыя Палепшанага Гарнізону была скінута да значэньняў па змоўчаньні." /> 
+    <string id="info_config_reset_done" text="Канфігурацыя Палепшанага Гарнізону была скінута да прадвызначаных значэньняў." /> 
     <string id="info_config_save_done" text="Канфігурацыя Палепшанага Гарнізону пасьпяхова захавана." /> 
     <string id="info_transfer_done" text="дасягнуў тут кропкі перадачы." /> 
     <string id="info_guards_sell" text="прадаў сваіх палонных." /> 
@@ -450,7 +450,7 @@
     <string id="info_recruiter_autocreate_enabled" text="Палепшаны Гарнізон зараз аўтаматычна зьбірае неабходных ваяроў для цяперашняга шаблону. Пераканайцеся, што маеце прынамсі 1 адзінку для рэкрутара, каб ён з'явіўся ў гарнізоне" /> 
     <string id="info_recruiter_autocreate_disabled" text="Выключана аўтаматычнае зьбіраньне ваяроў для" /> 
     <string id="info_recruiter_onlyelite_enabled" text="Уключана рэкрутаваньне толькі эліты для рэкрутараў" /> 
-    <string id="info_recruiter_onlyelite_disabled" text="Выключана рэкрутаваньне толькі эліты для рэкрутараў" /> 
+    <string id="info_recruiter_onlyelite_disabled" text="Адключана рэкрутаваньне толькі эліты для рэкрутараў" /> 
     <string id="info_recruiter_buyhorses_enabled" text="Уключана купля коней для рэкрутараў" /> 
     <string id="info_recruiter_buyhorses_disabled" text="Выключана купля коней для рэкрутараў" /> 
     <string id="info_recruiter_of" text="Рэкрутар" />
@@ -530,7 +530,7 @@
     <string id="config_category_base_title" text="Налады Мода" />
     <string id="config_category_cheats_title" text="Чыты" />
     <string id="config_category_npc_title" text="Налады НГП" />
-    <string id="config_category_default_title" text="Налады па Змоўчаньні" />
+    <string id="config_category_default_title" text="Прадвызначаныя Налады" />
     <string id="config_reload_desc" text="Для ўжываньня ўсіх наладаў Палепшанага Гарнізону патрабуецца перазагрузка." />
     <string id="config_reload_title" text="Патрабуецца перазагрузка" />
     <string id="config_category_dummyname" text="Назва Катэгорыі" />
@@ -569,7 +569,7 @@
     
     <string id="config_category_base_fromvillages_name" text="Ствараць новых ваяроў непасрэдна ў гарнізоне" />
     <string id="config_category_base_fromvillages_description" text="Пасьля ўключэньня гэтай налады Палепшаны Гарнізон болей ня будзе чакаць пакуль навакольныя вёскі створаць ваяроў. Новыя ваяры будуць з'яўляцца ў гарнізоне &quot;з паветра&quot; штодзень." />
-    <string id="config_category_base_fromvillages_extradescription" text="Калі рэкрутаваньне з вёсак актывавана і ўключана рэкрутаваньне ў меню вашага гарнізону (па змоўчаньні), логіка рэкрутаваньня гэтага мода будзе шукаць усякую зьвязаную вёску і гэтае селішча, зь якіх гулец можа рэкрутаваць. Улічвайце, што на колькасьць даступных для рэкрутаваньня ваяроў уплывае тое, у якіх адносінах гулец знаходзіцца з гэтымі вёскамі. Як толькі логіка рэкрутаваньня зьбярэ мінімальную колькасьць рэкрутаў (па змоўчваньні 4), будзе створана партыя з рэкрутаў даступных вёсак і адпраўлены ў гарнізон. Рэкруты будуць выдалены з запасаў вёскі, таму спатрэбіцца нейкі час, каб вёска змагла стварыць болей ваяроў." />
+    <string id="config_category_base_fromvillages_extradescription" text="Калі рэкрутаваньне з вёсак актывавана і ўключана рэкрутаваньне ў меню вашага гарнізону (па стандарту), логіка рэкрутаваньня гэтага мода будзе шукаць усякую зьвязаную вёску і гэтае селішча, зь якіх гулец можа рэкрутаваць. Улічвайце, што на колькасьць даступных для рэкрутаваньня ваяроў уплывае тое, у якіх адносінах гулец знаходзіцца з гэтымі вёскамі. Як толькі логіка рэкрутаваньня зьбярэ мінімальную колькасьць рэкрутаў (па стандарту 4), будзе створана партыя з рэкрутаў даступных вёсак і адпраўлены ў гарнізон. Рэкруты будуць выдалены з запасаў вёскі, таму спатрэбіцца нейкі час, каб вёска змагла стварыць болей ваяроў." />
     <string id="config_category_base_minrecruits_name" text="Памер партыі рэкрутаваньня вёскі" />
     <string id="config_category_base_minrecruits_description" text="Усталюйце мінімальную колькасьць рэкрутаў, якую трэба сабраць у вёсках, каб новая партыя рэкрутаў была створана і адпраўлена ў гарнізон." />
     <string id="config_category_base_minrecruits_requirements" text="[{RecruitsAreRecruitedFromVillages}] мусіць быць уключаны." />
@@ -598,9 +598,9 @@
     <string id="config_category_base_foodamount_name" text="Штодзённая колькасьць бонуснай ежы" />
     <string id="config_category_base_foodamount_description" text="Усталюйце штодзённую колькасьць бонуснай ежы, якую будзе атрымліваць кожны замак і селішча гульца." />
     <string id="config_category_base_foodamount_requirements" text="[{LoadFoodGatheringModule}] мусіць быць уключаны." />
-    <string id="config_category_base_reset_name" text="Скінуць да па змоўчаньні" />
-    <string id="config_category_base_reset_description" text="Гэта скіне налады Палепшанага Гарнізону да значэньняў па змоўчаньні." />
-    <string id="config_category_base_reset_prompt" text="Вы жадаеце скінуць налады Палепшанага Гарнізону да значэньняў па змоўчаньні?" />
+    <string id="config_category_base_reset_name" text="Скінуць да прадвызначаных" />
+    <string id="config_category_base_reset_description" text="Гэта скіне налады Палепшанага Гарнізону да прадвызначаных значэньняў." />
+    <string id="config_category_base_reset_prompt" text="Вы жадаеце скінуць налады Палепшанага Гарнізону да прадвызначаных значэньняў?" />
     <string id="config_category_base_guardsell_name" text="Парог продажу палонных для варты" /> 
     <string id="config_category_base_guardsell_description" text="Зьнізьце парог, які трэба дасягнуць каб прадаць палонных" /> 
     <string id="config_category_base_guardsell_prompt" text="> Пры значэньні 0.0 ёмістасьць палонных варты мусіць быць поўнасьцю запоўнена.{newline}> Пры значэньне 0.5 варта будзе прадаваць палонных на палове ёмістасьці палонных. {newline}> Пры значэньні 1.0 варта будзе прадаваць палонных у момант атрыманьня." /> 
@@ -650,37 +650,37 @@
     <string id="config_category_npc_foodamount_description" text="Колькасьць бонуснай ежы для ўсіх Гарнізонаў НГП, якую атрымліваюць НГП, калі збор бонуснай ежы ўключаны." />
     <string id="config_category_npc_foodamount_requirements" text="[{LoadFoodGatheringModule}] мусіць быць уключаны." />
     
-    <string id="config_category_default_recruitment_name" text="Па змоўчаньні рэкрутаваньне сьвету уключана для гульца" />
-    <string id="config_category_default_recruitment_description" text="Уключае рэкрутаваньне сьвету для гарнізонаў гульца па змоўчаньні." />
-    <string id="config_category_default_recruitthreshold_name" text="Максімальны парог рэкрутаваньня гульца па змоўчаньні" />
-    <string id="config_category_default_recruitthreshold_description" text="Усталюйце максімальную колькасьць (па змоўчаньні) ваяроў гарнізону, пасьля якога рэкрутаваньне будзе спынена." />
-    <string id="config_category_default_prisonerrecruit_name" text="Па змоўчаньні рэкрутаваньне палонных уключана для гульца" />
-    <string id="config_category_default_prisonerrecruit_description" text="Уключае рэкрутаваньне палонных для гарнізонаў гульца па змоўчаньні." />
-    <string id="config_category_default_prisonerthreshold_name" text="Па змоўчаньні парог рэкрутаваньня палонных уключаны для гульца" />
-    <string id="config_category_default_prisonerthreshold_description" text="Уключае парог рэкрутаваньня палонных для гарнізонаў гульца па змоўчаньні." />
-    <string id="config_category_default_training_name" text="Па змоўчаньні рыхтоўля ўключана для гульца" />
-    <string id="config_category_default_training_description" text="Уключае рыхтоўлю для гарнізонаў гульца па змоўчаньні." />
+    <string id="config_category_default_recruitment_name" text="Па стандарту рэкрутаваньне сьвету уключана для гульца" />
+    <string id="config_category_default_recruitment_description" text="Па стандарту рэкрутаваньне сьвету для гарнізонаў гульца ўключана." />
+    <string id="config_category_default_recruitthreshold_name" text="Па стандарту максімальны парог рэкрутаваньня гульца" />
+    <string id="config_category_default_recruitthreshold_description" text="Усталюйце стандартную максімальную колькасьць ваяроў гарнізону, пасьля якога рэкрутаваньне будзе спынена." />
+    <string id="config_category_default_prisonerrecruit_name" text="Па стандарту рэкрутаваньне палонных уключана для гульца" />
+    <string id="config_category_default_prisonerrecruit_description" text="Уключае стандартнае рэкрутаваньне палонных для гарнізонаў гульца." />
+    <string id="config_category_default_prisonerthreshold_name" text="Стандартны парог рэкрутаваньня палонных уключаны для гульца" />
+    <string id="config_category_default_prisonerthreshold_description" text="Уключае стандартны парог рэкрутаваньня палонных для гарнізонаў гульца." />
+    <string id="config_category_default_training_name" text="Стандартная рыхтоўля ўключана для гульца" />
+    <string id="config_category_default_training_description" text="Уключае стандартную рыхтоўлю для гарнізонаў гульца." />
     <string id="config_category_default_training_requirements" text="Штодзень вашыя адзінкі гарнізону атрымліваюць колькасьць досьведу (наладжваецца). Калі яны гатовыя да паляпшэньня, можа здарыцца адна з двух рэчаў. Калі вы абралі для іх пэўны пажаданы шлях паляпшэньня, логіка паляпшэньня Палепшанага Гарнізону прасуне адзінку далей па шляху да мэты. Калі мэта не ўсталявана, шлях будзе абраны выпадкова. Таксама вы можаце абмежаваць іх ровень, калі, напрыклад, жадаеце мець ваяроў толькі 3 роўня для зьніжэньня выдаткаў. Гэтае абмежаваньне роўню скасоўваецца, абраньнем мэты паляпшэньня." />
-    <string id="config_category_default_maximumtier_name" text="Максімальны ровень рыхтоўлі гульца па змоўчаньні" />
-    <string id="config_category_default_maximumtier_description" text="Максімальны ровень ваяроў гарнізону гульца па змоўчаньні, да якога будуць рыхтавацца." />
-    <string id="config_category_default_onlyelite_name" text="Рэкрутаваньне толькі эліты для гульца па змоўчаньні" />
-    <string id="config_category_default_onlyelite_description" text="Уключае толькі рэкрутаваньне элітных адзінак для гарнізонаў гульца па змоўчаньні." />
-    <string id="config_category_default_guardssell_name" text="Гандаль палоннымі ўключаны для варты па змоўчаньні" />   
-    <string id="config_category_default_guardssell_description" text="Уключае гандаль палоннымі для варты гульца па змоўчаньні." />  
-    <string id="config_category_default_replenish_name" text="Аднаўленьне ўключана для варты па змоўчаньні" />    
-    <string id="config_category_default_replenish_description" text="Уключае аднаўленьне і лячэньне для варты гульца па змоўчаньні." />  
+    <string id="config_category_default_maximumtier_name" text="Стандартны максімальны ровень рыхтоўлі гульца" />
+    <string id="config_category_default_maximumtier_description" text="Стандартны максімальны ровень ваяроў гарнізону гульца, да якога будуць рыхтавацца." />
+    <string id="config_category_default_onlyelite_name" text="Стандартнае рэкрутаваньне толькі эліты для гульца" />
+    <string id="config_category_default_onlyelite_description" text="Уключае стандартнае рэкрутаваньне толькі элітных адзінак для гарнізонаў гульца." />
+    <string id="config_category_default_guardssell_name" text="Стандартны гандаль палоннымі ўключаны для варты" />   
+    <string id="config_category_default_guardssell_description" text="Уключае стандартны гандаль палоннымі для варты гульца." />  
+    <string id="config_category_default_replenish_name" text="Аднаўленьне ўключана для варты па стандарту" />    
+    <string id="config_category_default_replenish_description" text="Уключае стандартнае аднаўленьне і лячэньне для варты гульца." />  
     <string id="config_category_default_tutorial_name" text="Дэактываваць Навучаньне" />    
     <string id="config_category_default_tutorial_description" text="Адключае навучаньне, якое пачынаецца пасьля ўваходу ва ўласную воласьць." />  
     <string id="config_category_default_dailymessage_name" text="Адключыць Штодзённае Паведамленьне" />     
     <string id="config_category_default_dailymessage_description" text="Адключае штодзённае паведамленьне чату." /> 
-    <string id="config_category_default_hideoutclear_name" text="Зачыстка сховішчаў уключана для варты па змоўчаньні" /> 
-    <string id="config_category_default_hideoutclear_description" text="Уключае зачыстку сховішчаў для варты па змоўчаньні." /> 
-    <string id="config_category_default_buyhorses_name" text="Гандаль коньмі ўключаны для варты па змоўчаньні" /> 
-    <string id="config_category_default_buyhorses_description" text="Уключае гандаль коньмі для варты, каб атрымаць дадатковую хуткасьць руху па змоўчаньні." /> 
-    <string id="config_category_default_guardupgrade_name" text="Паляпшэньне ваяроў уключана для варты па змоўчаньні" />    
-    <string id="config_category_default_guardupgrade_description" text="Уключае магчымасьць паляпшэньня ваяроў для партыяў варты гульца па змоўчаньні." />  
-    <string id="config_category_default_guardprisonerrecruit_name" text="Рэкрутаваньне палонных вартай па змоўчаньні" />    
-    <string id="config_category_default_guardprisonerrecruit_description" text="Уключае рэкрутаваньне палонных для варты гульца па змоўчаньні." />  
+    <string id="config_category_default_hideoutclear_name" text="Зачыстка сховішчаў уключана для варты па стандарту" /> 
+    <string id="config_category_default_hideoutclear_description" text="Уключае стандартную зачыстку сховішчаў для варты." /> 
+    <string id="config_category_default_buyhorses_name" text="Гандаль коньмі ўключаны для варты па стандарту" /> 
+    <string id="config_category_default_buyhorses_description" text="Уключае стандартны гандаль коньмі для варты, каб атрымаць дадатковую хуткасьць руху." /> 
+    <string id="config_category_default_guardupgrade_name" text="Паляпшэньне ваяроў уключана для варты па стандарту" />    
+    <string id="config_category_default_guardupgrade_description" text="Уключае стандартную магчымасьць паляпшэньня ваяроў для партыяў варты гульца." />  
+    <string id="config_category_default_guardprisonerrecruit_name" text="Стандартнае рэкрутаваньне палонных вартай" />    
+    <string id="config_category_default_guardprisonerrecruit_description" text="Уключае стандартнае рэкрутаваньне палонных для варты гульца." />  
     
     
     <!-- SECTION tutorial -->  
@@ -777,7 +777,7 @@
     <string id="tutorial_enableonmap1" text="Уключыць на Мапе" />
     <string id="tutorial_enableonmap2" text="Хуткая Рада: Калі вы жадаеце выкарыстоўваць Меню Палепшанага Гарнізону падчас падарожжа па мапе, вы можаце зрабіць гэтае кнопкай." />
     <string id="tutorial_configmanager1" text="Кіраўнік Канфігурацыяў" />
-    <string id="tutorial_configmanager2" text="Кіраўнік Канфігурацыяў Палепшанага Гарнізону даступны заўжды на мапе (націсьніце [левы ALT] + [G]). {newline} {newline}Тут вы можаце наладзіць шматлікія значэньні модаў па сваім жаданьні. Напрыклад, вы можаце:{newline}> Зьмяніць досьвед штодзённай рыхтоўлі{newline}> зьнізіць выдаткі на вашую Варту і Гарнізоны{newline}> Павялічыць хуткасьць рэкрутаваньня вашых палонных{newline}> Загрузіць модуль збору ежы{newline}> Актываваць мод для фракцыяў НГП{newline}> Зьмяніць значэньні па змоўчаньні, якія ўсталёўаюцца для новых атрыманых воласьцяў{newline}> Актываваць налады чытоў{newline}> ... і многае іншае!" />    
+    <string id="tutorial_configmanager2" text="Кіраўнік Канфігурацыяў Палепшанага Гарнізону даступны заўжды на мапе (націсьніце [левы ALT] + [G]). {newline} {newline}Тут вы можаце наладзіць шматлікія значэньні модаў па сваім жаданьні. Напрыклад, вы можаце:{newline}> Зьмяніць досьвед штодзённай рыхтоўлі{newline}> зьнізіць выдаткі на вашую Варту і Гарнізоны{newline}> Павялічыць хуткасьць рэкрутаваньня вашых палонных{newline}> Загрузіць модуль збору ежы{newline}> Актываваць мод для фракцыяў НГП{newline}> Зьмяніць стандартныя значэньні, якія ўсталёўаюцца для новых атрыманых воласьцяў{newline}> Актываваць налады чытоў{newline}> ... і многае іншае!" />    
     <string id="tutorial_thankyou" text="Ііі вы завяршылі гэтае навучаньне!!! :-){newline} {newline}Я асабіста жадаю падзякаваць вас за выкарыстаньне Палепшанага Гарнізону! Я выдаткаваў незьлічоныя гадзіны працы на гэты праект, і рады бачыць, што многім людзям падабаецца мой мод - гэта сапраўды цудоўна.{newline} {newline}Калі вам спадабалася мая праца, было б выдатна атрымаць ад вас водгук. Не забудзьце пакінуць каментар і лайк на старонцы Nexus Mod. І калі вы жадаеце падтрымаць маю працу, можаце ахвяраваць мне каву для маіх позных начных сесій распрацоўкі :-){newline} {newline}Цудоўных прыгодаў у Mount and Blade {newline} ~ Sidies" />
     
     <!-- SECTION tips -->
@@ -799,7 +799,7 @@
     <string id="misc_ig_onmapload" text="Палепшаныя Гарнізоны Загружаны." />
     <string id="misc_deletepartiesmode" text="Рэжым выдаленьня ўсіх партыяў Палепшанага Гарнізону актываваны і зараз будзе выкананы." />
     <string id="misc_update_title" text="Абнаўленьне Палепшанага Гарнізону" />
-    <string id="misc_update_desc" text="~ Дзякуй за выкарыстаньне Палепшанага Гарнізону{newline} {newline}Апошняе абнаўленьне мае новыя налады канфігураваньня!{newline} {newline}Рэкамендуецца скінуць канфігурацыю да значэньняў па змоўчаньні. Іншым чынам новыя канфігурацыі будуць усталяваны ў значэньня false (хлусьня) or 0.{newline} {newline}Вы заўжды можаце праверыць канфігурацыі модаў, націснуўшы ALT + G. {newline} {newline}Прыемнай гульні! {newline}~ Sidies" />
+    <string id="misc_update_desc" text="~ Дзякуй за выкарыстаньне Палепшанага Гарнізону{newline} {newline}Апошняе абнаўленьне мае новыя налады канфігураваньня!{newline} {newline}Рэкамендуецца скінуць канфігурацыю да стандартных значэньняў. Іншым чынам новыя канфігурацыі будуць усталяваны ў значэньня false (хлусьня) or 0.{newline} {newline}Вы заўжды можаце праверыць канфігурацыі модаў, націснуўшы ALT + G. {newline} {newline}Прыемнай гульні! {newline}~ Sidies" />
     <string id="misc_update_pass" text="Праверу самастойна" />
     <string id="misc_igname" text="Палепшаны Гарнізон" />
     <string id="misc_guardwages" text="Выдаткі варты" />
