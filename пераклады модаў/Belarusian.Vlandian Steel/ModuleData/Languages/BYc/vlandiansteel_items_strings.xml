@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
-  <tags>
-    <tag language="English" />
-  </tags>
+
+
+
   <strings>
   
 <!-- ARMOR SETS -->  
@@ -272,73 +272,73 @@
     <string id="vs_feathered_armet" text="{.Nijaki}Аздобленае Пёрамі Армэ" />
     <string id="vs_armet" text="{.Nijaki}Армэ" />
 	
-    <string id="vs_great_prankh_helm" text="RoundTop Barrel Helm" />
-    <string id="vs_great_prankh_helm_crest" text="RoundTop Barrel Helm з Crest" />
-    <string id="vs_great_prankh_helm_horns" text="RoundTop Barrel Helm з Horns" />
-    <string id="vs_great_prankh_helm_winged" text="RoundTop Barrel Helm з Wings" />
+    <string id="vs_great_prankh_helm" text="{.Muzcynski}Гаршковы Шалом з Круглым Навершам" />
+    <string id="vs_great_prankh_helm_crest" text="{.Muzcynski}Гаршковы Шалом з Кляйнотам і Круглым Навершам" />
+    <string id="vs_great_prankh_helm_horns" text="{.Muzcynski}Гаршковы Шалом з Рагамі і Круглым Навершам" />
+    <string id="vs_great_prankh_helm_winged" text="{.Muzcynski}Гаршковы Шалом з Крыламі і Круглым Навершам" />
 	
-    <string id="vs_fluted_helm_with_brass_faceplate" text="Fluted Шалом з Латуневы Тваравай Пласьцінай" />
-    <string id="vs_fluted_helm_with_faceplate" text="Fluted Шалом з Тваравай Пласьцінай" />
-    <string id="vs_fluted_cervellierea" text="Fluted Cervelliere" />
-    <string id="vs_fluted_cervelliereb" text="Зграбны Fluted Cervelliere" />
-    <string id="vs_painted_cervellierea" text="Афарбаваны Half Cervelliere з Барміцай" />
-    <string id="vs_painted_cervelliereb" text="Афарбаваны Striated Cervelliere з Барміцай" />
-    <string id="vs_painted_cervellierec" text="Афарбаваны Half Cervelliere з Скураны Коіфам" />
-    <string id="vs_painted_cervelliered" text="Афарбаваны Striated Cervelliere з Скураны Коіфам" />
+    <string id="vs_fluted_helm_with_brass_faceplate" text="{.Muzcynski}Рыфлены Шалом з Латуневай Тваравай Пласьцінай" />
+    <string id="vs_fluted_helm_with_faceplate" text="{.Muzcynski}Рыфлены Шалом з Тваравай Пласьцінай" />
+    <string id="vs_fluted_cervellierea" text="{.Muzcynski}Рыфлены Цэрвельер" />
+    <string id="vs_fluted_cervelliereb" text="{.Muzcynski}Зграбны Рыфлены Цэрвельер" />
+    <string id="vs_painted_cervellierea" text="{.Muzcynski}Афарбаваны Паўцэрвельер з Барміцай" />
+    <string id="vs_painted_cervelliereb" text="{.Muzcynski}Афарбаваны Паласаты Цэрвельер з Барміцай" />
+    <string id="vs_painted_cervellierec" text="{.Muzcynski}Афарбаваны Паўцэрвельер са Скураным Коіфам" />
+    <string id="vs_painted_cervelliered" text="{.Muzcynski}Афарбаваны Паласаты Цэрвельер са Скураным Коіфам" />
 	
-    <string id="vs_pothelm" text="Roundtop Затулены Шалом" />
-    <string id="vs_pothelm2" text="Афарбаваны Roundtop Затулены Шалом" />
+    <string id="vs_pothelm" text="{.Muzcynski}Затулены Шалом з Круглым Навершам" />
+    <string id="vs_pothelm2" text="{.Muzcynski}Афарбаваны Затулены Шалом з Круглым Навершам" />
 	
-    <string id="vs_sugarloaf_helm" text="Паласаты Sugarloaf Шалом" />
-    <string id="vs_sugarloaf_helm2" text="Зграбны Паласаты Sugarloaf Шалом" />
-    <string id="vs_sugarloaf_helm3" text="Sugarloaf Шалом" />
-    <string id="vs_sugarloaf_helm4" text="Зграбны Sugarloaf Шалом" />
+    <string id="vs_sugarloaf_helm" text="{.Muzcynski}Паласаты Шалом - Цукровая Галава" />
+    <string id="vs_sugarloaf_helm2" text="{.Muzcynski}Зграбны Паласаты Шалом - Цукровая Галава" />
+    <string id="vs_sugarloaf_helm3" text="{.Muzcynski}Шалом - Цукровая Галава" />
+    <string id="vs_sugarloaf_helm4" text="{.Muzcynski}Зграбны Шалом - Цукровая Галава" />
 	
-    <string id="vs_watchman_helmet" text="Watchman's Шалом" />
+    <string id="vs_watchman_helmet" text="{.Muzcynski}Шалом Дасьледніка" />
 	
-    <string id="vs_open_knight_helmet" text="Адкрытым Knight's Шалом з Барміцай" />
-    <string id="vs_open_knight_helmetb" text="Адкрытым Knight's Шалом з Коіфам" />
-	<string id="vs_open_knight_helmetc" text="Адкрытым Knight's Шалом з Скураны Cap" />
+    <string id="vs_open_knight_helmet" text="{.Muzcynski}Адкрыты Шалом Рыцара з Барміцай" />
+    <string id="vs_open_knight_helmetb" text="{.Muzcynski}Адкрыты Шалом Рыцара з Коіфам" />
+	<string id="vs_open_knight_helmetc" text="{.Muzcynski}Адкрыты Шалом Рыцара са Скураной Шапкай" />
 	
-    <string id="vs_flat_helmetb" text="Flat Шалом з Скураны Cap" />
-    <string id="vs_flat_fluted_helmeta" text="Flat Fluted Шалом з Скураны Cap" />
-    <string id="vs_flat_helmetc" text="Flat Шалом з Padded Коіфам" />
-    <string id="vs_flat_fluted_helmetb" text="Flat Fluted Шалом з Padded Коіфам" />
-    <string id="vs_flat_fluted_helmetc" text="Flat Fluted Шалом з Барміцай" />
-    <string id="vs_flat_helmeta" text="Flat Шалом з Барміцай" />
-    <string id="vs_kettle_flat_fluted_helmetc" text="Wide-Brimmed Flat Fluted Шалом з Скураны Cap" />
-    <string id="vs_kettle_flat_fluted_helmetb" text="Wide-Brimmed Flat Fluted Шалом з Padded Коіфам" />
-    <string id="vs_kettle_flat_fluted_helmeta" text="Wide-Brimmed Flat Fluted Шалом з Барміцай" />
-    <string id="vs_flat_fluted_helmetd" text="Зграбны Flat Fluted Шалом з Барміцай" />
-    <string id="vs_flat_helmetd" text="Зграбны Flat Шалом з Барміцай" />
-    <string id="vs_kettle_flat_fluted_helmetd" text="Зграбны Wide-Brimmed Flat Fluted Шалом з Барміцай" />
+    <string id="vs_flat_helmetb" text="{.Muzcynski}Плоскі Шалом са Скураной Шапкай" />
+    <string id="vs_flat_fluted_helmeta" text="{.Muzcynski}Плоскі Рыфлены Шалом са Скураной Шапкай" />
+    <string id="vs_flat_helmetc" text="{.Muzcynski}Плоскі Шалом з Мяккім Коіфам" />
+    <string id="vs_flat_fluted_helmetb" text="{.Muzcynski}Плоскі Рыфлены Шалом з Мяккім Коіфам" />
+    <string id="vs_flat_fluted_helmetc" text="{.Muzcynski}Плоскі Рыфлены Шалом з Барміцай" />
+    <string id="vs_flat_helmeta" text="{.Muzcynski}Плоскі Шалом з Барміцай" />
+    <string id="vs_kettle_flat_fluted_helmetc" text="{.Muzcynski}Шырокапалосы Плоскі Рыфлены Шалом са Скураной Шапкай" />
+    <string id="vs_kettle_flat_fluted_helmetb" text="{.Muzcynski}Шырокапалосы Плоскі Рыфлены Шалом з Мяккім Коіфам" />
+    <string id="vs_kettle_flat_fluted_helmeta" text="{.Muzcynski}Шырокапалосы Плоскі Рыфлены Шалом з Барміцай" />
+    <string id="vs_flat_fluted_helmetd" text="{.Muzcynski}Зграбны Плоскі Рыфлены Шалом з Барміцай" />
+    <string id="vs_flat_helmetd" text="{.Muzcynski}Зграбны Плоскі Шалом з Барміцай" />
+    <string id="vs_kettle_flat_fluted_helmetd" text="{.Muzcynski}Зграбны Шырокапалосы Плоскі Рыфлены Шалом з Барміцай" />
 	
-    <string id="vs_1ChurburghHelm" text="Ветэрана с Заслонай Сабачая Пыса Бацынет" />
-    <string id="vs_ChurburghHelm" text="Упрыгожаны Ветэрана с Заслонай Сабачая Пыса Бацынет" />
-    <string id="vs_churburghHelm_feather" text="Feathered Ветэрана с Заслонай Сабачая Пыса Бацынет" />
-    <string id="vs_churburghHelm_trimmed_feather" text="Упрыгожаны Ветэрана с Заслонай Сабачая Пыса Бацынет з Пёрамі" />
+    <string id="vs_1ChurburghHelm" text="{.Muzcynski}Бацынет Ветэрана с Заслонай Сабачая Пыса" />
+    <string id="vs_ChurburghHelm" text="{.Muzcynski}Упрыгожаны Бацынет Ветэрана с Заслонай Сабачая Пыса" />
+    <string id="vs_churburghHelm_feather" text="{.Muzcynski}Апераны Бацынет Ветэрана с Заслонай Сабачая Пыса" />
+    <string id="vs_churburghHelm_trimmed_feather" text="{.Muzcynski}Упрыгожаны Бацынет Ветэрана с Заслонай Сабачая Пыса і Пёрамі" />
 	
-    <string id="vs_barbute1" text="Барбута" />
-    <string id="vs_barbute2" text="Афарбаваны Барбута" />
-    <string id="vs_barbute3" text="Барбута з Пёрамі" />
-    <string id="vs_barbute4" text="Афарбаваны Барбута з Пёрамі" />
-    <string id="vs_ornate_barbute" text="Зграбны Барбута з Пёрамі" />
+    <string id="vs_barbute1" text="{.Zanocy}Барбута" />
+    <string id="vs_barbute2" text="{.Zanocy}Афарбаваная Барбута" />
+    <string id="vs_barbute3" text="{.Zanocy}Барбута з Пёрамі" />
+    <string id="vs_barbute4" text="{.Zanocy}Афарбаваная Барбута з Пёрамі" />
+    <string id="vs_ornate_barbute" text="{.Zanocy}Зграбная Барбута з Пёрамі" />
 	
-    <string id="vs_chaperon" text="Элегантная Chaperon" />
+    <string id="vs_chaperon" text="{.Muzcynski}Элегантны Шаперон" />
 	
 <!-- WEAPONS -->	
-    <string id="vs_arrows" text="Laurel Leaf Arrows" />
-    <string id="vs_heavy_arrows" text="Passadoux Arrows" />
-    <string id="vs_cranequin_1" text="Light Cranequin" />
-    <string id="vs_cranequin_2" text="Cranequin" />
-    <string id="vs_axe_2_t5" text="Сталёвая Battle Axe" />
-    <string id="vs_axe_1_t6" text="Сталёвая War Axe" />
-    <string id="vs_mace_1" text="Сталёвая Cavalry Mace" />
-    <string id="vs_machicoulis" text="Mâchicoulis" />
-    <string id="vlandia_steel_bill" text="Short Сталёвая Bill" />
-    <string id="vs_2h_steel_axe" text="Two Handed Сталёвая Axe" />
-    <string id="vs_2h_heavy_steel_axe" text="Two Handed Цяжкі Сталёвая Axe" />
-    <string id="vs_war_horse" text="Destrier" />
+    <string id="vs_arrows" text="{.Mnozny}Лаўровыя Ліставое Стрэлы" />
+    <string id="vs_heavy_arrows" text="{.Mnozny}Пассадоўскія Стрэлы" />
+    <string id="vs_cranequin_1" text="{.Muzcynski}Лёгкі Кранэкін" />
+    <string id="vs_cranequin_2" text="{.Muzcynski}Кранэкін" />
+    <string id="vs_axe_2_t5" text="{.Zanocy}Сталёвая Баявая Сякера" />
+    <string id="vs_axe_1_t6" text="{.Zanocy}Сталёвая Вайсковая Сякера" />
+    <string id="vs_mace_1" text="{.Zanocy}Сталёвая Булава Вершніка" />
+    <string id="vs_machicoulis" text="{.Muzcynski}Машыкуль" />
+    <string id="vlandia_steel_bill" text="{.Muzcynski}Кароткі Сталёвы Біль" />
+    <string id="vs_2h_steel_axe" text="{.Zanocy}Двухручная Сталёвая Сякера" />
+    <string id="vs_2h_heavy_steel_axe" text="{.Zanocy}Двухручная Цяжкая Сталёвая Сякера" />
+    <string id="vs_war_horse" text="{.Muzcynski}Дэстрыер" />
 	
   </strings>
 </base>
