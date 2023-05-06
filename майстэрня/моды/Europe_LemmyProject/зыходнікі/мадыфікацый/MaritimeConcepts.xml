@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MaritimeConcepts>
+
+    <Concept id="elp_port_explanation" title="Port Towns" description="Port Towns are Towns where you can buy and sell ships, manage your fleet that is docked in the port, pay for passage to other nearby ports, and set sail with your docked fleet. In the water nearby the Port Town is a Port settlement. When at sea, click on this settlement to enter the nearby Port Town. However, if you would be barred from entering the Town, you will not be able to interact with the Port. Ports are marked on the campaign map by the name above it's location and by a green and white flag with an anchor in the center" />
+
+    <Concept id="elp_ferry_explanation" title="Ferry Points" description="Across the map are ferry crossings, each end of which is called a Ferry Point. These allow you to safely cross small stretches of water for a fee based on the distance of the crossing and your party's size and carried weight. A Ferry Point is marked on the campaign map by the name above the location and by a white and blue flag with an anchor in the center. Ferry points can also store a fleet."/>
+
+    <Concept id="elp_landing_area_explanation" title="Landing Areas" description="Landing areas are places where you can freely land your fleet. Because you can also land your fleet at Ferry Points and Port Towns, Landing Areas are few and far between. Landing areas are marked on the campaign map by the name above the location and by a white and red flag with a ship and crossed axes in the center." />
+
+    <Concept id="elp_auto_stored_ships" title="Auto Stored Ships" description="If for whatever reason the player enters land from the sea while captaining his own fleet without going through a Landing Area, Port Town, or Ferry Point, his fleet will be stored in the nearest friendly Port Town."/>
+    
+    <Concept id="elp_pathfinding_explanation" title="Campaign Map Pathfinding" description="At the moment pathfinding is out of our control, so certain restrictions have been made on where your party can travel to based on whether your party is on land or at sea. In short, if the calculated path takes your party over water while your party is on land, or the path takes your party over land while your party is at sea, the auto-travel will stop and the camera will re-focus on your party. Don't worry, this does not mean that there are inaccessible areas of the map. Simply click on a part of the map that is closer to your party until the auto-travel doesn't stop." />
+
+    <Concept id="elp_ai_parties_explanation" title="AI Parties" description="AI parties will freely traverse from land to sea and vice versa. If an AI party is fleeing, however, it will not be able to make this transition." />
+
+    <Concept id="elp_missions_explanation" title="Missions" description="When the player is following a party that is associated with a quest, if by following that party the player would enter the sea, he will do so and be given a fleet of rented ships by the quest giver. At the resolution of this quest (whether successful or not), the player must return the rented ships by returning to land within 2 days. If he does not return to land within that time, then he will lose relation with the quest giver and possibly become a criminal to the quest giver's faction."/>
+
+    <Concept id="elp_armies_explanation" title="Armies" description="When the player is in an army and that army enters the sea, he will rent a fleet of ships from the army leader. When that army enters land again, those ships will automatically be returned to the army leader. If the player leaves the army while it is at sea, then he will have 2 days to either rejoin the army, or return to land. If he does neither by the deadline, then he will suffere a realtion penalty with the army leader."/>
+
+</MaritimeConcepts>
