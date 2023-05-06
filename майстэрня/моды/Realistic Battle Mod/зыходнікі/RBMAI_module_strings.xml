@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+ <strings>
+  <string id="Tqa0r78a" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are skirmishing."/>
+  <string id="Tqa0r78b" text="{?IS_RIGHT}Right {TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} is doing hit and run.{?}{\?}{?IS_LEFT}Left {TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} is doing hit and run.{?}{\?}"/>
+  <string id="Tqa0r78c" text="Infantry is flanking."/>
+  <string id="Tqa0r78d" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are charging at {?IS_PLURAL}different enemy formations{?}an enemy formation{\?}."/>
+  <string id="Tqa0r781" text="Archers are skirmishing from flanks."/>
+  <string id="Tqa0r782" text="Cavalry is forming a flying wedge in front of infantry."/>
+  <string id="Tqa0r78e" text="Skirmish"/>
+  <string id="Tqa0r78f" text="Do hit and run on enemy."/>
+  <string id="Tqa0r78g" text="Flank{?IS_GENERAL_SIDE}{?} from {SIDE_STRING} side{\?}"/>
+  <string id="Tqa0r78h" text="Charge at enemy"/>
+  <string id="Tqa0r78j" text="Skirmish from {SIDE_STRING} flank"/>
+  <string id="Tqa0r783" text="Form flying wedge in front of infantry"/>
+ </strings>
+</base>
