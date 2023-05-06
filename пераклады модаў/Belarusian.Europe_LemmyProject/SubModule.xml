@@ -17,5 +17,21 @@
 	</DependedModules>
 	<SubModules/>
 	<Xmls> 
+		<XmlNode>
+			<XmlName id="Settlements" path="settlements" />
+			<IncludedGameTypes>
+				<GameType value="Campaign" />
+				<GameType value="CampaignStoryMode" />
+				<GameType value="CustomGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+			<XmlName id="MaritimeConcepts" path="MaritimeConcepts" />
+			<IncludedGameTypes>
+				<GameType value="Campaign" />
+				<GameType value="CampaignStoryMode" />
+				<GameType value="CustomGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
 	</Xmls>
 </Module>
