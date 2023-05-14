@@ -1,0 +1,1715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+ <strings>
+  <!--input/mcga/mcga_aserai/mcga_aserai_troops.xml-->
+  <string id="bNMZMZqT" text="Aserai Volunteer"/>
+  <string id="xPRXxoEJ" text="Aserai Mamluke Soldier"/>
+  <string id="IUILJtPu" text="Aserai Light Cavalry"/>
+  <string id="MpDTUFSj" text="Aserai Youth"/>
+  <string id="Ri8uQRVH" text="Aserai Militia Footman"/>
+  <string id="ZAUdraEZ" text="Aserai Militia Archer"/>
+  <string id="PxsN5SrK" text="Aserai Mamluke Footman"/>
+  <string id="aKw04M8Z" text="Aserai Light Archer"/>
+  <string id="cuDGZgdG" text="Aserai Mamluke Light Camelia"/>
+  <string id="cuDGZopG" text="Aserai Mamluke Regular"/>
+  <string id="jNa8EjMg" text="Aserai Light Skirmisher"/>
+  <string id="5Zsl2gIJ" text="Aserai Guard"/>
+  <string id="LM6evmlz" text="Aserai Militia Veteran Footman"/>
+  <string id="XldMCHSS" text="Aserai Militia Veteran Archer"/>
+  <string id="xQZlbOmq" text="Aserai Tribal Horseman"/>
+  <string id="Zd0AM1vO" text="Aserai Mamluke Veteran"/>
+  <string id="RzArj04b" text="Aserai Archer"/>
+  <string id="5JKXGzHy" text="Aserai Mamluke Cavalry"/>
+  <string id="gcO1ouYs" text="Aserai Mamluke Camelia"/>
+  <string id="G9lqfMpL" text="Aserai Skirmisher"/>
+  <string id="NhV9SNvF" text="Aserai Cavalry Archer"/>
+  <string id="0Fr2c2Xd" text="Aserai Faris"/>
+  <string id="paWrX8yf" text="Aserai Mamluke"/>
+  <string id="jJANyDl5" text="Aserai Master Archer"/>
+  <string id="7em5In4C" text="Aserai Mamluke Heavy Cavalry"/>
+  <string id="gfP8kPnP" text="Aserai Mamluke Heavy Camelia"/>
+  <string id="Eyh52JRM" text="Aserai Veteran Faris"/>
+  <string id="yfGX10af" text="Aserai Palace Guard"/>
+  <string id="G1VLJJNE" text="Aserai Vanguard Faris"/>
+  <string id="aseraipeasantman" text="Aserai Peasant"/>
+  <!--input/mcga/mcga_aserai/mcga_aserai_weapons.xml-->
+  <string id="DFpLbs5h" text="Noble Great Sword"/>
+  <string id="3PusxK6G" text="Aserai Great Falx"/>
+  <string id="W5ykidln" text="Aserai Balanced Falx"/>
+  <string id="YJBL5EqD" text="Aserai Fine Falx"/>
+  <string id="sgJLuGxB" text="Aserai Steel Falx"/>
+  <string id="oiRo3NBW" text="Aserai Sharp Falx"/>
+  <string id="xXp1VMni" text="Aserai Fine Steel Falx"/>
+  <string id="yY48KpJH" text="Aserai Fine Scythe Falx"/>
+  <string id="v3bjuRKk" text="Aserai Simple Falx"/>
+  <string id="Z13JeYLm" text="Aserai Falx with Cloth"/>
+  <string id="wXtO0trK" text="Aserai Strong Falx"/>
+  <string id="BMo4egsm" text="Aserai Falx with Black Handle"/>
+  <string id="FSqbpyoM" text="Empire Shield Spear"/>
+  <string id="XalRoknB" text="Aserai Great Razor with Frills"/>
+  <string id="XkTYv5DJ" text="Aserai Great War Spear"/>
+  <string id="k43pLuKQ" text="Aserai War Spear"/>
+  <string id="f1lWzmLg" text="Aserai Simple Spear"/>
+  <string id="bqaYFZNH" text="Aserai Long War Glaive"/>
+  <string id="rxJVxeKq" text="Empire Glaive"/>
+  <string id="mBCN2in0" text="Aserai Great Axe"/>
+  <string id="YoYrOlYH" text="Aserai Balanced Axe"/>
+  <string id="weHcMSCQ" text="Aserai Fine Axe"/>
+  <string id="hpyR8Ixu" text="Aserai Axe"/>
+  <string id="Z8RZtBgj" text="Aserai Long Axe"/>
+  <string id="IOuteMuU" text="Aserai Wooden Mace"/>
+  <string id="o6OffekI" text="Bandit Wooden Hammer"/>
+  <string id="sl6FkLLh" text="Aserai Long Wooden Mace"/>
+  <string id="qwK82PEo" text="Aserai Balanced Mace"/>
+  <string id="GEF7O2RB" text="Aserai Steel Mace"/>
+  <string id="9wIFRjJx" text="Aserai Fine Round Mace"/>
+  <string id="tL7IFJTU" text="Aserai Simple Mace"/>
+  <string id="RnC3T9Sk" text="Aserai Short Glaive"/>
+  <string id="HX5wPIhH" text="Aserai Short Hammer"/>
+  <string id="P08CC0Rd" text="Aserai Round Mace"/>
+  <string id="3wvi3VOU" text="Aserai Twisted Mace"/>
+  <string id="JFJNfAHN" text="Aserai Round Twisted Mace"/>
+  <string id="y4ReIRGe" text="Aserai Knife"/>
+  <string id="CIKMTHbl" text="Aserai Wooden Knife"/>
+  <string id="0gviruRf" text="Aserai Darkwood Javelin"/>
+  <string id="oSUU4TA1" text="Aserai Fine Javelin"/>
+  <string id="wzF7p4Bq" text="Aserai Javelin"/>
+  <string id="lVVCy1ft" text="Aserai Long Javelin"/>
+  <string id="yRk7vZZr" text="Aserai Balanced Javelin"/>
+  <string id="bEgLLwhs" text="Aserai War Spear"/>
+  <string id="204gZtWw" text="Aserai Mamluke Spear"/>
+  <string id="uXgDjTVv" text="Aserai Mahogany Spear"/>
+  <string id="49TfY3cd" text="Aserai Fine War Spear"/>
+  <string id="ms65mkUh" text="Aserai Fine Lance"/>
+  <string id="cdCxHaSW" text="Aserai Sharp Lance"/>
+  <string id="EiKVsg09" text="Aserai War Lance"/>
+  <string id="ZDW7XoPM" text="Aserai Balanced Lance"/>
+  <string id="AHVPCqpT" text="Aserai Proven Lance"/>
+  <string id="hUYgQbrJ" text="Aserai Veteran Lance"/>
+  <string id="Uaey4TKT" text="Aserai Fine War Lance"/>
+  <string id="DDGJuoRy" text="Aserai Balanced War Lance"/>
+  <string id="0IspR8HD" text="Aserai Sharp War Lance"/>
+  <string id="2JJFTFO9" text="Aserai Short Lance"/>
+  <string id="hg3tSDL2" text="Aserai Short War Lance"/>
+  <string id="zifLpOsG" text="Aserai Short Fine Lance"/>
+  <!--input/mcga/mcga_bandits/mcga_bandits.xml-->
+  <string id="urUoa4bf" text="Rebel"/>
+  <string id="8laVoEH9" text="Bandit"/>
+  <string id="8luVoEo9" text="Sancho Panza"/>
+  <string id="5laVoEH9" text="Mounted Bandit"/>
+  <string id="C8DE6L73" text="Deserter"/>
+  <string id="8BYxn5A7" text="Midland Deserted Recruit"/>
+  <string id="3zmrN5Jq" text="Midland Deserted Ranger"/>
+  <string id="oUctiK72" text="Midland Deserted Infantryman"/>
+  <string id="vG2pThw7" text="Midland Deserted Spearman"/>
+  <string id="QjqhhvG4" text="Midland Deserted Longbow"/>
+  <string id="x72S7h8k" text="Midland Deserted Ranger"/>
+  <string id="dc2lxonZ" text="Midland Gang Leader"/>
+  <string id="M3IWYRuG" text="Highland Deserted Recruit"/>
+  <string id="svudczWg" text="Highland Deserted Infantryman"/>
+  <string id="fy4uHbOz" text="Highland Deserted Crossbowman"/>
+  <string id="Zlhn8dpf" text="Highland Deserted Swordsman"/>
+  <string id="onriZUP6" text="Highland Deserted Spearman"/>
+  <string id="Qwlirhiw" text="Highland Deserted Bowman"/>
+  <string id="ziOzJizR" text="Highland Gang Leader"/>
+  <string id="7gbDzent" text="Northland Deserted Raider"/>
+  <string id="sPqB7zhLZ" text="Northland Deserted Marauder"/>
+  <string id="L8TbuLUa" text="Northland Deserted Warrior"/>
+  <string id="jGuhoi7J" text="Northland Byalican Schildmaid"/>
+  <string id="XYutztdr" text="Northland Hunter"/>
+  <string id="RLoXFz4i" text="Northland Brigand"/>
+  <string id="CuFkzdvu" text="Northland Gang Leader"/>
+  <string id="exkElgtP" text="Southland Deserted Recruit"/>
+  <string id="X646ClD5" text="Southland Deserted Soldier"/>
+  <string id="QvmIi34w" text="Southland Deserted Footman"/>
+  <string id="9eg3xGT3" text="Southland Deserted Regular"/>
+  <string id="tlDmgipp" text="Southland Deserted Light Skirmisher"/>
+  <string id="eVPaMiWm" text="Southland Deserted Light Mounted Archer"/>
+  <string id="EdrTJbze" text="Southland Gang Leader"/>
+  <string id="L9TbalUa" text="Eastland Young Orphaned Bandit"/>
+  <string id="L8TtzHjU" text="Eastland Deserted Spearman"/>
+  <string id="mjbuAAUa" text="Eastland Deserted Swordsman"/>
+  <string id="vyv7HCdm" text="Southland Gang Leader"/>
+  <!--input/mcga/mcga_battania/mcga_battania_troops.xml-->
+  <string id="8BXxnPA7" text="Battania Volunteer"/>
+  <string id="ohlc3157" text="Battanian Levy Freeman"/>
+  <string id="3zmAN5Jq" text="Battanian Ranger Scout"/>
+  <string id="qv9eOjQw" text="Battanian Highborn Youth"/>
+  <string id="AAvu7mjN" text="Battania Militia Footman"/>
+  <string id="IlYi4i1a" text="Battanian Militia Archer"/>
+  <string id="oUctdK62" text="Battanian Infantryman"/>
+  <string id="vG2sTQw7" text="Battanian Spearman"/>
+  <string id="QjqwhvG2" text="Battanian Longbowman"/>
+  <string id="xx2SHD8k" text="Battanian Ranger"/>
+  <string id="95CtIavk" text="Battanian Militia Veteran Archer"/>
+  <string id="OC9ncIOy" text="Battanian Militia Veteran Footman"/>
+  <string id="Q9PXaLjD" text="Battanian Highborn Warrior"/>
+  <string id="4vXKL6ri" text="Battanian Trained Infantryman"/>
+  <string id="eYXwqvG2" text="Battanian Trained Spearman"/>
+  <string id="SxkhrOXE" text="Battanian Veteran Longbowman"/>
+  <string id="8fqZ8W4o" text="Battanian Scout"/>
+  <string id="wXOLx71d" text="Battanian Billhook"/>
+  <string id="jWACF5Hw" text="Battanian Mounted Ranger"/>
+  <string id="1l9eaWU7" text="Battanian Hero"/>
+  <string id="6E8xrIks" text="Battanian Veteran Infantryman"/>
+  <string id="PpXnl9Jn" text="Battanian Veteran Spearman"/>
+  <string id="qAVuPSpd" text="Battanian Horseman"/>
+  <string id="IFo9bJPI" text="Battanian Veteran Billhook"/>
+  <string id="6YAVjdeQ" text="Battanian Fian"/>
+  <string id="qM4WrRSL" text="Battanian Fian Champion"/>
+  <string id="battaniapeasantman" text="Battania Peasant"/>
+  <string id="bZujU5u1" text="Battania Guard"/>
+  <!--input/mcga/mcga_cultures.xml-->
+  <string id="FjwRsf1C" text="Vlandia"/>
+  <string id="1Ww5lg6I" text="The first Vlandians arrived from overseas, mercenaries and adventurers, speaking the tongues of many lands, taking the empire's silver to guard the frontiers against the unsubdued tribes of the interior. They took their name from one of their first warlords, Wilund the Bold - Valandion, in Calradic - and became known as the Vlandians. Their heavy cavalry, second to none, ran down the Emperor's foes from the Aserai wastes to the distant steppes. But cash-strapped officials soon began to pay them with land grants and titles instead of silver, perhaps not the most far-sighted of policies. The Vlandians settled, married, planted farms, and seized nearby imperial fortresses as their own. Now they are an independent kingdom, their traditions drawing from both Calradia and their distant homelands."/>
+  <string id="fUQlCkCQ" text="Anbard"/>
+  <string id="bHTdXTwC" text="Alary"/>
+  <string id="8bWBc3sK" text="Alayen"/>
+  <string id="vEsKYrFR" text="Aldric"/>
+  <string id="8C19nvLL" text="Althegar"/>
+  <string id="D6sMSANW" text="Amalgun"/>
+  <string id="IpC3oUbT" text="Amaldulf"/>
+  <string id="8SBw5PzN" text="Armund"/>
+  <string id="ZM8fmXGb" text="Badulf"/>
+  <string id="Gv5vdqxI" text="Borvald"/>
+  <string id="muB0Y0iv" text="Bothero"/>
+  <string id="dP5A3wwT" text="Boscoric"/>
+  <string id="PwflQ4dc" text="Brand"/>
+  <string id="pUQgrcQo" text="Brun"/>
+  <string id="83e9F9bC" text="Brungalther"/>
+  <string id="MN8aE2yP" text="Caroger"/>
+  <string id="swzCKty3" text="Carsten"/>
+  <string id="4mUKn5Hg" text="Cherald"/>
+  <string id="1JgWclmT" text="Choric"/>
+  <string id="9l3RSCJp" text="Colsund"/>
+  <string id="1suLcaso" text="Cunbert"/>
+  <string id="a4hrvaEQ" text="Daliger"/>
+  <string id="Abzr6Dbv" text="Darbard"/>
+  <string id="EY0CcPfr" text="Dinoric"/>
+  <string id="VQYTvnfW" text="Durold"/>
+  <string id="hTw3MjbR" text="Ecard"/>
+  <string id="YSwz9JUr" text="Elthert"/>
+  <string id="SWM5cmVP" text="Entho"/>
+  <string id="PuRfbiW3" text="Erdurand"/>
+  <string id="Jr84qoAW" text="Ethenbold"/>
+  <string id="NH6avjbc" text="Falsevor"/>
+  <string id="8YhNZHtC" text="Fenton"/>
+  <string id="9HcXWNoh" text="Folc"/>
+  <string id="sIjuSRYT" text="Fredacard"/>
+  <string id="r1RohnC6" text="Furcred"/>
+  <string id="qhaBUQQx" text="Furenhard"/>
+  <string id="8kajrmx4" text="Galric"/>
+  <string id="aDAJGO4y" text="Galthar"/>
+  <string id="oKeoaDcF" text="Garmund"/>
+  <string id="kUnGuyKG" text="Garvy"/>
+  <string id="xp1wiXvW" text="Genalf"/>
+  <string id="wuGPSje6" text="Greveth"/>
+  <string id="CXpnTfdk" text="Guldrimand"/>
+  <string id="Ta0zl7o1" text="Gutlans"/>
+  <string id="sF0H1hEV" text="Halgard"/>
+  <string id="8KoaUqQz" text="Helmold"/>
+  <string id="tW6wEhuR" text="Hirobert"/>
+  <string id="iaUQ9lt9" text="Ingalther"/>
+  <string id="17k0NVul" text="Inric"/>
+  <string id="PS4mJwUV" text="Isilcred"/>
+  <string id="kWEta4kl" text="Lamcard"/>
+  <string id="x1mVOiYC" text="Leothold"/>
+  <string id="0YAZ51bc" text="Lorgand"/>
+  <string id="z6GIOwi9" text="Malbert"/>
+  <string id="sWBxHVzp" text="Merovic"/>
+  <string id="ywlfoIUX" text="Merteon"/>
+  <string id="EHalkcEU" text="Morcon"/>
+  <string id="l95tJ2ly" text="Nerric"/>
+  <string id="jeYqsu2T" text="Normund"/>
+  <string id="xu0MkWUY" text="Olgurnond"/>
+  <string id="r3GTFdoy" text="Olither"/>
+  <string id="qrAEaydU" text="Orest"/>
+  <string id="TUQlQWzb" text="Origand"/>
+  <string id="K2UdjFvi" text="Orunhard"/>
+  <string id="DBHAFW5k" text="Osric"/>
+  <string id="aTcSQ7MY" text="Oto"/>
+  <string id="bopqRUEQ" text="Papenbard"/>
+  <string id="y7rQ4USD" text="Perin"/>
+  <string id="wsCMwqFw" text="Peribard"/>
+  <string id="V3QHxJb1" text="Polmarc"/>
+  <string id="i9ZDrsi1" text="Rafard"/>
+  <string id="sGYHxIub" text="Reamald"/>
+  <string id="VVT3bMc2" text="Regbold"/>
+  <string id="4kvs02aU" text="Robric"/>
+  <string id="abCBBVaU" text="Romund"/>
+  <string id="0OFMT7AO" text="Rothard"/>
+  <string id="FwcFIHfl" text="Sevelar"/>
+  <string id="5QLjWfGN" text="Sicard"/>
+  <string id="gSHrv734" text="Sorgar"/>
+  <string id="cEV3G3k8" text="Stenalf"/>
+  <string id="dFHXmyaj" text="Tandred"/>
+  <string id="qtwYBHIn" text="Thomund"/>
+  <string id="DiGVNCZ1" text="Thorgud"/>
+  <string id="iltXQqgS" text="Turvald"/>
+  <string id="bm9surN9" text="Ubold"/>
+  <string id="wvLyCxZz" text="Ulvard"/>
+  <string id="kIrWyLut" text="Undgar"/>
+  <string id="RuxlFoDa" text="Untheric"/>
+  <string id="BxdYS56H" text="Urentur"/>
+  <string id="Xp0RHe1F" text="Vadicand"/>
+  <string id="VYWtQe8r" text="Varmond"/>
+  <string id="HcmkBkYp" text="Vigother"/>
+  <string id="ystHsOQi" text="Vilmarand"/>
+  <string id="RWTcOnCF" text="Vorard"/>
+  <string id="aCTplh2G" text="Vorthert"/>
+  <string id="bFCk1Jrn" text="Anhalm"/>
+  <string id="Ayb3bCJn" text="Arthobald"/>
+  <string id="YiVqz8eW" text="Chalric"/>
+  <string id="3mdyg3nF" text="Davobard"/>
+  <string id="A8E9c4RM" text="Emencard"/>
+  <string id="ZJjgZVHq" text="Endry"/>
+  <string id="eJh7b90l" text="Forencard"/>
+  <string id="86iEfIma" text="Funder"/>
+  <string id="jFRrRgJx" text="Gilvard"/>
+  <string id="tGaIU6Jk" text="Gunteric"/>
+  <string id="zyoEpXek" text="Humalgart"/>
+  <string id="Cy8doiyv" text="Lamarc"/>
+  <string id="Mc58AHLa" text="Norbrand"/>
+  <string id="ulua6Frr" text="Orthol"/>
+  <string id="USkaRPEQ" text="Samandry"/>
+  <string id="D2r7VbZ8" text="Talimund"/>
+  <string id="lbNiWBRN" text="Thalric"/>
+  <string id="W6htECeI" text="Thavin"/>
+  <string id="b8pMwtQu" text="Therard"/>
+  <string id="dPeYqphG" text="Tunric"/>
+  <string id="eRh71UOr" text="Ulgaric"/>
+  <string id="DaCppjI9" text="Ulpo"/>
+  <string id="WtIBqZr6" text="Vanther"/>
+  <string id="ybDa8V4I" text="Adalis"/>
+  <string id="lac74G8a" text="Agatheuda"/>
+  <string id="HMCZ2w9t" text="Anaheid"/>
+  <string id="w9fY8ab4" text="Arigun"/>
+  <string id="N4y8hPX9" text="Asgerta"/>
+  <string id="YlVmRzCI" text="Athafled"/>
+  <string id="CgwHKuzD" text="Beltrud"/>
+  <string id="C2yNuOKd" text="Beswinda"/>
+  <string id="nOJ9W5FE" text="Brunda"/>
+  <string id="KsBoNHW5" text="Calatild"/>
+  <string id="6I6GVFpq" text="Carmenet"/>
+  <string id="eoF4TEr2" text="Daliset"/>
+  <string id="vjeyAchh" text="Deragunda"/>
+  <string id="zcXPVYs5" text="Detheuda"/>
+  <string id="Yl4EsjBg" text="Drusabalda"/>
+  <string id="9AOFkQBo" text="Elta"/>
+  <string id="Ub0awU1n" text="Ewyn"/>
+  <string id="3LMFx9dL" text="Friduna"/>
+  <string id="fkP7RRFe" text="Gerta"/>
+  <string id="Du2Xg6rp" text="Gertlind"/>
+  <string id="B15WfmQT" text="Gisilchild"/>
+  <string id="BWEmxWv0" text="Iguntha"/>
+  <string id="wDRBoiTC" text="Iliset"/>
+  <string id="lMMbmuwp" text="Isigund"/>
+  <string id="7Jd3g0XP" text="Isilflaed"/>
+  <string id="LZ2nBcdv" text="Lis"/>
+  <string id="W6UjOymF" text="Lucibalda"/>
+  <string id="Ba8jWKUq" text="Manachild"/>
+  <string id="boUKXQz0" text="Margund"/>
+  <string id="GZXVCS5B" text="Melind"/>
+  <string id="2Sn4uK35" text="Orgunda"/>
+  <string id="QAHEa5Qr" text="Petta"/>
+  <string id="Rl3D8X2o" text="Rathegund"/>
+  <string id="IDeemU90" text="Roslind"/>
+  <string id="OsjlCBYZ" text="Saralind"/>
+  <string id="ppmUUMY7" text="Sigatruda"/>
+  <string id="wCYpyCab" text="Sotild"/>
+  <string id="Ga3uaJY1" text="Theraflaed"/>
+  <string id="26tqV3ak" text="Theuda"/>
+  <string id="C7aaPCCs" text="Vanalind"/>
+  <string id="b6Ml7BkH" text="Veronet"/>
+  <string id="9I9ziX31" text="Vilatrud"/>
+  <string id="p1dFvTAc" text="dey {ORIGIN_SETTLEMENT}"/>
+  <string id="PjO7oY16" text="Sturgia"/>
+  <string id="Ud1AMybr" text="The Sturgians come from the northern woods, just south of the icy Byalic Sea. For centuries they lived an isolated existence in the dark forests, their numbers kept in check by the deadly winters. But as the Empire expanded to fill out the Calradian continent, traders ventured into the woods in search of honey, bog iron, and most of all fur. Great towns sprung up on the network of bays and lakes that joined the Sturgian lands to the outside world, attracting fortune-seekers from the coast, the steppes, and the Nordlands. The princes and boyars of this land have now begun to turn their eyes outward, earning themselves for a reputation for their warlike approach to business and their businesslike approach to war."/>
+  <string id="jVPr0ZzB" text="Achyr"/>
+  <string id="iFJbnbCQ" text="Agdil"/>
+  <string id="pqlMxWoM" text="Alek"/>
+  <string id="bNj9gI2y" text="Astin"/>
+  <string id="oyxam3bN" text="Blag"/>
+  <string id="KbIHavJj" text="Borabos"/>
+  <string id="38o99yqa" text="Borcha"/>
+  <string id="zYAl76GW" text="Borytor"/>
+  <string id="ODVepnRR" text="Bylorn"/>
+  <string id="6FebKbCp" text="Chel"/>
+  <string id="0ZXMKL4M" text="Chavil"/>
+  <string id="ORJZJYt7" text="Churig"/>
+  <string id="eYY8319F" text="Dalibol"/>
+  <string id="CoYOwpLP" text="Davan"/>
+  <string id="YdMwMdyf" text="Dumat"/>
+  <string id="z3rmbOSO" text="Gavyn"/>
+  <string id="pfAkvdYc" text="Gorgi"/>
+  <string id="J5kC0K3W" text="Gutrag"/>
+  <string id="aYiL7eDM" text="Ilmir"/>
+  <string id="ZkaaXxeB" text="Isvan"/>
+  <string id="WNb0Bw0e" text="Kavyl"/>
+  <string id="bzXmtoC6" text="Koleg"/>
+  <string id="BGHBvAK1" text="Kulyat"/>
+  <string id="FkbO2Abd" text="Kras"/>
+  <string id="fYN6Aawl" text="Kyraslav"/>
+  <string id="HxKE18yl" text="Lasvak"/>
+  <string id="KBq7aQRa" text="Lek"/>
+  <string id="Py1Jj5mB" text="Lorik"/>
+  <string id="bzaLf3EU" text="Magan"/>
+  <string id="BD4XeP07" text="Mikri"/>
+  <string id="vPlwv7Vj" text="Miloch"/>
+  <string id="Xo1ZwCmu" text="Mor"/>
+  <string id="G92bovut" text="Mornid"/>
+  <string id="hWKKCdeX" text="Mulum"/>
+  <string id="DkXPe3A3" text="Nevig"/>
+  <string id="A2AYaNWM" text="Orig"/>
+  <string id="EUQTT8so" text="Oshir"/>
+  <string id="CSizDomP" text="Ospak"/>
+  <string id="cv1QgU1H" text="Pazhel"/>
+  <string id="M1ORaYny" text="Pol"/>
+  <string id="4KZXSIjc" text="Porev"/>
+  <string id="eMcQ35QA" text="Radul"/>
+  <string id="rahYvT3x" text="Ragnar"/>
+  <string id="iOYRpw24" text="Ratagost"/>
+  <string id="jACaGLM5" text="Salulk"/>
+  <string id="XDAQgjpH" text="Simir"/>
+  <string id="rtHgoGvb" text="Sivur"/>
+  <string id="5YsDdW9s" text="Sorgard"/>
+  <string id="mfu9UqLL" text="Shemyr"/>
+  <string id="tOmtchNx" text="Tanir"/>
+  <string id="B7zKKiYQ" text="Tatik"/>
+  <string id="tp3yvlYW" text="Temyr"/>
+  <string id="gzej3EbY" text="Tulvo"/>
+  <string id="4ABVdxKn" text="Tyl"/>
+  <string id="7T5z6N7e" text="Ulaslav"/>
+  <string id="wlwVPqjP" text="Uln"/>
+  <string id="uDlnsFIF" text="Urik"/>
+  <string id="jqaPJbpP" text="Urgil"/>
+  <string id="htJuLron" text="Varag"/>
+  <string id="cjYLX7sZ" text="Valishin"/>
+  <string id="e6goEM5b" text="Valdym"/>
+  <string id="cpkNaEmz" text="Vaton"/>
+  <string id="hy7mIh48" text="Vidar"/>
+  <string id="kEw7yody" text="Volg"/>
+  <string id="t0TXa7Fp" text="Vuldrat"/>
+  <string id="bU46gvya" text="Vulfyr"/>
+  <string id="OABjrV1T" text="Vyoshen"/>
+  <string id="j6K4Z1L6" text="Yalyr"/>
+  <string id="NAVXhanI" text="Yarli"/>
+  <string id="agn93v7y" text="Yorig"/>
+  <string id="XxSD6GAu" text="Yun"/>
+  <string id="zLl1UEYM" text="Zhem"/>
+  <string id="Fn064VUZ" text="Zhutyr"/>
+  <string id="25zTek7a" text="Alakhir"/>
+  <string id="wf4cGf3B" text="Bovidor"/>
+  <string id="6hCz0ZFN" text="Byram"/>
+  <string id="AMbdha2J" text="Chemnir"/>
+  <string id="pvuNmZF8" text="Ivulis"/>
+  <string id="m8dVlsEy" text="Khym"/>
+  <string id="Av5aCluG" text="Svato"/>
+  <string id="SvyDUmw3" text="Vyanimir"/>
+  <string id="oPmn1SHy" text="Zuvan"/>
+  <string id="bLY1zbNI" text="Zvatim"/>
+  <string id="vz038vX7" text="Achita"/>
+  <string id="UaOynysV" text="Agna"/>
+  <string id="WP63fA7r" text="Alkirya"/>
+  <string id="XqcD0WEu" text="Asta"/>
+  <string id="daulkQvv" text="Brinya"/>
+  <string id="VaqB0x4K" text="Dranga"/>
+  <string id="scCmMFeI" text="Ekadrya"/>
+  <string id="9pnUaj0g" text="Elyaksha"/>
+  <string id="yNSLGTYc" text="Erta"/>
+  <string id="YahyjyK5" text="Gudra"/>
+  <string id="Q8gCUmQq" text="Gyn"/>
+  <string id="Z5NIRUPc" text="Idruna"/>
+  <string id="7n7V9Va5" text="Irya"/>
+  <string id="4Su3mMpd" text="Ivaren"/>
+  <string id="6fbD85kZ" text="Kara"/>
+  <string id="RrdzC0Mx" text="Kalata"/>
+  <string id="AMmJVlrt" text="Kyraslava"/>
+  <string id="8Rirvd8I" text="Laska"/>
+  <string id="cxNCgqkI" text="Litka"/>
+  <string id="7Lkbtnet" text="Luvina"/>
+  <string id="yhCgI9ph" text="Magna"/>
+  <string id="9SJa91sZ" text="Marena"/>
+  <string id="R1yWuIzd" text="Melya"/>
+  <string id="C4akgRTN" text="Milisa"/>
+  <string id="Bt4MdhYE" text="Olguna"/>
+  <string id="OQLPPwrL" text="Osea"/>
+  <string id="Ao69q2aY" text="Pera"/>
+  <string id="DfZ5oi0O" text="Ragna"/>
+  <string id="2Bh8DS8S" text="Siga"/>
+  <string id="sIBcdaxD" text="Soren"/>
+  <string id="b2d9BYxT" text="Svana"/>
+  <string id="qu9adIvZ" text="Talya"/>
+  <string id="zAC87rrQ" text="Tora"/>
+  <string id="r28vZDkN" text="Vara"/>
+  <string id="5o1bM9G0" text="Vasinya"/>
+  <string id="t6e4wphB" text="Veta"/>
+  <string id="qUJhzsb1" text="Yagada"/>
+  <string id="X4ZS4q8L" text="Yasna"/>
+  <string id="meNjBd0K" text="Zanya"/>
+  <string id="R1JECC9r" text="Zhira"/>
+  <string id="Lv753Nnn" text="Zylata"/>
+  <string id="OLLYkaWd" text="Asraloving"/>
+  <string id="yUuM8a0j" text="Boranoving"/>
+  <string id="euyyBbjq" text="Folyoroving"/>
+  <string id="ODcWVL1a" text="Gendiroving"/>
+  <string id="UYqwbjTP" text="Iskanoving"/>
+  <string id="z2Oqk8aq" text="Maregoving"/>
+  <string id="lpbIXNdK" text="Suratoving"/>
+  <string id="RFapQLfR" text="Vyshoving"/>
+  <string id="gC1paDtD" text="Yerchoving"/>
+  <string id="qD72Ya4I" text="Zhanoving"/>
+  <string id="0B27RrYJ" text="Battania"/>
+  <string id="Ax9OkgL5" text="The misty hills of north-western Calradia are dominated by the Battanian clans, the original inhabitants of much of the continent. Their hilltop fortresses have born witness to countless wars fought to resist outside invaders: first the Empire's legions, and more recently the rising Sturgian and Vlandian kingdoms. They are masters of the longbow, the night raid, the sudden wild charge out of the woods. They idolise valour, but especially like it when mixed with a bit of mischief - the cattle thief who can whisk an entire herd into the fog; the champion who dines with a rival tribe, and, regaling his hosts with an anecdote of battle, produces from his bag the skull of one of their kinsmen that he took as a souvenir."/>
+  <string id="VP9hqkxO" text="Aedid"/>
+  <string id="5oRDaemv" text="Aeric"/>
+  <string id="LpLL0m3O" text="Arlech"/>
+  <string id="Z7GxyIaC" text="Borun"/>
+  <string id="MpZCQ0z1" text="Breadan"/>
+  <string id="RfxXnZ8Z" text="Cadugan"/>
+  <string id="StJ9aR91" text="Cadfin"/>
+  <string id="IkTCwsB8" text="Col"/>
+  <string id="0CQgia2a" text="Culharn"/>
+  <string id="T9bXZA0W" text="Cynac"/>
+  <string id="vDGYMAmm" text="Dermot"/>
+  <string id="9vBp5E0Q" text="Derngil"/>
+  <string id="FNHFzVCU" text="Edwain"/>
+  <string id="TLZKQSb1" text="Egan"/>
+  <string id="cL1lO5iP" text="Ergeon"/>
+  <string id="fydMDGtL" text="Fercread"/>
+  <string id="6bBj5HgU" text="Garain"/>
+  <string id="68JEMvYl" text="Griff"/>
+  <string id="lMrP68Ba" text="Grynad"/>
+  <string id="rTGmgm4b" text="Ioren"/>
+  <string id="074bIPbm" text="Llum"/>
+  <string id="bDMmX9YI" text="Luichan"/>
+  <string id="K4UdL65N" text="Lyd"/>
+  <string id="MNFMqV3n" text="Lyfris"/>
+  <string id="d8D98oFG" text="Melidir"/>
+  <string id="SFybYZNK" text="Mengus"/>
+  <string id="tCTzsaIu" text="Muinser"/>
+  <string id="6AwXDgIK" text="Mych"/>
+  <string id="qhanbPZ9" text="Nal"/>
+  <string id="bbJLOMhl" text="Pelisor"/>
+  <string id="tHtt3HCn" text="Pryndor"/>
+  <string id="rgskh3ve" text="Rhagyd"/>
+  <string id="iTRV8m4Y" text="Rhylan"/>
+  <string id="fG19XSVm" text="Rugan"/>
+  <string id="Xnngcfg9" text="Sein"/>
+  <string id="e52LPp57" text="Udris"/>
+  <string id="TxKnmzwT" text="Urien"/>
+  <string id="uAS832LM" text="Ydwin"/>
+  <string id="6pAsFGvw" text="Abeil"/>
+  <string id="WuMGWUJ7" text="Addien"/>
+  <string id="4Vd1TXpN" text="Anwyn"/>
+  <string id="86L9ayRV" text="Athlian"/>
+  <string id="ZgGnqkki" text="Beniseth"/>
+  <string id="Wuiog2eu" text="Brigis"/>
+  <string id="9WMeUGTy" text="Caelis"/>
+  <string id="AYdwWae6" text="Ceatra"/>
+  <string id="xqC8yfah" text="Cidre"/>
+  <string id="gqJUdECJ" text="Daellian"/>
+  <string id="Gwfb6O5O" text="Eira"/>
+  <string id="jwcpnm8K" text="Eidenor"/>
+  <string id="7uj8QoPA" text="Fetheir"/>
+  <string id="w1a9E7a9" text="Fiasyn"/>
+  <string id="2s7Tb4NC" text="Fionara"/>
+  <string id="TWykLiFB" text="Gweth"/>
+  <string id="VWSA8EVV" text="Gwennein"/>
+  <string id="p4BMhcsQ" text="Iara"/>
+  <string id="tTmqewol" text="Ifrain"/>
+  <string id="6LRFHHqT" text="Imulir"/>
+  <string id="Ma855h44" text="Iona"/>
+  <string id="pVGKlS3W" text="Istiona"/>
+  <string id="ODSf45wh" text="Leadh"/>
+  <string id="RZ5bYYmX" text="Lisaradh"/>
+  <string id="WNu6dKHe" text="Lliari"/>
+  <string id="jMPWSzAi" text="Loen"/>
+  <string id="rtljufhM" text="Mariwyn"/>
+  <string id="eCCuztOS" text="Moera"/>
+  <string id="iNFahwv3" text="Nia"/>
+  <string id="gU5cMdTT" text="Norena"/>
+  <string id="YEqDIbir" text="Oana"/>
+  <string id="jCrbe08Y" text="Olawyn"/>
+  <string id="h6dabKXz" text="Reissen"/>
+  <string id="aYr6ovxb" text="Rhagin"/>
+  <string id="ncEWiljT" text="Rhia"/>
+  <string id="SVruYnYb" text="Selag"/>
+  <string id="Y49TwXg4" text="Sionna"/>
+  <string id="Fe90zVYF" text="Soeras"/>
+  <string id="W4VYqLYc" text="Veraghid"/>
+  <string id="UtfVuNN0" text="Vivein"/>
+  <string id="vb2rv3OK" text="Una"/>
+  <string id="PlGiSfwr" text="Ylen"/>
+  <string id="ppQbB9BH" text="fen Aertus"/>
+  <string id="T1xNyk3H" text="fen Brachar"/>
+  <string id="CYxjotI2" text="fen Crusac"/>
+  <string id="begCei6W" text="fen Domus"/>
+  <string id="iQbFDpKT" text="fen Earach"/>
+  <string id="SQji7Ek8" text="fen Fiachan"/>
+  <string id="GBfFp7bW" text="fen Loen"/>
+  <string id="T1mpRVib" text="fen Morain"/>
+  <string id="rjew3J8a" text="fen Seanel"/>
+  <string id="MHT9jCqB" text="fen Tuil"/>
+  <string id="empirefaction" text="Empire"/>
+  <string id="X0kKBzsW" text="The Calradians are the people of the Empire, though by now they have given their name to the entire continent which they dominate. A thousand years ago, they were an undistinguished tribe living in the hill country between the southern sea and the Battanian woods. One tradition set them apart from their neighbors - the Calradoi had no kings. Their citizenry has always taken an intense interest in the art of self-government, the balance between protecting the liberty of individuals and the needs of the state. Perhaps this is why they had a slight edge in the endless wars between one town and another, keeping armies in the field just a little longer, bouncing back just a little more quickly from a defeat. Some of their neighbors federated with them; others were overrun. Eventually the Calradians formed an empire, which evolved into a monarchy in all but name. Their leaders are no longer distinguished civic elders but great landholders scattered across the continent; the striking force of their armies is no longer citizen-infantry but heavily armored cataphracts in the retinues of the wealthy. But they still take their civic traditions very seriously, believing that the Calradian ideal can unite a continent in peace, if only the ”barbarians” beyond their borders would agree to submit to it."/>
+  <string id="v9B50R0Q" text="Acarion"/>
+  <string id="aeLgc0cU" text="Acthon"/>
+  <string id="tWDyWroN" text="Amnon"/>
+  <string id="uTFjknE2" text="Andros"/>
+  <string id="fXgftgNv" text="Aphanys"/>
+  <string id="QjJAbaoT" text="Apys"/>
+  <string id="zInIqBD0" text="Arenicos"/>
+  <string id="W1uwgvAQ" text="Arion"/>
+  <string id="5VzWRMTn" text="Artimendros"/>
+  <string id="rGuYLmez" text="Ascyron"/>
+  <string id="J1nh9YiN" text="Atilon"/>
+  <string id="NBAGX54b" text="Avigos"/>
+  <string id="9cDw6vPF" text="Cadomenos"/>
+  <string id="R11i2uVl" text="Calytos"/>
+  <string id="lD1sl2XC" text="Camnon"/>
+  <string id="LP7yYoGQ" text="Caribos"/>
+  <string id="VhbasI9J" text="Castor"/>
+  <string id="VG9ng2n2" text="Chandion"/>
+  <string id="aezwJGvY" text="Chenon"/>
+  <string id="acp2IcMs" text="Crotor"/>
+  <string id="XKxeaF0I" text="Dalidos"/>
+  <string id="pCBkH35Q" text="Danos"/>
+  <string id="2OJEyP0d" text="Dasys"/>
+  <string id="SoTUisL3" text="Deltisos"/>
+  <string id="2uKoNaSG" text="Denos"/>
+  <string id="HfuAdGQX" text="Destor"/>
+  <string id="lEHtUGed" text="Diocosos"/>
+  <string id="5EiKEdi5" text="Dorion"/>
+  <string id="yAZC6F7P" text="Ecsorios"/>
+  <string id="hyOgAehG" text="Emarys"/>
+  <string id="rUvnbDi2" text="Encurion"/>
+  <string id="KjzJjj5n" text="Eronys"/>
+  <string id="gYit4RTe" text="Euchor"/>
+  <string id="oQCZp9qv" text="Eumenys"/>
+  <string id="uW38UtSH" text="Eupitor"/>
+  <string id="WfAuSpJq" text="Eutos"/>
+  <string id="RyorjCXF" text="Galon"/>
+  <string id="ZFlIT1tH" text="Ganimynos"/>
+  <string id="f3hTGKIP" text="Garitops"/>
+  <string id="nqxxr9We" text="Gavalon"/>
+  <string id="iDxygnVF" text="Gerotheon"/>
+  <string id="rFbAjSWM" text="Gorigos"/>
+  <string id="NxDJcR2c" text="Haratheos"/>
+  <string id="tgVJZ1Uc" text="Hecaron"/>
+  <string id="wQJGxBJI" text="Hophtalamos"/>
+  <string id="4lEEqyCg" text="Jacorios"/>
+  <string id="DwzrsJxS" text="Jamanys"/>
+  <string id="IU63oxWD" text="Jemynon"/>
+  <string id="t1OpnZph" text="Jeremos"/>
+  <string id="katzUyMI" text="Joron"/>
+  <string id="GWaJ7Ksq" text="Joculos"/>
+  <string id="iJvIH6NP" text="Jutheros"/>
+  <string id="BCy1KpvR" text="Lacalion"/>
+  <string id="6LMiTKZz" text="Lamenon"/>
+  <string id="F13aYbuk" text="Lavalios"/>
+  <string id="NFIQZOPQ" text="Leosios"/>
+  <string id="lbTMVAcI" text="Lerosion"/>
+  <string id="bHbR5Mgy" text="Losys"/>
+  <string id="CbxLZdVg" text="Lycos"/>
+  <string id="HCXHcBzT" text="Mattis"/>
+  <string id="X21PahQn" text="Menaclys"/>
+  <string id="am2UnbAK" text="Menor"/>
+  <string id="tTuaiLS6" text="Meritor"/>
+  <string id="qqW5n5Ox" text="Milos"/>
+  <string id="5yFy4U4i" text="Morynon"/>
+  <string id="ud6rhXbn" text="Mostiros"/>
+  <string id="04zSjaRe" text="Nartiros"/>
+  <string id="FF3dQKc1" text="Nethor"/>
+  <string id="u1lTJoPO" text="Nemos"/>
+  <string id="sDFb1PRI" text="Nortos"/>
+  <string id="QGIAbglw" text="Obron"/>
+  <string id="AEaRpupL" text="Ocheros"/>
+  <string id="ZmQx4gT3" text="Olichor"/>
+  <string id="pq0w8kry" text="Orachos"/>
+  <string id="JFVseSa3" text="Oros"/>
+  <string id="7UkzXWTQ" text="Osarios"/>
+  <string id="cZIhxH9e" text="Pacarios"/>
+  <string id="9sokmYMZ" text="Padmos"/>
+  <string id="NXOOJs2X" text="Patrys"/>
+  <string id="plx8kkxa" text="Pelicos"/>
+  <string id="1cKxsHSh" text="Penton"/>
+  <string id="vgBRa2BE" text="Poraclys"/>
+  <string id="q186AQHt" text="Phadon"/>
+  <string id="yhfJVEe0" text="Phelenos"/>
+  <string id="LMWiJi6V" text="Phirentos"/>
+  <string id="XZxIpCQH" text="Phorys"/>
+  <string id="VJbAdJe4" text="Purios"/>
+  <string id="M9CWBbMe" text="Rhanos"/>
+  <string id="P1zsoSPN" text="Rhovarion"/>
+  <string id="Ho6zsGTI" text="Sachanion"/>
+  <string id="5eTb2xr7" text="Sanion"/>
+  <string id="Zm4a2xsf" text="Salusios"/>
+  <string id="egCbjHDT" text="Semnon"/>
+  <string id="GeJobcre" text="Sinor"/>
+  <string id="E4WhEvu7" text="Sotherys"/>
+  <string id="FClEZIkT" text="Sovos"/>
+  <string id="rVUhYuvE" text="Suterios"/>
+  <string id="PDK4FHAx" text="Suvys"/>
+  <string id="Axe5FkET" text="Talison"/>
+  <string id="PR4IqkTW" text="Temeon"/>
+  <string id="9xyXdX4I" text="Tharos"/>
+  <string id="zfUhnG7y" text="Themestios"/>
+  <string id="9mQuSI3c" text="Thucasys"/>
+  <string id="P7iNhhPl" text="Turiados"/>
+  <string id="kfNW01y5" text="Tynops"/>
+  <string id="amlzciqP" text="Ucasios"/>
+  <string id="wbJzSg3X" text="Ulbesos"/>
+  <string id="SRncaw79" text="Urios"/>
+  <string id="pRbKbPK3" text="Vadrios"/>
+  <string id="TiJOjUi5" text="Valaos"/>
+  <string id="5nEh20ju" text="Vasylops"/>
+  <string id="VN1D1Qps" text="Velanor"/>
+  <string id="QNtdUfis" text="Vemioros"/>
+  <string id="bWb245zO" text="Voleos"/>
+  <string id="aH2ncPbK" text="Zalasos"/>
+  <string id="WTePYMNF" text="Zaraclys"/>
+  <string id="p0hcyZdp" text="Zenon"/>
+  <string id="3RBVn5yi" text="Zoros"/>
+  <string id="uCyAnus4" text="Zostios"/>
+  <string id="7hYr7jQ7" text="Leutros"/>
+  <string id="e7dayl1i" text="Mavinon"/>
+  <string id="3EZMoUlp" text="Narmys"/>
+  <string id="PvoTcJHa" text="Naselos"/>
+  <string id="QumqvLnP" text="Ochivos"/>
+  <string id="gxHrt6bC" text="Phamynor"/>
+  <string id="6IDmRZ5k" text="Phestos"/>
+  <string id="ek1Q2TJz" text="Polon"/>
+  <string id="h8DsXm7X" text="Achena"/>
+  <string id="BNnLbOkN" text="Adinea"/>
+  <string id="EGatdCLg" text="Alena"/>
+  <string id="UPaP0B2L" text="Alchyla"/>
+  <string id="QyXwJXIV" text="Andrasa"/>
+  <string id="NM5f1Q6I" text="Ariada"/>
+  <string id="3RbayfTG" text="Ascytala"/>
+  <string id="bmHAYBwX" text="Catila"/>
+  <string id="AdK4Ilzw" text="Chalia"/>
+  <string id="xVSOKf0p" text="Chara"/>
+  <string id="915frsPd" text="Corena"/>
+  <string id="KPQqENbd" text="Carinila"/>
+  <string id="BNuZ6nvd" text="Daniria"/>
+  <string id="sEgUB3jW" text="Deasora"/>
+  <string id="YBGCXSEx" text="Debana"/>
+  <string id="93hivVp6" text="Donysa"/>
+  <string id="0dHy2430" text="Echalera"/>
+  <string id="Oy5dH7gZ" text="Elea"/>
+  <string id="2YbgWjTK" text="Emyna"/>
+  <string id="rA3KybBX" text="Ethirea"/>
+  <string id="qiTtJyHE" text="Gala"/>
+  <string id="fGmpS0Dr" text="Gandarina"/>
+  <string id="ecJRFHyY" text="Gisetha"/>
+  <string id="a6qaFH7L" text="Herena"/>
+  <string id="LE9mRhSs" text="Hespedia"/>
+  <string id="tGhrpQ0D" text="Hyradia"/>
+  <string id="0MJi7mre" text="Hyscasia"/>
+  <string id="JQdqGaaB" text="Isibala"/>
+  <string id="RHXdqjQY" text="Ilina"/>
+  <string id="HSlPLC4m" text="Ira"/>
+  <string id="PNR2CvvX" text="Ithicala"/>
+  <string id="eOHeCKxn" text="Jespara"/>
+  <string id="6vtmYjTW" text="Jolanna"/>
+  <string id="Ew69yN84" text="Juthys"/>
+  <string id="028iCb8B" text="Jythea"/>
+  <string id="Jif1C3X3" text="Laria"/>
+  <string id="LX1YS9DW" text="Lasilea"/>
+  <string id="2oy7atk6" text="Lundana"/>
+  <string id="dwFZFQ6V" text="Lysica"/>
+  <string id="2fYYfHUI" text="Martira"/>
+  <string id="cqSaKXzl" text="Matha"/>
+  <string id="Vxt0xTvV" text="Mavea"/>
+  <string id="lgvtLEDA" text="Melchea"/>
+  <string id="QvfUqzpF" text="Mina"/>
+  <string id="11KckWau" text="Mitara"/>
+  <string id="IJlw8V5D" text="Mystesa"/>
+  <string id="uLjRHv9p" text="Nadea"/>
+  <string id="hreO0wwb" text="Nerhea"/>
+  <string id="04dAbdjM" text="Nyvia"/>
+  <string id="dLOlnl8m" text="Palysira"/>
+  <string id="pXBvPxHI" text="Penestea"/>
+  <string id="FUT6eXfw" text="Phaea"/>
+  <string id="WrAMfIG1" text="Phenoria"/>
+  <string id="uYbmhjI6" text="Rhamira"/>
+  <string id="BIAEZaVx" text="Rhandana"/>
+  <string id="H7oJaxqM" text="Rhelasa"/>
+  <string id="XMTD2clw" text="Rhoe"/>
+  <string id="0XEaaoah" text="Rosazia"/>
+  <string id="L9weGfoX" text="Salea"/>
+  <string id="nSoJkeBI" text="Sittacea"/>
+  <string id="V1QLbhRl" text="Sora"/>
+  <string id="qMJ7UZvk" text="Surena"/>
+  <string id="gmD9mgR1" text="Synira"/>
+  <string id="Cxazvjr3" text="Tamarea"/>
+  <string id="b2aRoXsb" text="Tessa"/>
+  <string id="bQKbW8Tx" text="Thasyna"/>
+  <string id="YVVCaQE5" text="Thera"/>
+  <string id="CvVJyKYA" text="Thelea"/>
+  <string id="jJV5Tn09" text="Tethyclesa"/>
+  <string id="e4jAHUX0" text="Tymata"/>
+  <string id="z2KE7glc" text="Thylea"/>
+  <string id="3bIc2X2l" text="Vaminesa"/>
+  <string id="VzhbUL60" text="Vendelia"/>
+  <string id="a2ajWcI3" text="Viria"/>
+  <string id="5VZ0GF6Y" text="Zalisa"/>
+  <string id="wbLqHvjE" text="Zerosica"/>
+  <string id="zxZH2WbD" text="Zimena"/>
+  <string id="AccBcEIt" text="Zoana"/>
+  <string id="pRA9EzNv" text="Acapanos"/>
+  <string id="ogq9oxDn" text="Angarys"/>
+  <string id="MgDUudOx" text="Balastisos"/>
+  <string id="Rvww4Kxi" text="Corstases"/>
+  <string id="kWiQaFLM" text="Delicos"/>
+  <string id="DiB4ukeK" text="Elysos"/>
+  <string id="pUvrTrHT" text="Gessios"/>
+  <string id="fsOUhzLv" text="Jalos"/>
+  <string id="CuocGtTq" text="Lestharos"/>
+  <string id="FVl3D2qT" text="Meones"/>
+  <string id="fAKa9JfU" text="Nathanys"/>
+  <string id="RhwPmahK" text="Opynates"/>
+  <string id="OL6fbZRY" text="Paltos"/>
+  <string id="HPrHkie6" text="Phenigos"/>
+  <string id="DYdI0faN" text="Stracanasthes"/>
+  <string id="g7etVhSO" text="Sumessos"/>
+  <string id="oGf1fUpP" text="Therycos"/>
+  <string id="AeNqteUX" text="Zebales"/>
+  <string id="sZLd6VHi" text="Khuzait"/>
+  <string id="v5bWtXj1" text="The tribes that live in the great sea of grass east of the Empire have many names: Nachaghan, Arkits, Khergits, Karakhergits. Outsiders, however, usually refer to them collectively as the Khuzaits, after the clan that in the last two generations forged them into a conquering army. When Urkhun the Great accepted the surrender of the trading cities on the edge of the steppe, he ordered his noyans to give up their wandering lifestyle. They were given fiefs and money to build fortresses, and encouraged to turn local farmers into their tenants. Yet the tribes of the Khuzait confederacy still retain many of their nomadic traditions, and felt yurt tents stand next to mud-brick towers in settlements that are half-village, half-encampment."/>
+  <string id="AWM3jbaZ" text="Ajin"/>
+  <string id="RMoQ7blK" text="Akadan"/>
+  <string id="xg8habbc" text="Alagur"/>
+  <string id="pDNlFlc0" text="Alcha"/>
+  <string id="75Wlqr3W" text="Alpan"/>
+  <string id="ESKeInbq" text="Aran"/>
+  <string id="4ZhqF8EB" text="Arshul"/>
+  <string id="RohgLdMp" text="Asugan"/>
+  <string id="FIIZNV4F" text="Atzorig"/>
+  <string id="4JfwP1T6" text="Badur"/>
+  <string id="pKf56MdS" text="Bagai"/>
+  <string id="jhQkgQci" text="Baichar"/>
+  <string id="AAqB4QxB" text="Bortu"/>
+  <string id="E1NWbOR8" text="Buchul"/>
+  <string id="uducgNbf" text="Chaghan"/>
+  <string id="gsY9oKND" text="Chusuntai"/>
+  <string id="TjvbLQRT" text="Dachan"/>
+  <string id="ynsUwp1h" text="Denek"/>
+  <string id="0DgWpr8b" text="Dengul"/>
+  <string id="ZP7ONkec" text="Egen"/>
+  <string id="OqOnfdYv" text="Erigai"/>
+  <string id="au6vdzxN" text="Gan"/>
+  <string id="oT8cTkjz" text="Gavan"/>
+  <string id="PhdzZKu0" text="Ger"/>
+  <string id="8IcnIQdq" text="Gusur"/>
+  <string id="7MpWM3y3" text="Himil"/>
+  <string id="cdmrCQfC" text="Hurunag"/>
+  <string id="I0ZfrCml" text="Huskur"/>
+  <string id="ed3sErKY" text="Ilgai"/>
+  <string id="4xnag9e8" text="Itsul"/>
+  <string id="PisfwOUb" text="Jagutai"/>
+  <string id="5ntTjanU" text="Junjad"/>
+  <string id="8jwqNls9" text="Khomar"/>
+  <string id="A0Qwy1ag" text="Khakhun"/>
+  <string id="mQStUNPe" text="Kazam"/>
+  <string id="AcUEb8zX" text="Korot"/>
+  <string id="SDSbjMSj" text="Kuruntai"/>
+  <string id="YeQlI2Yj" text="Mizam"/>
+  <string id="sn3JPGJA" text="Natu"/>
+  <string id="z5llJ2C0" text="Norogur"/>
+  <string id="0VZ5sROI" text="Okhon"/>
+  <string id="CiJB8ISH" text="Olorun"/>
+  <string id="2OqAomZy" text="Oragur"/>
+  <string id="OgY3fQKL" text="Sasal"/>
+  <string id="yhLbBk1D" text="Soroch"/>
+  <string id="vN0cSBD3" text="Shakhor"/>
+  <string id="D4Ea4QaV" text="Shulun"/>
+  <string id="zTEnQULc" text="Targai"/>
+  <string id="aSNUtnbH" text="Temun"/>
+  <string id="8CZvFqH7" text="Tochi"/>
+  <string id="XjMsnpgS" text="Tulag"/>
+  <string id="NqhPOiMQ" text="Ulusumai"/>
+  <string id="vl2tgsKa" text="Urkhun"/>
+  <string id="4zoraJq7" text="Yanagur"/>
+  <string id="QEw6q3OR" text="Yildrim"/>
+  <string id="yCfxqfdA" text="Bakhar"/>
+  <string id="MwPMFIz0" text="Baghbayar"/>
+  <string id="JUPUxuoe" text="Chanbadar"/>
+  <string id="aRiVb65B" text="Daju"/>
+  <string id="KmAOMxqy" text="Davalan"/>
+  <string id="Bo5Xkd3e" text="Erban"/>
+  <string id="BUbf73N2" text="Gongke"/>
+  <string id="FVDbGQXF" text="Hamindar"/>
+  <string id="AKhO9Y9c" text="Jolugkhu"/>
+  <string id="LbCcOORX" text="Ongker"/>
+  <string id="HXEoaiFU" text="Sorji"/>
+  <string id="UgA0uoFA" text="Tabur"/>
+  <string id="N7CGgRs5" text="Tsuban"/>
+  <string id="aqx7Txyy" text="Tuvul"/>
+  <string id="mqkSkCBX" text="Uluvi"/>
+  <string id="NIcee06W" text="Vangvayag"/>
+  <string id="m9ZgghCo" text="Abagai"/>
+  <string id="26v27bu7" text="Aika"/>
+  <string id="5vo7WX5W" text="Amul"/>
+  <string id="FLrdHzSf" text="Anat"/>
+  <string id="7uBgKkLK" text="Anjikhin"/>
+  <string id="UcteBSP6" text="Asi"/>
+  <string id="SIJpKiGq" text="Ayla"/>
+  <string id="RwMtFwWt" text="Bilik"/>
+  <string id="RoKwj5XN" text="Chagun"/>
+  <string id="ulBMajMY" text="Chechek"/>
+  <string id="7UU9TwUC" text="Dalai"/>
+  <string id="HwCJfTC2" text="Deni"/>
+  <string id="lB7b7N1b" text="Deven"/>
+  <string id="1mhbWay3" text="Dinin"/>
+  <string id="kFYtFka8" text="Echa"/>
+  <string id="UJTCzvOt" text="Elin"/>
+  <string id="MEtblzaV" text="Gunefer"/>
+  <string id="tCy0qwXp" text="Hikhara"/>
+  <string id="SFDdq8GH" text="Holujin"/>
+  <string id="bwabyQPy" text="Ikren"/>
+  <string id="W1yur1cf" text="Khachin"/>
+  <string id="QJq4VAU7" text="Mesui"/>
+  <string id="7No7syyO" text="Penek"/>
+  <string id="2mWC6b8D" text="Sacha"/>
+  <string id="hdwBL8kp" text="Soregun"/>
+  <string id="DO1lhJIo" text="Tala"/>
+  <string id="zDhuJw7r" text="Taralun"/>
+  <string id="Ml5KBonI" text="Tosui"/>
+  <string id="Se7U6BSK" text="Uluen"/>
+  <string id="YUoydtNS" text="Yana"/>
+  <string id="3NRUkzaV" text="Yasugan"/>
+  <string id="xft6bgja" text="Asha"/>
+  <string id="yckGOfLB" text="Islena"/>
+  <string id="J5i4h7JC" text="Kela"/>
+  <string id="k37KKJkw" text="Kun"/>
+  <string id="NeFDHnOS" text="Mirim"/>
+  <string id="29Ti1C0R" text="Selun"/>
+  <string id="6fENuhfZ" text="Sibuga"/>
+  <string id="bdH1JEma" text="Yachim"/>
+  <string id="PdK2pGIb" text="Yesha"/>
+  <string id="qJprzW1N" text="Airit"/>
+  <string id="4833ZS9c" text="Aldusunit"/>
+  <string id="tPG5uf4C" text="Bochit"/>
+  <string id="J1s05Ovk" text="Charait"/>
+  <string id="3apHdqU7" text="Ingchit"/>
+  <string id="5zxaCgd6" text="Maranjit"/>
+  <string id="tDaWbJlY" text="Oranarit"/>
+  <string id="lhiAWoFw" text="Sunit"/>
+  <string id="MjZumz0j" text="Tokhit"/>
+  <string id="LipFTLvz" text="Ubchit"/>
+  <string id="ZwOT9J49" text="Yujit"/>
+  <string id="aseraifaction" text="Aserai"/>
+  <string id="a2AjI8nc" text="The Aserai are the principal inhabitants of the Nahasa, the Bronze Desert, in the south of Calradia. To the outsider it would appear a desolate place, fields of dunes broken by gravel plains and volcanic outcrops. But there is water underground, trapped in depressions or beneath the wadis where the occasional flash flood rumbles by, and in these oases people have settled. They are divided into dozens of clans and sub-clans, each with its elaborate genealogy, but are collectively known as the Banu Asera, the sons of Asera. Their sense of nationhood, such as it is, comes from tracing their lineage to this legendary patriarch. Their wealth and power, which is considerable, comes from controlling the isolated water-sources that allow caravans from distant lands to cross the desert."/>
+  <string id="n2FdWOtE" text="Adram"/>
+  <string id="HEGo3ArK" text="Atis"/>
+  <string id="kErcuRlk" text="Ayyam"/>
+  <string id="YRzakgRB" text="Bidal"/>
+  <string id="6p3qkhil" text="Biliya"/>
+  <string id="jgr2xo9r" text="Darim"/>
+  <string id="Emsd1xmS" text="Dhashwal"/>
+  <string id="xC3kCGte" text="Dhiyul"/>
+  <string id="hF3F3u8u" text="Duwain"/>
+  <string id="evXLa2XX" text="Farim"/>
+  <string id="bVtVsEUr" text="Ghulassen"/>
+  <string id="NOchnEwX" text="Ghuzid"/>
+  <string id="gDMdWisO" text="Haqr"/>
+  <string id="cdQO1eLv" text="Hasseidh"/>
+  <string id="GK18UxoX" text="Hur"/>
+  <string id="sWRKG0e1" text="Iltas"/>
+  <string id="2mhCIkuB" text="Jaim"/>
+  <string id="nyCtbjg6" text="Jamair"/>
+  <string id="3oeb8Bav" text="Jassid"/>
+  <string id="egOzKsKS" text="Kannar"/>
+  <string id="YIpKt79X" text="Kusr"/>
+  <string id="r0dXXtoU" text="Kharid"/>
+  <string id="MRTWZuF4" text="Khilam"/>
+  <string id="ZSraCpCs" text="Lakhem"/>
+  <string id="b7PVGEFM" text="Lath"/>
+  <string id="0ZTMVxzw" text="Lazif"/>
+  <string id="PknomRIt" text="Madwan"/>
+  <string id="la6HgVXN" text="Mitunis"/>
+  <string id="KSsRA8xm" text="Munim"/>
+  <string id="8UGqSVH5" text="Nathun"/>
+  <string id="UlPJ9OYH" text="Nidr"/>
+  <string id="rmpKsJwg" text="Nuldan"/>
+  <string id="3pgwKPsf" text="Qarais"/>
+  <string id="Qx7ZfdbV" text="Quth"/>
+  <string id="M9gqEb6D" text="Radan"/>
+  <string id="f7u2p3x3" text="Rutwar"/>
+  <string id="xyIDKleR" text="Saidh"/>
+  <string id="3rXHA6fI" text="Samar"/>
+  <string id="5QHosdnk" text="Sudais"/>
+  <string id="eAro6IVf" text="Shalar"/>
+  <string id="yToKqfa3" text="Shumsan"/>
+  <string id="5O81vNIS" text="Tahya"/>
+  <string id="fWKnmnXb" text="Taq"/>
+  <string id="Q2qLCrn2" text="Thais"/>
+  <string id="SOkQ7b7r" text="Thaqir"/>
+  <string id="zCaeJ7GC" text="Thul"/>
+  <string id="0atYAnDF" text="Tulul"/>
+  <string id="xUSeJEd6" text="Wahan"/>
+  <string id="EKUSZBBj" text="Wusur"/>
+  <string id="5LY1iQWh" text="Yaqus"/>
+  <string id="aU9Cbb7j" text="Athrar"/>
+  <string id="at4MdVBJ" text="Fathid"/>
+  <string id="NJvui1La" text="Iskar"/>
+  <string id="FyVS24JZ" text="Khundal"/>
+  <string id="7Gt27Agy" text="Malub"/>
+  <string id="t63KuB1X" text="Suthain"/>
+  <string id="u3ZpGN5e" text="Yuha"/>
+  <string id="vAKB54zO" text="Arwa"/>
+  <string id="3LHG5Efi" text="Ayasa"/>
+  <string id="krMVSoId" text="Bawthan"/>
+  <string id="YwwaCRSr" text="Barisha"/>
+  <string id="Y9030sOS" text="Darya"/>
+  <string id="qwab4ICX" text="Dima"/>
+  <string id="PukaQLbR" text="Dula"/>
+  <string id="nhwnbFJ0" text="Ghalaza"/>
+  <string id="b0rI89ob" text="Hara"/>
+  <string id="qDLWQjuC" text="Hasawa"/>
+  <string id="Q26RhEj6" text="Ifar"/>
+  <string id="H1OFdfEe" text="Isna"/>
+  <string id="aqd6QHES" text="Janab"/>
+  <string id="JhLPgr5x" text="Jinda"/>
+  <string id="BfbZAB2K" text="Kanizat"/>
+  <string id="JR1LKjIc" text="Khalisa"/>
+  <string id="q8awVLdN" text="Laitha"/>
+  <string id="ljYVVV1s" text="Luqa"/>
+  <string id="YwQbvO9O" text="Lulya"/>
+  <string id="UAHJ2jTp" text="Mahayl"/>
+  <string id="QtyF13kv" text="Mata"/>
+  <string id="SNjqoBfZ" text="Nawa"/>
+  <string id="t4OvAlBq" text="Nus"/>
+  <string id="Cj8vDOqR" text="Rahan"/>
+  <string id="bdhXiiWK" text="Rayma"/>
+  <string id="yJz9AxjY" text="Rinana"/>
+  <string id="TN5MjMJU" text="Risa"/>
+  <string id="yd39Cman" text="Ruwa"/>
+  <string id="QCiqeUHm" text="Sabila"/>
+  <string id="N0cNsII3" text="Safiya"/>
+  <string id="nTYJWGAa" text="Shatha"/>
+  <string id="vYQ2SMEv" text="Siban"/>
+  <string id="v7tfA4y6" text="Siyafan"/>
+  <string id="6d09RcZT" text="Sulatha"/>
+  <string id="LfP4vsfD" text="Sur"/>
+  <string id="imBaF78b" text="Thuneikha"/>
+  <string id="9aPxu1EB" text="Tinab"/>
+  <string id="mWCY0aSL" text="Wara"/>
+  <string id="CYXRzc1D" text="Wisan"/>
+  <string id="528J5D3b" text="Yasmila"/>
+  <string id="ieube15m" text="Zahara"/>
+  <string id="wYPWlhme" text="Zandina"/>
+  <string id="8RolYmff" text="Zuwaira"/>
+  <string id="By82n3gR" text="Bani Aska"/>
+  <string id="uwalgjVy" text="Bani Dhamin"/>
+  <string id="86LT9H6v" text="Bani Fasus"/>
+  <string id="c39lybQJ" text="Bani Julul"/>
+  <string id="Iwe7Xpke" text="Bani Kinyan"/>
+  <string id="irccq0qs" text="Bani Laikh"/>
+  <string id="DygS1Bef" text="Bani Mushala"/>
+  <string id="bgNQtbS7" text="Bani Nir"/>
+  <string id="sAa3o3vw" text="Bani Tharuq"/>
+  <string id="L4XUK5n4" text="Bani Yatash"/>
+  <string id="WFfbxYu5" text="Bani Zus"/>
+  <string id="CGskICdY" text="Outcasts of Calradia"/>
+  <string id="2n5fPNEq" text="Northlander"/>
+  <string id="fdbAK6ox" text="Highlander"/>
+  <string id="20wxMF4n" text="Midlander"/>
+  <string id="0X3yhmuf" text="Southlander"/>
+  <string id="TZtn8DEu" text="Eastlander"/>
+  <string id="sYFaoW9k" text="Byalic"/>
+  <string id="ig8zAo8f" text="Ori"/>
+  <string id="L0fuYckc" text="Friga"/>
+  <string id="bHh03ob0" text="Vakken"/>
+  <string id="jhT7CfhM" text="Aivar"/>
+  <string id="GaMUU2Pf" text="Kaupi"/>
+  <string id="3ipKaDWU" text="Natti"/>
+  <string id="kL0ldFLG" text="Pekko"/>
+  <string id="W1ZpjgQO" text="Rauko"/>
+  <string id="WpTXwQw1" text="Vuoni"/>
+  <string id="FlexUfSP" text="Alivar"/>
+  <string id="4bQbv3oN" text="Arha"/>
+  <string id="rDPExYMQ" text="Eitar"/>
+  <string id="jFdZ7mlB" text="Ilikki"/>
+  <string id="ELpRLYQt" text="Jalin"/>
+  <string id="hBuBpxjb" text="Kaidi"/>
+  <string id="j8IOY5Cy" text="Luona"/>
+  <string id="iiGXfCWd" text="Menar"/>
+  <string id="gG1O5V1n" text="Olianar"/>
+  <string id="XAF12HV0" text="Vikka"/>
+  <string id="IHiVB1ca" text="Nahasa"/>
+  <string id="JJtww9pt" text="Aryush"/>
+  <string id="Zm0Ee6sp" text="Azadun"/>
+  <string id="nisA6W98" text="Baheshtur"/>
+  <string id="pEvpjIa9" text="Bunduk"/>
+  <string id="Z261F0mj" text="Hamezan"/>
+  <string id="KmzQabkH" text="Hivan"/>
+  <string id="QR3aNalC" text="Imirza"/>
+  <string id="mDZqpa9Z" text="Sanjar"/>
+  <string id="lGRde77R" text="Anahita"/>
+  <string id="sa0YrXiv" text="Azareh"/>
+  <string id="epxmhQav" text="Daria"/>
+  <string id="zSL3MgNQ" text="Ilzar"/>
+  <string id="R7avnODK" text="Nasmeen"/>
+  <string id="ZPHdPglH" text="Raksana"/>
+  <string id="SHXt3kC5" text="Roshaneh"/>
+  <string id="wERVdmjj" text="Sulnaz"/>
+  <string id="Btb7NzFM" text="Shima"/>
+  <string id="GqEEIYay" text="Tilzad"/>
+  <!--input/mcga/mcga_empire/mcga_empire_troops.xml-->
+  <string id="L1YvcqCw" text="Imperial Recruit"/>
+  <string id="GJsWwXcT" text="Imperial Infantryman"/>
+  <string id="FGhm2Iab" text="Imperial Spearman"/>
+  <string id="F96VVHAL" text="Imperial Archer"/>
+  <string id="Xewln7Rl" text="Imperial Light Auxiliary Cavalry"/>
+  <string id="WlOmfRNU" text="Imperial Light Mounted Auxiliary Archer"/>
+  <string id="1xHycTA2" text="Imperial Auxiliary Ax Warrior"/>
+  <string id="8aWKhBqX" text="Imperial Socii Equite"/>
+  <string id="jx4TVHgA" text="Imperial Militia Spearman"/>
+  <string id="uY3vaKVQ" text="Imperial Militia Archer"/>
+  <string id="NR21Dm4M" text="Imperial Trained Infantryman"/>
+  <string id="jf6fT4de" text="Imperial Trained Spearman"/>
+  <string id="hJvbt3F8" text="Imperial Trained Archer"/>
+  <string id="JINbrg0V" text="Imperial Auxiliary Cavalry"/>
+  <string id="fkaoqMGr" text="Imperial Mounted Auxiliary Archer"/>
+  <string id="ptwSeLqQ" text="Imperial Auxiliary Front Breaker"/>
+  <string id="aVPWdiLP" text="Imperial Militia Veteran Archer"/>
+  <string id="RzvwjRiy" text="Imperial Militia Veteran Spearman"/>
+  <string id="R9uvIGjO" text="Imperial Equite"/>
+  <string id="WXzdaXT8" text="Imperial Menavliaton"/>
+  <string id="ZmnwvnDK" text="Imperial Latin Spearman"/>
+  <string id="oPGVDqGE" text="Imperial Veteran Infantryman"/>
+  <string id="qLsHh7pC" text="Imperial Veteran Archer"/>
+  <string id="SM1IeHaG" text="Imperial Veteran Equite"/>
+  <string id="kp8XVvAb" text="Imperial Elite Menavliaton"/>
+  <string id="YekqtXap" text="Imperial Elite Latin Spearman"/>
+  <string id="LyU1QWjs" text="Imperial Legionary"/>
+  <string id="XCwhK8OZ" text="Imperial Praetorian Cavalry"/>
+  <string id="XCwhl8zu" text="Imperial Triarii"/>
+  <string id="empirepeasantman" text="Empire Peasant"/>
+  <string id="lPuc7u7C" text="Imperial Guard"/>
+  <!--input/mcga/mcga_factions.xml-->
+  <string id="o0Xm5Rqk" text="Playerland"/>
+  <string id="3PzgpFGq" text="Neutral"/>
+  <string id="3O2rReYo" text="Northland Deserters"/>
+  <string id="DYXPslSm" text="Highland Deserters"/>
+  <string id="QQzKCwGO" text="Midland Deserters"/>
+  <string id="Lu5jy79f" text="Southland Deserters"/>
+  <string id="R2bwFiua" text="Eastland Deserters"/>
+  <string id="ghilmanClanName" text="Nahasa Tribal"/>
+  <string id="4TiYXBqK" text="The Nahasa Tribal are a band of mercenaries who recruit from the tribes of southern Calradia and the lands to the east. They are legally their own slaves and masters: each “sells“ himself to the order and, in the process, becomes a part-owner. They are known for their fine horses and fine clothes. But no one should assume from their oiled locks, perfumes and peacock feathers that they spend more time preening then training. Their skills as mounted archers are second to none, and as lancers are close behind the Vlandians and the imperial cataphracts."/>
+  <string id="LqUUchsa" text="Arenicos Legion"/>
+  <string id="Ssl38GEF" text="Legion"/>
+  <string id="bhxVA9w7" text="The Last Legion was created after the Emperor Arenicos abolished the last of the Empire's standing armies in the wake of the battle of Pendraic, relying instead on the archons' private retinues which were significantly cheaper and better at controlling territory. The Legion is made up of men who detested this change: they loved the old army, its standards and its unit histories and its camp life, and they blame the new system for destroying the empire. But an army does not hold together unless it is paid regularly, and they take contracts from imperial and foreign lords alike."/>
+  <string id="6k7izuvC" text="Byalic Sjoeborna"/>
+  <string id="baPd5zri" text="The Byalic Sjoeborna, are a mercenary company for warriors who take fighting and training very seriously."/>
+  <string id="UmVjzZI6" text="The Valadian Grand Company"/>
+  <string id="GCy0xb6U" text="Company"/>
+  <string id="tae3lhXj" text="The Company are Vlandians, mostly local levies who don't adjust well to peacetime and who have opted for a life of constant warfare. They are probably the least disciplined and most brigandish of Calradia's mercenaries, and a scourge to any bit of countryside where they are allowed to run loose. Still, like all mercenaries, they know that their future earnings depend on their reputation, so they honor their contracts and practice their skills, particularly with the crossbow, to ensure their employers receive their money's worth."/>
+  <string id="NObV048p" text="Beni Zilal"/>
+  <string id="dRaYhQva" text="The origins of the Beni Zilal, the Sons of the Shadows, are shrouded in legend. Many of the stories tell of a messianic preacher who ruled from a citadel deep in the desert, entrancing his followers with the help of halucinogenic herbs and terrorizing the Aserai nobility with the threat of assassination. Regardless of how much truth these stories contain, this brotherhood is now a powerful institution in the deep reaches of the Nahasa, collecting protection money from caravans passing through its territory and cutting deals with local potentates while it awaits the day when it may reveal its hand more openly."/>
+  <string id="nh4Y3Lhc" text="Hornoc Wildlings"/>
+  <string id="7bhNgOKt" text="The Hornoc wildlings are heirs to a long tradition in the Battanian lands in which warriors-in-training go “wilding” for part of their youth, learning the ways of the woods and how to suffer hardship. So long as a Wolfskin wears no sewn clothes, eats no cooked food, and sleeps under no roof, he is immune from the laws of men. In fact, the modern Wolfskins tend to be the sons of wealthy families taking a few years to indulge their feral side, robbing travellers and living viciously and not necessarily hewing to the old code."/>
+  <string id="as2TiOUJ" text="Brotherhood of the Ridge"/>
+  <string id="khnadIv1" text="Brotherhood"/>
+  <string id="xahrUc4g" text="The Brotherhood of the Ridge started as a Vlandian peasant movement, hiding out in the forests, robbing from the rich and giving to the poor. However, it encountered the problems that any long-running rebel movement might - it needed to ensure a steady supply of food, and also ensure that none of the poor would dare earn a bag of coins by informing on them. Slowly but surely, it began to make use of extortion, terror, and corrupt deals with the local authorities to survive, becoming little different from any other organized bandit group in Calradia."/>
+  <string id="MVHawAEp" text="Hidden Hand"/>
+  <string id="j3KtHQzn" text="Hand"/>
+  <string id="nQOf27Rx" text="The Hidden Hand are a mafia who dominate the rural areas, and sometimes the towns, of the southern parts of the Empire. They thrive by making themselves useful to authorities: repressing unrest, silencing troublesome preachers, and robbing from merchants who compete with their patrons. Many of them go back and forth between a respectable life in the towns and a criminal life in countryside. A member of the Hand might spend two or three months a year in the hills as a brigand, then return to town to work as an enforcer and a ”trader” in stolen goods, knowing full well that no one will ask him too many questions."/>
+  <string id="7WL1Lzdf" text="Lake Bosse"/>
+  <string id="7WL4Lzdf" text="Lake Bosse"/>
+  <string id="9ZEdEWmi" text="The Lake Bosse live in the marshes on the shores of the great northern lake, in shacks made out of the timbers of ruined ships. They live by “wrecking“ - ie, luring ships onto shoals with false lighthouses and beacons. Because they're scorned by the rest of Calradia - ”all criminals, smell like marsh gas and mud and rotten fish” - they scorn everyone else back. Although mostly Sturgian, their ranks have been swelled by fugitives, debtors, and anyone else who'd rather live by a thieves' code than by the laws of nobles."/>
+  <string id="mtZu1l2j" text="Embers of the Flame"/>
+  <string id="zcLTthfN" text="Embers"/>
+  <string id="B8c2mNKj" text="The Embers of the Flame are the descendants of a rebel movement that rose up nearly a century ago, after the saintly but ineffective teenaged Emperor Darusos was toppled by one of his generals. They claim that they are preparing the way for Heaven to bring back Darusos and usher in a golden age, but like so many other rebel movements in Calradia they have been forced to turn to extortion to survive."/>
+  <string id="8ba4tpRU" text="Jawwal"/>
+  <string id="RWOYui01" text="The Jawwal, or “Roamers,” are the main bedouin confederacy in the Nahasa desert. They wander from highland to lowland grazing grounds, declaring huge swathes of the desert their “territory” in which any caravan must offer protection money. They compose poems of their deeds and mock other clans of the Banu Asera for having given up the “freedom” of black wool tents for stone houses in the oases. The other clans consider them boastful nuisances, though grudgingly respecting them as protectors of the old Aserai ways."/>
+  <string id="6BvGhzao" text="Karakhergit"/>
+  <string id="XJbDRBfd" text="The Karakhergit are one of the last nomadic clans in the western steppe. The Urkhunid khans have tried to coax them into settling down, offering them farmlands and serfs in exchange for a commitment to pay taxes and supply military levies, but they have resisted. They are treated by the other clans with a combination of envy and contempt. They trade and sometimes even intermarry with their settled brethren, but they also do a limited amount of kidnapping for ransom and raiding of flocks, and scoff at those who would blame them for carrying on with the heroic old ways."/>
+  <string id="o7ud4X2X" text="Forest People"/>
+  <string id="0u8ipbgn" text="The tribes known as the Forest People practice slash-and-burn farming in the deep woods, outside the grasp of the Sturgian boyars. They burn down tracts of trees, grow crops on the virgin soil fertilized by ash for a few years until the land is exhausted, and move on. It is an inefficient use of land but a very efficient use of labor, suitable for a numerically small population in a large area. Also, because the plots are hard to measure and tax, it's a very good strategy for people who don't care to be governed."/>
+  <string id="eC6qIOzz" text="Eleftheroi"/>
+  <string id="9qAWNBvA" text="The Eleftheroi, the free people, live on the steppelands at the edge of the Empire. Originally the descendants of runaway slaves and debtors, they soon became highly valued by the local imperial commanders for their knowledge of this frontier zone. Their leaders have been granted titles, their young men taken into the retinues of archons and emperors. But though they are now very loyal to the idea of the Empire, they remain quite hostile to its actual authority."/>
+  <!--input/mcga/mcga_khuzait/mcga_khuzait_troops.xml-->
+  <string id="7gogjent" text="Khuzait Recruit"/>
+  <string id="sPqlobLZ" text="Khuzait Footman"/>
+  <string id="sadfF14s" text="Khuzait Tribal Warrior"/>
+  <string id="ZKuaToul" text="Khuzait Noble Son"/>
+  <string id="jx4TioHg" text="Khuzait Militia Footman"/>
+  <string id="uY3weKVQ" text="Khuzait Militia Archer"/>
+  <string id="L8TtzLUa" text="Khuzait Spearman"/>
+  <string id="mjbuJLUa" text="Khuzait Swordsman"/>
+  <string id="iLnXu14s" text="Khuzait Horseman"/>
+  <string id="iLnJu74s" text="Khuzait Raider"/>
+  <string id="iLhRu74s" text="Khuzait Hunter"/>
+  <string id="UYPuop2j" text="Khuzait Qanqli"/>
+  <string id="jx4TioIo" text="Khuzait Militia Veteran Footman"/>
+  <string id="uY3TrKVQ" text="Khuzait Militia Veteran Archer"/>
+  <string id="yIyhjklm" text="Khuzait Guard"/>
+  <string id="aYsMYll6" text="Khuzait Spear Infantry"/>
+  <string id="FIGCGxY8" text="Khuzait Trained Swordsman"/>
+  <string id="RgkckrrW" text="Khuzait Lancer"/>
+  <string id="RgTZkrrW" text="Khuzait Horse Archer"/>
+  <string id="RgTZkopW" text="Khuzait Archer"/>
+  <string id="QhhjkWip" text="Khuzait Torguud"/>
+  <string id="aYsMRop7" text="Khuzait Darkhan"/>
+  <string id="FUGCUoY8" text="Khuzait Veteran Swordsman"/>
+  <string id="RgkczurW" text="Khuzait Heavy Lancer"/>
+  <string id="gkcITGrW" text="Khuzait Heavy Horse Archer"/>
+  <string id="RkcEqGrW" text="Khuzait Marksman"/>
+  <string id="VqrQ089u" text="Khuzait Kheshig"/>
+  <string id="khuzaitpeasantman" text="Khuzait Peasant"/>
+  <!--input/mcga/mcga_mercenary_troops.xml-->
+  <string id="NRvuCvMN" text="Sellsword"/>
+  <string id="UBHngTIf" text="Mercenary Maceman"/>
+  <string id="uPypJHlm" text="Elite Mercenary Maceman"/>
+  <string id="xl6QstMW" text="Outrider"/>
+  <string id="kyt087eN" text="Veteran Outrider"/>
+  <string id="J4k9mg65" text="Hired Spear"/>
+  <string id="n89z19Dv" text="Hired Pike"/>
+  <string id="7WV17e5Q" text="Hired Elite Pike"/>
+  <string id="QfVe3ISw" text="Hired Crossbowman"/>
+  <string id="DxtSIxyS" text="Hired Veteran Crossbowman"/>
+  <!--input/mcga/mcga_minor_troops.xml-->
+  <string id="Vq6O4R5S" text="Nahasa Tribal Rider"/>
+  <string id="BGF5y4BV" text="Nahasa Skirmisher"/>
+  <string id="G1GaWY83" text="Nahasa Camel Rider"/>
+  <string id="WSHBksyS" text="Legion Light Footman"/>
+  <string id="r5nwGrCd" text="Legion Footman"/>
+  <string id="z6HBzhVN" text="Legion Triarii"/>
+  <string id="vXhjlaPU" text="Sjoeborna Sea Marauder"/>
+  <string id="Ld9EItpg" text="Sjoeborna Byalican Striker"/>
+  <string id="R9fmcxwl" text="Sjoeborna Byalican Skirmisher"/>
+  <string id="G54IoYKG" text="Sjoeborna Sea Maid"/>
+  <string id="bpEL0pYF" text="Sjoeborna Byalican Schildmaid"/>
+  <string id="s9lXVQKa" text="Sjoeborna Byalican Valkyrie"/>
+  <string id="68JLiubt" text="Company Novice"/>
+  <string id="BOCvfJT4" text="Company Veteran"/>
+  <string id="XH95JYTK" text="Company Champion"/>
+  <string id="gJxNOcsL" text="Beni Zilal Recruit"/>
+  <string id="9zXXes9i" text="Beni Zilal Soldier"/>
+  <string id="8Gh8q1PX" text="Beni Zilal Rider"/>
+  <string id="xTSJPSsA" text="Hornoc Young Ranger"/>
+  <string id="ef2F728w" text="Hornoc Skirmisher"/>
+  <string id="VARa5cux" text="Hornoc Longbowman"/>
+  <string id="N0wD4Cpf" text="Hidden Southland Rider"/>
+  <string id="HmAyw6PG" text="Hidden Scorpio"/>
+  <string id="UYAXIxLj" text="Lake Bosse Recruit"/>
+  <string id="xeavnoU8" text="Lake Bosse Veteran"/>
+  <string id="a4mdo4NY" text="Lake Bosse Wrecker "/>
+  <string id="y86esYs5" text="Ridge Sprout"/>
+  <string id="fqTdEB8b" text="Ridge Sapling"/>
+  <string id="YvCOAm2f" text="Ridge Ranger"/>
+  <string id="xJ4koSsx" text="Spark"/>
+  <string id="BlZK3wDN" text="Flame"/>
+  <string id="UsvCnAS7" text="Blaze"/>
+  <string id="vxlAJIiU" text="Jawwal Recruit"/>
+  <string id="Mcbjdntz" text="Jawwal Camel Rider"/>
+  <string id="qAvxmnav" text="Jawwal Bedouin"/>
+  <string id="cDgsaaRB" text="Karakhergit Nomad"/>
+  <string id="UvK3XaZ6" text="Karakhergit Rider"/>
+  <string id="KbyRj9b3" text="Karakhergit Elder"/>
+  <string id="egXXVAT8" text="Forester Recruit"/>
+  <string id="EI5LYiAJ" text="Forester Expert"/>
+  <string id="mhjmhpQH" text="Forester Veteran"/>
+  <string id="mu4OtzOq" text="Eleftheroi Recruit"/>
+  <string id="iP3tu2Kn" text="Eleftheroi Expert"/>
+  <string id="ClVcytl5" text="Eleftheroi Veteran"/>
+  <!--input/mcga/mcga_monster.xml-->
+  <string id="u3fAcNcy" text="Light Brown Horse"/>
+  <string id="aspGD2ut" text="Light White Horse"/>
+  <string id="h7IWO4DV" text="Light Dark Horse"/>
+  <string id="f40iNKCD" text="Light Grey Horse"/>
+  <string id="sgfKrAaZ" text="Battanian Pony"/>
+  <string id="IOt4KTHs" text="Midlands Palfrey"/>
+  <string id="YAYhozbN" text="Steppe Horse"/>
+  <string id="QwiI8Uho" text="Sturgian Trotter"/>
+  <string id="AIu3kKvz" text="Saddle Horse"/>
+  <string id="CQBiJLgv" text="Camel"/>
+  <string id="KFGfTXqE" text="Sumpter Horse"/>
+  <string id="CB97qhVM" text="Mule"/>
+  <string id="DlPOte0H" text="Pack Camel"/>
+  <string id="1SvtbBfk" text="Work Horse"/>
+  <string id="gnvIGThE" text="Darshi Horse"/>
+  <string id="tZN9H492" text="Glintor Pony"/>
+  <string id="mVAaWp5U" text="Canterion Charger"/>
+  <string id="PZPphq6H" text="Steppe Hunter"/>
+  <string id="Ejx5lXjk" text="Revyl Chaser"/>
+  <string id="MqBSmahz" text="Valanby Courser"/>
+  <string id="baIE2VQW" text="War Camel"/>
+  <string id="hunterhorse" text="Hunter"/>
+  <string id="h5kfaD4v" text="Charger"/>
+  <string id="Q4sO8AZd" text="Wadar Hotblood"/>
+  <string id="ueSnrLRy" text="Cossian"/>
+  <string id="qXb7YoGc" text="Asaligat"/>
+  <string id="jhgVsWKr" text="Tyal Horse"/>
+  <string id="SZrd85Uh" text="Royal Destrier"/>
+  <string id="Goloz0Vm" text="Husnphree"/>
+  <string id="ccLDacS4" text="Battanian Thoroughbred"/>
+  <string id="tBCm7Qqw" text="Khamseen"/>
+  <string id="CIT7Zuxh" text="Pureblood"/>
+  <string id="1aOuyULB" text="Storm Charger"/>
+  <string id="UqdZmdcf" text="War Horse"/>
+  <string id="igAT9Eqb" text="Steppe Charger"/>
+  <string id="24xuA5G2" text="Desert War Horse"/>
+  <!--input/mcga/mcga_oldunits.xml-->
+  <string id="H5HJUejD" text="Aserai Recruit"/>
+  <string id="arb5nRri" text="Aserai Tribesman"/>
+  <string id="wtmCSMrC" text="Aserai Footman"/>
+  <string id="5VBPoGYO" text="Aserai Light Archer"/>
+  <string id="yhBagy1Y" text="Aserai Archer"/>
+  <string id="B4ls6R2b" text="Aserai Master Archer"/>
+  <string id="tke6VCV6" text="Aserai Infantry"/>
+  <string id="g1zvdEE3" text="Aserai Veteran Infantry"/>
+  <string id="sNXtQchk" text="Aserai Mamluke Soldier"/>
+  <string id="LsHFY6p5" text="Aserai Mamluke Regular"/>
+  <string id="TCuNAyPG" text="Aserai Mamluke Cavalry"/>
+  <string id="P4lcbA0b" text="Aserai Mamluke Heavy Cavalry"/>
+  <string id="bKBvFcVf" text="Aserai Mamluke Axeman"/>
+  <string id="tIDOJvId" text="Aserai Mamluke Guard"/>
+  <string id="wrYJBc4g" text="Aserai Mamluke Palace Guard"/>
+  <string id="Gvy2b4fa" text="Aserai Youth"/>
+  <string id="dfv7E49q" text="Aserai Tribal Horseman"/>
+  <string id="jaK1A7CI" text="Aserai Faris"/>
+  <string id="6oc7CXbI" text="Aserai Veteran Faris"/>
+  <string id="AoFZUbun" text="Aserai Vanguard Faris"/>
+  <string id="s3IJIFUw" text="Imperial Recruit"/>
+  <string id="IfjWyWjc" text="Imperial Infantryman"/>
+  <string id="n41jlEa3" text="Imperial Vigla Recruit"/>
+  <string id="1PsLlMaQ" text="Imperial Equite"/>
+  <string id="eYIMQafj" text="Imperial Heavy Horseman"/>
+  <string id="u0UNwnw2" text="Imperial Cataphract"/>
+  <string id="MYwUFMsz" text="Imperial Elite Cataphract"/>
+  <string id="IZ8OmByJ" text="Imperial Trained Infantryman"/>
+  <string id="yrGYZsQ7" text="Imperial Veteran Infantryman"/>
+  <string id="JGsUtBT3" text="Imperial Legionary"/>
+  <string id="LbjxH9yp" text="Imperial Archer"/>
+  <string id="pRbbJHkU" text="Imperial Bucellarii"/>
+  <string id="fHQ8ifKM" text="Imperial Trained Archer"/>
+  <string id="8bA4PvdG" text="Imperial Veteran Archer"/>
+  <string id="CDUvlu4d" text="Imperial Palatine Guard"/>
+  <string id="e8qbF7Ey" text="Imperial Menavliaton"/>
+  <string id="qAsnj7vU" text="Imperial Elite Menavliaton"/>
+  <string id="UdTc1PGo" text="Imperial Crossbowman"/>
+  <string id="THyv3q9f" text="Imperial Sergeant Crossbowman"/>
+  <string id="BBJKgKj2" text="Sturgian Recruit"/>
+  <string id="96pj2wxH" text="Sturgian Warrior"/>
+  <string id="brlJJW5I" text="Sturgian Special"/>
+  <string id="byPNCb5e" text="Sturgian Heavy Spearman"/>
+  <string id="Gwba5yPA" text="Sturgian Heavy Axeman"/>
+  <string id="HYx5NZSk" text="Sturgian Otrok"/>
+  <string id="4C4WiTb2" text="Varyag"/>
+  <string id="QGPAEtj7" text="Varyag Veteran"/>
+  <string id="CRzrHomf" text="Sturgian Druzhinnik"/>
+  <string id="FrTTT0G1" text="Sturgian Druzhinnik Champion"/>
+  <string id="fdaZ3tri" text="Sturgian Woodsman"/>
+  <string id="sturgianhuntertroop" text="Sturgian Hunter"/>
+  <string id="1WfDVpya" text="Sturgian Archer"/>
+  <string id="7WWUxI6y" text="Sturgian Veteran Bowman"/>
+  <string id="RJNNsaSP" text="Sturgian Brigand"/>
+  <string id="VbWtdAWn" text="Sturgian Hardened Brigand"/>
+  <string id="xnzpQbwQ" text="Sturgian Horse Raider"/>
+  <string id="Sc1d2lsH" text="Sturgian Line Breaker"/>
+  <string id="CfO7eDsv" text="Sturgian Spearman"/>
+  <string id="CJxF6fky" text="Sturgian Heroic Line Breaker"/>
+  <string id="GEnwDYp1" text="Vlandian Recruit"/>
+  <string id="yPF32fbh" text="Vlandian Footman"/>
+  <string id="Gd0y7SxJ" text="Vlandian Spearman"/>
+  <string id="5b6KjY5b" text="Vlandian Billman"/>
+  <string id="UrSjhs4x" text="Vlandian Voulgier"/>
+  <string id="Si5ZCb1O" text="Vlandian Pikeman"/>
+  <string id="SAILNYbu" text="Vlandian Infantry"/>
+  <string id="pooybAKI" text="Vlandian Swordsman"/>
+  <string id="nPyqHxmf" text="Vlandian Sergeant"/>
+  <string id="AloMryIU" text="Vlandian Light Cavalry"/>
+  <string id="QgQfYcSw" text="Vlandian Cavalry"/>
+  <string id="8PLgCsiR" text="Vlandian Vanguard"/>
+  <string id="SvAADOwm" text="Vlandian Levy Crossbowman"/>
+  <string id="kih9DwL4" text="Vlandian Crossbowman"/>
+  <string id="acubGB3g" text="Vlandian Hardened Crossbowman"/>
+  <string id="X6CQ9CMZ" text="Vlandian Sharpshooter"/>
+  <string id="XzDObEiH" text="Vlandian Squire"/>
+  <string id="OQPDvtpk" text="Vlandian Gallant"/>
+  <string id="oseSwa56" text="Vlandian Knight"/>
+  <string id="3VosbFR0" text="Vlandian Champion"/>
+  <string id="bTApMxWr" text="Vlandian Banner Knight"/>
+  <string id="GUQ3zfg2" text="Battanian Volunteer"/>
+  <string id="VtlvxEs7" text="Battanian Clan Warrior"/>
+  <string id="HMHzTNqJ" text="Battanian Trained Warrior"/>
+  <string id="tSc0mHy7" text="Battanian Picked Warrior"/>
+  <string id="bNZXcw3q" text="Battanian Oathsworn"/>
+  <string id="6C3OMP1X" text="Battanian Scout"/>
+  <string id="abFIj4ZW" text="Battanian Mounted Skirmisher"/>
+  <string id="2gUjKT5H" text="Battanian Horseman"/>
+  <string id="DNsbKR7B" text="Battanian Wood Runner"/>
+  <string id="IKvwsCaJ" text="Battanian Raider"/>
+  <string id="q7VeZazL" text="Battanian Skirmisher"/>
+  <string id="gyvXsXs8" text="Battanian Wildling"/>
+  <string id="X4GvzDdW" text="Battanian Falxman"/>
+  <string id="lxU4pWsS" text="Battanian Veteran Skirmisher"/>
+  <string id="yMqWnBfT" text="Battanian Veteran Falxman"/>
+  <string id="cZms8Ivb" text="Battanian Highborn Youth"/>
+  <string id="IHczn7ti" text="Battanian Highborn Warrior"/>
+  <string id="ac8MZYne" text="Battanian Hero"/>
+  <string id="Btb7p3mD" text="Battanian Fian"/>
+  <string id="1zObCG2o" text="Battanian Fian Champion"/>
+  <string id="rIqwYlSK" text="Khuzait Nomad"/>
+  <string id="uzwfybTH" text="Khuzait Footman"/>
+  <string id="kppseK3N" text="Khuzait Tribal Warrior"/>
+  <string id="ZKuabzhK" text="Khuzait Noble's Son"/>
+  <string id="Loc1XOIk" text="Khuzait Hunter"/>
+  <string id="w6YwFaG7" text="Khuzait Spearman"/>
+  <string id="o1jvmi9P" text="Khuzait Raider"/>
+  <string id="iXjMfCyp" text="Khuzait Horseman"/>
+  <string id="UYPaQP2j" text="Khuzait Qanqli"/>
+  <string id="lkrV8jZa" text="Khuzait Archer"/>
+  <string id="6UFEfIJV" text="Khuzait Spear Infantry"/>
+  <string id="eHVgfyPH" text="Khuzait Horse Archer"/>
+  <string id="lumFaIud" text="Khuzait Lancer"/>
+  <string id="QhNpvW0Y" text="Khuzait Torguud"/>
+  <string id="DlIU2vJB" text="Khuzait Marksman"/>
+  <string id="ZSU7sMYX" text="Khuzait Darkhan"/>
+  <string id="KAJKOooN" text="Khuzait Heavy Horse Archer"/>
+  <string id="cP1bu5GK" text="Khuzait Heavy Lancer"/>
+  <string id="VqrQ096u" text="Khuzait Kheshig"/>
+  <string id="B7oI7AZG" text="Khuzait Khan's Guard"/>
+  <string id="CPcJ2gRF" text="Aserai Militia Archer"/>
+  <string id="tL6aGah4" text="Aserai Militia Veteran Archer"/>
+  <string id="ULaNn3pp" text="Aserai Militia Spearman"/>
+  <string id="Pd9qAiOu" text="Aserai Militia Veteran Spearman"/>
+  <string id="Ah4XG5Fp" text="Vlandian Militia Crossbowman"/>
+  <string id="zqaGJBYZ" text="Vlandian Militia Veteran Crossbowman"/>
+  <string id="aUHtqC9o" text="Vlandian Militia Spearman"/>
+  <string id="vGFdbjFC" text="Vlandian Militia Veteran Spearman"/>
+  <string id="b4QPaEnA" text="Battanian Militia Archer"/>
+  <string id="i5DfUz6D" text="Battanian Militia Veteran Archer"/>
+  <string id="L0cGAnWw" text="Battanian Militia Spearman"/>
+  <string id="IxcCmtxz" text="Battanian Militia Veteran Spearman"/>
+  <string id="P8EATvn8" text="Imperial Militia Archer"/>
+  <string id="HsboF2mR" text="Imperial Militia Veteran Archer"/>
+  <string id="ZhKoCVby" text="Imperial Militia Spearman"/>
+  <string id="c5rVdg75" text="Imperial Militia Veteran Spearman"/>
+  <string id="jRFfRZv2" text="Sturgian Militia Archer"/>
+  <string id="gZ4JeEw4" text="Sturgian Militia Veteran Archer"/>
+  <string id="Zmajp2o1" text="Sturgian Militia Spearman"/>
+  <string id="LVEU4se3" text="Sturgian Militia Veteran Spearman"/>
+  <string id="CKoq1wQa" text="Khuzait Militia Archer"/>
+  <string id="5JFkQn5U" text="Khuzait Militia Veteran Archer"/>
+  <string id="MDIuyBHP" text="Khuzait Militia Spearman"/>
+  <string id="f2a1fPca" text="Khuzait Militia Veteran Spearman"/>
+  <string id="urUwa4bf" text="Looter"/>
+  <string id="9laVlEH9" text="Hillman"/>
+  <string id="ZKdiaaFo" text="Brigand"/>
+  <string id="P6Md9DpR" text="Highwayman"/>
+  <string id="ziOBJSzR" text="Mountain Bandit Boss"/>
+  <string id="HadsURl8" text="Bushwacker"/>
+  <string id="freebootertroop" text="Freebooter"/>
+  <string id="sFgODQ1q" text="Forest Bandit"/>
+  <string id="dc2qxanZ" text="Forest Bandit Boss"/>
+  <string id="dq2cP8h0" text="Sea Raider"/>
+  <string id="Nr8NkHXU" text="Sea Raider Warrior"/>
+  <string id="0Ikzzm71" text="Sea Raider Chief"/>
+  <string id="C1Fkzdvu" text="Sea Raider Boss"/>
+  <string id="ZA4bgJ5V" text="Steppe Bandit"/>
+  <string id="Awc23bFS" text="Marauder"/>
+  <string id="cbnvgVhH" text="Raider"/>
+  <string id="uOAnHN47" text="Bedouin Rover"/>
+  <string id="0qDNS83n" text="Nomad Bandit"/>
+  <string id="cdbSCr6G" text="Harami"/>
+  <string id="Q2V4uQrr" text="Desert Bandit Boss"/>
+  <string id="Bg63YFnh" text="Steppe Bandit Boss"/>
+  <string id="KnhpjA7Y" text="Koleman"/>
+  <string id="ghilmanUnit" text="Ghilman"/>
+  <string id="7EUhAv8b" text="Ghulam"/>
+  <string id="G9ByT85b" text="Hastati"/>
+  <string id="qMYpZKWo" text="Principes"/>
+  <string id="cOt1onbR" text="Triarii"/>
+  <string id="uViDMxLC" text="Skolder Recruit"/>
+  <string id="LXybWXde" text="Skolder Warrior Broda"/>
+  <string id="YGexslSX" text="Skolder Veteran Broda"/>
+  <string id="9Bw85Elg" text="Boar Novice"/>
+  <string id="9Ylw5Spz" text="Boar Veteran"/>
+  <string id="cSdSSXsO" text="Boar Champion"/>
+  <string id="uca778lM" text="Beni Zilal Recruit"/>
+  <string id="mrBbsiPN" text="Young Wolf"/>
+  <string id="q7b4pQc9" text="Seasoned Wolf"/>
+  <string id="QvSmhaAV" text="Chosen Wolf"/>
+  <string id="ehACDRBk" text="Hidden Pawn"/>
+  <string id="PU2zIMu0" text="Puppeteer"/>
+  <string id="6j9iJMRr" text="Lake Rat Recruit"/>
+  <string id="1gAasy1t" text="Lake Rat Veteran"/>
+  <string id="BC5YGna3" text="Lake Rat Wrecker "/>
+  <string id="DIt9SuMb" text="Sprout"/>
+  <string id="riT39wKu" text="Sapling"/>
+  <string id="u3K1SozQ" text="Arboreal"/>
+  <string id="h7nGFImt" text="Recruit Forester"/>
+  <string id="2HDPaohZ" text="Expert Forester"/>
+  <string id="ueasbGtd" text="Veteran Forester"/>
+  <string id="S6BosJUq" text="Recruit Eleftheroi"/>
+  <string id="qBVNIhme" text="Expert Eleftheroi"/>
+  <string id="cEKbOxRA" text="Veteran Eleftheroi"/>
+  <string id="r8npO8hG" text="Sisterhood Follower"/>
+  <string id="ZK0GXYCx" text="Sword Sister"/>
+  <string id="ifL3F7E2" text="Gallant Sword Sister"/>
+  <string id="0gi5Fp8c" text="Veteran Sword Sister"/>
+  <string id="C8hwcOdF" text="Mounted Pillager"/>
+  <string id="J6Yksji5" text="Mounted Ransacker"/>
+  <!--input/mcga/mcga_special_chars.xml-->
+  <string id="avjokuDr" text="Sancho Panza"/>
+  <string id="avpokuDr" text="Metkin Stubbe"/>
+  <string id="zuijiopr" text="Alborg of Krehberg"/>
+  <string id="zuijkuDr" text="Gothard of Hornberg"/>
+  <!--input/mcga/mcga_spkingdoms.xml-->
+  <string id="NF627oiX" text="Northern Empire"/>
+  <string id="nsDj8Qxl" text="northern Empire"/>
+  <string id="OoHhCa11" text="Senator"/>
+  <string id="aEfsyVH4" text="Many of the oldest families of the Empire live in the north. They came here as marcher lords, granted vast tracts of land by their colleagues in the Senate to keep 'pacified' northern tribes in check and hold the frontiers against Battanian, Sturgian, and Khuzait raiders. They drained marshes and turned the river floodplains into wheatfields, cut back forests and turned the hillsides into pasture. But as the republic became an empire and as emperors became more and more dependent on money and lands to reward their loyal soldiers, the nobility here began to fear that their estates would one day be seized by some cash-starved tyrant. Consequently, in the ongoing imperial civil war they have become some of the strongest champions of Lucon, who sees a Senate of established property-holders as the supreme authority and the emperor as its servant."/>
+  <string id="yG3YUySN" text="Western Empire"/>
+  <string id="ZEmH0MwL" text="western Empire"/>
+  <string id="mOZsbV8j" text="According to tradition, the first Calradians entered the continent as exiles, coming from lands across the western ocean. But the Empire's center of gravity moved east and south, and their original heartland has, for the most part, been lost to the Vlandians. The west of the Empire today, a warm green land of oak forests and volcanic outcrops, was mostly conquered from the Palaic tribes. They have intermarried with Calradian colonists and today their old languages and customs are mostly forgotten. Service in the legions has traditionally been a path out of rural poverty and many an ambitious general has drawn his most loyal recruits fron this region. The landowners here have naturally gravitated towards Garios, the partisan of soldiers and soldiers' interests, in the ongoing civil war."/>
+  <string id="frBQ9mbP" text="Southern Empire"/>
+  <string id="GbnlN6na" text="southern Empire"/>
+  <string id="Xtyb9Dyr" text="The lands that are now the southern Empire were once ruled by proud independent city-states controlling trading routes over the Perassic Sea and the steppe. They invited the Empire into their internal feuds and one by one they were absorbed, some by treaty, some by conquest. Calradian aristocrats intermarried with merchant princes and nomad chiefs, many of whom claimed descent from the kings, champions and demigods of eastern legends. In recent generations, as these towns grew to become some of the richest and most populous in the continent, many Senatorial families elsewhere became suspicious that the southerners would someday try to make one of their own into a hereditary monarch. The southern nobility's support for Rhagaea, an unapolegetic advocate of the dynastic principle, would seem to confirm these fears."/>
+  <string id="C4qjBqLO" text="Sturgians"/>
+  <string id="iYCR3xuQ" text="Principality of Sturgia"/>
+  <string id="FmbgPGBL" text="Grand Prince"/>
+  <string id="bVihnRUu" text="The confederation of small kingdoms that is now the Principality of Sturgia came into being only a century ago. As boomtowns sprung up alongside the bays and lakes of the north, the local tribal leaders forged marriage pacts with Nords and other adventurers, hiring their swords to subdue their neighbors. Under pressure from the empire, they elected a prince to lead them in war, and eventually the princes became a hereditary office. But the idea of monarchy has never sat easily with the independence-minded boyars, and the potential for rebellion always lurks under the surface of Sturgian politics."/>
+  <string id="aseraimembers" text="Aserai"/>
+  <string id="UsbwPmYb" text="Sultanate of the Aserai"/>
+  <string id="5djtBrHj" text="Sultan"/>
+  <string id="qggtvf8Y" text="The Empire always preferred not to send its legions into the army-devouring wastes of the Nahasa. Instead, it projected its power into this borderland by cultivating client rulers among the clans, who competed in an endless dance of power. Those clans that could secure a hold on the oases won an imperial subsidy to protect passing caravans and grew rich. Those who could not were pushed into the desert, left to raise goats and raid caravans until they could plot a comeback. Today, with the waning of the empire, the Aserai have agreed to form a confederacy under a sultan chosen from richest of the clans, the Banu Hulyan. But everyone knows that the dance has only temporarily been stopped, and at the right moment it will begin again."/>
+  <string id="8HMyTKF6" text="Vlandians"/>
+  <string id="lAWwcO6b" text="Kingdom of Vlandia"/>
+  <string id="hwnp9abW" text="King"/>
+  <string id="IudGLWQZ" text="The Vlandian monarchy descends from Osric Iron-Arm, a warlord who seized the western coasts of the Empire and was recognized as king by the emperors as the price of peace. He in turn recognized his lieutenants as barons and counts, granting them suzerainty over their lands in exchange for rallying to his banner in war. Some Vlandian kings have sought to expand the powers of the kingship; others have allowed the barons to feud among themselves so long as the money and manpower was there when needed."/>
+  <string id="bgjiFSHZ" text="Battanians"/>
+  <string id="qaDIU0XC" text="High Kingdom of the Battanians"/>
+  <string id="afvM7XpQ" text="High King"/>
+  <string id="ZjaaAoxd" text="From time immemorial there has been a High King of Battania, crowned with great ceremony on the sacred hill of Dunthanach. Ask any Battanian chieftain, however, whose ”kingdom” he lives in, and he will look around at his hall and his fields and his pastures, his flocks and his retainers, and answer ”Mine, of course.” Only lately, following the example of the Empire, have the High Kings made any effort to exert their authority. ”Such unruly cattle as my people require a strong herdsman's hand to steer them from the ravine and protect them from the wolf,” said one recent high king, just before he was betrayed by a jealous cousin and taken in chains to the nearest imperial outpost."/>
+  <string id="vJOWy1QF" text="Khuzaits"/>
+  <string id="bF7HmNGQ" text="Khuzait Khanate"/>
+  <string id="fGNdo1BK" text="For centuries, the tribes in the vast steppe east of the Empire were content to live as nomads, venturing into the imperial lands to raid and trade, and then returning to their ancestral freedom. Two generations ago, however, something happened far away to the east - a change in the winds, perhaps, or some terrible but distant conqueror - and the horse clans were set in motion. Urkhun the Khuzait led the nomads nearest the Empire into its far eastern provinces, conquering the towns and forming a khanate. He imposed discipline on the unruly clans, forcing them to ride to war on his command instead of simply when they wished. But after his death, the spirit of unity that he inspired was lost. His descendants still rule the khanate. But some of the other Khuzait leaders chafe under the authority of the current khan, Monchug, and others dream of becoming khan themselves."/>
+  <!--input/mcga/mcga_strings.xml-->
+  <string id="1Slubhxc" text="It's not many who ask that question."/>
+  <string id="Csokpo5C" text="I was a farmer. But I split a man's head open with a hoe. He was also a farmer. It was a dispute over a broken fence, between my pasture and his. I had no intention of killing him."/>
+  <string id="JLHhV1ta" text="His cousins came for me, to take me to judgment. I would have gone willingly; I would have paid blood-money. Gladly. But one of them laid hands on me, and a black rage came over me, and I killed two of them, too. I didn't want to kill them either. "/>
+  <string id="W2Jhsc2X" text="That was that. I could pay blood money for one man but not three. I fled. I cannot return."/>
+  <string id="zX3hVUKI" text="It sounds like you had no choice."/>
+  <string id="K9ig7Mst" text="A man who cannot master his rage is a greater threat then the man who murders with intent."/>
+  <string id="1gXv1YlG" text="If the choice I had been mine, I would have never hurt anyone. I would live on my land, eat what I had grown, marry and have children. But the Heavens have decreed that I should eat by shedding other men's blood. In the city, rich men pay me well for that."/>
+  <string id="b1Ucozvw" text="I was a farmer once. I killed a man in a fight and could not pay the blood money, so I had to flee. It's a common enough tale in the northlands. I accept that my destiny will be blood and hardship, rather than the simple life on the land I once craved."/>
+  <string id="AT7pJ6Rm" text="It is not without some reluctance that I tell this story, for it hardly does honor to my name."/>
+  <string id="3J76GzZh" text="My father was a cataphract in the east. We had a small estate to pay for his horse and armor. I was raised to take his place on the imperial troop rosters when he came of age."/>
+  <string id="fwYGme3B" text=" But the Khuzaits overran us, and he was slain, and our land was taken. Its revenues now belong to some tarkhan. Alas, the empire has little land to grant today, even to trained cavalrymen like myself who wish to serve. And horses are expensive."/>
+  <string id="4UMf7HDe" text="You may call it pride, but I do not wish to enlist as a foot soldier. So I work here in town, for merchants, for pay, a hired sword. All I can say is that I hope one day to purchase the land I need to serve our emperor, whoever sits in the throne, as my father did."/>
+  <string id="KtN79I0H" text="That's it? The dishonorable part? That you work for merchants? I'd thought it would be a lot worse."/>
+  <string id="902xqUja" text="A cavalier of the empire doing errands for traders! The shame of it!"/>
+  <string id="wiR9bSfw" text="I try at least to pick and choose my master, and hope at least that some of our equestrian honor rubs off on the men of commerce."/>
+  <string id="ammEPFoq" text="I'm a former imperial cataphract. Our skills, and our honor, needs no further introduction. But I was unable to afford my horse and armor, so I took work with merchants, as a hired sword."/>
+  <!--input/mcga/mcga_sturgia/mcga_sturgia_troops.xml-->
+  <string id="7gbDnent" text="Sturgian Raider"/>
+  <string id="sPqB7bLZ" text="Sturgian Marauder"/>
+  <string id="XWzawDgS" text="Sturgian Byalic Sea Marauder"/>
+  <string id="biC1EgiX" text="Sturgian Byalic Sea Maid"/>
+  <string id="iLUB04yy" text="Sturgian Huntsman"/>
+  <string id="8E5LSP43" text="Sturgian Varyag"/>
+  <string id="AAvbGmjN" text="Sturgian Militia Footman"/>
+  <string id="IlY3iM1a" text="Sturgian Militia Archer"/>
+  <string id="L8TbJLUa" text="Sturgian Warrior"/>
+  <string id="CydaS1Rw" text="Sturgian Byalican Striker"/>
+  <string id="jGu4j57J" text="Sturgian Byalican Schildmaid"/>
+  <string id="XYrtCXdr" text="Sturgian Hunter"/>
+  <string id="RLnXF14s" text="Sturgian Brigand Spotter"/>
+  <string id="YA9SYk9Y" text="Sturgian Varyag Warrior"/>
+  <string id="95CrIavu" text="Sturgian Militia Veteran Archer"/>
+  <string id="OC9ncFvy" text="Sturgian Militia Veteran Footman"/>
+  <string id="ntLWfhvZ" text="Sturgian Veteran Warrior"/>
+  <string id="NNpPJI2k" text="Sturgian Spearman"/>
+  <string id="RCBcIYfE" text="Sturgian Byalican Skirmisher"/>
+  <string id="2uPov9ys" text="Sturgian Byalican Valkyrie"/>
+  <string id="URaQWGyY" text="Sturgian Archer"/>
+  <string id="baUJt0LQ" text="Sturgian Hardened Brigand"/>
+  <string id="e79fHLz0" text="Sturgian Varyag Skirmisher"/>
+  <string id="9ZU18p6L" text="Sturgian Heavy Warrior"/>
+  <string id="NIRiM2nr" text="Sturgian Heavy Spearman"/>
+  <string id="gFtLdzlT" text="Sturgian Byalican Berserk"/>
+  <string id="qa49iBgv" text="Sturgian Byalican Dís"/>
+  <string id="uLX0fQoc" text="Sturgian Veteran Bowman"/>
+  <string id="jXcXNwwk" text="Sturgian Heavy Brigand"/>
+  <string id="GzdugOpY" text="Sturgian Varyag Footman"/>
+  <string id="yr74N36Q" text="Sturgian Varyag Cavalry"/>
+  <string id="s3IVggid" text="Sturgian Heavy Varyag Footman"/>
+  <string id="5BSsHjiQ" text="Sturgian Heavy Varyag Cavalry "/>
+  <string id="yIyODV2m" text="Sturgian Guard"/>
+  <string id="sturgiapeasantman" text="Sturgia Peasant"/>
+  <!--input/mcga/mcga_vlandia/mcga_vlandia_troops.xml-->
+  <string id="M3IWYRcG" text="Vlandian Recruit"/>
+  <string id="gqTSspmd" text="Vlandian Bowman"/>
+  <string id="H2ePBnz7" text="Vlandian Crossbowman"/>
+  <string id="svudceWg" text="Vlandian Light Swordsman"/>
+  <string id="UEoCFWgI" text="Vlandian Light Spearman"/>
+  <string id="POQMcr28" text="Vlandian Squire"/>
+  <string id="n9MnW8Sc" text="Vlandian Militia Spearman"/>
+  <string id="YX4ArxSq" text="Vlandian Militia Archer"/>
+  <string id="jwI82gQv" text="Vlandian Light Cavalry"/>
+  <string id="Zlhn8dTf" text="Vlandian Trained Swordsman"/>
+  <string id="SnriZUP6" text="Vlandian Trained Spearman"/>
+  <string id="Qwlxrhiw" text="Vlandian Trained Bowman"/>
+  <string id="fy4uHbOT" text="Vlandian Trained Crossbowman"/>
+  <string id="VRJldEU9" text="Vlandian Warder"/>
+  <string id="lNFgciqT" text="Vlandian Militia Veteran Archer"/>
+  <string id="mXZxIq6s" text="Vlandian Militia Veteran Spearman"/>
+  <string id="dShbBj3A" text="Vlandian Cavalry"/>
+  <string id="o0HJaci3" text="Vlandian Veteran Swordsman"/>
+  <string id="LAHtLDjt" text="Vlandian Veteran Spearman"/>
+  <string id="VILeCWhz" text="Vlandian Longbowman"/>
+  <string id="vCDVOqAw" text="Vlandian Veteran Crossbowman"/>
+  <string id="Dejs383a" text="Vlandian Knight"/>
+  <string id="oHFqazbM" text="Vlandian Veteran Cavalry"/>
+  <string id="7wWqQQZk" text="Vlandian Heavy Swordsman"/>
+  <string id="xRc7UnAc" text="Vlandian Heavy Spearman"/>
+  <string id="tgcn7IgK" text="Vlandian Longbow Master"/>
+  <string id="KJZOlwYD" text="Vlandian Crossbow Sharpshooter"/>
+  <string id="bt0pjHxe" text="Vlandian Grand Knight"/>
+  <string id="E6UfQA6H" text="Vlandian Chevalier"/>
+  <string id="9mYy3W3x" text="Vlandian Banneret"/>
+  <string id="fyO99HmY" text="Vlandian Keeper"/>
+  <string id="eHH72cXb" text="Vlandian Guard"/>
+  <string id="vlandiapeasantman" text="Vlandia Peasant"/>
+  <!--input/mcga/mcga_weapons.xml-->
+  <string id="cLd9IsHq" text="Simple Gladius"/>
+  <string id="YkkwdfsZ" text="Short Gladius"/>
+  <string id="yoYsiGSf" text="Gladius"/>
+  <string id="9S4QaScc" text="Exercitus Gladius"/>
+  <string id="NQK86zB4" text="Armatus Gladius"/>
+  <string id="rhB56trT" text="Provectus Gladius"/>
+  <string id="Egrhduct" text="Legionary Pilum with Guard"/>
+  <string id="Egrhdhgt" text="Legionary Pilum with Banner"/>
+  <string id="Egrikuct" text="Legionary Pilum with Cloth"/>
+  <string id="Atrikuct" text="Vlandian Oak Spear with Banner"/>
+  <string id="Atriuopt" text="Vlandian Ash Spear with Banner"/>
+  <string id="AtriuoUU" text="Vlandian Walnut Spear with Banner"/>
+  <string id="ctriuoUU" text="Vlandian Pine Spear with Banner"/>
+  <string id="chriuoUU" text="Vlandian Pine Spear"/>
+  <string id="mnfghoUU" text="Vlandian Ash Lance"/>
+  <string id="chnsdeoUU" text="Vlandian Oak Lance"/>
+  <string id="chfdutzu" text="Vlandian Ash Lance with Banner"/>
+  <string id="chriibvn" text="Vlandian Oak Lance with Banner"/>
+  <string id="gcsliggk" text="Vlandian Keeper Sword"/>
+  <string id="yhHuz9Uo" text="Khuzait Mahogany Hooked Spear"/>
+  <string id="herKzju5" text="Khuzait Mahogany Huge Hooked Spear"/>
+  <string id="fadOm2xk" text="Khuzait Mahogany Frills Spear"/>
+  <string id="QyqSR9AY" text="Khuzait Cloth Banner Spear"/>
+  <string id="wr9f202K" text="Khuzait Mahogany Sharp Spear"/>
+  <string id="GRJ7GXn9" text="Khuzait Mahogany Hard Spear"/>
+  <string id="DgStbcdG" text="Khuzait Long Steel Sabre"/>
+  <string id="llTXmGJP" text="Khuzait Fine Steel Sabre"/>
+  <string id="8f4YOPXg" text="Khuzait Balanced Sabre"/>
+  <string id="CSJ7CSLE" text="Khuzait Fine Sabre"/>
+  <string id="ToqCZd37" text="Khuzait Steel Mace"/>
+  <string id="bOKYo3fb" text="Khuzait Steel Axe"/>
+  <string id="Nep9YRjm" text="Khuzait Throwing Frills Spear"/>
+  <string id="OEFu8f08" text="Khuzait Throwing Cloth Spear"/>
+  <string id="cAN8krBD" text="Khuzait Throwing Spear"/>
+  <string id="crz8krBD" text="Khuzait Noble Javelin"/>
+  <string id="bOHzo3fb" text="Khuzait War Scythe"/>
+  <string id="bTfzo3fb" text="Khuzait War Razor"/>
+  <string id="bTuho3fb" text="Khuzait Steel Razor"/>
+  <string id="bTuhu3fb" text="Khuzait Heavy Glaive"/>
+  <string id="bTuhu3fa" text="Khuzait Decorated Noble Sabre"/>
+  <string id="bTuhu3fc" text="Khuzait Long Noble Sabre"/>
+  <string id="bTuhu3fh" text="Khuzait Fine Noble Sabre"/>
+  <string id="bTuhu3ft" text="Khuzait Greate Noble Sabre"/>
+  <string id="3daDQxwM" text="Lowland Arrows"/>
+  <string id="K5XLb84w" text="Imperial Arrows"/>
+  <string id="rdKSIamN" text="Piercing Arrows"/>
+  <string id="DI9P2HDG" text="Stacked Bodkin Arrows"/>
+  <string id="SbARa2gU" text="Bodkin Arrows"/>
+  <string id="BqAUrOpn" text="Light Bodkin Arrows"/>
+  <string id="XbwDj80t" text="Steppe Arrows"/>
+  <string id="NkV2c6YX" text="Stacked Steppe Arrows"/>
+  <string id="s7jkSgba" text="Barbed Arrows"/>
+  <string id="Biq7t1xv" text="Range Arrows"/>
+  <string id="bK03bqdA" text="Tournament Arrows"/>
+  <string id="gFtu0j4T" text="Arrows"/>
+  <string id="4jmcs2Xm" text="Tournament Bolts"/>
+  <string id="g7vxJhiz" text="Light Bolts"/>
+  <string id="wrbea2oa" text="Bolts"/>
+  <string id="wi53b5PG" text="Heavy Bolts"/>
+  <string id="hN4wE2gG" text="Heavy Quarrels"/>
+  <string id="I67Avuos" text="Light Quarrels"/>
+  <string id="DC0qJkVs" text="Blunt Arrows"/>
+  <string id="hRKmfw2H" text="Heavy Round Shield"/>
+  <string id="WYFDXE82" text="Large Round Shield"/>
+  <string id="EXLY9mEb" text="Reinforced Large Round Shield"/>
+  <string id="RddFH0BA" text="Iron Rimmed Large Round Shield"/>
+  <string id="C2IIn10Q" text="Simple Large Round Shield"/>
+  <string id="927d3urB" text="Wooden Oval Shield"/>
+  <string id="vFqkSbGC" text="Reinforced Desert Round Shield"/>
+  <string id="WzAJJQjP" text="Desert Round Shield"/>
+  <string id="hE8s9bpP" text="Curved Round Shield"/>
+  <string id="QodawBSN" text="Iron Round Shield"/>
+  <string id="FktkkUMK" text="Steel Round Shield"/>
+  <string id="gfQDDkEY" text="Wooden Adarga"/>
+  <string id="MnmUBlbL" text="Targe"/>
+  <string id="JzZJpbTB" text="Reinforced Targe"/>
+  <string id="cXesETQJ" text="Large Adarga"/>
+  <string id="przGGaVm" text="Bronze Reinforced Highland Large Shield"/>
+  <string id="vsI4M5oq" text="Iron Reinforced Highland Large Shield"/>
+  <string id="wAcc9SX4" text="Highland Large Shield"/>
+  <string id="vXvuViMT" text="Makeshift Kite Shield"/>
+  <string id="dacwWKE2" text="Worn Kite Shield"/>
+  <string id="Ita1lG33" text="Leather Bound Kite Shield"/>
+  <string id="veI9RcR3" text="Reinforced Kite Shield"/>
+  <string id="OM9achAa" text="Reinforced Oaken Kite Shield"/>
+  <string id="aVGSZhCN" text="Pavise Shield"/>
+  <string id="8ndLVeN0" text="Wooden Kite Shield"/>
+  <string id="7MlFqkJ8" text="Makeshift Horseman Kite Shield"/>
+  <string id="FxnFBhrF" text="Cavalry Kite Shield"/>
+  <string id="jqWBGBo7" text="Reinforced Cavalry Small Shield"/>
+  <string id="jAbn05Vg" text="Simple Horseman Kite Shield"/>
+  <string id="O3TTXEFe" text="Light Cavalry Kite Shield"/>
+  <string id="kNDbSy6K" text="Reinforced Cavalry Kite Shield"/>
+  <string id="MiUxU83P" text="Simple Kite Shield"/>
+  <string id="A1zFbFta" text="Reinforced Flat Kite Shield"/>
+  <string id="hytuHaoA" text="Studded Bound Kite Shield"/>
+  <string id="NFvuDpwG" text="Fortified Kite Shield"/>
+  <string id="LOhfAMnh" text="Small Cavalry Heater Shield"/>
+  <string id="Ai7qIb9I" text="Small Heater Shield"/>
+  <string id="nVAhoxcH" text="Knights Shield"/>
+  <string id="txgUxMYw" text="Heater Shield with Cutout"/>
+  <string id="ap2yulQ2" text="Flat Heater Shield"/>
+  <string id="rF7Xm7C0" text="Heavy Heater Shield"/>
+  <string id="iFPkhVGe" text="Small Flat Heater Shield"/>
+  <string id="OhEQUMk0" text="Wide Heater Shield"/>
+  <string id="buaIafV6" text="Bracketed Heater Shield"/>
+  <string id="Lbm7asY3" text="Tall Heater Shield"/>
+  <string id="QcKpipVr" text="Adarga"/>
+  <string id="0666zYUB" text="Studded Adarga"/>
+  <string id="YRYJGzxw" text="Ornate Adarga"/>
+  <string id="Mb1hQRyT" text="Desert Oval Shield"/>
+  <string id="8nNLS96w" text="Reinforced Oval Shield"/>
+  <string id="G7AEWZ6c" text="Decorated Oval Shield"/>
+  <string id="dbbwszHd" text="Decorated Round Shield"/>
+  <string id="OSHSIyhN" text="Highland Round Shield"/>
+  <string id="pmabPgC0" text="Tribal Steppe Shield"/>
+  <string id="iE9JNuZI" text="Round Steppe Shield"/>
+  <string id="3TAnl7hb" text="Decorated Eastern Shield"/>
+  <string id="8UMQ8ocB" text="Eastern Cavalry Shield"/>
+  <string id="pEaYQqG9" text="Wicker Square Shield"/>
+  <string id="F9HQABfN" text="Reinforced Wicker Square Shield"/>
+  <string id="1w5StEM1" text="Wicker Shield"/>
+  <string id="OIcwZGmC" text="Reinforced Wicker Shield"/>
+  <string id="aprm5ypZ" text="Sturdy Cavalry Kite Shield"/>
+  <string id="BmHJmxXz" text="Reinforced Cavalry Shield"/>
+  <string id="z62uDlbh" text="Norse Round Shield"/>
+  <string id="uEcbnd5D" text="Round Shield"/>
+  <string id="IBXDYUZW" text="Horseman Kite Shield"/>
+  <string id="dWr3nuBq" text="Reinforced Iron Rimmed Kite Shield"/>
+  <string id="n3sz2k5j" text="Knights Kite Shield"/>
+  <string id="uqO6e6vN" text="Kite Shield"/>
+  <string id="WpdmIlU5" text="Iron Rimmed Kite Shield"/>
+ </strings>
+</base>
