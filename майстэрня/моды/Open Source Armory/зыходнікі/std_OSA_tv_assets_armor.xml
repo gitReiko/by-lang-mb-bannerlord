@@ -55,6 +55,9 @@
 		<string id="osa_tv_moccasins_c" text="Southern Noble Moccasins"/>
 		<string id="osa_tv_sturgia_boots_a" text="Northern Boots With Steel Greaves"/>
 		<string id="osa_tv_sturgia_boots_b" text="Northern Boots With Gilded Greaves"/>
+		<string id="osa_tv_vlandia_boots_a" text="Mailled Boots With Leather Greaves"/>
+		<string id="osa_tv_vlandia_boots_b" text="Mailled Shoes"/>
+		<string id="osa_tv_vlandia_boots_c" text="Mailled Splint Boots"/>
 		<!-- Shoulder Armors -->
 		<string id="osa_tv_aserai_cloak_a" text="Southern Long Cape"/>
 		<string id="osa_tv_aserai_cloak_b" text="Southern Plated Brass Shoulder Straps With Cape"/>
@@ -102,14 +105,6 @@
 		<string id="osa_tv_imperial_leather_cape_b" text="Imperial Leather Shoulders With Striped Cape"/>
 		<string id="osa_tv_empire_shoulders_a" text="Imperial Studded Leather Shoulders With Cape"/>
 		<string id="osa_tv_empire_shoulders_b" text="Imperial Leather Shoulders With Lamellar Pauldrons"/>
-		<string id="osa_tv_vlandia_shoulders_a" text="Western Mail Shoulders"/>
-		<string id="osa_tv_vlandia_shoulders_b" text="Western Mail Hood"/>
-		<string id="osa_tv_vlandia_shoulders_b2" text="Western Chainmail Hood"/>
-		<string id="osa_tv_vlandia_shoulders_c" text="Western Heavy Mail Shoulders"/>
-		<string id="osa_tv_vlandia_shoulders_d" text="Western Lamellar Pauldrons"/>
-		<string id="osa_tv_vlandia_shoulders_e" text="Western Lamellar Pauldrons Over Leather"/>
-		<string id="osa_tv_vlandia_shoulders_f" text="Western Lamellar Pauldrons With Long Cape"/>
-		<string id="osa_tv_vlandia_shoulders_g" text="Western Padded Leather Hood"/>
 		<string id="osa_tv_sturgia_cloak_a" text="Northern Long Cape"/>
 		<string id="osa_tv_sturgia_shoulders_a" text="Nordic Large Lamellar Shoulders"/>
 		<string id="osa_tv_sturgia_shoulders_b" text="Nordic Lamellar Shoulders"/>
@@ -137,6 +132,35 @@
 		<string id="osa_tv_khuzait_shoulder_j" text="Eastern Leather Lamellar Pauldrons"/>
 		<string id="osa_tv_khuzait_shoulder_k" text="Eastern Leather Lamellar Shoulders"/>
 		<string id="osa_tv_khuzait_shoulder_l" text="Eastern Leather Lamellar Shoulders With Cape"/>
+		<string id="osa_tv_khuzait_shoulder_m" text="Eastern Steel Lamellar Shoulder Pieces Over Leather"/>
+		<string id="osa_tv_khuzait_shoulder_n" text="Eastern Steel Lamellar Shoulder Pieces With Cape"/>
+		<string id="osa_tv_khuzait_shoulder_o" text="Eastern Decorated Steel Lamellar Shoulder Pieces Over Leather"/>
+		<string id="osa_tv_khuzait_shoulder_p" text="Eastern Decorated Steel Lamellar Shoulder Pieces With Cape"/>
+		<string id="osa_tv_khuzait_shoulder_q" text="Eastern Blackened Leather Lamellar Shoulder Pieces"/>
+		<string id="osa_tv_khuzait_shoulder_r" text="Eastern Heavy Blackened Leather Lamellar Shoulders"/>
+		<string id="osa_tv_khuzait_shoulder_s" text="Eastern Blackened Leather Lamellar Shoulder Pieces Over Leather"/>
+		<string id="osa_tv_khuzait_shoulder_t" text="Eastern Blackened Leather Lamellar Shoulder Pieces With Cape"/>
+		<string id="osa_tv_vlandia_shoulders_a" text="Western Mail Shoulders"/>
+		<string id="osa_tv_vlandia_shoulders_b" text="Western Mail Hood"/>
+		<string id="osa_tv_vlandia_shoulders_b2" text="Western Chainmail Hood"/>
+		<string id="osa_tv_vlandia_shoulders_c" text="Western Heavy Mail Shoulders"/>
+		<string id="osa_tv_vlandia_shoulders_d" text="Western Lamellar Pauldrons"/>
+		<string id="osa_tv_vlandia_shoulders_e" text="Western Lamellar Pauldrons Over Leather"/>
+		<string id="osa_tv_vlandia_shoulders_f" text="Western Lamellar Pauldrons With Long Cape"/>
+		<string id="osa_tv_vlandia_shoulders_g" text="Western Padded Leather Hood"/>
+		<string id="osa_tv_vlandia_shoulders_h" text="Western Long Cape"/>
+		<string id="osa_tv_vlandia_shoulders_i" text="Western Patterned Cape"/>
+		<string id="osa_tv_vlandia_shoulders_j" text="Western Hooded Cloak"/>
+		<string id="osa_tv_vlandia_shoulders_k" text="Western Furred Cape"/>
+		<string id="osa_tv_vlandia_shoulders_l" text="Western Patterned Furred Cape"/>
+		<string id="osa_tv_vlandia_shoulders_m" text="Western Trimmed Leather Shoulders"/>
+		<string id="osa_tv_vlandia_shoulders_n" text="Western Trimmed Mailled Leather Shoulders"/>
+		<string id="osa_tv_vlandia_shoulders_o" text="Western Trimmed Mailled Leather Shoulders With Cape"/>
+		<string id="osa_tv_vlandia_shoulders_p" text="Western Trimmed Mailled Leather Shoulders With Cloak"/>
+		<string id="osa_tv_vlandia_shoulders_q" text="Western Heavy Trimmed Mail Shoulders"/>
+		<string id="osa_tv_vlandia_shoulders_r" text="Western Heavy Trimmed Mail Shoulders With Shoulder Plates"/>
+		<string id="osa_tv_vlandia_shoulders_s" text="Western Heavy Trimmed Mail And Steel Scale Shoulders"/>
+		<string id="osa_tv_vlandia_shoulders_t" text="Western Heavy Trimmed Mail And Steel Scale Shoulders With Cloak"/>
 		<!-- Arm Armors -->
 		<string id="osa_tv_aserai_gloves_a" text="Engraved Brass Bracers"/>
 		<string id="osa_tv_aserai_gloves_b" text="Engraved Steel Bracers"/>
@@ -150,19 +174,31 @@
 		<string id="osa_tv_battania_gloves_b" text="Highland Brass Gauntlets"/>
 		<string id="osa_tv_battania_gloves_c" text="Highland Iron Gauntlets"/>
 		<string id="osa_tv_battania_gloves_d" text="Highland Noble Vambraces"/>
-		<string id="osa_tv_khuzait_gloves_a" text="Eastern Blackened Leather Vambraces"/>
+		<string id="osa_tv_khuzait_gloves_a" text="Eastern Studded Blackened Leather Vambraces"/>
+		<string id="osa_tv_khuzait_gloves_b" text="Eastern Blackened Leather Vambraces"/>
 		<string id="osa_tv_sturgia_gloves_a" text="Reinforced Leather Vambraces With Mail"/>
 		<string id="osa_tv_sturgia_gloves_b" text="Rough Brass Bracers"/>
 		<string id="osa_tv_sturgia_gloves_c" text="Rough Iron Bracers"/>
 		<string id="osa_tv_sturgia_gloves_d" text="Simple Steel Bracers"/>
 		<string id="osa_tv_sturgia_gloves_e" text="Simple Brass Bracers"/>
+		<string id="osa_tv_vlandia_gloves_a" text="Leather Gauntlets"/>
+		<string id="osa_tv_vlandia_gloves_b" text="Mail Gauntlets"/>
+		<string id="osa_tv_vlandia_gloves_c" text="Strapped Leather Bracers"/>
+		<string id="osa_tv_vlandia_gloves_d" text="Leather Gloves"/>
+		<string id="osa_tv_vlandia_gloves_e" text="Blackened Leather Gloves"/>
+		<string id="osa_tv_vlandia_gloves_f" text="Leather Gloves"/>
+		<string id="osa_tv_vlandia_gloves_g" text="Mail Gloves"/>
+		<string id="osa_tv_vlandia_gloves_h" text="Plated Splint Bracers With Mail"/>
+		<string id="osa_tv_vlandia_gloves_i" text="Plated Splint Gloves"/>
 		<!-- Body Armors -->
 		<string id="osa_tv_aserai_lamellar_a" text="Southern Brass Lamellar Vest Over Mailed Silk Kaftan"/>
+		<string id="osa_tv_aserai_lamellar_a2" text="Southern Brass Lamellar Vest Over Padded Silk Kaftan"/>
 		<string id="osa_tv_aserai_lamellar_b" text="Southern Brass Lamellar Vest Over Mail"/>
 		<string id="osa_tv_aserai_lamellar_b2" text="Southern Steel Lamellar Vest Over Mail"/>
 		<string id="osa_tv_aserai_lamellar_c" text="Southern Bronze Lamellar Over Long Kaftan"/>
 		<string id="osa_tv_aserai_lamellar_c2" text="Southern Steel Lamellar Over Long Kaftan"/>
 		<string id="osa_tv_aserai_lamellar_d" text="Southern Steel Lamellar Vest Over Mailed Silk Kaftan"/>
+		<string id="osa_tv_aserai_lamellar_d2" text="Southern Steel Lamellar Vest Over Padded Silk Kaftan"/>
 		<string id="osa_tv_aserai_lamellar_e" text="Southern Heavy Steel Lamellar Over Mail"/>
 		<string id="osa_tv_aserai_lamellar_e2" text="Southern Heavy Brass Lamellar Over Mail"/>
 		<string id="osa_tv_aserai_lamellar_f" text="Southern Steel Lamellar Over Mail"/>
@@ -172,6 +208,7 @@
 		<string id="osa_tv_aserai_lamellar_h" text="Southern Bronze Lamellar Over Mailed Kaftan"/>
 		<string id="osa_tv_aserai_lamellar_h2" text="Southern Steel Lamellar Over Mailed Kaftan"/>
 		<string id="osa_tv_aserai_lamellar_i" text="Southern Leather Cuirass Over Padded Cloth"/>
+		<string id="osa_tv_aserai_lamellar_j" text="Southern Leather Lamellar Cuirass Over Padded Cloth"/>
 		<string id="osa_tv_aserai_robe_a" text="Southern Decorated Robe With Double Mail"/>
 		<string id="osa_tv_battania_armor_a" text="Highland Rugged Scale Vest"/>
 		<string id="osa_tv_battania_armor_b" text="Highland Decorated Ranger Mail"/>
@@ -210,10 +247,11 @@
 		<string id="osa_tv_khuzait_armor_b" text="Eastern Strapped Iron Lamellar Armor"/>
 		<string id="osa_tv_khuzait_armor_c" text="Eastern Light Strapped Leather Armor"/>
 		<string id="osa_tv_khuzait_armor_d" text="Eastern Light Strapped Iron Lamellar Armor"/>
+		<string id="osa_tv_khuzait_armor_d2" text="Eastern Light Strapped Lamellar Armor"/>
 		<string id="osa_tv_khuzait_armor_e" text="Eastern Stitched Leather Coat Over Mail"/>
 		<string id="osa_tv_khuzait_armor_f" text="Eastern Stitched Leather Vest Over Mail"/>
 		<string id="osa_tv_khuzait_armor_g" text="Eastern Light Lamellar Armor"/>
-		<string id="osa_tv_khuzait_armor_h" text="Eastern Blackened Leather Lamellar Armor"/>
+		<string id="osa_tv_khuzait_armor_h" text="Eastern Blackened Leather Lamellar Vest"/>
 		<string id="osa_tv_khuzait_armor_i" text="Eastern Stitched Leather Vest"/>
 		<string id="osa_tv_khuzait_armor_j" text="Eastern Alternating Lamellar Coat Over Mail"/>
 		<string id="osa_tv_khuzait_armor_k" text="Eastern Stitched Lamellar Coat Over Mail"/>
@@ -223,17 +261,41 @@
 		<string id="osa_tv_khuzait_armor_o" text="Eastern Stitched Lamellar Vest Over Mail"/>
 		<string id="osa_tv_khuzait_armor_p" text="Eastern Alternating Lamellar Vest"/>
 		<string id="osa_tv_khuzait_armor_q" text="Eastern Stitched Lamellar Vest"/>
-		<!--string id="osa_tv_keshik_lamellar_f" text="Eastern Cured Studded Leather Coat"/-->
+		<string id="osa_tv_khuzait_armor_r" text="Eastern Studded Leather Coat"/>
+		<string id="osa_tv_khuzait_armor_s" text="Eastern Studded Leather Coat Over Mail"/>
+		<string id="osa_tv_khuzait_armor_t" text="Eastern Blackened Leather Lamellar Armor"/>
+		<string id="osa_tv_khuzait_armor_u" text="Eastern Blackened Leather Lamellar Over Mail"/>
+		<string id="osa_tv_monk_robe_a" text="Western Patterned Robe"/>
+		<string id="osa_tv_monk_robe_b" text="Western Mailled Patterned Robe"/>
 		<string id="osa_tv_sturgia_armor_a" text="Northern Double Hauberk"/>
+		<string id="osa_tv_sturgia_armor_a2" text="Northern Decorated Double Hauberk"/>
 		<string id="osa_tv_sturgia_armor_b" text="Northern Alternating Scale Over Hauberk"/>
 		<string id="osa_tv_sturgia_armor_c" text="Northern Brass Scale Over Hauberk"/>
 		<string id="osa_tv_sturgia_armor_d" text="Northern Steel Scale Over Hauberk"/>
 		<string id="osa_tv_sturgia_armor_e" text="Northern Heavy Lamellar Over Hauberk"/>
+		<string id="osa_tv_sturgia_armor_e2" text="Northern Heavy Decorated Lamellar Over Hauberk"/>
 		<string id="osa_tv_sturgia_armor_f" text="Northern Lamellar Over Hauberk"/>
+		<string id="osa_tv_sturgia_armor_f2" text="Northern Decorated Lamellar Over Hauberk"/>
 		<string id="osa_tv_vlandia_armor_a" text="Western Leather Coat Over Mail"/>
-		<string id="osa_tv_vlandia_armor_b" text="Western Padded Leather Over Hauberk"/>
+		<string id="osa_tv_vlandia_armor_b" text="Western Padded Coat Over Hauberk"/>
+		<string id="osa_tv_vlandia_armor_b2" text="Western Sleeveless Padded Coat Over Hauberk"/>
+		<string id="osa_tv_vlandia_armor_b3" text="Western Padded Short Coat Over Hauberk"/>
+		<string id="osa_tv_vlandia_armor_b4" text="Western Sleeveless Padded Short Coat Over Hauberk"/>
 		<string id="osa_tv_vlandia_armor_c" text="Western Patterned Tabard Over Mail Hauberk"/>
-		<string id="osa_tv_vlandia_armor_d" text="Western Scale Cuirass Over Chainmail"/>
+		<string id="osa_tv_vlandia_armor_d" text="Western Steel Scale Cuirass Over Chainmail"/>
+		<string id="osa_tv_vlandia_armor_d2" text="Western Brass Scale Cuirass Over Chainmail"/>
 		<string id="osa_tv_vlandia_armor_e" text="Western Patterned Tabard Over Aketon"/>
+		<string id="osa_tv_vlandia_armor_g" text="Western Mailled Brigandine With Decorated Tabard"/>
+		<string id="osa_tv_vlandia_armor_h" text="Western Padded Double Mail Hauberk"/>
+		<string id="osa_tv_vlandia_armor_h2" text="Western Double Mail Hauberk"/>
+		<string id="osa_tv_vlandia_armor_i" text="Western Decorated Coat Over Mail"/>
+		<string id="osa_tv_vlandia_armor_j" text="Western Plated Leather Over Mail"/>
+		<string id="osa_tv_vlandia_armor_k" text="PLACEHOLDER"/>
+		<string id="osa_tv_vlandia_armor_l" text="Western Mail Armor"/>
+		<string id="osa_tv_vlandia_armor_m" text="Western Heavy Padded Mail Hauberk"/>
+		<string id="osa_tv_vlandia_armor_n" text="Western Decorated Aketon Over Mail"/>
+		<string id="osa_tv_vlandia_armor_o" text="Western Heavy Plated Leather Over Mail"/>
+		<string id="osa_tv_vlandia_armor_p" text="Western Decorated Long Scale Cuirass"/>
+		<string id="osa_tv_vlandia_armor_q" text="Western Decorated Long Steel Scale Cuirass"/>
 	</strings>
 </base>
