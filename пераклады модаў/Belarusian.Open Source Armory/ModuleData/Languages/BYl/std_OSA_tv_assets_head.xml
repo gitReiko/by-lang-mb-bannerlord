@@ -1,5 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+
+
+
 	<strings>
 		<string id="osa_tv_phrygian_cap_a" text="{.Muzcynski}Sahnuty Kaničny Kapialuch"/>
 		<string id="osa_tv_phrygian_cap_b" text="{.Muzcynski}Hładki Sahnuty Kaničny Kapialuch"/>
@@ -51,14 +54,15 @@
 		<string id="osa_tv_aserai_helmet_x" text="{.Muzcynski}Daršyjski Ŭpryhožany Španhienchielm z Kalčuhaj"/>
 		<string id="osa_tv_aserai_helmet_y" text="{.Muzcynski}Daršyjski Ŭpryhožany Španhienchielm z Žaleznaj Łuskata"/>
 		<string id="osa_tv_aserai_helmet_y2" text="{.Muzcynski}Daršyjski Ŭpryhožany Španhienchielm z Łatuniovaj Łuskataj"/>
-		<string id="osa_tv_aserai_lord_helmet_a" text="{.Muzcynski}Paŭdniovy Ciervieljer Šlachty"/>
+		<string id="osa_tv_aserai_lord_helmet_a" text="{.Muzcynski}Paŭdniovy Cervieljer Šlachty"/>
 		<string id="osa_tv_aserai_lord_helmet_b" text="{.Zanocy}Zhrabnaja Paŭdniovaja Pasrebranaja Bajavaja Karona"/>
 		<string id="osa_tv_aserai_lord_helmet_c" text="{.Zanocy}Zhrabnaja Paŭdniovaja Bajavaja Karona"/>
 		<string id="osa_tv_aserai_lord_helmet_d" text="{.Muzcynski}Upryhožany Paŭdniovy Šałom-Kaŭpak nad Turbanam"/>
 		<string id="osa_tv_aserai_lord_helmet_e" text="{.Muzcynski}Paŭdniovy Zavostrany Šałom-Kaŭpak Šlachty"/>
-		<string id="osa_tv_aserai_lord_helmet_f" text="{.Muzcynski}Paŭdniovy Kupałavaty Ciervieljer Šlachty"/>
+		<string id="osa_tv_aserai_lord_helmet_f" text="{.Muzcynski}Paŭdniovy Kupałavaty Cervieljer Šlachty"/>
 		<string id="osa_tv_aserai_lord_helmet_g" text="{.Muzcynski}Paŭdniovy Španhienchielm Šlachty"/>
 		<string id="osa_tv_aserai_lord_helmet_h" text="{.Muzcynski}Paŭdniovy Pazałočany Šałom Katafrakta"/>
+		<string id="osa_tv_aserai_lord_helmet_i" text="{.Muzcynski}Paŭdniovy Španhienchielm Katafrakta"/>
 		<!-- Battania Šałoms -->
 		<string id="osa_tv_battania_helmet_a" text="{.Muzcynski}Horny Zavostrany Stalovy Kapalin z Machrami"/>
 		<string id="osa_tv_battania_helmet_b" text="{.Muzcynski}Horny Zavostrany Bronzavy Kapalin z Machrami"/>
@@ -115,8 +119,10 @@
 		<string id="osa_tv_empire_lord_helmet_k" text="{.Muzcynski}Impierski Ŭpryhožany Šałom-Kaŭpak z Mietaličnymi Pałoskami"/>
 		<!-- Khuzait Šałoms -->
 		<string id="osa_tv_khuzait_helmet_a" text="{.Muzcynski}Uschodni Šałom nad Adkrytym Łamielaram"/>
+		<string id="osa_tv_khuzait_helmet_a2" text="{.Muzcynski}Uschodni Šałom nad Skuraju"/>
 		<string id="osa_tv_khuzait_helmet_b" text="{.Muzcynski}Uschodni Šałom nad Zakrytaj Łamielarnaj Vuałlu"/>
 		<string id="osa_tv_khuzait_helmet_c" text="{.Muzcynski}Uschodni Płascinkavy Stalovy Kaŭpak"/>
+		<string id="osa_tv_khuzait_helmet_c2" text="{.Muzcynski}Uschodni Stalovy Kaŭpak"/>
 		<string id="osa_tv_khuzait_helmet_d" text="{.Muzcynski}Uschodni Płascinkavy Stalovy Kaŭpak z Klajnotam"/>
 		<string id="osa_tv_khuzait_helmet_e" text="{.Muzcynski}Uschodni Apierany Płascinkavy Stalovy Kaŭpak"/>
 		<string id="osa_tv_khuzait_helmet_f" text="{.Muzcynski}Uschodni Azdobleny Piorami Płascinkavy Stalovy Kaŭpak"/>
@@ -134,13 +140,26 @@
 		<string id="osa_tv_khuzait_helmet_r" text="{.Muzcynski}Stepavy Apierany Stalovy Šałom z Zakrytym Łamielaram"/>
 		<string id="osa_tv_khuzait_helmet_s" text="{.Muzcynski}Stepavy Azdobleny Piorami Stalovy Šałom z Zakrytym Łamielaram"/>
 		<string id="osa_tv_khuzait_helmet_t" text="{.Muzcynski}Stepavy Kalčužny Stalovy Nazalchielm"/>
+		<string id="osa_tv_khuzait_helmet_u" text="{.Muzcynski}Uschodni Stalovy Kaŭpak z Łamielarnaj Abaronaj Tvaru"/>
+		<string id="osa_tv_khuzait_helmet_v" text="{.Muzcynski}Uschodni Łamielarny Šałom"/>
+		<string id="osa_tv_khuzait_helmet_w" text="{.Muzcynski}Uschodni Łamielarny Šałom nad Skuraju"/>
+		<string id="osa_tv_khuzait_helmet_x" text="{.Muzcynski}Uschodni Apierany Łamielarny Šałom nad Kalčuhaj"/>
+		<string id="osa_tv_khuzait_helmet_y" text="{.Muzcynski}Uschodni Upryhožany Kaŭpak"/>
+		<string id="osa_tv_khuzait_helmet_y2" text="{.Muzcynski}Uschodni Upryhožany Šałom"/>
+		<string id="osa_tv_khuzait_helmet_y3" text="{.Muzcynski}Uschodni Apierany Upryhožany Šałom"/>
+		<string id="osa_tv_khuzait_helmet_y4" text="{.Muzcynski}Uschodni Šlachietny Apierany Upryhožany Šałom"/>
+		<string id="osa_tv_khuzait_helmet_z" text="{.Muzcynski}Stepavy Łamielarny Šałom nad Tkańniu"/>
+		<string id="osa_tv_khuzait_helmet_z2" text="{.Muzcynski}Stepavy Łamielarny Šałom nad Skuraju"/>
+		<string id="osa_tv_khuzait_helmet_z3" text="{.Muzcynski}Stepavy Łamielarny Šałom nad Kalčuhaj"/>
+		<string id="osa_tv_khuzait_helmet_za" text="{.Muzcynski}Uschodni Pasrebrany Šałom"/>
+		<string id="osa_tv_khuzait_helmet_zb" text="{.Muzcynski}Uschodni Pazałočany Šałom"/>
 		<string id="osa_tv_khuzait_lord_helmet_a" text="{.Muzcynski}Uschodni Futravy Šlachietny Šałom z Piarom"/>
 		<string id="osa_tv_khuzait_lord_helmet_b" text="{.Muzcynski}Uschodni Futravy Šlachietny Šałom z Piorami"/>
 		<string id="osa_tv_khuzait_lord_helmet_c" text="{.Zanocy}Uschodniaja Ŭpryhožanaja Bajavaja Karona"/>
 		<string id="osa_tv_khuzait_lord_helmet_d" text="{.Muzcynski}Uschodni Zhrabny Kaŭpak"/>
 		<string id="osa_tv_khuzait_lord_helmet_e" text="{.Muzcynski}Upryhožany Šypaty Šałom z Maskaj"/>
 		<string id="osa_tv_khuzait_lord_helmet_f" text="{.Muzcynski}Stepavy Apierany Łamielarny Šałom"/>
-		<string id="osa_tv_khuzait_lord_helmet_g" text="{.Muzcynski}Uschodni Futravy Łamielarny Šałom"/>
+		<string id="osa_tv_khuzait_lord_helmet_g" text="{.Muzcynski}Uschodni Šlachietny Apierany Łamielarny Šałom"/>
 		<string id="osa_tv_khuzait_lord_helmet_h" text="{.Zanocy}Uschodniaja Pasrebranaja Bajavaja Karona z Łamielaram"/>
 		<string id="osa_tv_khuzait_lord_helmet_h2" text="{.Zanocy}Uschodniaja Pazałočanaja Bajavaja Karona sa Skuranym Łamielaram"/>
 		<string id="osa_tv_khuzait_lord_helmet_i" text="{.Muzcynski}Uschodni Pasrebrany Šlachietny Šałom z Łamielaram"/>
@@ -148,6 +167,58 @@
 		<string id="osa_tv_khuzait_lord_helmet_k" text="{.Muzcynski}Uschodni Pazałočany Šlachietny Šałom z Płascinami"/>
 		<string id="osa_tv_khuzait_lord_helmet_l" text="{.Muzcynski}Stepavy Šypaty Žalezny Šałom z Maskaj"/>
 		<string id="osa_tv_khuzait_lord_helmet_m" text="{.Muzcynski}Uschodni Apierany Šlachietny Šałom z Płascinami"/>
+		<string id="osa_tv_khuzait_lord_helmet_n" text="{.Muzcynski}Uschodni Šlachietny Ryfleny Šałom z Bakavoj Abaronaj"/>
+		<!-- Nord Helmets -->
+		<string id="osa_tv_nord_helmet_a" text="{.Muzcynski}Nardyčny Vendeł-Kaŭpak"/>
+		<string id="osa_tv_nord_helmet_b" text="{.Muzcynski}Nardyčny Vendeł-Kaŭpak nad Skuraju"/>
+		<string id="osa_tv_nord_helmet_c" text="{.Muzcynski}Nardyčny Vendeł-Kaŭpak nad Adkrytaj Kalčuhaj"/>
+		<string id="osa_tv_nord_helmet_d" text="{.Muzcynski}Nardyčny Vendeł-Kaŭpak nad Zakrytaj Kalčuhaj"/>
+		<string id="osa_tv_nord_helmet_e" text="{.Muzcynski}Nardyčny Vendeł-Šlem z Abaronaj Vačej"/>
+		<string id="osa_tv_nord_helmet_f" text="{.Muzcynski}Nardyčny Vendeł-Šlem z Abaronaj Vačej nad Skuraju"/>
+		<string id="osa_tv_nord_helmet_g" text="{.Muzcynski}Nardyčny Vendeł-Šlem z Abaronaj Vačej nad Adkrytaj Kalčuhaj"/>
+		<string id="osa_tv_nord_helmet_h" text="{.Muzcynski}Nardyčny Vendeł-Šlem z Abaronaj Vačej nad Zakrytaj Kalčuhaj"/>
+		<string id="osa_tv_nord_helmet_i" text="{.Muzcynski}Nardyčny Vendeł Nazalchielm nad Skuraju"/>
+		<string id="osa_tv_nord_helmet_j" text="{.Muzcynski}Nardyčny Vendeł-Nazalchielm nad Adkrytaj Kalčuhaj"/>
+		<string id="osa_tv_nord_helmet_k" text="{.Muzcynski}Nardyčny Vendeł-Nazalchielm z Abaronaj Tvaru"/>
+		<string id="osa_tv_nord_helmet_l" text="{.Muzcynski}Nardyčny Vendeł-Nazalchielm z Abaronaj Vačej i Tvaru"/>
+		<string id="osa_tv_nord_helmet_m" text="{.Muzcynski}Paŭnočny Kaŭpak Łendmana"/>
+		<string id="osa_tv_nord_helmet_n" text="{.Muzcynski}Paŭnočny Kaŭpak Łendmana nad Skuraju"/>
+		<string id="osa_tv_nord_helmet_o" text="{.Muzcynski}Paŭnočny Kaŭpak Łendmana nad Adkrytaj Kalčuhaj"/>
+		<string id="osa_tv_nord_helmet_p" text="{.Muzcynski}Paŭnočny Kaŭpak Łendmana nad Zakrytaj Kalčuhaj"/>
+		<string id="osa_tv_nord_helmet_q" text="{.Muzcynski}Nardyčny Šałom z Nanośnikam i Abaronaj Tvaru nad Skuraju"/>
+		<string id="osa_tv_nord_helmet_r" text="{.Muzcynski}Nardyčny Šałom z Nanośnikam i Abaronaj Tvaru nad Kalčuhaj"/>
+		<string id="osa_tv_nord_helmet_s" text="{.Muzcynski}Nardyčny Šałom z Abaronaj Vačej, Nanośnikam i Abaronaj Tvaru nad Kalčuhaj"/>
+		<string id="osa_tv_nord_helmet_t" text="{.Muzcynski}Nardyčny Rabrysty Kaŭpak nad Tkańniu"/>
+		<string id="osa_tv_nord_helmet_t2" text="{.Muzcynski}Nardyčny Rabrysty Kaŭpak nad Kalčuhaj"/>
+		<string id="osa_tv_nord_helmet_t3" text="{.Muzcynski}Nardyčny Rabrysty Kaŭpak z Nanośnikam nad Kalčuhaj"/>
+		<string id="osa_tv_nord_helmet_u" text="{.Muzcynski}Nardyčny Zavostrany Nazalchielm nad Skuraju"/>
+		<string id="osa_tv_nord_helmet_u2" text="{.Muzcynski}Nardyčny Zavostrany Nazalchielm nad Kalčuhaj"/>
+		<string id="osa_tv_nord_helmet_u3" text="{.Muzcynski}Nardyčny Zavostrany Nazalchielm z Abaronaj Tvaru nad Kalčuhaj"/>
+		<string id="osa_tv_nord_helmet_v" text="{.Muzcynski}Nardyčny Šałom Dzika z Nanośnikam"/>
+		<string id="osa_tv_nord_helmet_v2" text="{.Muzcynski}Nardyčny Šałom Dzika z Nanośnikam i Skuraju"/>
+		<string id="osa_tv_nord_helmet_v3" text="{.Muzcynski}Nardyčny Šałom Dzika z Nanośnikam i Kalčuhaj"/>
+		<string id="osa_tv_nord_helmet_w" text="{.Muzcynski}Nardyčny Ciažki Abaronieny Šałom z Nanośnikam"/>
+		<string id="osa_tv_nord_helmet_w2" text="{.Muzcynski}Nardyčny Ciažki Abaronieny Šałom z Nanośnikam i Nabiŭkaju"/>
+		<string id="osa_tv_nord_helmet_w3" text="{.Muzcynski}Nardyčny Ciažki Abaronieny Šałom z Nanośnikam i Kalčuhaj"/>
+		<!-- Pict Helmets -->
+		<string id="osa_tv_pict_helmet_a" text="{.Muzcynski}Horny Ciažki Pałasaty Šałom z Nanośnikam"/>
+		<string id="osa_tv_pict_helmet_b" text="{.Muzcynski}Horny Ciažki Pałasaty Šałom z Nanośnikam nad Škuraj"/>
+		<string id="osa_tv_pict_helmet_c" text="{.Muzcynski}Horny Apierany Ciažki Pałasaty Šałom z Nanośnikam nad Kalčuhaj"/>
+		<string id="osa_tv_pict_helmet_d" text="{.Muzcynski}Horny Kupałavaty Španhienchielm z Nanośnikam"/>
+		<string id="osa_tv_pict_helmet_e" text="{.Muzcynski}Horny Kupałavaty Španhienchielm z Nanośnikam nad Nabiŭkaju"/>
+		<string id="osa_tv_pict_helmet_f" text="{.Muzcynski}Horny Kupałavaty Španhienchielm z Nanośnikam nad Kalčuhaj"/>
+		<string id="osa_tv_pict_helmet_g" text="{.Muzcynski}Horny Vysoki Španhienchielm z Nanośnikam"/>
+		<string id="osa_tv_pict_helmet_h" text="{.Muzcynski}Horny Vysoki Španhienchielm z Nanośnikam nad Tkańniu"/>
+		<string id="osa_tv_pict_helmet_i" text="{.Muzcynski}Horny Vysoki Španhienchielm z Nanośnikam nad Kalčuhaj"/>
+		<string id="osa_tv_pict_helmet_j" text="{.Muzcynski}Horny Vysoki Pasrebrany Španhienchielm z Nanośnikam"/>
+		<string id="osa_tv_pict_helmet_k" text="{.Muzcynski}Horny Apierany Vysoki Pasrebrany Španhienchielm z Nanośnikam nad Skuraju"/>
+		<string id="osa_tv_pict_helmet_l" text="{.Muzcynski}Horny Apierany Vysoki Pasrebrany Španhienchielm z Nanośnikam nad Kalčuhaj"/>
+		<string id="osa_tv_pict_helmet_m" text="{.Muzcynski}Horny Pałasaty Šałom"/>
+		<string id="osa_tv_pict_helmet_n" text="{.Muzcynski}Horny Upryhožany Pałasaty Šałom"/>
+		<string id="osa_tv_pict_helmet_o" text="{.Muzcynski}Horny Upryhožany Pałasaty Šałom z Klajnotam"/>
+		<string id="osa_tv_pict_helmet_p" text="{.Muzcynski}Horny Ciažki Abaronieny Šałom z Nanośnikam"/>
+		<string id="osa_tv_pict_helmet_q" text="{.Muzcynski}Horny Ciažki Abaronieny Šałom z Nanośnikam i Skuraju"/>
+		<string id="osa_tv_pict_helmet_r" text="{.Muzcynski}Horny Ciažki Abaronieny Šałom z Nanośnikam i Kalčuhaj"/>
 		<!-- Strugian Šałoms -->
 		<string id="osa_tv_sturgia_helmet_a" text="{.Muzcynski}Paŭnočny Zakryty Španhienchielm"/>
 		<string id="osa_tv_sturgia_helmet_b" text="{.Muzcynski}Paŭnočny Zakryty Španhienchielm z Chvastom"/>
@@ -162,37 +233,85 @@
 		<string id="osa_tv_sturgia_lord_helmet_c" text="{.Muzcynski}Paŭnočny Šlachietny Kalčužny Pazałočany Šałom"/>
 		<string id="osa_tv_sturgia_lord_helmet_d" text="{.Zanocy}Paŭnočnaja Kalčužnaja Bajavaja Karona z Piorami"/>
 		<string id="osa_tv_sturgia_lord_helmet_e" text="{.Zanocy}Paŭnočnaja Kalčužnaja Bajavaja Karona z Piarom"/>
+		<string id="osa_tv_sturgia_lord_helmet_f" text="{.Zanocy}Paŭnočnaja Pasrebranaja Bajavaja Karona z Maskaj"/>
+		<string id="osa_tv_sturgia_lord_helmet_g" text="{.Zanocy}Paŭnočnaja Pazałočanaja Bajavaja Karona z Maskaj"/>
 		<!-- Vlandian Šałoms -->
-		<string id="osa_tv_vlandia_helmet_a" text="{.Muzcynski}Zachodni Skałkep z Nanosnikam nad Kalčužnym Koifam"/>
-		<string id="osa_tv_vlandia_helmet_b" text="{.Muzcynski}Zachodni Zavostrany Skałkep z Pazałočanym Zabrałam nad Kalčužnym Koifam"/>
-		<string id="osa_tv_vlandia_helmet_b2" text="{.Muzcynski}Zachodni Zavostrany Skałkep z Zabrałam nad Kalčužnym Koifam"/>
-		<string id="osa_tv_vlandia_helmet_c" text="{.Muzcynski}Zachodni Siehmientavany Ciervieljer z Pazałočanym Zabrałam nad Kalčužnym Koifam"/>
-		<string id="osa_tv_vlandia_helmet_c2" text="{.Muzcynski}Zachodni Siehmientavany Ciervieljer z Zabrałam nad Kalčužnym Koifam"/>
+		<string id="osa_tv_vlandia_helmet_a" text="{.Muzcynski}Zachodni Afarbavany Nazalchielm"/>
+		<string id="osa_tv_vlandia_helmet_a2" text="{.Muzcynski}Zachodni Afarbavany Nazalchielm nad Miakkaj Tkańniu"/>
+		<string id="osa_tv_vlandia_helmet_a3" text="{.Muzcynski}Zachodni Afarbavany Nazalchielm nad Kalčuhaj"/>
+		<string id="osa_tv_vlandia_helmet_a4" text="{.Muzcynski}Zachodni Afarbavany Nazalchielm nad Adkrytym Kalčužnym Koifam"/>
+		<string id="osa_tv_vlandia_helmet_a5" text="{.Muzcynski}Zachodni Afarbavany Nazalchielm nad Zakrytym Kalčužnym Koifam"/>
+		<string id="osa_tv_vlandia_helmet_b" text="{.Muzcynski}Zachodni Šałom z Nanośnikam"/>
+		<string id="osa_tv_vlandia_helmet_b2" text="{.Muzcynski}Zachodni Šałom z Nanośnikam nad Miakkaj Skuraj"/>
+		<string id="osa_tv_vlandia_helmet_b3" text="{.Muzcynski}Zachodni Šałom z Nanośnikam nad Kalčuhaj"/>
+		<string id="osa_tv_vlandia_helmet_b4" text="{.Muzcynski}Zachodni Šałom z Nanośnikam nad Adkrytym Kalčužnym Koifam"/>
+		<string id="osa_tv_vlandia_helmet_b5" text="{.Muzcynski}Zachodni Šałom z Nanośnikam nad Zakrytym Kalčužnym Koifam"/>
+		<string id="osa_tv_vlandia_helmet_c" text="{.Muzcynski}Zachodni Kaničny Nazalchielm"/>
+		<string id="osa_tv_vlandia_helmet_c2" text="{.Muzcynski}Zachodni Kaničny Nazalchielm nad Miakkaj Tkańniu"/>
+		<string id="osa_tv_vlandia_helmet_c3" text="{.Muzcynski}Zachodni Kaničny Nazalchielm nad Kalčuhaj"/>
+		<string id="osa_tv_vlandia_helmet_c4" text="{.Muzcynski}Zachodni Kaničny Nazalchielm nad Adkrytym Kalčužnym Koifam"/>
+		<string id="osa_tv_vlandia_helmet_c5" text="{.Muzcynski}Zachodni Kaničny Nazalchielm nad Zakrytym Kalčužnym Koifam"/>
 		<string id="osa_tv_vlandia_helmet_d" text="{.Muzcynski}Zachodni Ryfleny Šałom nad Kalčuhaj"/>
 		<string id="osa_tv_vlandia_helmet_e" text="{.Muzcynski}Zachodni Pałasaty Skurany Kaŭpak"/>
 		<string id="osa_tv_vlandia_helmet_f" text="{.Muzcynski}Paŭnočny Šałom z Nanosnikam i Zakrytaj Kalčuhaj"/>
 		<string id="osa_tv_vlandia_helmet_g" text="{.Muzcynski}Kruhły Šałom-Kapalin nad Kalčuhaj"/>
 		<string id="osa_tv_vlandia_helmet_h" text="{.Muzcynski}Kruhły Šałom-Kapalin nad Šypavanaj Skuraju"/>
-		<string id="osa_tv_vlandia_helmet_i" text="{.Muzcynski}Zachodni Zavostrany Skałkep z Kalčuhaj"/>
-		<string id="osa_tv_vlandia_helmet_j" text="{.Muzcynski}Šałom z Nanosnikam i Kalčužnym Koifam"/>
-		<string id="osa_tv_vlandia_helmet_k" text="{.Muzcynski}Pałasaty Šałom z Kalčuhaj"/>
+		<string id="osa_tv_vlandia_helmet_i" text="{.Muzcynski}Zachodni Sahnuty Kaničny Šałom nad Miakkaj Tkańniu"/>
+		<string id="osa_tv_vlandia_helmet_i2" text="{.Muzcynski}Zachodni Sahnuty Kaničny Šałom nad Miakkaj Kalčuhaj"/>
+		<string id="osa_tv_vlandia_helmet_i3" text="{.Muzcynski}Zachodni Sahnuty Kaničny Šałom nad Adkrytym Kalčužnym Koifam"/>
+		<string id="osa_tv_vlandia_helmet_i4" text="{.Muzcynski}Zachodni Sahnuty Kaničny Šałom nad Zakrytym Kalčužnym Koifam"/>
+		<string id="osa_tv_vlandia_helmet_j" text="{.Muzcynski}Zachodni Ciažki Nazalchielm nad Adkrytym Kalčužnym Koifam"/>
+		<string id="osa_tv_vlandia_helmet_j2" text="{.Muzcynski}Zachodni Ciažki Nazalchielm nad Zakrytym Kalčužnym Koifam"/>
+		<string id="osa_tv_vlandia_helmet_k" text="{.Muzcynski}Zachodni Vostrakancovy Šałom"/>
+		<string id="osa_tv_vlandia_helmet_k2" text="{.Muzcynski}Zachodni Vostrakancovy Šałom nad Skuraju"/>
+		<string id="osa_tv_vlandia_helmet_k3" text="{.Muzcynski}Zachodni Vostrakancovy Šałom nad Kalčuhaj"/>
+		<string id="osa_tv_vlandia_helmet_k4" text="{.Muzcynski}Zachodni Vostrakancovy Šałom nad Žaleznaj Łuskataj"/>
+		<string id="osa_tv_vlandia_helmet_k5" text="{.Muzcynski}Zachodni Vostrakancovy Šałom nad Stalovaj Łuskataj"/>
+		<string id="osa_tv_vlandia_helmet_k6" text="{.Muzcynski}Zachodni Vostrakancovy Šałom nad Zakrytym Kalčužnym Koifam"/>
 		<string id="osa_tv_vlandia_helmet_l" text="{.Muzcynski}Zachodni Vostrakancovy Šałom Ułana nad Čyrvonaj Tkanniu"/>
 		<string id="osa_tv_vlandia_helmet_m" text="{.Muzcynski}Zachodni Vostrakancovy Šałom Ułana nad Skuraju"/>
 		<string id="osa_tv_vlandia_helmet_n" text="{.Muzcynski}Zachodni Vostrakancovy Šałom Ułana nad Kalčuhaj"/>
-		<string id="osa_tv_vlandia_helmet_o" text="{.Muzcynski}Zachodni Zavostrany Skałkep z Zabrałam nad Kalčužnym Koifam"/>
+		<string id="osa_tv_vlandia_helmet_o" text="{.Muzcynski}Zachodni Pałasaty Cervieljer z Nanośnikam nad Miakkaj Tkańniu"/>
+		<string id="osa_tv_vlandia_helmet_o2" text="{.Muzcynski}Zachodni Pałasaty Cervieljer z Nanośnikam nad Miakkaj Kalčuhaj"/>
+		<string id="osa_tv_vlandia_helmet_o3" text="{.Muzcynski}Zachodni Pałasaty Cervieljer z Nanośnikam nad Adkrytym Kalčužnym Koifam"/>
+		<string id="osa_tv_vlandia_helmet_o4" text="{.Muzcynski}Zachodni Pałasaty Cervieljer z Nanośnikam nad Zakrytym Kalčužnym Koifam"/>
 		<string id="osa_tv_vlandia_helmet_p" text="{.Muzcynski}Zachodni Zavostrany Skałkep z Zakrytaj Kalčuhaj"/>
+		<string id="osa_tv_vlandia_helmet_p2" text="{.Muzcynski}Zachodni Zavostrany Skałkep nad Zakrytym Kalčužnym Koifam"/>
 		<string id="osa_tv_vlandia_helmet_q" text="{.Muzcynski}Zachodni Šałom z Nanosnikam i Zakrytaj Kalčuhaj"/>
-		<string id="osa_tv_vlandia_helmet_r" text="{.Muzcynski}Zachodni Siehmientavany Ciervieljer z Zabrałam nad Kalčužnym Koifam"/>
+		<string id="osa_tv_vlandia_helmet_q2" text="{.Muzcynski}Zachodni Šałom z Nanośnikam nad Zakrytym Kalčužnym Koifam"/>
+		<string id="osa_tv_vlandia_helmet_r" text="{.Muzcynski}Zachodni Pałasaty Nazalchielm nad Miakkaj Tkańniu"/>
+		<string id="osa_tv_vlandia_helmet_r2" text="{.Muzcynski}Zachodni Pałasaty Nazalchielm nad Miakkaj Kalčuhaj"/>
+		<string id="osa_tv_vlandia_helmet_r3" text="{.Muzcynski}Zachodni Pałasaty Nazalchielm nad Adkrytym Kalčužnym Koifam"/>
+		<string id="osa_tv_vlandia_helmet_r4" text="{.Muzcynski}Zachodni Pałasaty Nazalchielm nad Zakrytym Kalčužnym Koifam"/>
 		<string id="osa_tv_vlandia_helmet_s" text="{.Muzcynski}Zachodni Vostrakancovy Šałom Ułana nad Čyrvonaj Šapkaj"/>
-		<string id="osa_tv_vlandia_lord_helmet_a" text="{.Muzcynski}Zachodni Ryfleny Šałom z Zabrałam nad Kalčužnym Koifam"/>
-		<string id="osa_tv_vlandia_lord_helmet_b" text="{.Muzcynski}Zachodni Ryfleny Šałom z Pazałočanym Zabrałam nad Kalčužnym Koifam"/>
+		<string id="osa_tv_vlandia_helmet_t" text="{.Muzcynski}Zachodni Sahnuty Kaničny Nazalchielm"/>
+		<string id="osa_tv_vlandia_helmet_t2" text="{.Muzcynski}Zachodni Sahnuty Kaničny Nazalchielm nad Skuraju"/>
+		<string id="osa_tv_vlandia_helmet_t3" text="{.Muzcynski}Zachodni Sahnuty Kaničny Nazalchielm nad Kalčuhaj"/>
+		<string id="osa_tv_vlandia_helmet_t4" text="{.Muzcynski}Zachodni Sahnuty Kaničny Nazalchielm nad Zakrytym Kalčužnym Koifam"/>
+		<string id="osa_tv_vlandia_helmet_u" text="{.Muzcynski}Zachodni Pałasaty Šałom z Abaronaj Tvaru nad Miakkaj Tkańniu"/>
+		<string id="osa_tv_vlandia_helmet_u2" text="{.Muzcynski}Zachodni Pałasaty Šałom z Abaronaj Tvaru nad Miakkaj Kalčuhaj"/>
+		<string id="osa_tv_vlandia_helmet_u3" text="{.Muzcynski}Zachodni Pałasaty Šałom z Abaronaj Tvaru nad Adkrytym Kalčužnym Koifam"/>
+		<string id="osa_tv_vlandia_lord_helmet_a" text="{.Muzcynski}Zachodni Ryfleny Šałom sa Stalovym Zabrałam nad Kalčuhaj"/>
+		<string id="osa_tv_vlandia_lord_helmet_a2" text="{.Muzcynski}Zachodni Ryfleny Šałom z Pazałočanym Zabrałam nad Kalčuhaj"/>
+		<string id="osa_tv_vlandia_lord_helmet_b" text="{.Muzcynski}Zachodni Ryfleny Šałom sa Stalovym Zabrałam nad Kalčuhaj"/>
+		<string id="osa_tv_vlandia_lord_helmet_b2" text="{.Muzcynski}Zachodni Ryfleny Šałom z Pazałočanym Zabrałam nad Kalčuhaj"/>
 		<string id="osa_tv_vlandia_lord_helmet_c" text="{.Muzcynski}Zachodni Šlachietny Vostrakancovy Šałom Ułana"/>
 		<string id="osa_tv_vlandia_lord_helmet_d" text="{.Muzcynski}Zachodni Šlachietny Vostrakancovy Šałom Ułana z Klajnotam"/>
-		<string id="osa_tv_vlandia_lord_helmet_e" text="{.Muzcynski}Zachodni Šlachietny Kupałavaty Ciervieljer z Klajnotam"/>
-		<string id="osa_tv_vlandia_lord_helmet_f" text="{.Muzcynski}Zachodni Šlachietny Ryfleny Šałom z Bakavoj Abaronaj"/>
+		<string id="osa_tv_vlandia_lord_helmet_e" text="{.Muzcynski}Zachodni Šlachietny Kupałavaty Cervieljer z Klajnotam"/>
+		<string id="osa_tv_vlandia_lord_helmet_f" text="{.Muzcynski}Zachodni Sahnuty Kaničny Šałom sa Stalovym Zabrałam nad Kalčuhaj"/>
+		<string id="osa_tv_vlandia_lord_helmet_f2" text="{.Muzcynski}Zachodni Sahnuty Kaničny Šałom z Pazałočanym Zabrałam nad Kalčuhaj"/>
 		<string id="osa_tv_vlandia_lord_helmet_g" text="{.Muzcynski}Zachodni Prosty Płascinkavy Šałom"/>
-		<string id="osa_tv_vlandia_lord_helmet_h" text="{.Muzcynski}Uschodni Łamielarny Šałom Katafrakta"/>
+		<string id="osa_tv_vlandia_lord_helmet_h" text="{.Muzcynski}Zachodni Siehmientavany Cervieljer sa Stalovym Zabrałam nad Kalčuhaj"/>
+		<string id="osa_tv_vlandia_lord_helmet_h2" text="{.Muzcynski}Zachodni Siehmientavany Cervieljer z Pazałočanym Zabrałam nad Kalčuhaj"/>
 		<string id="osa_tv_vlandia_lord_helmet_i" text="{.Muzcynski}Zachodni Šlachietny Kupałavaty Šałom nad Łuskataj"/>
-		<string id="osa_tv_vlandia_lord_helmet_j" text="{.Muzcynski}Šałom Rycara z Pazałočanaj Abaronaj Tvaru nad Kalčuhaj"/>
+		<string id="osa_tv_vlandia_lord_helmet_j" text="{.Muzcynski}Rycarski Šałom z Pazałočanaj Abaronaj Tvaru nad Kalčuhaj"/>
+		<string id="osa_tv_vlandia_lord_helmet_j2" text="{.Muzcynski}Rycarski Šałom sa Stalovaj Abaronaj Tvaru nad Kalčuhaj"/>
+		<string id="osa_tv_vlandia_lord_helmet_k" text="{.Muzcynski}Zachodni Siehmientavany Cervieljer z Zabrałam nad Kalčužnym Koifam"/>
+		<string id="osa_tv_vlandia_lord_helmet_k2" text="{.Muzcynski}Zachodni Pazałočany Siehmientavany Cervieljer z Zabrałam nad Kalčužnym Koifam"/>
+		<string id="osa_tv_vlandia_lord_helmet_l" text="{.Muzcynski}Zachodni Sahnuty Kaničny Šałom z Zabrałam nad Kalčužnym Koifam"/>
+		<string id="osa_tv_vlandia_lord_helmet_l2" text="{.Muzcynski}Zachodni Pazałočany Sahnuty Kaničny Šałom z Zabrałam nad Kalčužnym Koifam"/>
+		<string id="osa_tv_vlandia_royal_helmet_a" text="{.Zanocy}Zachodniaja Karona nad Kalčužnym Koifam"/>
+		<string id="osa_tv_vlandia_royal_helmet_b" text="{.Muzcynski}Zachodni Ciažki Nazalchielm-Karona nad Kalčužnym Koifam"/>
+		<string id="osa_tv_vlandia_royal_helmet_c" text="{.Muzcynski}Zachodni Ryfleny Šałom-Karona nad Kalčuhaj"/>
 	</strings>
 </base>
