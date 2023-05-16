@@ -1,5 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+
+
+
 	<strings>
 		<!-- Leg Branias -->
 		<string id="osa_tv_aserai_boots_a" text="{.Mnozny}Škuranyja Boty"/>
@@ -52,6 +55,9 @@
 		<string id="osa_tv_moccasins_c" text="{.Mnozny}Paŭdniovyja Šlachietnyja Makasiny"/>
 		<string id="osa_tv_sturgia_boots_a" text="{.Mnozny}Paŭnočnyja Boty sa Stalovymi Panožami"/>
 		<string id="osa_tv_sturgia_boots_b" text="{.Mnozny}Paŭnočnyja Boty z Pazałočanymi Panožami"/>
+		<string id="osa_tv_vlandia_boots_a" text="{.Mnozny}Kalčužnyja Boty sa Skuranymi Panožami"/>
+		<string id="osa_tv_vlandia_boots_b" text="{.Mnozny}Kalčužnyja Tufli"/>
+		<string id="osa_tv_vlandia_boots_c" text="{.Mnozny}Kalčužnyja Šynnyja Boty"/>
 		<!-- Shoulder Branias -->
 		<string id="osa_tv_aserai_cloak_a" text="{.Muzcynski}Paŭdniovy Doŭhi Płašč"/>
 		<string id="osa_tv_aserai_cloak_b" text="{.Mnozny}Paŭdniovyja Płascinkavyja Łatunievyja Naplečnyja Pałoski z Płaščom"/>
@@ -99,14 +105,6 @@
 		<string id="osa_tv_imperial_leather_cape_b" text="{.Mnozny}Impierskija Skuranyja Naplečniki z Pałasatym Płaščom"/>
 		<string id="osa_tv_empire_shoulders_a" text="{.Mnozny}Impierskija Šypavanyja Skuranyja Naplečniki z Płaščom"/>
 		<string id="osa_tv_empire_shoulders_b" text="{.Mnozny}Impierskija Skuranyja Naplečniki z Łamielarnymi Pałdronami"/>
-		<string id="osa_tv_vlandia_shoulders_a" text="{.Mnozny}Zachodnija Kalčužnyja Naplečniki"/>
-		<string id="osa_tv_vlandia_shoulders_b" text="{.Muzcynski}Zachodni Kalčužny Kaptur"/>
-		<string id="osa_tv_vlandia_shoulders_b2" text="{.Muzcynski}Zachodni Łancuhovy Kalčužny Kaptur"/>
-		<string id="osa_tv_vlandia_shoulders_c" text="{.Mnozny}Zachodnija Ciažkija Kalčužnyja Naplečniki"/>
-		<string id="osa_tv_vlandia_shoulders_d" text="{.Mnozny}Zachodnija Łamielarnyja Pałdrony"/>
-		<string id="osa_tv_vlandia_shoulders_e" text="{.Mnozny}Zachodnija Łamielarnyja Pałdrony nad Skuraju"/>
-		<string id="osa_tv_vlandia_shoulders_f" text="{.Mnozny}Zachodnija Łamielarnyja Pałdrony z Doŭhim Płaščom"/>
-		<string id="osa_tv_vlandia_shoulders_g" text="{.Muzcynski}Zachodni Miakki Skurany Kaptur"/>
 		<string id="osa_tv_sturgia_cloak_a" text="{.Muzcynski}Paŭnočny Doŭhi Płašč"/>
 		<string id="osa_tv_sturgia_shoulders_a" text="{.Mnozny}Nardyčnyja Vielizarnyja Łamielarnyja Naplečniki"/>
 		<string id="osa_tv_sturgia_shoulders_b" text="{.Mnozny}Nardyčnyja Łamielarnyja Naplečniki"/>
@@ -134,6 +132,35 @@
 		<string id="osa_tv_khuzait_shoulder_j" text="{.Mnozny}Uschodnija Skuranyja Łamielarnyja Pałdrony"/>
 		<string id="osa_tv_khuzait_shoulder_k" text="{.Mnozny}Uschodnija Skuranyja Łamielarnyja Naplečniki"/>
 		<string id="osa_tv_khuzait_shoulder_l" text="{.Mnozny}Uschodnija Skuranyja Łamielarnyja Naplečniki z Płaščom"/>
+		<string id="osa_tv_khuzait_shoulder_m" text="{.Mnozny}Uschodnija Stalovyja Łamielarnyja Častki Naplečnikaŭ nad Skuraju"/>
+		<string id="osa_tv_khuzait_shoulder_n" text="{.Mnozny}Uschodnija Stalovyja Łamielarnyja Častki Naplečnikaŭ z Nakidkaj"/>
+		<string id="osa_tv_khuzait_shoulder_o" text="{.Mnozny}Uschodnija Upryhožanyja Stalovyja Łamielarnyja Častki Naplečnikaŭ nad Skuraju"/>
+		<string id="osa_tv_khuzait_shoulder_p" text="{.Mnozny}Uschodnija Upryhožanyja Stalovyja Łamielarnyja Častki Naplečnikaŭ z Nakidkaj"/>
+		<string id="osa_tv_khuzait_shoulder_q" text="{.Mnozny}Uschodnija Černienyja Skuranyja Łamielarnyja Častki Naplečnikaŭ"/>
+		<string id="osa_tv_khuzait_shoulder_r" text="{.Mnozny}Uschodnija Ciažkija Černienyja Skuranyja Łamielarnyja Naplečniki"/>
+		<string id="osa_tv_khuzait_shoulder_s" text="{.Mnozny}Uschodnija Černienyja Skuranyja Łamielarnyja Častki Naplečnikaŭ nad Skuraju"/>
+		<string id="osa_tv_khuzait_shoulder_t" text="{.Mnozny}Uschodnija Černienyja Skuranyja Łamielarnyja Častki Naplečnikaŭ z Nakidkaj"/>
+		<string id="osa_tv_vlandia_shoulders_a" text="{.Mnozny}Zachodnija Kalčužnyja Naplečniki"/>
+		<string id="osa_tv_vlandia_shoulders_b" text="{.Muzcynski}Zachodni Kalčužny Kaptur"/>
+		<string id="osa_tv_vlandia_shoulders_b2" text="{.Muzcynski}Zachodni Łačuhova-Kalčužny Kaptur"/>
+		<string id="osa_tv_vlandia_shoulders_c" text="{.Mnozny}Zachodnija Ciažkija Kalčužnyja Naplečniki"/>
+		<string id="osa_tv_vlandia_shoulders_d" text="{.Mnozny}Zachodnija Łamielarnyja Pałdrony"/>
+		<string id="osa_tv_vlandia_shoulders_e" text="{.Mnozny}Zachodnija Łamielarnyja Pałdrony nad Skuraju"/>
+		<string id="osa_tv_vlandia_shoulders_f" text="{.Mnozny}Zachodnija Łamielarnyja Pałdrony z Doŭhaj Nakidkaj"/>
+		<string id="osa_tv_vlandia_shoulders_g" text="{.Muzcynski}Zachodni Miakki Skurany Kaptur"/>
+		<string id="osa_tv_vlandia_shoulders_h" text="{.Zanocy}Zachodniaja Doŭhaja Nakidka"/>
+		<string id="osa_tv_vlandia_shoulders_i" text="{.Zanocy}Zachodniaja Uzorystaja Nakidka"/>
+		<string id="osa_tv_vlandia_shoulders_j" text="{.Nijaki}Zachodniaje Pokryva z Kapturam"/>
+		<string id="osa_tv_vlandia_shoulders_k" text="{.Zanocy}Zachodniaja Futravaja Nakidka"/>
+		<string id="osa_tv_vlandia_shoulders_l" text="{.Zanocy}Zachodniaja Uzorystaja Futravaja Nakidka"/>
+		<string id="osa_tv_vlandia_shoulders_m" text="{.Mnozny}Zachodnija Padstryžanyja Skuranyja Naplečniki"/>
+		<string id="osa_tv_vlandia_shoulders_n" text="{.Mnozny}Zachodnija Padstryžanyja Kalčužnyja Skuranyja Naplečniki"/>
+		<string id="osa_tv_vlandia_shoulders_o" text="{.Mnozny}Zachodnija Padstryžanyja Kalčužnyja Skuranyja Naplečniki z Nakidkaj"/>
+		<string id="osa_tv_vlandia_shoulders_p" text="{.Mnozny}Zachodnija Padstryžanyja Kalčužnyja Skuranyja Naplečniki z Pokryvam"/>
+		<string id="osa_tv_vlandia_shoulders_q" text="{.Mnozny}Zachodnija Ciažkija Padstryžanyja Kalčužnyja Naplečniki"/>
+		<string id="osa_tv_vlandia_shoulders_r" text="{.Mnozny}Zachodnija Ciažkija Padstryžanyja Kalčužnyja Naplečniki z Naplečnymi Płaścinami"/>
+		<string id="osa_tv_vlandia_shoulders_s" text="{.Mnozny}Zachodnija Ciažkija Padstryžanyja Kalčužnyja Stalovyja Łuskatyja Naplečniki"/>
+		<string id="osa_tv_vlandia_shoulders_t" text="{.Mnozny}Zachodnija Ciažkija Padstryžanyja Kalčužnyja Stalovyja Łuskatyja Naplečniki z Pokryvam"/>
 		<!-- Arm Branias -->
 		<string id="osa_tv_aserai_gloves_a" text="{.Mnozny}Hravieravanyja Łatunievyja Naručy"/>
 		<string id="osa_tv_aserai_gloves_b" text="{.Mnozny}Hravieravanyja Stalovyja Naručy"/>
@@ -147,19 +174,31 @@
 		<string id="osa_tv_battania_gloves_b" text="{.Mnozny}Hornyja Łatunievyja Rukavicy"/>
 		<string id="osa_tv_battania_gloves_c" text="{.Mnozny}Hornyja Žaleznyja Rukavicy"/>
 		<string id="osa_tv_battania_gloves_d" text="{.Mnozny}Hornyja Šlachietnyja Poručy"/>
-		<string id="osa_tv_khuzait_gloves_a" text="{.Mnozny}Uschodnija Černienyja Skuranyja Poručy"/>
+		<string id="osa_tv_khuzait_gloves_a" text="{.Mnozny}Uschodnija Šypavanyja Černienyja Skuranyja Poručy"/>
+		<string id="osa_tv_khuzait_gloves_b" text="{.Mnozny}Uschodnija Černienyja Skuranyja Poručy"/>
 		<string id="osa_tv_sturgia_gloves_a" text="{.Mnozny}Uzmocnienyja Skuranyja Poručy z Kalčuhaj"/>
 		<string id="osa_tv_sturgia_gloves_b" text="{.Mnozny}Hrubyja Łatunievyja Naručy"/>
 		<string id="osa_tv_sturgia_gloves_c" text="{.Mnozny}Hrubyja Žaleznyja Naručy"/>
 		<string id="osa_tv_sturgia_gloves_d" text="{.Mnozny}Prostyja Stalovyja Naručy"/>
 		<string id="osa_tv_sturgia_gloves_e" text="{.Mnozny}Prostyja Łatunievyja Naručy"/>
+		<string id="osa_tv_vlandia_gloves_a" text="{.Mnozny}Skuranyja Rukavicy"/>
+		<string id="osa_tv_vlandia_gloves_b" text="{.Mnozny}Kalčužnyja Rukavicy"/>
+		<string id="osa_tv_vlandia_gloves_c" text="{.Mnozny}Źviazanyja Skuranyja Naručy"/>
+		<string id="osa_tv_vlandia_gloves_d" text="{.Mnozny}Skuranyja Palčatki"/>
+		<string id="osa_tv_vlandia_gloves_e" text="{.Mnozny}Černienyja Skuranyja Palčatki"/>
+		<string id="osa_tv_vlandia_gloves_f" text="{.Mnozny}Skuranyja Palčatki"/>
+		<string id="osa_tv_vlandia_gloves_g" text="{.Mnozny}Kalčužnyja Palčatki"/>
+		<string id="osa_tv_vlandia_gloves_h" text="{.Mnozny}Płaścinkavyja Šynnyja Naručy z Kalčuhaj"/>
+		<string id="osa_tv_vlandia_gloves_i" text="{.Mnozny}Płaścinkavyja Šynnyja Palčatki"/>
 		<!-- Body Branias -->
 		<string id="osa_tv_aserai_lamellar_a" text="{.Zanocy}Paŭdniovaja Łatunievaja Łamielarnaja Kamizelka nad Kalčužnym Šaŭkovym Kaptanam"/>
+		<string id="osa_tv_aserai_lamellar_a2" text="{.Zanocy}Paŭdniovaja Łatunievaja Łamielarnaja Kamizelka nad Miakkim Šaŭkovym Kaptanam"/>
 		<string id="osa_tv_aserai_lamellar_b" text="{.Zanocy}Paŭdniovaja Łatunievaja Łamielarnaja Kamizelka nad Kalčuhaj"/>
 		<string id="osa_tv_aserai_lamellar_b2" text="{.Zanocy}Paŭdniovaja Stalovaja Łamielarnaja Kamizelka nad Kalčuhaj"/>
 		<string id="osa_tv_aserai_lamellar_c" text="{.Muzcynski}Paŭdniovy Bronzavy Łamielar nad Doŭhim Kaptanam"/>
 		<string id="osa_tv_aserai_lamellar_c2" text="{.Muzcynski}Paŭdniovy Stalovy Łamielar nad Doŭhim Kaptanam"/>
 		<string id="osa_tv_aserai_lamellar_d" text="{.Zanocy}Paŭdniovaja Stalovaja Łamielarnaja Kamizelka nad Kalčužnym Šaŭkovym Kaptanam"/>
+		<string id="osa_tv_aserai_lamellar_d2" text="{.Zanocy}Paŭdniovaja Stalovaja Łamielarnaja Kamizelka nad Miakkim Šaŭkovym Kaptanam"/>
 		<string id="osa_tv_aserai_lamellar_e" text="{.Muzcynski}Paŭdniovy Ciažki Stalovy Łamielar nad Kalčuhaj"/>
 		<string id="osa_tv_aserai_lamellar_e2" text="{.Muzcynski}Paŭdniovy Ciažki Łatunievy Łamielar nad Kalčuhaj"/>
 		<string id="osa_tv_aserai_lamellar_f" text="{.Muzcynski}Paŭdniovy Stalovy Łamielar nad Kalčuhaj"/>
@@ -169,6 +208,7 @@
 		<string id="osa_tv_aserai_lamellar_h" text="{.Muzcynski}Paŭdniovy Bronzavy Łamielar nad Kalčužnym Kaptanam"/>
 		<string id="osa_tv_aserai_lamellar_h2" text="{.Muzcynski}Paŭdniovy Stalovy Łamielar nad Kalčužnym Kaptanam"/>
 		<string id="osa_tv_aserai_lamellar_i" text="{.Muzcynski}Paŭdniovaja Skuranaja Kirasa nad Miakkaj Tkanniu"/>
+		<string id="osa_tv_aserai_lamellar_j" text="Paŭdniovaja Skurany Łamielarnyja Kirasa nad Miakki Cloth"/>
 		<string id="osa_tv_aserai_robe_a" text="{.Zanocy}Paŭdniovaja Ŭpryhožanaja Roba z Dvajnoj Kalčuhaj"/>
 		<string id="osa_tv_battania_armor_a" text="{.Zanocy}Hornaja Tryvałaja Łuskavataja Kamizelka"/>
 		<string id="osa_tv_battania_armor_b" text="{.Zanocy}Hornaja Ŭpryhožanaja Kalčuha Lasničaha"/>
@@ -207,10 +247,11 @@
 		<string id="osa_tv_khuzait_armor_b" text="{.Zanocy}Uschodniaja Zviazanaja Žaleznaja Łamielarnaja Brania"/>
 		<string id="osa_tv_khuzait_armor_c" text="{.Zanocy}Uschodniaja Lohkaja Zviazanaja Skuranaja Brania"/>
 		<string id="osa_tv_khuzait_armor_d" text="{.Zanocy}Uschodniaja Lohkaja Zviazanaja Žaleznaja Łamielarnaja Brania"/>
+		<string id="osa_tv_khuzait_armor_d2" text="{.Zanocy}Uschodniaja Lohkaja Źviazanaja Łamielarnaja Brania"/>
 		<string id="osa_tv_khuzait_armor_e" text="{.Nijaki}Uschodniaje Sšytaje Skuranoje Palito nad Kalčuhaj"/>
 		<string id="osa_tv_khuzait_armor_f" text="{.Zanocy}Uschodniaja Sšytaja Skuranaja Kamizelka nad Kalčuhaj"/>
 		<string id="osa_tv_khuzait_armor_g" text="{.Zanocy}Uschodniaja Lohkaja Łamielarnaja Brania"/>
-		<string id="osa_tv_khuzait_armor_h" text="{.Zanocy}Uschodniaja Černionaja Skuranaja Łamielarnaja Brania"/>
+		<string id="osa_tv_khuzait_armor_h" text="{.Zanocy}Uschodniaja Černionaja Skuranaja Łamielarnaja Kamizelka"/>
 		<string id="osa_tv_khuzait_armor_i" text="{.Zanocy}Uschodniaja Sšytaja Skuranaja Kamizelka"/>
 		<string id="osa_tv_khuzait_armor_j" text="{.Nijaki}Uschodniaje Čarhavanaje Łamielarnaje Palito nad Kalčuhaj"/>
 		<string id="osa_tv_khuzait_armor_k" text="{.Nijaki}Uschodniaje Sšytaje Łamielarnaje Palito nad Kalčuhaj"/>
@@ -220,17 +261,41 @@
 		<string id="osa_tv_khuzait_armor_o" text="{.Zanocy}Uschodniaja Sšytaja Łamielarnaja Kamizelka nad Kalčuhaj"/>
 		<string id="osa_tv_khuzait_armor_p" text="{.Zanocy}Uschodniaja Čarhavanaja Łamielarnaja Kamizelka"/>
 		<string id="osa_tv_khuzait_armor_q" text="{.Zanocy}Uschodniaja Sšytaja Łamielarnaja Kamizelka"/>
-		<!--string id="osa_tv_keshik_lamellar_f" text="Uschodnija Cured Šypavanyja Skuranyja Palito"/-->
+		<string id="osa_tv_khuzait_armor_r" text="{.Nijaki}Uschodniaje Šypavanaje Skuranoje Palito"/>
+		<string id="osa_tv_khuzait_armor_s" text="{.Nijaki}Uschodniaje Šypavanaje Skuranoje Palito nad Kalčuhaj"/>
+		<string id="osa_tv_khuzait_armor_t" text="{.Zanocy}Uschodniaja Černienaja Skuranaja Łamielarnaja Brania"/>
+		<string id="osa_tv_khuzait_armor_u" text="{.Muzcynski}Uschodni Černieny Skurany Łamielar nad Kalčuhaj"/>
+		<string id="osa_tv_monk_robe_a" text="{.Zanocy}Zachodniaja Uzorystaja Roba"/>
+		<string id="osa_tv_monk_robe_b" text="{.Zanocy}Zachodniaja Kalčužnaja Uzorystaja Roba"/>
 		<string id="osa_tv_sturgia_armor_a" text="{.Muzcynski}Paŭnočny Dvajny Haŭbierk"/>
+		<string id="osa_tv_sturgia_armor_a2" text="{.Muzcynski}Paŭnočny Upryhožany Dvajny Haŭbierk"/>
 		<string id="osa_tv_sturgia_armor_b" text="{.Zanocy}Paŭnočnaja Čarhavanaja Łuskata nad Haŭbierkam"/>
 		<string id="osa_tv_sturgia_armor_c" text="{.Zanocy}Paŭnočnaja Łatunievaja Łuskata nad Haŭbierkam"/>
 		<string id="osa_tv_sturgia_armor_d" text="{.Zanocy}Paŭnočnaja Stalovaja Łuskata nad Haŭbierkam"/>
 		<string id="osa_tv_sturgia_armor_e" text="{.Muzcynski}Paŭnočny Ciažki Łamielar nad Haŭbierkam"/>
+		<string id="osa_tv_sturgia_armor_e2" text="{.Muzcynski}Paŭnočny Ciažki Upryhožany Łamielar nad Haŭbierkam"/>
 		<string id="osa_tv_sturgia_armor_f" text="{.Muzcynski}Paŭnočny Łamielar nad Haŭbierkam"/>
+		<string id="osa_tv_sturgia_armor_f2" text="{.Muzcynski}Paŭnočny Upryhožany Łamielar nad Haŭbierkam"/>
 		<string id="osa_tv_vlandia_armor_a" text="{.Nijaki}Zachodniaje Skuranoje Palito nad Kalčuhaj"/>
-		<string id="osa_tv_vlandia_armor_b" text="{.Zanocy}Zachodniaja Miakkaja Skura nad Haŭbierkam"/>
+		<string id="osa_tv_vlandia_armor_b" text="{.Nijaki}Zachodniaje Miakkaje Palito nad Haŭbierkam"/>
+		<string id="osa_tv_vlandia_armor_b2" text="{.Nijaki}Zachodniaje Miakkaje Palito biez Rukavoŭ nad Haŭbierkam"/>
+		<string id="osa_tv_vlandia_armor_b3" text="{.Nijaki}Zachodniaje Miakkaje Karotkaje Palito nad Haŭbierkam"/>
+		<string id="osa_tv_vlandia_armor_b4" text="{.Nijaki}Zachodniaje Miakkaje Karotkaje Palito biez Rukavoŭ nad Haŭbierkam"/>
 		<string id="osa_tv_vlandia_armor_c" text="{.Muzcynski}Zachodni Uzorysty Tabard nad Kalčužnym Haŭbierkam"/>
-		<string id="osa_tv_vlandia_armor_d" text="{.Zanocy}Zachodniaja Łuskavataja Kirasa nad Łancuhovaj Kalčuhaj"/>
+		<string id="osa_tv_vlandia_armor_d" text="{.Zanocy}Zachodniaja Stalovaja Łuskataja Kirasa nad Łačuhovaj Kalčuhaj"/>
+		<string id="osa_tv_vlandia_armor_d2" text="{.Zanocy}Zachodniaja Łatunievaja Łuskataja Kirasa nad Łačuhovaj Kalčuhaj"/>
 		<string id="osa_tv_vlandia_armor_e" text="{.Muzcynski}Zachodni Uzorysty Tabard nad Akietonam"/>
+		<string id="osa_tv_vlandia_armor_g" text="{.Zanocy}Zachodniaja Kalčužnaja Bryhancina z Upryhožanym Tabardam"/>
+		<string id="osa_tv_vlandia_armor_h" text="{.Muzcynski}Zachodni Miakki Dvajny Kalčužny Haŭbierk"/>
+		<string id="osa_tv_vlandia_armor_h2" text="{.Muzcynski}Zachodni Dvajny Kalčužny Haŭbierk"/>
+		<string id="osa_tv_vlandia_armor_i" text="{.Nijaki}Zachodniaje Upryhožanaje Palito nad Kalčuhaj"/>
+		<string id="osa_tv_vlandia_armor_j" text="{.Zanocy}Zachodniaja Płaścinkavaja Skura nad Kalčuhaj"/>
+		<string id="osa_tv_vlandia_armor_k" text="{.Muzcynski}ZAPAŬNIALNIK"/>
+		<string id="osa_tv_vlandia_armor_l" text="{.Zanocy}Zachodniaja Kalčužnaja Brania"/>
+		<string id="osa_tv_vlandia_armor_m" text="{.Muzcynski}Zachodni Ciažki Miakki Kalčužny Haŭbierk"/>
+		<string id="osa_tv_vlandia_armor_n" text="{.Muzcynski}Zachodni Upryhožany Akieton nad Kalčuhaj"/>
+		<string id="osa_tv_vlandia_armor_o" text="{.Zanocy}Zachodniaja Ciažkaja Płaścinkavaja Skura nad Kalčuhaj"/>
+		<string id="osa_tv_vlandia_armor_p" text="{.Zanocy}Zachodniaja Upryhožanaja Doŭhaja Łuskataja Kirasa"/>
+		<string id="osa_tv_vlandia_armor_q" text="{.Zanocy}Zachodniaja Upryhožanaja Doŭhaja Stalovaja Łuskataja Kirasa"/>
 	</strings>
 </base>

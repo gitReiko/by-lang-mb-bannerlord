@@ -1,5 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+
+
+
 	<strings>
 		<string id="osa_tv_phrygian_cap_a" text="{.Muzcynski}Сагнуты Канічны Капялюх"/>
 		<string id="osa_tv_phrygian_cap_b" text="{.Muzcynski}Гладкі Сагнуты Канічны Капялюх"/>
@@ -59,6 +62,7 @@
 		<string id="osa_tv_aserai_lord_helmet_f" text="{.Muzcynski}Паўднёвы Купалаваты Цервельер Шляхты"/>
 		<string id="osa_tv_aserai_lord_helmet_g" text="{.Muzcynski}Паўднёвы Шпангенхельм Шляхты"/>
 		<string id="osa_tv_aserai_lord_helmet_h" text="{.Muzcynski}Паўднёвы Пазалочаны Шалом Катафракта"/>
+		<string id="osa_tv_aserai_lord_helmet_i" text="Southern Cataphract's Spangenhelm"/>
 		<!-- Battania Шаломs -->
 		<string id="osa_tv_battania_helmet_a" text="{.Muzcynski}Горны Завостраны Сталёвы Капалін з Махрамі"/>
 		<string id="osa_tv_battania_helmet_b" text="{.Muzcynski}Горны Завостраны Бронзавы Капалін з Махрамі"/>
@@ -115,8 +119,10 @@
 		<string id="osa_tv_empire_lord_helmet_k" text="{.Muzcynski}Імперскі Ўпрыгожаны Шалом-Каўпак з Металічнымі Палоскамі"/>
 		<!-- Khuzait Шаломs -->
 		<string id="osa_tv_khuzait_helmet_a" text="{.Muzcynski}Усходні Шалом над Адкрытым Ламелярам"/>
+		<string id="osa_tv_khuzait_helmet_a2" text="Eastern Helmet Over Leather"/>
 		<string id="osa_tv_khuzait_helmet_b" text="{.Muzcynski}Усходні Шалом над Закрытай Ламелярнай Вуаллю"/>
 		<string id="osa_tv_khuzait_helmet_c" text="{.Muzcynski}Усходні Пласцінкавы Сталёвы Каўпак"/>
+		<string id="osa_tv_khuzait_helmet_c2" text="Eastern Steel Cap"/>
 		<string id="osa_tv_khuzait_helmet_d" text="{.Muzcynski}Усходні Пласцінкавы Сталёвы Каўпак з Кляйнотам"/>
 		<string id="osa_tv_khuzait_helmet_e" text="{.Muzcynski}Усходні Апераны Пласцінкавы Сталёвы Каўпак"/>
 		<string id="osa_tv_khuzait_helmet_f" text="{.Muzcynski}Усходні Аздоблены Пёрамі Пласцінкавы Сталёвы Каўпак"/>
@@ -134,13 +140,26 @@
 		<string id="osa_tv_khuzait_helmet_r" text="{.Muzcynski}Стэпавы Апераны Сталёвы Шалом з Закрытым Ламелярам"/>
 		<string id="osa_tv_khuzait_helmet_s" text="{.Muzcynski}Стэпавы Аздоблены Пёрамі Сталёвы Шалом з Закрытым Ламелярам"/>
 		<string id="osa_tv_khuzait_helmet_t" text="{.Muzcynski}Стэпавы Кальчужны Сталёвы Назальхельм"/>
+		<string id="osa_tv_khuzait_helmet_u" text="Eastern Steel Cap With Lamellar Faceguard"/>
+		<string id="osa_tv_khuzait_helmet_v" text="Eastern Lamellar Helmet"/>
+		<string id="osa_tv_khuzait_helmet_w" text="Eastern Lamellar Helmet Over Leather"/>
+		<string id="osa_tv_khuzait_helmet_x" text="Eastern Plumed Lamellar Helmet Over Mail"/>
+		<string id="osa_tv_khuzait_helmet_y" text="Eastern Decorated Cap"/>
+		<string id="osa_tv_khuzait_helmet_y2" text="Eastern Decorated Helmet"/>
+		<string id="osa_tv_khuzait_helmet_y3" text="Eastern Plumed Decorated Helmet"/>
+		<string id="osa_tv_khuzait_helmet_y4" text="Eastern Lordly Plumed Decorated Helmet"/>
+		<string id="osa_tv_khuzait_helmet_z" text="Steppe Lamellar Helmet Over Cloth"/>
+		<string id="osa_tv_khuzait_helmet_z2" text="Steppe Lamellar Helmet Over Leather"/>
+		<string id="osa_tv_khuzait_helmet_z3" text="Steppe Lamellar Helmet Over Mail"/>
+		<string id="osa_tv_khuzait_helmet_za" text="Eastern Silvered Helmet"/>
+		<string id="osa_tv_khuzait_helmet_zb" text="Eastern Gilded Helmet"/>
 		<string id="osa_tv_khuzait_lord_helmet_a" text="{.Muzcynski}Усходні Футравы Шляхетны Шалом з Пяром"/>
 		<string id="osa_tv_khuzait_lord_helmet_b" text="{.Muzcynski}Усходні Футравы Шляхетны Шалом з Пёрамі"/>
 		<string id="osa_tv_khuzait_lord_helmet_c" text="{.Zanocy}Усходняя Ўпрыгожаная Баявая Карона"/>
 		<string id="osa_tv_khuzait_lord_helmet_d" text="{.Muzcynski}Усходні Зграбны Каўпак"/>
 		<string id="osa_tv_khuzait_lord_helmet_e" text="{.Muzcynski}Упрыгожаны Шыпаты Шалом з Маскай"/>
 		<string id="osa_tv_khuzait_lord_helmet_f" text="{.Muzcynski}Стэпавы Апераны Ламелярны Шалом"/>
-		<string id="osa_tv_khuzait_lord_helmet_g" text="{.Muzcynski}Усходні Футравы Ламелярны Шалом"/>
+		<string id="osa_tv_khuzait_lord_helmet_g" text="Eastern Lordly Plumed Lamellar Helmet"/>
 		<string id="osa_tv_khuzait_lord_helmet_h" text="{.Zanocy}Усходняя Пасрэбраная Баявая Карона з Ламелярам"/>
 		<string id="osa_tv_khuzait_lord_helmet_h2" text="{.Zanocy}Усходняя Пазалочаная Баявая Карона са Скураным Ламелярам"/>
 		<string id="osa_tv_khuzait_lord_helmet_i" text="{.Muzcynski}Усходні Пасрэбраны Шляхетны Шалом з Ламелярам"/>
@@ -148,6 +167,58 @@
 		<string id="osa_tv_khuzait_lord_helmet_k" text="{.Muzcynski}Усходні Пазалочаны Шляхетны Шалом з Пласцінамі"/>
 		<string id="osa_tv_khuzait_lord_helmet_l" text="{.Muzcynski}Стэпавы Шыпаты Жалезны Шалом з Маскай"/>
 		<string id="osa_tv_khuzait_lord_helmet_m" text="{.Muzcynski}Усходні Апераны Шляхетны Шалом з Пласцінамі"/>
+		<string id="osa_tv_khuzait_lord_helmet_n" text="Eastern Noble Fluted Helmet With Sideguards"/>
+		<!-- Nord Helmets -->
+		<string id="osa_tv_nord_helmet_a" text="Nordic Vendel Cap"/>
+		<string id="osa_tv_nord_helmet_b" text="Nordic Vendel Cap Over Leather"/>
+		<string id="osa_tv_nord_helmet_c" text="Nordic Vendel Cap Over Open Mail"/>
+		<string id="osa_tv_nord_helmet_d" text="Nordic Vendel Cap Over Closed Mail"/>
+		<string id="osa_tv_nord_helmet_e" text="Nordic Vendel Goggled Helm"/>
+		<string id="osa_tv_nord_helmet_f" text="Nordic Vendel Goggled Helm Over Leather"/>
+		<string id="osa_tv_nord_helmet_g" text="Nordic Vendel Goggled Helm Over Open Mail"/>
+		<string id="osa_tv_nord_helmet_h" text="Nordic Vendel Goggled Helm Over Closed Mail"/>
+		<string id="osa_tv_nord_helmet_i" text="Nordic Vendel Nasalhelm Over Leather"/>
+		<string id="osa_tv_nord_helmet_j" text="Nordic Vendel Nasalhelm Over Open Mail"/>
+		<string id="osa_tv_nord_helmet_k" text="Nordic Vendel Nasalhelm With Faceguard"/>
+		<string id="osa_tv_nord_helmet_l" text="Nordic Vendel Nasalhelm With Goggled Faceguard"/>
+		<string id="osa_tv_nord_helmet_m" text="Northern Lendman's Cap"/>
+		<string id="osa_tv_nord_helmet_n" text="Northern Lendman's Cap Over Leather"/>
+		<string id="osa_tv_nord_helmet_o" text="Northern Lendman's Cap Over Open Mail"/>
+		<string id="osa_tv_nord_helmet_p" text="Northern Lendman's Cap Over Closed Mail"/>
+		<string id="osa_tv_nord_helmet_q" text="Nordic Nasal Helmet With Faceguard Over Leather"/>
+		<string id="osa_tv_nord_helmet_r" text="Nordic Nasal Helmet With Faceguard Over Mail"/>
+		<string id="osa_tv_nord_helmet_s" text="Nordic Goggled Nasal Helmet With Faceguard Over Mail"/>
+		<string id="osa_tv_nord_helmet_t" text="Nordic Ridged Cap Over Cloth"/>
+		<string id="osa_tv_nord_helmet_t2" text="Nordic Ridged Cap Over Mail"/>
+		<string id="osa_tv_nord_helmet_t3" text="Nordic Nasal Ridged Cap Over Mail"/>
+		<string id="osa_tv_nord_helmet_u" text="Nordic Pointed Nasalhelm Over Leather"/>
+		<string id="osa_tv_nord_helmet_u2" text="Nordic Pointed Nasalhelm Over Mail"/>
+		<string id="osa_tv_nord_helmet_u3" text="Nordic Pointed Nasalhelm With Faceguard Over Mail"/>
+		<string id="osa_tv_nord_helmet_v" text="Nordic Boar Nasal Helmet"/>
+		<string id="osa_tv_nord_helmet_v2" text="Nordic Boar Nasal Helmet With Leather"/>
+		<string id="osa_tv_nord_helmet_v3" text="Nordic Boar Nasal Helmet With Mail"/>
+		<string id="osa_tv_nord_helmet_w" text="Nordic Heavy Guarded Nasal Helmet"/>
+		<string id="osa_tv_nord_helmet_w2" text="Nordic Heavy Guarded Nasal Helmet With Padding"/>
+		<string id="osa_tv_nord_helmet_w3" text="Nordic Heavy Guarded Nasal Helmet With Mail"/>
+		<!-- Pict Helmets -->
+		<string id="osa_tv_pict_helmet_a" text="Highland Heavy Banded Nasal Helmet"/>
+		<string id="osa_tv_pict_helmet_b" text="Highland Heavy Banded Nasal Helmet Over Hide"/>
+		<string id="osa_tv_pict_helmet_c" text="Highland Plumed Heavy Banded Nasal Helmet Over Mail"/>
+		<string id="osa_tv_pict_helmet_d" text="Highland Domed Nasal Spangenhelm"/>
+		<string id="osa_tv_pict_helmet_e" text="Highland Domed Nasal Spangenhelm Over Padding"/>
+		<string id="osa_tv_pict_helmet_f" text="Highland Domed Nasal Spangenhelm Over Mail"/>
+		<string id="osa_tv_pict_helmet_g" text="Highland Tall Nasal Spangenhelm"/>
+		<string id="osa_tv_pict_helmet_h" text="Highland Tall Nasal Spangenhelm Over Cloth"/>
+		<string id="osa_tv_pict_helmet_i" text="Highland Tall Nasal Spangenhelm Over Mail"/>
+		<string id="osa_tv_pict_helmet_j" text="Highland Tall Silvered Nasal Spangenhelm"/>
+		<string id="osa_tv_pict_helmet_k" text="Highland Plumed Tall Silvered Nasal Spangenhelm Over Leather"/>
+		<string id="osa_tv_pict_helmet_l" text="Highland Plumed Tall Silvered Nasal Spangenhelm Over Mail"/>
+		<string id="osa_tv_pict_helmet_m" text="Highland Banded Helmet"/>
+		<string id="osa_tv_pict_helmet_n" text="Highland Decorated Banded Helmet"/>
+		<string id="osa_tv_pict_helmet_o" text="Highland Crested Decorated Banded Helmet"/>
+		<string id="osa_tv_pict_helmet_p" text="Highland Heavy Guarded Nasal Helmet"/>
+		<string id="osa_tv_pict_helmet_q" text="Highland Heavy Guarded Nasal Helmet With Leather"/>
+		<string id="osa_tv_pict_helmet_r" text="Highland Heavy Guarded Nasal Helmet With Mail"/>
 		<!-- Strugian Шаломs -->
 		<string id="osa_tv_sturgia_helmet_a" text="{.Muzcynski}Паўночны Закрыты Шпангенхельм"/>
 		<string id="osa_tv_sturgia_helmet_b" text="{.Muzcynski}Паўночны Закрыты Шпангенхельм з Хвастом"/>
@@ -162,37 +233,85 @@
 		<string id="osa_tv_sturgia_lord_helmet_c" text="{.Muzcynski}Паўночны Шляхетны Кальчужны Пазалочаны Шалом"/>
 		<string id="osa_tv_sturgia_lord_helmet_d" text="{.Zanocy}Паўночная Кальчужная Баявая Карона з Пёрамі"/>
 		<string id="osa_tv_sturgia_lord_helmet_e" text="{.Zanocy}Паўночная Кальчужная Баявая Карона з Пяром"/>
+		<string id="osa_tv_sturgia_lord_helmet_f" text="Northern Silvered Battle Crown With Facemask"/>
+		<string id="osa_tv_sturgia_lord_helmet_g" text="Northern Gilded Battle Crown With Facemask"/>
 		<!-- Vlandian Шаломs -->
-		<string id="osa_tv_vlandia_helmet_a" text="{.Muzcynski}Заходні Скалкэп з Наноснікам над Кальчужным Коіфам"/>
-		<string id="osa_tv_vlandia_helmet_b" text="{.Muzcynski}Заходні Завостраны Скалкэп з Пазалочаным Забралам над Кальчужным Коіфам"/>
-		<string id="osa_tv_vlandia_helmet_b2" text="{.Muzcynski}Заходні Завостраны Скалкэп з Забралам над Кальчужным Коіфам"/>
-		<string id="osa_tv_vlandia_helmet_c" text="{.Muzcynski}Заходні Сегментаваны Цервельер з Пазалочаным Забралам над Кальчужным Коіфам"/>
-		<string id="osa_tv_vlandia_helmet_c2" text="{.Muzcynski}Заходні Сегментаваны Цервельер з Забралам над Кальчужным Коіфам"/>
+		<string id="osa_tv_vlandia_helmet_a" text="Western Painted Nasalhelm"/>
+		<string id="osa_tv_vlandia_helmet_a2" text="Western Painted Nasalhelm Over Padded Cloth"/>
+		<string id="osa_tv_vlandia_helmet_a3" text="Western Painted Nasalhelm Over Mail"/>
+		<string id="osa_tv_vlandia_helmet_a4" text="Western Painted Nasalhelm Over Open Mail Coif"/>
+		<string id="osa_tv_vlandia_helmet_a5" text="Western Painted Nasalhelm Over Closed Mail Coif"/>
+		<string id="osa_tv_vlandia_helmet_b" text="Western Nasal Helmet"/>
+		<string id="osa_tv_vlandia_helmet_b2" text="Western Nasal Helmet Over Padded Leather"/>
+		<string id="osa_tv_vlandia_helmet_b3" text="Western Nasal Helmet Over Mail"/>
+		<string id="osa_tv_vlandia_helmet_b4" text="Western Nasal Helmet Over Open Mail Coif"/>
+		<string id="osa_tv_vlandia_helmet_b5" text="Western Nasal Helmet Over Closed Mail Coif"/>
+		<string id="osa_tv_vlandia_helmet_c" text="Western Conical Nasalhelm"/>
+		<string id="osa_tv_vlandia_helmet_c2" text="Western Conical Nasalhelm Over Padded Cloth"/>
+		<string id="osa_tv_vlandia_helmet_c3" text="Western Conical Nasalhelm Over Mail"/>
+		<string id="osa_tv_vlandia_helmet_c4" text="Western Conical Nasalhelm Over Open Mail Coif"/>
+		<string id="osa_tv_vlandia_helmet_c5" text="Western Conical Nasalhelm Over Closed Mail Coif"/>
 		<string id="osa_tv_vlandia_helmet_d" text="{.Muzcynski}Заходні Рыфлены Шалом над Кальчугай"/>
 		<string id="osa_tv_vlandia_helmet_e" text="{.Muzcynski}Заходні Паласаты Скураны Каўпак"/>
 		<string id="osa_tv_vlandia_helmet_f" text="{.Muzcynski}Паўночны Шалом з Наноснікам і Закрытай Кальчугай"/>
 		<string id="osa_tv_vlandia_helmet_g" text="{.Muzcynski}Круглы Шалом-Капалін над Кальчугай"/>
 		<string id="osa_tv_vlandia_helmet_h" text="{.Muzcynski}Круглы Шалом-Капалін над Шыпаванай Скураю"/>
-		<string id="osa_tv_vlandia_helmet_i" text="{.Muzcynski}Заходні Завостраны Скалкэп з Кальчугай"/>
-		<string id="osa_tv_vlandia_helmet_j" text="{.Muzcynski}Шалом з Наноснікам і Кальчужным Коіфам"/>
-		<string id="osa_tv_vlandia_helmet_k" text="{.Muzcynski}Паласаты Шалом з Кальчугай"/>
+		<string id="osa_tv_vlandia_helmet_i" text="Western Bent Conical Helmet Over Padded Cloth"/>
+		<string id="osa_tv_vlandia_helmet_i2" text="Western Bent Conical Helmet Over Padded Mail"/>
+		<string id="osa_tv_vlandia_helmet_i3" text="Western Bent Conical Helmet Over Open Mail Coif"/>
+		<string id="osa_tv_vlandia_helmet_i4" text="Western Bent Conical Helmet Over Closed Mail Coif"/>
+		<string id="osa_tv_vlandia_helmet_j" text="Western Heavy Nasalhelm Over Open Mail Coif"/>
+		<string id="osa_tv_vlandia_helmet_j2" text="Western Heavy Nasalhelm Over Closed Mail Coif"/>
+		<string id="osa_tv_vlandia_helmet_k" text="Western Peaked Helmet"/>
+		<string id="osa_tv_vlandia_helmet_k2" text="Western Peaked Helmet Over Leather"/>
+		<string id="osa_tv_vlandia_helmet_k3" text="Western Peaked Helmet Over Mail"/>
+		<string id="osa_tv_vlandia_helmet_k4" text="Western Peaked Helmet Over Iron Scale"/>
+		<string id="osa_tv_vlandia_helmet_k5" text="Western Peaked Helmet Over Steel Scale"/>
+		<string id="osa_tv_vlandia_helmet_k6" text="Western Peaked Helmet Over Closed Mail Coif"/>
 		<string id="osa_tv_vlandia_helmet_l" text="{.Muzcynski}Заходні Востраканцовы Шалом Улана над Чырвонай Тканню"/>
 		<string id="osa_tv_vlandia_helmet_m" text="{.Muzcynski}Заходні Востраканцовы Шалом Улана над Скураю"/>
 		<string id="osa_tv_vlandia_helmet_n" text="{.Muzcynski}Заходні Востраканцовы Шалом Улана над Кальчугай"/>
-		<string id="osa_tv_vlandia_helmet_o" text="{.Muzcynski}Заходні Завостраны Скалкэп з Забралам над Кальчужным Коіфам"/>
+		<string id="osa_tv_vlandia_helmet_o" text="Western Banded Nasal Cevelliere Over Padded Cloth"/>
+		<string id="osa_tv_vlandia_helmet_o2" text="Western Banded Nasal Cevelliere Over Padded Mail"/>
+		<string id="osa_tv_vlandia_helmet_o3" text="Western Banded Nasal Cevelliere Over Open Mail Coif"/>
+		<string id="osa_tv_vlandia_helmet_o4" text="Western Banded Nasal Cevelliere Over Closed Mail Coif"/>
 		<string id="osa_tv_vlandia_helmet_p" text="{.Muzcynski}Заходні Завостраны Скалкэп з Закрытай Кальчугай"/>
+		<string id="osa_tv_vlandia_helmet_p2" text="Western Pointed Skullcap Over Closed Mail Coif"/>
 		<string id="osa_tv_vlandia_helmet_q" text="{.Muzcynski}Заходні Шалом з Наноснікам і Закрытай Кальчугай"/>
-		<string id="osa_tv_vlandia_helmet_r" text="{.Muzcynski}Заходні Сегментаваны Цервельер з Забралам над Кальчужным Коіфам"/>
+		<string id="osa_tv_vlandia_helmet_q2" text="Western Nasal Helmet Over Closed Mail Coif"/>
+		<string id="osa_tv_vlandia_helmet_r" text="Western Banded Nasalhelm Over Padded Cloth"/>
+		<string id="osa_tv_vlandia_helmet_r2" text="Western Banded Nasalhelm Over Padded Mail"/>
+		<string id="osa_tv_vlandia_helmet_r3" text="Western Banded Nasalhelm Over Open Mail Coif"/>
+		<string id="osa_tv_vlandia_helmet_r4" text="Western Banded Nasalhelm Over Closed Mail Coif"/>
 		<string id="osa_tv_vlandia_helmet_s" text="{.Muzcynski}Заходні Востраканцовы Шалом Улана над Чырвонай Шапкай"/>
-		<string id="osa_tv_vlandia_lord_helmet_a" text="{.Muzcynski}Заходні Рыфлены Шалом з Забралам над Кальчужным Коіфам"/>
-		<string id="osa_tv_vlandia_lord_helmet_b" text="{.Muzcynski}Заходні Рыфлены Шалом з Пазалочаным Забралам над Кальчужным Коіфам"/>
+		<string id="osa_tv_vlandia_helmet_t" text="Western Bent Conical Nasalhelm"/>
+		<string id="osa_tv_vlandia_helmet_t2" text="Western Bent Conical Nasalhelm Over Leather"/>
+		<string id="osa_tv_vlandia_helmet_t3" text="Western Bent Conical Nasalhelm Over Mail"/>
+		<string id="osa_tv_vlandia_helmet_t4" text="Western Bent Conical Nasalhelm Over Closed Mail Coif"/>
+		<string id="osa_tv_vlandia_helmet_u" text="Western Banded Helmet With Faceguard Over Padded Cloth"/>
+		<string id="osa_tv_vlandia_helmet_u2" text="Western Banded Helmet With Faceguard Over Padded Mail"/>
+		<string id="osa_tv_vlandia_helmet_u3" text="Western Banded Helmet With Faceguard Over Open Mail Coif"/>
+		<string id="osa_tv_vlandia_lord_helmet_a" text="Western Fluted Helmet With Steel Visor Over Mail"/>
+		<string id="osa_tv_vlandia_lord_helmet_a2" text="Western Fluted Helmet With Gilded Visor Over Mail"/>
+		<string id="osa_tv_vlandia_lord_helmet_b" text="Western Fluted Helmet With Steel Visor Over Mail"/>
+		<string id="osa_tv_vlandia_lord_helmet_b2" text="Western Fluted Helmet With Gilded Visor Over Mail"/>
 		<string id="osa_tv_vlandia_lord_helmet_c" text="{.Muzcynski}Заходні Шляхетны Востраканцовы Шалом Улана"/>
 		<string id="osa_tv_vlandia_lord_helmet_d" text="{.Muzcynski}Заходні Шляхетны Востраканцовы Шалом Улана з Кляйнотам"/>
 		<string id="osa_tv_vlandia_lord_helmet_e" text="{.Muzcynski}Заходні Шляхетны Купалаваты Цервельер з Кляйнотам"/>
-		<string id="osa_tv_vlandia_lord_helmet_f" text="{.Muzcynski}Заходні Шляхетны Рыфлены Шалом з Бакавой Абаронай"/>
+		<string id="osa_tv_vlandia_lord_helmet_f" text="Western Bent Conical Helmet With Steel Visor Over Mail"/>
+		<string id="osa_tv_vlandia_lord_helmet_f2" text="Western Bent Conical Helmet With Gilded Visor Over Mail"/>
 		<string id="osa_tv_vlandia_lord_helmet_g" text="{.Muzcynski}Заходні Просты Пласцінкавы Шалом"/>
-		<string id="osa_tv_vlandia_lord_helmet_h" text="{.Muzcynski}Усходні Ламелярны Шалом Катафракта"/>
+		<string id="osa_tv_vlandia_lord_helmet_h" text="Western Segmented Cevelliere With Steel Visor Over Mail"/>
+		<string id="osa_tv_vlandia_lord_helmet_h2" text="Western Segmented Cevelliere With Gilded Visor Over Mail"/>
 		<string id="osa_tv_vlandia_lord_helmet_i" text="{.Muzcynski}Заходні Шляхетны Купалаваты Шалом над Лускатай"/>
-		<string id="osa_tv_vlandia_lord_helmet_j" text="{.Muzcynski}Шалом Рыцара з Пазалочанай Абаронай Твару над Кальчугай"/>
+		<string id="osa_tv_vlandia_lord_helmet_j" text="Knightly Helmet With Gilded Faceguard Over Mail"/>
+		<string id="osa_tv_vlandia_lord_helmet_j2" text="Knightly Helmet With Steel Faceguard Over Mail"/>
+		<string id="osa_tv_vlandia_lord_helmet_k" text="Western Segmented Cevelliere With Visor Over Mail Coif"/>
+		<string id="osa_tv_vlandia_lord_helmet_k2" text="Western Gilded Segmented Cevelliere With Visor Over Mail Coif"/>
+		<string id="osa_tv_vlandia_lord_helmet_l" text="Western Bent Conical Helmet With Visor Over Mail Coif"/>
+		<string id="osa_tv_vlandia_lord_helmet_l2" text="Western Gilded Bent Conical Helmet With Visor Over Mail Coif"/>
+		<string id="osa_tv_vlandia_royal_helmet_a" text="Western Crown Over Mail Coif"/>
+		<string id="osa_tv_vlandia_royal_helmet_b" text="Western Crowned Heavy Nasalhelm Over Mail Coif"/>
+		<string id="osa_tv_vlandia_royal_helmet_c" text="Western Crowned Fluted Helmet Over Mail"/>
 	</strings>
 </base>
