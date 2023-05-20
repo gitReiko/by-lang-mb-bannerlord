@@ -1,82 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
-  <tags>
-    <tag language="English" />
-  </tags>
+
+
+
   <strings>
-    <string id="RealisticWeather01" text="None" />
-    <string id="RealisticWeather02" text="Light" />
-    <string id="RealisticWeather03" text="Moderate" />
-    <string id="RealisticWeather04" text="Heavy" />
-    <string id="RealisticWeather05" text="Very Heavy" />
-    <string id="RealisticWeather06" text="Dust Storm (Special)" />
-    <string id="RealisticWeather07" text="Rain/Snow Density" />
-    <string id="RealisticWeather08" text="Fog Density" />
-    <string id="RealisticWeather09" text="Terrain" />
-    <string id="RealisticWeather10" text="Chance of Rain" />
-    <string id="RealisticWeather11" text="Chance of Fog" />
-    <string id="RealisticWeather12" text="Chance of Dust Storms" />
-    <string id="RealisticWeather13" text="Forests" />
-    <string id="RealisticWeather14" text="Chance of rain in forests. Default is 20%." />
-    <string id="RealisticWeather15" text="Chance of fog in forests. Default is 10%." />
-    <string id="RealisticWeather16" text="Chance of dust storms in forests. Default is 0%." />
-    <string id="RealisticWeather17" text="Steppes" />
-    <string id="RealisticWeather18" text="Chance of rain in steppes. Default is 5%." />
-    <string id="RealisticWeather19" text="Chance of fog in steppes. Default is 5%." />
-    <string id="RealisticWeather20" text="Chance of dust storms in steppes. Default is 0%." />
-    <string id="RealisticWeather21" text="Deserts" />
-    <string id="RealisticWeather22" text="Chance of rain in deserts. Default is 1%." />
-    <string id="RealisticWeather23" text="Chance of fog in deserts. Default is 0%." />
-    <string id="RealisticWeather24" text="Chance of dust storms in deserts. Default is 10%." />
-    <string id="RealisticWeather25" text="Rivers" />
-    <string id="RealisticWeather26" text="Chance of rain near rivers. Default is 10%." />
-    <string id="RealisticWeather27" text="Chance of fog near rivers. Default is 20%." />
-    <string id="RealisticWeather28" text="Chance of dust storms near rivers. Default is 0%." />
-    <string id="RealisticWeather29" text="Other" />
-    <string id="RealisticWeather30" text="Chance of rain in other terrain. Default is 10%." />
-    <string id="RealisticWeather31" text="Chance of fog in other terrain. Default is 10%." />
-    <string id="RealisticWeather32" text="Chance of dust storms in other terrain. Default is 0%." />
-    <string id="RealisticWeather33" text="Arena" />
-    <string id="RealisticWeather34" text="Rain" />
-    <string id="RealisticWeather35" text="Fog" />
-    <string id="RealisticWeather36" text="Dust Storms" />
-    <string id="RealisticWeather37" text="Arena can have rain. Disabled by default." />
-    <string id="RealisticWeather38" text="Arena can have fog. Disabled by default." />
-    <string id="RealisticWeather39" text="Arena can have dust storms. Disabled by default." />
-    <string id="RealisticWeather40" text="Override Rain Density" />
-    <string id="RealisticWeather41" text="Toggle Override Rain Density" />
-    <string id="RealisticWeather42" text="Override rain density. Disabled by default." />
-    <string id="RealisticWeather43" text="Overridden rain density. Default is 0.00." />
-    <string id="RealisticWeather44" text="Override Fog Density" />
-    <string id="RealisticWeather45" text="Toggle Override Fog Density" />
-    <string id="RealisticWeather46" text="Override fog density. Disabled by default." />
-    <string id="RealisticWeather47" text="Overridden fog density. Default is 1." />
-    <string id="RealisticWeather48" text="Multipliers" />
-    <string id="RealisticWeather49" text="Rain Effect on Movement Speed" />
-    <string id="RealisticWeather50" text="Multiplier for rain effect on movement speed. Default is 1.0." />
-    <string id="RealisticWeather51" text="Rain Effect on Projectile Speed" />
-    <string id="RealisticWeather52" text="Multiplier for rain effect on projectile speed. Default is 1.0." />
-    <string id="RealisticWeather53" text="Rain Effect on Morale" />
-    <string id="RealisticWeather54" text="Multiplier for rain effect on morale. Default is 1.0." />
-    <string id="RealisticWeather55" text="Rain Effect on Posture" />
-    <string id="RealisticWeather56" text="Multiplier for rain effect on RBM posture. Default is 1.0." />
-    <string id="RealisticWeather57" text="Fog Effect on Shoot Frequency" />
-    <string id="RealisticWeather58" text="Multiplier for fog effect on AI shoot frequency. Default is 1.0." />
-    <string id="RealisticWeather59" text="Fog Effect on Morale" />
-    <string id="RealisticWeather60" text="Multiplier for fog effect on morale. Default is 1.0." />
-    <string id="RealisticWeather61" text="Dust Effect on Movement Speed" />
-    <string id="RealisticWeather62" text="Multiplier for dust effect on movement speed. Default is 1.0." />
-    <string id="RealisticWeather63" text="Dust Effect on Projectile Speed" />
-    <string id="RealisticWeather64" text="Multiplier for dust effect on projectile speed. Default is 1.0." />
-    <string id="RealisticWeather65" text="Dust Effect on Shoot Frequency" />
-    <string id="RealisticWeather66" text="Multiplier for dust effect on AI shoot frequency. Default is 1.0." />
-    <string id="RealisticWeather67" text="Dust Effect on Shooter Error" />
-    <string id="RealisticWeather68" text="Multiplier for dust effect on AI shooter error. Default is 1.0." />
-    <string id="RealisticWeather69" text="Dust Effect on Morale" />
-    <string id="RealisticWeather70" text="Multiplier for dust effect on morale. Default is 1.0." />
-    <string id="RealisticWeather71" text="Dust Effect on Posture" />
-    <string id="RealisticWeather72" text="Multiplier for dust effect on RBM posture. Default is 1.0." />
-    <string id="RealisticWeather73" text="Hide in Free Camera Mode" />
-    <string id="RealisticWeather74" text="Hide rain, snow and dust storms in RTS Camera's free camera mode. Weather effects will still apply. Disabled by default." />
+    <string id="RealisticWeather01" text="Адсутнічае" />
+    <string id="RealisticWeather02" text="Маленьк." />
+    <string id="RealisticWeather03" text="Сярэдн." />
+    <string id="RealisticWeather04" text="Вялік." />
+    <string id="RealisticWeather05" text="Вельмі Вялік." />
+    <string id="RealisticWeather06" text="Пяшчаны Шторм (Адмысловы)" />
+    <string id="RealisticWeather07" text="Шчыльнасьць Дажджу/Сьнегу" />
+    <string id="RealisticWeather08" text="Шчыльнасьць Туману" />
+    <string id="RealisticWeather09" text="Мясцовасьць" />
+    <string id="RealisticWeather10" text="Шанец Дажджу" />
+    <string id="RealisticWeather11" text="Шанец Туману" />
+    <string id="RealisticWeather12" text="Шанец Пяшчанага Шторму" />
+    <string id="RealisticWeather13" text="Лясы" />
+    <string id="RealisticWeather14" text="Шанец дажджу ў лясах. Прадвызначана 20%." />
+    <string id="RealisticWeather15" text="Шанец туману ў лясах. Прадвызначана 10%." />
+    <string id="RealisticWeather16" text="Шанец пяшчанага шторму ў лясах. Прадвызначана 0%." />
+    <string id="RealisticWeather17" text="Стэпы" />
+    <string id="RealisticWeather18" text="Шанец дажджу ў стэпах. Прадвызначана 5%." />
+    <string id="RealisticWeather19" text="Шанец туману ў стэпах. Прадвызначана 5%." />
+    <string id="RealisticWeather20" text="Шанец пяшчанага шторму ў стэпах. Прадвызначана 0%." />
+    <string id="RealisticWeather21" text="Пустэльні" />
+    <string id="RealisticWeather22" text="Шанец дажджу ў пустэльнях. Прадвызначана 1%." />
+    <string id="RealisticWeather23" text="Шанец туману ў пустэльнях. Прадвызначана 0%." />
+    <string id="RealisticWeather24" text="Шанец пяшчанага шторму ў пустэльнях. Прадвызначана 10%." />
+    <string id="RealisticWeather25" text="Рэкі" />
+    <string id="RealisticWeather26" text="Шанец дажджу каля рэк. Прадвызначана 10%." />
+    <string id="RealisticWeather27" text="Шанец туману каля рэк. Прадвызначана 20%." />
+    <string id="RealisticWeather28" text="Шанец пяшчанага шторму каля рэк. Прадвызначана 0%." />
+    <string id="RealisticWeather29" text="Іншае" />
+    <string id="RealisticWeather30" text="Шанец дажджу на іншай мясцовасьці. Прадвызначана 10%." />
+    <string id="RealisticWeather31" text="Шанец туману на іншай мясцовасьці. Прадвызначана 10%." />
+    <string id="RealisticWeather32" text="Шанец пяшчанага шторму на іншай мясцовасьці. Прадвызначана 0%." />
+    <string id="RealisticWeather33" text="Арэна" />
+    <string id="RealisticWeather34" text="Дождж" />
+    <string id="RealisticWeather35" text="Туман" />
+    <string id="RealisticWeather36" text="Пяшчаныя Штормы" />
+    <string id="RealisticWeather37" text="На арэне можа быць дождж. Адключана па стандарту." />
+    <string id="RealisticWeather38" text="На арэне можа быць туман. Адключана па стандарту." />
+    <string id="RealisticWeather39" text="На арэне можа быць пяшчаны шторм. Адключана па стандарту." />
+    <string id="RealisticWeather40" text="Перавызначыць Шчыльнасьць Дажджу" />
+    <string id="RealisticWeather41" text="Пераключальнік Перавызначэньня Шчыльнасьці Дажджу" />
+    <string id="RealisticWeather42" text="Перавызначыць шчыльнасьць дажджу. Адключана па стандарту." />
+    <string id="RealisticWeather43" text="Перавызначаная шчыльнасьць дажджу. Прадвызначана 0.00." />
+    <string id="RealisticWeather44" text="Перавызначыць Шчыльнасьць Туману" />
+    <string id="RealisticWeather45" text="Пераключальнік Перавызначэньня Шчыльнасьці Туману" />
+    <string id="RealisticWeather46" text="Перавызначыць шчыльнасьць туману. Адключана па стандарту." />
+    <string id="RealisticWeather47" text="Перавызначаная шчыльнасьць туману. Прадвызначана 1." />
+    <string id="RealisticWeather48" text="Множнікі" />
+    <string id="RealisticWeather49" text="Узьдзеяньне Дажджу на Хуткасьць Руху" />
+    <string id="RealisticWeather50" text="Множнік узьдзеяньня дажджу на хуткасьць руху. Прадвызначана 1.0." />
+    <string id="RealisticWeather51" text="Узьдзеяньне Дажджу на Хуткасьць Снараду" />
+    <string id="RealisticWeather52" text="Множнік узьдзеяньня дажджу на хуткасьць снараду. Прадвызначана 1.0." />
+    <string id="RealisticWeather53" text="Узьдзеяньне Дажджу на Мараль" />
+    <string id="RealisticWeather54" text="Множнік узьдзеяньня дажджу на мараль. Прадвызначана 1.0." />
+    <string id="RealisticWeather55" text="Узьдзеяньне Дажджу на Палажэньне" />
+    <string id="RealisticWeather56" text="Множнік узьдзеяньня дажджу на палажэньне RBM (Realistic Battle Mod). Прадвызначана 1.0." />
+    <string id="RealisticWeather57" text="Узьдзеяньне Туману на Частату Стральбы" />
+    <string id="RealisticWeather58" text="Множнік узьдзеяньня туману на частату стральбы ШІ. Прадвызначана 1.0." />
+    <string id="RealisticWeather59" text="Узьдзеяньне Туману на Мараль" />
+    <string id="RealisticWeather60" text="Множнік узьдзеяньня туману на мараль. Прадвызначана 1.0." />
+    <string id="RealisticWeather61" text="Узьдзеяньне Пяску на Хуткасьць Руху" />
+    <string id="RealisticWeather62" text="Множнік узьдзеяньня пяску на хуткасьць руху. Прадвызначана 1.0." />
+    <string id="RealisticWeather63" text="Узьдзеяньне Пяску на Хуткасьць Снараду" />
+    <string id="RealisticWeather64" text="Множнік узьдзеяньня пяску на хуткасьць снараду. Прадвызначана 1.0." />
+    <string id="RealisticWeather65" text="Узьдзеяньне Пяску на Частату Стральбы" />
+    <string id="RealisticWeather66" text="Множнік узьдзеяньня пяску на частату стральбы. Прадвызначана 1.0." />
+    <string id="RealisticWeather67" text="Узьдзеяньне Пяску на Хібы Стральбы" />
+    <string id="RealisticWeather68" text="Множнік узьдзеяньня пяску на хібы стральбы ШІ. Прадвызначана 1.0." />
+    <string id="RealisticWeather69" text="Узьдзеяньне Пяску на Мараль" />
+    <string id="RealisticWeather70" text="Множнік узьдзеяньня пяску на мараль. Прадвызначана 1.0." />
+    <string id="RealisticWeather71" text="Узьдзеяньне Пяску на Палажэньне" />
+    <string id="RealisticWeather72" text="Множнік узьдзеяньня пяску на палажэньне RBM (Realistic Battle Mod). Прадвызначана 1.0." />
+    <string id="RealisticWeather73" text="Хаваць Падчас Выкарыстаньня Вольнай Камеры" />
+    <string id="RealisticWeather74" text="Хавае дажджы, сьнягі і пяскі падчас выкарыстаньня вольнай камеры RTS. Узьдзеяньне надвор'я ўсё адно будзе адбывацца. Адключана па стандарту." />
   </strings>
 </base>
