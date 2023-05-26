@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+    <tags>
+        <tag language="English" />
+    </tags>
+    <strings>
+		<string id="ROTBTU48M66x" text="Custom War Mechanics" />
+		<string id="ROTkkUMBKlmi" text="Forced Wars and custom AI centered around GOT lore" />
+		<string id="ROTdSeV3Pjt1" text="Kings Protect Night's Watch" />
+		<string id="ROTvm4bYU9LW" text="The kings of Westeros will declare war on anyone who declares war on the Night's Watch" />
+		<string id="ROTETF75TkfJ" text="Night's Watch May Not War" />
+		<string id="ROTvBYixOxnF" text="The Night's Watch may not get involved in wars with anyone except the Free Folk" />
+		<string id="ROT6BucvJqsr" text="Free Folk May Not War" />
+		<string id="ROT4o5f2BhSw" text="The Free Folk may not get involved in wars with anyone except the Night's Watch" />
+		<string id="ROTL6krz0TLm" text="Kingdom Destruction" />
+		<string id="ROTZwURNIdBr" text="Toggle Kingdom Destruction integration." />
+		<string id="ROTOuXtWPOj1" text="Destruction Timer" />
+		<string id="ROTavc2zXJbP" text="Set the amount of days needed to wait for the destruction of a kingdom once the destruction conditions are met." />
+		<string id="ROT8W1Uj78kl" text="Relation Needed For Lord To Join Free" />
+		<string id="ROTwcGcT2r7x" text="Set the relation needed for a lord to join your kingdom for free." />
+		<string id="ROTs5IWYBIis" text="Relation Needed For Lord To Never Join" />
+		<string id="ROTBP2ZwuXGD" text="Set the relation needed for a lord to never want to join your kingdom." />
+		<string id="ROTlSih9JUey" text="Base Gold per Relation Point Away" />
+		<string id="ROT8CxXMHqo1" text="Set the base gold for the formula that equates in how much gold is needed for a lord to join." />
+		<string id="ROTrPHm9XDkN" text="Vassals Need To Be Gone" />
+		<string id="ROTEWnoIqKfS" text="Set vassals needed to be gone as a condition for destruction. Mercenary clans are not included." />
+		<string id="ROT9u8IimYXg" text="Duels" />
+		<string id="ROT1jyk8iuCR" text="Toggle dueling other lords and ladies." />
+		<string id="ROTN98ykeXsg" text="Allowable Clan Tier Difference" />
+		<string id="ROTAeInh6vkO" text="Maximum difference between your clan tier and the lord you wish to duel." />
+		<string id="ROToWFdjGG5a" text="Ravens" />
+		<string id="ROTj2GWRKTVV" text="Enables sending ravens to other lords and ladies. You may wish to disable ravens if you have another mod with a similar feature like Telepathy or Diplomacy." />
+		<string id="ROT2zv6doHP3" text="Enable Raven Accidents" />
+		<string id="ROTtiK1FpYjD" text="If enabled, adds a small chance of failure for Ravens. The longer the flight, the higher the chance of an accident." />
+		<string id="ROTHPHghclbb" text="Restrict Sending Ravens" />
+		<string id="ROTshjqBQgXe" text="If enabled, you can only send a raven to people you have met or at least likely to know of. Otherwise, you can send a raven to a person regardless your knowledge of addressee." />
+		<string id="ROTwwykmcQmJ" text="Flight Time in Days" />
+		<string id="ROTP5gepUrvp" text="The maximum amount of time (in days) it could take the raven to reach the addressee. Directly affects the flight speed of the raven." />
+		<string id="ROTryRvN4Uej" text="Send Raven Gold Cost" />
+		<string id="ROTNawHyXbfN" text="Gold cost for sending a raven to another character." />
+		<string id="ROTiOgwolEuZ" text="Raven killed" />
+		<string id="ROTxAKV7GkLM" text="Your raven was hunted and killed by a {PREDATOR} while trying to reach {HERO NAME}!" />
+		<string id="ROTtCLKLd68M" text="Hawk" />
+		<string id="ROTc1jT8mQTe" text="Owl" />
+		<string id="ROTn8A8Tg2im" text="Not enough gold!" />
+		<string id="ROT1UkczAjm5" text="Send Raven" />
+		<string id="ROTo0N1nddSS" text="The raven either does not understand or does not like your joke and refuses the task." />
+		<string id="ROTVNtmLw74m" text="You know too little of {HERO_NAME} to point them out for a raven." />
+		<string id="ROTWc5KogzAs" text="The raven won't be able to reach the addressee." />
+		<string id="ROTUtNlCsIKz" text="Raven Sent" />
+		<string id="ROT072uKra5r" text="Raven Arrived" />
+		<string id="ROTLehC7v2QP" text="Cancel Raven" />
+		<string id="ROTQpICWciQB" text="The raven from {FACTION1_NAME} has arrived at {ADDRESSEE_TEXT}." />
+		<string id="ROTbptfYHJck" text="{HERO_NAME}{?HAS_FACTION} of {FACTION2_NAME}{?}{\\?}" />
+		<string id="ROTG9ekYcYHX" text="The raven from {FACTION1_NAME} will arrive at {ADDRESSEE_TEXT} within {TRAVEL_TIME} days." />
+		<string id="ROTEU45sRU3b" text="{HERO_NAME} is dead. " />
+		<string id="ROT9A0pMzsEh" text="{HERO_NAME} is imprisoned {?IS_MOBILE}by{?}in{\\?} {DETENTION_PLACE}. " />
+		<string id="ROTM1TivfCVp" text="{HERO_NAME} is fugitive and doesn't want to be found. " />
+		<string id="ROTSIgyhra3g" text="{HERO_NAME} has just been released from custody and is not yet ready to receive ravens. " />
+		<string id="ROTPJQO9YORl" text="{HERO_NAME} is traveling incognito. " />
+		<string id="ROTzMAI940YS" text="{HERO_NAME} is too inexperienced to get a message delivered by raven. " />
+		<string id="ROTzRvmeqYQk" text="A raven has already been dispatched to {HERO_NAME}. " />
+		<string id="ROT9czgf18Dl" text="The Night's Watch honor all kings and obey none." />
+		<string id="ROTNx526ZOsI" text="The Free Folk do not engage in formal war." />
+		<string id="ROTgMNXWqstl" text="Your sovereign will not entertain peace." />
+		<string id="ROT8A1gV873Y" text="Your war with the Night's Watch makes peace impossible." />
+		<string id="ROTGqMMHfJpF" text="Your equipment belongs to me now." />
+		<string id="ROTu5HAJjOFG" text="You'll regret that!" />
+		<string id="ROTQlRDILQWL" text="You took {WEAPON} from {HERO}" />
+		<string id="ROTxHQ3EmPlL" text="Your dragon will fight for me now." />
+		<string id="ROTH6lNdWMkj" text="YOU'LL PAY IN FIRE AND BLOOD!" />
+		<string id="ROTSvyr1lKCr" text="City Watch" />
+		<string id="ROTEAMRg7gAG" text="Trade with Essos" />
+		<string id="SSYugueEyHyf" text="Avoid Starvation" />
+		<string id="ROTycr1RVfhk" text="General Settings" />
+		<string id="ROTcyLAwyN7V" text="Static Wars" />
+		<string id="ROTK8m7If1To" text="Forced wars between certain kingdoms" />
+		<string id="ROT9Y8C5ijAI" text="Enable or disable this war" />
+		<string id="ROTGugpjBejh" text="Enable or disable this war; starts on day 25" />
+		<string id="ROTc6zqDfzFv" text="Enable or disable this war; starts on day 50" />
+		<string id="ROTon8kMVfJs" text="Enable or disable this war; starts on day 60" />
+		<string id="ROTxVT29TWDD" text="Stormlands vs The Reach" />
+		<string id="ROToYKxpQc3j" text="Stormlands vs The Westerlands" />
+		<string id="ROTByL0jXt1D" text="Iron Islands vs The Reach" />
+		<string id="ROT0dZ93ZzIE" text="Dragonstone vs The Reach" />
+		<string id="ROTFL1n8uU79" text="Dragonstone vs The Stormlands" />
+		<string id="ROT8j1z86WOE" text="Night's Watch vs Free Folk" />
+		<string id="ROT9jleKXoYZ" text="The North vs The Westerlands" />
+		<string id="ROTsVDpCjaAt" text="Dragonstone vs The Westerlands" />
+		<string id="ROTmyD8H8h5l" text="Riverlands vs The Westerlands" />
+		<string id="ROTj1HUGrcUC" text="Boltons vs The Westerlands" />
+		<string id="ROTbPRjsaFOa" text="The Reach vs The Riverlands" />
+		<string id="ROTxp4C7g8wh" text="The Reach vs The North" />
+		<string id="ROTat5gNZrhy" text="The Reach vs The Boltons" />
+		<string id="ROT83wHz8jxt" text="Custom Party AI" />
+		<string id="ROTrNe2igWhe" text="Customizes AI to fit the GOT world" />
+		<string id="ROT9Y8C5ijAI" text="Enable or disable custom AI" />
+		<string id="ROThlAqDFa1o" text="Night's Watch" />
+		<string id="ROTTlDXMlMOC" text="Free Folk" />
+	</strings>
+</base>
