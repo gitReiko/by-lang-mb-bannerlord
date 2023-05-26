@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You can add new or override old items(weapons and armors) by adding nodes to this xml.
+For examples please refer to: SandBoxCore/ModuleData/spitems/arm_armors.xml.-->
+
+<Items>
+
+  <Item id="dragon_black" name="{=ROTReiko001}Drogon" mesh="dragon_body2" weight="1000" ></Item>
+  <Item id="dragon_brown" name="{=ROTReiko002}Rhaegal" mesh="dragon_body3" weight="1000" ></Item>
+  <Item id="dragon_gold" name="{=ROTReiko003}Gold Dragon" mesh="dragon_body4" weight="1000" ></Item>
+  <Item id="dragon_green" name="{=ROTReiko004}Viserion" mesh="dragon_body5" weight="1000" ></Item>
+  <Item id="dragon_black2" name="{=ROTReiko005}Flying Drogon" mesh="dragon_body2" weight="1000" ></Item>
+  <Item id="dragon_brown2" name="{=ROTReiko006}Flying Rhaegal" mesh="dragon_body3" weight="1000" ></Item>
+  <Item id="dragon_gold2" name="{=ROTReiko007}Flying Gold Dragon" mesh="dragon_body4" weight="1000" ></Item>
+  <Item id="dragon_green2" name="{=ROTReiko008}Flying Viserion" mesh="dragon_body5" weight="1000" ></Item>
+  <Item id="dragon_thumbnail" name="{=ROTReiko009}Dragon" mesh="dragon_body2" weight="1" ></Item>
+
+</Items>
