@@ -2,21 +2,29 @@
 <Module>
 	<Name value = "Belarusian Realm of Thrones"/>
 	<Id value = "Belarusian Realm of Thrones"/>
-	<Version value = "v1.1.4"/>
+	<Version value = "v1.1.0"/>
 	<DefaultModule value="true"/>
 	<SingleplayerModule value="true"/>
 	<MultiplayerModule value="false"/>
 	<Author value="Denis Makouski (Reiko17)" />
   	<Official value="false" />
 	<DependedModules>
-		<DependedModule Id="Native" DependentVersion="v1.1.4"/>
-		<DependedModule Id="SandBoxCore" DependentVersion="v1.1.4"/>
-		<DependedModule Id="Sandbox" DependentVersion="v1.1.4"/>
-		<DependedModule Id="StoryMode" DependentVersion="v1.1.4"/>
-		<DependedModule Id="Belarusian Core" DependentVersion="v1.1.4"/>
+		<DependedModule Id="Native" DependentVersion="v1.1.0"/>
+		<DependedModule Id="SandBoxCore" DependentVersion="v1.1.0"/>
+		<DependedModule Id="Sandbox" DependentVersion="v1.1.0"/>
+		<DependedModule Id="StoryMode" DependentVersion="v1.1.0"/>
+		<DependedModule Id="Belarusian Core" DependentVersion="v1.1.0"/>
 	</DependedModules>
 	<SubModules/>
 	<Xmls>
+
+		<XmlNode>
+			<XmlName id="GameText" path="rot_content_module_strings_xlst"/>
+		</XmlNode>
+
+		<XmlNode>
+			<XmlName id="GameText" path="rot_content_module_strings_xml"/>
+		</XmlNode>
 
 		<XmlNode>
 			<XmlName id="Items" path="rot_dragon_items"/>
