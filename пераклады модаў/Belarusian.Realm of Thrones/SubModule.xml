@@ -53,6 +53,14 @@
 				<GameType value = "EditorGame"/>
 			</IncludedGameTypes>
 		</XmlNode>
+
+		<XmlNode>                
+			<XmlName id="NPCCharacters" path="rot_trader_units"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+			</IncludedGameTypes>
+		</XmlNode>
 		
 	</Xmls>
 </Module>
