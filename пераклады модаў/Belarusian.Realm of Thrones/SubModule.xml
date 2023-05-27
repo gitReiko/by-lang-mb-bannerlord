@@ -17,12 +17,24 @@
 	</DependedModules>
 	<SubModules/>
 	<Xmls>
+
 		<XmlNode>
-			<XmlName id="Items" path="items"/>
+			<XmlName id="Items" path="rot_dragon_items"/>
 			<IncludedGameTypes>
 				<GameType value="Campaign"/>
 				<GameType value="CampaignStoryMode"/>
 			</IncludedGameTypes>
 		</XmlNode>
+
+		<XmlNode>
+			<XmlName id="Factions" path="rot_content_clans"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+				<GameType value = "CustomGame"/>
+				<GameType value = "EditorGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		
 	</Xmls>
 </Module>
