@@ -55,6 +55,14 @@
 		</XmlNode>
 
 		<XmlNode>                
+			<XmlName id="NPCCharacters" path="rot_lords"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+			</IncludedGameTypes>
+		</XmlNode>
+
+		<XmlNode>                
 			<XmlName id="NPCCharacters" path="rot_trader_units"/>
 			<IncludedGameTypes>
 				<GameType value = "Campaign"/>

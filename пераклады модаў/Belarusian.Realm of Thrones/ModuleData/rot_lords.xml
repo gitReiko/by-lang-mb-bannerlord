@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+
+  	<!-- From ROT-Content/ROT_lords.xml file !!! -->
+
+    <NPCCharacter id="ROTuniqueleader_spc_brotherhood_2" 
+                name="{=ROTReikoLord0001}Anguy" 
+                voice="softspoken"  
+                is_template="true" 
+                default_group="Ranged" 
+                is_hero="false" 
+                culture="Culture.river" 
+                occupation="Lord">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTuniqueleader_spc_wild_hares_0" 
+                name="Benfred Tallhart" 
+                voice="ironic" age="32" 
+                is_template="true" 
+                default_group="Cavalry" 
+                is_hero="false" 
+                culture="Culture.battania" 
+                occupation="Lord">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTuniqueleader_spc_brotherhood_0" 
+                name="Beric Dondarrion" 
+                voice="softspoken" 
+                age="35" 
+                is_template="true" 
+                default_group="Cavalry" 
+                is_hero="false" 
+                culture="Culture.stormlands" 
+                occupation="Lord">
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_3_21"
+                name="{=ROT00655}Cletus Yronwood"
+                age="24"
+                voice="earnest"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.aserai"
+                occupation="Lord"
+                face_mesh_cache="true">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTuniqueleader_spc_stone_crows_0" 
+            name="Dolf" 
+            voice="curt" 
+            age="36" 
+            is_template="true" 
+            default_group="Infantry" 
+            is_hero="false" 
+            culture="Culture.vale" 
+            occupation="Lord">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTuniqueleader_spc_bright_banners_0" 
+                name="Grazdan zo Moqar" 
+                voice="ironic" 
+                age="36" 
+                is_template="true" 
+                default_group="Cavalry" 
+                is_hero="false" 
+                culture="Culture.ghiscari" 
+                occupation="Lord">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTuniqueleader_spc_long_lances_0" 
+                name="Gylo Rhegan" 
+                voice="softspoken" 
+                age="39" 
+                is_template="true" 
+                default_group="Cavalry" 
+                is_hero="false" 
+                culture="Culture.empire" 
+                occupation="Lord">
+    </NPCCharacter>
+    
+    <NPCCharacter id="ROTuniqueleader_spc_golden_company_0" 
+                name="Harry Strickland" 
+                voice="curt" 
+                age="36" 
+                is_template="true" 
+                default_group="Cavalry" 
+                is_hero="false" 
+                culture="Culture.stormlands" 
+                occupation="Lord">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTuniqueleader_spc_faith_militant_0" 
+                name="High Sparrow" 
+                voice="softspoken" 
+                age="60" 
+                is_template="true" 
+                default_group="Infantry" 
+                is_hero="false" 
+                culture="Culture.crownlands" 
+                occupation="Lord">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTuniqueleader_spc_faith_militant_1" 
+                name="Septa Unella" 
+                voice="softspoken"  
+                is_template="true" 
+                is_female="true" 
+                default_group="Infantry" 
+                is_hero="false" 
+                culture="Culture.crownlands" 
+                occupation="Lord">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTuniqueleader_spc_windblown_0" 
+                name="Tattered Prince" 
+                voice="earnest" 
+                age="36" 
+                is_template="true" 
+                default_group="Cavalry" 
+                is_hero="false" 
+                culture="Culture.pentoshi" 
+                occupation="Lord">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTuniqueleader_spc_brotherhood_1" 
+                name="Thoros of Myr" 
+                voice="softspoken"  
+                is_template="true" 
+                default_group="Cavalry" 
+                is_hero="false" 
+                culture="Culture.myrish" 
+                occupation="Lord">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTuniqueleader_spc_moon_brothers_0" 
+                name="Ulf" 
+                voice="ironic" 
+                age="46" 
+                is_template="true" 
+                default_group="Infantry" 
+                is_hero="false" 
+                culture="Culture.vale" 
+                occupation="Lord">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTuniqueleader_spc_brave_companions_0" 
+                name="Vargo Hoat" 
+                voice="curt" 
+                age="36" 
+                is_template="true" 
+                default_group="Infantry" 
+                is_hero="false" 
+                culture="Culture.qohorik"
+                occupation="Lord">
+    </NPCCharacter>
+
+    <!-- From ROT-Content/spspecialcharacters_ROTcustomwanderers.xml file !!! -->
+
+    <NPCCharacter id="ROTwanderer39" 
+            name="Aurane Waters" 
+            age="30" voice="curt" 
+            is_female="false" 
+            culture="Culture.dragonstone"  
+            default_group="Infantry" 
+            is_template="true" 
+            is_hero="false" 
+            occupation="Wanderer">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTwanderer38" 
+                name="Benjen Stark" 
+                age="31" 
+                voice="curt" 
+                is_female="false" 
+                culture="Culture.nightswatch"  
+                default_group="Infantry" 
+                is_template="true" 
+                is_hero="false" 
+                occupation="Wanderer">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTwanderer9" 
+                name="Brienne of Tarth" 
+                age="28" 
+                voice="curt" 
+                is_female="true" 
+                culture="Culture.stormlands"  
+                default_group="Cavalry" 
+                is_template="true" 
+                is_hero="false" 
+                occupation="Wanderer">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTwanderer4" 
+                name="Bronn of the Blackwater" 
+                age="37" 
+                voice="curt" 
+                is_female="false" 
+                culture="Culture.river"  
+                default_group="Cavalry" 
+                is_template="true" 
+                is_hero="false" 
+                occupation="Wanderer">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTwanderer37" 
+                name="Cregan Whytcross" 
+                age="22" 
+                voice="curt" 
+                is_female="false" 
+                culture="Culture.battania"  
+                default_group="Infantry" 
+                is_template="true" 
+                is_hero="false" 
+                occupation="Wanderer">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTwanderer41" 
+                name="Daemon Blackfyre" 
+                age="24" 
+                voice="curt" 
+                is_female="false" 
+                culture="Culture.valyrian"  
+                default_group="Infantry" 
+                is_template="true" 
+                is_hero="false" 
+                occupation="Wanderer">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTwanderer42" 
+                name="Daemon Sand" 
+                age="25" 
+                voice="curt" 
+                is_female="false" 
+                culture="Culture.aserai"  
+                default_group="Infantry" 
+                is_template="true" 
+                is_hero="false" 
+                occupation="Wanderer">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTwanderer29" 
+                name="Dick Crabb" 
+                age="48" 
+                voice="earnest"  
+                culture="Culture.river"  
+                default_group="Infantry" 
+                is_template="true" 
+                is_hero="false" 
+                occupation="Wanderer">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTwanderer36" 
+                name="Felix Reverdin the Hammer" 
+                age="28" 
+                voice="curt" 
+                is_female="false" 
+                culture="Culture.crownlands"  
+                default_group="Infantry" 
+                is_template="true" 
+                is_hero="false" 
+                occupation="Wanderer">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTwanderer7" 
+                name="Gendry" 
+                age="21" 
+                voice="curt" 
+                culture="Culture.stormlands"  
+                default_group="Infantry" 
+                is_template="true" 
+                is_hero="false" 
+                occupation="Wanderer">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTwanderer22" 
+                name="Hizdahr zo Loraq" 
+                age="33" 
+                voice="earnest"  
+                culture="Culture.ghiscari"  
+                default_group="Ranged" 
+                is_template="true" 
+                is_hero="false" 
+                occupation="Wanderer">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTwanderer14" 
+                name="Hodor" 
+                age="28" 
+                voice="softspoken" 
+                culture="Culture.battania"  
+                default_group="Infantry" 
+                is_template="true" 
+                is_hero="false" 
+                occupation="Wanderer">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTwanderer25" 
+                name="Jacelyn Bywaters" 
+                age="33" voice="earnest"  
+                culture="Culture.vlandia"  
+                default_group="Infantry" 
+                is_template="true" 
+                is_hero="false" 
+                occupation="Wanderer">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTwanderer1" 
+                name="Jaime Lannister" 
+                age="38" 
+                voice="earnest" 
+                culture="Culture.vlandia"  
+                default_group="Cavalry" 
+                is_template="true" 
+                is_hero="false" 
+                occupation="Wanderer">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTwanderer10" 
+                name="Jaquin Hagar" 
+                age="33" 
+                voice="curt" 
+                is_female="false" 
+                culture="Culture.empire"  
+                default_group="Infantry" 
+                is_template="true" 
+                is_hero="false" 
+                occupation="Wanderer">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTwanderer17" 
+                name="Kinvara the Red Priestess" 
+                age="27" 
+                voice="earnest" 
+                is_female="true" 
+                culture="Culture.volantine" 
+                default_group="Ranged" 
+                is_template="true" 
+                is_hero="false" 
+                occupation="Wanderer">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTwanderer23" 
+                name="Locke" 
+                age="34" 
+                voice="earnest"  
+                culture="Culture.bolton"  
+                default_group="Cavalry" 
+                is_template="true" 
+                is_hero="false" 
+                occupation="Wanderer">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTwanderer27" 
+                name="Lord Peter Baelish" 
+                age="36" 
+                voice="earnest"  
+                culture="Culture.crownlands"  
+                default_group="Ranged" 
+                is_template="true" 
+                is_hero="false" 
+                occupation="Wanderer">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTwanderer2" 
+                name="Lord Varys" 
+                age="36" 
+                voice="softspoken" 
+                culture="Culture.crownlands"  
+                default_group="Ranged" 
+                is_template="true" 
+                is_hero="false" 
+                occupation="Wanderer">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTwanderer24" 
+                name="Maester Cressen" 
+                age="48" 
+                voice="earnest"  
+                culture="Culture.dragonstone"  
+                default_group="Ranged" 
+                is_template="true" 
+                is_hero="false" 
+                occupation="Wanderer">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTwanderer11" 
+                name="Mya Stone" 
+                age="21" 
+                voice="curt" 
+                is_female="true" 
+                culture="Culture.vale"  
+                default_group="Cavalry" 
+                is_template="true" 
+                is_hero="false" 
+                occupation="Wanderer">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTwanderer21" 
+                name="Myranda" 
+                age="24" 
+                voice="earnest" 
+                is_female="true" 
+                culture="Culture.bolton"  
+                default_group="Ranged" 
+                is_template="true" 
+                is_hero="false" 
+                occupation="Wanderer">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTwanderer34" 
+                name="Nina Vernier" 
+                age="21" 
+                voice="curt" 
+                is_female="true" 
+                culture="Culture.valyrian"  
+                default_group="Cavalry" 
+                is_template="true" 
+                is_hero="false" 
+                occupation="Wanderer">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTwanderer18" 
+                name="Osha" 
+                age="26" 
+                voice="earnest" 
+                is_female="true" 
+                culture="Culture.freefolk"  
+                default_group="Infantry" 
+                is_template="true" 
+                is_hero="false" 
+                occupation="Wanderer">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTwanderer6" 
+                name="Podrick Payne" 
+                age="22" 
+                voice="ironic" 
+                culture="Culture.vlandia"  
+                default_group="Infantry" 
+                is_template="true" 
+                is_hero="false" 
+                occupation="Wanderer">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTwanderer26" 
+                name="Quentyn Martell" 
+                age="28" 
+                voice="earnest"  
+                culture="Culture.aserai"  
+                default_group="Infantry" 
+                is_template="true" 
+                is_hero="false" 
+                occupation="Wanderer">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTwanderer12" 
+                name="Qyburn" 
+                age="44" 
+                voice="earnest" 
+                is_female="false" 
+                culture="Culture.river"  
+                default_group="Infantry" 
+                is_template="true" 
+                is_hero="false" 
+                occupation="Wanderer">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTwanderer15" 
+                name="Rago the Bloodrider" 
+                age="28" 
+                voice="curt" 
+                culture="Culture.khuzait"  
+                default_group="Cavalry" 
+                is_template="true" 
+                is_hero="false" 
+                occupation="Wanderer">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTwanderer5" 
+            name="Samwell Tarly" 
+            age="24" 
+            voice="softspoken" 
+            culture="Culture.reach"  
+            default_group="Ranged" 
+            is_template="true" 
+            is_hero="false" 
+            occupation="Wanderer">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTwanderer3" 
+                name="Sandor Clegane" 
+                age="35" 
+                voice="curt" 
+                is_female="false" 
+                culture="Culture.vlandia"  
+                default_group="Infantry" 
+                is_template="true" 
+                is_hero="false" 
+                occupation="Wanderer">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTwanderer35" 
+                name="Sandra the Great" 
+                age="25" 
+                voice="curt" 
+                is_female="true" 
+                culture="Culture.aserai"  
+                default_group="Infantry" 
+                is_template="true" 
+                is_hero="false" 
+                occupation="Wanderer">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTwanderer31" 
+                name="Ser Benfry the Lucky" 
+                age="30" 
+                voice="earnest"  
+                culture="Culture.vlandia"  
+                default_group="Cavalry" 
+                is_template="true" 
+                is_hero="false" 
+                occupation="Wanderer">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTwanderer32" 
+                name="Ser Garlan the Gallant"  
+                age="30" 
+                voice="earnest"   
+                culture="Culture.reach"  
+                default_group="Cavalry" 
+                is_template="true" 
+                is_hero="false" 
+                occupation="Wanderer">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTwanderer19" 
+                name="Shagga son of Dolf" 
+                age="43" 
+                voice="earnest"  
+                culture="Culture.vale"  
+                default_group="Infantry" 
+                is_template="true" 
+                is_hero="false" 
+                occupation="Wanderer">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTwanderer43" 
+                name="Slavanis the Bow Maiden" 
+                age="24" 
+                voice="curt" 
+                is_female="true" 
+                culture="Culture.reach"  
+                default_group="Ranged" 
+                is_template="true" 
+                is_hero="false" 
+                occupation="Wanderer">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTwanderer13" 
+                name="Syrio Forel" 
+                age="38" 
+                voice="curt" 
+                culture="Culture.empire"  
+                default_group="Infantry" 
+                is_template="true" 
+                is_hero="false" 
+                occupation="Wanderer">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTwanderer20" 
+                name="Theon Greyjoy" 
+                age="26" 
+                voice="earnest"  
+                culture="Culture.sturgia"  
+                default_group="Infantry" 
+                is_template="true" 
+                is_hero="false" 
+                occupation="Wanderer">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTwanderer8" 
+                name="Tyrion Lannister" 
+                age="36" 
+                voice="ironic" 
+                culture="Culture.vlandia"  
+                default_group="Ranged" 
+                is_template="true" 
+                is_hero="false" 
+                occupation="Wanderer">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTwanderer44" 
+                name="Verina" 
+                age="24" 
+                voice="curt" 
+                is_female="true" 
+                culture="Culture.valyrian"  
+                default_group="Infantry" 
+                is_template="true" 
+                is_hero="false" 
+                occupation="Wanderer">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTwanderer30" 
+                name="Willem Lannister" 
+                age="24" 
+                voice="earnest"  
+                culture="Culture.vlandia"  
+                default_group="Cavalry" 
+                is_template="true" 
+                is_hero="false" 
+                occupation="Wanderer">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTwanderer33" 
+                name="Wun Wun"  
+                age="40" 
+                voice="earnest" 
+                race="giant" 
+                culture="Culture.freefolk"  
+                default_group="Infantry" 
+                is_template="true" 
+                is_hero="false" 
+                occupation="Wanderer">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTwanderer16" 
+                name="Xaro Xhoan Daxos" 
+                age="36" 
+                voice="earnest" 
+                culture="Culture.empire"  
+                default_group="Ranged" 
+                is_template="true" 
+                is_hero="false" 
+                occupation="Wanderer">
+    </NPCCharacter>
+
+    <NPCCharacter id="ROTwanderer28" 
+                name="Yoren" 
+                age="43" 
+                voice="earnest"  
+                culture="Culture.nightswatch"  
+                default_group="Infantry" 
+                is_template="true" 
+                is_hero="false" 
+                occupation="Wanderer">
+    </NPCCharacter>
+  
+</NPCCharacters>
