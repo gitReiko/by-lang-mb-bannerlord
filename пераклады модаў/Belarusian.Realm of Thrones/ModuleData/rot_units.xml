@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <NPCCharacters>
 
-  	<!-- From ROT-Content/notablesROT.xml file !!! -->
+  	<!-- From ROT-Content/bandits.xlst file !!! -->
 
 	<NPCCharacter id="looter" 
 				default_group="Infantry" 
@@ -11,6 +11,111 @@
 				culture="Culture.looters">
 	</NPCCharacter>
 
+	<NPCCharacter id="steppe_bandits_chief" 
+				default_group="HorseArcher" 
+				name="{=ROTReikoUnit002}Dothraki Ambusher"  
+				level="21" 
+				occupation="Bandit" 
+				culture="Culture.steppe_bandits">
+	</NPCCharacter>
 
+	<NPCCharacter id="steppe_bandits_raider" 
+				default_group="HorseArcher" 
+				name="{=ROTReikoUnit003}Dothraki Pillager" 
+				level="16" 
+				occupation="Bandit" 
+				culture="Culture.steppe_bandits">
+	</NPCCharacter>
+
+	<NPCCharacter id="sea_raiders_boss" 
+			default_group="Infantry" 
+			name="{=ROTReikoUnit004}Marauder" 
+			level="26" 
+			occupation="Bandit" 
+			culture="Culture.sea_raiders">
+	</NPCCharacter>
+
+	<NPCCharacter id="sea_raiders_bandit" 
+			default_group="Infantry" 
+			name="{=ROTReikoUnit005}Pirate" 
+			level="11" 
+			occupation="Bandit" 
+			culture="Culture.sea_raiders">
+	</NPCCharacter>
+
+	<NPCCharacter id="sea_raiders_raider" 
+				default_group="Infantry" 
+				name="{=ROTReikoUnit006}Ravager" 
+				level="16" 
+				occupation="Bandit" 
+				culture="Culture.sea_raiders">
+	</NPCCharacter>
+
+	<NPCCharacter id="sea_raiders_chief" 
+				default_group="Infantry" 
+				name="{=ROTReikoUnit007}Reaver" 
+				level="21" 
+				occupation="Bandit" 
+				culture="Culture.sea_raiders">
+	</NPCCharacter>
+
+	<NPCCharacter id="steppe_bandits_bandit" 
+				default_group="Cavalry" 
+				name="{=ROTReikoUnit008}Rogue Dothraki" 
+				level="11" 
+				occupation="Bandit" 
+				culture="Culture.steppe_bandits">
+	</NPCCharacter>
+
+	<NPCCharacter id="steppe_bandits_boss" 
+				default_group="HorseArcher" 
+				name="{=ROTReikoUnit009}Steppe Bandit Boss"  
+				level="26" 
+				occupation="Bandit" 
+				culture="Culture.steppe_bandits">
+	</NPCCharacter>
+
+	<!-- From ROT-Content/ROT-Troops.xlst file !!! -->
+
+	<NPCCharacter id="fearsome_wight" 
+				default_group="Infantry" 
+				name="{=ROTReikoUnit010}Fearsome Wight" 
+				level="16" 
+				occupation="Bandit" 
+				culture="Culture.wights">
+	</NPCCharacter>
+
+	<NPCCharacter id="ferocious_wight" 
+				default_group="Infantry" 
+				name="{=ROTReikoUnit011}Ferocious Wight" 
+				level="21" 
+				occupation="Bandit" 
+				culture="Culture.wights">
+	</NPCCharacter>
+
+	<NPCCharacter id="night_king" 
+				default_group="Infantry" 
+				name="{=ROTReikoUnit012}Night King" 
+				level="99" 
+				occupation="Bandit" 
+				culture="Culture.wights">
+	</NPCCharacter>
+
+	<NPCCharacter id="wight" 
+				default_group="Infantry" 
+				name="{=ROTReikoUnit013}Wight" 
+				level="11" 
+				occupation="Bandit" 
+				culture="Culture.wights">
+	</NPCCharacter>
+
+	<NPCCharacter id="mormont_woodswoman"
+                default_group="Infantry"
+                level="11"
+                name="{=ROTReikoUnit014}House Mormont Woodswoman"
+			    is_female="true"
+                occupation="Soldier"
+                culture="Culture.battania">
+	</NPCCharacter>
   
 </NPCCharacters>
