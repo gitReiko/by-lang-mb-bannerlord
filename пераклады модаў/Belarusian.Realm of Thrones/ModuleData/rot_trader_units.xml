@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <NPCCharacters>
 
-  <!-- CARAVAN MASTER ############################################################################################ -->
-  <NPCCharacter id="caravan_master_freefolk"
+  	<!-- From ROT-Content/notablesROT.xml file !!! -->
+  
+  	<NPCCharacter id="caravan_master_freefolk"
                 default_group="Infantry"
                 level="26"
                 name="{=ROTReikoTrader001}Freefolk Caravan Master"
@@ -10,8 +11,8 @@
                 culture="Culture.freefolk"
                 skill_template="SkillSet.infantry_heavyinfantry_level26_template_skills">
     </NPCCharacter>
-  <!-- ARMED TRADER ############################################################################################ -->
-  <NPCCharacter id="armed_trader_freefolk"
+
+	<NPCCharacter id="armed_trader_freefolk"
                 default_group="Ranged"
                 level="16"
                 name="{=ROTReikoTrader002}Freefolk Armed Trader"
@@ -20,8 +21,8 @@
                 is_basic_troop="true"
                 skill_template="SkillSet.ranged_skirmisher_level6_template_skills">
     </NPCCharacter>
-  <!-- CARAVAN GUARD ############################################################################################ -->
-  <NPCCharacter id="caravan_guard_freefolk"
+
+	<NPCCharacter id="caravan_guard_freefolk"
                 default_group="Cavalry"
                 level="21"
                 name="{=ROTReikoTrader003}Freefolk Caravan Guard"
@@ -30,7 +31,7 @@
                 culture="Culture.freefolk"
                 skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills">
   </NPCCharacter>
-  <!-- VER CARAVAN GUARD ############################################################################################ -->
+
   <NPCCharacter id="veteran_caravan_guard_freefolk"
                 default_group="Cavalry"
                 level="26"
@@ -40,10 +41,8 @@
                 culture="Culture.freefolk"
                 skill_template="SkillSet.cavalry_lightcavalry_heavycavalry_level26_template_skills">
   </NPCCharacter>
-
-
-	<!-- CARAVAN MASTER ############################################################################################ -->
-	<NPCCharacter id="caravan_master_nightswatch"
+  
+  <NPCCharacter id="caravan_master_nightswatch"
 				  default_group="Infantry"
 				  level="26"
 				  name="{=ROTReikoTrader005}Night's Watch Caravan Master"
@@ -51,7 +50,7 @@
 				  culture="Culture.nightswatch"
 				  skill_template="SkillSet.infantry_heavyinfantry_level26_template_skills">
 	</NPCCharacter>
-	<!-- ARMED TRADER ############################################################################################ -->
+	
 	<NPCCharacter id="armed_trader_nightswatch"
 				  default_group="Ranged"
 				  level="16"
@@ -61,7 +60,7 @@
 				  is_basic_troop="true"
 				  skill_template="SkillSet.ranged_skirmisher_level6_template_skills">
 	</NPCCharacter>
-	<!-- CARAVAN GUARD ############################################################################################ -->
+	
 	<NPCCharacter id="caravan_guard_nightswatch"
 				  default_group="Cavalry"
 				  level="21"
@@ -71,7 +70,7 @@
 				  culture="Culture.nightswatch"
 				  skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills">
 	</NPCCharacter>
-	<!-- VER CARAVAN GUARD ############################################################################################ -->
+	
 	<NPCCharacter id="veteran_caravan_guard_nightswatch"
 				  default_group="Cavalry"
 				  level="26"
@@ -82,7 +81,7 @@
 				  skill_template="SkillSet.cavalry_lightcavalry_heavycavalry_level26_template_skills">
 	</NPCCharacter>
 
-	<!-- CARAVAN MASTER ############################################################################################ -->
+	
 	<NPCCharacter id="caravan_master_vale"
 				  default_group="Infantry"
 				  level="26"
@@ -91,7 +90,7 @@
 				  culture="Culture.vale"
 				  skill_template="SkillSet.infantry_heavyinfantry_level26_template_skills">
 	</NPCCharacter>
-	<!-- ARMED TRADER ############################################################################################ -->
+	
 	<NPCCharacter id="armed_trader_vale"
 				  default_group="Ranged"
 				  level="16"
@@ -101,7 +100,7 @@
 				  is_basic_troop="true"
 				  skill_template="SkillSet.ranged_skirmisher_level6_template_skills">
 	</NPCCharacter>
-	<!-- CARAVAN GUARD ############################################################################################ -->
+	
 	<NPCCharacter id="caravan_guard_vale"
 				  default_group="Cavalry"
 				  level="21"
@@ -111,7 +110,7 @@
 				  culture="Culture.vale"
 				  skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills">
 	</NPCCharacter>
-	<!-- VER CARAVAN GUARD ############################################################################################ -->
+	
 	<NPCCharacter id="veteran_caravan_guard_vale"
 				  default_group="Cavalry"
 				  level="26"
@@ -122,7 +121,7 @@
 				  skill_template="SkillSet.cavalry_lightcavalry_heavycavalry_level26_template_skills">
 	</NPCCharacter>
 
-	<!-- CARAVAN MASTER ############################################################################################ -->
+	
 	<NPCCharacter id="caravan_master_river"
 				  default_group="Infantry"
 				  level="26"
@@ -131,7 +130,7 @@
 				  culture="Culture.river"
 				  skill_template="SkillSet.infantry_heavyinfantry_level26_template_skills">
 	</NPCCharacter>
-	<!-- ARMED TRADER ############################################################################################ -->
+	
 	<NPCCharacter id="armed_trader_river"
 				  default_group="Ranged"
 				  level="16"
@@ -141,7 +140,7 @@
 				  is_basic_troop="true"
 				  skill_template="SkillSet.ranged_skirmisher_level6_template_skills">
 	</NPCCharacter>
-	<!-- CARAVAN GUARD ############################################################################################ -->
+	
 	<NPCCharacter id="caravan_guard_river"
 				  default_group="Cavalry"
 				  level="21"
@@ -151,7 +150,7 @@
 				  culture="Culture.river"
 				  skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills">
 	</NPCCharacter>
-	<!-- VER CARAVAN GUARD ############################################################################################ -->
+	
 	<NPCCharacter id="veteran_caravan_guard_river"
 				  default_group="Cavalry"
 				  level="26"
@@ -164,7 +163,7 @@
 
   
 
-	<!-- CARAVAN MASTER ############################################################################################ -->
+	
 	<NPCCharacter id="caravan_master_dragonstone"
 				  default_group="Infantry"
 				  level="26"
@@ -173,7 +172,7 @@
 				  culture="Culture.dragonstone"
 				  skill_template="SkillSet.infantry_heavyinfantry_level26_template_skills">
 	</NPCCharacter>
-	<!-- ARMED TRADER ############################################################################################ -->
+	
 	<NPCCharacter id="armed_trader_dragonstone"
 				  default_group="Ranged"
 				  level="16"
@@ -183,7 +182,7 @@
 				  is_basic_troop="true"
 				  skill_template="SkillSet.ranged_skirmisher_level6_template_skills">
 	</NPCCharacter>
-	<!-- CARAVAN GUARD ############################################################################################ -->
+	
 	<NPCCharacter id="caravan_guard_dragonstone"
 				  default_group="Cavalry"
 				  level="21"
@@ -193,7 +192,7 @@
 				  culture="Culture.dragonstone"
 				  skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills">
 	</NPCCharacter>
-	<!-- VER CARAVAN GUARD ############################################################################################ -->
+	
 	<NPCCharacter id="veteran_caravan_guard_dragonstone"
 				  default_group="Cavalry"
 				  level="26"
@@ -206,7 +205,7 @@
 
   
 
-	<!-- CARAVAN MASTER ############################################################################################ -->
+	
 	<NPCCharacter id="caravan_master_stormlands"
 				  default_group="Infantry"
 				  level="26"
@@ -215,7 +214,7 @@
 				  culture="Culture.stormlands"
 				  skill_template="SkillSet.infantry_heavyinfantry_level26_template_skills">
 	</NPCCharacter>
-	<!-- ARMED TRADER ############################################################################################ -->
+	
 	<NPCCharacter id="armed_trader_stormlands"
 				  default_group="Ranged"
 				  level="16"
@@ -225,7 +224,7 @@
 				  is_basic_troop="true"
 				  skill_template="SkillSet.ranged_skirmisher_level6_template_skills">
 	</NPCCharacter>
-	<!-- CARAVAN GUARD ############################################################################################ -->
+	
 	<NPCCharacter id="caravan_guard_stormlands"
 				  default_group="Cavalry"
 				  level="21"
@@ -235,7 +234,7 @@
 				  culture="Culture.stormlands"
 				  skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills">
 	</NPCCharacter>
-	<!-- VER CARAVAN GUARD ############################################################################################ -->
+	
 	<NPCCharacter id="veteran_caravan_guard_stormlands"
 				  default_group="Cavalry"
 				  level="26"
@@ -248,7 +247,7 @@
 
   
 
-	<!-- CARAVAN MASTER ############################################################################################ -->
+	
 	<NPCCharacter id="caravan_master_reach"
 				  default_group="Infantry"
 				  level="26"
@@ -257,7 +256,7 @@
 				  culture="Culture.reach"
 				  skill_template="SkillSet.infantry_heavyinfantry_level26_template_skills">
 	</NPCCharacter>
-	<!-- ARMED TRADER ############################################################################################ -->
+	
 	<NPCCharacter id="armed_trader_reach"
 				  default_group="Ranged"
 				  level="16"
@@ -267,7 +266,7 @@
 				  is_basic_troop="true"
 				  skill_template="SkillSet.ranged_skirmisher_level6_template_skills">
 	</NPCCharacter>
-	<!-- CARAVAN GUARD ############################################################################################ -->
+	
 	<NPCCharacter id="caravan_guard_reach"
 				  default_group="Cavalry"
 				  level="21"
@@ -277,7 +276,7 @@
 				  culture="Culture.reach"
 				  skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills">
 	</NPCCharacter>
-	<!-- VER CARAVAN GUARD ############################################################################################ -->
+	
 	<NPCCharacter id="veteran_caravan_guard_reach"
 				  default_group="Cavalry"
 				  level="26"
@@ -291,7 +290,7 @@
 
   
 
-	<!-- CARAVAN MASTER ############################################################################################ -->
+	
 	<NPCCharacter id="caravan_master_ghiscari"
 				  default_group="Infantry"
 				  level="26"
@@ -300,7 +299,7 @@
 				  culture="Culture.ghiscari"
 				  skill_template="SkillSet.infantry_heavyinfantry_level26_template_skills">
 	</NPCCharacter>
-	<!-- ARMED TRADER ############################################################################################ -->
+	
 	<NPCCharacter id="armed_trader_ghiscari"
 				  default_group="Ranged"
 				  level="16"
@@ -310,7 +309,7 @@
 				  is_basic_troop="true"
 				  skill_template="SkillSet.ranged_skirmisher_level6_template_skills">
 	</NPCCharacter>
-	<!-- CARAVAN GUARD ############################################################################################ -->
+	
 	<NPCCharacter id="caravan_guard_ghiscari"
 				  default_group="Cavalry"
 				  level="21"
@@ -320,7 +319,7 @@
 				  culture="Culture.ghiscari"
 				  skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills">
 	</NPCCharacter>
-	<!-- VER CARAVAN GUARD ############################################################################################ -->
+	
 	<NPCCharacter id="veteran_caravan_guard_ghiscari"
 				  default_group="Cavalry"
 				  level="26"
@@ -331,9 +330,6 @@
 				  skill_template="SkillSet.cavalry_lightcavalry_heavycavalry_level26_template_skills">
 	</NPCCharacter>
 
-
-
-	<!-- CARAVAN MASTER ############################################################################################ -->
 	<NPCCharacter id="caravan_master_freehouses"
 				  default_group="Infantry"
 				  level="26"
@@ -342,7 +338,7 @@
 				  culture="Culture.bolton"
 				  skill_template="SkillSet.infantry_heavyinfantry_level26_template_skills">
 	</NPCCharacter>
-	<!-- ARMED TRADER ############################################################################################ -->
+	
 	<NPCCharacter id="armed_trader_freehouses"
 				  default_group="Ranged"
 				  level="16"
@@ -352,7 +348,7 @@
 				  is_basic_troop="true"
 				  skill_template="SkillSet.ranged_skirmisher_level6_template_skills">
 	</NPCCharacter>
-	<!-- CARAVAN GUARD ############################################################################################ -->
+	
 	<NPCCharacter id="caravan_guard_freehouses"
 				  default_group="Cavalry"
 				  level="21"
@@ -362,7 +358,7 @@
 				  culture="Culture.bolton"
 				  skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills">
 	</NPCCharacter>
-	<!-- VER CARAVAN GUARD ############################################################################################ -->
+	
 	<NPCCharacter id="veteran_caravan_guard_freehouses"
 				  default_group="Cavalry"
 				  level="26"
@@ -373,8 +369,6 @@
 				  skill_template="SkillSet.cavalry_lightcavalry_heavycavalry_level26_template_skills">
 	</NPCCharacter>
 
-  
-	<!-- CARAVAN MASTER ############################################################################################ -->
 	<NPCCharacter id="caravan_master_crownlands"
 				  default_group="Infantry"
 				  level="26"
@@ -383,7 +377,7 @@
 				  culture="Culture.crownlands"
 				  skill_template="SkillSet.infantry_heavyinfantry_level26_template_skills">
 	</NPCCharacter>
-	<!-- ARMED TRADER ############################################################################################ -->
+	
 	<NPCCharacter id="armed_trader_crownlands"
 				  default_group="Ranged"
 				  level="16"
@@ -393,7 +387,7 @@
 				  is_basic_troop="true"
 				  skill_template="SkillSet.ranged_skirmisher_level6_template_skills">
 	</NPCCharacter>
-	<!-- CARAVAN GUARD ############################################################################################ -->
+	
 	<NPCCharacter id="caravan_guard_crownlands"
 				  default_group="Cavalry"
 				  level="21"
@@ -403,7 +397,7 @@
 				  culture="Culture.crownlands"
 				  skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills">
 	</NPCCharacter>
-	<!-- VER CARAVAN GUARD ############################################################################################ -->
+	
 	<NPCCharacter id="veteran_caravan_guard_crownlands"
 				  default_group="Cavalry"
 				  level="26"
@@ -414,8 +408,6 @@
 				  skill_template="SkillSet.cavalry_lightcavalry_heavycavalry_level26_template_skills">
 	</NPCCharacter>
 
-  
-	<!-- CARAVAN MASTER ############################################################################################ -->
 	<NPCCharacter id="caravan_master_sarnor"
 				  default_group="Infantry"
 				  level="26"
@@ -424,7 +416,7 @@
 				  culture="Culture.sarnor"
 				  skill_template="SkillSet.infantry_heavyinfantry_level26_template_skills">
 	</NPCCharacter>
-	<!-- ARMED TRADER ############################################################################################ -->
+	
 	<NPCCharacter id="armed_trader_sarnor"
 				  default_group="Ranged"
 				  level="16"
@@ -434,7 +426,7 @@
 				  is_basic_troop="true"
 				  skill_template="SkillSet.ranged_skirmisher_level6_template_skills">
 	</NPCCharacter>
-	<!-- CARAVAN GUARD ############################################################################################ -->
+	
 	<NPCCharacter id="caravan_guard_sarnor"
 				  default_group="Cavalry"
 				  level="21"
@@ -444,7 +436,7 @@
 				  culture="Culture.sarnor"
 				  skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills">
 	</NPCCharacter>
-	<!-- VER CARAVAN GUARD ############################################################################################ -->
+	
 	<NPCCharacter id="veteran_caravan_guard_sarnor"
 				  default_group="Cavalry"
 				  level="26"
@@ -455,8 +447,6 @@
 				  skill_template="SkillSet.cavalry_lightcavalry_heavycavalry_level26_template_skills">
 	</NPCCharacter>
 
-  
-	<!-- CARAVAN MASTER ############################################################################################ -->
 	<NPCCharacter id="caravan_master_giant"
 				  default_group="Infantry"
 				  level="26"
@@ -465,7 +455,7 @@
 				  culture="Culture.giant"
 				  skill_template="SkillSet.infantry_heavyinfantry_level26_template_skills">
 	</NPCCharacter>
-	<!-- ARMED TRADER ############################################################################################ -->
+	
 	<NPCCharacter id="armed_trader_giant"
 				  default_group="Ranged"
 				  level="16"
@@ -475,7 +465,7 @@
 				  is_basic_troop="true"
 				  skill_template="SkillSet.ranged_skirmisher_level6_template_skills">
 	</NPCCharacter>
-	<!-- CARAVAN GUARD ############################################################################################ -->
+	
 	<NPCCharacter id="caravan_guard_giant"
 				  default_group="Cavalry"
 				  level="21"
@@ -485,7 +475,7 @@
 				  culture="Culture.giant"
 				  skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills">
 	</NPCCharacter>
-	<!-- VER CARAVAN GUARD ############################################################################################ -->
+	
 	<NPCCharacter id="veteran_caravan_guard_giant"
 				  default_group="Cavalry"
 				  level="26"
@@ -495,8 +485,7 @@
 				  culture="Culture.giant"
 				  skill_template="SkillSet.cavalry_lightcavalry_heavycavalry_level26_template_skills">
 	</NPCCharacter>	
-  
-	<!-- CARAVAN MASTER ############################################################################################ -->
+	
 	<NPCCharacter id="caravan_master_norvos"
 				  default_group="Infantry"
 				  level="26"
@@ -505,7 +494,7 @@
 				  culture="Culture.norvos"
 				  skill_template="SkillSet.infantry_heavyinfantry_level26_template_skills">
 	</NPCCharacter>
-	<!-- ARMED TRADER ############################################################################################ -->
+	
 	<NPCCharacter id="armed_trader_norvos"
 				  default_group="Ranged"
 				  level="16"
@@ -515,7 +504,7 @@
 				  is_basic_troop="true"
 				  skill_template="SkillSet.ranged_skirmisher_level6_template_skills">
 	</NPCCharacter>
-	<!-- CARAVAN GUARD ############################################################################################ -->
+	
 	<NPCCharacter id="caravan_guard_norvos"
 				  default_group="Cavalry"
 				  level="21"
@@ -525,7 +514,7 @@
 				  culture="Culture.norvos"
 				  skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills">
 	</NPCCharacter>
-	<!-- VER CARAVAN GUARD ############################################################################################ -->
+	
 	<NPCCharacter id="veteran_caravan_guard_norvos"
 				  default_group="Cavalry"
 				  level="26"
@@ -536,8 +525,6 @@
 				  skill_template="SkillSet.cavalry_lightcavalry_heavycavalry_level26_template_skills">
 	</NPCCharacter>
 
-  
-	<!-- CARAVAN MASTER ############################################################################################ -->
 	<NPCCharacter id="caravan_master_valyrian"
 				  default_group="Infantry"
 				  level="26"
@@ -546,7 +533,7 @@
 				  culture="Culture.valyrian"
 				  skill_template="SkillSet.infantry_heavyinfantry_level26_template_skills">
 	</NPCCharacter>
-	<!-- ARMED TRADER ############################################################################################ -->
+	
 	<NPCCharacter id="armed_trader_valyrian"
 				  default_group="Ranged"
 				  level="16"
@@ -556,7 +543,7 @@
 				  is_basic_troop="true"
 				  skill_template="SkillSet.ranged_skirmisher_level6_template_skills">
 	</NPCCharacter>
-	<!-- CARAVAN GUARD ############################################################################################ -->
+	
 	<NPCCharacter id="caravan_guard_valyrian"
 				  default_group="Cavalry"
 				  level="21"
@@ -566,7 +553,7 @@
 				  culture="Culture.valyrian"
 				  skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills">
 	</NPCCharacter>
-	<!-- VER CARAVAN GUARD ############################################################################################ -->
+	
 	<NPCCharacter id="veteran_caravan_guard_valyrian"
 				  default_group="Cavalry"
 				  level="26"
@@ -577,9 +564,6 @@
 				  skill_template="SkillSet.cavalry_lightcavalry_heavycavalry_level26_template_skills">
 	</NPCCharacter>
 
-
-  
-	<!-- CARAVAN MASTER ############################################################################################ -->
 	<NPCCharacter id="caravan_master_volantine"
 				  default_group="Infantry"
 				  level="26"
@@ -588,7 +572,7 @@
 				  culture="Culture.volantine"
 				  skill_template="SkillSet.infantry_heavyinfantry_level26_template_skills">
 	</NPCCharacter>
-	<!-- ARMED TRADER ############################################################################################ -->
+	
 	<NPCCharacter id="armed_trader_volantine"
 				  default_group="Ranged"
 				  level="16"
@@ -598,7 +582,7 @@
 				  is_basic_troop="true"
 				  skill_template="SkillSet.ranged_skirmisher_level6_template_skills">
 	</NPCCharacter>
-	<!-- CARAVAN GUARD ############################################################################################ -->
+	
 	<NPCCharacter id="caravan_guard_volantine"
 				  default_group="Cavalry"
 				  level="21"
@@ -608,7 +592,7 @@
 				  culture="Culture.volantine"
 				  skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills">
 	</NPCCharacter>
-	<!-- VER CARAVAN GUARD ############################################################################################ -->
+	
 	<NPCCharacter id="veteran_caravan_guard_volantine"
 				  default_group="Cavalry"
 				  level="26"
@@ -619,8 +603,6 @@
 				  skill_template="SkillSet.cavalry_lightcavalry_heavycavalry_level26_template_skills">
 	</NPCCharacter>
 
-  
-	<!-- CARAVAN MASTER ############################################################################################ -->
 	<NPCCharacter id="caravan_master_qohorik"
 				  default_group="Infantry"
 				  level="26"
@@ -629,7 +611,7 @@
 				  culture="Culture.qohorik"
 				  skill_template="SkillSet.infantry_heavyinfantry_level26_template_skills">
 	</NPCCharacter>
-	<!-- ARMED TRADER ############################################################################################ -->
+	
 	<NPCCharacter id="armed_trader_qohorik"
 				  default_group="Ranged"
 				  level="16"
@@ -639,7 +621,7 @@
 				  is_basic_troop="true"
 				  skill_template="SkillSet.ranged_skirmisher_level6_template_skills">
 	</NPCCharacter>
-	<!-- CARAVAN GUARD ############################################################################################ -->
+	
 	<NPCCharacter id="caravan_guard_qohorik"
 				  default_group="Cavalry"
 				  level="21"
@@ -649,7 +631,7 @@
 				  culture="Culture.qohorik"
 				  skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills">
 	</NPCCharacter>
-	<!-- VER CARAVAN GUARD ############################################################################################ -->
+	
 	<NPCCharacter id="veteran_caravan_guard_qohorik"
 				  default_group="Cavalry"
 				  level="26"
@@ -660,8 +642,6 @@
 				  skill_template="SkillSet.cavalry_lightcavalry_heavycavalry_level26_template_skills">
 	</NPCCharacter>
 
-  
-	<!-- CARAVAN MASTER ############################################################################################ -->
 	<NPCCharacter id="caravan_master_lorathi"
 				  default_group="Infantry"
 				  level="26"
@@ -670,7 +650,7 @@
 				  culture="Culture.lorathi"
 				  skill_template="SkillSet.infantry_heavyinfantry_level26_template_skills">
 	</NPCCharacter>
-	<!-- ARMED TRADER ############################################################################################ -->
+	
 	<NPCCharacter id="armed_trader_lorathi"
 				  default_group="Ranged"
 				  level="16"
@@ -680,7 +660,7 @@
 				  is_basic_troop="true"
 				  skill_template="SkillSet.ranged_skirmisher_level6_template_skills">
 	</NPCCharacter>
-	<!-- CARAVAN GUARD ############################################################################################ -->
+	
 	<NPCCharacter id="caravan_guard_lorathi"
 				  default_group="Cavalry"
 				  level="21"
@@ -690,7 +670,7 @@
 				  culture="Culture.lorathi"
 				  skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills">
 	</NPCCharacter>
-	<!-- VER CARAVAN GUARD ############################################################################################ -->
+	
 	<NPCCharacter id="veteran_caravan_guard_lorathi"
 				  default_group="Cavalry"
 				  level="26"
@@ -701,8 +681,6 @@
 				  skill_template="SkillSet.cavalry_lightcavalry_heavycavalry_level26_template_skills">
 	</NPCCharacter>
 
-  
-	<!-- CARAVAN MASTER ############################################################################################ -->
 	<NPCCharacter id="caravan_master_pentoshi"
 				  default_group="Infantry"
 				  level="26"
@@ -711,7 +689,7 @@
 				  culture="Culture.pentoshi"
 				  skill_template="SkillSet.infantry_heavyinfantry_level26_template_skills">
 	</NPCCharacter>
-	<!-- ARMED TRADER ############################################################################################ -->
+	
 	<NPCCharacter id="armed_trader_pentoshi"
 				  default_group="Ranged"
 				  level="16"
@@ -721,7 +699,7 @@
 				  is_basic_troop="true"
 				  skill_template="SkillSet.ranged_skirmisher_level6_template_skills">
 	</NPCCharacter>
-	<!-- CARAVAN GUARD ############################################################################################ -->
+	
 	<NPCCharacter id="caravan_guard_pentoshi"
 				  default_group="Cavalry"
 				  level="21"
@@ -731,7 +709,7 @@
 				  culture="Culture.pentoshi"
 				  skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills">
 	</NPCCharacter>
-	<!-- VER CARAVAN GUARD ############################################################################################ -->
+	
 	<NPCCharacter id="veteran_caravan_guard_pentoshi"
 				  default_group="Cavalry"
 				  level="26"
@@ -742,8 +720,6 @@
 				  skill_template="SkillSet.cavalry_lightcavalry_heavycavalry_level26_template_skills">
 	</NPCCharacter>
 
-  
-	<!-- CARAVAN MASTER ############################################################################################ -->
 	<NPCCharacter id="caravan_master_myrish"
 				  default_group="Infantry"
 				  level="26"
@@ -752,7 +728,7 @@
 				  culture="Culture.myrish"
 				  skill_template="SkillSet.infantry_heavyinfantry_level26_template_skills">
 	</NPCCharacter>
-	<!-- ARMED TRADER ############################################################################################ -->
+	
 	<NPCCharacter id="armed_trader_myrish"
 				  default_group="Ranged"
 				  level="16"
@@ -762,7 +738,7 @@
 				  is_basic_troop="true"
 				  skill_template="SkillSet.ranged_skirmisher_level6_template_skills">
 	</NPCCharacter>
-	<!-- CARAVAN GUARD ############################################################################################ -->
+	
 	<NPCCharacter id="caravan_guard_myrish"
 				  default_group="Cavalry"
 				  level="21"
@@ -772,7 +748,7 @@
 				  culture="Culture.myrish"
 				  skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills">
 	</NPCCharacter>
-	<!-- VER CARAVAN GUARD ############################################################################################ -->
+	
 	<NPCCharacter id="veteran_caravan_guard_myrish"
 				  default_group="Cavalry"
 				  level="26"
@@ -783,8 +759,6 @@
 				  skill_template="SkillSet.cavalry_lightcavalry_heavycavalry_level26_template_skills">
 	</NPCCharacter>
 
-
-	<!-- CARAVAN MASTER ############################################################################################ -->
 	<NPCCharacter id="caravan_master_tyroshi"
 				  default_group="Infantry"
 				  level="26"
@@ -793,7 +767,7 @@
 				  culture="Culture.tyroshi"
 				  skill_template="SkillSet.infantry_heavyinfantry_level26_template_skills">
 	</NPCCharacter>
-	<!-- ARMED TRADER ############################################################################################ -->
+	
 	<NPCCharacter id="armed_trader_tyroshi"
 				  default_group="Ranged"
 				  level="16"
@@ -803,7 +777,7 @@
 				  is_basic_troop="true"
 				  skill_template="SkillSet.ranged_skirmisher_level6_template_skills">
 	</NPCCharacter>
-	<!-- CARAVAN GUARD ############################################################################################ -->
+	
 	<NPCCharacter id="caravan_guard_tyroshi"
 				  default_group="Cavalry"
 				  level="21"
@@ -813,7 +787,7 @@
 				  culture="Culture.tyroshi"
 				  skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills">
 	</NPCCharacter>
-	<!-- VER CARAVAN GUARD ############################################################################################ -->
+	
 	<NPCCharacter id="veteran_caravan_guard_tyroshi"
 				  default_group="Cavalry"
 				  level="26"
@@ -824,8 +798,6 @@
 				  skill_template="SkillSet.cavalry_lightcavalry_heavycavalry_level26_template_skills">
 	</NPCCharacter>
 
-  
-	<!-- CARAVAN MASTER ############################################################################################ -->
 	<NPCCharacter id="caravan_master_lyseni"
 				  default_group="Infantry"
 				  level="26"
@@ -834,7 +806,7 @@
 				  culture="Culture.lyseni"
 				  skill_template="SkillSet.infantry_heavyinfantry_level26_template_skills">
 	</NPCCharacter>
-	<!-- ARMED TRADER ############################################################################################ -->
+	
 	<NPCCharacter id="armed_trader_lyseni"
 				  default_group="Ranged"
 				  level="16"
@@ -844,7 +816,7 @@
 				  is_basic_troop="true"
 				  skill_template="SkillSet.ranged_skirmisher_level6_template_skills">
 	</NPCCharacter>
-	<!-- CARAVAN GUARD ############################################################################################ -->
+	
 	<NPCCharacter id="caravan_guard_lyseni"
 				  default_group="Cavalry"
 				  level="21"
@@ -854,7 +826,7 @@
 				  culture="Culture.lyseni"
 				  skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills">
 	</NPCCharacter>
-	<!-- VER CARAVAN GUARD ############################################################################################ -->
+	
 	<NPCCharacter id="veteran_caravan_guard_lyseni"
 				  default_group="Cavalry"
 				  level="26"
@@ -865,6 +837,213 @@
 				  skill_template="SkillSet.cavalry_lightcavalry_heavycavalry_level26_template_skills">
 	</NPCCharacter>
 
-  
+	<!-- From ROT-Content/spnpccharacters.xslt file !!! -->
+	<NPCCharacter id="caravan_master_battania"
+                default_group="Infantry"
+                level="26"
+                name="{=ROTReikoTraderX001}First Men Caravan Master"
+                occupation="CaravanGuard"
+                culture="Culture.battania">
+	</NPCCharacter>
+
+	<NPCCharacter id="armed_trader_battania"
+					default_group="Ranged"
+					level="16"
+					name="{=ROTReikoTraderX002}First Men Armed Trader"
+					occupation="CaravanGuard"
+					culture="Culture.battania"
+					is_basic_troop="true">
+	</NPCCharacter>
+
+	<NPCCharacter id="caravan_guard_battania"
+					default_group="Cavalry"
+					level="21"
+					name="{=ROTReikoTraderX003}First Men Caravan Guard"
+					upgrade_requires="ItemCategory.horse"
+					occupation="CaravanGuard"
+					culture="Culture.battania">
+	</NPCCharacter>
+
+	<NPCCharacter id="veteran_caravan_guard_battania"
+					default_group="Cavalry"
+					level="26"
+					name="{=ROTReikoTraderX004}First Men Veteran Caravan Guard"
+					upgrade_requires="ItemCategory.war_horse"
+					occupation="CaravanGuard"
+					culture="Culture.battania">
+	</NPCCharacter>
+
+	<NPCCharacter id="caravan_master_vlandia"
+                default_group="Infantry"
+                level="26"
+                name="{=ROTReikoTraderX005}Andal Caravan Master"
+                occupation="CaravanGuard"
+                culture="Culture.vlandia">
+	</NPCCharacter>
+
+	<NPCCharacter id="armed_trader_vlandia"
+                default_group="Ranged"
+                level="16"
+                name="{=ROTReikoTraderX006}Andal Armed Trader"
+                occupation="CaravanGuard"
+                culture="Culture.vlandia"
+                is_basic_troop="true">
+	</NPCCharacter>
+
+	<NPCCharacter id="caravan_guard_vlandia"
+                default_group="Cavalry"
+                level="21"
+                name="{=ROTReikoTraderX007}Andal Caravan Guard"
+                upgrade_requires="ItemCategory.horse"
+                occupation="CaravanGuard"
+                culture="Culture.vlandia">
+	</NPCCharacter>
+
+	<NPCCharacter id="veteran_caravan_guard_vlandia"
+                default_group="Cavalry"
+                level="26"
+                name="{=ROTReikoTraderX008}Andal Veteran Caravan Guard"
+                upgrade_requires="ItemCategory.war_horse"
+                occupation="CaravanGuard"
+                culture="Culture.vlandia">
+	</NPCCharacter>
+
+	<NPCCharacter id="caravan_master_aserai"
+                default_group="Infantry"
+                level="26"
+                name="{=ROTReikoTraderX009}Rhoynar Caravan Master"
+                occupation="CaravanGuard"
+                culture="Culture.aserai">
+	</NPCCharacter>
+
+	<NPCCharacter id="armed_trader_aserai"
+                default_group="Ranged"
+                level="16"
+                name="{=ROTReikoTraderX010}Rhoynar Armed Trader"
+                occupation="CaravanGuard"
+                culture="Culture.aserai"
+                is_basic_troop="true">
+	</NPCCharacter>
+
+	<NPCCharacter id="caravan_guard_aserai"
+                default_group="Cavalry"
+                level="21"
+                name="{=ROTReikoTraderX011}Rhoynar Caravan Guard"
+                upgrade_requires="ItemCategory.horse"
+                occupation="CaravanGuard"
+                culture="Culture.aserai">
+	</NPCCharacter>
+
+	<NPCCharacter id="veteran_caravan_guard_aserai"
+                default_group="HorseArcher"
+                level="26"
+                name="{=ROTReikoTraderX012}Rhoynar Veteran Caravan Guard"
+                upgrade_requires="ItemCategory.war_horse"
+                occupation="CaravanGuard"
+                culture="Culture.aserai">
+	</NPCCharacter>
+
+	<NPCCharacter id="caravan_master_khuzait"
+			   default_group="Infantry"
+			   level="26"
+			   name="{=ROTReikoTraderX013}Grass Sea Caravan Master"
+			   occupation="CaravanGuard"
+			   culture="Culture.khuzait">
+	</NPCCharacter>
+
+	<NPCCharacter id="armed_trader_khuzait"
+                default_group="Ranged"
+                level="16"
+                name="{=ROTReikoTraderX014}Grass Sea Armed Trader"
+                occupation="CaravanGuard"
+                culture="Culture.khuzait"
+                is_basic_troop="true">
+	</NPCCharacter>
+
+	<NPCCharacter id="caravan_guard_khuzait"
+                default_group="Cavalry"
+                level="21"
+                name="{=ROTReikoTraderX015}Grass Sea Caravan Guard"
+                upgrade_requires="ItemCategory.horse"
+                occupation="CaravanGuard"
+                culture="Culture.khuzait">
+	</NPCCharacter>
+
+	<NPCCharacter id="veteran_caravan_guard_khuzait"
+                default_group="HorseArcher"
+                level="26"
+                name="{=ROTReikoTraderX016}Grass Sea Veteran Caravan Guard"
+                occupation="CaravanGuard"
+                culture="Culture.khuzait">
+	</NPCCharacter>
+
+	<NPCCharacter id="caravan_master_empire"
+                default_group="Infantry"
+                level="26"
+                name="{=ROTReikoTraderX017}Essosi Caravan Master"
+                occupation="CaravanGuard"
+                culture="Culture.empire">
+	</NPCCharacter>
+
+	<NPCCharacter id="armed_trader_empire"
+                default_group="Ranged"
+                level="16"
+                name="{=ROTReikoTraderX018}Essosi Armed Trader"
+                occupation="CaravanGuard"
+                culture="Culture.empire"
+                is_basic_troop="true">
+	</NPCCharacter>
+
+	<NPCCharacter id="caravan_guard_empire"
+                default_group="HorseArcher"
+                level="21"
+                name="{=ROTReikoTraderX019}Essosi Caravan Guard"
+                upgrade_requires="ItemCategory.horse"
+                occupation="CaravanGuard"
+                culture="Culture.empire">
+	</NPCCharacter>
+
+  	<NPCCharacter id="veteran_caravan_guard_empire"
+                default_group="Cavalry"
+                level="26"
+                name="{=ROTReikoTraderX020}Essosi Veteran Caravan Guard"
+                occupation="CaravanGuard"
+                culture="Culture.empire">
+	</NPCCharacter>
+
+	<NPCCharacter id="caravan_master_sturgia"
+                default_group="Infantry"
+                level="26"
+                name="{=ROTReikoTraderX021}Ironborn Caravan Master"
+                occupation="CaravanGuard"
+                culture="Culture.sturgia">
+	</NPCCharacter>
+
+	<NPCCharacter id="armed_trader_sturgia"
+                default_group="Ranged"
+                level="16"
+                name="{=ROTReikoTraderX022}Ironborn Armed Trader"
+                occupation="CaravanGuard"
+                culture="Culture.sturgia"
+                is_basic_troop="true">
+	</NPCCharacter>
+
+	<NPCCharacter id="caravan_guard_sturgia"
+                default_group="Cavalry"
+                level="21"
+                name="{=ROTReikoTraderX023}Ironborn Caravan Guard"
+                upgrade_requires="ItemCategory.horse"
+                occupation="CaravanGuard"
+                culture="Culture.sturgia">
+	</NPCCharacter>
+
+	<NPCCharacter id="veteran_caravan_guard_sturgia"
+                default_group="Cavalry"
+                level="26"
+                name="{=ROTReikoTraderX024}Ironborn Veteran Caravan Guard"
+                occupation="CaravanGuard"
+                culture="Culture.sturgia">
+	</NPCCharacter>
+
   
 </NPCCharacters>
