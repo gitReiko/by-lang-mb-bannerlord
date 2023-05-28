@@ -11,7 +11,7 @@
 		<NPCCharacter id="caravan_master_battania"
                 default_group="Infantry"
                 level="26"
-                name="First Men Caravan Master"
+                name="{=ROTReikoTraderX001}First Men Caravan Master"
                 occupation="CaravanGuard"
                 culture="Culture.battania">
 		<face>
@@ -74,7 +74,7 @@
 		<NPCCharacter id="armed_trader_battania"
 					default_group="Ranged"
 					level="16"
-					name="First Men Armed Trader"
+					name="{=ROTReikoTraderX002}First Men Armed Trader"
 					occupation="CaravanGuard"
 					culture="Culture.battania"
 					is_basic_troop="true">
@@ -141,7 +141,7 @@
 		<NPCCharacter id="caravan_guard_battania"
 					default_group="Cavalry"
 					level="21"
-					name="First Men Caravan Guard"
+					name="{=ROTReikoTraderX003}First Men Caravan Guard"
 					upgrade_requires="ItemCategory.horse"
 					occupation="CaravanGuard"
 					culture="Culture.battania">
@@ -220,7 +220,7 @@
 		<NPCCharacter id="veteran_caravan_guard_battania"
 					default_group="Cavalry"
 					level="26"
-					name="First Men Veteran Caravan Guard"
+					name="{=ROTReikoTraderX004}First Men Veteran Caravan Guard"
 					upgrade_requires="ItemCategory.war_horse"
 					occupation="CaravanGuard"
 					culture="Culture.battania">
@@ -300,7 +300,7 @@
 		<NPCCharacter id="caravan_master_vlandia"
                 default_group="Infantry"
                 level="26"
-                name="Andal Caravan Master"
+                name="{=ROTReikoTraderX005}Andal Caravan Master"
                 occupation="CaravanGuard"
                 culture="Culture.vlandia">
 			<face>
@@ -359,7 +359,7 @@
 		<NPCCharacter id="armed_trader_vlandia"
                 default_group="Ranged"
                 level="16"
-                name="Andal Armed Trader"
+                name="{=ROTReikoTraderX006}Andal Armed Trader"
                 occupation="CaravanGuard"
                 culture="Culture.vlandia"
                 is_basic_troop="true">
@@ -421,7 +421,7 @@
 		<NPCCharacter id="caravan_guard_vlandia"
                 default_group="Cavalry"
                 level="21"
-                name="Andal Caravan Guard"
+                name="{=ROTReikoTraderX007}Andal Caravan Guard"
                 upgrade_requires="ItemCategory.horse"
                 occupation="CaravanGuard"
                 culture="Culture.vlandia">
@@ -494,7 +494,7 @@
 		<NPCCharacter id="veteran_caravan_guard_vlandia"
                 default_group="Cavalry"
                 level="26"
-                name="Andal Veteran Caravan Guard"
+                name="{=ROTReikoTraderX008}Andal Veteran Caravan Guard"
                 upgrade_requires="ItemCategory.war_horse"
                 occupation="CaravanGuard"
                 culture="Culture.vlandia">
@@ -569,7 +569,7 @@
 		<NPCCharacter id="caravan_master_aserai"
                 default_group="Infantry"
                 level="26"
-                name="Rhoynar Caravan Master"
+                name="{=ROTReikoTraderX009}Rhoynar Caravan Master"
                 occupation="CaravanGuard"
                 culture="Culture.aserai">
 			<face>
@@ -655,7 +655,7 @@
 		<NPCCharacter id="armed_trader_aserai"
                 default_group="Ranged"
                 level="16"
-                name="Rhoynar Armed Trader"
+                name="{=ROTReikoTraderX010}Rhoynar Armed Trader"
                 occupation="CaravanGuard"
                 culture="Culture.aserai"
                 is_basic_troop="true">
@@ -710,7 +710,7 @@
 		<NPCCharacter id="caravan_guard_aserai"
                 default_group="Cavalry"
                 level="21"
-                name="Rhoynar Caravan Guard"
+                name="{=ROTReikoTraderX011}Rhoynar Caravan Guard"
                 upgrade_requires="ItemCategory.horse"
                 occupation="CaravanGuard"
                 culture="Culture.aserai">
@@ -829,7 +829,7 @@
 		<NPCCharacter id="veteran_caravan_guard_aserai"
                 default_group="HorseArcher"
                 level="26"
-                name="Rhoynar Veteran Caravan Guard"
+                name="{=ROTReikoTraderX012}Rhoynar Veteran Caravan Guard"
                 upgrade_requires="ItemCategory.war_horse"
                 occupation="CaravanGuard"
                 culture="Culture.aserai">
@@ -952,7 +952,7 @@
 		<NPCCharacter id="caravan_master_khuzait"
 			   default_group="Infantry"
 			   level="26"
-			   name="Grass Sea Caravan Master"
+			   name="{=ROTReikoTraderX013}Grass Sea Caravan Master"
 			   occupation="CaravanGuard"
 			   culture="Culture.khuzait">
 			<face>
@@ -1040,7 +1040,7 @@
 		<NPCCharacter id="armed_trader_khuzait"
                 default_group="Ranged"
                 level="16"
-                name="Grass Sea Armed Trader"
+                name="{=ROTReikoTraderX014}Grass Sea Armed Trader"
                 occupation="CaravanGuard"
                 culture="Culture.khuzait"
                 is_basic_troop="true">
@@ -1139,7 +1139,7 @@
 		<NPCCharacter id="caravan_guard_khuzait"
                 default_group="Cavalry"
                 level="21"
-                name="Grass Sea Caravan Guard"
+                name="{=ROTReikoTraderX015}Grass Sea Caravan Guard"
                 upgrade_requires="ItemCategory.horse"
                 occupation="CaravanGuard"
                 culture="Culture.khuzait">
@@ -1254,7 +1254,7 @@
 		<NPCCharacter id="veteran_caravan_guard_khuzait"
                 default_group="HorseArcher"
                 level="26"
-                name="Grass Sea Veteran Caravan Guard"
+                name="{=ROTReikoTraderX016}Grass Sea Veteran Caravan Guard"
                 occupation="CaravanGuard"
                 culture="Culture.khuzait">
 			<face>
@@ -1388,7 +1388,7 @@
 		<NPCCharacter id="caravan_master_empire"
                 default_group="Infantry"
                 level="26"
-                name="Essosi Caravan Master"
+                name="{=ROTReikoTraderX017}Essosi Caravan Master"
                 occupation="CaravanGuard"
                 culture="Culture.empire">
 			<face>
@@ -1474,7 +1474,7 @@
 		<NPCCharacter id="armed_trader_empire"
                 default_group="Ranged"
                 level="16"
-                name="Essosi Armed Trader"
+                name="{=ROTReikoTraderX018}Essosi Armed Trader"
                 occupation="CaravanGuard"
                 culture="Culture.empire"
                 is_basic_troop="true">
@@ -1571,7 +1571,7 @@
 		<NPCCharacter id="caravan_guard_empire"
                 default_group="HorseArcher"
                 level="21"
-                name="Essosi Caravan Guard"
+                name="{=ROTReikoTraderX019}Essosi Caravan Guard"
                 upgrade_requires="ItemCategory.horse"
                 occupation="CaravanGuard"
                 culture="Culture.empire">
@@ -1698,7 +1698,7 @@
 		<NPCCharacter id="veteran_caravan_guard_empire"
                 default_group="Cavalry"
                 level="26"
-                name="Essosi Veteran Caravan Guard"
+                name="{=ROTReikoTraderX020}Essosi Veteran Caravan Guard"
                 occupation="CaravanGuard"
                 culture="Culture.empire">
 			<face>
@@ -1816,7 +1816,7 @@
 		<NPCCharacter id="caravan_master_sturgia"
                 default_group="Infantry"
                 level="26"
-                name="Ironborn Caravan Master"
+                name="{=ROTReikoTraderX021}Ironborn Caravan Master"
                 occupation="CaravanGuard"
                 culture="Culture.sturgia">
 			<face>
@@ -1904,7 +1904,7 @@
 		<NPCCharacter id="armed_trader_sturgia"
                 default_group="Ranged"
                 level="16"
-                name="Ironborn Armed Trader"
+                name="{=ROTReikoTraderX022}Ironborn Armed Trader"
                 occupation="CaravanGuard"
                 culture="Culture.sturgia"
                 is_basic_troop="true">
@@ -2013,7 +2013,7 @@
 		<NPCCharacter id="caravan_guard_sturgia"
                 default_group="Cavalry"
                 level="21"
-                name="Ironborn Caravan Guard"
+                name="{=ROTReikoTraderX023}Ironborn Caravan Guard"
                 upgrade_requires="ItemCategory.horse"
                 occupation="CaravanGuard"
                 culture="Culture.sturgia">
@@ -2138,7 +2138,7 @@
 		<NPCCharacter id="veteran_caravan_guard_sturgia"
                 default_group="Cavalry"
                 level="26"
-                name="Ironborn Veteran Caravan Guard"
+                name="{=ROTReikoTraderX024}Ironborn Veteran Caravan Guard"
                 occupation="CaravanGuard"
                 culture="Culture.sturgia">
 			<face>
