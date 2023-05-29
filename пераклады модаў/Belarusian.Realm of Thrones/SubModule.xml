@@ -45,7 +45,7 @@
 		</XmlNode>
 
 		<XmlNode>
-			<XmlName id="Kingdoms" path="rot_kingdoms"/>
+			<XmlName id="Kingdoms" path="rot_content_kingdoms"/>
 			<IncludedGameTypes>
 				<GameType value = "Campaign"/>
 				<GameType value = "CampaignStoryMode"/>
@@ -55,7 +55,7 @@
 		</XmlNode>
 
 		<XmlNode>                
-			<XmlName id="NPCCharacters" path="rot_lords"/>
+			<XmlName id="NPCCharacters" path="rot_content_lords"/>
 			<IncludedGameTypes>
 				<GameType value = "Campaign"/>
 				<GameType value = "CampaignStoryMode"/>
@@ -63,7 +63,7 @@
 		</XmlNode>
 
 		<XmlNode>                
-			<XmlName id="NPCCharacters" path="rot_trader_units"/>
+			<XmlName id="NPCCharacters" path="rot_content_trader_units"/>
 			<IncludedGameTypes>
 				<GameType value = "Campaign"/>
 				<GameType value = "CampaignStoryMode"/>
@@ -71,7 +71,15 @@
 		</XmlNode>
 
 		<XmlNode>                
-			<XmlName id="NPCCharacters" path="rot_units"/>
+			<XmlName id="NPCCharacters" path="rot_content_units"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+			</IncludedGameTypes>
+		</XmlNode>
+
+		<XmlNode>                
+			<XmlName id="NPCCharacters" path="rot_content_wanderers"/>
 			<IncludedGameTypes>
 				<GameType value = "Campaign"/>
 				<GameType value = "CampaignStoryMode"/>
