@@ -493,5 +493,17 @@
                 is_hero="false" 
                 occupation="Wanderer">
     </NPCCharacter>
+
+    <NPCCharacter id="ROTwanderer40" 
+                name="{=ROTReikoWanderer044}Cletus Yronwood" 
+                age="19" 
+                voice="curt" 
+                is_female="false" 
+                culture="Culture.aserai"  
+                default_group="Infantry" 
+                is_template="true" 
+                is_hero="false" 
+                occupation="Wanderer">
+    </NPCCharacter>
   
 </NPCCharacters>
