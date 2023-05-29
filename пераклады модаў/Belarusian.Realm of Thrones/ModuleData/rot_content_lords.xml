@@ -5,142 +5,67 @@
 
     <NPCCharacter id="ROTuniqueleader_spc_brotherhood_2" 
                 name="{=ROTReikoLord001}Anguy" 
-                voice="softspoken"  
-                is_template="true" 
-                default_group="Ranged" 
-                is_hero="false" 
-                culture="Culture.river" 
-                occupation="Lord">
+                culture="Culture.river" >
     </NPCCharacter>
 
     <NPCCharacter id="ROTuniqueleader_spc_wild_hares_0" 
                 name="{=ROTReikoLord002}Benfred Tallhart" 
-                voice="ironic" age="32" 
-                is_template="true" 
-                default_group="Cavalry" 
-                is_hero="false" 
-                culture="Culture.battania" 
-                occupation="Lord">
+                culture="Culture.battania" >
     </NPCCharacter>
 
     <NPCCharacter id="ROTuniqueleader_spc_brotherhood_0" 
                 name="{=ROTReikoLord003}Beric Dondarrion" 
-                voice="softspoken" 
-                age="35" 
-                is_template="true" 
-                default_group="Cavalry" 
-                is_hero="false" 
-                culture="Culture.stormlands" 
-                occupation="Lord">
+                culture="Culture.stormlands" >
     </NPCCharacter>
 
     <NPCCharacter id="ROTuniqueleader_spc_stone_crows_0" 
             name="{=ROTReikoLord005}Dolf" 
-            voice="curt" 
-            age="36" 
-            is_template="true" 
-            default_group="Infantry" 
-            is_hero="false" 
-            culture="Culture.vale" 
-            occupation="Lord">
+            culture="Culture.vale" >
     </NPCCharacter>
 
     <NPCCharacter id="ROTuniqueleader_spc_bright_banners_0" 
                 name="{=ROTReikoLord006}Grazdan zo Moqar" 
-                voice="ironic" 
-                age="36" 
-                is_template="true" 
-                default_group="Cavalry" 
-                is_hero="false" 
-                culture="Culture.ghiscari" 
-                occupation="Lord">
+                culture="Culture.ghiscari" >
     </NPCCharacter>
 
     <NPCCharacter id="ROTuniqueleader_spc_long_lances_0" 
                 name="{=ROTReikoLord007}Gylo Rhegan" 
-                voice="softspoken" 
-                age="39" 
-                is_template="true" 
-                default_group="Cavalry" 
-                is_hero="false" 
-                culture="Culture.empire" 
-                occupation="Lord">
+                culture="Culture.empire" >
     </NPCCharacter>
     
     <NPCCharacter id="ROTuniqueleader_spc_golden_company_0" 
                 name="{=ROTReikoLord008}Harry Strickland" 
-                voice="curt" 
-                age="36" 
-                is_template="true" 
-                default_group="Cavalry" 
-                is_hero="false" 
-                culture="Culture.stormlands" 
-                occupation="Lord">
+                culture="Culture.stormlands" >
     </NPCCharacter>
 
     <NPCCharacter id="ROTuniqueleader_spc_faith_militant_0" 
                 name="{=ROTReikoLord009}High Sparrow" 
-                voice="softspoken" 
-                age="60" 
-                is_template="true" 
-                default_group="Infantry" 
-                is_hero="false" 
-                culture="Culture.crownlands" 
-                occupation="Lord">
+                culture="Culture.crownlands" >
     </NPCCharacter>
 
     <NPCCharacter id="ROTuniqueleader_spc_faith_militant_1" 
                 name="{=ROTReikoLord010}Septa Unella" 
-                voice="softspoken"  
-                is_template="true" 
-                is_female="true" 
-                default_group="Infantry" 
-                is_hero="false" 
-                culture="Culture.crownlands" 
-                occupation="Lord">
+                culture="Culture.crownlands" >
     </NPCCharacter>
 
     <NPCCharacter id="ROTuniqueleader_spc_windblown_0" 
                 name="{=ROTReikoLord011}Tattered Prince" 
-                voice="earnest" 
-                age="36" 
-                is_template="true" 
-                default_group="Cavalry" 
-                is_hero="false" 
-                culture="Culture.pentoshi" 
-                occupation="Lord">
+                culture="Culture.pentoshi" >
     </NPCCharacter>
 
     <NPCCharacter id="ROTuniqueleader_spc_brotherhood_1" 
                 name="{=ROTReikoLord012}Thoros of Myr" 
-                voice="softspoken"  
-                is_template="true" 
-                default_group="Cavalry" 
-                is_hero="false" 
-                culture="Culture.myrish" 
-                occupation="Lord">
+                culture="Culture.myrish" >
     </NPCCharacter>
 
     <NPCCharacter id="ROTuniqueleader_spc_moon_brothers_0" 
                 name="{=ROTReikoLord013}Ulf" 
-                voice="ironic" 
-                age="46" 
-                is_template="true" 
-                default_group="Infantry" 
-                is_hero="false" 
-                culture="Culture.vale" 
-                occupation="Lord">
+                culture="Culture.vale" >
     </NPCCharacter>
 
     <NPCCharacter id="ROTuniqueleader_spc_brave_companions_0" 
                 name="{=ROTReikoLord014}Vargo Hoat" 
-                voice="curt" 
-                age="36" 
-                is_template="true" 
-                default_group="Infantry" 
-                is_hero="false" 
-                culture="Culture.qohorik"
-                occupation="Lord">
+                culture="Culture.qohorik">
     </NPCCharacter>
   
 </NPCCharacters>
