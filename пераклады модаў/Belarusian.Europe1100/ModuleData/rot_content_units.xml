@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <NPCCharacters>
 
-	<!-- spnpccharacters_berber.xml -->
-
 	<NPCCharacter id="berber_levy"  
 				name="{=E11BEt6}Berber Hushud" 
 				culture="Culture.berber">
@@ -63,6 +61,844 @@
 				culture="Culture.berber">
 	</NPCCharacter>
 
+	<NPCCharacter id="byzantine_tagma"  
+				name="{=E11BYt07}Byzantine Tagma" 
+				culture="Culture.byzantine">
+	</NPCCharacter>
 
+	<NPCCharacter id="byzantine_toxotoi"  
+				name="{=E11BYt08}Byzantine Toxotoi" 
+				culture="Culture.byzantine">
+	</NPCCharacter>
+
+	<NPCCharacter id="byzantine_trapezund_toxotoi"  
+				name="{=E11BYt09}Byzantine Trapezund Toxotoi" 
+				culture="Culture.byzantine">
+	</NPCCharacter>
+
+	<NPCCharacter id="byzantine_palatine_guard"  
+				name="{=E11BYt10}Byzantine Palatine Guard" 
+				culture="Culture.byzantine">
+	</NPCCharacter>
+
+	<NPCCharacter id="byzantine_skoutatoi"  
+				name="{=E11BYt11}Byzantine Skoutatoi" 
+				culture="Culture.byzantine">
+	</NPCCharacter>
+
+	<NPCCharacter id="byzantine_menaulon"  
+				name="{=E11BYt12}Byzantine Menaulon" 
+				culture="Culture.byzantine">
+	</NPCCharacter>
+
+	<NPCCharacter id="byzantine_spatharioi"  
+				name="{=E11BYt13}Byzantine Spatharioi" 
+				culture="Culture.byzantine">
+	</NPCCharacter>
+
+	<NPCCharacter id="byzantine_domestikos"  
+				name="{=E11BYt14}Byzantine Domestikos" 
+				culture="Culture.byzantine">
+	</NPCCharacter>
+
+	<NPCCharacter id="byzantine_noumeroi"  
+				name="{=E11BYt15}Byzantine Noumeroi" 
+				culture="Culture.byzantine">
+	</NPCCharacter>
+
+	<NPCCharacter id="byzantine_archontopouloi"  
+				name="{=E11BYt16}Byzantine Archontopouloi" 
+				culture="Culture.byzantine">
+	</NPCCharacter>
+
+	<NPCCharacter id="byzantine_athanatoi"  
+				name="{=E11BYt17}Byzantine Athanatoi" 
+				culture="Culture.byzantine">
+	</NPCCharacter>
+
+	<NPCCharacter id="byzantine_kataphraktoi"  
+				name="{=E11BYt18}Byzantine Kataphraktoi" 
+				culture="Culture.byzantine">
+	</NPCCharacter>
+
+	<NPCCharacter id="cuman_nomad"  
+				name="{=E11CUt06}Cuman Nomad" 
+				culture="Culture.khuzait">
+	</NPCCharacter>
+
+	<NPCCharacter id="cuman_nomad_spearman"  
+				name="{=E11CUt07}Cuman Nomad Spearman" 
+				culture="Culture.khuzait">
+	</NPCCharacter>
+
+	<NPCCharacter id="cuman_veteran_nomad_spearman"  
+				name="{=E11CUt08}Cuman Veteran Nomad Spearman" 
+				culture="Culture.khuzait">
+	</NPCCharacter>
+
+	<NPCCharacter id="cuman_nomad_bodguard"  
+				name="{=E11CUt09}Cuman Nomad Bodyguard" 
+				culture="Culture.khuzait">
+	</NPCCharacter>
+
+	<NPCCharacter id="cuman_nomad_archer"  
+				name="{=E11CUt10}Cuman Nomad Archer" 
+				culture="Culture.khuzait">
+	</NPCCharacter>
+
+	<NPCCharacter id="cuman_veteran_nomad_archer"  
+				name="{=E11CUt11}Cuman Veteran Nomad Archer" 
+				culture="Culture.khuzait">
+	</NPCCharacter>
+
+	<NPCCharacter id="cuman_marksman"  
+				name="{=E11CUt12}Cuman Marksman" 
+				culture="Culture.khuzait">
+	</NPCCharacter>
+
+	<NPCCharacter id="cuman_horse_archer"  
+				name="{=E11CUt13}Cuman Horse Archer" 
+				culture="Culture.khuzait">
+	</NPCCharacter>
+
+	<NPCCharacter id="cuman_veteran_horse_archer"  
+				name="{=E11CUt14}Cuman Veteran Horse Archer" 
+				culture="Culture.khuzait">
+	</NPCCharacter>
+
+	<NPCCharacter id="cuman_light_cavalry"  
+				name="{=E11CUt15}Cuman Light Cavalry" 
+				culture="Culture.khuzait">
+	</NPCCharacter>
+
+	<NPCCharacter id="cuman_heavy_cavalry"  
+				name="{=E11CUt16}Cuman Heavy Cavalry" 
+				culture="Culture.khuzait">
+	</NPCCharacter>
+
+	<NPCCharacter id="cuman_khans_guard"  
+				name="{=E11CUt17}Cuman Khan's Guard" 
+				culture="Culture.khuzait">
+	</NPCCharacter>
+
+	<NPCCharacter id="english_levy"  
+				name="{=E11ENt06}English Levy" 
+				culture="Culture.english">
+	</NPCCharacter>
+
+	<NPCCharacter id="english_fyrd_spearman"  
+				name="{=E11ENt07}English Fyrd Spearman" 
+				culture="Culture.english">
+	</NPCCharacter>
+
+	<NPCCharacter id="english_veteran_fyrd_spearman"  
+				name="{=E11ENt08}English Veteran Fyrd Spearman" 
+				culture="Culture.english">
+	</NPCCharacter>
+
+	<NPCCharacter id="english_sergeant_spearman"  
+				name="{=E11ENt09}English Sergeant Spearman" 
+				culture="Culture.english">
+	</NPCCharacter>
+
+	<NPCCharacter id="english_fyrd_archer"  
+				name="{=E11ENt10}English Fyrd Archer" 
+				culture="Culture.english">
+	</NPCCharacter>
+
+	<NPCCharacter id="english_veteran_fyrd_archer"  
+				name="{=E11ENt11}English Veteran Fyrd Archer" 
+				culture="Culture.english">
+	</NPCCharacter>
+
+	<NPCCharacter id="english_sergeant_archer"  
+				name="{=E11ENt12}English Sergeant Archer" 
+				culture="Culture.english">
+	</NPCCharacter>
+
+	<NPCCharacter id="english_axeman"  
+				name="{=E11ENt13}English Axeman" 
+				culture="Culture.english">
+	</NPCCharacter>
+
+	<NPCCharacter id="english_sergeant_axeman"  
+				name="{=E11ENt14}English Sergeant Axeman" 
+				culture="Culture.english">
+	</NPCCharacter>
+
+	<NPCCharacter id="english_squire"  
+				name="{=E11ENt15}English Squire" 
+				culture="Culture.english">
+	</NPCCharacter>
+
+	<NPCCharacter id="english_yeoman"  
+				name="{=E11ENt16}English Yeoman" 
+				culture="Culture.english">
+	</NPCCharacter>
+
+	<NPCCharacter id="english_knight"  
+				name="{=E11ENt17}English Knight" 
+				culture="Culture.english">
+	</NPCCharacter>
+
+	<NPCCharacter id="fatimid_levy"  
+				name="{=E11FAt06}Fatimid Levy" 
+				culture="Culture.aserai">
+	</NPCCharacter>
+
+	<NPCCharacter id="fatimid_militia_spearman"  
+				name="{=E11FAt07}Fatimid Militia Spearman" 
+				culture="Culture.aserai">
+	</NPCCharacter>
+
+	<NPCCharacter id="fatimid_veteran_militia_spearman"  
+				name="{=E11FAt08}Fatimid Veteran Militia Spearman" 
+				culture="Culture.aserai">
+	</NPCCharacter>
+
+	<NPCCharacter id="fatimid_ghazi_swordsman"  
+				name="{=E11FAt09}Fatimid Ghazi Swordsman" 
+				culture="Culture.aserai">
+	</NPCCharacter>
+
+	<NPCCharacter id="fatimid_militia_archer"  
+				name="{=E11FAt10}Fatimid Militia Archer" 
+				culture="Culture.aserai">
+	</NPCCharacter>
+
+	<NPCCharacter id="fatimid_veteran_militia_archer"  
+				name="{=E11FAt11}Fatimid Veteran Militia Archer" 
+				culture="Culture.aserai">
+	</NPCCharacter>
+
+	<NPCCharacter id="fatimid_ghazi_archer"  
+				name="{=E11FAt12}Fatimid Ghazi Archer" 
+				culture="Culture.aserai">
+	</NPCCharacter>
+
+	<NPCCharacter id="fatimid_bedouin_horse_archer"  
+				name="{=E11FAt13}Fatimid Bedouin Horse Archer" 
+				culture="Culture.aserai">
+	</NPCCharacter>
+
+	<NPCCharacter id="fatimid_veteran_bedouin_horse_archer"  
+				name="{=E11FAt14}Fatimid Veteran Bedouin Horse Archer" 
+				culture="Culture.aserai">
+	</NPCCharacter>
+
+	<NPCCharacter id="fatimid_mamluk"  
+				name="{=E11FAt15}Fatimid Mamluk" 
+				culture="Culture.aserai">
+	</NPCCharacter>
+
+	<NPCCharacter id="fatimid_veteran_mamluk"  
+				name="{=E11FAt16}Fatimid Veteran Mamluk" 
+				culture="Culture.aserai">
+	</NPCCharacter>
+
+	<NPCCharacter id="fatimid_hujariyya"  
+				name="{=E11FAt17}Fatimid Hujariyya" 
+				culture="Culture.aserai">
+	</NPCCharacter>
+
+	<NPCCharacter id="frankish_levy"  
+				name="{=E11FRt07}Frankish Levy" 
+				culture="Culture.vlandia">
+	</NPCCharacter>
+
+	<NPCCharacter id="frankish_militia_spearman"  
+				name="{=E11FRt08}Frankish Militia Spearman" 
+				culture="Culture.vlandia">
+	</NPCCharacter>
+
+	<NPCCharacter id="frankish_veteran_militia_spearman"  
+				name="{=E11FRt09}Frankish Veteran Militia Spearman" 
+				culture="Culture.vlandia">
+	</NPCCharacter>
+
+	<NPCCharacter id="frankish_sergeant_spearman"  
+				name="{=E11FRt10}Frankish Sergeant Spearman" 
+				culture="Culture.vlandia">
+	</NPCCharacter>
+
+	<NPCCharacter id="frankish_militia_crossbowman"  
+				name="{=E11FRt11}Frankish Militia Crossbowman" 
+				culture="Culture.vlandia">
+	</NPCCharacter>
+
+	<NPCCharacter id="frankish_veteran_militia_crossbowman"  
+				name="{=E11FRt12}Frankish Veteran Militia Crossbowman" 
+				culture="Culture.vlandia">
+	</NPCCharacter>
+
+	<NPCCharacter id="frankish_master_crossbowman"  
+				name="{=E11FRt13}Frankish Master Crossbowman" 
+				culture="Culture.vlandia">
+	</NPCCharacter>
+
+	<NPCCharacter id="frankish_swordsman"  
+				name="{=E11FRt14}Frankish Man at arms" 
+				culture="Culture.vlandia">
+	</NPCCharacter>
+
+	<NPCCharacter id="frankish_sergeant_swordsman"  
+				name="{=E11FRt15}Frankish Sergeant Man at arms" 
+				culture="Culture.vlandia">
+	</NPCCharacter>
+
+	<NPCCharacter id="frankish_squire"  
+				name="{=E11FRt16}Frankish Squire" 
+				culture="Culture.vlandia">
+	</NPCCharacter>
+
+	<NPCCharacter id="frankish_banner_knight"  
+				name="{=E11FRt17}Frankish Banner Knight" 
+				culture="Culture.vlandia">
+	</NPCCharacter>
+
+	<NPCCharacter id="frankish_marshal"  
+				name="{=E11FRt18}Frankish Marshal" 
+				culture="Culture.vlandia">
+	</NPCCharacter>
+
+	<NPCCharacter id="german_levy"  
+				name="{=E11GEt07}German Herrbann" 
+				culture="Culture.empire">
+	</NPCCharacter>
+
+	<NPCCharacter id="german_militia_spearman"  
+				name="{=E11GEt08}German Militia Spearman" 
+				culture="Culture.empire">
+	</NPCCharacter>
+
+	<NPCCharacter id="german_veteran_militia_spearman"  
+				name="{=E11GEt09}German Veteran Militia Spearman" 
+				culture="Culture.empire">
+	</NPCCharacter>
+
+	<NPCCharacter id="german_sergeant_spearman"  
+				name="{=E11GEt10}German Sergeant Spearman" 
+				culture="Culture.empire">
+	</NPCCharacter>
+
+	<NPCCharacter id="german_militia_crossbowman"  
+				name="{=E11GEt11}German Militia Crossbowman" 
+				culture="Culture.empire">
+	</NPCCharacter>
+
+	<NPCCharacter id="german_veteran_militia_crossbowman"  
+				name="{=E11GEt12}German Veteran Miltia Crossbowman" 
+				culture="Culture.empire">
+	</NPCCharacter>
+
+	<NPCCharacter id="german_sergeant_crossbowman"  
+				name="{=E11GEt13}German Sergeant Crossbowman" 
+				culture="Culture.empire">
+	</NPCCharacter>
+
+	<NPCCharacter id="german_swabian_swordsman"  
+				name="{=E11GEt14}German Swabian Swordsman" 
+				culture="Culture.empire">
+	</NPCCharacter>
+
+	<NPCCharacter id="german_mounted_swabian_swordsman"  
+				name="{=E11GEt15}German Mounted Swabian Swordsman" 
+				culture="Culture.empire">
+	</NPCCharacter>
+
+	<NPCCharacter id="german_mounted_sergeant"  
+				name="{=E11GEt16}German Mounted Sergeant" 
+				culture="Culture.empire">
+	</NPCCharacter>
+
+	<NPCCharacter id="german_dienstleuten"  
+				name="{=E11GEt17}German Dienstleuten" 
+				culture="Culture.empire">
+	</NPCCharacter>
+
+	<NPCCharacter id="german_noble_knight"  
+				name="{=E11GEt18}German Noble Knight" 
+				culture="Culture.empire">
+	</NPCCharacter>
+
+	<NPCCharacter id="hungarian_levy"  
+				name="{=E11HUt07}Hungarian Levy" 
+				culture="Culture.hungary">
+	</NPCCharacter>
+
+	<NPCCharacter id="hungarian_militia_spearman"  
+				name="{=E11HUt08}Hungarian Militia Spearman" 
+				culture="Culture.hungary">
+	</NPCCharacter>
+
+	<NPCCharacter id="hungarian_veteran_militia_spearman"  
+				name="{=E11HUt09}Hungarian Veteran Militia Spearman" 
+				culture="Culture.hungary">
+	</NPCCharacter>
+
+	<NPCCharacter id="hungarian_infantry_jobagiones"  
+				name="{=E11HUt10}Hungarian Infantry Jobagiones" 
+				culture="Culture.hungary">
+	</NPCCharacter>
+
+	<NPCCharacter id="hungarian_militia_archer"  
+				name="{=E11HUt11}Hungarian Militia Archer" 
+				culture="Culture.hungary">
+	</NPCCharacter>
+
+	<NPCCharacter id="hungarian_veteran_militia_archer"  
+				name="{=E11HUt12}Hungarian Veteran Militia Archer" 
+				culture="Culture.hungary">
+	</NPCCharacter>
+
+	<NPCCharacter id="hungarian_archer_jobagiones"  
+				name="{=E11HUt13}Hungarian Archer Jobagiones" 
+				culture="Culture.hungary">
+	</NPCCharacter>
+
+	<NPCCharacter id="hungarian_horse_archer"  
+				name="{=E11HUt14}Hungarian Horse Archer" 
+				culture="Culture.hungary">
+	</NPCCharacter>
+
+	<NPCCharacter id="hungarian_veteran_horse_archer"  
+				name="{=E11HUt15}Hungarian Veteran Horse Archer" 
+				culture="Culture.hungary">
+	</NPCCharacter>
+
+	<NPCCharacter id="hungarian_ban"  
+				name="{=E11HUt16}Hungarian Ban" 
+				culture="Culture.hungary">
+	</NPCCharacter>
+
+	<NPCCharacter id="hungarian_ispan"  
+				name="{=E11HUt17}Hungarian Ispan" 
+				culture="Culture.hungary">
+	</NPCCharacter>
+
+	<NPCCharacter id="hungarian_nadorispan"  
+				name="{=E11HUt18}Hungarian Nadorispan" 
+				culture="Culture.hungary">
+	</NPCCharacter>
+
+	<NPCCharacter id="irish_volunteer"  
+				name="{=E11IRt06}Irish Levy" 
+				culture="Culture.battania">
+	</NPCCharacter>
+
+	<NPCCharacter id="irish_militia_spearman"  
+				name="{=E11IRt07}Irish Militia Spearman" 
+				culture="Culture.battania">
+	</NPCCharacter>
+
+	<NPCCharacter id="irish_veteran_militia_spearman"  
+				name="{=E11IRt08}Irish Veteran Militia Spearman" 
+				culture="Culture.battania">
+	</NPCCharacter>
+
+	<NPCCharacter id="irish_axeman"  
+				name="{=E11IRt09}Irish Axeman" 
+				culture="Culture.battania">
+	</NPCCharacter>
+
+	<NPCCharacter id="irish_militia_archer"  
+				name="{=E11IRt10}Irish Militia Archer" 
+				culture="Culture.battania">
+	</NPCCharacter>
+
+	<NPCCharacter id="irish_veteran_militia_archer"  
+				name="{=E11IRt11}Irish Veteran Militia Archer" 
+				culture="Culture.battania">
+	</NPCCharacter>
+
+	<NPCCharacter id="irish_saighdeoiri"  
+				name="{=E11IRt12}Irish Saighdeoiri" 
+				culture="Culture.battania">
+	</NPCCharacter>
+
+	<NPCCharacter id="irish_skirmisher"  
+				name="{=E11IRt13}Irish Skirmisher" 
+				culture="Culture.battania">
+	</NPCCharacter>
+
+	<NPCCharacter id="irish_scout"  
+				name="{=E11IRt14}Irish Scout" 
+				culture="Culture.battania">
+	</NPCCharacter>
+
+	<NPCCharacter id="irish_kern"  
+				name="{=E11IRt15}Irish Kern" 
+				culture="Culture.battania">
+	</NPCCharacter>
+
+	<NPCCharacter id="irish_ostmen"  
+				name="{=E11IRt16}Irish Ostmen" 
+				culture="Culture.battania">
+	</NPCCharacter>
+
+	<NPCCharacter id="irish_galloglaich"  
+				name="{=E11IRt17}Irish Galloglaich" 
+				culture="Culture.battania">
+	</NPCCharacter>
+
+	<NPCCharacter id="italian_levy"  
+				name="{=E11ITt07}Italian Levy" 
+				culture="Culture.italian">
+	</NPCCharacter>
+
+	<NPCCharacter id="italian_contadini_spearman"  
+				name="{=E11ITt08}Italian Contadini Spearman" 
+				culture="Culture.italian">
+	</NPCCharacter>
+
+	<NPCCharacter id="italian_contadini_veteran_spearman"  
+				name="{=E11ITt09}Italian Contadini Veteran Spearman" 
+				culture="Culture.italian">
+	</NPCCharacter>
+
+	<NPCCharacter id="italian_capitani_pikeman"  
+				name="{=E11ITt10}Italian Capitani Pikeman" 
+				culture="Culture.italian">
+	</NPCCharacter>
+
+	<NPCCharacter id="italian_contadini_crossbowman"  
+				name="{=E11ITt11}Italian Contadini Crossbowman" 
+				culture="Culture.italian">
+	</NPCCharacter>
+
+	<NPCCharacter id="italian_contadini_veteran_crossbowman"  
+				name="{=E11ITt12}Italian Contadini Veteran Crossbowman" 
+				culture="Culture.italian">
+	</NPCCharacter>
+
+	<NPCCharacter id="italian_capitani_crossbowman"  
+				name="{=E11ITt13}Italian Capitani Crossbowman" 
+				culture="Culture.italian">
+	</NPCCharacter>
+
+	<NPCCharacter id="italian_contadini_cavalry"  
+				name="{=E11ITt14}Italian Contadini Cavalry" 
+				culture="Culture.italian">
+	</NPCCharacter>
+
+	<NPCCharacter id="italian_contadini_veteran_cavalry"  
+				name="{=E11ITt15}Italian Contadini Veteran Cavalry" 
+				culture="Culture.italian">
+	</NPCCharacter>
+
+	<NPCCharacter id="italian_commune_noble"  
+				name="{=E11ITt16}Italian Commune Noble" 
+				culture="Culture.italian">
+	</NPCCharacter>
+
+	<NPCCharacter id="italian_milites"  
+				name="{=E11ITt17}Italian Milites Pro Commune" 
+				culture="Culture.italian">
+	</NPCCharacter>
+
+	<NPCCharacter id="italian_vavassores"  
+				name="{=E11ITt18}Italian Vavassores" 
+				culture="Culture.italian">
+	</NPCCharacter>
+
+	<NPCCharacter id="nordic_karl"  
+				name="{=E11NOt06}Nordic Karl" 
+				culture="Culture.sturgia">
+	</NPCCharacter>
+
+	<NPCCharacter id="nordic_militia_spearman"  
+				name="{=E11NOt07}Nordic Leiðangr Spearman" 
+				culture="Culture.sturgia">
+	</NPCCharacter>
+
+	<NPCCharacter id="nordic_veteran_militia_spearman"  
+				name="{=E11NOt08}Nordic Veteran Leiðangr Spearman" 
+				culture="Culture.sturgia">
+	</NPCCharacter>
+
+	<NPCCharacter id="nordic_huscarl"  
+				name="{=E11NOt09}Nordic Huscarl" 
+				culture="Culture.sturgia">
+	</NPCCharacter>
+
+	<NPCCharacter id="nordic_militia_archer"  
+				name="{=E11NOt10}Nordic Leiðangr Archer" 
+				culture="Culture.sturgia">
+	</NPCCharacter>
+
+	<NPCCharacter id="nordic_veteran_militia_archer"  
+				name="{=E11NOt11}Nordic Veteran Leiðangr Archer" 
+				culture="Culture.sturgia">
+	</NPCCharacter>
+
+	<NPCCharacter id="nordic_merkismadr"  
+				name="{=E11NOt12}Nordic Merkismadr" 
+				culture="Culture.sturgia">
+	</NPCCharacter>
+
+	<NPCCharacter id="nordic_berserker"  
+				name="{=E11NOt13}Nordic Berserker" 
+				culture="Culture.sturgia">
+	</NPCCharacter>
+
+	<NPCCharacter id="nordic_ulfhednar"  
+				name="{=E11NOt14}Nordic Ulfhednar" 
+				culture="Culture.sturgia">
+	</NPCCharacter>
+
+	<NPCCharacter id="nordic_kertisveinar"  
+				name="{=E11NOt15}Nordic Kertisveinar" 
+				culture="Culture.sturgia">
+	</NPCCharacter>
+
+	<NPCCharacter id="nordic_gestir"  
+				name="{=E11NOt16}Nordic Gestir" 
+				culture="Culture.sturgia">
+	</NPCCharacter>
+
+	<NPCCharacter id="nordic_hirdmenn"  
+				name="{=E11NOt17}Nordic Hirdmenn" 
+				culture="Culture.sturgia">
+	</NPCCharacter>
+
+	<NPCCharacter id="seljuk_levy"  
+				name="{=E11PEt06}Seljuk Turkmenn" 
+				culture="Culture.persian">
+	</NPCCharacter>
+
+	<NPCCharacter id="seljuk_tribal_spearman"  
+				name="{=E11PEt07}Seljuk Tribal Spearman" 
+				culture="Culture.persian">
+	</NPCCharacter>
+
+	<NPCCharacter id="seljuk_veteran_tribal_spearman"  
+				name="{=E11PEt08}Seljuk Veteran Tribal Spearman" 
+				culture="Culture.persian">
+	</NPCCharacter>
+
+	<NPCCharacter id="seljuk_light_cavalry"  
+				name="{=E11PEt09}Seljuk Tribal Light Cavalry" 
+				culture="Culture.persian">
+	</NPCCharacter>
+
+	<NPCCharacter id="seljuk_tribal_archer"  
+				name="{=E11PEt10}Seljuk Tribal Archer" 
+				culture="Culture.persian">
+	</NPCCharacter>
+
+	<NPCCharacter id="seljuk_veteran_tribal_archer"  
+				name="{=E11PEt11}Seljuk Veteran Tribal Archer" 
+				culture="Culture.persian">
+	</NPCCharacter>
+
+	<NPCCharacter id="seljuk_tribal_skirmisher"  
+				name="{=E11PEt12}Seljuk Tribal Skirmisher" 
+				culture="Culture.persian">
+	</NPCCharacter>
+
+	<NPCCharacter id="seljuk_horse_archer"  
+				name="{=E11PEt13}Seljuk Horse Archer" 
+				culture="Culture.persian">
+	</NPCCharacter>
+
+	<NPCCharacter id="seljuk_veteran_horse_archer"  
+				name="{=E11PEt14}Seljuk Veteran Horse Archer" 
+				culture="Culture.persian">
+	</NPCCharacter>
+
+	<NPCCharacter id="seljuk_ghulam_light_cavalry"  
+				name="{=E11PEt15}Seljuk Ghulam Light Cavalry" 
+				culture="Culture.persian">
+	</NPCCharacter>
+
+	<NPCCharacter id="seljuk_ghulam_heavy_cavalry"  
+				name="{=E11PEt16}Seljuk Ghulam Heavy Cavalry" 
+				culture="Culture.persian">
+	</NPCCharacter>
+
+	<NPCCharacter id="seljuk_askari"  
+				name="{=E11PEt17}Seljuk Ghulam Askari" 
+				culture="Culture.persian">
+	</NPCCharacter>
+
+	<NPCCharacter id="polish_levy"  
+				name="{=E11POt07}Polish Levy" 
+				culture="Culture.polish">
+	</NPCCharacter>
+
+	<NPCCharacter id="polish_militia_axeman"  
+				name="{=E11POt08}Polish Militia Axeman" 
+				culture="Culture.polish">
+	</NPCCharacter>
+
+	<NPCCharacter id="polish_veteran_militia_axeman"  
+				name="{=E11POt09}Polish Veteran Militia Axeman" 
+				culture="Culture.polish">
+	</NPCCharacter>
+
+	<NPCCharacter id="polish_infantry_wlodyka"  
+				name="{=E11POt10}Polish Infantry Wlodyka" 
+				culture="Culture.polish">
+	</NPCCharacter>
+
+	<NPCCharacter id="polish_militia_archer"  
+				name="{=E11POt11}Polish Militia Archer" 
+				culture="Culture.polish">
+	</NPCCharacter>
+
+	<NPCCharacter id="polish_veteran_militia_archer"  
+				name="{=E11POt12}Polish Veteran Militia Archer" 
+				culture="Culture.polish">
+	</NPCCharacter>
+
+	<NPCCharacter id="polish_archer_wlodyka"  
+				name="{=E11POt13}Polish Archer Wlodyka" 
+				culture="Culture.polish">
+	</NPCCharacter>
+
+	<NPCCharacter id="polish_tarczownicy"  
+				name="{=E11POt14}Polish Tarczownicy" 
+				culture="Culture.polish">
+	</NPCCharacter>
+
+	<NPCCharacter id="polish_veteran_tarczownicy"  
+				name="{=E11POt15}Polish Veteran Tarczownicy" 
+				culture="Culture.polish">
+	</NPCCharacter>
+
+	<NPCCharacter id="polish_druzynnik"  
+				name="{=E11POt16}Polish Druzynnik" 
+				culture="Culture.polish">
+	</NPCCharacter>
+
+	<NPCCharacter id="polish_szlachta"  
+				name="{=E11POt17}Polish Szlachta" 
+				culture="Culture.polish">
+	</NPCCharacter>
+
+	<NPCCharacter id="polish_rycerz"  
+				name="{=E11POt18s}Polish Rycerz" 
+				culture="Culture.polish">
+	</NPCCharacter>
+
+	<NPCCharacter id="scottish_volunteer"  
+				name="{=E11SCt06}Scottish Neyf" 
+				culture="Culture.scottish">
+	</NPCCharacter>
+
+	<NPCCharacter id="scottish_militia_spearman"  
+				name="{=E11SCt07}Scottish Militia Spearman" 
+				culture="Culture.scottish">
+	</NPCCharacter>
+
+	<NPCCharacter id="scottish_veteran_militia_spearman"  
+				name="{=E11SCt08}Scottish Veteran Militia Spearman" 
+				culture="Culture.scottish">
+	</NPCCharacter>
+
+	<NPCCharacter id="scottish_highland_spearman"  
+				name="{=E11SCt09}Scottish Highland Spearman" 
+				culture="Culture.scottish">
+	</NPCCharacter>
+
+	<NPCCharacter id="scottish_militia_archer"  
+				name="{=E11SCt10}Scottish Militia Archer" 
+				culture="Culture.scottish">
+	</NPCCharacter>
+
+	<NPCCharacter id="scottish_veteran_militia_archer"  
+				name="{=E11SCt11}Scottish Veteran Militia Archer" 
+				culture="Culture.scottish">
+	</NPCCharacter>
+
+	<NPCCharacter id="scottish_highland_archer"  
+				name="{=E11SCt12}Scottish Highland Archer" 
+				culture="Culture.scottish">
+	</NPCCharacter>
+
+	<NPCCharacter id="scottish_swordsman"  
+				name="{=E11SCt13}Scottish Swordsman" 
+				culture="Culture.scottish">
+	</NPCCharacter>
+
+	<NPCCharacter id="scottish_highland_swordsman"  
+				name="{=E11SCt14}Scottish Highland Swordsman" 
+				culture="Culture.scottish">
+	</NPCCharacter>
+
+	<NPCCharacter id="scottish_light_cavalry"  
+				name="{=E11SCt15}Scottish Light Cavalry" 
+				culture="Culture.scottish">
+	</NPCCharacter>
+
+	<NPCCharacter id="scottish_knight"  
+				name="{=E11SCt16}Scottish Knight" 
+				culture="Culture.scottish">
+	</NPCCharacter>
+
+	<NPCCharacter id="scottish_champion_knight"  
+				name="{=E11SCt17}Scottish Champion Knight" 
+				culture="Culture.scottish">
+	</NPCCharacter>
+
+	<NPCCharacter id="spanish_levy"  
+				name="{=E11SPt07}Spanish Peones" 
+				culture="Culture.spanish">
+	</NPCCharacter>
+
+	<NPCCharacter id="spanish_militia_spearman"  
+				name="{=E11SPt08}Spanish Militia Spearman" 
+				culture="Culture.spanish">
+	</NPCCharacter>
+
+	<NPCCharacter id="spanish_veteran_militia_spearman"  
+				name="{=E11SPt09}Spanish Veteran Militia Spearman" 
+				culture="Culture.spanish">
+	</NPCCharacter>
+
+	<NPCCharacter id="spanish_bidet"  
+				name="{=E11SPt10}Spanish Bidet" 
+				culture="Culture.spanish">
+	</NPCCharacter>
+
+	<NPCCharacter id="spanish_militia_crossbowman"  
+				name="{=E11SPt11}Spanish Militia Crossbowman" 
+				culture="Culture.spanish">
+	</NPCCharacter>
+
+	<NPCCharacter id="spanish_veteran_militia_crossbowman"  
+				name="{=E11SPt12}Spanish Veteran Militia Crossbowman" 
+				culture="Culture.spanish">
+	</NPCCharacter>
+
+	<NPCCharacter id="spanish_ballestero"  
+				name="{=E11SPt13}Spanish Ballestero" 
+				culture="Culture.spanish">
+	</NPCCharacter>
+
+	<NPCCharacter id="spanish_light_cavalry"  
+				name="{=E11SPt14}Spanish Light Cavalry" 
+				culture="Culture.spanish">
+	</NPCCharacter>
+
+	<NPCCharacter id="spanish_jinite"  
+				name="{=E11SPt15}Spanish Jinite" 
+				culture="Culture.spanish">
+	</NPCCharacter>
+
+	<NPCCharacter id="spanish_talayeros"  
+				name="{=E11SPt16}Spanish Talayeros" 
+				culture="Culture.spanish">
+	</NPCCharacter>
+
+	<NPCCharacter id="spanish_caballeros"  
+				name="{=E11SPt17}Spanish Caballeros" 
+				culture="Culture.spanish">
+	</NPCCharacter>
+
+	<NPCCharacter id="spanish_noble_caballeros"  
+				name="{=E11SPt18}Spanish Noble Caballeros" 
+				culture="Culture.spanish">
+	</NPCCharacter>
 
 </NPCCharacters>
