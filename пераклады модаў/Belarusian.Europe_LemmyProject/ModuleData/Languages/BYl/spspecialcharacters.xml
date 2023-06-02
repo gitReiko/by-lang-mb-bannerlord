@@ -1,30 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
 <strings>
-<string id="ayyubid_bvjFhiDr" text="{HERO.FIRSTNAME} {?FEMALE}Škalarka{?}Škalar{\?} " />
-<string id="ayyubid_vtXRptVa" text="{HERO.FIRSTNAME} {?FEMALE}Załataja{?}Załaty{\?} " />
-<string id="ayyubid_TyxXbqVw" text="{HERO.FIRSTNAME} {?FEMALE}Sakalicha{?}Sokał{\?} " />
-<string id="ayyubid_4GIoPUen" text="{HERO.FIRSTNAME} {?FEMALE}Miečnica{?}Miečnik{\?} " />
-<string id="ayyubid_rgdi5Sxa" text="{HERO.FIRSTNAME} Prync " />
-<string id="ayyubid_OFWvD0xe" text="{HERO.FIRSTNAME} Hijena " />
-<string id="ayyubid_muC2SGlM" text="{HERO.FIRSTNAME} z Adkidaŭ " />
-<string id="ayyubid_28tWEFNi" text="{HERO.FIRSTNAME} {?FEMALE}Vandroŭnica{?}Vandroŭnik{\?} " />
-<string id="ayyubid_XBJtv4mD" text="{HERO.FIRSTNAME} {?FEMALE}Handlarka{?}Handlar{\?} Śpiecyjami " />
-<string id="ayyubid_NWuGUi4p" text="{HERO.FIRSTNAME} {?FEMALE}Leapardzicha{?}Leapard{\?} " />
-<string id="ayyubid_ACqta1a5" text="{HERO.FIRSTNAME} {?FEMALE}Inžynierka{?}Inžynier{\?} " />
+<!--input/spspecialcharacters/spspecialcharacters_ayyubid.xml-->
+<string id="ayyubid_bvjFhiDr" text="{FIRSTNAME} {?FEMALE}Škalarka{?}Škalar{\?} " />
+<string id="ayyubid_vtXRptVa" text="{FIRSTNAME} {?FEMALE}Załataja{?}Załaty{\?} " />
+<string id="ayyubid_TyxXbqVw" text="{FIRSTNAME} {?FEMALE}Sakalicha{?}Sokał{\?} " />
+<string id="ayyubid_4GIoPUen" text="{FIRSTNAME} {?FEMALE}Miečnica{?}Miečnik{\?} " />
+<string id="ayyubid_rgdi5Sxa" text="{FIRSTNAME} Prync " />
+<string id="ayyubid_OFWvD0xe" text="{FIRSTNAME} Hijena " />
+<string id="ayyubid_muC2SGlM" text="{FIRSTNAME} z Adkidaŭ " />
+<string id="ayyubid_28tWEFNi" text="{FIRSTNAME} {?FEMALE}Vandroŭnica{?}Vandroŭnik{\?} " />
+<string id="ayyubid_XBJtv4mD" text="{FIRSTNAME} {?FEMALE}Handlarka{?}Handlar{\?} Śpiecyjami " />
+<string id="ayyubid_NWuGUi4p" text="{FIRSTNAME} {?FEMALE}Leapardzicha{?}Leapard{\?} " />
+<string id="ayyubid_ACqta1a5" text="{FIRSTNAME} {?FEMALE}Inžynierka{?}Inžynier{\?} " />
 <string id="ayyubid_!" text="{FIRSTNAME} {?FEMALE}Handlarka{?}Handlar{\?} Finikami " />
-<string id="byzbvjFhiDr" text="{HERO.FIRSTNAME} {?FEMALE}Škalarka{?}Škalar{\?} " />
-<string id="byzxTQPfmS9" text="{HERO.FIRSTNAME} {?FEMALE}Karova{?}Byk{\?} " />
-<string id="byzIvx4uJVp" text="{HERO.FIRSTNAME} {?FEMALE}Cichaja{?}Cichi{\?} " />
-<string id="byz1OZBZZCi" text="{HERO.FIRSTNAME} {?FEMALE}Dzičycha{?}Dzik{\?} " />
-<string id="byzt9e34kgH" text="{HERO.FIRSTNAME} {?FEMALE}Hrabiežnica{?}Hrabiežnik{\?} " />
-<string id="byzpZSAdyC0" text="{HERO.FIRSTNAME} {?FEMALE}Miaśnica{?}Miaśnik{\?} " />
-<string id="byzOArAImbM" text="{HERO.FIRSTNAME} z Uzhorkaŭ " />
-<string id="byz28tWEFNi" text="{HERO.FIRSTNAME} {?FEMALE}Vandroŭnica{?}Vandroŭnik{\?} " />
-<string id="byzPQkMcfAW" text="{HERO.FIRSTNAME} {?FEMALE}Vyhnańnica{?}Vyhnańnik{\?} " />
-<string id="byz7apnGFz7" text="{HERO.FIRSTNAME} {?FEMALE}Čornaja{?}Čorny{\?} " />
-<string id="byzcud22JY1" text="{HERO.FIRSTNAME} Chirurh " />
-<string id="byze84pvBYI" text="{HERO.FIRSTNAME} {?FEMALE}Harotnaja{?}Harotny{\?} " />
+<!--input/spspecialcharacters/spspecialcharacters_byzantine.xml-->
+<string id="byzbvjFhiDr" text="{FIRSTNAME} {?FEMALE}Škalarka{?}Škalar{\?} " />
+<string id="byzxTQPfmS9" text="{FIRSTNAME} {?FEMALE}Karova{?}Byk{\?} " />
+<string id="byzIvx4uJVp" text="{FIRSTNAME} {?FEMALE}Cichaja{?}Cichi{\?} " />
+<string id="byz1OZBZZCi" text="{FIRSTNAME} {?FEMALE}Dzičycha{?}Dzik{\?} " />
+<string id="byzt9e34kgH" text="{FIRSTNAME} {?FEMALE}Hrabiežnica{?}Hrabiežnik{\?} " />
+<string id="byzpZSAdyC0" text="{FIRSTNAME} {?FEMALE}Miaśnica{?}Miaśnik{\?} " />
+<string id="byzOArAImbM" text="{FIRSTNAME} z Uzhorkaŭ " />
+<string id="byz28tWEFNi" text="{FIRSTNAME} {?FEMALE}Vandroŭnica{?}Vandroŭnik{\?} " />
+<string id="byzPQkMcfAW" text="{FIRSTNAME} {?FEMALE}Vyhnańnica{?}Vyhnańnik{\?} " />
+<string id="byz7apnGFz7" text="{FIRSTNAME} {?FEMALE}Čornaja{?}Čorny{\?} " />
+<string id="byzcud22JY1" text="{FIRSTNAME} Chirurh " />
+<string id="byze84pvBYI" text="{FIRSTNAME} {?FEMALE}Harotnaja{?}Harotny{\?} " />
 
+<!--input/spspecialcharacters/spspecialcharacters_goldenhorde.xml-->
+<string id="GH_sdzaip5J" text="{FIRSTNAME} {?FEMALE}Daśviedčanaja{?}Daśviedčany{\?}"/>
+<string id="GH_j2nVPqIX" text="{FIRSTNAME} Jastrab"/>
+<string id="GH_agS5lIg7" text="{FIRSTNAME} {?FEMALE}Biazbaćkaŭna{?}Biazbaćkavič{\?}"/>
+<string id="GH_QWbgE4bw" text="{FIRSTNAME} Žaleznaje Voka"/>
+<string id="GH_ykTARD4b" text="{FIRSTNAME} {?FEMALE}Vyhnanka{?}Vyhnaniec{\?}"/>
+<string id="GH_q5QjQyde" text="{FIRSTNAME} {?FEMALE}Varjatka{?}Varjat{\?}"/>
+<string id="GH_seS9ZZUW" text="{FIRSTNAME} Šery Sokał"/>
+<string id="GH_3wzexaA7" text="{FIRSTNAME} {?FEMALE}Vaŭčycha{?}Voŭk{\?}"/>
+<string id="GH_OIXub6bS" text="{FIRSTNAME} {?FEMALE}Samotnaja{?}Samotny{\?}"/>
+<string id="GH_KY2zbWkj" text="{FIRSTNAME} {?FEMALE}Chutkaja{?}Chutki{\?}"/>
+<string id="GH_CQOlMayc" text="{FIRSTNAME} {?FEMALE}Abadranka{?}Abadraniec{\?}"/>
 </strings>
 </base>
