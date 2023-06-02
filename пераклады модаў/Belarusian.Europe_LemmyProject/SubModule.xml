@@ -16,22 +16,43 @@
 		<DependedModule Id="Belarusian Core" DependentVersion="v1.1.4"/>
 	</DependedModules>
 	<SubModules/>
-	<Xmls> 
+	<Xmls>
+
 		<XmlNode>
-			<XmlName id="Settlements" path="settlements" />
+			<XmlName id="Settlement" path="FerryPoints" />
 			<IncludedGameTypes>
 				<GameType value="Campaign" />
 				<GameType value="CampaignStoryMode" />
 				<GameType value="CustomGame"/>
 			</IncludedGameTypes>
 		</XmlNode>
+
 		<XmlNode>
-			<XmlName id="MaritimeConcepts" path="MaritimeConcepts" />
+			<XmlName id="Settlement" path="LandingAreas" />
 			<IncludedGameTypes>
 				<GameType value="Campaign" />
 				<GameType value="CampaignStoryMode" />
 				<GameType value="CustomGame"/>
 			</IncludedGameTypes>
 		</XmlNode>
+
+		<XmlNode>
+			<XmlName id="Settlement" path="Ports" />
+			<IncludedGameTypes>
+				<GameType value="Campaign" />
+				<GameType value="CampaignStoryMode" />
+				<GameType value="CustomGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+
+		<XmlNode>
+			<XmlName id="Concept" path="MaritimeConcepts.xml" />
+			<IncludedGameTypes>
+				<GameType value="Campaign" />
+				<GameType value="CampaignStoryMode" />
+				<GameType value="CustomGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+
 	</Xmls>
 </Module>

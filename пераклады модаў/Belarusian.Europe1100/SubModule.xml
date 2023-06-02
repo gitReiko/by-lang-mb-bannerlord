@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Module>
-	<Name value = "Belarusian Europe_LemmyProject"/>
-	<Id value = "Belarusian Europe_LemmyProject"/>
+	<Name value = "Belarusian Europe 1100"/>
+	<Id value = "Belarusian Europe 1100"/>
 	<Version value = "v1.1.4"/>
 	<DefaultModule value="true"/>
 	<SingleplayerModule value="true"/>
@@ -18,39 +18,11 @@
 	<SubModules/>
 	<Xmls>
 
-		<XmlNode>
-			<XmlName id="Settlement" path="FerryPoints" />
+		<XmlNode>                
+			<XmlName id="NPCCharacters" path="unit_fixes148"/>
 			<IncludedGameTypes>
-				<GameType value="Campaign" />
-				<GameType value="CampaignStoryMode" />
-				<GameType value="CustomGame"/>
-			</IncludedGameTypes>
-		</XmlNode>
-
-		<XmlNode>
-			<XmlName id="Settlement" path="LandingAreas" />
-			<IncludedGameTypes>
-				<GameType value="Campaign" />
-				<GameType value="CampaignStoryMode" />
-				<GameType value="CustomGame"/>
-			</IncludedGameTypes>
-		</XmlNode>
-
-		<XmlNode>
-			<XmlName id="Settlement" path="Ports" />
-			<IncludedGameTypes>
-				<GameType value="Campaign" />
-				<GameType value="CampaignStoryMode" />
-				<GameType value="CustomGame"/>
-			</IncludedGameTypes>
-		</XmlNode>
-
-		<XmlNode>
-			<XmlName id="Concept" path="MaritimeConcepts.xml" />
-			<IncludedGameTypes>
-				<GameType value="Campaign" />
-				<GameType value="CampaignStoryMode" />
-				<GameType value="CustomGame"/>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
 			</IncludedGameTypes>
 		</XmlNode>
 
