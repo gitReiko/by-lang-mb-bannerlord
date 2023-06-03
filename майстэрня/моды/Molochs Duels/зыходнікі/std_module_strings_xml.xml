@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="English" />
+  </tags>
+  <strings>
+    <string id="molochsduels_player_challanges_enemy_entry" text="Let us settle this according to the old ways. I challenge you to a duel!" />
+    <string id="molochsduels_enemy_terms" text="What are your terms?" />
+    <string id="molochsduels_player_expects_surrender" text="I expect you to surrender, should you lose!" />
+    <string id="molochsduels_duel_before_battle" text="We shall meet one on one before our armies clash in battle!" />
+    <string id="molochsduels_player_expects_safe_passage" text="I expect you to allow us safe passage!" />
+    <string id="molochsduels_enemy_accepts_duel" text="I accept to meet you in honorable combat." />
+    <string id="molochsduels_enemy_accepts_duel_player_response" text="We shall meet on the field, then." />
+    <string id="molochsduels_enemy_declines_duel" text="I think not. Our armies will clash in battle!" />
+    
+    <string id="molochsduels_player_challanges_friendly_entry" text="I challenge you to a duel!" />
+    <string id="molochsduels_friendly_accepts_duel" text="Very well, we shall test our strengths." />
+    <string id="molochsduels_friendly_accepts_duel_player_response" text="We shall meet on the field, then." />
+    <string id="molochsduels_player_propose_wager" text="I propose a wager." />
+    <string id="molochsduels_player_propose_wager_friendly_response" text="How much do you care to bet on your skills?" />
+    <string id="molochsduels_money" text="denars" />
+    <string id="molochsduels_friendly_accepts_wager" text="I accept." />
+    
+    <string id="molochsduels_player_challanges_companion_entry" text="Let's test our skills one on one." />
+    <string id="molochsduels_companion_accepts_duel" text="Very well." />
+    
+    <string id="molochsduels_menu_begin_duel" text="Begin the duel" />
+    <string id="molochsduels_menu_capture_enemy" text="Capture the Enemy" />
+    <string id="molochsduels_menu_player_win_let_enemy_go" text="Leave" />
+    <string id="molochsduels_menu_player_lost_let_player_go" text="Leave" />
+    <string id="molochsduels_menu_player_surrender" text="surrender" />
+    <string id="molochsduels_menu_duel_horseback_on" text="Duel on horseback: ON" />
+    <string id="molochsduels_menu_duel_horseback_off" text="Duel on horseback: OFF" />
+    <string id="molochsduels_menu_go_to_encouter" text="Go to battle" />
+    <string id="molochsduels_menu_header" text="You make your preparations to meet your opponent in honorable combat." />
+    <string id="molochsduels_menu_duel_won" text="You have won the duel!" />
+    <string id="molochsduels_menu_duel_won_enemy_refuses_surrender" text="You have won the duel! However, the dishonorable lord refuses to surrender!" />
+    <string id="molochsduels_menu_duel_lost" text="You have lost the duel!" />
+    
+    <string id="molochsduels_relationship_increased" text="Your relation with {0} has increased to {1}." />
+    <string id="molochsduels_relationship_decreased" text="Your relation with {0} has decreased to {1}." />
+    <string id="molochsduels_received_gold" text="You have received {0} denars." />
+    <string id="molochsduels_lost_gold" text="You have lost {0} denars." />
+    <string id="molochsduels_receive_renown_and_influence" text="You have gained {0} renown and influence." />
+    <string id="molochsduels_receive_renown" text="You have gained {0} renown." />
+  </strings>
+</base>
