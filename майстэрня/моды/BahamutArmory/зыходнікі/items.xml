@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You can add new or override old items(weapons and armors) by adding nodes to this xml.
+For examples please refer to: SandBoxCore/ModuleData/spitems/arm_armors.xml.-->
+<Items>
+
+      <Item id="ba_plategreaves" name="Plate Boots" mesh="ba_plategreaves" culture="Culture.vlandia" weight="2.5" difficulty="0" appearance="1" value="12000" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="30" covers_legs="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  
+       <Item id="ba_platearmor" name="Full Plate Armor with Rondel" mesh="ba_platearmor" is_merchandise="true" subtype="body_armor" value="90000" culture="Culture.vlandia" weight="24" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="56" leg_armor="25" arm_armor="20" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item> 
+
+       <Item id="ba_platearmor2" name="Full Plate Armor " mesh="ba_platearmor2" is_merchandise="true" subtype="body_armor" value="80000" culture="Culture.vlandia" weight="24" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="53" leg_armor="25" arm_armor="18" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item> 
+ 
+ <Item id="ba_gorget" name="Plate Gorget" mesh="ba_gorget" is_merchandise="true" value="9000" culture="Culture.vlandia" weight="3.6" appearance="1" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="20" arm_armor="0" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  
+  <Item id="ba_closehelm" name="Plate Close Helmet" subtype="head_armor" mesh="ba_closehelm" culture="Culture.vlandia" weight="4" difficulty="0" appearance="1" value="40000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="58" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />	
+  </Item>
+  
+    <Item id="ba_bolzanogreathelmet" name="Great Helmet" subtype="head_armor" mesh="ba_bolzanogreathelmet" culture="Culture.vlandia" weight="4" difficulty="0" appearance="1" value="40000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="56" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />	
+  </Item>
+
+  <Item id="ba_plategauntlet" name="Plate Gauntlets" mesh="ba_plategauntlet" is_merchandise="true" subtype="body_armor" value="14000" culture="Culture.vlandia" weight="2.9" difficulty="0" appearance="1" Type="HandArmor">
+    <ItemComponent>
+    <Armor body_armor="0" leg_armor="0" arm_armor="30" covers_hands="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>  
+
+  <Item id="ba_plategauntletgold" name="Gold Plate Gauntlets" mesh="ba_plategauntletgold" is_merchandise="true" subtype="body_armor" value="24000" culture="Culture.vlandia" weight="2.9" difficulty="0" appearance="1" Type="HandArmor">
+    <ItemComponent>
+    <Armor body_armor="0" leg_armor="0" arm_armor="30" covers_hands="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>  
+
+  <Item id="ba_closehelmgold" name="Gold Plate Close Helmet" subtype="head_armor" mesh="ba_closehelmgold" culture="Culture.vlandia" weight="4" difficulty="0" appearance="1" value="45000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="58" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />	
+  </Item>
+
+ <Item id="ba_gorgetgold" name="Gold Plate Gorget" mesh="ba_gorgetgold" is_merchandise="true" value="12000" culture="Culture.vlandia" weight="3.6" appearance="1" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="20" arm_armor="0" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+
+       <Item id="ba_platearmor2gold" name="Gold Full Plate Armor " mesh="ba_platearmor2gold" is_merchandise="true" subtype="body_armor" value="120000" culture="Culture.vlandia" weight="24" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="53" leg_armor="25" arm_armor="18" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item> 
+
+       <Item id="ba_platearmorgold" name="Gold Full Plate Armor with Rondel" mesh="ba_platearmorgold" is_merchandise="true" subtype="body_armor" value="120000" culture="Culture.vlandia" weight="24" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="56" leg_armor="25" arm_armor="20" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item> 
+
+      <Item id="ba_plategreavesgold" name="Gold Plate Boots" mesh="ba_plategreavesgold" culture="Culture.vlandia" weight="2.5" difficulty="0" appearance="1" value="22000" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="30" covers_legs="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+
+       <Item id="ba_platearmor2worn" name="Battered Full Plate Armor " mesh="ba_platearmor2worn" is_merchandise="true" subtype="body_armor" value="80000" culture="Culture.vlandia" weight="25" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="49" leg_armor="24" arm_armor="16" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item> 
+
+  <Item id="ba_plategauntletworn" name="Battered Plate Gauntlets" mesh="ba_plategauntletworn" is_merchandise="true" subtype="body_armor" value="11000" culture="Culture.vlandia" weight="2.9" difficulty="0" appearance="1" Type="HandArmor">
+    <ItemComponent>
+    <Armor body_armor="0" leg_armor="0" arm_armor="29" covers_hands="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>  
+
+  <Item id="ba_openhelm2" name="Battered Open Sallet" subtype="head_armor" mesh="ba_openhelm2" culture="Culture.vlandia" weight="4" difficulty="0" appearance="1" value="30000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="41" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type3" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />	
+  </Item>
+
+      <Item id="ba_plategreavesworn" name="BatteredPlate Boots" mesh="ba_plategreavesworn" culture="Culture.vlandia" weight="2.5" difficulty="0" appearance="1" value="8000" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="27" covers_legs="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+
+  <Item id="ba_closehelmworn" name="Battered Close Helmet" subtype="head_armor" mesh="ba_closehelmworn" culture="Culture.vlandia" weight="4" difficulty="0" appearance="1" value="40000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="55" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />	
+  </Item>
+
+  <Item id="ba_opensallet" name="Worn Open Sallet" subtype="head_armor" mesh="ba_opensallet" culture="Culture.vlandia" weight="4" difficulty="0" appearance="1" value="60000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="50" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />	
+  </Item>
+
+  <Item id="ba_opensalletclean" name="Plate Open Sallet" subtype="head_armor" mesh="ba_opensalletclean" culture="Culture.vlandia" weight="4" difficulty="0" appearance="1" value="60000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="50" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />	
+  </Item>
+
+  <Item id="ba_sallet" name="Worn Sallet" subtype="head_armor" mesh="ba_sallet" culture="Culture.vlandia" weight="4" difficulty="0" appearance="1" value="35000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="52" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />	
+  </Item>
+
+  <Item id="ba_salletclean" name="Sallet" subtype="head_armor" mesh="ba_salletclean" culture="Culture.vlandia" weight="4" difficulty="0" appearance="1" value="35000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="52" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />	
+  </Item>
+
+  <Item id="ba_salletpainted" name="Painted Sallet" subtype="head_armor" mesh="ba_salletpainted" culture="Culture.vlandia" weight="4" difficulty="0" appearance="1" value="35000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="52" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />	
+  </Item>
+
+  <Item id="ba_closedsallet" name="Worn Closed Sallet" subtype="head_armor" mesh="ba_closedsallet" culture="Culture.vlandia" weight="4" difficulty="0" appearance="1" value="40000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="55" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />	
+  </Item>
+
+  <Item id="ba_closedsalletclean" name="Plate Closed Sallet" subtype="head_armor" mesh="ba_closedsalletclean" culture="Culture.vlandia" weight="4" difficulty="0" appearance="1" value="40000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="55" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />	
+  </Item>
+  
+  <Item id="ba_closedsalletpainted" name="Painted Closed Sallet" subtype="head_armor" mesh="ba_closedsalletpainted" culture="Culture.vlandia" weight="4" difficulty="0" appearance="1" value="40000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="55" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />	
+  </Item>  
+
+ <Item id="ba_largepauldron" name="Large Pauldrons" mesh="ba_largepauldron" is_merchandise="true" value="12000" culture="Culture.vlandia" weight="4.5" appearance="1" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="20" arm_armor="10" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+
+ <Item id="ba_largepauldronclean" name="Large Plate Pauldrons" mesh="ba_largepauldronclean" is_merchandise="true" value="14000" culture="Culture.vlandia" weight="4.5" appearance="1" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="21" arm_armor="10" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+
+       <Item id="ba_heraldictabard3" name="Tabard over Plate Armor" mesh="ba_heraldictabard3" is_merchandise="true" subtype="body_armor" value="90000" culture="Culture.vlandia" weight="27" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="50" leg_armor="26" arm_armor="16" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item> 
+
+ <Item id="ba_knightpad2" name="Plate Pauldrons" mesh="ba_knightpad2" is_merchandise="true" value="15000" culture="Culture.vlandia" weight="4.5" appearance="1" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="18" arm_armor="5" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  
+ <Item id="ba_knightpad_gold1" name="Gold Plate Pauldrons" mesh="ba_knightpad_gold1" is_merchandise="true" value="17000" culture="Culture.vlandia" weight="4.5" appearance="1" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="18" arm_armor="5" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>  
+
+ <Item id="ba_knightpadgorget1" name="Plate Pauldrons with Gorget" mesh="ba_knightpadgorget1" is_merchandise="true" value="16000" culture="Culture.vlandia" weight="4.5" appearance="1" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="24" arm_armor="7" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>  
+  
+ <Item id="ba_knightpadgorget_gold1" name="Gold Plate Pauldrons with Gorget" mesh="ba_knightpadgorget_gold1" is_merchandise="true" value="18000" culture="Culture.vlandia" weight="4.5" appearance="1" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="24" arm_armor="7" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+
+ <Item id="ba_knightpadcape3" name="Plate Pauldrons with Cape" mesh="ba_knightpadcape3" is_merchandise="true" value="18000" culture="Culture.vlandia" weight="4.5" appearance="1" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="24" arm_armor="7" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+
+ <Item id="ba_knightpadcapegold" name="Gold Plate Pauldrons with Cape" mesh="ba_knightpadcapegold" is_merchandise="true" value="22000" culture="Culture.vlandia" weight="4.5" appearance="1" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="25" arm_armor="7" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+
+  <Item id="ba_sipahihelmet" name="Chichak Helmet" subtype="head_armor" mesh="ba_sipahihelmet" culture="Culture.aserai" weight="4" difficulty="0" appearance="1" value="30000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="43" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />	
+  </Item>
+
+  <Item id="ba_turban_helmet_1" name="Gold Turban Helmet" subtype="head_armor" mesh="ba_turban_helmet_1" culture="Culture.aserai" weight="4" difficulty="0" appearance="1" value="35000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="47" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />	
+  </Item>
+
+  <Item id="ba_turban_helmet_1clean" name="Turban Helmet" subtype="head_armor" mesh="ba_turban_helmet_1clean" culture="Culture.aserai" weight="4" difficulty="0" appearance="1" value="35000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="46" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />	
+  </Item>
+
+  <Item id="ba_turbanhelmet_2" name="Gold Open Turban Helmet" subtype="head_armor" mesh="ba_turbanhelmet_2" culture="Culture.aserai" weight="4" difficulty="0" appearance="1" value="34000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="40" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />	
+  </Item>
+
+  <Item id="ba_turbanhelmet_2clean" name="Open Turban Helmet" subtype="head_armor" mesh="ba_turbanhelmet_2clean" culture="Culture.aserai" weight="4" difficulty="0" appearance="1" value="30000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="40" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />	
+  </Item>
+
+</Items>
+
