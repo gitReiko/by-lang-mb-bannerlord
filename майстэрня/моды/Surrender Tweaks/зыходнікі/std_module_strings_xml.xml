@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="English" />
+  </tags>
+  <strings>
+    <string id="SurrenderTweaks01" text="Chance of Surrender: High" />
+    <string id="SurrenderTweaks02" text="Chance of Surrender: Very High" />
+    <string id="SurrenderTweaks03" text="You cannot attack this party for {LORD_BRIBE_COOLDOWN} {?PLURAL}days{?}day{\\?}." />
+    <string id="SurrenderTweaks04" text="I can pay you for my safe passage. Here is {MONEY}{GOLD_ICON}. Just take it and let me and my troops go.[if:idle_angry][ib:nervous]" />
+    <string id="SurrenderTweaks05" text="A wise choice for you and your troops. You are free to go." />
+    <string id="SurrenderTweaks06" text="None of you are going anywhere. I want prisoners." />
+    <string id="SurrenderTweaks07" text="I can't fight you. I yield. I am at your mercy.[if:idle_angry][ib:nervous]" />
+    <string id="SurrenderTweaks08" text="I would rather fight than be taken prisoner.[if:idle_angry][ib:warrior]" />
+    <string id="SurrenderTweaks09" text="You cannot attack this settlement for {SETTLEMENT_BRIBE_COOLDOWN} {?PLURAL}days{?}day{\\?}." />
+    <string id="SurrenderTweaks10" text="We are low on food. There is no need to starve us. We can pay you to end the siege. Here is {MONEY}{GOLD_ICON}. Just take it and have mercy on us." />
+    <string id="SurrenderTweaks11" text="I will have mercy on you for now. You have escaped doom, but not for long." />
+    <string id="SurrenderTweaks12" text="What a joke! You will stop starving when this settlement falls... or when you fall." />
+    <string id="SurrenderTweaks13" text="We are out of food. We don't want to starve any longer. We yield." />
+    <string id="SurrenderTweaks14" text="Defenders request to parley" />
+    <string id="SurrenderTweaks15" text="The defenders sound a horn and open the gates. A messenger rides out towards your camp and requests to parley." />
+    <string id="SurrenderTweaks16" text="OK" />
+    <string id="SurrenderTweaks17" text="Multipliers" />
+    <string id="SurrenderTweaks18" text="Chance of Bribe" />
+    <string id="SurrenderTweaks19" text="Multiplier for chance of bribe. Default is 1.0." />
+    <string id="SurrenderTweaks20" text="Chance of Surrender" />
+    <string id="SurrenderTweaks21" text="Multiplier for chance of surrender. Default is 1.0." />
+    <string id="SurrenderTweaks22" text="Settlement Nutrition Bonus" />
+    <string id="SurrenderTweaks23" text="Multiplier for a besieged settlement's nutrition bonus. Default is 1.0." />
+    <string id="SurrenderTweaks24" text="Settlement Starvation Penalty" />
+    <string id="SurrenderTweaks25" text="Multiplier for a besieged settlement's starvation penalty. Default is 1.0." />
+    <string id="SurrenderTweaks26" text="Bribe Amount" />
+    <string id="SurrenderTweaks27" text="Multiplier for the bribe amount. Default is 1.0." />
+    <string id="SurrenderTweaks28" text="Bribe Cooldowns" />
+    <string id="SurrenderTweaks29" text="Lord Bribe Cooldown" />
+    <string id="SurrenderTweaks30" text="Number of days cooldown for lord bribes. Default is 10." />
+    <string id="SurrenderTweaks31" text="Settlement Bribe Cooldown" />
+    <string id="SurrenderTweaks32" text="Number of days cooldown for settlement bribes. Default is 10." />
+  </strings>
+</base>
