@@ -1,0 +1,4224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+
+<!--npcs-->
+
+  <!--tavern-->
+ 
+ <NPCCharacter id="tavernkeeper_vlandia"
+                default_group="Infantry"
+                is_hero="false"
+                name="{=CsjtWt1g}Tavern Keeper"
+                occupation="Tavernkeeper"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_vlandia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Head"
+                   id="Item.leather_cap" />
+        <equipment slot="Body"
+                   id="Item.leather_apron" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Head"
+                   id="Item.leather_cap" />
+        <equipment slot="Cape"
+                   id="Item.scarf" />
+        <equipment slot="Body"
+                   id="Item.cloth_apron" />
+        <equipment slot="Leg"
+                   id="Item.wrapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.half_apron" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_vlandia" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <!--taverngame-->
+  
+  <NPCCharacter id="taverngamehost_vlandia"
+                default_group="Infantry"
+                is_hero="false"
+                name="{=twCIejxn}Game Host"
+                occupation="TavernGameHost"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_vlandia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Head"
+                   id="Item.leather_cap" />
+        <equipment slot="Body"
+                   id="Item.bandit_leather_water_flask" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Head"
+                   id="Item.leather_cap" />
+        <equipment slot="Body"
+                   id="Item.long_woolen_tunic" />
+        <equipment slot="Leg"
+                   id="Item.wrapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.monk_robe" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cloth_tunic" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_empire" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <!--musician-->
+  
+  <NPCCharacter id="musician_vlandia"
+                default_group="Infantry"
+                is_hero="false"
+                name="{=zfCoeglY}Musician"
+                occupation="Musician"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_vlandia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Head"
+                   id="Item.leather_cap" />
+        <equipment slot="Body"
+                   id="Item.bandit_leather_water_flask" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Head"
+                   id="Item.leather_cap" />
+        <equipment slot="Body"
+                   id="Item.long_woolen_tunic" />
+        <equipment slot="Cape"
+                   id="Item.scarf" />
+        <equipment slot="Leg"
+                   id="Item.wrapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.long_hemp_tunic" />
+        <equipment slot="Cape"
+                   id="Item.scarf" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.tunic_with_rolled_cloth" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_empire" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <!--tavernwench-->
+  
+  <NPCCharacter id="tavern_wench_vlandia"
+                default_group="Infantry"
+                name="{=z6RMWTaA}Tavern Maid"
+                is_female="true"
+                is_hero="false"
+                occupation="TavernWench"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.townswoman_vlandia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cut_dress" />
+        <equipment slot="Head"
+                   id="Item.head_wrapped" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cut_dress_with_pouch" />
+        <equipment slot="Head"
+                   id="Item.head_wrapped" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cut_dress" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cut_dress_with_pouch" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cut_dress" />
+        <equipment slot="Cape"
+                   id="Item.scarf" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cut_dress_with_pouch" />
+        <equipment slot="Cape"
+                   id="Item.scarf" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_vlandia" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <!--armorer-->
+  
+  <NPCCharacter id="armorer_vlandia"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Armorer"
+                culture="Culture.vlandia"
+                name="{=jx8ohENz}Armorer"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_vlandia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.short_sword_t3" />
+        <equipment slot="Head"
+                   id="Item.leather_cap" />
+        <equipment slot="Body"
+                   id="Item.leather_apron" />
+        <equipment slot="Leg"
+                   id="Item.battania_leather_boots" />
+        <equipment slot="Gloves"
+                   id="Item.leather_gloves" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.short_sword_t3" />
+        <equipment slot="Body"
+                   id="Item.leather_apron" />
+        <equipment slot="Leg"
+                   id="Item.leather_boots" />
+        <equipment slot="Gloves"
+                   id="Item.leather_gloves" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_vlandia" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <!--horsemerchant-->
+  
+  <NPCCharacter id="horseMerchant_vlandia"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="HorseTrader"
+                culture="Culture.vlandia"
+                name="{=79ElOr2x}Horse Trader"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_vlandia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.short_sword_t3" />
+        <equipment slot="Body"
+                   id="Item.merchants_fur_coat" />
+        <equipment slot="Head"
+                   id="Item.merchants_hat" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.short_sword_t3" />
+        <equipment slot="Head"
+                   id="Item.merchants_hat" />
+        <equipment slot="Body"
+                   id="Item.merchants_fur_coat" />
+        <equipment slot="Leg"
+                   id="Item.wrapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_vlandia" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <!--vlandia-->
+  
+  <NPCCharacter id="merchant_vlandia"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="GoodsTrader"
+                culture="Culture.vlandia"
+                name="{=thbcgVVO}Trader"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_vlandia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.short_sword_t3" />
+        <equipment slot="Body"
+                   id="Item.cloth_apron" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+        <equipment slot="Head"
+                   id="Item.merchants_hat" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.short_sword_t3" />
+        <equipment slot="Body"
+                   id="Item.cloth_apron" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.short_sword_t3" />
+        <equipment slot="Body"
+                   id="Item.half_apron" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+        <equipment slot="Head"
+                   id="Item.merchants_hat" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.short_sword_t3" />
+        <equipment slot="Body"
+                   id="Item.half_apron" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.short_sword_t3" />
+        <equipment slot="Body"
+                   id="Item.merchants_fur_coat" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.short_sword_t3" />
+        <equipment slot="Body"
+                   id="Item.merchants_fur_coat" />
+        <equipment slot="Head"
+                   id="Item.merchants_hat" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_vlandia" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <!--beggar-->
+  
+  <NPCCharacter id="beggar_vlandia"
+                default_group="Infantry"
+                name="{=malebeggar}Beggar"
+                occupation="Townsfolk"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <!--face_key value="000507400600141300000000000000100000000000000000000000000000000000010bacf10000000000000000000000000000000000000000000000000000c1" max_value="001cffffd50034d4fffffffffff0fffffffffffffffffffffffffeffffffffff00010baff1ffffff000000000000000000000000000000000000000000008101" /-->
+      <BodyProperties version="4"
+                      age="62.61"
+                      weight="0.1413"
+                      build="0.1767"
+                      key="0005040006001413000000000007001000000000000000000000000000000000000A7BA701000000000000000000000000000000000000000000000000C800C1" />
+      <BodyPropertiesMax version="4"
+                         age="55.95"
+                         weight="0.3769"
+                         build="0.3767"
+                         key="001CFC0FD50034D4FFFFFFFFFFF7FFFFFFFFFFFFFFFFFFFFFFFFFEFFFFFFFFFF000A7BA701FFFFFF000000000000000000000000000000000000000000C88101" />
+    </face>
+    <skills></skills>
+    <!-- Uses village hair -->
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.torn_bandit_clothes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.torn_bandit_clothes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Head"
+                   id="Item.leather_cap" />
+        <equipment slot="Body"
+                   id="Item.bandit_envelope_dress_v1" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_vlandia" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="female_beggar_vlandia"
+                default_group="Infantry"
+                is_female="true"
+                level="1"
+                name="{=femalebeggar}Beggar"
+                occupation="Townsfolk"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.townswoman_vlandia" />
+    </face>
+    <skills></skills>
+    <!-- Uses village hair -->
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.torn_bandit_clothes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.plain_dress" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Head"
+                   id="Item.aserai_villager_female_headdress" />
+        <equipment slot="Body"
+                   id="Item.bandit_envelope_dress_v1" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_vlandia" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <!--vlandia-->
+  
+  <NPCCharacter id="female_dancer_vlandia"
+                default_group="Infantry"
+                name="{=X3KYysuv}Dancer"
+                is_female="true"
+                is_hero="false"
+                occupation="Townsfolk"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.townswoman_vlandia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cut_dress" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cut_dress_with_pouch" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_vlandia" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <!--tournament-->
+  
+   <NPCCharacter id="tournament_master_vlandia"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="ArenaMaster"
+                culture="Culture.vlandia"
+                name="{=IHKXNP9H}Tournament Master"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_vlandia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.short_sword_t3" />
+        <equipment slot="Body"
+                   id="Item.merchants_fur_coat" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_vlandia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <!--villagers-->
+  
+  <NPCCharacter id="villager_infant_vlandia"
+                name="{=maleinfant}Infant"
+                age="3"
+                is_female="false"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Villager"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_vlandia" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.sackcloth_tunic" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="vla_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="villager_child_vlandia"
+                name="{=malechild}Child"
+                age="6"
+                is_female="false"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Villager"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_vlandia" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.sackcloth_tunic" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.long_woolen_tunic" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="vla_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="villager_teenager_vlandia"
+                name="{=maleteenager}Teenager"
+                age="14"
+                is_female="false"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Villager"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_vlandia" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.long_woolen_tunic" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cloth_apron" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.monk_robe" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentSet id="vla_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="village_woman_infant_vlandia"
+                name="{=femaleinfant}Infant"
+                age="3"
+                is_female="true"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Villager"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.townswoman_vlandia" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.sackcloth_tunic" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_vlandia" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="village_woman_child_vlandia"
+                name="{=femalechild}Child"
+                age="6"
+                is_female="true"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Villager"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.townswoman_vlandia" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.sackcloth_tunic" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.long_woolen_tunic" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_vlandia" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="village_woman_teenager_vlandia"
+                name="{=femaleteenager}Teenager"
+                age="14"
+                is_female="true"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Villager"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.townswoman_vlandia" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.long_woolen_tunic" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cloth_apron" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.monk_robe" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_vlandia" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="village_woman_vlandia"
+                default_group="Infantry"
+                is_female="true"
+                level="1"
+                name="{=E11FRt01}Frankish Peasant"
+                occupation="Villager"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.townswoman_vlandia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.vlandian_woman_dress" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.plain_dress" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.dress_with_overall" />
+        <equipment slot="Leg"
+                   id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.laced_dress" />
+        <equipment slot="Leg"
+                   id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cut_dress" />
+        <equipment slot="Cape"
+                   id="Item.female_hood" />
+        <equipment slot="Leg"
+                   id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cut_dress_with_pouch" />
+        <equipment slot="Cape"
+                   id="Item.female_scarf" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.vlandian_woman_dress" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+        <equipment slot="Cape"
+                   id="Item.female_scarf" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.plain_dress" />
+        <equipment slot="Cape"
+                   id="Item.female_scarf" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.dress_with_overall" />
+        <equipment slot="Cape"
+                   id="Item.female_scarf" />
+        <equipment slot="Leg"
+                   id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.laced_dress" />
+        <equipment slot="Cape"
+                   id="Item.female_scarf" />
+        <equipment slot="Leg"
+                   id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cut_dress" />
+        <equipment slot="Leg"
+                   id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cut_dress_with_pouch" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Body"
+                   id="Item.cut_dress_with_pouch" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  
+  <!--caravan-->
+  
+  <NPCCharacter id="caravan_master_vlandia"
+                default_group="Infantry"
+                level="26"
+                name="{=E11FRt02}Frankish Caravan Master"
+                occupation="CaravanGuard"
+                culture="Culture.vlandia">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="130" />
+      <skill id="Riding"
+             value="130" />
+      <skill id="OneHanded"
+             value="160" />
+      <skill id="TwoHanded"
+             value="80" />
+      <skill id="Polearm"
+             value="60" />
+      <skill id="Bow"
+             value="80" />
+      <skill id="Crossbow"
+             value="20" />
+      <skill id="Throwing"
+             value="50" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+				<equipment slot="Item0" id="Item.northern_javelin_2_t3"/>
+				<equipment slot="Item1" id="Item.desert_round_shield"/>
+				<equipment slot="Item2" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item3" id="Item.vlandia_sword_2_t3"/>
+				<equipment slot="Head" id="Item.cercelliere_1"/>
+				<equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.chainskirt_strap_1"/>
+				<equipment slot="Leg" id="Item.bootssta_1"/>
+
+
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.vlandia_sword_2_t3" />
+        <equipment slot="Head"
+                   id="Item.pointed_skullcap_over_laced_coif" />
+        <equipment slot="Body"
+                   id="Item.banded_leather_over_mail" />
+        <equipment slot="Leg"
+                   id="Item.battania_leather_boots" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  
+  <!--armed trader-->
+  
+  <NPCCharacter id="armed_trader_vlandia"
+                default_group="Ranged"
+                level="16"
+                name="{=E11FRt03}Frankish Armed Trader"
+                occupation="CaravanGuard"
+                culture="Culture.vlandia"
+                is_basic_troop="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="80" />
+      <skill id="Riding"
+             value="10" />
+      <skill id="OneHanded"
+             value="60" />
+      <skill id="TwoHanded"
+             value="40" />
+      <skill id="Polearm"
+             value="40" />
+      <skill id="Bow"
+             value="30" />
+      <skill id="Crossbow"
+             value="70" />
+      <skill id="Throwing"
+             value="30" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+				<equipment slot="Item0" id="Item.crossbow_e"/>
+				<equipment slot="Item1" id="Item.bolt_a"/>
+				<equipment slot="Item2" id="Item.vlandia_sword_1_t2"/>
+				<equipment slot="Body" id="Item.sackcloth_tunic"/>
+				<equipment slot="Cape" id="Item.steelcross1"/>
+				<equipment slot="Head" id="Item.sta_norm_nasal_1"/>
+				<equipment slot="Leg" id="Item.bootssta_1"/>
+			</EquipmentRoster>
+			     			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.crossbow_e"/>
+				<equipment slot="Item1" id="Item.bolt_a"/>
+				<equipment slot="Item2" id="Item.vlandia_sword_1_t2"/>
+				<equipment slot="Head" id="Item.sta_norm_nasal_1"/>
+				<equipment slot="Body" id="Item.long_woolen_tunic"/>
+				<equipment slot="Leg" id="Item.bootssta_1"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.crossbow_a" />
+        <equipment slot="Item1"
+                   id="Item.bolt_a" />
+        <equipment slot="Item2"
+                   id="Item.vlandia_sword_1_t2" />
+        <equipment slot="Body"
+                   id="Item.layered_leather_tunic" />
+        <equipment slot="Leg"
+                   id="Item.leather_cavalier_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.crossbow_a" />
+        <equipment slot="Item1"
+                   id="Item.bolt_a" />
+        <equipment slot="Item2"
+                   id="Item.vlandia_sword_1_t2" />
+        <equipment slot="Body"
+                   id="Item.gambeson_b" />
+        <equipment slot="Leg"
+                   id="Item.leather_cavalier_boots" />
+        <equipment slot="Cape"
+                   id="Item.hood" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  
+  <!--caravan guard-->
+  
+  <NPCCharacter id="caravan_guard_vlandia"
+                default_group="Cavalry"
+                level="21"
+                name="{=E11FRt04}Frankish Caravan Guard"
+                upgrade_requires="ItemCategory.horse"
+                occupation="CaravanGuard"
+                culture="Culture.vlandia">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="40" />
+      <skill id="Riding"
+             value="100" />
+      <skill id="OneHanded"
+             value="110" />
+      <skill id="TwoHanded"
+             value="15" />
+      <skill id="Polearm"
+             value="160" />
+      <skill id="Bow"
+             value="40" />
+      <skill id="Crossbow"
+             value="60" />
+      <skill id="Throwing"
+             value="15" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+				<equipment slot="Item0" id="Item.northern_javelin_2_t3"/>
+				<equipment slot="Item1" id="Item.desert_round_shield"/>
+				<equipment slot="Item2" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item3" id="Item.vlandia_sword_2_t3"/>
+				<equipment slot="Head" id="Item.sta_norm_nasal_1"/>
+				<equipment slot="Body" id="Item.long_woolen_tunic"/>
+				<equipment slot="Cape" id="Item.battania_woodland_cloak"/>
+				<equipment slot="Leg" id="Item.bootssta_1"/>
+				<equipment slot="Horse" id="Item.t3_empire_horse"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+						<EquipmentRoster>
+				
+				<equipment slot="Item0" id="Item.northern_javelin_2_t3"/>
+				<equipment slot="Item1" id="Item.desert_round_shield"/>
+				<equipment slot="Item2" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item3" id="Item.vlandia_sword_2_t3"/>
+				<equipment slot="Head" id="Item.sta_norm_nasal_1"/>
+				<equipment slot="Body" id="Item.sackcloth_tunic"/>
+				<equipment slot="Cape" id="Item.desert_leather_shoulderpad"/>
+				<equipment slot="Leg" id="Item.bootssta_1"/>
+				<equipment slot="Horse" id="Item.t3_empire_horse"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+						<EquipmentRoster>
+				<equipment slot="Item0" id="Item.northern_javelin_2_t3"/>
+				<equipment slot="Item1" id="Item.desert_round_shield"/>
+				<equipment slot="Item2" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item3" id="Item.vlandia_sword_2_t3"/>
+				<equipment slot="Head" id="Item.sta_norm_nasal_1"/>
+				<equipment slot="Body" id="Item.long_woolen_tunic"/>
+				<equipment slot="Cape" id="Item.el_Cross_cloak_1"/>
+				<equipment slot="Leg" id="Item.bootssta_1"/>
+				<equipment slot="Horse" id="Item.t3_empire_horse"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.western_spear_3_t3" />
+        <equipment slot="Item1"
+                   id="Item.vlandia_sword_2_t3" />
+        <equipment slot="Item2"
+                   id="Item.battered_kite_shield" />
+        <equipment slot="Head"
+                   id="Item.nasal_cervelliere_over_padded_coif" />
+        <equipment slot="Body"
+                   id="Item.padded_short_coat" />
+        <equipment slot="Leg"
+                   id="Item.leather_cavalier_boots" />
+        <equipment slot="Gloves"
+                   id="Item.leather_gloves" />
+        <equipment slot="Cape"
+                   id="Item.scarf" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.western_spear_3_t3" />
+        <equipment slot="Item1"
+                   id="Item.vlandia_sword_2_t3" />
+        <equipment slot="Item2"
+                   id="Item.battered_kite_shield" />
+        <equipment slot="Head"
+                   id="Item.cervelliere_over_arming_coif" />
+        <equipment slot="Body"
+                   id="Item.mail_shirt" />
+        <equipment slot="Leg"
+                   id="Item.leather_cavalier_boots" />
+        <equipment slot="Gloves"
+                   id="Item.leather_gloves" />
+        <equipment slot="Cape"
+                   id="Item.hood" />
+      </EquipmentRoster>
+      <equipment slot="Horse"
+                 id="Item.vlandia_horse" />
+      <equipment slot="HorseHarness"
+                 id="Item.light_harness" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="veteran_caravan_guard_vlandia"
+                default_group="Cavalry"
+                level="26"
+                name="{=E11FRt05}Frankish Veteran Caravan Guard"
+                occupation="CaravanGuard"
+                culture="Culture.vlandia">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="80" />
+      <skill id="Riding"
+             value="130" />
+      <skill id="OneHanded"
+             value="130" />
+      <skill id="TwoHanded"
+             value="80" />
+      <skill id="Polearm"
+             value="160" />
+      <skill id="Bow"
+             value="50" />
+      <skill id="Crossbow"
+             value="60" />
+      <skill id="Throwing"
+             value="20" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+				<equipment slot="Item0" id="Item.northern_javelin_2_t3"/>
+				<equipment slot="Item1" id="Item.desert_round_shield"/>
+				<equipment slot="Item2" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item3" id="Item.vlandia_sword_2_t3"/>
+				<equipment slot="Head" id="Item.sta_norm_nasal_1"/>
+				<equipment slot="Body" id="Item.long_woolen_tunic"/>
+				<equipment slot="Cape" id="Item.battania_woodland_cloak"/>
+				<equipment slot="Leg" id="Item.bootssta_1"/>
+				<equipment slot="Horse" id="Item.t3_empire_horse"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+						<EquipmentRoster>
+				
+				<equipment slot="Item0" id="Item.northern_javelin_2_t3"/>
+				<equipment slot="Item1" id="Item.desert_round_shield"/>
+				<equipment slot="Item2" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item3" id="Item.vlandia_sword_2_t3"/>
+				<equipment slot="Head" id="Item.sta_norm_nasal_1"/>
+				<equipment slot="Body" id="Item.sackcloth_tunic"/>
+				<equipment slot="Cape" id="Item.desert_leather_shoulderpad"/>
+				<equipment slot="Leg" id="Item.bootssta_1"/>
+				<equipment slot="Horse" id="Item.t3_empire_horse"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+						<EquipmentRoster>
+				<equipment slot="Item0" id="Item.northern_javelin_2_t3"/>
+				<equipment slot="Item1" id="Item.desert_round_shield"/>
+				<equipment slot="Item2" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item3" id="Item.vlandia_sword_2_t3"/>
+				<equipment slot="Head" id="Item.sta_norm_nasal_1"/>
+				<equipment slot="Body" id="Item.long_woolen_tunic"/>
+				<equipment slot="Cape" id="Item.el_Cross_cloak_1"/>
+				<equipment slot="Leg" id="Item.bootssta_1"/>
+				<equipment slot="Horse" id="Item.t3_empire_horse"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.western_spear_4_t4" />
+        <equipment slot="Item1"
+                   id="Item.vlandia_axe_2_t4" />
+        <equipment slot="Item2"
+                   id="Item.western_riders_kite_shield" />
+        <equipment slot="Head"
+                   id="Item.nasal_cervelliere_over_padded_coif" />
+        <equipment slot="Body"
+                   id="Item.plated_leather_coat" />
+        <equipment slot="Leg"
+                   id="Item.leather_cavalier_boots" />
+        <equipment slot="Gloves"
+                   id="Item.leather_gloves" />
+        <equipment slot="Cape"
+                   id="Item.hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.western_spear_4_t4" />
+        <equipment slot="Item1"
+                   id="Item.vlandia_axe_2_t4" />
+        <equipment slot="Item2"
+                   id="Item.western_riders_kite_shield" />
+        <equipment slot="Head"
+                   id="Item.cervelliere_over_arming_coif" />
+        <equipment slot="Body"
+                   id="Item.plated_leather_coat" />
+        <equipment slot="Leg"
+                   id="Item.leather_cavalier_boots" />
+        <equipment slot="Gloves"
+                   id="Item.leather_gloves" />
+        <equipment slot="Cape"
+                   id="Item.scarf" />
+      </EquipmentRoster>
+      <equipment slot="Horse"
+                 id="Item.vlandia_horse" />
+      <equipment slot="HorseHarness"
+                 id="Item.stripped_leather_harness" />
+    </Equipments>
+  </NPCCharacter>
+  
+ 
+  
+  <!--practice dummy-->
+  
+   <NPCCharacter id="gear_practice_dummy_vlandia"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.vlandia"
+                name="{=!}Vlandia Gear Dummy"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.guard" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.peasant_sickle_1_t1" />
+        <equipment slot="Head"
+                   id="Item.padded_coif" />
+        <equipment slot="Body"
+                   id="Item.cloth_tunic" />
+        <equipment slot="Leg"
+                   id="Item.leather_cavalier_boots" />
+        <equipment slot="Gloves"
+                   id="Item.leather_gloves" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.peasant_sickle_1_t1" />
+        <equipment slot="Body"
+                   id="Item.long_woolen_tunic" />
+        <equipment slot="Leg"
+                   id="Item.leather_cavalier_boots" />
+        <equipment slot="Gloves"
+                   id="Item.leather_gloves" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.peasant_sickle_1_t1" />
+        <equipment slot="Body"
+                   id="Item.cloth_tunic" />
+        <equipment slot="Leg"
+                   id="Item.leather_cavalier_boots" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_vlandia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="weapon_practice_stage_1_vlandia"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.vlandia"
+                name="{=!}Vlandia Weapon Dummy"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.guard" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.vlandia_sword_1_t2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.billhook_polearm_t2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.billhook_polearm_t2" />
+        <equipment slot="Item2"
+                   id="Item.crossbow_a" />
+        <equipment slot="Item3"
+                   id="Item.tournament_bolts" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.western_spear_2_t2" />
+        <equipment slot="Item1"
+                   id="Item.wide_heater_shield" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.vlandia_sword_1_t2" />
+        <equipment slot="Item2"
+                   id="Item.crossbow_a" />
+        <equipment slot="Item3"
+                   id="Item.bolt_a" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.vlandia_sword_1_t2" />
+        <equipment slot="Item1"
+                   id="Item.bound_horsemans_kite_shield" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.vlandia_sword_1_t2" />
+        <equipment slot="Item2"
+                   id="Item.crossbow_a" />
+        <equipment slot="Item3"
+                   id="Item.bolt_a" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_vlandia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="weapon_practice_stage_2_vlandia"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.vlandia"
+                name="{=!}Vlandia Weapon Dummy"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.guard" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.vlandia_sword_2_t3" />
+        <equipment slot="Item1"
+                   id="Item.wide_heater_shield" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.vlandia_sword_2_t3" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.billhook_polearm_t2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.western_spear_3_t3" />
+        <equipment slot="Item1"
+                   id="Item.bound_horsemans_kite_shield" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.vlandia_sword_2_t3" />
+        <equipment slot="Item2"
+                   id="Item.crossbow_a" />
+        <equipment slot="Item3"
+                   id="Item.bolt_a" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.vlandia_sword_2_t3" />
+        <equipment slot="Item1"
+                   id="Item.wide_heater_shield" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.vlandia_sword_2_t3" />
+        <equipment slot="Item2"
+                   id="Item.crossbow_a" />
+        <equipment slot="Item3"
+                   id="Item.bolt_a" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_vlandia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="weapon_practice_stage_3_vlandia"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.vlandia"
+                name="{=!}Vlandia Weapon Dummy"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.guard" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.vlandia_sword_3_t4" />
+        <equipment slot="Item1"
+                   id="Item.wide_heater_shield" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.vlandia_sword_3_t4" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.vlandia_2haxe_1_t4" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.western_spear_3_t3" />
+        <equipment slot="Item1"
+                   id="Item.wide_heater_shield" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.vlandia_sword_3_t4" />
+        <equipment slot="Item2"
+                   id="Item.crossbow_a" />
+        <equipment slot="Item3"
+                   id="Item.bolt_a" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.vlandia_2haxe_1_t4" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.vlandia_2haxe_1_t4" />
+        <equipment slot="Item2"
+                   id="Item.crossbow_a" />
+        <equipment slot="Item3"
+                   id="Item.bolt_a" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_vlandia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <!--character creation-->
+  
+  <NPCCharacter id="player_char_creation_vlandia"
+                name="{=!}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_vlandia" />
+    </face>
+    <skills>
+      <skill id="OneHanded"
+             value="10" />
+      <skill id="TwoHanded"
+             value="20" />
+      <skill id="Polearm"
+             value="20" />
+      <skill id="Bow"
+             value="0" />
+      <skill id="Crossbow"
+             value="10" />
+      <skill id="Throwing"
+             value="5" />
+      <skill id="Riding"
+             value="15" />
+      <skill id="Athletics"
+             value="10" />
+      <skill id="Trade"
+             value="5" />
+      <skill id="Scouting"
+             value="5" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.western_spear_2_t2" />
+        <equipment slot="Item1"
+                   id="Item.bastard_sword_t2" />
+        <equipment slot="Item2"
+                   id="Item.crossbow_a" />
+        <equipment slot="Item3"
+                   id="Item.bolt_d" />
+        <equipment slot="Body"
+                   id="Item.long_hemp_tunic" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+        <equipment slot="Horse"
+                   id="Item.sumpter_horse" />
+        <equipment slot="HorseHarness"
+                   id="Item.light_harness" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cloth_tunic" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+<!--shopkeeper-->
+
+<NPCCharacter id="shop_worker_vlandia"
+                default_group="Infantry"
+                name="{=275LD0Gh}Shop Worker"
+                occupation="ShopWorker"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_vlandia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Head"
+                   id="Item.leather_cap" />
+        <equipment slot="Body"
+                   id="Item.cloth_apron" />
+        <equipment slot="Item0"
+                   id="Item.short_sword_t3" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Head"
+                   id="Item.leather_cap" />
+        <equipment slot="Item0"
+                   id="Item.short_sword_t3" />
+        <equipment slot="Body"
+                   id="Item.half_apron" />
+        <equipment slot="Leg"
+                   id="Item.wrapped_shoes" />
+        <equipment slot="Cape"
+                   id="Item.scarf" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cloth_apron" />
+        <equipment slot="Item0"
+                   id="Item.short_sword_t3" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+        <equipment slot="Cape"
+                   id="Item.scarf" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.half_apron" />
+        <equipment slot="Item0"
+                   id="Item.short_sword_t3" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_vlandia" />
+    </Equipments>
+  </NPCCharacter>
+
+<!--town children-->
+
+ <NPCCharacter id="townsman_infant_vlandia"
+                name="{=maleinfant}Infant"
+                age="3"
+                is_female="false"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Townsfolk"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_vlandia" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cloth_tunic" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="vla_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="townsman_child_vlandia"
+                name="{=malechild}Child"
+                age="6"
+                is_female="false"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Townsfolk"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_vlandia" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cloth_tunic" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.long_hemp_tunic" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.long_woolen_tunic" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="vla_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="townsman_teenager_vlandia"
+                name="{=maleteenager}Teenager"
+                age="14"
+                is_female="false"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Townsfolk"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_vlandia" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.long_woolen_tunic" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cloth_apron" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.monk_robe" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentSet id="vla_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="townsman_vlandia"
+                default_group="Infantry"
+                name="{=muu5cofb}Townsman"
+                occupation="Townsfolk"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_vlandia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cloth_tunic" />
+        <equipment slot="Cape"
+                   id="Item.hood" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.monk_robe" />
+        <equipment slot="Cape"
+                   id="Item.scarf" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.monk_robe" />
+        <equipment slot="Cape"
+                   id="Item.hood" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.monk_robe" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cloth_tunic" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.peasant_sickle_1_t1" />
+        <equipment slot="Head"
+                   id="Item.leather_cap" />
+        <equipment slot="Body"
+                   id="Item.bandit_leather_water_flask" />
+        <equipment slot="Leg"
+                   id="Item.wrapped_shoes" />
+        <equipment slot="Cape"
+                   id="Item.hood" />
+        <equipment slot="Gloves"
+                   id="Item.leather_gloves" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.bandit_leather_water_flask" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+        <equipment slot="Gloves"
+                   id="Item.leather_gloves" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Cape"
+                   id="Item.hood" />
+        <equipment slot="Body"
+                   id="Item.tunic_with_rolled_cloth" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.tunic_with_rolled_cloth" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.tunic_with_rolled_cloth" />
+        <equipment slot="Head"
+                   id="Item.leather_cap" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Cape"
+                   id="Item.hood" />
+        <equipment slot="Body"
+                   id="Item.long_hemp_tunic" />
+        <equipment slot="Leg"
+                   id="Item.wrapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.long_hemp_tunic" />
+        <equipment slot="Leg"
+                   id="Item.wrapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Cape"
+                   id="Item.hood" />
+        <equipment slot="Body"
+                   id="Item.long_woolen_tunic" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+        <equipment slot="Gloves"
+                   id="Item.leather_gloves" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.long_woolen_tunic" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Cape"
+                   id="Item.hood" />
+        <equipment slot="Body"
+                   id="Item.sackcloth_tunic" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Cape"
+                   id="Item.hood" />
+        <equipment slot="Body"
+                   id="Item.sackcloth_tunic" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+<!--rural-->
+
+<NPCCharacter id="rural_notable_notary_vlandia"
+                default_group="Infantry"
+                name="{=AlmaRAib}Rural Notable Notary"
+                occupation="Townsfolk"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_vlandia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cloth_tunic" />
+        <equipment slot="Cape"
+                   id="Item.hood" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.monk_robe" />
+        <equipment slot="Cape"
+                   id="Item.scarf" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.monk_robe" />
+        <equipment slot="Cape"
+                   id="Item.hood" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.monk_robe" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cloth_tunic" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.peasant_sickle_1_t1" />
+        <equipment slot="Head"
+                   id="Item.leather_cap" />
+        <equipment slot="Body"
+                   id="Item.bandit_leather_water_flask" />
+        <equipment slot="Leg"
+                   id="Item.wrapped_shoes" />
+        <equipment slot="Cape"
+                   id="Item.hood" />
+        <equipment slot="Gloves"
+                   id="Item.leather_gloves" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.bandit_leather_water_flask" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+        <equipment slot="Gloves"
+                   id="Item.leather_gloves" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Cape"
+                   id="Item.hood" />
+        <equipment slot="Body"
+                   id="Item.tunic_with_rolled_cloth" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.tunic_with_rolled_cloth" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.tunic_with_rolled_cloth" />
+        <equipment slot="Head"
+                   id="Item.leather_cap" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Cape"
+                   id="Item.hood" />
+        <equipment slot="Body"
+                   id="Item.long_hemp_tunic" />
+        <equipment slot="Leg"
+                   id="Item.wrapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.long_hemp_tunic" />
+        <equipment slot="Leg"
+                   id="Item.wrapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Cape"
+                   id="Item.hood" />
+        <equipment slot="Body"
+                   id="Item.long_woolen_tunic" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+        <equipment slot="Gloves"
+                   id="Item.leather_gloves" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.long_woolen_tunic" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Cape"
+                   id="Item.hood" />
+        <equipment slot="Body"
+                   id="Item.sackcloth_tunic" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Cape"
+                   id="Item.hood" />
+        <equipment slot="Body"
+                   id="Item.sackcloth_tunic" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_vlandia" />
+    </Equipments>
+  </NPCCharacter>
+
+<!--preacher-->
+
+ <NPCCharacter id="preacher_notary_vlandia"
+                default_group="Infantry"
+                name="{=bLMGbLF8}Preacher Notary"
+                occupation="Townsfolk"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_vlandia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cloth_tunic" />
+        <equipment slot="Cape"
+                   id="Item.hood" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.monk_robe" />
+        <equipment slot="Cape"
+                   id="Item.scarf" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.monk_robe" />
+        <equipment slot="Cape"
+                   id="Item.hood" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.monk_robe" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cloth_tunic" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.peasant_sickle_1_t1" />
+        <equipment slot="Head"
+                   id="Item.leather_cap" />
+        <equipment slot="Body"
+                   id="Item.bandit_leather_water_flask" />
+        <equipment slot="Leg"
+                   id="Item.wrapped_shoes" />
+        <equipment slot="Cape"
+                   id="Item.hood" />
+        <equipment slot="Gloves"
+                   id="Item.leather_gloves" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.bandit_leather_water_flask" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+        <equipment slot="Gloves"
+                   id="Item.leather_gloves" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Cape"
+                   id="Item.hood" />
+        <equipment slot="Body"
+                   id="Item.tunic_with_rolled_cloth" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.tunic_with_rolled_cloth" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.tunic_with_rolled_cloth" />
+        <equipment slot="Head"
+                   id="Item.leather_cap" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Cape"
+                   id="Item.hood" />
+        <equipment slot="Body"
+                   id="Item.long_hemp_tunic" />
+        <equipment slot="Leg"
+                   id="Item.wrapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.long_hemp_tunic" />
+        <equipment slot="Leg"
+                   id="Item.wrapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Cape"
+                   id="Item.hood" />
+        <equipment slot="Body"
+                   id="Item.long_woolen_tunic" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+        <equipment slot="Gloves"
+                   id="Item.leather_gloves" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.long_woolen_tunic" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Cape"
+                   id="Item.hood" />
+        <equipment slot="Body"
+                   id="Item.sackcloth_tunic" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Cape"
+                   id="Item.hood" />
+        <equipment slot="Body"
+                   id="Item.sackcloth_tunic" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_vlandia" />
+    </Equipments>
+  </NPCCharacter>
+
+<!--artisan-->
+
+<NPCCharacter id="artisan_notary_vlandia"
+                default_group="Infantry"
+                name="{=ECxiXTbF}Artisan Notary"
+                occupation="Townsfolk"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_vlandia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cloth_tunic" />
+        <equipment slot="Cape"
+                   id="Item.hood" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.monk_robe" />
+        <equipment slot="Cape"
+                   id="Item.scarf" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.monk_robe" />
+        <equipment slot="Cape"
+                   id="Item.hood" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.monk_robe" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cloth_tunic" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.peasant_sickle_1_t1" />
+        <equipment slot="Head"
+                   id="Item.leather_cap" />
+        <equipment slot="Body"
+                   id="Item.bandit_leather_water_flask" />
+        <equipment slot="Leg"
+                   id="Item.wrapped_shoes" />
+        <equipment slot="Cape"
+                   id="Item.hood" />
+        <equipment slot="Gloves"
+                   id="Item.leather_gloves" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.bandit_leather_water_flask" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+        <equipment slot="Gloves"
+                   id="Item.leather_gloves" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Cape"
+                   id="Item.hood" />
+        <equipment slot="Body"
+                   id="Item.tunic_with_rolled_cloth" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.tunic_with_rolled_cloth" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.tunic_with_rolled_cloth" />
+        <equipment slot="Head"
+                   id="Item.leather_cap" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Cape"
+                   id="Item.hood" />
+        <equipment slot="Body"
+                   id="Item.long_hemp_tunic" />
+        <equipment slot="Leg"
+                   id="Item.wrapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.long_hemp_tunic" />
+        <equipment slot="Leg"
+                   id="Item.wrapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Cape"
+                   id="Item.hood" />
+        <equipment slot="Body"
+                   id="Item.long_woolen_tunic" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+        <equipment slot="Gloves"
+                   id="Item.leather_gloves" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.long_woolen_tunic" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Cape"
+                   id="Item.hood" />
+        <equipment slot="Body"
+                   id="Item.sackcloth_tunic" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Cape"
+                   id="Item.hood" />
+        <equipment slot="Body"
+                   id="Item.sackcloth_tunic" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_vlandia" />
+    </Equipments>
+  </NPCCharacter>
+
+<!--merchant-->
+
+<NPCCharacter id="merchant_notary_vlandia"
+                default_group="Infantry"
+                name="{=reoVAtrE}Merchant Notary"
+                occupation="Townsfolk"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_vlandia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cloth_tunic" />
+        <equipment slot="Cape"
+                   id="Item.hood" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.monk_robe" />
+        <equipment slot="Cape"
+                   id="Item.scarf" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.monk_robe" />
+        <equipment slot="Cape"
+                   id="Item.hood" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.monk_robe" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cloth_tunic" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.peasant_sickle_1_t1" />
+        <equipment slot="Head"
+                   id="Item.leather_cap" />
+        <equipment slot="Body"
+                   id="Item.bandit_leather_water_flask" />
+        <equipment slot="Leg"
+                   id="Item.wrapped_shoes" />
+        <equipment slot="Cape"
+                   id="Item.hood" />
+        <equipment slot="Gloves"
+                   id="Item.leather_gloves" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.bandit_leather_water_flask" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+        <equipment slot="Gloves"
+                   id="Item.leather_gloves" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Cape"
+                   id="Item.hood" />
+        <equipment slot="Body"
+                   id="Item.tunic_with_rolled_cloth" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.tunic_with_rolled_cloth" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.tunic_with_rolled_cloth" />
+        <equipment slot="Head"
+                   id="Item.leather_cap" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Cape"
+                   id="Item.hood" />
+        <equipment slot="Body"
+                   id="Item.long_hemp_tunic" />
+        <equipment slot="Leg"
+                   id="Item.wrapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.long_hemp_tunic" />
+        <equipment slot="Leg"
+                   id="Item.wrapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Cape"
+                   id="Item.hood" />
+        <equipment slot="Body"
+                   id="Item.long_woolen_tunic" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+        <equipment slot="Gloves"
+                   id="Item.leather_gloves" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.long_woolen_tunic" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Cape"
+                   id="Item.hood" />
+        <equipment slot="Body"
+                   id="Item.sackcloth_tunic" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Cape"
+                   id="Item.hood" />
+        <equipment slot="Body"
+                   id="Item.sackcloth_tunic" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_vlandia" />
+    </Equipments>
+  </NPCCharacter>
+
+<!--bodyguard-->
+
+<NPCCharacter id="gangleader_bodyguard_vlandia"
+                default_group="Infantry"
+                name="{=LNNXiPyV}Gang Leader Bodyguard"
+                occupation="Townsfolk"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                level="16">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.vlandia_mace_1_t2" />
+        <equipment slot="Head"
+                   id="Item.leather_cap" />
+        <equipment slot="Body"
+                   id="Item.cloth_tunic" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.vlandia_mace_1_t2" />
+        <equipment slot="Head"
+                   id="Item.leather_cap" />
+        <equipment slot="Body"
+                   id="Item.long_woolen_tunic" />
+        <equipment slot="Leg"
+                   id="Item.wrapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.vlandia_sword_1_t2" />
+        <equipment slot="Head"
+                   id="Item.pilgrim_hood" />
+        <equipment slot="Body"
+                   id="Item.tundra_tunic" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.vlandia_sword_1_t2" />
+        <equipment slot="Body"
+                   id="Item.sleeveless_padded_short_coat" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.vlandia_sword_1_t2" />
+        <equipment slot="Cape"
+                   id="Item.green_hood" />
+        <equipment slot="Body"
+                   id="Item.long_woolen_tunic" />
+        <equipment slot="Leg"
+                   id="Item.wrapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.vlandia_sword_1_t2" />
+        <equipment slot="Cape"
+                   id="Item.hood" />
+        <equipment slot="Body"
+                   id="Item.burlap_waistcoat" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+        <equipment slot="Gloves"
+                   id="Item.armwraps" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.vlandia_sword_1_t2" />
+        <equipment slot="Head"
+                   id="Item.leather_cap" />
+        <equipment slot="Body"
+                   id="Item.cloth_tunic" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.vlandia_sword_1_t2" />
+        <equipment slot="Head"
+                   id="Item.leather_cap" />
+        <equipment slot="Body"
+                   id="Item.long_woolen_tunic" />
+        <equipment slot="Leg"
+                   id="Item.wrapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.vlandia_sword_1_t2" />
+        <equipment slot="Head"
+                   id="Item.pilgrim_hood" />
+        <equipment slot="Body"
+                   id="Item.tundra_tunic" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.vlandia_sword_1_t2" />
+        <equipment slot="Body"
+                   id="Item.sleeveless_padded_short_coat" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.falchion_sword_t2" />
+        <equipment slot="Cape"
+                   id="Item.green_hood" />
+        <equipment slot="Body"
+                   id="Item.long_woolen_tunic" />
+        <equipment slot="Leg"
+                   id="Item.wrapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.falchion_sword_t2" />
+        <equipment slot="Cape"
+                   id="Item.hood" />
+        <equipment slot="Body"
+                   id="Item.burlap_waistcoat" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+        <equipment slot="Gloves"
+                   id="Item.armwraps" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="ransom_broker_vlandia"
+                default_group="Infantry"
+                is_hero="false"
+                name="{=W2WXkiAh}Ransom Broker"
+                occupation="RansomBroker"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_vlandia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.falchion_sword_t2" />
+        <equipment slot="Head"
+                   id="Item.leather_cap" />
+        <equipment slot="Cape"
+                   id="Item.hood" />
+        <equipment slot="Body"
+                   id="Item.long_woolen_tunic" />
+        <equipment slot="Leg"
+                   id="Item.wrapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.falchion_sword_t2" />
+        <equipment slot="Head"
+                   id="Item.leather_cap" />
+        <equipment slot="Body"
+                   id="Item.bandit_leather_water_flask" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.falchion_sword_t2" />
+        <equipment slot="Body"
+                   id="Item.sleeveless_padded_short_coat" />
+        <equipment slot="Cape"
+                   id="Item.hood" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_vlandia" />
+    </Equipments>
+  </NPCCharacter>
+
+<!--townspeople-->
+
+<NPCCharacter id="townswoman_infant_vlandia"
+                name="{=femaleinfant}Infant"
+                age="3"
+                is_female="true"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Townsfolk"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.townswoman_vlandia" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.sackcloth_tunic" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="vla_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="townswoman_child_vlandia"
+                name="{=femalechild}Child"
+                age="6"
+                is_female="true"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Townsfolk"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.townswoman_vlandia" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cloth_tunic" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.sackcloth_tunic" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.laced_dress" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="vla_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="townswoman_teenager_vlandia"
+                name="{=femaleteenager}Teenager"
+                age="14"
+                is_female="true"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Townsfolk"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.townswoman_vlandia" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Head"
+                   id="Item.head_piece" />
+        <equipment slot="Body"
+                   id="Item.vlandian_woman_dress" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Head"
+                   id="Item.headscarf" />
+        <equipment slot="Body"
+                   id="Item.vlandian_corset_dress" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Head"
+                   id="Item.head_scarf" />
+        <equipment slot="Body"
+                   id="Item.vlandian_corset_dress" />
+      </EquipmentRoster>
+      <EquipmentSet id="vla_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+
+<!--barber-->
+
+<NPCCharacter id="barber_vlandia"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Townsfolk"
+                culture="Culture.vlandia"
+                name="{=WH7EGGIg}Barber"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_vlandia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Head"
+                   id="Item.leather_cap" />
+        <equipment slot="Gloves"
+                   id="Item.leather_gloves" />
+        <equipment slot="Body"
+                   id="Item.leather_apron" />
+        <equipment slot="Leg"
+                   id="Item.battania_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.leather_apron" />
+        <equipment slot="Leg"
+                   id="Item.leather_boots" />
+        <equipment slot="Gloves"
+                   id="Item.leather_gloves" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.leather_apron" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+        <equipment slot="Gloves"
+                   id="Item.leather_gloves" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_vlandia" />
+    </Equipments>
+  </NPCCharacter>
+
+<!--weaponsmith-->
+
+<NPCCharacter id="weaponsmith_vlandia"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Weaponsmith"
+                culture="Culture.vlandia"
+                name="{=UaN2lfwi}Weaponsmith"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_vlandia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.vlandia_sword_3_t4" />
+        <equipment slot="Head"
+                   id="Item.leather_cap" />
+        <equipment slot="Gloves"
+                   id="Item.leather_gloves" />
+        <equipment slot="Body"
+                   id="Item.leather_apron" />
+        <equipment slot="Leg"
+                   id="Item.battania_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.vlandia_sword_4_t4" />
+        <equipment slot="Body"
+                   id="Item.leather_apron" />
+        <equipment slot="Leg"
+                   id="Item.leather_boots" />
+        <equipment slot="Gloves"
+                   id="Item.leather_gloves" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.vlandia_sword_4_t4" />
+        <equipment slot="Body"
+                   id="Item.leather_apron" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+        <equipment slot="Gloves"
+                   id="Item.leather_gloves" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_vlandia" />
+    </Equipments>
+  </NPCCharacter>
+
+<!--blacksmith-->
+
+ <NPCCharacter id="blacksmith_vlandia"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Blacksmith"
+                culture="Culture.vlandia"
+                name="{=bNnQt4jN}Blacksmith"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_vlandia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.vlandia_sword_2_t3" />
+        <equipment slot="Head"
+                   id="Item.leather_cap" />
+        <equipment slot="Body"
+                   id="Item.leather_apron" />
+        <equipment slot="Leg"
+                   id="Item.battania_leather_boots" />
+        <equipment slot="Gloves"
+                   id="Item.leather_gloves" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.vlandia_sword_2_t3" />
+        <equipment slot="Body"
+                   id="Item.leather_apron" />
+        <equipment slot="Leg"
+                   id="Item.leather_boots" />
+        <equipment slot="Gloves"
+                   id="Item.leather_gloves" />
+        <equipment slot="Gloves"
+                   id="Item.leather_gloves" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.vlandia_sword_2_t3" />
+        <equipment slot="Body"
+                   id="Item.leather_apron" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+        <equipment slot="Gloves"
+                   id="Item.leather_gloves" />
+        <equipment slot="Gloves"
+                   id="Item.leather_gloves" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_vlandia" />
+    </Equipments>
+  </NPCCharacter>
+
+<!--prison guard-->
+
+<NPCCharacter id="prison_guard_vlandia"
+                default_group="Infantry"
+                level="4"
+                culture="Culture.vlandia"
+                occupation="PrisonGuard"
+                name="{=XgjXfmM1}Prison Guard"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills>
+      <!--<skill id="Athletics" value="50" /> #OLD_SKILL# -->
+      <skill id="OneHanded"
+             value="50" />
+      <skill id="TwoHanded"
+             value="50" />
+      <skill id="Polearm"
+             value="50" />
+      <skill id="Crossbow"
+             value="50" />
+      <skill id="Bow"
+             value="50" />
+      <skill id="Throwing"
+             value="50" />
+    </skills>
+    <!---<equipment slot="Leg" id="Item.cape" />-->
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item1"
+                   id="Item.western_spear_3_t3" />
+        <equipment slot="Head"
+                   id="Item.kettle_helmet_with_leather" />
+        <equipment slot="Body"
+                   id="Item.mail_shirt" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item1"
+                   id="Item.western_spear_3_t3" />
+        <equipment slot="Head"
+                   id="Item.kettle_helmet_with_leather" />
+        <equipment slot="Body"
+                   id="Item.mail_shirt" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter> 
+
+<NPCCharacter id="vlandia_duel_preset"
+                default_group="Infantry"
+                level="1"
+                occupation="Townsfolk"
+                culture="Culture.aserai"
+                name="{=E11FRt10}Vlandia Tribesman"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <!--face_key value="000002b880000000000000000000100000010000000000000000000000000000000007aaf0000000000000000000000000000000000000000000000000a00000" max_value="0011f36fc0002914fffffffffffffffffffffffffff2ffffffffffffffffffff000df7adfdffffff000000000000000000000000000000000000000001988140" /-->
+      <BodyProperties version="4"
+                      age="34.86"
+                      weight="0.2815"
+                      build="0.317"
+                      key="001E9C0B800000000000000000041000007000000000000000000000080000000245472404000000000000000000000000000000000000000000000000780000" />
+      <BodyPropertiesMax version="4"
+                         age="88.69"
+                         weight="0.65"
+                         build="0.7077"
+                         key="0029F00FC0002A54FFFFFFFFFFFAFFFF8FF0FFFFFFF2FFFFFFFFFFFFFFFFFFFF09ABA79A0AFFFFFF000000000000000000000000000000000000000001409140" />
+    </face>
+    <skills>
+      <!--<skill id="Athletics" value="0" /> #OLD_SKILL# -->
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.vlandia_sword_1_t2" />
+        <equipment slot="Item1"
+                   id="Item.fortified_kite_shield" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.peasant_hammer_1_t1" />
+        <equipment slot="Item1"
+                   id="Item.fortified_kite_shield" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.simple_back_sword_t2" />
+        <equipment slot="Item1"
+                   id="Item.fortified_kite_shield" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.aserai_mace_3_t3" />
+        <equipment slot="Item1"
+                   id="Item.fortified_kite_shield" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.light_mace_t3" />
+        <equipment slot="Item1"
+                   id="Item.fortified_kite_shield" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.bastard_sword_t2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.western_2hsword_t4" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.bastard_sword_t2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.triangluar_spear_t3" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.western_spear_3_t3" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_aserai"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter> 
+  
+  <NPCCharacter id="tournament_template_vlandia_one_participant_set_v1"
+                default_group="Infantry"
+                level="6"
+                name="{=!}tournament_template_vlandia_one_participant_set_v1"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level6_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills></skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.vlandia_sword_1_t2_blunt" />
+        <equipment slot="Item1"
+                   id="Item.western_riders_kite_sparring_shield" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_vlandia_civilian"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="tournament_template_vlandia_one_participant_set_v2"
+                default_group="Infantry"
+                level="6"
+                name="{=!}tournament_template_vlandia_one_participant_set_v2"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level6_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills></skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.billhook_polearm_t2_blunt" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_vlandia_civilian"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="tournament_template_vlandia_one_participant_set_v3"
+                default_group="Infantry"
+                level="6"
+                name="{=!}tournament_template_vlandia_one_participant_set_v3"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level6_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills></skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.vlandia_lance_1_t3_blunt" />
+        <equipment slot="Item1"
+                   id="Item.western_riders_kite_sparring_shield" />
+        <equipment slot="Horse"
+                   id="Item.vlandia_horse_tournament" />
+        <equipment slot="HorseHarness"
+                   id="Item.light_harness" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_vlandia_civilian"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="tournament_template_vlandia_two_participant_set_v1"
+                default_group="Infantry"
+                level="6"
+                name="{=!}tournament_template_vlandia_two_participant_set_v1"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level6_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills></skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.vlandia_sword_1_t2_blunt" />
+        <equipment slot="Item1"
+                   id="Item.western_riders_kite_sparring_shield" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.crossbow_a_blunt" />
+        <equipment slot="Item1"
+                   id="Item.tournament_bolts" />
+        <equipment slot="Item2"
+                   id="Item.vlandia_sword_1_t2_blunt" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_vlandia_civilian"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="tournament_template_vlandia_two_participant_set_v2"
+                default_group="Infantry"
+                level="6"
+                name="{=!}tournament_template_vlandia_two_participant_set_v2"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level6_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills></skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.billhook_polearm_t2_blunt" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.crossbow_a_blunt" />
+        <equipment slot="Item1"
+                   id="Item.tournament_bolts" />
+        <equipment slot="Item2"
+                   id="Item.vlandia_sword_1_t2_blunt" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_vlandia_civilian"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="tournament_template_vlandia_two_participant_set_v3"
+                default_group="Infantry"
+                level="6"
+                name="{=!}tournament_template_vlandia_two_participant_set_v3"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level6_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills></skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.vlandia_sword_1_t2_blunt" />
+        <equipment slot="Item1"
+                   id="Item.western_riders_kite_sparring_shield" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.vlandia_sword_1_t2_blunt" />
+        <equipment slot="Item1"
+                   id="Item.western_riders_kite_sparring_shield" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_vlandia_civilian"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="tournament_template_vlandia_two_participant_set_v4"
+                default_group="Infantry"
+                level="6"
+                name="{=!}tournament_template_vlandia_two_participant_set_v4"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level6_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills></skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.vlandia_lance_1_t3_blunt" />
+        <equipment slot="Item1"
+                   id="Item.western_riders_kite_sparring_shield" />
+        <equipment slot="Horse"
+                   id="Item.vlandia_horse_tournament" />
+        <equipment slot="HorseHarness"
+                   id="Item.light_harness" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.vlandia_lance_1_t3_blunt" />
+        <equipment slot="Item1"
+                   id="Item.western_riders_kite_sparring_shield" />
+        <equipment slot="Horse"
+                   id="Item.vlandia_horse_tournament" />
+        <equipment slot="HorseHarness"
+                   id="Item.light_harness" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_vlandia_civilian"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="tournament_template_vlandia_four_participant_set_v1"
+                default_group="Infantry"
+                level="6"
+                name="{=!}tournament_template_vlandia_four_participant_set_v1"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level6_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills></skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.vlandia_sword_1_t2_blunt" />
+        <equipment slot="Item1"
+                   id="Item.western_riders_kite_sparring_shield" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.billhook_polearm_t2_blunt" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.crossbow_a_blunt" />
+        <equipment slot="Item1"
+                   id="Item.tournament_bolts" />
+        <equipment slot="Item2"
+                   id="Item.vlandia_sword_1_t2_blunt" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.vlandia_lance_1_t3_blunt" />
+        <equipment slot="Item1"
+                   id="Item.western_riders_kite_sparring_shield" />
+        <equipment slot="Horse"
+                   id="Item.vlandia_horse_tournament" />
+        <equipment slot="HorseHarness"
+                   id="Item.light_harness" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_vlandia_civilian"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="tournament_template_vlandia_four_participant_set_v2"
+                default_group="Infantry"
+                level="6"
+                name="{=!}tournament_template_vlandia_four_participant_set_v2"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level6_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills></skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.vlandia_sword_1_t2_blunt" />
+        <equipment slot="Item1"
+                   id="Item.western_riders_kite_sparring_shield" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.crossbow_a_blunt" />
+        <equipment slot="Item1"
+                   id="Item.tournament_bolts" />
+        <equipment slot="Item2"
+                   id="Item.vlandia_sword_1_t2_blunt" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.crossbow_a_blunt" />
+        <equipment slot="Item1"
+                   id="Item.tournament_bolts" />
+        <equipment slot="Item2"
+                   id="Item.vlandia_sword_1_t2_blunt" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.vlandia_lance_1_t3_blunt" />
+        <equipment slot="Item1"
+                   id="Item.western_riders_kite_sparring_shield" />
+        <equipment slot="Horse"
+                   id="Item.vlandia_horse_tournament" />
+        <equipment slot="HorseHarness"
+                   id="Item.light_harness" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_vlandia_civilian"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="tournament_template_vlandia_four_participant_set_v3"
+                default_group="Infantry"
+                level="6"
+                name="{=!}tournament_template_vlandia_four_participant_set_v3"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level6_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills></skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.crossbow_a_blunt" />
+        <equipment slot="Item1"
+                   id="Item.tournament_bolts" />
+        <equipment slot="Item2"
+                   id="Item.vlandia_sword_1_t2_blunt" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.crossbow_a_blunt" />
+        <equipment slot="Item1"
+                   id="Item.tournament_bolts" />
+        <equipment slot="Item2"
+                   id="Item.vlandia_sword_1_t2_blunt" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.vlandia_lance_1_t3_blunt" />
+        <equipment slot="Item1"
+                   id="Item.western_riders_kite_sparring_shield" />
+        <equipment slot="Horse"
+                   id="Item.vlandia_horse_tournament" />
+        <equipment slot="HorseHarness"
+                   id="Item.light_harness" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.vlandia_lance_1_t3_blunt" />
+        <equipment slot="Item1"
+                   id="Item.western_riders_kite_sparring_shield" />
+        <equipment slot="Horse"
+                   id="Item.vlandia_horse_tournament" />
+        <equipment slot="HorseHarness"
+                   id="Item.light_harness" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_vlandia_civilian"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="tournament_template_vlandia_four_participant_set_v4"
+                default_group="Infantry"
+                level="6"
+                name="{=!}tournament_template_vlandia_four_participant_set_v4"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level6_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills></skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.crossbow_a_blunt" />
+        <equipment slot="Item1"
+                   id="Item.tournament_bolts" />
+        <equipment slot="Item2"
+                   id="Item.vlandia_sword_1_t2_blunt" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.crossbow_a_blunt" />
+        <equipment slot="Item1"
+                   id="Item.tournament_bolts" />
+        <equipment slot="Item2"
+                   id="Item.vlandia_sword_1_t2_blunt" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.vlandia_sword_1_t2_blunt" />
+        <equipment slot="Item1"
+                   id="Item.western_riders_kite_sparring_shield" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.vlandia_sword_1_t2_blunt" />
+        <equipment slot="Item1"
+                   id="Item.western_riders_kite_sparring_shield" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_vlandia_civilian"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+<!--troops-->
+
+ <NPCCharacter id="frankish_levy"
+                default_group="Infantry"
+                level="6"
+                name="{=E11FRt11}Frankish Levy"
+                occupation="Soldier"
+                is_basic_troop="true"
+                culture="Culture.vlandia">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="20" />
+      <skill id="Riding"
+             value="5" />
+      <skill id="OneHanded"
+             value="20" />
+      <skill id="TwoHanded"
+             value="10" />
+      <skill id="Polearm"
+             value="20" />
+      <skill id="Bow"
+             value="5" />
+      <skill id="Crossbow"
+             value="5" />
+      <skill id="Throwing"
+             value="5" />
+    </skills>
+    <upgrade_targets>
+      <upgrade_target id="NPCCharacter.frankish_militia_spearman" />
+	  <upgrade_target id="NPCCharacter.frankish_militia_crossbowman" />
+    </upgrade_targets>
+    <Equipments>
+      			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.western_spear_1_t2"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Body" id="Item.sackcloth_tunic"/>
+				<equipment slot="Cape" id="Item.steelcross1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.western_spear_1_t2"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Cape" id="Item.steelcross1"/>
+				<equipment slot="Body" id="Item.long_woolen_tunic"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.western_spear_1_t2"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Cape" id="Item.steelcross1"/>
+				<equipment slot="Body" id="Item.nordic_tunic"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sturgia_axe_2_t2"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Body" id="Item.sackcloth_tunic"/>
+				<equipment slot="Cape" id="Item.steelcross1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sturgia_axe_2_t2"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Body" id="Item.fine_town_tunic"/>
+				<equipment slot="Cape" id="Item.steelcross1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.western_spear_1_t2"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Body" id="Item.long_woolen_tunic"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.western_spear_1_t2"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Body" id="Item.tundra_tunic"/>
+				<equipment slot="Leg" id="Item.rough_tied_boots"/>
+			</EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="frankish_militia_spearman"
+                default_group="Infantry"
+                level="11"
+                name="{=E11FRt11}Frankish Militia Spearman"
+                occupation="Soldier"
+                culture="Culture.vlandia">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills>
+    <skill id="Athletics"
+           value="40" />
+    <skill id="Riding"
+           value="5" />
+    <skill id="OneHanded"
+           value="40" />
+    <skill id="TwoHanded"
+           value="40" />
+    <skill id="Polearm"
+           value="40" />
+    <skill id="Bow"
+           value="15" />
+    <skill id="Crossbow"
+           value="15" />
+    <skill id="Throwing"
+           value="20" />
+    </skills>
+    <upgrade_targets>
+      <upgrade_target id="NPCCharacter.frankish_veteran_militia_spearman" />
+	  <upgrade_target id="NPCCharacter.frankish_swordsman" />
+    </upgrade_targets>
+    <Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.western_spear_1_t2"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Head" id="Item.sta_norm_nasal_1"/>
+				<equipment slot="Body" id="Item.sackcloth_tunic"/>
+				<equipment slot="Cape" id="Item.steelcross1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sturgia_axe_2_t2"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Head" id="Item.sta_norm_nasal_1"/>
+				<equipment slot="Body" id="Item.long_woolen_tunic"/>
+				<equipment slot="Leg" id="Item.rough_tied_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sturgia_axe_2_t2"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Head" id="Item.sta_norm_nasal_1"/>
+				<equipment slot="Cape" id="Item.steelcross1"/>
+				<equipment slot="Body" id="Item.hemp_tunic"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+
+				<EquipmentRoster>
+				<equipment slot="Item0" id="Item.western_spear_1_t2"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Head" id="Item.sta_norm_nasal_1"/>
+				<equipment slot="Body" id="Item.sackcloth_tunic"/>
+				<equipment slot="Cape" id="Item.steelcross1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>   
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.western_spear_1_t2"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Head" id="Item.sta_norm_nasal_1"/>
+				<equipment slot="Body" id="Item.long_woolen_tunic"/>
+				<equipment slot="Leg" id="Item.rough_tied_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.western_spear_1_t2"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Head" id="Item.sta_norm_nasal_1"/>
+				<equipment slot="Body" id="Item.sleeveless_padded_coat"/>
+				<equipment slot="Leg" id="Item.rough_tied_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.western_spear_1_t2"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Head" id="Item.sta_norm_nasal_1"/>
+				<equipment slot="Body" id="Item.tundra_tunic"/>
+				<equipment slot="Leg" id="Item.rough_tied_boots"/>
+			</EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+ 
+ <NPCCharacter id="frankish_veteran_militia_spearman"
+                default_group="Infantry"
+                level="16"
+                name="{=E11FRt11}Frankish Veteran Militia Spearman"
+                occupation="Soldier"
+                culture="Culture.vlandia">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills>
+    <skill id="Athletics"
+           value="70" />
+    <skill id="Riding"
+           value="10" />
+    <skill id="OneHanded"
+           value="100" />
+    <skill id="TwoHanded"
+           value="40" />
+    <skill id="Polearm"
+           value="40" />
+    <skill id="Bow"
+           value="30" />
+    <skill id="Crossbow"
+           value="30" />
+    <skill id="Throwing"
+           value="70" />
+    </skills>
+    <upgrade_targets>
+      <upgrade_target id="NPCCharacter.frankish_sergeant_spearman" />
+
+    </upgrade_targets>
+    <Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.western_spear_1_t2"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Head" id="Item.sta_norm_nasal_1"/>
+				<equipment slot="Body" id="Item.wool_tunic1"/>
+				<equipment slot="Leg" id="Item.bootssta_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.western_spear_1_t2"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Head" id="Item.early_mailcoif_1"/>
+				<equipment slot="Body" id="Item.wool_tunic1"/>
+				<equipment slot="Leg" id="Item.bootssta_1"/>
+			</EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="frankish_sergeant_spearman"
+                default_group="Infantry"
+                level="21"
+                name="{=E11FRt11}Frankish Serjeant Spearman"
+                occupation="Soldier"
+                culture="Culture.vlandia">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills>
+    <skill id="Athletics"
+           value="100" />
+    <skill id="Riding"
+           value="15" />
+    <skill id="OneHanded"
+           value="100" />
+    <skill id="TwoHanded"
+           value="100" />
+    <skill id="Polearm"
+           value="100" />
+    <skill id="Bow"
+           value="45" />
+    <skill id="Crossbow"
+           value="45" />
+    <skill id="Throwing"
+           value="60" />
+    </skills>
+    <upgrade_targets>
+    </upgrade_targets>
+    <Equipments>
+	      	<EquipmentRoster>	
+				<equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Head" id="Item.decor_nasal_2_1"/>
+				<equipment slot="Body" id="Item.gambeson_levy1"/>
+				<equipment slot="Leg" id="Item.bootssta_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Head" id="Item.sta_norm_nasal_1"/>
+				<equipment slot="Body" id="Item.levy_gambeson_1"/>
+				<equipment slot="Leg" id="Item.bootssta_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Head" id="Item.sta_norm_nasal_1"/>
+				<equipment slot="Body" id="Item.serjeant_gambeson_levy2"/>
+				<equipment slot="Leg" id="Item.bootssta_1"/>
+			</EquipmentRoster>
+						<EquipmentRoster>
+				<equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Head" id="Item.sta_norm_nasal_1"/>
+				<equipment slot="Body" id="Item.serjeant_gambeson_levy2"/>
+				<equipment slot="Leg" id="Item.bootssta_1"/>
+			</EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  
+   <NPCCharacter id="frankish_militia_crossbowman"
+                default_group="Infantry"
+                level="11"
+                name="{=E11FRt11}Frankish Militia Skirmisher"
+                occupation="Soldier"
+                culture="Culture.vlandia">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills>
+    <skill id="Athletics"
+           value="40" />
+    <skill id="Riding"
+           value="5" />
+    <skill id="OneHanded"
+           value="40" />
+    <skill id="TwoHanded"
+           value="15" />
+    <skill id="Polearm"
+           value="20" />
+    <skill id="Bow"
+           value="40" />
+    <skill id="Crossbow"
+           value="40" />
+    <skill id="Throwing"
+           value="40" />
+    </skills>
+    <upgrade_targets>
+	  <upgrade_target id="NPCCharacter.frankish_veteran_militia_crossbowman" />
+    </upgrade_targets>
+    <Equipments>
+      			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.northern_javelin_2_t3"/>
+				<equipment slot="Item1" id="Item.vlandia_sword_1_t2"/>
+				<equipment slot="Body" id="Item.sackcloth_tunic"/>
+				<equipment slot="Cape" id="Item.steelcross1"/>
+				<equipment slot="Head" id="Item.sta_norm_nasal_1"/>
+				<equipment slot="Leg" id="Item.rough_tied_boots"/>
+			</EquipmentRoster>
+			   <EquipmentRoster>
+				<equipment slot="Item0" id="Item.northern_javelin_2_t3"/>
+				<equipment slot="Item1" id="Item.vlandia_sword_1_t2"/>
+				<equipment slot="Head" id="Item.early_mailcoif_1"/>			
+				<equipment slot="Cape" id="Item.steelcross1"/>
+				<equipment slot="Body" id="Item.long_woolen_tunic"/>
+				<equipment slot="Leg" id="Item.rough_tied_boots"/>
+			</EquipmentRoster>
+			    <EquipmentRoster>
+				<equipment slot="Item0" id="Item.northern_javelin_2_t3"/>
+				<equipment slot="Item1" id="Item.vlandia_sword_1_t2"/>
+				<equipment slot="Head" id="Item.early_mailcoif_1"/>
+				<equipment slot="Body" id="Item.tundra_tunic"/>
+				<equipment slot="Cape" id="Item.steelcross1"/>
+				<equipment slot="Leg" id="Item.rough_tied_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.northern_javelin_2_t3"/>
+				<equipment slot="Item1" id="Item.vlandia_sword_1_t2"/>
+				<equipment slot="Head" id="Item.early_mailcoif_1"/>
+				<equipment slot="Cape" id="Item.steelcross1"/>
+				<equipment slot="Body" id="Item.sackcloth_tunic"/>
+				<equipment slot="Leg" id="Item.rough_tied_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.northern_javelin_2_t3"/>
+				<equipment slot="Item1" id="Item.vlandia_sword_1_t2"/>
+				<equipment slot="Cape" id="Item.steelcross1"/>
+				<equipment slot="Body" id="Item.fine_town_tunic"/>
+				<equipment slot="Leg" id="Item.rough_tied_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.northern_javelin_2_t3"/>
+				<equipment slot="Item1" id="Item.vlandia_sword_1_t2"/>
+				<equipment slot="Cape" id="Item.steelcross1"/>
+				<equipment slot="Head" id="Item.early_mailcoif_1"/>
+				<equipment slot="Body" id="Item.long_woolen_tunic"/>
+				<equipment slot="Leg" id="Item.rough_tied_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.northern_javelin_2_t3"/>
+				<equipment slot="Item1" id="Item.vlandia_sword_1_t2"/>
+				<equipment slot="Cape" id="Item.steelcross1"/>
+				<equipment slot="Body" id="Item.sackcloth_tunic"/>
+				<equipment slot="Leg" id="Item.rough_tied_boots"/>
+			</EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="frankish_veteran_militia_crossbowman"
+                default_group="Ranged"
+                level="16"
+                name="{=E11FRt11}Frankish Veteran Militia Crossbowman"
+                occupation="Soldier"
+                culture="Culture.vlandia">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills>
+    <skill id="Athletics"
+              value="70" />
+    <skill id="Riding"
+           value="10" />
+    <skill id="OneHanded"
+           value="70" />
+    <skill id="TwoHanded"
+           value="40" />
+    <skill id="Polearm"
+           value="30" />
+    <skill id="Bow"
+           value="100" />
+    <skill id="Crossbow"
+           value="100" />
+    <skill id="Throwing"
+           value="100" />
+    </skills>
+    <upgrade_targets>
+	  <upgrade_target id="NPCCharacter.frankish_master_crossbowman" />
+    </upgrade_targets>
+    <Equipments>
+     	<EquipmentRoster>
+				<equipment slot="Item0" id="Item.crossbow_b"/>
+				<equipment slot="Item1" id="Item.bolt_a"/>
+				<equipment slot="Item2" id="Item.vlandia_sword_1_t2"/>
+				<equipment slot="Head" id="Item.early_mailcoif_1"/>
+				<equipment slot="Body" id="Item.wool_tunic1"/>
+				<equipment slot="Leg" id="Item.bootssta_1"/>
+				<equipment slot="Cape" id="Item.steelcross1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.crossbow_b"/>
+				<equipment slot="Item1" id="Item.bolt_a"/>
+				<equipment slot="Item2" id="Item.vlandia_sword_1_t2"/>
+				<equipment slot="Head" id="Item.decor_nasal_2_1"/>
+				<equipment slot="Body" id="Item.gambeson_levy1"/>
+				<equipment slot="Leg" id="Item.bootssta_1"/>
+				<equipment slot="Cape" id="Item.steelcross1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.crossbow_b"/>
+				<equipment slot="Item1" id="Item.bolt_a"/>
+				<equipment slot="Item2" id="Item.vlandia_sword_1_t2"/>
+				<equipment slot="Head" id="Item.early_mailcoif_1"/>
+				<equipment slot="Body" id="Item.wool_tunic1"/>
+				<equipment slot="Leg" id="Item.bootssta_1"/>
+				<equipment slot="Cape" id="Item.steelcross1"/>
+			</EquipmentRoster>
+			
+
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="frankish_master_crossbowman"
+                default_group="Ranged"
+                level="21"
+                name="{=E11FRt11}Frankish Master Crossbowman"
+                occupation="Soldier"
+                culture="Culture.vlandia">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills>
+    <skill id="Athletics"
+             value="100" />
+    <skill id="Riding"
+           value="15" />
+    <skill id="OneHanded"
+           value="100" />
+    <skill id="TwoHanded"
+           value="60" />
+    <skill id="Polearm"
+           value="60" />
+    <skill id="Bow"
+           value="100" />
+    <skill id="Crossbow"
+           value="100" />
+    <skill id="Throwing"
+           value="100" />
+    </skills>
+    <upgrade_targets>
+
+    </upgrade_targets>
+    <Equipments>
+
+			  <EquipmentRoster>
+				<equipment slot="Item0" id="Item.crossbow_b"/>
+				<equipment slot="Item1" id="Item.bolt_a"/>
+				<equipment slot="Item2" id="Item.vlandia_sword_1_t2"/>
+				<equipment slot="Head" id="Item.decor_nasal_2_1"/>
+				<equipment slot="Cape" id="Item.steelcross1"/>
+				<equipment slot="Body" id="Item.gambeson_levy1"/>
+				<equipment slot="Leg" id="Item.bootssta_1"/>
+			</EquipmentRoster>
+			    <EquipmentRoster>
+				<equipment slot="Item0" id="Item.crossbow_b"/>
+				<equipment slot="Item1" id="Item.bolt_a"/>
+				<equipment slot="Item2" id="Item.vlandia_sword_1_t2"/>
+				<equipment slot="Cape" id="Item.steelcross1"/>
+				<equipment slot="Head" id="Item.sta_norm_nasal_1"/>
+				<equipment slot="Body" id="Item.chainskirt_strap_1"/>
+				<equipment slot="Leg" id="Item.bootssta_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.crossbow_e"/>
+				<equipment slot="Item1" id="Item.bolt_a"/>
+				<equipment slot="Item2" id="Item.vlandia_sword_1_t2"/>
+				<equipment slot="Cape" id="Item.steelcross1"/>
+				<equipment slot="Head" id="Item.cervelliere_padding_hood1"/>
+				<equipment slot="Body" id="Item.levy_gambeson_1"/>
+				<equipment slot="Leg" id="Item.bootssta_1"/>
+			</EquipmentRoster>
+
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="frankish_swordsman"
+                default_group="Infantry"
+                level="16"
+                name="{=E11FRt11}Frankish Axeman"
+                occupation="Soldier"
+                culture="Culture.vlandia">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills>
+    <skill id="Athletics"
+           value="70" />
+    <skill id="Riding"
+           value="10" />
+    <skill id="OneHanded"
+           value="100" />
+    <skill id="TwoHanded"
+           value="40" />
+    <skill id="Polearm"
+           value="40" />
+    <skill id="Bow"
+           value="30" />
+    <skill id="Crossbow"
+           value="30" />
+    <skill id="Throwing"
+           value="70" />
+    </skills>
+    <upgrade_targets>
+      <upgrade_target id="NPCCharacter.frankish_sergeant_swordsman" />
+    </upgrade_targets>
+    <Equipments>
+						   <EquipmentRoster>
+				<equipment slot="Item0" id="Item.vlandia_axe_1_t3"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Head" id="Item.sta_norm_nasal_1"/>
+				<equipment slot="Body" id="Item.sleeveless_padded_coat"/>
+				<equipment slot="Leg" id="Item.bootssta_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.vlandia_axe_1_t3"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Head" id="Item.early_mailcoif_1"/>
+				<equipment slot="Body" id="Item.sleeveless_padded_coat"/>
+				<equipment slot="Leg" id="Item.bootssta_1"/>
+			</EquipmentRoster>
+
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="frankish_sergeant_swordsman"
+                default_group="Infantry"
+                level="21"
+                name="{=E11FRt11}Frankish Serjeant Swordsman"
+                occupation="Soldier"
+                culture="Culture.vlandia">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills>
+    <skill id="Athletics"
+           value="100" />
+    <skill id="Riding"
+           value="15" />
+    <skill id="OneHanded"
+           value="100" />
+    <skill id="TwoHanded"
+           value="100" />
+    <skill id="Polearm"
+           value="100" />
+    <skill id="Bow"
+           value="45" />
+    <skill id="Crossbow"
+           value="45" />
+    <skill id="Throwing"
+           value="60" />
+    </skills>
+    <upgrade_targets>
+    </upgrade_targets>
+    <Equipments>
+	      	<EquipmentRoster>	
+				<equipment slot="Item0" id="Item.vlandia_sword_2_t3"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Head" id="Item.decor_nasal_2_1"/>
+				<equipment slot="Body" id="Item.gambeson_levy1"/>
+				<equipment slot="Leg" id="Item.bootssta_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sturgia_axe_2_t2"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Head" id="Item.sta_norm_nasal_1"/>
+				<equipment slot="Body" id="Item.levy_gambeson_1"/>
+				<equipment slot="Leg" id="Item.bootssta_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sturgia_axe_2_t2"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Head" id="Item.early_mailcoif_1"/>
+				<equipment slot="Body" id="Item.serjeant_gambeson_levy2"/>
+				<equipment slot="Leg" id="Item.bootssta_1"/>
+			</EquipmentRoster>
+						<EquipmentRoster>
+				<equipment slot="Item0" id="Item.vlandia_sword_2_t3"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Head" id="Item.sta_norm_nasal_1"/>
+				<equipment slot="Body" id="Item.serjeant_gambeson_levy2"/>
+				<equipment slot="Leg" id="Item.bootssta_1"/>
+			</EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  
+   <NPCCharacter id="frankish_squire"
+                default_group="Cavalry"
+                level="21"
+                name="{=E11FRt11}Frankish Serjeant"
+				is_basic_troop="true"
+                occupation="Soldier"
+                culture="Culture.vlandia">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills>
+    <skill id="Athletics"
+              value="40" />
+    <skill id="Riding"
+           value="110" />
+    <skill id="OneHanded"
+           value="110" />
+    <skill id="TwoHanded"
+           value="160" />
+    <skill id="Polearm"
+           value="150" />
+    <skill id="Bow"
+           value="40" />
+    <skill id="Crossbow"
+           value="15" />
+    <skill id="Throwing"
+           value="15" />
+    </skills>
+    <upgrade_targets>
+	      <upgrade_target id="NPCCharacter.frankish_banner_knight" />
+    </upgrade_targets>
+    <Equipments>
+      		<EquipmentRoster>
+				<equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Item2" id="Item.vlandia_sword_2_t3"/>
+				<equipment slot="Head" id="Item.cervelliere_padding_hood1"/>
+				<equipment slot="Body" id="Item.levy_gambeson_1"/>
+				<equipment slot="Leg" id="Item.bootssta_1"/>
+				<equipment slot="Horse" id="Item.t3_empire_horse"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+   </EquipmentRoster>
+   <EquipmentRoster>
+				<equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Item2" id="Item.vlandia_sword_2_t3"/>
+				<equipment slot="Head" id="Item.p_segm_nasal_1"/>	
+				<equipment slot="Body" id="Item.gambeson_levy1"/>
+				<equipment slot="Leg" id="Item.bootssta_1"/>
+				<equipment slot="Horse" id="Item.t3_empire_horse"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+
+				<equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Item2" id="Item.vlandia_sword_2_t3"/>
+				<equipment slot="Head" id="Item.sta_nasal_elwool"/>
+				<equipment slot="Body" id="Item.serjeant_gambeson_levy2"/>
+				<equipment slot="Leg" id="Item.bootssta_1"/>
+				<equipment slot="Horse" id="Item.t3_empire_horse"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+
+    </Equipments>
+  </NPCCharacter>
+  
+   <NPCCharacter id="frankish_banner_knight"
+                default_group="Infantry"
+                level="26"
+                name="{=E11FRt11}Frankish Chevalier a Pied"
+                occupation="Soldier"
+				upgrade_requires="ItemCategory.war_horse"
+                culture="Culture.vlandia">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills>
+    <skill id="Athletics"
+           value="80" />
+    <skill id="Riding"
+           value="130" />
+    <skill id="OneHanded"
+           value="130" />
+    <skill id="TwoHanded"
+           value="160" />
+    <skill id="Polearm"
+           value="160" />
+    <skill id="Bow"
+           value="60" />
+    <skill id="Crossbow"
+           value="20" />
+    <skill id="Throwing"
+           value="60" />
+    </skills>
+    <upgrade_targets>
+	      <upgrade_target id="NPCCharacter.frankish_marshal" />
+    </upgrade_targets>
+    <Equipments>
+     			<EquipmentRoster>
+
+				<equipment slot="Item0" id="Item.vlandia_sword_2_t3"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Head" id="Item.decor_nasal_2_1"/>
+				<equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.chain_hauberk_1"/>
+				<equipment slot="Gloves" id="Item.mailgloves_1"/>
+				<equipment slot="Leg" id="Item.mailchasseus_1"/>
+
+			</EquipmentRoster>
+			<EquipmentRoster>
+
+				<equipment slot="Item0" id="Item.pernach_mace_t3"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Head" id="Item.t_shaped_1"/>
+				<equipment slot="Cape" id="Item.steelcross1"/>
+				<equipment slot="Body" id="Item.mail_vest_1"/>
+				<equipment slot="Gloves" id="Item.mailgloves_1"/>
+				<equipment slot="Leg" id="Item.mailchasseus_1"/>
+
+			</EquipmentRoster>
+			 <EquipmentRoster>
+
+				<equipment slot="Item0" id="Item.vlandia_axe_1_t3"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Head" id="Item.painted_es_naal1"/>
+				<equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.chain_hauberk_1"/>
+				<equipment slot="Gloves" id="Item.mailgloves_1"/>
+				<equipment slot="Leg" id="Item.mailchasseus_1"/>
+
+			</EquipmentRoster>
+			 <EquipmentRoster>
+
+				<equipment slot="Item0" id="Item.vlandia_sword_2_t3"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Head" id="Item.painted_es_naal1"/>
+				<equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.mail_vest_1"/>
+				<equipment slot="Gloves" id="Item.mailgloves_1"/>
+				<equipment slot="Leg" id="Item.mailchasseus_1"/>
+
+			</EquipmentRoster>
+
+						      			<EquipmentRoster>
+
+				<equipment slot="Item0" id="Item.vlandia_sword_2_t3"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Head" id="Item.t_shaped_1"/>
+				<equipment slot="Cape" id="Item.steelcross1"/>
+				<equipment slot="Body" id="Item.mail_vest_1"/>
+				<equipment slot="Gloves" id="Item.mailgloves_1"/>
+				<equipment slot="Leg" id="Item.mailchasseus_1"/>
+
+			</EquipmentRoster>
+			      			<EquipmentRoster>
+
+				<equipment slot="Item0" id="Item.vlandia_sword_2_t3"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Head" id="Item.decor_nasal_2_1"/>
+				<equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.chain_hauberk_1"/>
+				<equipment slot="Gloves" id="Item.mailgloves_1"/>
+				<equipment slot="Leg" id="Item.mailchasseus_1"/>
+
+			</EquipmentRoster>
+						      			<EquipmentRoster>
+
+				<equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Head" id="Item.sta_nasal_el1"/>
+				<equipment slot="Cape" id="Item.steelcross1"/>
+				<equipment slot="Body" id="Item.mail_vest_1"/>
+				<equipment slot="Gloves" id="Item.mailgloves_1"/>
+				<equipment slot="Leg" id="Item.mailchasseus_1"/>
+
+			</EquipmentRoster>
+			<EquipmentRoster>
+	
+				<equipment slot="Item0" id="Item.pernach_mace_t3"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Head" id="Item.sta_nasal_el1"/>
+				<equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.chain_hauberk_1"/>
+				<equipment slot="Gloves" id="Item.mailgloves_1"/>
+				<equipment slot="Leg" id="Item.mailchasseus_1"/>
+
+			</EquipmentRoster>
+				<EquipmentRoster>
+				<equipment slot="Item0" id="Item.vlandia_axe_1_t3"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Head" id="Item.decor_nasal_2_1"/>
+				<equipment slot="Cape" id="Item.steelcross1"/>
+				<equipment slot="Body" id="Item.norm_hauberk_1"/>
+				<equipment slot="Gloves" id="Item.mailgloves_1"/>
+				<equipment slot="Leg" id="Item.mailchasseus_1"/>
+
+			</EquipmentRoster>
+			 <EquipmentRoster>
+				<equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Head" id="Item.painted_es_naal1"/>
+				<equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.norm_sleeved_hauberk_1"/>
+				<equipment slot="Gloves" id="Item.mailgloves_1"/>
+				<equipment slot="Leg" id="Item.mailchasseus_1"/>
+
+			</EquipmentRoster>
+			     <EquipmentRoster>
+				<equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Head" id="Item.sta_italonorman_1"/>
+				<equipment slot="Cape" id="Item.steelcross1"/>
+				<equipment slot="Body" id="Item.norm_hauberk_sleeves_1"/>
+				<equipment slot="Gloves" id="Item.mailgloves_1"/>
+				<equipment slot="Leg" id="Item.mailchasseus_1"/>
+
+				</EquipmentRoster>
+			     <EquipmentRoster>
+				<equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Head" id="Item.sta_italonorman_1"/>
+				<equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.norm_hauberk_sleeves_1"/>
+				<equipment slot="Gloves" id="Item.mailgloves_1"/>
+				<equipment slot="Leg" id="Item.mailchasseus_1"/>
+
+			</EquipmentRoster>	
+    </Equipments>
+  </NPCCharacter>
+  
+   <NPCCharacter id="frankish_marshal"
+                default_group="Cavalry"
+                level="31"
+                name="{=E11FRt11}Frankish Chevalier"
+                occupation="Soldier"
+                culture="Culture.vlandia">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills>
+    <skill id="Athletics"
+           value="60" />
+    <skill id="Riding"
+           value="200" />
+    <skill id="OneHanded"
+           value="200" />
+    <skill id="TwoHanded"
+           value="260" />
+    <skill id="Polearm"
+           value="260" />
+    <skill id="Bow"
+           value="60" />
+    <skill id="Crossbow"
+           value="25" />
+    <skill id="Throwing"
+           value="45" />
+    </skills>
+    <upgrade_targets>
+    </upgrade_targets>
+    <Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Item2" id="Item.vlandia_sword_2_t3"/>
+				<equipment slot="Head" id="Item.painted_es_naal1"/>
+				<equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.chain_hauberk_1"/>
+				<equipment slot="Gloves" id="Item.mailgloves_1"/>
+				<equipment slot="Leg" id="Item.mailchasseus_1"/>
+				<equipment slot="Horse" id="Item.t3_empire_horse"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Item2" id="Item.vlandia_sword_2_t3"/>
+				<equipment slot="Head" id="Item.norm_nasal_p_1"/>
+				<equipment slot="Cape" id="Item.steelcross1"/>
+				<equipment slot="Body" id="Item.mail_vest_1"/>
+				<equipment slot="Gloves" id="Item.mailgloves_1"/>
+				<equipment slot="Leg" id="Item.mailchasseus_1"/>
+				<equipment slot="Horse" id="Item.t3_empire_horse"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+			    <EquipmentRoster>
+				<equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Item2" id="Item.vlandia_sword_2_t3"/>
+				<equipment slot="Head" id="Item.painted_es_naal1"/>
+				<equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.chain_hauberk_1"/>
+				<equipment slot="Gloves" id="Item.mailgloves_1"/>
+				<equipment slot="Leg" id="Item.mailchasseus_1"/>
+				<equipment slot="Horse" id="Item.t3_empire_horse"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+			   <EquipmentRoster>
+				<equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Item2" id="Item.vlandia_sword_2_t3"/>
+				<equipment slot="Head" id="Item.sta_italonorman_1"/>
+				<equipment slot="Cape" id="Item.steelcross1"/>
+				<equipment slot="Body" id="Item.mail_vest_1"/>
+				<equipment slot="Gloves" id="Item.mailgloves_1"/>
+				<equipment slot="Leg" id="Item.mailchasseus_1"/>
+				<equipment slot="Horse" id="Item.t3_empire_horse"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Item2" id="Item.vlandia_sword_2_t3"/>
+				<equipment slot="Head" id="Item.t_shaped_1"/>
+				<equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.mail_vest_1"/>
+				<equipment slot="Gloves" id="Item.mailgloves_1"/>
+				<equipment slot="Leg" id="Item.mailchasseus_1"/>
+				<equipment slot="Horse" id="Item.t3_empire_horse"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+			    <EquipmentRoster>
+				<equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Item2" id="Item.vlandia_axe_1_t3"/>
+				<equipment slot="Head" id="Item.cercelliere_1"/>
+				<equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.chain_hauberk_1"/>
+				<equipment slot="Gloves" id="Item.mailgloves_1"/>
+				<equipment slot="Leg" id="Item.mailchasseus_1"/>
+				<equipment slot="Horse" id="Item.t3_empire_horse"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Item2" id="Item.pernach_mace_t3"/>
+				<equipment slot="Head" id="Item.decor_nasal_2_1"/>
+				<equipment slot="Cape" id="Item.steelcross1"/>
+				<equipment slot="Body" id="Item.mail_vest_1"/>
+				<equipment slot="Gloves" id="Item.mailgloves_1"/>
+				<equipment slot="Leg" id="Item.mailchasseus_1"/>
+				<equipment slot="Horse" id="Item.t3_empire_horse"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+			      			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Item2" id="Item.pernach_mace_t3"/>
+				<equipment slot="Head" id="Item.sta_nasal_el1"/>
+				<equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.chain_hauberk_1"/>
+				<equipment slot="Gloves" id="Item.mailgloves_1"/>
+				<equipment slot="Leg" id="Item.mailchasseus_1"/>
+				<equipment slot="Horse" id="Item.t3_empire_horse"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Item2" id="Item.vlandia_sword_2_t3"/>
+				<equipment slot="Head" id="Item.sta_nasal_el1"/>
+				<equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.norm_hauberk_1"/>
+				<equipment slot="Gloves" id="Item.mailgloves_1"/>
+				<equipment slot="Leg" id="Item.mailchasseus_1"/>
+				<equipment slot="Horse" id="Item.t3_empire_horse"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+			 <EquipmentRoster>
+				<equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Item2" id="Item.vlandia_sword_2_t3"/>
+				<equipment slot="Head" id="Item.decor_nasal_2_1"/>
+				<equipment slot="Cape" id="Item.steelcross1"/>
+				<equipment slot="Body" id="Item.norm_sleeved_hauberk_1"/>
+				<equipment slot="Gloves" id="Item.mailgloves_1"/>
+				<equipment slot="Leg" id="Item.mailchasseus_1"/>
+				<equipment slot="Horse" id="Item.t3_empire_horse"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+			  <EquipmentRoster>
+				<equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item1" id="Item.teardrop_shield_1"/>
+				<equipment slot="Item2" id="Item.vlandia_sword_2_t3"/>
+				<equipment slot="Head" id="Item.cercelliere_1"/>
+				<equipment slot="Cape" id="Item.steelcross1"/>
+				<equipment slot="Body" id="Item.norm_hauberk_sleeves_1"/>
+				<equipment slot="Gloves" id="Item.mailgloves_1"/>
+				<equipment slot="Leg" id="Item.mailchasseus_1"/>
+				<equipment slot="Horse" id="Item.t3_empire_horse"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+				</EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+</NPCCharacters>

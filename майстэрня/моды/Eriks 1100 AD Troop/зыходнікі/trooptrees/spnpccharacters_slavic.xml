@@ -1,0 +1,1254 @@
+<NPCCharacters>
+
+  <NPCCharacter id="caravan_master_goldenhorde"
+                default_group="Infantry"
+                level="26"
+                name="{=ECM_caravan_master_goldenhorde}Rus Caravan Master"
+                occupation="CaravanGuard"
+                culture="Culture.goldenhorde">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="130" />
+      <skill id="Riding"
+             value="130" />
+      <skill id="OneHanded"
+             value="160" />
+      <skill id="TwoHanded"
+             value="80" />
+      <skill id="Polearm"
+             value="60" />
+      <skill id="Bow"
+             value="80" />
+      <skill id="Crossbow"
+             value="20" />
+      <skill id="Throwing"
+             value="50" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+						<EquipmentRoster>
+				<equipment slot="Item0" id="Item.western_spear_1_t2"/>
+				<equipment slot="Item1" id="Item.stronger_eastern_wicker_shield"/>
+				<equipment slot="Item2" id="Item.khuzait_sword_2_t3"/>
+				<equipment slot="Item3" id="Item.aserai_axe_1_t2"/>
+				<equipment slot="Head" id="Item.steppe_helmet"/>
+				<equipment slot="Body" id="Item.esmail_tunic1"/>
+				<equipment slot="Leg" id="Item.bootssta_1"/>
+			</EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.khuzait_sword_3_t3" />
+        <equipment slot="Head"
+                   id="Item.plumed_fur_lined_helmet" />
+        <equipment slot="Body"
+                   id="Item.khuzait_sturdy_armor" />
+        <equipment slot="Gloves"
+                   id="Item.northern_brass_bracers" />
+        <equipment slot="Cape"
+                   id="Item.brass_scale_shoulders" />
+        <equipment slot="Leg"
+                   id="Item.woven_leather_boots" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  
+   <NPCCharacter id="caravan_guard_goldenhorde"
+                default_group="Cavalry"
+                level="21"
+                name="{=ECM_caravan_guard_goldenhorde}Rus Caravan Guard"
+                upgrade_requires="ItemCategory.horse"
+                occupation="CaravanGuard"
+                culture="Culture.goldenhorde">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="40" />
+      <skill id="Riding"
+             value="130" />
+      <skill id="OneHanded"
+             value="90" />
+      <skill id="TwoHanded"
+             value="150" />
+      <skill id="Polearm"
+             value="150" />
+      <skill id="Bow"
+             value="40" />
+      <skill id="Crossbow"
+             value="15" />
+      <skill id="Throwing"
+             value="15" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.eastern_spear_3_t3" />
+        <equipment slot="Item1"
+                   id="Item.khuzait_sword_3_t3" />
+        <equipment slot="Item2"
+                   id="Item.worn_horsemans_kite_shield" />
+        <equipment slot="Head"
+                   id="Item.peaked_fur_hood" />
+        <equipment slot="Body"
+                   id="Item.reinforced_suede_armor" />
+        <equipment slot="Leg"
+                   id="Item.leather_shoes" />
+
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.eastern_spear_3_t3" />
+        <equipment slot="Item1"
+                   id="Item.khuzait_sword_2_t3" />
+        <equipment slot="Item2"
+                   id="Item.worn_horsemans_kite_shield" />
+        <equipment slot="Head"
+                   id="Item.upturned_fur_cap" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.eastern_spear_2_t3" />
+        <equipment slot="Item1"
+                   id="Item.khuzait_sword_2_t3" />
+        <equipment slot="Item2"
+                   id="Item.worn_horsemans_kite_shield" />
+        <equipment slot="Head"
+                   id="Item.upturned_fur_cap" />
+        <equipment slot="Body"
+                   id="Item.reinforced_suede_armor" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.eastern_spear_2_t3" />
+        <equipment slot="Item1"
+                   id="Item.khuzait_sword_2_t3" />
+        <equipment slot="Item2"
+                   id="Item.worn_horsemans_kite_shield" />
+        <equipment slot="Head"
+                   id="Item.upturned_fur_cap" />
+        <equipment slot="Body"
+                   id="Item.reinforced_suede_armor" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+        <equipment slot="Cape"
+                   id="Item.eastern_studded_shoulders" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.eastern_spear_2_t3" />
+        <equipment slot="Item1"
+                   id="Item.khuzait_sword_2_t3" />
+        <equipment slot="Item2"
+                   id="Item.worn_horsemans_kite_shield" />
+        <equipment slot="Head"
+                   id="Item.upturned_fur_cap" />
+        <equipment slot="Body"
+                   id="Item.reinforced_suede_armor" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <equipment slot="Horse"
+                 id="Item.khuzait_horse" />
+      <equipment slot="HorseHarness"
+                 id="Item.steppe_harness" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="veteran_caravan_guard_goldenhorde"
+                default_group="HorseArcher"
+                level="26"
+                name="{=ECM_veteran_caravan_guard_goldenhorde}Rus Veteran Caravan Guard"
+                occupation="CaravanGuard"
+                culture="Culture.goldenhorde">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="70" />
+      <skill id="Riding"
+             value="140" />
+      <skill id="OneHanded"
+             value="120" />
+      <skill id="TwoHanded"
+             value="70" />
+      <skill id="Polearm"
+             value="80" />
+      <skill id="Bow"
+             value="130" />
+      <skill id="Crossbow"
+             value="20" />
+      <skill id="Throwing"
+             value="60" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.steppe_heavy_bow" />
+        <equipment slot="Item1"
+                   id="Item.default_arrows" />
+        <equipment slot="Item2"
+                   id="Item.khuzait_mace_3_t4" />
+        <equipment slot="Item3"
+                   id="Item.decorated_steppe_shield" />
+        <equipment slot="Head"
+                   id="Item.goggled_helmet_over_mail" />
+        <equipment slot="Body"
+                   id="Item.eastern_plated_leather" />
+        <equipment slot="Leg"
+                   id="Item.khuzait_curved_boots" />
+        <equipment slot="Cape"
+                   id="Item.fur_cloak_b" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.steppe_heavy_bow" />
+        <equipment slot="Item1"
+                   id="Item.default_arrows" />
+        <equipment slot="Item2"
+                   id="Item.khuzait_mace_2_t4" />
+        <equipment slot="Item3"
+                   id="Item.decorated_steppe_shield" />
+        <equipment slot="Head"
+                   id="Item.goggled_helmet_over_mail" />
+        <equipment slot="Body"
+                   id="Item.eastern_plated_leather" />
+        <equipment slot="Leg"
+                   id="Item.khuzait_curved_boots" />
+        <equipment slot="Cape"
+                   id="Item.fur_cloak_b" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.steppe_heavy_bow" />
+        <equipment slot="Item1"
+                   id="Item.default_arrows" />
+        <equipment slot="Item2"
+                   id="Item.khuzait_mace_2_t4" />
+        <equipment slot="Item3"
+                   id="Item.decorated_steppe_shield" />
+        <equipment slot="Head"
+                   id="Item.goggled_helmet_over_mail" />
+        <equipment slot="Body"
+                   id="Item.eastern_plated_leather" />
+        <equipment slot="Leg"
+                   id="Item.khuzait_curved_boots" />
+        <equipment slot="Gloves"
+                   id="Item.eastern_wrapped_armguards" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.steppe_heavy_bow" />
+        <equipment slot="Item1"
+                   id="Item.default_arrows" />
+        <equipment slot="Item2"
+                   id="Item.khuzait_mace_2_t4" />
+        <equipment slot="Item3"
+                   id="Item.decorated_steppe_shield" />
+        <equipment slot="Head"
+                   id="Item.steppe_helmet" />
+        <equipment slot="Body"
+                   id="Item.eastern_plated_leather" />
+        <equipment slot="Leg"
+                   id="Item.khuzait_curved_boots" />
+        <equipment slot="Gloves"
+                   id="Item.eastern_wrapped_armguards" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.steppe_heavy_bow" />
+        <equipment slot="Item1"
+                   id="Item.default_arrows" />
+        <equipment slot="Item2"
+                   id="Item.khuzait_mace_3_t4" />
+        <equipment slot="Item3"
+                   id="Item.decorated_steppe_shield" />
+        <equipment slot="Head"
+                   id="Item.plumed_fur_lined_helmet" />
+        <equipment slot="Body"
+                   id="Item.eastern_plated_leather" />
+        <equipment slot="Leg"
+                   id="Item.khuzait_curved_boots" />
+        <equipment slot="Gloves"
+                   id="Item.leather_gloves" />
+        <equipment slot="Cape"
+                   id="Item.eastern_studded_shoulders" />
+      </EquipmentRoster>
+      <equipment slot="Horse"
+                 id="Item.khuzait_horse" />
+      <equipment slot="HorseHarness"
+                 id="Item.steppe_half_barding" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="armed_trader_goldenhorde"
+                default_group="Ranged"
+                level="16"
+                name="{=ECM_armed_trader_goldenhorde}Rus Armed Trader"
+                occupation="CaravanGuard"
+                culture="Culture.goldenhorde"
+                is_basic_troop="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="130" />
+      <skill id="Riding"
+             value="130" />
+      <skill id="OneHanded"
+             value="160" />
+      <skill id="TwoHanded"
+             value="80" />
+      <skill id="Polearm"
+             value="60" />
+      <skill id="Bow"
+             value="80" />
+      <skill id="Crossbow"
+             value="20" />
+      <skill id="Throwing"
+             value="50" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.steppe_bow" />
+        <equipment slot="Item1"
+                   id="Item.default_arrows" />
+        <equipment slot="Item2"
+                   id="Item.khuzait_sword_1_t2" />
+        <equipment slot="Body"
+                   id="Item.khuzait_belt_leather" />
+        <equipment slot="Leg"
+                   id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.steppe_bow" />
+        <equipment slot="Item1"
+                   id="Item.range_arrows" />
+        <equipment slot="Item2"
+                   id="Item.khuzait_sword_1_t2" />
+        <equipment slot="Body"
+                   id="Item.khuzait_civil_coat_b" />
+        <equipment slot="Leg"
+                   id="Item.khuzait_curved_boots" />
+
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.steppe_bow" />
+        <equipment slot="Item1"
+                   id="Item.range_arrows" />
+        <equipment slot="Item2"
+                   id="Item.khuzait_sword_1_t2" />
+        <equipment slot="Body"
+                   id="Item.khuzait_belt_leather" />
+        <equipment slot="Leg"
+                   id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.steppe_bow" />
+        <equipment slot="Item1"
+                   id="Item.range_arrows" />
+        <equipment slot="Item2"
+                   id="Item.khuzait_sword_1_t2" />
+        <equipment slot="Body"
+                   id="Item.khuzait_belt_leather" />
+        <equipment slot="Leg"
+                   id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.steppe_bow" />
+        <equipment slot="Item1"
+                   id="Item.range_arrows" />
+        <equipment slot="Item2"
+                   id="Item.khuzait_sword_1_t2" />
+        <equipment slot="Body"
+                   id="Item.khuzait_civil_coat_b" />
+        <equipment slot="Leg"
+                   id="Item.khuzait_curved_boots" />
+        <equipment slot="Cape"
+                   id="Item.eastern_studded_shoulders" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  
+<!--Troops-->
+
+  <NPCCharacter id="rus_polk"
+                default_group="Infantry"
+                level="6"
+                name="{=rus_polk}Rus Zadruzni Levy"
+                occupation="Soldier"
+                is_basic_troop="true"
+                culture="Culture.goldenhorde">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="20" />
+      <skill id="Riding"
+             value="5" />
+      <skill id="OneHanded"
+             value="20" />
+      <skill id="TwoHanded"
+             value="20" />
+      <skill id="Polearm"
+             value="20" />
+      <skill id="Bow"
+             value="5" />
+      <skill id="Crossbow"
+             value="5" />
+      <skill id="Throwing"
+             value="5" />
+    </skills>
+    <upgrade_targets>
+      <upgrade_target id="NPCCharacter.rus_polk_spearman" />
+      <upgrade_target id="NPCCharacter.rus_polk_archer" />
+    </upgrade_targets>
+    <Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.western_spear_1_t2"/>
+				<equipment slot="Item1" id="Item.eastern_wicker_shield"/>
+				<equipment slot="Head" id="Item.roughhide_cap"/>
+				<equipment slot="Body" id="Item.nordic_tunic"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+			</EquipmentRoster>
+						<EquipmentRoster>
+				<equipment slot="Item0" id="Item.western_spear_1_t2"/>
+				<equipment slot="Item1" id="Item.eastern_wicker_shield"/>
+				<equipment slot="Head" id="Item.roughhide_cap"/>
+				<equipment slot="Body" id="Item.nordic_tunic"/>
+				<equipment slot="Leg" id="Item.battania_woodland_boots"/>
+			</EquipmentRoster>
+						<EquipmentRoster>
+				<equipment slot="Item0" id="Item.western_spear_1_t2"/>
+				<equipment slot="Item1" id="Item.eastern_wicker_shield"/>
+				<equipment slot="Head" id="Item.fur_hat"/>
+				<equipment slot="Body" id="Item.tundra_tunic"/>
+				<equipment slot="Leg" id="Item.battania_woodland_boots"/>
+			</EquipmentRoster>
+						<EquipmentRoster>
+				<equipment slot="Item0" id="Item.western_spear_1_t2"/>
+				<equipment slot="Item1" id="Item.eastern_wicker_shield"/>
+				<equipment slot="Head" id="Item.roughhide_cap"/>
+				<equipment slot="Body" id="Item.tundra_tunic"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+			</EquipmentRoster>
+									<EquipmentRoster>
+				<equipment slot="Item0" id="Item.western_spear_1_t2"/>
+				<equipment slot="Item1" id="Item.eastern_wicker_shield"/>
+				<equipment slot="Head" id="Item.nasalhelm_over_leather"/>
+				<equipment slot="Body" id="Item.nordic_tunic"/>
+				<equipment slot="Leg" id="Item.battania_woodland_boots"/>
+			</EquipmentRoster>
+	</Equipments>		
+  </NPCCharacter>
+  
+ <NPCCharacter id="rus_polk_spearman"
+                default_group="Infantry"
+                level="11"
+                name="{=rus_polk}Rus Zadruzni Spearman"
+                occupation="Soldier"
+                culture="Culture.goldenhorde">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+    <skills>
+    <skill id="Athletics"
+           value="40" />
+    <skill id="Riding"
+           value="5" />
+    <skill id="OneHanded"
+           value="40" />
+    <skill id="TwoHanded"
+           value="40" />
+    <skill id="Polearm"
+           value="40" />
+    <skill id="Bow"
+           value="15" />
+    <skill id="Crossbow"
+           value="15" />
+    <skill id="Throwing"
+           value="20" />
+    </skills>
+    <upgrade_targets>
+      <upgrade_target id="NPCCharacter.rus_polk_veteran_spearman" />
+      <upgrade_target id="NPCCharacter.rus_bagatur" />
+    </upgrade_targets>
+    <Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.western_spear_1_t2"/>
+				<equipment slot="Item1" id="Item.northern_round_shield"/>
+				<equipment slot="Item2" id="Item.aserai_axe_1_t2"/>
+				<equipment slot="Head" id="Item.nasalhelm_over_leather"/>
+				<equipment slot="Body" id="Item.nordic_tunic"/>
+				<equipment slot="Leg" id="Item.battania_woodland_boots"/>
+			</EquipmentRoster>
+						<EquipmentRoster>
+				<equipment slot="Item0" id="Item.western_spear_1_t2"/>
+				<equipment slot="Item1" id="Item.northern_round_shield"/>
+				<equipment slot="Item2" id="Item.aserai_axe_1_t2"/>
+				<equipment slot="Head" id="Item.nasalhelm_over_leather"/>
+				<equipment slot="Body" id="Item.tundra_tunic"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+			</EquipmentRoster>
+						<EquipmentRoster>
+				<equipment slot="Item0" id="Item.western_spear_1_t2"/>
+				<equipment slot="Item1" id="Item.northern_round_shield"/>
+				<equipment slot="Item2" id="Item.aserai_axe_1_t2"/>
+				<equipment slot="Head" id="Item.nasalhelm_over_leather"/>
+				<equipment slot="Body" id="Item.nordic_sloven"/>
+				<equipment slot="Leg" id="Item.battania_woodland_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.western_spear_1_t2"/>
+				<equipment slot="Item1" id="Item.northern_round_shield"/>
+				<equipment slot="Item2" id="Item.aserai_axe_1_t2"/>
+				<equipment slot="Head" id="Item.nasalhelm_over_leather"/>
+				<equipment slot="Body" id="Item.nordic_sloven"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+			</EquipmentRoster>
+						<EquipmentRoster>
+				<equipment slot="Item0" id="Item.western_spear_1_t2"/>
+				<equipment slot="Item1" id="Item.northern_round_shield"/>
+				<equipment slot="Item2" id="Item.aserai_axe_1_t2"/>
+				<equipment slot="Head" id="Item.nasalhelm_over_leather"/>
+				<equipment slot="Body" id="Item.studded_leather_over_aketon"/>
+				<equipment slot="Leg" id="Item.battania_woodland_boots"/>
+			</EquipmentRoster>
+	</Equipments>		
+  </NPCCharacter>
+  
+  <NPCCharacter id="rus_polk_veteran_spearman"
+                default_group="Infantry"
+                level="16"
+                name="{=rus_polk}Rus Zadruzni Veteran Spearman"
+                occupation="Soldier"
+                culture="Culture.goldenhorde">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+    <skills>
+    <skill id="Athletics"
+           value="70" />
+    <skill id="Riding"
+           value="10" />
+    <skill id="OneHanded"
+           value="100" />
+    <skill id="TwoHanded"
+           value="40" />
+    <skill id="Polearm"
+           value="40" />
+    <skill id="Bow"
+           value="30" />
+    <skill id="Crossbow"
+           value="30" />
+    <skill id="Throwing"
+           value="70" />
+    </skills>
+    <upgrade_targets>
+      <upgrade_target id="NPCCharacter.rus_smerdy_axeman" />
+    </upgrade_targets>
+    <Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.western_spear_1_t2"/>
+				<equipment slot="Item1" id="Item.stronger_eastern_wicker_shield"/>
+				<equipment slot="Item2" id="Item.khuzait_sword_2_t3"/>
+				<equipment slot="Head" id="Item.nasalhelm_over_leather"/>
+				<equipment slot="Body" id="Item.studded_leather_over_aketon"/>
+				<equipment slot="Leg" id="Item.bootssta_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.western_spear_1_t2"/>
+				<equipment slot="Item1" id="Item.stronger_eastern_wicker_shield"/>
+				<equipment slot="Item2" id="Item.khuzait_sword_2_t3"/>
+				<equipment slot="Head" id="Item.goggled_helmet_over_mail"/>
+				<equipment slot="Body" id="Item.northern_coat_of_plates"/>
+				<equipment slot="Leg" id="Item.bootssta_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.western_spear_1_t2"/>
+				<equipment slot="Item1" id="Item.stronger_eastern_wicker_shield"/>
+				<equipment slot="Item2" id="Item.khuzait_sword_2_t3"/>
+				<equipment slot="Item3" id="Item.aserai_axe_1_t2"/>
+				<equipment slot="Head" id="Item.nasalhelm_over_leather"/>
+				<equipment slot="Body" id="Item.studded_leather_over_aketon"/>
+				<equipment slot="Leg" id="Item.bootssta_1"/>
+			</EquipmentRoster>
+
+
+	</Equipments>		
+  </NPCCharacter>
+  
+   <NPCCharacter id="rus_smerdy_axeman"
+                default_group="Infantry"
+                level="21"
+                name="{=rus_polk}Rus Zadruzni Veteran Axeman"
+                occupation="Soldier"
+                culture="Culture.goldenhorde">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+    <skills>
+    <skill id="Athletics"
+           value="100" />
+    <skill id="Riding"
+           value="15" />
+    <skill id="OneHanded"
+           value="100" />
+    <skill id="TwoHanded"
+           value="100" />
+    <skill id="Polearm"
+           value="100" />
+    <skill id="Bow"
+           value="45" />
+    <skill id="Crossbow"
+           value="45" />
+    <skill id="Throwing"
+           value="60" />
+    </skills>
+    <upgrade_targets>
+    </upgrade_targets>
+    <Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.northern_axe_t3"/>
+				<equipment slot="Item1" id="Item.stronger_eastern_wicker_shield"/>
+				<equipment slot="Item2" id="Item.khuzait_sword_2_t3"/>
+				<equipment slot="Head" id="Item.spiked_helmet"/>
+				<equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.northern_coat_of_plates"/>
+				<equipment slot="Leg" id="Item.bootssta_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.western_spear_1_t2"/>
+				<equipment slot="Item1" id="Item.stronger_eastern_wicker_shield"/>
+				<equipment slot="Item2" id="Item.khuzait_sword_2_t3"/>
+				<equipment slot="Head" id="Item.spiked_helmet"/>
+				<equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.northern_coat_of_plates"/>
+				<equipment slot="Leg" id="Item.bootssta_1"/>
+			</EquipmentRoster>
+						<EquipmentRoster>
+				<equipment slot="Item0" id="Item.northern_axe_t3"/>
+				<equipment slot="Item1" id="Item.stronger_eastern_wicker_shield"/>
+				<equipment slot="Item2" id="Item.khuzait_sword_2_t3"/>
+				<equipment slot="Head" id="Item.spiked_helmet"/>
+				<equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.northern_brass_lamellar_over_mail"/>
+				<equipment slot="Leg" id="Item.bootssta_1"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.northern_axe_t3"/>
+				<equipment slot="Item1" id="Item.stronger_eastern_wicker_shield"/>
+				<equipment slot="Item2" id="Item.khuzait_sword_2_t3"/>
+				<equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Head" id="Item.spiked_helmet"/>
+				<equipment slot="Body" id="Item.northern_brass_lamellar_over_mail"/>
+				<equipment slot="Leg" id="Item.bootssta_1"/>
+			</EquipmentRoster>
+	</Equipments>		
+  </NPCCharacter>
+  
+  <NPCCharacter id="rus_polk_archer"
+                default_group="Ranged"
+                level="11"
+                name="{=rus_polk}Rus Polk Archer"
+                occupation="Soldier"
+                culture="Culture.goldenhorde">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+    <skills>
+    <skill id="Athletics"
+           value="40" />
+    <skill id="Riding"
+           value="5" />
+    <skill id="OneHanded"
+           value="40" />
+    <skill id="TwoHanded"
+           value="15" />
+    <skill id="Polearm"
+           value="20" />
+    <skill id="Bow"
+           value="40" />
+    <skill id="Crossbow"
+           value="40" />
+    <skill id="Throwing"
+           value="40" />
+    </skills>
+    <upgrade_targets>
+	      <upgrade_target id="NPCCharacter.rus_polk_veteran_archer" />
+    </upgrade_targets>
+    <Equipments>
+      			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.steppe_war_bow"/>
+				<equipment slot="Item1" id="Item.steppe_arrows"/>
+				<equipment slot="Item2" id="Item.battania_axe_1_t2"/>
+				<equipment slot="Head" id="Item.nasalhelm_over_leather"/>
+				<equipment slot="Body" id="Item.nordic_tunic"/>
+				<equipment slot="Leg" id="Item.leather_boots"/>
+
+			</EquipmentRoster>
+			<EquipmentRoster>	
+				<equipment slot="Item0" id="Item.steppe_war_bow"/>
+				<equipment slot="Item1" id="Item.steppe_arrows"/>
+				<equipment slot="Item2" id="Item.battania_axe_1_t2"/>
+				<equipment slot="Head" id="Item.peaked_fur_hood"/>
+				<equipment slot="Body" id="Item.tundra_tunic"/>
+				<equipment slot="Leg" id="Item.leather_boots"/>
+
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.steppe_war_bow"/>
+				<equipment slot="Item1" id="Item.steppe_arrows"/>
+				<equipment slot="Item2" id="Item.battania_axe_1_t2"/>
+				<equipment slot="Head" id="Item.nasalhelm_over_leather"/>
+				<equipment slot="Body" id="Item.nordic_sloven"/>
+				<equipment slot="Leg" id="Item.leather_boots"/>
+
+			</EquipmentRoster>
+	</Equipments>		
+  </NPCCharacter>
+  
+  <NPCCharacter id="rus_polk_veteran_archer"
+                default_group="Ranged"
+                level="16"
+                name="{=rus_polk}Rus Polk Veteran Archer"
+                occupation="Soldier"
+                culture="Culture.goldenhorde">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+    <skills>
+    <skill id="Athletics"
+              value="70" />
+    <skill id="Riding"
+           value="10" />
+    <skill id="OneHanded"
+           value="70" />
+    <skill id="TwoHanded"
+           value="40" />
+    <skill id="Polearm"
+           value="30" />
+    <skill id="Bow"
+           value="100" />
+    <skill id="Crossbow"
+           value="100" />
+    <skill id="Throwing"
+           value="100" />
+    </skills>
+    <upgrade_targets>
+	      <upgrade_target id="NPCCharacter.rus_smerdy_archer" />
+    </upgrade_targets>
+    <Equipments>
+      			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.steppe_war_bow"/>
+				<equipment slot="Item1" id="Item.steppe_arrows"/>
+				<equipment slot="Item2" id="Item.khuzait_sword_2_t3"/>
+				<equipment slot="Head" id="Item.nasalhelm_over_leather"/>
+				<equipment slot="Body" id="Item.studded_leather_over_aketon"/>
+				<equipment slot="Leg" id="Item.leather_boots"/>
+
+			</EquipmentRoster>
+			<EquipmentRoster>	
+				<equipment slot="Item0" id="Item.steppe_war_bow"/>
+				<equipment slot="Item1" id="Item.steppe_arrows"/>
+				<equipment slot="Item2" id="Item.khuzait_sword_2_t3"/>
+				<equipment slot="Head" id="Item.nasalhelm_over_leather"/>
+				<equipment slot="Body" id="Item.studded_leather_over_aketon"/>
+				<equipment slot="Leg" id="Item.leather_boots"/>
+
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.steppe_war_bow"/>
+				<equipment slot="Item1" id="Item.steppe_arrows"/>
+				<equipment slot="Item2" id="Item.khuzait_sword_2_t3"/>
+				<equipment slot="Head" id="Item.nasalhelm_over_leather"/>
+				<equipment slot="Body" id="Item.nordic_sloven"/>
+				<equipment slot="Leg" id="Item.leather_boots"/>
+
+			</EquipmentRoster>
+	</Equipments>		
+  </NPCCharacter>
+  
+  <NPCCharacter id="rus_smerdy_archer"
+                default_group="Ranged"
+                level="21"
+                name="{=rus_polk}Rus Smerdy Archer"
+                occupation="Soldier"
+                culture="Culture.goldenhorde">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+    <skills>
+    <skill id="Athletics"
+             value="100" />
+    <skill id="Riding"
+           value="15" />
+    <skill id="OneHanded"
+           value="100" />
+    <skill id="TwoHanded"
+           value="60" />
+    <skill id="Polearm"
+           value="60" />
+    <skill id="Bow"
+           value="100" />
+    <skill id="Crossbow"
+           value="100" />
+    <skill id="Throwing"
+           value="100" />
+    </skills>
+    <upgrade_targets>
+    </upgrade_targets>
+    <Equipments>
+     			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.nordic_shortbow"/>
+				<equipment slot="Item1" id="Item.vlandic_arrows"/>
+				<equipment slot="Item2" id="Item.western_spear_1_t2"/>
+				<equipment slot="Item3" id="Item.northern_round_shield"/>
+				<equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.nordic_sloven"/>
+				<equipment slot="Leg" id="Item.leather_boots"/>
+				<equipment slot="Head" id="Item.spiked_helmet"/>
+			</EquipmentRoster>
+			  <EquipmentRoster>
+				<equipment slot="Item0" id="Item.nordic_shortbow"/>
+				<equipment slot="Item1" id="Item.vlandic_arrows"/>
+				<equipment slot="Item2" id="Item.western_spear_1_t2"/>
+				<equipment slot="Item3" id="Item.northern_round_shield"/>
+				<equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.northern_coat_of_plates"/>
+				<equipment slot="Leg" id="Item.leather_boots"/>
+				<equipment slot="Head" id="Item.spiked_helmet"/>
+				<equipment slot="Cape" id="Item.empire_cape_a"/>
+			</EquipmentRoster>
+			
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.steppe_war_bow"/>
+				<equipment slot="Item1" id="Item.steppe_arrows"/>
+				<equipment slot="Item2" id="Item.khuzait_sword_2_t3"/>
+				<equipment slot="Item3" id="Item.northern_round_shield"/>
+				<equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Head" id="Item.spiked_helmet"/>
+				<equipment slot="Body" id="Item.studded_leather_over_aketon"/>
+				<equipment slot="Leg" id="Item.leather_boots"/>
+
+			</EquipmentRoster>
+			<EquipmentRoster>	
+				<equipment slot="Item0" id="Item.steppe_war_bow"/>
+				<equipment slot="Item1" id="Item.steppe_arrows"/>
+				<equipment slot="Item2" id="Item.khuzait_sword_2_t3"/>
+				<equipment slot="Item3" id="Item.northern_round_shield"/>
+				<equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Head" id="Item.spiked_helmet"/>
+				<equipment slot="Body" id="Item.studded_leather_over_aketon"/>
+				<equipment slot="Leg" id="Item.leather_boots"/>
+			</EquipmentRoster>
+			   <EquipmentRoster>
+				<equipment slot="Item0" id="Item.nordic_shortbow"/>
+				<equipment slot="Item1" id="Item.vlandic_arrows"/>
+				<equipment slot="Item2" id="Item.western_spear_1_t2"/>
+				<equipment slot="Item3" id="Item.northern_round_shield"/>
+				<equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.northern_coat_of_plates"/>
+				<equipment slot="Leg" id="Item.leather_boots"/>
+				<equipment slot="Head" id="Item.spiked_helmet"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.steppe_war_bow"/>
+				<equipment slot="Item1" id="Item.steppe_arrows"/>
+				<equipment slot="Item2" id="Item.khuzait_sword_2_t3"/>
+				<equipment slot="Item3" id="Item.northern_round_shield"/>
+				<equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Head" id="Item.spiked_helmet"/>
+				<equipment slot="Body" id="Item.nordic_sloven"/>
+				<equipment slot="Leg" id="Item.leather_boots"/>
+
+			</EquipmentRoster>
+	</Equipments>		
+  </NPCCharacter>
+  
+  <NPCCharacter id="rus_bagatur"
+                default_group="HorseArcher"
+                level="16"
+                name="{=rus_polk}Rus Cuman Allied Horseman"
+				upgrade_requires="ItemCategory.horse"
+                occupation="Soldier"
+                culture="Culture.goldenhorde">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+    <skills>
+    <skill id="Athletics"
+             value="60" />
+    <skill id="Riding"
+           value="70" />
+    <skill id="OneHanded"
+           value="70" />
+    <skill id="TwoHanded"
+           value="100" />
+    <skill id="Polearm"
+           value="100" />
+    <skill id="Bow"
+           value="30" />
+    <skill id="Crossbow"
+           value="10" />
+    <skill id="Throwing"
+           value="10" />
+    </skills>
+    <upgrade_targets>
+		      <upgrade_target id="NPCCharacter.rus_gridba" />
+    </upgrade_targets>
+    <Equipments>
+      			<EquipmentRoster>
+				
+				<equipment slot="Item0" id="Item.steppe_war_bow"/>
+				<equipment slot="Item1" id="Item.steppe_arrows"/>
+				<equipment slot="Item2" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item3" id="Item.eastern_javelin_2_t3"/>
+				<equipment slot="Head" id="Item.eastern_cap"/>
+				<equipment slot="Body" id="Item.khuzait_civil_coat_b"/>
+				<equipment slot="Leg" id="Item.leather_boots"/>
+				<equipment slot="Horse" id="Item.t2_khuzait_horse"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>	
+				<equipment slot="Item0" id="Item.steppe_war_bow"/>
+				<equipment slot="Item1" id="Item.steppe_arrows"/>
+				<equipment slot="Item2" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item3" id="Item.eastern_javelin_2_t3"/>
+				<equipment slot="Head" id="Item.eastern_cap"/>
+				<equipment slot="Body" id="Item.decorated_short_tunic"/>
+				<equipment slot="Leg" id="Item.leather_boots"/>
+				<equipment slot="Horse" id="Item.t2_khuzait_horse"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.steppe_war_bow"/>
+				<equipment slot="Item1" id="Item.steppe_arrows"/>
+				<equipment slot="Item2" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item3" id="Item.eastern_javelin_2_t3"/>
+				<equipment slot="Head" id="Item.upturned_fur_cap"/>
+				<equipment slot="Body" id="Item.steppe_armor"/>
+				<equipment slot="Leg" id="Item.leather_boots"/>
+				<equipment slot="Horse" id="Item.t2_khuzait_horse"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+	</Equipments>		
+  </NPCCharacter>
+  
+  <NPCCharacter id="rus_gridba"
+                default_group="HorseArcher"
+                level="21"
+                name="{=rus_polk}Rus Veteran Cuman Allied Horseman"
+                occupation="Soldier"
+                culture="Culture.goldenhorde">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+    <skills>
+    <skill id="Athletics"
+              value="40" />
+    <skill id="Riding"
+           value="110" />
+    <skill id="OneHanded"
+           value="110" />
+    <skill id="TwoHanded"
+           value="160" />
+    <skill id="Polearm"
+           value="150" />
+    <skill id="Bow"
+           value="40" />
+    <skill id="Crossbow"
+           value="15" />
+    <skill id="Throwing"
+           value="15" />
+    </skills>
+    <upgrade_targets>
+    </upgrade_targets>
+    <Equipments>
+     			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.steppe_war_bow"/>
+				<equipment slot="Item1" id="Item.steppe_arrows"/>
+				<equipment slot="Item2" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item3" id="Item.eastern_javelin_2_t3"/>
+				<equipment slot="Head" id="Item.upturned_fur_cap"/>
+				<equipment slot="Body" id="Item.eastern_plated_leather"/>
+				<equipment slot="Leg" id="Item.leather_boots"/>
+				<equipment slot="Horse" id="Item.t2_khuzait_horse"/>
+				<equipment slot="HorseHarness" id="Item.steppe_half_barding"/>
+			</EquipmentRoster>
+			<EquipmentRoster>	
+				<equipment slot="Item0" id="Item.steppe_war_bow"/>
+				<equipment slot="Item1" id="Item.steppe_arrows"/>
+				<equipment slot="Item2" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item3" id="Item.eastern_javelin_2_t3"/>
+				<equipment slot="Head" id="Item.upturned_fur_cap"/>
+				<equipment slot="Body" id="Item.khuzait_sturdy_armor"/>
+				<equipment slot="Leg" id="Item.leather_boots"/>
+				<equipment slot="Horse" id="Item.t2_khuzait_horse"/>
+				<equipment slot="HorseHarness" id="Item.steppe_half_barding"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.steppe_war_bow"/>
+				<equipment slot="Item1" id="Item.steppe_arrows"/>
+				<equipment slot="Item2" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item3" id="Item.eastern_javelin_2_t3"/>
+				<equipment slot="Head" id="Item.upturned_fur_cap"/>
+				<equipment slot="Body" id="Item.eastern_plated_leather"/>
+				<equipment slot="Leg" id="Item.leather_boots"/>
+				<equipment slot="Horse" id="Item.t2_khuzait_horse"/>
+				<equipment slot="HorseHarness" id="Item.steppe_half_barding"/>
+			</EquipmentRoster>
+	</Equipments>		
+  </NPCCharacter>
+  
+  <NPCCharacter id="rus_tysiatsky"
+                default_group="Cavalry"
+                level="21"
+                name="{=rus_polk}Rus Malania Druzhina"
+				is_basic_troop="true"
+                occupation="Soldier"
+                culture="Culture.goldenhorde">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+    <skills>
+    <skill id="Athletics"
+              value="40" />
+    <skill id="Riding"
+           value="110" />
+    <skill id="OneHanded"
+           value="110" />
+    <skill id="TwoHanded"
+           value="160" />
+    <skill id="Polearm"
+           value="150" />
+    <skill id="Bow"
+           value="40" />
+    <skill id="Crossbow"
+           value="15" />
+    <skill id="Throwing"
+           value="15" />
+    </skills>
+    <upgrade_targets>
+		      <upgrade_target id="NPCCharacter.rus_druzhina" />
+    </upgrade_targets>
+    <Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item1" id="Item.northern_round_shield"/>
+				<equipment slot="Item2" id="Item.khuzait_sword_3_t3"/>
+				<equipment slot="Head" id="Item.spiked_helmet"/>
+				<equipment slot="Cape" id="Item.rough_bearskin"/>
+				<equipment slot="Body" id="Item.vlandia_chainmail"/>
+				<equipment slot="Leg" id="Item.khuzait_curved_boots"/>
+				<equipment slot="Horse" id="Item.sturgia_horse"/>
+				<equipment slot="HorseHarness" id="Item.steppe_half_barding"/>
+			</EquipmentRoster>
+						<EquipmentRoster>
+				<equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item1" id="Item.northern_round_shield"/>
+				<equipment slot="Item2" id="Item.khuzait_sword_3_t3"/>
+				<equipment slot="Head" id="Item.spiked_helmet"/>
+				<equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.vlandia_chainmail"/>
+				<equipment slot="Leg" id="Item.khuzait_curved_boots"/>
+				<equipment slot="Horse" id="Item.sturgia_horse"/>
+				<equipment slot="HorseHarness" id="Item.steppe_half_barding"/>
+			</EquipmentRoster>
+						<EquipmentRoster>
+				<equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item1" id="Item.northern_round_shield"/>
+				<equipment slot="Item2" id="Item.khuzait_sword_3_t3"/>
+				<equipment slot="Head" id="Item.spiked_helmet"/>
+				<equipment slot="Cape" id="Item.wolf_shoulder"/>
+				<equipment slot="Body" id="Item.northern_coat_of_plates"/>
+				<equipment slot="Leg" id="Item.khuzait_curved_boots"/>
+				<equipment slot="Horse" id="Item.sturgia_horse"/>
+				<equipment slot="HorseHarness" id="Item.steppe_half_barding"/>
+			</EquipmentRoster>
+	</Equipments>		
+  </NPCCharacter>
+  
+   <NPCCharacter id="rus_druzhina"
+                default_group="Cavalry"
+                level="26"
+                name="{=rus_polk}Rus Otroki Druzhina"
+				upgrade_requires="ItemCategory.war_horse"
+                occupation="Soldier"
+                culture="Culture.goldenhorde">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+    <skills>
+    <skill id="Athletics"
+           value="80" />
+    <skill id="Riding"
+           value="130" />
+    <skill id="OneHanded"
+           value="130" />
+    <skill id="TwoHanded"
+           value="160" />
+    <skill id="Polearm"
+           value="160" />
+    <skill id="Bow"
+           value="60" />
+    <skill id="Crossbow"
+           value="20" />
+    <skill id="Throwing"
+           value="60" />
+    </skills>
+    <upgrade_targets>
+		      <upgrade_target id="NPCCharacter.rus_boyar" />
+    </upgrade_targets>
+    <Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item1" id="Item.northern_round_shield"/>
+				<equipment slot="Item2" id="Item.vlandia_sword_3_t4"/>
+				<equipment slot="Head" id="Item.sturgian_lord_helmet_a"/>
+				<equipment slot="Cape" id="Item.rough_bearskin"/>
+				<equipment slot="Body" id="Item.northern_coat_of_plates"/>
+				<equipment slot="Leg" id="Item.khuzait_curved_boots"/>
+
+			</EquipmentRoster>
+						<EquipmentRoster>
+				<equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item1" id="Item.northern_round_shield"/>
+				<equipment slot="Item2" id="Item.vlandia_sword_3_t4"/>
+				<equipment slot="Head" id="Item.goggled_helmet_over_full_mail"/>
+				<equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.northern_brass_lamellar_over_mail"/>
+				<equipment slot="Leg" id="Item.khuzait_curved_boots"/>
+
+			</EquipmentRoster>
+						<EquipmentRoster>
+				<equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item1" id="Item.northern_round_shield"/>
+				<equipment slot="Item2" id="Item.vlandia_sword_3_t4"/>
+				<equipment slot="Head" id="Item.closed_goggled_helmet"/>
+				<equipment slot="Cape" id="Item.wolf_shoulder"/>
+				<equipment slot="Body" id="Item.battania_warlord_armor"/>
+				<equipment slot="Leg" id="Item.khuzait_curved_boots"/>
+
+			</EquipmentRoster>
+									<EquipmentRoster>
+				<equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item1" id="Item.northern_round_shield"/>
+				<equipment slot="Item2" id="Item.vlandia_sword_3_t4"/>
+				<equipment slot="Head" id="Item.decorated_goggled_helmet"/>
+				<equipment slot="Cape" id="Item.wolf_shoulder"/>
+				<equipment slot="Body" id="Item.brass_lamellar_over_mail"/>
+				<equipment slot="Leg" id="Item.khuzait_curved_boots"/>
+
+			</EquipmentRoster>
+												<EquipmentRoster>
+				<equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item1" id="Item.northern_round_shield"/>
+				<equipment slot="Item2" id="Item.vlandia_sword_3_t4"/>
+				<equipment slot="Head" id="Item.nordic_helmet"/>
+				<equipment slot="Cape" id="Item.wolf_shoulder"/>
+				<equipment slot="Body" id="Item.battania_warlord_armor"/>
+				<equipment slot="Leg" id="Item.khuzait_curved_boots"/>
+
+			</EquipmentRoster>
+	</Equipments>		
+  </NPCCharacter>
+  
+   <NPCCharacter id="rus_boyar"
+                default_group="Cavalry"
+                level="31"
+                name="{=rus_polk}Rus Boyar"
+                occupation="Soldier"
+                culture="Culture.goldenhorde">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+    <skills>
+    <skill id="Athletics"
+           value="60" />
+    <skill id="Riding"
+           value="200" />
+    <skill id="OneHanded"
+           value="200" />
+    <skill id="TwoHanded"
+           value="260" />
+    <skill id="Polearm"
+           value="260" />
+    <skill id="Bow"
+           value="60" />
+    <skill id="Crossbow"
+           value="25" />
+    <skill id="Throwing"
+           value="45" />
+    </skills>
+    <upgrade_targets>
+    </upgrade_targets>
+    <Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item1" id="Item.northern_round_shield"/>
+				<equipment slot="Item2" id="Item.vlandia_sword_3_t4"/>
+				<equipment slot="Head" id="Item.sturgian_lord_helmet_a"/>
+				<equipment slot="Cape" id="Item.rough_bearskin"/>
+				<equipment slot="Body" id="Item.northern_coat_of_plates"/>
+				<equipment slot="Leg" id="Item.khuzait_curved_boots"/>
+				<equipment slot="Horse" id="Item.sturgia_horse"/>
+				<equipment slot="HorseHarness" id="Item.steppe_half_barding"/>
+			</EquipmentRoster>
+						<EquipmentRoster>
+				<equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item1" id="Item.northern_round_shield"/>
+				<equipment slot="Item2" id="Item.vlandia_sword_3_t4"/>
+				<equipment slot="Head" id="Item.goggled_helmet_over_full_mail"/>
+				<equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.northern_brass_lamellar_over_mail"/>
+				<equipment slot="Leg" id="Item.khuzait_curved_boots"/>
+				<equipment slot="Horse" id="Item.sturgia_horse"/>
+				<equipment slot="HorseHarness" id="Item.steppe_half_barding"/>
+			</EquipmentRoster>
+						<EquipmentRoster>
+				<equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item1" id="Item.northern_round_shield"/>
+				<equipment slot="Item2" id="Item.vlandia_sword_3_t4"/>
+				<equipment slot="Head" id="Item.closed_goggled_helmet"/>
+				<equipment slot="Cape" id="Item.wolf_shoulder"/>
+				<equipment slot="Body" id="Item.battania_warlord_armor"/>
+				<equipment slot="Leg" id="Item.khuzait_curved_boots"/>
+				<equipment slot="Horse" id="Item.sturgia_horse"/>
+				<equipment slot="HorseHarness" id="Item.steppe_half_barding"/>
+			</EquipmentRoster>
+
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
+				<equipment slot="Item1" id="Item.northern_round_shield"/>
+				<equipment slot="Item2" id="Item.vlandia_sword_3_t4"/>
+				<equipment slot="Head" id="Item.nordic_helmet"/>
+				<equipment slot="Cape" id="Item.wolf_shoulder"/>
+				<equipment slot="Body" id="Item.battania_warlord_armor"/>
+				<equipment slot="Leg" id="Item.khuzait_curved_boots"/>
+				<equipment slot="Horse" id="Item.sturgia_horse"/>
+				<equipment slot="HorseHarness" id="Item.steppe_half_barding"/>
+			</EquipmentRoster>
+	</Equipments>		
+  </NPCCharacter>
+
+</NPCCharacters>

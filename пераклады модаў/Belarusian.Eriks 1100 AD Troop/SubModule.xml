@@ -2,20 +2,29 @@
 <Module>
 	<Name value = "Belarusian Eriks 1100 AD Troop"/>
 	<Id value = "Belarusian Eriks 1100 AD Troop"/>
-	<Version value = "v1.1.3"/>
+	<Version value = "v1.1.4"/>
 	<DefaultModule value="true"/>
 	<SingleplayerModule value="true"/>
 	<MultiplayerModule value="false"/>
 	<Author value="Denis Makouski (Reiko17)" />
   	<Official value="false" />
 	<DependedModules>
-		<DependedModule Id="Native" DependentVersion="v1.1.3"/>
-		<DependedModule Id="SandBoxCore" DependentVersion="v1.1.3"/>
-		<DependedModule Id="Sandbox" DependentVersion="v1.1.3"/>
-		<DependedModule Id="StoryMode" DependentVersion="v1.1.3"/>
-		<DependedModule Id="Belarusian Core" DependentVersion="v1.1.3"/>
+		<DependedModule Id="Native" DependentVersion="v1.1.4"/>
+		<DependedModule Id="SandBoxCore" DependentVersion="v1.1.4"/>
+		<DependedModule Id="Sandbox" DependentVersion="v1.1.4"/>
+		<DependedModule Id="StoryMode" DependentVersion="v1.1.4"/>
+		<DependedModule Id="Belarusian Core" DependentVersion="v1.1.4"/>
 	</DependedModules>
 	<SubModules/>
 	<Xmls> 
+
+		<XmlNode>                
+			<XmlName id="NPCCharacters" path="erik_troops"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+			</IncludedGameTypes>
+		</XmlNode>
+
 	</Xmls>
 </Module>
