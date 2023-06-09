@@ -1,355 +1,253 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
-<strings>
-<string id="CsjtWt1g" text="Гаспадар Карчмы " />
-<string id="twCIejxn" text="Майстар Гульняў " />
-<string id="zfCoeglY" text="Музыка " />
-<string id="z6RMWTaA" text="Пакаёўка Карчмы " />
-<string id="jx8ohENz" text="Броньнік " />
-<string id="79ElOr2x" text="Гандляр Коньмі " />
-<string id="thbcgVVO" text="Гандляр " />
-<string id="malebeggar" text="Жабрак " />
-<string id="femalebeggar" text="Жабрачка " />
-<string id="X3KYysuv" text="Танцор " />
-<string id="IHKXNP9H" text="Загаднік Турніраў " />
-<string id="maleinfant" text="Немаўлё " />
-<string id="malechild" text="Дзіцё " />
-<string id="maleteenager" text="Падлетак " />
-<string id="femaleinfant" text="Немаўлё " />
-<string id="femalechild" text="Дзіцё " />
-<string id="femaleteenager" text="Падлетак " />
-<string id="E11BEt01" text="Берберская Вяскоўка " />
-<string id="E11BEt02" text="Берберскі Майстар Караванаў " />
-<string id="E11BEt03" text="Берберскі Узброены Гандляр " />
-<string id="E11BEt04" text="Берберскі Ахоўнік Караванаў " />
-<string id="E11BEt05" text="Берберскі Ахоўнік Караванаў Ветэран " />
-<string id="E11BEt06" text="Берберскі Лучнік Рушэньня " />
-<string id="E11BEt07" text="Берберскі Лучнік-Ветэран Рушэньня " />
-<string id="E11BEt08" text="Берберскі Капійнік Рушэньня " />
-<string id="E11BEt09" text="Берберскі Капійнік-Ветэран Рушэньня " />
-<string id="275LD0Gh" text="Працаўнік Майстэрні " />
-<string id="muu5cofb" text="Гараджанін " />
-<string id="AlmaRAib" text="Натарыус Заможнага Вяскоўца " />
-<string id="bLMGbLF8" text="Натарыус Прапаведніка " />
-<string id="ECxiXTbF" text="Натарыус Рамесьніка " />
-<string id="reoVAtrE" text="Натарыус Гандляра " />
-<string id="LNNXiPyV" text="Целаахоўнік Верхавода Банды " />
-<string id="W2WXkiAh" text="Пасярэднік-Выкупнік " />
-<string id="WH7EGGIg" text="Цырульнік " />
-<string id="UaN2lfwi" text="Збройнік " />
-<string id="bNnQt4jN" text="Каваль " />
-<string id="XgjXfmM1" text="Вартаўнік Вязьніцы " />
-<string id="E11BEt10" text="Берберскі Фушунд " />
-<string id="E11BEt11" text="Берберскі Хушунд-Капійнік " />
-<string id="E11BEt12" text="Хрысціянскі Фарфан Хашам " />
-<string id="E11BEt13" text="Берберскі Туарэг Рамі " />
-<string id="E11BEt14" text="Берберскі Туарэг Рамі Ветэран " />
-<string id="E11BEt15" text="Берберскі Лёгкі Мутасабік " />
-<string id="E11BEt16" text="Берберскі Джунд Аль-Эмір " />
-<string id="E11BEt17" text="Берберскі Джунд Аль-Імам " />
-<string id="E11BYt01" text="Бізантыйская Вяскоўка " />
-<string id="E11BYt02" text="Бізантыйскі Майстар Караванаў " />
-<string id="E11BYt03" text="Бізантыйскі Узброены Гандляр " />
-<string id="E11BYt04" text="Бізантыйскі Ахоўнік Караванаў " />
-<string id="E11BYt05" text="Бізантыйскі Ахоўнік Караванаў Ветэран " />
-<string id="E11BYt06" text="Бізантыйскі Лучнік Рушэньня " />
-<string id="E11BYt07" text="Бізантыйскі Сьледапыт-Ветэран Рушэньня " />
-<string id="E11BYt08" text="Бізантыйскі Капійнік Рушэньня " />
-<string id="E11BYt09" text="Бізантыйскі Капійнік-Ветэран Рушэньня " />
-<string id="E11BYt10" text="Бізантыйскі Супляменьнік " />
-<string id="E11BYt11" text="Бізантыйскі Аўксіліры Заклічнік " />
-<string id="E11BYt12" text="Бізантыйскі Аўксіліры Сербскі Пяхотнік " />
-<string id="E11BYt13" text="Бізантыйскі Скутатас " />
-<string id="E11BYt14" text="Бізантыйскі Аўксіліры Турэцкі Лучнік " />
-<string id="E11BYt15" text="Бізантыйскі Аўксіліры Палавецкі Лучнік " />
-<string id="E11BYt16" text="Бізантыйскі Аўксіліры Палавецкі Коньнік " />
-<string id="E11BYt17" text="Бізантыйскі Рэфармаваны Катафракты " />
-<string id="E11BYt18" text="Англа-Вараскі Гвардзеец " />
-<string id="E11CRt01" text="Пілігрым " />
-<string id="E11CRt02" text="Францкі Сяржант " />
-<string id="E11CRt03" text="Францкі Пешы Рыцар-Крыжак " />
-<string id="E11CRt04" text="Францкі Рыцар-Крыжак " />
-<string id="kPCcelVX" text="Гандляр " />
-<string id="E11CUt01" text="Усходняя Вяскоўка " />
-<string id="E11CUt02" text="Усходні Майстар Караванаў " />
-<string id="E11CUt03" text="Усходні Узброены Гандляр " />
-<string id="E11CUt04" text="Усходні Ахоўнік Караванаў " />
-<string id="E11CUt05" text="Усходні Ахоўнік Караванаў Ветэран " />
-<string id="E11CUt06" text="Палавецкі Лучнік Рушэньня " />
-<string id="E11CUt07" text="Палавецкі Лучнік-Ветэран Рушэньня " />
-<string id="E11CUt08" text="Палавецкі Капійнік Рушэньня " />
-<string id="E11CUt09" text="Палавецкі Капійнік-Ветэран Рушэньня " />
-<string id="E11CUt10" text="Палавецкі Заклічнік " />
-<string id="E11CUt11" text="Палавецкі Капійнік " />
-<string id="E11CUt12" text="Палавецкі Капійнік-Ветэран " />
-<string id="E11CUt13" text="Палавецкі Конны Лучнік " />
-<string id="E11CUt14" text="Палавецкі Цяжкі Конны Лучнік " />
-<string id="E11CUt15" text="Палавецкі Лёгкі Вершнік " />
-<string id="E11CUt16" text="Палавецкі Цяжкі Вершнік " />
-<string id="E11CUt17" text="Палавецкі Вартаўнік Хана " />
-<string id="E11ENt01" text="Англійская Вяскоўка " />
-<string id="E11ENt02" text="Англійскі Майстар Караванаў " />
-<string id="E11ENt03" text="Англійскі Узброены Гандляр " />
-<string id="E11ENt04" text="Англійскі Ахоўнік Караванаў " />
-<string id="E11ENt05" text="Англійскі Ахоўнік Караванаў Ветэран " />
-<string id="E11ENt06" text="Англійскі Лучнік Рушэньня " />
-<string id="E11ENt07" text="Англійскі Лучнік-Ветэран Рушэньня " />
-<string id="E11ENt08" text="Англійскі Капійнік Рушэньня " />
-<string id="E11ENt09" text="Англійскі Капійнік-Ветэран Рушэньня " />
-<string id="E11ENt10" text="Англійскі Заклічнік " />
-<string id="E11ENt11" text="Англійскі Салдат " />
-<string id="E11ENt12" text="Англійскі Салдат-Ветэран " />
-<string id="E11ENt13" text="Англійскі Лучнік " />
-<string id="E11ENt14" text="Англійскі Лучнік-Ветэран " />
-<string id="E11ENt15" text="Англійскі Сяржант " />
-<string id="E11ENt16" text="Нарманскі Пешы Рыцар " />
-<string id="E11ENt17" text="Нарманскі Рыцар " />
-<string id="E11FAt01" text="Арабская Вяскоўка " />
-<string id="E11FAt02" text="Арабскі Майстар Караванаў " />
-<string id="E11FAt03" text="Арабскі Узброены Гандляр " />
-<string id="E11FAt04" text="Арабскі Ахоўнік Караванаў " />
-<string id="E11FAt05" text="Арабскі Ахоўнік Караванаў Ветэран " />
-<string id="E11FAt06" text="Арабскі Лучнік Рушэньня " />
-<string id="E11FAt07" text="Арабскі Лучнік-Ветэран Рушэньня " />
-<string id="E11FAt08" text="Арабскі Капійнік Рушэньня " />
-<string id="E11FAt09" text="Арабскі Капійнік-Ветэран Рушэньня " />
-<string id="E11FAt10" text="Фацімідзкі Фушунд " />
-<string id="E11FAt11" text="Фацімідзкі Хушунд-Капійнік " />
-<string id="E11FAt12" text="Фацімідзкі Хушунд Капійнік Ветэран " />
-<string id="E11FAt13" text="Фацімідзкі Рамі " />
-<string id="E11FAt14" text="Фацімідзкі Рамі-Ветэран " />
-<string id="E11FAt15" text="Ісламскі Лёгкі Мутасабік " />
-<string id="E11FAt16" text="Джунд Аль-Эмір " />
-<string id="E11FAt17" text="Джунд Аль-Халіфах " />
-<string id="E11FRt01" text="Францкая Вяскоўка " />
-<string id="E11FRt02" text="Францкі Майстар Караванаў " />
-<string id="E11FRt03" text="Францкі Узброены Гандляр " />
-<string id="E11FRt04" text="Францкі Ахоўнік Караванаў " />
-<string id="E11FRt05" text="Францкі Ахоўнік Караванаў Ветэран " />
-<string id="E11FRt06" text="Францкі Самастрэльнік Рушэньня " />
-<string id="E11FRt07" text="Францкі Самастрэльнік-Ветэран Рушэньня " />
-<string id="E11FRt08" text="Францкі Капійнік Рушэньня " />
-<string id="E11FRt09" text="Францкі Капійнік-Ветэран Рушэньня " />
-<string id="E11FRt10" text="Францкі Супляменьнік " />
-<string id="E11FRt11" text="Францкі Заклічнік " />
-<string id="E11FRt12" text="Францкі Салдат " />
-<string id="E11FRt13" text="Францкі Сяржант а Під " />
-<string id="E11FRt14" text="Францкі Арбалетрыер " />
-<string id="E11FRt15" text="Францкі Арбалетрыер-Ветэран " />
-<string id="E11FRt16" text="Францкі Сяржант " />
-<string id="E11FRt17" text="Францкі Шывальер а Під " />
-<string id="E11FRt18" text="Францкі Шывальер " />
-<string id="E11GEt01" text="Германская Вяскоўка " />
-<string id="E11GEt02" text="Германскі Майстар Караванаў " />
-<string id="E11GEt03" text="Германскі Узброены Гандляр " />
-<string id="E11GEt04" text="Германскі Ахоўнік Караванаў " />
-<string id="E11GEt05" text="Германскі Ахоўнік Караванаў Ветэран " />
-<string id="E11GEt06" text="Германскі Лучнік Рушэньня " />
-<string id="E11GEt07" text="Германскі Лучнік-Ветэран Рушэньня " />
-<string id="E11GEt08" text="Германскі Капійнік Рушэньня " />
-<string id="E11GEt09" text="Германскі Капійнік-Ветэран Рушэньня " />
-<string id="E11GEt10" text="Германскі Супляменьнік " />
-<string id="E11GEt11" text="Германскі Заклічнік " />
-<string id="E11GEt12" text="Германскі Салдат " />
-<string id="E11GEt13" text="Лакайн дэр Бішофліхен Гардэ " />
-<string id="E11GEt14" text="Германскі Армбрустшутзэ " />
-<string id="E11GEt15" text="Германскі Армбрустшутзэ-Ветэран " />
-<string id="E11GEt16" text="Кнехт дэр Бішофліхен Гардэ " />
-<string id="E11GEt17" text="Германскі Абгэштайгнэр Рыттар " />
-<string id="E11GEt18" text="Германскі Рыттар " />
-<string id="E11HUt01" text="Вугорская Вяскоўка " />
-<string id="E11HUt02" text="Вугорскі Майстар Караванаў " />
-<string id="E11HUt03" text="Вугорскі Узброены Гандляр " />
-<string id="E11HUt04" text="Вугорскі Ахоўнік Караванаў " />
-<string id="E11HUt05" text="Вугорскі Ахоўнік Караванаў Ветэран " />
-<string id="E11HUt06" text="Вугорскі Лучнік Рушэньня " />
-<string id="E11HUt07" text="Вугорскі Лучнік-Ветэран Рушэньня " />
-<string id="E11HUt08" text="Вугорскі Капійнік Рушэньня " />
-<string id="E11HUt09" text="Вугорскі Капійнік-Ветэран Рушэньня " />
-<string id="E11HUt10" text="Вугорскі Супляменьнік " />
-<string id="E11HUt11" text="Вугорскі Заклічнік " />
-<string id="E11HUt12" text="Вугорскі Капійнік " />
-<string id="E11HUt13" text="Вугорскі Капійнік-Ветэран " />
-<string id="E11HUt14" text="Мадзярскі Лучнік " />
-<string id="E11HUt15" text="Мадзярскі Лучнік-Ветэран " />
-<string id="E11HUt16" text="Мадзярскі Коньнік " />
-<string id="E11HUt17" text="Вугорскі Пешы Рыцар " />
-<string id="E11HUt18" text="Вугорскі Рыцар " />
-<string id="E11IRt01" text="Ірландзкая Вяскоўка " />
-<string id="E11IRt02" text="Ірландзкі Майстар Караванаў " />
-<string id="E11IRt03" text="Ірландзкі Узброены Гандляр " />
-<string id="E11IRt04" text="Ірландзкі Ахоўнік Караванаў " />
-<string id="E11IRt05" text="Ірландзкі Ахоўнік Караванаў Ветэран " />
-<string id="E11IRt06" text="Ірландзкі Лучнік Рушэньня " />
-<string id="E11IRt07" text="Ірландзкі Лучнік-Ветэран Рушэньня " />
-<string id="E11IRt08" text="Ірландзкі Капійнік Рушэньня " />
-<string id="E11IRt09" text="Ірландзкі Сякірнік-Ветэран Рушэньня " />
-<string id="E11IRt10" text="Ірландзкі Заклічнік " />
-<string id="E11IRt11" text="Ірландзкі Керн " />
-<string id="E11IRt12" text="Ірландзкі Керн-Ветэран " />
-<string id="E11IRt13" text="Дацкі Рэйдар " />
-<string id="E11IRt14" text="Дацкі Рэйдар-Ветэран " />
-<string id="E11IRt15" text="Ірландзкі Хобелар " />
-<string id="E11IRt16" text="Ірландзкі Пешы Рыцар " />
-<string id="E11IRt17" text="Ірландзкі Рыцар " />
-<string id="E11ITt01" text="Італьянская Вяскоўка " />
-<string id="E11ITt02" text="Італьянскі Майстар Караванаў " />
-<string id="E11ITt03" text="Італьянскі Узброены Гандляр " />
-<string id="E11ITt04" text="Італьянскі Ахоўнік Караванаў " />
-<string id="E11ITt05" text="Італьянскі Ахоўнік Караванаў " />
-<string id="E11ITt06" text="Італьянскі Лучнік Рушэньня " />
-<string id="E11ITt07" text="Італьянскі Лучнік-Ветэран Рушэньня " />
-<string id="E11ITt08" text="Італьянскі Капійнік Рушэньня " />
-<string id="E11ITt09" text="Італьянскі Капійнік-Ветэран Рушэньня " />
-<string id="E11ITt10" text="Італьянскі Супляменьнік " />
-<string id="E11ITt11" text="Італьянскі Заклічнік " />
-<string id="E11ITt12" text="Італьянскі Капійнік " />
-<string id="E11ITt13" text="Італьянскі Капійнік-Ветэран " />
-<string id="E11ITt14" text="Сіцыла-Сарацынскі Лучнік-Найміт " />
-<string id="E11ITt15" text="Італьянскі Самастрэльнік-Ветэран " />
-<string id="E11ITt16" text="Італьянскі Сяржант " />
-<string id="KnhpjA7Y" text="Армянскі Капійнік " />
-<string id="ghilmanUnit" text="Армянскі Капійнік-Ветэран " />
-<string id="7EUhAv8b" text="Армянскі Шляхетны Вершнік " />
-<string id="G9ByT85b" text="Брат Ордэна Сьвятога Міхаіла " />
-<string id="qMYpZKWo" text="Сяржант Сьвятога Міхаіла " />
-<string id="cOt1onbR" text="Рыцар Сьвятога Міхаіла " />
-<string id="uViDMxLC" text="Брудар вон дэр Гардэ дэс Эрзбішофс " />
-<string id="LXybWXde" text="Кнехт вон дэр Гардэ дэс Эрзбішофс " />
-<string id="YGexslSX" text="Рыттар вон дэр Гардэ дэс Эрзбішофс " />
-<string id="9Bw85Elg" text="Лазарыст Брат Ордэна " />
-<string id="9Ylw5Spz" text="Лазарыст Сяржант " />
-<string id="cSdSSXsO" text="Лазарыст Рыцар " />
-<string id="uca778lM" text="Рэйдар Клана Бедуінаў " />
-<string id="9zXXes9i" text="Найміт Клана Бедуінаў " />
-<string id="8Gh8q1PX" text="Ваяр Клана Бедуінаў " />
-<string id="mrBbsiPN" text="Ўэльскі Найманы Капійнік " />
-<string id="q7b4pQc9" text="Ўэльскі Найманы Доўгалучнік " />
-<string id="QvSmhaAV" text="Ўэльскі Шляхетны Злачынца " />
-<string id="ehACDRBk" text="Генуэскі Марак " />
-<string id="BblMuWZx" text="Генуэскі Арбалетнік " />
-<string id="PU2zIMu0" text="Генуэскі Арбалетнік-Чэмпіён " />
-<string id="6j9iJMRr" text="Вараг " />
-<string id="1gAasy1t" text="Вараскі Найміт " />
-<string id="BC5YGna3" text="Вараскі Гвардзеец " />
-<string id="DIt9SuMb" text="Шпітальер Брат Ордэна " />
-<string id="riT39wKu" text="Шпітальер-Сяржант " />
-<string id="u3K1SozQ" text="Шпітальер-Рыцар " />
-<string id="xJ4koSsx" text="Грузіна-Аланскі Наезьнік " />
-<string id="BlZK3wDN" text="Грузіна-Аланскі Наезьнік-Ветэран " />
-<string id="UsvCnAS7" text="Грузінскі Хаўрусны Монаспа " />
-<string id="vxlAJIiU" text="Данішмэндзкі Конны Лучнік " />
-<string id="Mcbjdntz" text="Данішмэндзкі Конны Лучнік Ветэран " />
-<string id="qAvxmnav" text="Данішмэндзкі Конны Лучнік Чэмпіён " />
-<string id="cDgsaaRB" text="Печанескі Конны Лучнік " />
-<string id="UvK3XaZ6" text="Печанескі Конны Лучнік Ветэран " />
-<string id="KbyRj9b3" text="Печанескі Вартаўнік Хана " />
-<string id="h7nGFImt" text="Ўэльскі Капійнік " />
-<string id="2HDPaohZ" text="Ўэльскі Доўгалучнік " />
-<string id="ueasbGtd" text="Ўэльскі Хаўрусны Ухельвар " />
-<string id="S6BosJUq" text="Брат Ордэна Сьвятога Якава " />
-<string id="qBVNIhme" text="Сяржант Сьвятога Якава " />
-<string id="cEKbOxRA" text="Рыцар Сьвятога Якава " />
-<string id="r8npO8hG" text="Руцьер Вайсковы Палонны " />
-<string id="ZK0GXYCx" text="Руцьер-Найміт " />
-<string id="ifL3F7E2" text="Руцьер Найміт Ветэран " />
-<string id="0gi5Fp8c" text="Найміт Шляхетны Злачынца " />
-<string id="NRvuCvMN" text="Іберыйскі Найміт Бідэт " />
-<string id="UBHngTIf" text="Іберыйскі Найміт Бідэт Ветэран " />
-<string id="uPypJHlm" text="Іберыйскі Элітны Найміт Бідэт " />
-<string id="xl6QstMW" text="Арагонскі Найміт Хінэтэ " />
-<string id="kyt087eN" text="Арагонскі Найміт Хінэтэ Ветэран " />
-<string id="J4k9mg65" text="Фрызійскі Найміт " />
-<string id="n89z19Dv" text="Фрызійскі Найміт-Ветэран " />
-<string id="7WV17e5Q" text="Фрызійскі Шляхетны Выгнаньнік " />
-<string id="QfVe3IVw" text="Найміт-Арбалетнік " />
-<string id="DxtSIxyZ" text="Найміт Арбалетнік Ветэран " />
-<string id="E11NOt01" text="Нардычная Вяскоўка " />
-<string id="E11NOt02" text="Нардычны Майстар Караванаў " />
-<string id="E11NOt03" text="Нардычны Узброены Гандляр " />
-<string id="E11NOt04" text="Нардычны Ахоўнік Караванаў " />
-<string id="E11NOt05" text="Нардычны Ахоўнік Караванаў Ветэран " />
-<string id="E11NOt06" text="Нардычны Лучнік Рушэньня " />
-<string id="E11NOt07" text="Нардычны Лучнік-Ветэран Рушэньня " />
-<string id="E11NOt08" text="Нардычны Капійнік Рушэньня " />
-<string id="E11NOt09" text="Нардычны Капійнік-Ветэран Рушэньня " />
-<string id="E11NOt10" text="Нардычны Бондзір " />
-<string id="E11NOt11" text="Нардычны Лэдунг " />
-<string id="E11NOt12" text="Нардычны Сёфарар " />
-<string id="E11NOt13" text="Нардычны Б'юскутэ " />
-<string id="E11NOt14" text="Нардычны Б'юскутэ-Ветэран " />
-<string id="E11NOt15" text="Нардычны Хірдман Ярла " />
-<string id="E11NOt16" text="Нардычны Ульфэднар " />
-<string id="E11NOt17" text="Нардычны Хускарл Гаспадара " />
-<string id="E11PEt01" text="Сельджуская Вяскоўка " />
-<string id="E11PEt02" text="Сельджускі Майстар Караванаў " />
-<string id="E11PEt03" text="Сельджускі Узброены Гандляр " />
-<string id="E11PEt04" text="Сельджускі Ахоўнік Караванаў " />
-<string id="E11PEt05" text="Сельджускі Ахоўнік Караванаў Ветэран " />
-<string id="E11PEt06" text="Сельджускі Лучнік Рушэньня " />
-<string id="E11PEt07" text="Сельджускі Лучнік-Ветэран Рушэньня " />
-<string id="E11PEt08" text="Сельджускі Капійнік Рушэньня " />
-<string id="E11PEt09" text="Сельджускі Капійнік-Ветэран Рушэньня " />
-<string id="E11PEt10" text="Сельджускі Заклічнік " />
-<string id="E11PEt11" text="Сельджускі Капійнік " />
-<string id="E11PEt12" text="Сельджускі Капійнік-Ветэран " />
-<string id="E11PEt13" text="Сельджускі Конны Лучнік " />
-<string id="E11PEt14" text="Сельджускі Конны Лучнік Ветэран " />
-<string id="E11PEt15" text="Сельджускі Лёгкі Вершнік " />
-<string id="E11PEt16" text="Сельджускі Вершнік-Ветэран " />
-<string id="E11PEt17" text="Сельджускі Вершнік-Чэмпіён " />
-<string id="E11POt01" text="Польская Вяскоўка " />
-<string id="E11POt02" text="Польскі Майстар Караванаў " />
-<string id="E11POt03" text="Польскі Узброены Гандляр " />
-<string id="E11POt04" text="Польскі Ахоўнік Караванаў " />
-<string id="E11POt05" text="Польскі Ахоўнік Караванаў Ветэран " />
-<string id="E11POt06" text="Польскі Лучнік Рушэньня " />
-<string id="E11POt07" text="Польскі Лучнік-Ветэран Рушэньня " />
-<string id="E11POt08" text="Польскі Капійнік Рушэньня " />
-<string id="E11POt09" text="Польскі Капійнік-Ветэран Рушэньня " />
-<string id="E11POt10" text="Польскі Супляменьнік " />
-<string id="E11POt11" text="Польскі Заклічнік " />
-<string id="E11POt12" text="Польскі Тарчоўнік " />
-<string id="E11POt13" text="Польскі Тарчоўнік-Ветэран " />
-<string id="E11POt14" text="Польскі Стралец " />
-<string id="E11POt15" text="Польскі Стралец-Ветэран " />
-<string id="E11POt16" text="Польскі Лёгкі Вершнік " />
-<string id="E11POt17" text="Польскі Пешы Малодшы Шляхціч " />
-<string id="E11POt18" text="Польскі Шляхціч " />
-<string id="E11SCt01" text="Шатландзкая Вяскоўка " />
-<string id="E11SCt02" text="Шатландзкі Майстар Караванаў " />
-<string id="E11SCt03" text="Шатландзкі Узброены Гандляр " />
-<string id="E11SCt04" text="Шатландзкі Ахоўнік Караванаў " />
-<string id="E11SCt05" text="Шатландзкі Ахоўнік Караванаў Ветэран " />
-<string id="E11SCt06" text="Шатландзкі Лучнік Рушэньня " />
-<string id="E11SCt07" text="Шатландзкі Лучнік-Ветэран Рушэньня " />
-<string id="E11SCt08" text="Шатландзкі Капійнік Рушэньня " />
-<string id="E11SCt09" text="Шатландзкі Капійнік-Ветэран Рушэньня " />
-<string id="E11SCt10" text="Шатландзкі Заклічнік " />
-<string id="E11SCt11" text="Шатландзкі Пікінёр " />
-<string id="E11SCt12" text="Шатландзкі Пікінёр-Ветэран " />
-<string id="E11SCt13" text="Шатландзкі Выспавец " />
-<string id="E11SCt14" text="Шатландзкі Выспавец-Ветэран " />
-<string id="E11SCt15" text="Шатландзкі Сяржант " />
-<string id="E11SCt16" text="Шатландзкі Пешы Рыцар " />
-<string id="E11SCt17" text="Шатландзкі Рыцар " />
-<string id="E11SPt01" text="Гішпанская Вяскоўка " />
-<string id="E11SPt02" text="Гішпанскі Майстар Караванаў " />
-<string id="E11SPt03" text="Гішпанскі Узброены Гандляр " />
-<string id="E11SPt04" text="Гішпанскі Ахоўнік Караванаў " />
-<string id="E11SPt05" text="Гішпанскі Ахоўнік Караванаў Ветэран " />
-<string id="E11SPt06" text="Гішпанскі Арбалетнік Рушэньня " />
-<string id="E11SPt07" text="Гішпанскі Арбалетнік-Ветэран Рушэньня " />
-<string id="E11SPt08" text="Гішпанскі Капійнік Рушэньня " />
-<string id="E11SPt09" text="Гішпанскі Капійнік-Ветэран Рушэньня " />
-<string id="E11SPt10" text="Гішпанскі Супляменьнік " />
-<string id="E11SPt11" text="Гішпанскі Заклічнік " />
-<string id="E11SPt12" text="Гішпанскі Капійнік " />
-<string id="E11SPt13" text="Гішпанскі Капійнік-Ветэран " />
-<string id="E11SPt14" text="Гішпанскі Самастрэльнік " />
-<string id="E11SPt15" text="Гішпанскі Самастрэльнік-Ветэран " />
-<string id="E11SPt16" text="Іберыйскі Бідэт " />
-<string id="E11SPt17" text="Арагонскі Хінэтэ " />
-<string id="E11SPt18" text="Іберыйскі Шляхціч " />
-</strings>
+ <strings>
+  <string id="E11EricBerber1" text="Берберскі Хушуд"/>
+  <string id="E11EricBerber2" text="Берберскі Пляменны Капійнік"/>
+  <string id="E11EricBerber3" text="Берберскі Мутатавьвія"/>
+  <string id="E11EricBerber4" text="Берберскі Газі"/>
+  <string id="E11EricBerber5" text="Хрысьціянскі Фарфан Хашам"/>
+  <string id="E11EricBerber6" text="Хрысьціянскі Конны Фарфан Хашам"/>
+  <string id="E11EricBerber7" text="Берберскі Лёгкі Туарэг"/>
+  <string id="E11EricBerber8" text="Берберскі Ветэран Туарэг Рамі"/>
+  <string id="E11EricBerber9" text="Берберскі Ламтунах Лучнік"/>
+  <string id="E11EricBerber10" text="Берберскі Лёгкі Мутасабік"/>
+  <string id="E11EricBerber11" text="Берберскі Джунд Аль-Эмір"/>
+  <string id="E11EricBerber12" text="Берберскі Джунд Аль-Імам"/>
+  <string id="E11EricByzantine1" text="Бізантыйская Тагма"/>
+  <string id="E11EricByzantine2" text="Бізантыйскі Аўксіліры Турэцкі Лучнік"/>
+  <string id="E11EricByzantine3" text="Бізантыйскі Аўксіліры Палавецкі Лучнік"/>
+  <string id="E11EricByzantine4" text="Бізантыйскі Аўксіліры Палавецкі Коньнік"/>
+  <string id="E11EricByzantine5" text="Бізантыйскі Скутаты"/>
+  <string id="E11EricByzantine6" text="Бізантыйскі Ветэран Скутаты"/>
+  <string id="E11EricByzantine7" text="Бізантыйскі Валасіанскі Застрэльнік"/>
+  <string id="E11EricByzantine8" text="Бізантыйскі Сербскі Капійнік"/>
+  <string id="E11EricByzantine9" text="Бізантыйскі Цяжкі Скутаты"/>
+  <string id="E11EricByzantine10" text="Бізантыйскі Малодшы Шляхціч"/>
+  <string id="E11EricByzantine11" text="Бізантыйскі Рэфармаваны Катафракты"/>
+  <string id="E11EricByzantine12" text="Бізантыйскі Англа-Вараскі Гвардзеец"/>
+  <string id="E11EricCuman1" text="Палавецкі Качэўнік"/>
+  <string id="E11EricCuman2" text="Палавецкі Качэўнік-Капійнік"/>
+  <string id="E11EricCuman3" text="Палавецкі Качэўнік Капійнік Ветэран"/>
+  <string id="E11EricCuman4" text="Палавецкі Качэўнік Целаахоўнік"/>
+  <string id="E11EricCuman5" text="Палавецкі Качэўнік Застрэльнік"/>
+  <string id="E11EricCuman6" text="Палавецкі Качэўнік Лучнік Ветэран"/>
+  <string id="E11EricCuman7" text="Палавецкі Трапны"/>
+  <string id="E11EricCuman8" text="Палавецкі Конны Лучнік"/>
+  <string id="E11EricCuman9" text="Палавецкі Конны Лучнік Ветэран"/>
+  <string id="E11EricCuman10" text="Палавецкі Лёгкі Вершнік"/>
+  <string id="E11EricCuman11" text="Палавецкі Цяжкі Конны Лучнік"/>
+  <string id="E11EricCuman12" text="Палавецкі Вартавы Хана"/>
+  <string id="E11EricEnglish1" text="Англійскі Заклічнік"/>
+  <string id="E11EricEnglish2" text="Англійскі Фёрд-Капійнік"/>
+  <string id="E11EricEnglish3" text="Англійскі Фёрд Капійнік Ветэран"/>
+  <string id="E11EricEnglish4" text="Англійскі Сяржант-Капійнік"/>
+  <string id="E11EricEnglish5" text="Англійскі Фёрд-Застрэльнік"/>
+  <string id="E11EricEnglish6" text="Англійскі Фёрд-Лучнік"/>
+  <string id="E11EricEnglish7" text="Англійскі Ўэльскі Доўгалучнік"/>
+  <string id="E11EricEnglish8" text="Англійскі Сякірнік"/>
+  <string id="E11EricEnglish9" text="Англійскі Сяржант-Сякірнік"/>
+  <string id="E11EricEnglish10" text="Англійскі Сяржант"/>
+  <string id="E11EricEnglish11" text="Англійскі Пешы Рыцар"/>
+  <string id="E11EricEnglish12" text="Англійскі Рыцар"/>
+  <string id="E11EricFatimid1" text="Фацімідзкі Заклічнік"/>
+  <string id="E11EricFatimid2" text="Фацімідзкі Капійнік Рушэньня"/>
+  <string id="E11EricFatimid3" text="Фацімідзкі Капійнік-Ветэран Рушэньня"/>
+  <string id="E11EricFatimid4" text="Фацімідзкі Газі-Мечнік"/>
+  <string id="E11EricFatimid5" text="Фацімідзкі Лучнік Рушэньня"/>
+  <string id="E11EricFatimid6" text="Фацімідзкі Лучнік-Ветэран Рушэньня"/>
+  <string id="E11EricFatimid7" text="Фацімідзкі Газі-Лучнік"/>
+  <string id="E11EricFatimid8" text="Фацімідзкі Бедуін Лёгкі Коньнік"/>
+  <string id="E11EricFatimid9" text="Фацімідзкі Ветэран Бедуін Конны Лучнік"/>
+  <string id="E11EricFatimid10" text="Фацімідзкі Мамлюк"/>
+  <string id="E11EricFatimid11" text="Фацімідзкі Мамлюк-Ветэран"/>
+  <string id="E11EricFatimid12" text="Фацімідзкая Худжарыя"/>
+  <string id="E11EricFrance1" text="Францкі Заклічнік"/>
+  <string id="E11EricFrance2" text="Францкі Капійнік Рушэньня"/>
+  <string id="E11EricFrance3" text="Францкі Капійнік-Ветэран Рушэньня"/>
+  <string id="E11EricFrance4" text="Францкі Сяржант-Капійнік"/>
+  <string id="E11EricFrance5" text="Францкі Застрэльнік Рушэньня"/>
+  <string id="E11EricFrance6" text="Францкі Арбалетнік-Ветэран Рушэньня"/>
+  <string id="E11EricFrance7" text="Францкі Арбалетнік-Майстар"/>
+  <string id="E11EricFrance8" text="Францкі Сякірнік"/>
+  <string id="E11EricFrance9" text="Францкі Сяржант-Мечнік"/>
+  <string id="E11EricFrance10" text="Францкі Сяржант"/>
+  <string id="E11EricFrance11" text="Францкі Шывальер а Під"/>
+  <string id="E11EricFrance12" text="Францкі Шывальер"/>
+  <string id="E11EricGermany1" text="Германскі Хэррбанн"/>
+  <string id="E11EricGermany2" text="Германскі Капійнік Рушэньня"/>
+  <string id="E11EricGermany3" text="Германскі Капійнік-Ветэран Рушэньня"/>
+  <string id="E11EricGermany4" text="Германскі Сяржант-Капійнік"/>
+  <string id="E11EricGermany5" text="Германскі Застрэльнік Рушэньня"/>
+  <string id="E11EricGermany6" text="Германскі Арбалетнік-Ветэран Рушэньня"/>
+  <string id="E11EricGermany7" text="Германскі Сяржант-Арбалетнік"/>
+  <string id="E11EricGermany8" text="Германскі Швабскі Мечнік"/>
+  <string id="E11EricGermany9" text="Германскі Швабскі Конны Мечнік"/>
+  <string id="E11EricGermany10" text="Imperial Кнехт"/>
+  <string id="E11EricGermany11" text="Imperial Рыттар-Абгэштайгнар"/>
+  <string id="E11EricGermany12" text="Imperial Рыттар"/>
+  <string id="E11EricHungary1" text="Вугорскі Заклічнік"/>
+  <string id="E11EricHungary2" text="Вугорскі Капійнік Рушэньня"/>
+  <string id="E11EricHungary3" text="Вугорскі Капійнік-Ветэран Рушэньня"/>
+  <string id="E11EricHungary4" text="Вугорскі Ёбаджон-Пяхотнік"/>
+  <string id="E11EricHungary5" text="Вугорскі Застрэльнік Рушэньня"/>
+  <string id="E11EricHungary6" text="Вугорскі Лучнік-Ветэран Рушэньня"/>
+  <string id="E11EricHungary7" text="Вугорскі Ёбаджон-Лучнік"/>
+  <string id="E11EricHungary8" text="Вугорскі Конны Лучнік"/>
+  <string id="E11EricHungary9" text="Вугорскі Конны Лучнік Ветэран"/>
+  <string id="E11EricHungary10" text="Вугорскі Бан"/>
+  <string id="E11EricHungary11" text="Вугорскі Пешы Рыцар"/>
+  <string id="E11EricHungary12" text="Вугорскі Рыцар"/>
+  <string id="E11EricIrish1" text="Ірландзкі Заклічнік"/>
+  <string id="E11EricIrish2" text="Ірландзкі Капійнік Рушэньня"/>
+  <string id="E11EricIrish3" text="Ірландзкі Капійнік-Ветэран Рушэньня"/>
+  <string id="E11EricIrish4" text="Ірланда-Дацкі Сякірнік"/>
+  <string id="E11EricIrish5" text="Ірландзкі Лучнік Рушэньня"/>
+  <string id="E11EricIrish6" text="Ірландзкі Лучнік-Ветэран Рушэньня"/>
+  <string id="E11EricIrish7" text="Ірландзкі Галлоглах"/>
+  <string id="E11EricIrish8" text="Ірландзкі Застрэльнік"/>
+  <string id="E11EricIrish9" text="Ірландзкі Выведнік"/>
+  <string id="E11EricIrish10" text="Ірландзкі Хобелар"/>
+  <string id="E11EricIrish11" text="Ірландзкі Пешы Рыцар"/>
+  <string id="E11EricIrish12" text="Ірландзкі Рыцар"/>
+  <string id="E11EricItaly1" text="Італьянскі Заклічнік"/>
+  <string id="E11EricItaly2" text="Італьянскі Контадзіні-Капійнік "/>
+  <string id="E11EricItaly3" text="Італьянскі Контадзіні Капійнік Ветэран "/>
+  <string id="E11EricItaly4" text="Італьянскі Капітані-Пікінёр"/>
+  <string id="E11EricItaly5" text="Італьянскі Сарацын-Лучнік"/>
+  <string id="E11EricItaly6" text="Італьянскі Арбалетнік-Ветэран"/>
+  <string id="E11EricItaly7" text="Італьяна-Генуэскі Арбалетнік"/>
+  <string id="E11EricItaly8" text="Італьянскі Лёгкі Выведнік"/>
+  <string id="E11EricItaly9" text="Італьяна-Норманскі Лёгкі Вершнік"/>
+  <string id="E11EricItaly10" text="Італьянскі Шляхетны Камм'юнэ"/>
+  <string id="E11EricItaly11" text="Італьяна-Норманскі Пешы Рыцар"/>
+  <string id="E11EricItaly12" text="Італьяна-Норманскі Рыцар"/>
+  <string id="E11EricMerc1" text="Армянскі Капійнік"/>
+  <string id="E11EricMerc2" text="Армянскі Капійнік-Ветэран"/>
+  <string id="E11EricMerc3" text="Армянскі Шляхетны Вершнік"/>
+  <string id="E11EricMerc4" text="Брат Ордэна Сьвятога Міхаіла"/>
+  <string id="E11EricMerc5" text="Сяржант Сьвятога Міхаіла"/>
+  <string id="E11EricMerc6" text="Рыцар Сьвятога Міхаіла"/>
+  <string id="E11EricMerc7" text="Брудар вон дэр Гардэ дэс Эрзбішофс"/>
+  <string id="E11EricMerc8" text="Кнехт вон дэр Гардэ дэс Эрзбішофс"/>
+  <string id="E11EricMerc9" text="Рыттар вон дэр Гардэ дэс Эрзбішофс"/>
+  <string id="E11EricMerc10" text="Лазарыст Брат Ордэна"/>
+  <string id="E11EricMerc11" text="Лазарыст Сяржант"/>
+  <string id="E11EricMerc12" text="Лазарыст Рыцар"/>
+  <string id="E11EricMerc13" text="Рэйдар Клана Бедуінаў"/>
+  <string id="E11EricMerc14" text="Найміт Клана Бедуінаў"/>
+  <string id="E11EricMerc15" text="Ваяр Клана Бедуінаў"/>
+  <string id="E11EricMerc16" text="Ўэльскі Найманы Капійнік"/>
+  <string id="E11EricMerc17" text="Ўэльскі Найманы Доўгалучнік"/>
+  <string id="E11EricMerc18" text="Ўэльскі Шляхетны Злачынца"/>
+  <string id="E11EricMerc19" text="Генуэскі Марак"/>
+  <string id="E11EricMerc20" text="Генуэскі Арбалетнік"/>
+  <string id="E11EricMerc21" text="Генуэскі Арбалетнік-Чэмпіён"/>
+  <string id="E11EricMerc22" text="Вараг"/>
+  <string id="E11EricMerc23" text="Вараскі Найміт"/>
+  <string id="E11EricMerc24" text="Вараскі Целаахоўнік"/>
+  <string id="E11EricMerc25" text="Шпітальер Брат Ордэна"/>
+  <string id="E11EricMerc26" text="Шпітальер-Сяржант"/>
+  <string id="E11EricMerc27" text="Шпітальер-Рыцар"/>
+  <string id="E11EricMerc28" text="Грузіна-Аланскі Наезьнік"/>
+  <string id="E11EricMerc29" text="Грузіна-Аланскі Наезьнік-Ветэран"/>
+  <string id="E11EricMerc30" text="Грузінскі Хаўрусны Монаспа"/>
+  <string id="E11EricMerc31" text="Данішмэндзкі Конны Лучнік"/>
+  <string id="E11EricMerc32" text="Данішмэндзкі Конны Лучнік Ветэран"/>
+  <string id="E11EricMerc33" text="Данішмэндзкі Конны Лучнік Чэмпіён"/>
+  <string id="E11EricMerc34" text="Англа-Саксонскі Меч на Продаж"/>
+  <string id="E11EricMerc35" text="Англа-Саксонскі Ветэран Меч на Продаж"/>
+  <string id="E11EricMerc36" text="Англа-Саксонскі Шляхціч-Выгнаньнік"/>
+  <string id="E11EricMerc37" text="Ўэльскі Капійнік"/>
+  <string id="E11EricMerc38" text="Ўэльскі Доўгалучнік"/>
+  <string id="E11EricMerc39" text="Ўэльскі Хаўрусны Ухельвар"/>
+  <string id="E11EricMerc40" text="Брат Ордэна Сьвятога Якава"/>
+  <string id="E11EricMerc41" text="Сяржант Сьвятога Якава"/>
+  <string id="E11EricMerc42" text="Рыцар Сьвятога Якава"/>
+  <string id="E11EricMerc43" text="Руцьер Вайсковы Палонны"/>
+  <string id="E11EricMerc44" text="Руцьер-Найміт"/>
+  <string id="E11EricMerc45" text="Руцьер Найміт Ветэран"/>
+  <string id="E11EricMerc46" text="Найміт Шляхетны Злачынца"/>
+  <string id="E11EricMerc47" text="Іберыйскі Найміт Бідэт"/>
+  <string id="E11EricMerc48" text="Іберыйскі Найміт Бідэт Ветэран"/>
+  <string id="E11EricMerc49" text="Іберыйскі Элітны Найміт Бідэт"/>
+  <string id="E11EricMerc50" text="Арагонскі Хінэтэ-Найміт"/>
+  <string id="E11EricMerc51" text="Арагонскі Хінэтэ Найміт Ветэран"/>
+  <string id="E11EricMerc52" text="Ўэндскі Найміт"/>
+  <string id="E11EricMerc53" text="Ўэндскі Найміт-Ветэран"/>
+  <string id="E11EricMerc54" text="Ўэндскі Шляхетны-Выгнаньнік"/>
+  <string id="E11EricMerc55" text="Найміт-Арбалетнік"/>
+  <string id="E11EricMerc56" text="Найміт Арбалетнік Ветэран"/>
+  <string id="E11EricNorse1" text="Нардычны Бондзір"/>
+  <string id="E11EricNorse2" text="Нардычны Лейгангр-Капійнік"/>
+  <string id="E11EricNorse3" text="Нардычны Лейгангр Капійнік Ветэран"/>
+  <string id="E11EricNorse4" text="Нардычны Сёфарар"/>
+  <string id="E11EricNorse5" text="Нардычны Лейгангр-Застрэльнік"/>
+  <string id="E11EricNorse6" text="Нардычны Лейгангр Бюскіт Ветэран"/>
+  <string id="E11EricNorse7" text="Нардычны Мэркісмадр"/>
+  <string id="E11EricNorse8" text="Нардычны Конны Выведнік"/>
+  <string id="E11EricNorse9" text="Нардычны Конны Налётнік"/>
+  <string id="E11EricNorse10" text="Нардычны Хірдман Ярла"/>
+  <string id="E11EricNorse11" text="Нардычны Ульфэднар"/>
+  <string id="E11EricNorse12" text="Нардычны Хускарл Гаспадара"/>
+  <string id="E11EricPersian1" text="Сельджускі Туркмэнн"/>
+  <string id="E11EricPersian2" text="Сельджускі Пляменны Капійнік"/>
+  <string id="E11EricPersian3" text="Сельджускі Пляменны Капійнік-Ветэран"/>
+  <string id="E11EricPersian4" text="Сельджускі Пляменны Лёгкі Вершнік"/>
+  <string id="E11EricPersian5" text="Сельджускі Пляменны Лучнік"/>
+  <string id="E11EricPersian6" text="Сельджускі Пляменны Лучнік-Ветэран"/>
+  <string id="E11EricPersian7" text="Сельджускі Цяжкі Лучнік"/>
+  <string id="E11EricPersian8" text="Сельджускі Конны Лучнік"/>
+  <string id="E11EricPersian9" text="Сельджускі Конны Лучнік Ветэран"/>
+  <string id="E11EricPersian10" text="Сельджускі Гхулам Конны Лучнік"/>
+  <string id="E11EricPersian11" text="Сельджускі Гхулам Цяжкі Вершнік"/>
+  <string id="E11EricPersian12" text="Сельджускі Гхулам-Аскары"/>
+  <string id="E11EricPolish1" text="Польскі Заклічнік"/>
+  <string id="E11EricPolish2" text="Польскі Сякірнік Рушэньня"/>
+  <string id="E11EricPolish3" text="Польскі Сякірнік-Ветэран Рушэньня"/>
+  <string id="E11EricPolish4" text="Польскі Влодыка-Пяхотнік"/>
+  <string id="E11EricPolish5" text="Польскі Застрэльнік Рушэньня"/>
+  <string id="E11EricPolish6" text="Польскі Лучнік-Ветэран Рушэньня"/>
+  <string id="E11EricPolish7" text="Польскі Влодыка-Лучнік"/>
+  <string id="E11EricPolish8" text="Польскі Тарчоўніцы"/>
+  <string id="E11EricPolish9" text="Польскі Тарчоўніцы-Ветэран"/>
+  <string id="E11EricPolish10" text="Польскі Дружыньнік"/>
+  <string id="E11EricPolish11" text="Польскі Пешы Рыцар"/>
+  <string id="E11EricPolish12" text="Польскі Рыцар"/>
+  <string id="E11EricScottish1" text="Шатландзкі Neyf"/>
+  <string id="E11EricScottish2" text="Шатландзкі Сякірнік Рушэньня"/>
+  <string id="E11EricScottish3" text="Шатландзкі Капійнік-Ветэран Рушэньня"/>
+  <string id="E11EricScottish4" text="Шатландзкі Горны Капійнік"/>
+  <string id="E11EricScottish5" text="Шатландзкі Застрэльнік Рушэньня"/>
+  <string id="E11EricScottish6" text="Шатландзкі Лучнік-Ветэран Рушэньня"/>
+  <string id="E11EricScottish7" text="Шатландзкі Горны Лучнік"/>
+  <string id="E11EricScottish8" text="Шатландзкі Чалавек Выспаў"/>
+  <string id="E11EricScottish9" text="Шатландзкі Чалавек Выспаў Ветэран"/>
+  <string id="E11EricScottish10" text="Шатландзкі Лёгкі Вершнік"/>
+  <string id="E11EricScottish11" text="Шатландзкі Пешы Рыцар"/>
+  <string id="E11EricScottish12" text="Шатландзкі Рыцар"/>
+  <string id="E11EricSlavic1" text="Руські Задружны Заклічнік"/>
+  <string id="E11EricSlavic2" text="Руські Задружны Капійнік"/>
+  <string id="E11EricSlavic3" text="Руські Задружны Капійнік-Ветэран"/>
+  <string id="E11EricSlavic4" text="Руські Задружны Сякірнік-Ветэран"/>
+  <string id="E11EricSlavic5" text="Руські Палкавы Лучнік"/>
+  <string id="E11EricSlavic6" text="Руські Палкавы Лучнік-Ветэран "/>
+  <string id="E11EricSlavic7" text="Руські Вясковы Лучнік"/>
+  <string id="E11EricSlavic8" text="Руські Хаўрусны Палавецкі Коньнік"/>
+  <string id="E11EricSlavic9" text="Руські Хаўрусны Палавецкі Коньнік-Ветэран"/>
+  <string id="E11EricSlavic10" text="Руські Отрак"/>
+  <string id="E11EricSlavic11" text="Руські Грыдь"/>
+  <string id="E11EricSlavic12" text="Руські Баярын"/>
+  <string id="E11EricSpanish1" text="Гішпанскі Піоніс"/>
+  <string id="E11EricSpanish2" text="Гішпанскі Капійнік Рушэньня"/>
+  <string id="E11EricSpanish3" text="Гішпанскі Капійнік-Ветэран Рушэньня"/>
+  <string id="E11EricSpanish4" text="Гішпанскі Браняваны Пяхотнік"/>
+  <string id="E11EricSpanish5" text="Гішпанскі Сякірнік Рушэньня"/>
+  <string id="E11EricSpanish6" text="Гішпанскі Арбалетнік-Ветэран Рушэньня"/>
+  <string id="E11EricSpanish7" text="Гішпанскі Бальлестэра"/>
+  <string id="E11EricSpanish8" text="Іберыйскі Бідэт"/>
+  <string id="E11EricSpanish9" text="Арагонскі Джыніт"/>
+  <string id="E11EricSpanish10" text="Іберыйскі Лёгкі Вершнік"/>
+  <string id="E11EricSpanish11" text="Іберыйскі Пешы Шляхціч"/>
+  <string id="E11EricSpanish12" text="Іберыйскі Шляхціч"/>
+ </strings>
 </base>

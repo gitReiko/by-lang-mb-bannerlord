@@ -1,355 +1,253 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
-<strings>
-<string id="CsjtWt1g" text="Haspadar Karčmy " />
-<string id="twCIejxn" text="Majstar Hulniaŭ " />
-<string id="zfCoeglY" text="Muzyka " />
-<string id="z6RMWTaA" text="Pakajoŭka Karčmy " />
-<string id="jx8ohENz" text="Brońnik " />
-<string id="79ElOr2x" text="Handlar Końmi " />
-<string id="thbcgVVO" text="Handlar " />
-<string id="malebeggar" text="Žabrak " />
-<string id="femalebeggar" text="Žabračka " />
-<string id="X3KYysuv" text="Tancor " />
-<string id="IHKXNP9H" text="Zahadnik Turniraŭ " />
-<string id="maleinfant" text="Niemaŭlo " />
-<string id="malechild" text="Dzicio " />
-<string id="maleteenager" text="Padletak " />
-<string id="femaleinfant" text="Niemaŭlo " />
-<string id="femalechild" text="Dzicio " />
-<string id="femaleteenager" text="Padletak " />
-<string id="E11BEt01" text="Bierbierskaja Viaskoŭka " />
-<string id="E11BEt02" text="Bierbierski Majstar Karavanaŭ " />
-<string id="E11BEt03" text="Bierbierski Uzbrojeny Handlar " />
-<string id="E11BEt04" text="Bierbierski Achoŭnik Karavanaŭ " />
-<string id="E11BEt05" text="Bierbierski Achoŭnik Karavanaŭ Vieteran " />
-<string id="E11BEt06" text="Bierbierski Łučnik Rušeńnia " />
-<string id="E11BEt07" text="Bierbierski Łučnik-Vieteran Rušeńnia " />
-<string id="E11BEt08" text="Bierbierski Kapijnik Rušeńnia " />
-<string id="E11BEt09" text="Bierbierski Kapijnik-Vieteran Rušeńnia " />
-<string id="275LD0Gh" text="Pracaŭnik Majsterni " />
-<string id="muu5cofb" text="Haradžanin " />
-<string id="AlmaRAib" text="Nataryus Zamožnaha Viaskoŭca " />
-<string id="bLMGbLF8" text="Nataryus Prapaviednika " />
-<string id="ECxiXTbF" text="Nataryus Ramieśnika " />
-<string id="reoVAtrE" text="Nataryus Handlara " />
-<string id="LNNXiPyV" text="Ciełaachoŭnik Vierchavoda Bandy " />
-<string id="W2WXkiAh" text="Pasiarednik-Vykupnik " />
-<string id="WH7EGGIg" text="Cyrulnik " />
-<string id="UaN2lfwi" text="Zbrojnik " />
-<string id="bNnQt4jN" text="Kaval " />
-<string id="XgjXfmM1" text="Vartaŭnik Viaźnicy " />
-<string id="E11BEt10" text="Bierbierski Fušund " />
-<string id="E11BEt11" text="Bierbierski Chušund-Kapijnik " />
-<string id="E11BEt12" text="Chryscijanski Farfan Chašam " />
-<string id="E11BEt13" text="Bierbierski Tuareh Rami " />
-<string id="E11BEt14" text="Bierbierski Tuareh Rami Vieteran " />
-<string id="E11BEt15" text="Bierbierski Lohki Mutasabik " />
-<string id="E11BEt16" text="Bierbierski Džund Al-Emir " />
-<string id="E11BEt17" text="Bierbierski Džund Al-Imam " />
-<string id="E11BYt01" text="Bizantyjskaja Viaskoŭka " />
-<string id="E11BYt02" text="Bizantyjski Majstar Karavanaŭ " />
-<string id="E11BYt03" text="Bizantyjski Uzbrojeny Handlar " />
-<string id="E11BYt04" text="Bizantyjski Achoŭnik Karavanaŭ " />
-<string id="E11BYt05" text="Bizantyjski Achoŭnik Karavanaŭ Vieteran " />
-<string id="E11BYt06" text="Bizantyjski Łučnik Rušeńnia " />
-<string id="E11BYt07" text="Bizantyjski Śledapyt-Vieteran Rušeńnia " />
-<string id="E11BYt08" text="Bizantyjski Kapijnik Rušeńnia " />
-<string id="E11BYt09" text="Bizantyjski Kapijnik-Vieteran Rušeńnia " />
-<string id="E11BYt10" text="Bizantyjski Suplamieńnik " />
-<string id="E11BYt11" text="Bizantyjski Aŭksiliry Zakličnik " />
-<string id="E11BYt12" text="Bizantyjski Aŭksiliry Sierbski Piachotnik " />
-<string id="E11BYt13" text="Bizantyjski Skutatas " />
-<string id="E11BYt14" text="Bizantyjski Aŭksiliry Turecki Łučnik " />
-<string id="E11BYt15" text="Bizantyjski Aŭksiliry Pałaviecki Łučnik " />
-<string id="E11BYt16" text="Bizantyjski Aŭksiliry Pałaviecki Końnik " />
-<string id="E11BYt17" text="Bizantyjski Refarmavany Katafrakty " />
-<string id="E11BYt18" text="Anhła-Varaski Hvardziejec " />
-<string id="E11CRt01" text="Pilihrym " />
-<string id="E11CRt02" text="Francki Siaržant " />
-<string id="E11CRt03" text="Francki Piešy Rycar-Kryžak " />
-<string id="E11CRt04" text="Francki Rycar-Kryžak " />
-<string id="kPCcelVX" text="Handlar " />
-<string id="E11CUt01" text="Uschodniaja Viaskoŭka " />
-<string id="E11CUt02" text="Uschodni Majstar Karavanaŭ " />
-<string id="E11CUt03" text="Uschodni Uzbrojeny Handlar " />
-<string id="E11CUt04" text="Uschodni Achoŭnik Karavanaŭ " />
-<string id="E11CUt05" text="Uschodni Achoŭnik Karavanaŭ Vieteran " />
-<string id="E11CUt06" text="Pałaviecki Łučnik Rušeńnia " />
-<string id="E11CUt07" text="Pałaviecki Łučnik-Vieteran Rušeńnia " />
-<string id="E11CUt08" text="Pałaviecki Kapijnik Rušeńnia " />
-<string id="E11CUt09" text="Pałaviecki Kapijnik-Vieteran Rušeńnia " />
-<string id="E11CUt10" text="Pałaviecki Zakličnik " />
-<string id="E11CUt11" text="Pałaviecki Kapijnik " />
-<string id="E11CUt12" text="Pałaviecki Kapijnik-Vieteran " />
-<string id="E11CUt13" text="Pałaviecki Konny Łučnik " />
-<string id="E11CUt14" text="Pałaviecki Ciažki Konny Łučnik " />
-<string id="E11CUt15" text="Pałaviecki Lohki Vieršnik " />
-<string id="E11CUt16" text="Pałaviecki Ciažki Vieršnik " />
-<string id="E11CUt17" text="Pałaviecki Vartaŭnik Chana " />
-<string id="E11ENt01" text="Anhlijskaja Viaskoŭka " />
-<string id="E11ENt02" text="Anhlijski Majstar Karavanaŭ " />
-<string id="E11ENt03" text="Anhlijski Uzbrojeny Handlar " />
-<string id="E11ENt04" text="Anhlijski Achoŭnik Karavanaŭ " />
-<string id="E11ENt05" text="Anhlijski Achoŭnik Karavanaŭ Vieteran " />
-<string id="E11ENt06" text="Anhlijski Łučnik Rušeńnia " />
-<string id="E11ENt07" text="Anhlijski Łučnik-Vieteran Rušeńnia " />
-<string id="E11ENt08" text="Anhlijski Kapijnik Rušeńnia " />
-<string id="E11ENt09" text="Anhlijski Kapijnik-Vieteran Rušeńnia " />
-<string id="E11ENt10" text="Anhlijski Zakličnik " />
-<string id="E11ENt11" text="Anhlijski Sałdat " />
-<string id="E11ENt12" text="Anhlijski Sałdat-Vieteran " />
-<string id="E11ENt13" text="Anhlijski Łučnik " />
-<string id="E11ENt14" text="Anhlijski Łučnik-Vieteran " />
-<string id="E11ENt15" text="Anhlijski Siaržant " />
-<string id="E11ENt16" text="Narmanski Piešy Rycar " />
-<string id="E11ENt17" text="Narmanski Rycar " />
-<string id="E11FAt01" text="Arabskaja Viaskoŭka " />
-<string id="E11FAt02" text="Arabski Majstar Karavanaŭ " />
-<string id="E11FAt03" text="Arabski Uzbrojeny Handlar " />
-<string id="E11FAt04" text="Arabski Achoŭnik Karavanaŭ " />
-<string id="E11FAt05" text="Arabski Achoŭnik Karavanaŭ Vieteran " />
-<string id="E11FAt06" text="Arabski Łučnik Rušeńnia " />
-<string id="E11FAt07" text="Arabski Łučnik-Vieteran Rušeńnia " />
-<string id="E11FAt08" text="Arabski Kapijnik Rušeńnia " />
-<string id="E11FAt09" text="Arabski Kapijnik-Vieteran Rušeńnia " />
-<string id="E11FAt10" text="Facimidzki Fušund " />
-<string id="E11FAt11" text="Facimidzki Chušund-Kapijnik " />
-<string id="E11FAt12" text="Facimidzki Chušund Kapijnik Vieteran " />
-<string id="E11FAt13" text="Facimidzki Rami " />
-<string id="E11FAt14" text="Facimidzki Rami-Vieteran " />
-<string id="E11FAt15" text="Isłamski Lohki Mutasabik " />
-<string id="E11FAt16" text="Džund Al-Emir " />
-<string id="E11FAt17" text="Džund Al-Chalifach " />
-<string id="E11FRt01" text="Franckaja Viaskoŭka " />
-<string id="E11FRt02" text="Francki Majstar Karavanaŭ " />
-<string id="E11FRt03" text="Francki Uzbrojeny Handlar " />
-<string id="E11FRt04" text="Francki Achoŭnik Karavanaŭ " />
-<string id="E11FRt05" text="Francki Achoŭnik Karavanaŭ Vieteran " />
-<string id="E11FRt06" text="Francki Samastrelnik Rušeńnia " />
-<string id="E11FRt07" text="Francki Samastrelnik-Vieteran Rušeńnia " />
-<string id="E11FRt08" text="Francki Kapijnik Rušeńnia " />
-<string id="E11FRt09" text="Francki Kapijnik-Vieteran Rušeńnia " />
-<string id="E11FRt10" text="Francki Suplamieńnik " />
-<string id="E11FRt11" text="Francki Zakličnik " />
-<string id="E11FRt12" text="Francki Sałdat " />
-<string id="E11FRt13" text="Francki Siaržant a Pid " />
-<string id="E11FRt14" text="Francki Arbaletryjer " />
-<string id="E11FRt15" text="Francki Arbaletryjer-Vieteran " />
-<string id="E11FRt16" text="Francki Siaržant " />
-<string id="E11FRt17" text="Francki Šyvaljer a Pid " />
-<string id="E11FRt18" text="Francki Šyvaljer " />
-<string id="E11GEt01" text="Hiermanskaja Viaskoŭka " />
-<string id="E11GEt02" text="Hiermanski Majstar Karavanaŭ " />
-<string id="E11GEt03" text="Hiermanski Uzbrojeny Handlar " />
-<string id="E11GEt04" text="Hiermanski Achoŭnik Karavanaŭ " />
-<string id="E11GEt05" text="Hiermanski Achoŭnik Karavanaŭ Vieteran " />
-<string id="E11GEt06" text="Hiermanski Łučnik Rušeńnia " />
-<string id="E11GEt07" text="Hiermanski Łučnik-Vieteran Rušeńnia " />
-<string id="E11GEt08" text="Hiermanski Kapijnik Rušeńnia " />
-<string id="E11GEt09" text="Hiermanski Kapijnik-Vieteran Rušeńnia " />
-<string id="E11GEt10" text="Hiermanski Suplamieńnik " />
-<string id="E11GEt11" text="Hiermanski Zakličnik " />
-<string id="E11GEt12" text="Hiermanski Sałdat " />
-<string id="E11GEt13" text="Łakajn der Bišoflichien Harde " />
-<string id="E11GEt14" text="Hiermanski Armbrustšutze " />
-<string id="E11GEt15" text="Hiermanski Armbrustšutze-Vieteran " />
-<string id="E11GEt16" text="Kniecht der Bišoflichien Harde " />
-<string id="E11GEt17" text="Hiermanski Abheštajhner Ryttar " />
-<string id="E11GEt18" text="Hiermanski Ryttar " />
-<string id="E11HUt01" text="Vuhorskaja Viaskoŭka " />
-<string id="E11HUt02" text="Vuhorski Majstar Karavanaŭ " />
-<string id="E11HUt03" text="Vuhorski Uzbrojeny Handlar " />
-<string id="E11HUt04" text="Vuhorski Achoŭnik Karavanaŭ " />
-<string id="E11HUt05" text="Vuhorski Achoŭnik Karavanaŭ Vieteran " />
-<string id="E11HUt06" text="Vuhorski Łučnik Rušeńnia " />
-<string id="E11HUt07" text="Vuhorski Łučnik-Vieteran Rušeńnia " />
-<string id="E11HUt08" text="Vuhorski Kapijnik Rušeńnia " />
-<string id="E11HUt09" text="Vuhorski Kapijnik-Vieteran Rušeńnia " />
-<string id="E11HUt10" text="Vuhorski Suplamieńnik " />
-<string id="E11HUt11" text="Vuhorski Zakličnik " />
-<string id="E11HUt12" text="Vuhorski Kapijnik " />
-<string id="E11HUt13" text="Vuhorski Kapijnik-Vieteran " />
-<string id="E11HUt14" text="Madziarski Łučnik " />
-<string id="E11HUt15" text="Madziarski Łučnik-Vieteran " />
-<string id="E11HUt16" text="Madziarski Końnik " />
-<string id="E11HUt17" text="Vuhorski Piešy Rycar " />
-<string id="E11HUt18" text="Vuhorski Rycar " />
-<string id="E11IRt01" text="Irłandzkaja Viaskoŭka " />
-<string id="E11IRt02" text="Irłandzki Majstar Karavanaŭ " />
-<string id="E11IRt03" text="Irłandzki Uzbrojeny Handlar " />
-<string id="E11IRt04" text="Irłandzki Achoŭnik Karavanaŭ " />
-<string id="E11IRt05" text="Irłandzki Achoŭnik Karavanaŭ Vieteran " />
-<string id="E11IRt06" text="Irłandzki Łučnik Rušeńnia " />
-<string id="E11IRt07" text="Irłandzki Łučnik-Vieteran Rušeńnia " />
-<string id="E11IRt08" text="Irłandzki Kapijnik Rušeńnia " />
-<string id="E11IRt09" text="Irłandzki Siakirnik-Vieteran Rušeńnia " />
-<string id="E11IRt10" text="Irłandzki Zakličnik " />
-<string id="E11IRt11" text="Irłandzki Kiern " />
-<string id="E11IRt12" text="Irłandzki Kiern-Vieteran " />
-<string id="E11IRt13" text="Dacki Rejdar " />
-<string id="E11IRt14" text="Dacki Rejdar-Vieteran " />
-<string id="E11IRt15" text="Irłandzki Chobiełar " />
-<string id="E11IRt16" text="Irłandzki Piešy Rycar " />
-<string id="E11IRt17" text="Irłandzki Rycar " />
-<string id="E11ITt01" text="Italjanskaja Viaskoŭka " />
-<string id="E11ITt02" text="Italjanski Majstar Karavanaŭ " />
-<string id="E11ITt03" text="Italjanski Uzbrojeny Handlar " />
-<string id="E11ITt04" text="Italjanski Achoŭnik Karavanaŭ " />
-<string id="E11ITt05" text="Italjanski Achoŭnik Karavanaŭ " />
-<string id="E11ITt06" text="Italjanski Łučnik Rušeńnia " />
-<string id="E11ITt07" text="Italjanski Łučnik-Vieteran Rušeńnia " />
-<string id="E11ITt08" text="Italjanski Kapijnik Rušeńnia " />
-<string id="E11ITt09" text="Italjanski Kapijnik-Vieteran Rušeńnia " />
-<string id="E11ITt10" text="Italjanski Suplamieńnik " />
-<string id="E11ITt11" text="Italjanski Zakličnik " />
-<string id="E11ITt12" text="Italjanski Kapijnik " />
-<string id="E11ITt13" text="Italjanski Kapijnik-Vieteran " />
-<string id="E11ITt14" text="Sicyła-Saracynski Łučnik-Najmit " />
-<string id="E11ITt15" text="Italjanski Samastrelnik-Vieteran " />
-<string id="E11ITt16" text="Italjanski Siaržant " />
-<string id="KnhpjA7Y" text="Armianski Kapijnik " />
-<string id="ghilmanUnit" text="Armianski Kapijnik-Vieteran " />
-<string id="7EUhAv8b" text="Armianski Šlachietny Vieršnik " />
-<string id="G9ByT85b" text="Brat Ordena Śviatoha Michaiła " />
-<string id="qMYpZKWo" text="Siaržant Śviatoha Michaiła " />
-<string id="cOt1onbR" text="Rycar Śviatoha Michaiła " />
-<string id="uViDMxLC" text="Brudar von der Harde des Erzbišofs " />
-<string id="LXybWXde" text="Kniecht von der Harde des Erzbišofs " />
-<string id="YGexslSX" text="Ryttar von der Harde des Erzbišofs " />
-<string id="9Bw85Elg" text="Łazaryst Brat Ordena " />
-<string id="9Ylw5Spz" text="Łazaryst Siaržant " />
-<string id="cSdSSXsO" text="Łazaryst Rycar " />
-<string id="uca778lM" text="Rejdar Kłana Bieduinaŭ " />
-<string id="9zXXes9i" text="Najmit Kłana Bieduinaŭ " />
-<string id="8Gh8q1PX" text="Vajar Kłana Bieduinaŭ " />
-<string id="mrBbsiPN" text="Ŭelski Najmany Kapijnik " />
-<string id="q7b4pQc9" text="Ŭelski Najmany Doŭhałučnik " />
-<string id="QvSmhaAV" text="Ŭelski Šlachietny Złačynca " />
-<string id="ehACDRBk" text="Hienueski Marak " />
-<string id="BblMuWZx" text="Hienueski Arbaletnik " />
-<string id="PU2zIMu0" text="Hienueski Arbaletnik-Čempijon " />
-<string id="6j9iJMRr" text="Varah " />
-<string id="1gAasy1t" text="Varaski Najmit " />
-<string id="BC5YGna3" text="Varaski Hvardziejec " />
-<string id="DIt9SuMb" text="Špitaljer Brat Ordena " />
-<string id="riT39wKu" text="Špitaljer-Siaržant " />
-<string id="u3K1SozQ" text="Špitaljer-Rycar " />
-<string id="xJ4koSsx" text="Hruzina-Ałanski Najeźnik " />
-<string id="BlZK3wDN" text="Hruzina-Ałanski Najeźnik-Vieteran " />
-<string id="UsvCnAS7" text="Hruzinski Chaŭrusny Monaspa " />
-<string id="vxlAJIiU" text="Danišmendzki Konny Łučnik " />
-<string id="Mcbjdntz" text="Danišmendzki Konny Łučnik Vieteran " />
-<string id="qAvxmnav" text="Danišmendzki Konny Łučnik Čempijon " />
-<string id="cDgsaaRB" text="Piečanieski Konny Łučnik " />
-<string id="UvK3XaZ6" text="Piečanieski Konny Łučnik Vieteran " />
-<string id="KbyRj9b3" text="Piečanieski Vartaŭnik Chana " />
-<string id="h7nGFImt" text="Ŭelski Kapijnik " />
-<string id="2HDPaohZ" text="Ŭelski Doŭhałučnik " />
-<string id="ueasbGtd" text="Ŭelski Chaŭrusny Uchielvar " />
-<string id="S6BosJUq" text="Brat Ordena Śviatoha Jakava " />
-<string id="qBVNIhme" text="Siaržant Śviatoha Jakava " />
-<string id="cEKbOxRA" text="Rycar Śviatoha Jakava " />
-<string id="r8npO8hG" text="Rućjer Vajskovy Pałonny " />
-<string id="ZK0GXYCx" text="Rućjer-Najmit " />
-<string id="ifL3F7E2" text="Rućjer Najmit Vieteran " />
-<string id="0gi5Fp8c" text="Najmit Šlachietny Złačynca " />
-<string id="NRvuCvMN" text="Ibieryjski Najmit Bidet " />
-<string id="UBHngTIf" text="Ibieryjski Najmit Bidet Vieteran " />
-<string id="uPypJHlm" text="Ibieryjski Elitny Najmit Bidet " />
-<string id="xl6QstMW" text="Arahonski Najmit Chinete " />
-<string id="kyt087eN" text="Arahonski Najmit Chinete Vieteran " />
-<string id="J4k9mg65" text="Fryzijski Najmit " />
-<string id="n89z19Dv" text="Fryzijski Najmit-Vieteran " />
-<string id="7WV17e5Q" text="Fryzijski Šlachietny Vyhnańnik " />
-<string id="QfVe3IVw" text="Najmit-Arbaletnik " />
-<string id="DxtSIxyZ" text="Najmit Arbaletnik Vieteran " />
-<string id="E11NOt01" text="Nardyčnaja Viaskoŭka " />
-<string id="E11NOt02" text="Nardyčny Majstar Karavanaŭ " />
-<string id="E11NOt03" text="Nardyčny Uzbrojeny Handlar " />
-<string id="E11NOt04" text="Nardyčny Achoŭnik Karavanaŭ " />
-<string id="E11NOt05" text="Nardyčny Achoŭnik Karavanaŭ Vieteran " />
-<string id="E11NOt06" text="Nardyčny Łučnik Rušeńnia " />
-<string id="E11NOt07" text="Nardyčny Łučnik-Vieteran Rušeńnia " />
-<string id="E11NOt08" text="Nardyčny Kapijnik Rušeńnia " />
-<string id="E11NOt09" text="Nardyčny Kapijnik-Vieteran Rušeńnia " />
-<string id="E11NOt10" text="Nardyčny Bondzir " />
-<string id="E11NOt11" text="Nardyčny Łedunh " />
-<string id="E11NOt12" text="Nardyčny Siofarar " />
-<string id="E11NOt13" text="Nardyčny Bjuskute " />
-<string id="E11NOt14" text="Nardyčny Bjuskute-Vieteran " />
-<string id="E11NOt15" text="Nardyčny Chirdman Jarła " />
-<string id="E11NOt16" text="Nardyčny Ulfednar " />
-<string id="E11NOt17" text="Nardyčny Chuskarł Haspadara " />
-<string id="E11PEt01" text="Sieldžuskaja Viaskoŭka " />
-<string id="E11PEt02" text="Sieldžuski Majstar Karavanaŭ " />
-<string id="E11PEt03" text="Sieldžuski Uzbrojeny Handlar " />
-<string id="E11PEt04" text="Sieldžuski Achoŭnik Karavanaŭ " />
-<string id="E11PEt05" text="Sieldžuski Achoŭnik Karavanaŭ Vieteran " />
-<string id="E11PEt06" text="Sieldžuski Łučnik Rušeńnia " />
-<string id="E11PEt07" text="Sieldžuski Łučnik-Vieteran Rušeńnia " />
-<string id="E11PEt08" text="Sieldžuski Kapijnik Rušeńnia " />
-<string id="E11PEt09" text="Sieldžuski Kapijnik-Vieteran Rušeńnia " />
-<string id="E11PEt10" text="Sieldžuski Zakličnik " />
-<string id="E11PEt11" text="Sieldžuski Kapijnik " />
-<string id="E11PEt12" text="Sieldžuski Kapijnik-Vieteran " />
-<string id="E11PEt13" text="Sieldžuski Konny Łučnik " />
-<string id="E11PEt14" text="Sieldžuski Konny Łučnik Vieteran " />
-<string id="E11PEt15" text="Sieldžuski Lohki Vieršnik " />
-<string id="E11PEt16" text="Sieldžuski Vieršnik-Vieteran " />
-<string id="E11PEt17" text="Sieldžuski Vieršnik-Čempijon " />
-<string id="E11POt01" text="Polskaja Viaskoŭka " />
-<string id="E11POt02" text="Polski Majstar Karavanaŭ " />
-<string id="E11POt03" text="Polski Uzbrojeny Handlar " />
-<string id="E11POt04" text="Polski Achoŭnik Karavanaŭ " />
-<string id="E11POt05" text="Polski Achoŭnik Karavanaŭ Vieteran " />
-<string id="E11POt06" text="Polski Łučnik Rušeńnia " />
-<string id="E11POt07" text="Polski Łučnik-Vieteran Rušeńnia " />
-<string id="E11POt08" text="Polski Kapijnik Rušeńnia " />
-<string id="E11POt09" text="Polski Kapijnik-Vieteran Rušeńnia " />
-<string id="E11POt10" text="Polski Suplamieńnik " />
-<string id="E11POt11" text="Polski Zakličnik " />
-<string id="E11POt12" text="Polski Tarčoŭnik " />
-<string id="E11POt13" text="Polski Tarčoŭnik-Vieteran " />
-<string id="E11POt14" text="Polski Stralec " />
-<string id="E11POt15" text="Polski Stralec-Vieteran " />
-<string id="E11POt16" text="Polski Lohki Vieršnik " />
-<string id="E11POt17" text="Polski Piešy Małodšy Šlachcič " />
-<string id="E11POt18" text="Polski Šlachcič " />
-<string id="E11SCt01" text="Šatłandzkaja Viaskoŭka " />
-<string id="E11SCt02" text="Šatłandzki Majstar Karavanaŭ " />
-<string id="E11SCt03" text="Šatłandzki Uzbrojeny Handlar " />
-<string id="E11SCt04" text="Šatłandzki Achoŭnik Karavanaŭ " />
-<string id="E11SCt05" text="Šatłandzki Achoŭnik Karavanaŭ Vieteran " />
-<string id="E11SCt06" text="Šatłandzki Łučnik Rušeńnia " />
-<string id="E11SCt07" text="Šatłandzki Łučnik-Vieteran Rušeńnia " />
-<string id="E11SCt08" text="Šatłandzki Kapijnik Rušeńnia " />
-<string id="E11SCt09" text="Šatłandzki Kapijnik-Vieteran Rušeńnia " />
-<string id="E11SCt10" text="Šatłandzki Zakličnik " />
-<string id="E11SCt11" text="Šatłandzki Pikinior " />
-<string id="E11SCt12" text="Šatłandzki Pikinior-Vieteran " />
-<string id="E11SCt13" text="Šatłandzki Vyspaviec " />
-<string id="E11SCt14" text="Šatłandzki Vyspaviec-Vieteran " />
-<string id="E11SCt15" text="Šatłandzki Siaržant " />
-<string id="E11SCt16" text="Šatłandzki Piešy Rycar " />
-<string id="E11SCt17" text="Šatłandzki Rycar " />
-<string id="E11SPt01" text="Hišpanskaja Viaskoŭka " />
-<string id="E11SPt02" text="Hišpanski Majstar Karavanaŭ " />
-<string id="E11SPt03" text="Hišpanski Uzbrojeny Handlar " />
-<string id="E11SPt04" text="Hišpanski Achoŭnik Karavanaŭ " />
-<string id="E11SPt05" text="Hišpanski Achoŭnik Karavanaŭ Vieteran " />
-<string id="E11SPt06" text="Hišpanski Arbaletnik Rušeńnia " />
-<string id="E11SPt07" text="Hišpanski Arbaletnik-Vieteran Rušeńnia " />
-<string id="E11SPt08" text="Hišpanski Kapijnik Rušeńnia " />
-<string id="E11SPt09" text="Hišpanski Kapijnik-Vieteran Rušeńnia " />
-<string id="E11SPt10" text="Hišpanski Suplamieńnik " />
-<string id="E11SPt11" text="Hišpanski Zakličnik " />
-<string id="E11SPt12" text="Hišpanski Kapijnik " />
-<string id="E11SPt13" text="Hišpanski Kapijnik-Vieteran " />
-<string id="E11SPt14" text="Hišpanski Samastrelnik " />
-<string id="E11SPt15" text="Hišpanski Samastrelnik-Vieteran " />
-<string id="E11SPt16" text="Ibieryjski Bidet " />
-<string id="E11SPt17" text="Arahonski Chinete " />
-<string id="E11SPt18" text="Ibieryjski Šlachcič " />
-</strings>
+ <strings>
+  <string id="E11EricBerber1" text="Bierbierski Chušud"/>
+  <string id="E11EricBerber2" text="Bierbierski Plamienny Kapijnik"/>
+  <string id="E11EricBerber3" text="Bierbierski Mutatavvija"/>
+  <string id="E11EricBerber4" text="Bierbierski Hazi"/>
+  <string id="E11EricBerber5" text="Chryścijanski Farfan Chašam"/>
+  <string id="E11EricBerber6" text="Chryścijanski Konny Farfan Chašam"/>
+  <string id="E11EricBerber7" text="Bierbierski Lohki Tuareh"/>
+  <string id="E11EricBerber8" text="Bierbierski Vieteran Tuareh Rami"/>
+  <string id="E11EricBerber9" text="Bierbierski Łamtunach Łučnik"/>
+  <string id="E11EricBerber10" text="Bierbierski Lohki Mutasabik"/>
+  <string id="E11EricBerber11" text="Bierbierski Džund Al-Emir"/>
+  <string id="E11EricBerber12" text="Bierbierski Džund Al-Imam"/>
+  <string id="E11EricByzantine1" text="Bizantyjskaja Tahma"/>
+  <string id="E11EricByzantine2" text="Bizantyjski Aŭksiliry Turecki Łučnik"/>
+  <string id="E11EricByzantine3" text="Bizantyjski Aŭksiliry Pałaviecki Łučnik"/>
+  <string id="E11EricByzantine4" text="Bizantyjski Aŭksiliry Pałaviecki Końnik"/>
+  <string id="E11EricByzantine5" text="Bizantyjski Skutaty"/>
+  <string id="E11EricByzantine6" text="Bizantyjski Vieteran Skutaty"/>
+  <string id="E11EricByzantine7" text="Bizantyjski Vałasianski Zastrelnik"/>
+  <string id="E11EricByzantine8" text="Bizantyjski Sierbski Kapijnik"/>
+  <string id="E11EricByzantine9" text="Bizantyjski Ciažki Skutaty"/>
+  <string id="E11EricByzantine10" text="Bizantyjski Małodšy Šlachcič"/>
+  <string id="E11EricByzantine11" text="Bizantyjski Refarmavany Katafrakty"/>
+  <string id="E11EricByzantine12" text="Bizantyjski Anhła-Varaski Hvardziejec"/>
+  <string id="E11EricCuman1" text="Pałaviecki Kačeŭnik"/>
+  <string id="E11EricCuman2" text="Pałaviecki Kačeŭnik-Kapijnik"/>
+  <string id="E11EricCuman3" text="Pałaviecki Kačeŭnik Kapijnik Vieteran"/>
+  <string id="E11EricCuman4" text="Pałaviecki Kačeŭnik Ciełaachoŭnik"/>
+  <string id="E11EricCuman5" text="Pałaviecki Kačeŭnik Zastrelnik"/>
+  <string id="E11EricCuman6" text="Pałaviecki Kačeŭnik Łučnik Vieteran"/>
+  <string id="E11EricCuman7" text="Pałaviecki Trapny"/>
+  <string id="E11EricCuman8" text="Pałaviecki Konny Łučnik"/>
+  <string id="E11EricCuman9" text="Pałaviecki Konny Łučnik Vieteran"/>
+  <string id="E11EricCuman10" text="Pałaviecki Lohki Vieršnik"/>
+  <string id="E11EricCuman11" text="Pałaviecki Ciažki Konny Łučnik"/>
+  <string id="E11EricCuman12" text="Pałaviecki Vartavy Chana"/>
+  <string id="E11EricEnglish1" text="Anhlijski Zakličnik"/>
+  <string id="E11EricEnglish2" text="Anhlijski Fiord-Kapijnik"/>
+  <string id="E11EricEnglish3" text="Anhlijski Fiord Kapijnik Vieteran"/>
+  <string id="E11EricEnglish4" text="Anhlijski Siaržant-Kapijnik"/>
+  <string id="E11EricEnglish5" text="Anhlijski Fiord-Zastrelnik"/>
+  <string id="E11EricEnglish6" text="Anhlijski Fiord-Łučnik"/>
+  <string id="E11EricEnglish7" text="Anhlijski Ŭelski Doŭhałučnik"/>
+  <string id="E11EricEnglish8" text="Anhlijski Siakirnik"/>
+  <string id="E11EricEnglish9" text="Anhlijski Siaržant-Siakirnik"/>
+  <string id="E11EricEnglish10" text="Anhlijski Siaržant"/>
+  <string id="E11EricEnglish11" text="Anhlijski Piešy Rycar"/>
+  <string id="E11EricEnglish12" text="Anhlijski Rycar"/>
+  <string id="E11EricFatimid1" text="Facimidzki Zakličnik"/>
+  <string id="E11EricFatimid2" text="Facimidzki Kapijnik Rušeńnia"/>
+  <string id="E11EricFatimid3" text="Facimidzki Kapijnik-Vieteran Rušeńnia"/>
+  <string id="E11EricFatimid4" text="Facimidzki Hazi-Miečnik"/>
+  <string id="E11EricFatimid5" text="Facimidzki Łučnik Rušeńnia"/>
+  <string id="E11EricFatimid6" text="Facimidzki Łučnik-Vieteran Rušeńnia"/>
+  <string id="E11EricFatimid7" text="Facimidzki Hazi-Łučnik"/>
+  <string id="E11EricFatimid8" text="Facimidzki Bieduin Lohki Końnik"/>
+  <string id="E11EricFatimid9" text="Facimidzki Vieteran Bieduin Konny Łučnik"/>
+  <string id="E11EricFatimid10" text="Facimidzki Mamluk"/>
+  <string id="E11EricFatimid11" text="Facimidzki Mamluk-Vieteran"/>
+  <string id="E11EricFatimid12" text="Facimidzkaja Chudžaryja"/>
+  <string id="E11EricFrance1" text="Francki Zakličnik"/>
+  <string id="E11EricFrance2" text="Francki Kapijnik Rušeńnia"/>
+  <string id="E11EricFrance3" text="Francki Kapijnik-Vieteran Rušeńnia"/>
+  <string id="E11EricFrance4" text="Francki Siaržant-Kapijnik"/>
+  <string id="E11EricFrance5" text="Francki Zastrelnik Rušeńnia"/>
+  <string id="E11EricFrance6" text="Francki Arbaletnik-Vieteran Rušeńnia"/>
+  <string id="E11EricFrance7" text="Francki Arbaletnik-Majstar"/>
+  <string id="E11EricFrance8" text="Francki Siakirnik"/>
+  <string id="E11EricFrance9" text="Francki Siaržant-Miečnik"/>
+  <string id="E11EricFrance10" text="Francki Siaržant"/>
+  <string id="E11EricFrance11" text="Francki Šyvaljer a Pid"/>
+  <string id="E11EricFrance12" text="Francki Šyvaljer"/>
+  <string id="E11EricGermany1" text="Hiermanski Cherrbann"/>
+  <string id="E11EricGermany2" text="Hiermanski Kapijnik Rušeńnia"/>
+  <string id="E11EricGermany3" text="Hiermanski Kapijnik-Vieteran Rušeńnia"/>
+  <string id="E11EricGermany4" text="Hiermanski Siaržant-Kapijnik"/>
+  <string id="E11EricGermany5" text="Hiermanski Zastrelnik Rušeńnia"/>
+  <string id="E11EricGermany6" text="Hiermanski Arbaletnik-Vieteran Rušeńnia"/>
+  <string id="E11EricGermany7" text="Hiermanski Siaržant-Arbaletnik"/>
+  <string id="E11EricGermany8" text="Hiermanski Švabski Miečnik"/>
+  <string id="E11EricGermany9" text="Hiermanski Švabski Konny Miečnik"/>
+  <string id="E11EricGermany10" text="Imperial Kniecht"/>
+  <string id="E11EricGermany11" text="Imperial Ryttar-Abheštajhnar"/>
+  <string id="E11EricGermany12" text="Imperial Ryttar"/>
+  <string id="E11EricHungary1" text="Vuhorski Zakličnik"/>
+  <string id="E11EricHungary2" text="Vuhorski Kapijnik Rušeńnia"/>
+  <string id="E11EricHungary3" text="Vuhorski Kapijnik-Vieteran Rušeńnia"/>
+  <string id="E11EricHungary4" text="Vuhorski Jobadžon-Piachotnik"/>
+  <string id="E11EricHungary5" text="Vuhorski Zastrelnik Rušeńnia"/>
+  <string id="E11EricHungary6" text="Vuhorski Łučnik-Vieteran Rušeńnia"/>
+  <string id="E11EricHungary7" text="Vuhorski Jobadžon-Łučnik"/>
+  <string id="E11EricHungary8" text="Vuhorski Konny Łučnik"/>
+  <string id="E11EricHungary9" text="Vuhorski Konny Łučnik Vieteran"/>
+  <string id="E11EricHungary10" text="Vuhorski Ban"/>
+  <string id="E11EricHungary11" text="Vuhorski Piešy Rycar"/>
+  <string id="E11EricHungary12" text="Vuhorski Rycar"/>
+  <string id="E11EricIrish1" text="Irłandzki Zakličnik"/>
+  <string id="E11EricIrish2" text="Irłandzki Kapijnik Rušeńnia"/>
+  <string id="E11EricIrish3" text="Irłandzki Kapijnik-Vieteran Rušeńnia"/>
+  <string id="E11EricIrish4" text="Irłanda-Dacki Siakirnik"/>
+  <string id="E11EricIrish5" text="Irłandzki Łučnik Rušeńnia"/>
+  <string id="E11EricIrish6" text="Irłandzki Łučnik-Vieteran Rušeńnia"/>
+  <string id="E11EricIrish7" text="Irłandzki Hałłohłach"/>
+  <string id="E11EricIrish8" text="Irłandzki Zastrelnik"/>
+  <string id="E11EricIrish9" text="Irłandzki Vyviednik"/>
+  <string id="E11EricIrish10" text="Irłandzki Chobiełar"/>
+  <string id="E11EricIrish11" text="Irłandzki Piešy Rycar"/>
+  <string id="E11EricIrish12" text="Irłandzki Rycar"/>
+  <string id="E11EricItaly1" text="Italjanski Zakličnik"/>
+  <string id="E11EricItaly2" text="Italjanski Kontadzini-Kapijnik "/>
+  <string id="E11EricItaly3" text="Italjanski Kontadzini Kapijnik Vieteran "/>
+  <string id="E11EricItaly4" text="Italjanski Kapitani-Pikinior"/>
+  <string id="E11EricItaly5" text="Italjanski Saracyn-Łučnik"/>
+  <string id="E11EricItaly6" text="Italjanski Arbaletnik-Vieteran"/>
+  <string id="E11EricItaly7" text="Italjana-Hienueski Arbaletnik"/>
+  <string id="E11EricItaly8" text="Italjanski Lohki Vyviednik"/>
+  <string id="E11EricItaly9" text="Italjana-Normanski Lohki Vieršnik"/>
+  <string id="E11EricItaly10" text="Italjanski Šlachietny Kammjune"/>
+  <string id="E11EricItaly11" text="Italjana-Normanski Piešy Rycar"/>
+  <string id="E11EricItaly12" text="Italjana-Normanski Rycar"/>
+  <string id="E11EricMerc1" text="Armianski Kapijnik"/>
+  <string id="E11EricMerc2" text="Armianski Kapijnik-Vieteran"/>
+  <string id="E11EricMerc3" text="Armianski Šlachietny Vieršnik"/>
+  <string id="E11EricMerc4" text="Brat Ordena Śviatoha Michaiła"/>
+  <string id="E11EricMerc5" text="Siaržant Śviatoha Michaiła"/>
+  <string id="E11EricMerc6" text="Rycar Śviatoha Michaiła"/>
+  <string id="E11EricMerc7" text="Brudar von der Harde des Erzbišofs"/>
+  <string id="E11EricMerc8" text="Kniecht von der Harde des Erzbišofs"/>
+  <string id="E11EricMerc9" text="Ryttar von der Harde des Erzbišofs"/>
+  <string id="E11EricMerc10" text="Łazaryst Brat Ordena"/>
+  <string id="E11EricMerc11" text="Łazaryst Siaržant"/>
+  <string id="E11EricMerc12" text="Łazaryst Rycar"/>
+  <string id="E11EricMerc13" text="Rejdar Kłana Bieduinaŭ"/>
+  <string id="E11EricMerc14" text="Najmit Kłana Bieduinaŭ"/>
+  <string id="E11EricMerc15" text="Vajar Kłana Bieduinaŭ"/>
+  <string id="E11EricMerc16" text="Ŭelski Najmany Kapijnik"/>
+  <string id="E11EricMerc17" text="Ŭelski Najmany Doŭhałučnik"/>
+  <string id="E11EricMerc18" text="Ŭelski Šlachietny Złačynca"/>
+  <string id="E11EricMerc19" text="Hienueski Marak"/>
+  <string id="E11EricMerc20" text="Hienueski Arbaletnik"/>
+  <string id="E11EricMerc21" text="Hienueski Arbaletnik-Čempijon"/>
+  <string id="E11EricMerc22" text="Varah"/>
+  <string id="E11EricMerc23" text="Varaski Najmit"/>
+  <string id="E11EricMerc24" text="Varaski Ciełaachoŭnik"/>
+  <string id="E11EricMerc25" text="Špitaljer Brat Ordena"/>
+  <string id="E11EricMerc26" text="Špitaljer-Siaržant"/>
+  <string id="E11EricMerc27" text="Špitaljer-Rycar"/>
+  <string id="E11EricMerc28" text="Hruzina-Ałanski Najeźnik"/>
+  <string id="E11EricMerc29" text="Hruzina-Ałanski Najeźnik-Vieteran"/>
+  <string id="E11EricMerc30" text="Hruzinski Chaŭrusny Monaspa"/>
+  <string id="E11EricMerc31" text="Danišmendzki Konny Łučnik"/>
+  <string id="E11EricMerc32" text="Danišmendzki Konny Łučnik Vieteran"/>
+  <string id="E11EricMerc33" text="Danišmendzki Konny Łučnik Čempijon"/>
+  <string id="E11EricMerc34" text="Anhła-Saksonski Mieč na Prodaž"/>
+  <string id="E11EricMerc35" text="Anhła-Saksonski Vieteran Mieč na Prodaž"/>
+  <string id="E11EricMerc36" text="Anhła-Saksonski Šlachcič-Vyhnańnik"/>
+  <string id="E11EricMerc37" text="Ŭelski Kapijnik"/>
+  <string id="E11EricMerc38" text="Ŭelski Doŭhałučnik"/>
+  <string id="E11EricMerc39" text="Ŭelski Chaŭrusny Uchielvar"/>
+  <string id="E11EricMerc40" text="Brat Ordena Śviatoha Jakava"/>
+  <string id="E11EricMerc41" text="Siaržant Śviatoha Jakava"/>
+  <string id="E11EricMerc42" text="Rycar Śviatoha Jakava"/>
+  <string id="E11EricMerc43" text="Rućjer Vajskovy Pałonny"/>
+  <string id="E11EricMerc44" text="Rućjer-Najmit"/>
+  <string id="E11EricMerc45" text="Rućjer Najmit Vieteran"/>
+  <string id="E11EricMerc46" text="Najmit Šlachietny Złačynca"/>
+  <string id="E11EricMerc47" text="Ibieryjski Najmit Bidet"/>
+  <string id="E11EricMerc48" text="Ibieryjski Najmit Bidet Vieteran"/>
+  <string id="E11EricMerc49" text="Ibieryjski Elitny Najmit Bidet"/>
+  <string id="E11EricMerc50" text="Arahonski Chinete-Najmit"/>
+  <string id="E11EricMerc51" text="Arahonski Chinete Najmit Vieteran"/>
+  <string id="E11EricMerc52" text="Ŭendski Najmit"/>
+  <string id="E11EricMerc53" text="Ŭendski Najmit-Vieteran"/>
+  <string id="E11EricMerc54" text="Ŭendski Šlachietny-Vyhnańnik"/>
+  <string id="E11EricMerc55" text="Najmit-Arbaletnik"/>
+  <string id="E11EricMerc56" text="Najmit Arbaletnik Vieteran"/>
+  <string id="E11EricNorse1" text="Nardyčny Bondzir"/>
+  <string id="E11EricNorse2" text="Nardyčny Lejhanhr-Kapijnik"/>
+  <string id="E11EricNorse3" text="Nardyčny Lejhanhr Kapijnik Vieteran"/>
+  <string id="E11EricNorse4" text="Nardyčny Siofarar"/>
+  <string id="E11EricNorse5" text="Nardyčny Lejhanhr-Zastrelnik"/>
+  <string id="E11EricNorse6" text="Nardyčny Lejhanhr Biuskit Vieteran"/>
+  <string id="E11EricNorse7" text="Nardyčny Merkismadr"/>
+  <string id="E11EricNorse8" text="Nardyčny Konny Vyviednik"/>
+  <string id="E11EricNorse9" text="Nardyčny Konny Nalotnik"/>
+  <string id="E11EricNorse10" text="Nardyčny Chirdman Jarła"/>
+  <string id="E11EricNorse11" text="Nardyčny Ulfednar"/>
+  <string id="E11EricNorse12" text="Nardyčny Chuskarł Haspadara"/>
+  <string id="E11EricPersian1" text="Sieldžuski Turkmenn"/>
+  <string id="E11EricPersian2" text="Sieldžuski Plamienny Kapijnik"/>
+  <string id="E11EricPersian3" text="Sieldžuski Plamienny Kapijnik-Vieteran"/>
+  <string id="E11EricPersian4" text="Sieldžuski Plamienny Lohki Vieršnik"/>
+  <string id="E11EricPersian5" text="Sieldžuski Plamienny Łučnik"/>
+  <string id="E11EricPersian6" text="Sieldžuski Plamienny Łučnik-Vieteran"/>
+  <string id="E11EricPersian7" text="Sieldžuski Ciažki Łučnik"/>
+  <string id="E11EricPersian8" text="Sieldžuski Konny Łučnik"/>
+  <string id="E11EricPersian9" text="Sieldžuski Konny Łučnik Vieteran"/>
+  <string id="E11EricPersian10" text="Sieldžuski Hchułam Konny Łučnik"/>
+  <string id="E11EricPersian11" text="Sieldžuski Hchułam Ciažki Vieršnik"/>
+  <string id="E11EricPersian12" text="Sieldžuski Hchułam-Askary"/>
+  <string id="E11EricPolish1" text="Polski Zakličnik"/>
+  <string id="E11EricPolish2" text="Polski Siakirnik Rušeńnia"/>
+  <string id="E11EricPolish3" text="Polski Siakirnik-Vieteran Rušeńnia"/>
+  <string id="E11EricPolish4" text="Polski Vłodyka-Piachotnik"/>
+  <string id="E11EricPolish5" text="Polski Zastrelnik Rušeńnia"/>
+  <string id="E11EricPolish6" text="Polski Łučnik-Vieteran Rušeńnia"/>
+  <string id="E11EricPolish7" text="Polski Vłodyka-Łučnik"/>
+  <string id="E11EricPolish8" text="Polski Tarčoŭnicy"/>
+  <string id="E11EricPolish9" text="Polski Tarčoŭnicy-Vieteran"/>
+  <string id="E11EricPolish10" text="Polski Družyńnik"/>
+  <string id="E11EricPolish11" text="Polski Piešy Rycar"/>
+  <string id="E11EricPolish12" text="Polski Rycar"/>
+  <string id="E11EricScottish1" text="Šatłandzki Neyf"/>
+  <string id="E11EricScottish2" text="Šatłandzki Siakirnik Rušeńnia"/>
+  <string id="E11EricScottish3" text="Šatłandzki Kapijnik-Vieteran Rušeńnia"/>
+  <string id="E11EricScottish4" text="Šatłandzki Horny Kapijnik"/>
+  <string id="E11EricScottish5" text="Šatłandzki Zastrelnik Rušeńnia"/>
+  <string id="E11EricScottish6" text="Šatłandzki Łučnik-Vieteran Rušeńnia"/>
+  <string id="E11EricScottish7" text="Šatłandzki Horny Łučnik"/>
+  <string id="E11EricScottish8" text="Šatłandzki Čałaviek Vyspaŭ"/>
+  <string id="E11EricScottish9" text="Šatłandzki Čałaviek Vyspaŭ Vieteran"/>
+  <string id="E11EricScottish10" text="Šatłandzki Lohki Vieršnik"/>
+  <string id="E11EricScottish11" text="Šatłandzki Piešy Rycar"/>
+  <string id="E11EricScottish12" text="Šatłandzki Rycar"/>
+  <string id="E11EricSlavic1" text="Ruśki Zadružny Zakličnik"/>
+  <string id="E11EricSlavic2" text="Ruśki Zadružny Kapijnik"/>
+  <string id="E11EricSlavic3" text="Ruśki Zadružny Kapijnik-Vieteran"/>
+  <string id="E11EricSlavic4" text="Ruśki Zadružny Siakirnik-Vieteran"/>
+  <string id="E11EricSlavic5" text="Ruśki Pałkavy Łučnik"/>
+  <string id="E11EricSlavic6" text="Ruśki Pałkavy Łučnik-Vieteran "/>
+  <string id="E11EricSlavic7" text="Ruśki Viaskovy Łučnik"/>
+  <string id="E11EricSlavic8" text="Ruśki Chaŭrusny Pałaviecki Końnik"/>
+  <string id="E11EricSlavic9" text="Ruśki Chaŭrusny Pałaviecki Końnik-Vieteran"/>
+  <string id="E11EricSlavic10" text="Ruśki Otrak"/>
+  <string id="E11EricSlavic11" text="Ruśki Hryd"/>
+  <string id="E11EricSlavic12" text="Ruśki Bajaryn"/>
+  <string id="E11EricSpanish1" text="Hišpanski Pionis"/>
+  <string id="E11EricSpanish2" text="Hišpanski Kapijnik Rušeńnia"/>
+  <string id="E11EricSpanish3" text="Hišpanski Kapijnik-Vieteran Rušeńnia"/>
+  <string id="E11EricSpanish4" text="Hišpanski Braniavany Piachotnik"/>
+  <string id="E11EricSpanish5" text="Hišpanski Siakirnik Rušeńnia"/>
+  <string id="E11EricSpanish6" text="Hišpanski Arbaletnik-Vieteran Rušeńnia"/>
+  <string id="E11EricSpanish7" text="Hišpanski Ballestera"/>
+  <string id="E11EricSpanish8" text="Ibieryjski Bidet"/>
+  <string id="E11EricSpanish9" text="Arahonski Džynit"/>
+  <string id="E11EricSpanish10" text="Ibieryjski Lohki Vieršnik"/>
+  <string id="E11EricSpanish11" text="Ibieryjski Piešy Šlachcič"/>
+  <string id="E11EricSpanish12" text="Ibieryjski Šlachcič"/>
+ </strings>
 </base>
