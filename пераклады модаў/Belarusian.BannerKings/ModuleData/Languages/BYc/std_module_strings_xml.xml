@@ -46,7 +46,7 @@
     <string id="YjtnRj9r" text="Клан {NEW} быў сфармаваны {HERO}, былым рыцарам {ORIGINAL}." />
     <string id="NeMhiUW8" text="Ровень вашага клана мусіць быць прынамсі {TIER}." />
     <string id="gM4TtJCf" text="Каб дараваць рыцарства, вы мусіце быць фармальнай часткай гаспадарства." />
-    <string id="vNwX2dhL" text="Вы не валодаеце ніякім легальным тытулам." />
+    <string id="vNwX2dhL" text="Вы не валодаеце ніякім законным тытулам." />
     <string id="rFXuWbdQ" text="Дараваньне рыцарства патрабуе {INFLUENCE} уплыву для легамітаваньня вашага новага васала.{newline}{EXPLANATIONS}" />
     <string id="hN2Eynzu" text="Дараваньне рыцарства патрабуе {GOLD} золата, каб даць вашаму васалу фінансавую бясьпеку." />
     <string id="3Ug0Pp5p" text="{RESULT}{newline}{DESCRIPTION}" />
@@ -136,51 +136,51 @@
     <string id="Eu97WkgX" text="{RELIGION} - набожнасьць {PIETY}" />
     <string id="VrzR1ZzZ" text="Вашая вера" />
     <string id="ASWWGeQ3" text="Вы глядзіце на неба і разумееце, што мусіць існаваць нешта большае. Вы адчуваеце, што вінны мець вышэйшую мэту, і людзі чакаюць ад вас абарону пэўнай веры. Абарона веры сваіх культурных продкаў лічыцца вельмі набожнай. Гэтак жа, спавяданьне веры вашай культуры лічыцца набожным, але ня так моцна як веры сапраўдных продкаў. Альтэрнатыўна, прыняцьце зусім іншай веры магчыма, але гэта менш топтаны шлях. Якая ваша вера?" />
-    <string id="purf5QPz" text="{HERO} has recieved {PIETY} piety." />
-    <string id="AyXDhK2V" text="The {CLAN} has knighted {KNIGHT}." />
-    <string id="xEOemRjF" text="{CLAIMANT} is building a claim on your title, {TITLE}." />
-    <string id="D50E4DZk" text="{REVOKER} has revoked the {TITLE}." />
-    <string id="dFTm4AbE" text="The {TITLE} has been founded by {FOUNDER}." />
-    <string id="c9RCCv20" text="{USURPER} has usurped the {TITLE}." />
-    <string id="ZAjBRwSY" text="{USURPER} has usurped your title, {TITLE}." />
-    <string id="KkbAZK46" text="Fluent" />
-    <string id="Zwkc1Qbx" text="Capable" />
-    <string id="oJCm9gDS" text="Novice" />
-    <string id="DAp3eXTr" text="Incompetent" />
-    <string id="x5cTibqS" text="Monotheism" />
-    <string id="FUnQKZ8K" text="Polytheism" />
-    <string id="jxXHurYn" text="You do not currently adhere to any faith" />
-    <string id="hK6ZeAcC" text="You are following the {FAITH} faith" />
-    <string id="d4p6yHON" text="Grant this title away to {RECEIVER}, making them the legal owner of it. If the receiver is in your kingdom and the title is landed (attached to a fief), they will also receive the direct ownership of that fief and it's revenue. Granting a title provides positive relations with the receiver." />
-    <string id="dugq4xHo" text="Grant" />
-    <string id="hzwZeQyE" text="Select a lord who you would like to grant this title to." />
-    <string id="2kxQvCVb" text="Revoking transfers the legal ownership of a vassal's title to the suzerain. The revoking restrictions are associated with the title's government type." />
-    <string id="iLpAKttu" text="Revoke" />
-    <string id="BSX8rvCS" text="Claiming this title sets a legal precedence for you to legally own it, thus allowing it to be usurped. A claim takes 1 year to build. Claims last until they are pressed or until it's owner dies." />
-    <string id="6hY9WysN" text="Claim" />
-    <string id="6cxTA139" text="Press your claim and usurp this title from it's owner, making you the lawful ruler of this title. Usurping from lords within your kingdom degrades your clan's reputation." />
-    <string id="L3Jzg76z" text="Usurp" />
-    <string id="dcDs5auK" text="Request your liege to grant you this position in the council. This action will cost {INFLUENCE} influence.{newline}{newline}{ACCEPT}" />
-    <string id="ZYyxmOv9" text="Request" />
-    <string id="yYVE3O3p" text="Relinquish your position in the council. It will cost no influence and exempt you of any council privileges.{newline}{newline}{ACCEPT}" />
-    <string id="uUmEcuV8" text="Age" />
-    <string id="J6oPqQmt" text="Settlement" />
-    <string id="C99O2rGX" text="De Jure Drifts" />
-    <string id="qODLryGe" text="{PERCENTAGE} complete." />
-    <string id="CW56ko9B" text="{DAYS} days left to build claim." />
-    <string id="nFcAkRcD" text="Possible Claimants" />
-    <string id="NOYOqKSV" text="Previous title owner" />
-    <string id="0KERfXox" text="Fabricated claim" />
-    <string id="n4LgwLxB" text="Reason" />
-    <string id="7rA02JY3" text="{GOLD} coins." />
-    <string id="EkFaisgP" text="Influence" />
-    <string id="bqXrF5SC" text="{INFLUENCE} influence." />
-    <string id="bW8pmr9u" text="{RENOWN} renown." />
-    <string id="RMUyXy4e" text="Competence" />
-    <string id="fTKqtNxB" text="Learning Limit" />
-    <string id="Z8ZfKuSX" text="An Imperial government is a highly centralized one. Policies favor the ruling clan at the expense of vassals. A strong leadership that sees it's vassals more as administrators than lords." />
-    <string id="mWKXYs2o" text="The Tribal association is the most descentralized government. Policies to favor the ruling clan are unwelcome, and every lord is a 'king' or 'queen' in their own right." />
-    <string id="v3KydG7F" text="Republics are firmly setup to avoid the accumulation of power. Every clan is given a chance to rule, and though are able to have a few political advantages, the state is always the priority." />
+    <string id="purf5QPz" text="Герой {HERO} атрымаў {PIETY} набожнасьці." />
+    <string id="AyXDhK2V" text="Клан {CLAN} пасьвечаны ў рыцары {KNIGHT}." />
+    <string id="xEOemRjF" text="{CLAIMANT} выстаўляе прэтэнзіі на вашы тытул, {TITLE}." />
+    <string id="D50E4DZk" text="{REVOKER} адклікае {TITLE}." />
+    <string id="dFTm4AbE" text="{FOUNDER} атрымлівае {TITLE}." />
+    <string id="c9RCCv20" text="{USURPER} узурпуе {TITLE}." />
+    <string id="ZAjBRwSY" text="{USURPER} узурпуе вашы тытул, {TITLE}." />
+    <string id="KkbAZK46" text="Вольны" />
+    <string id="Zwkc1Qbx" text="Здольны" />
+    <string id="oJCm9gDS" text="Навік" />
+    <string id="DAp3eXTr" text="Некампетэнтны" />
+    <string id="x5cTibqS" text="Монатэізм" />
+    <string id="FUnQKZ8K" text="Політэізм" />
+    <string id="jxXHurYn" text="Зараз вы не вызнаёце аніякай веры" />
+    <string id="hK6ZeAcC" text="Вы спавядаеце веру {FAITH}" />
+    <string id="d4p6yHON" text="Дараваньне гэтага тытулу {RECEIVER}, зробе атрымальніка законным уласьнікам. Калі атрымальнік знаходзіцца ў вашым гаспадарстве ды тытул з'яўляецца зямельным (далучаны да воласьці), атрымальнік таксама атрымае непасрэднае права ўласнасьці на гытую воласьць і яе прыбыткі. Дараваньне тытулу забясьпечыць добрыя адносіны з атрымальнікам." />
+    <string id="dugq4xHo" text="Дараваць" />
+    <string id="hzwZeQyE" text="Абярыце шляхту, якой жадаеце дараваць гэты тытул." />
+    <string id="2kxQvCVb" text="Адкліканьне перадае законнае права ўласнасьці на тытул сюзэрэну васала. Абмежаваньні адкліканьня зьвязаны з тыпам тытулу ўраду." />
+    <string id="iLpAKttu" text="Адклікаць" />
+    <string id="BSX8rvCS" text="Прэтэндаваньне на гэты тытул стварае законны прэцэдэнт на законнае валоданьне, таксама дазваляе ўзурпаваньне. На стварэньне прэтэнзіі патрабуецца 1 год. Прэтэнзіі існуюць да моманту зьняцьця ці сьмерці прэтэнзента." />
+    <string id="6hY9WysN" text="Прэтэндаваць" />
+    <string id="6cxTA139" text="Зьняцьцё вашых прэтэнзіяў і ўзурпаваньне гэтага тытулу ў яго ўласьніка, робіць вас законным валадаром гэтага тытулу. Узурпаваньне тытулу ў шляхты гаспадарства сапсуе рэпутацыю вашага клану." />
+    <string id="L3Jzg76z" text="Узурпаваць" />
+    <string id="dcDs5auK" text="Запытаць гэтую пазіцыю ў вашага сюзэрэна на радзе. Гэтае дзеяньне будзе каштаваць {INFLUENCE} уплыву.{newline}{newline}{ACCEPT}" />
+    <string id="ZYyxmOv9" text="Запытаць" />
+    <string id="yYVE3O3p" text="Адмовіцца ад вашай пазіцыі ў радзе. Гэта ня будзе каштаваць вам уплыву і пазбаўле вас ад усіх прывілеяў рады.{newline}{newline}{ACCEPT}" />
+    <string id="uUmEcuV8" text="Узрост" />
+    <string id="J6oPqQmt" text="Селішча" />
+    <string id="C99O2rGX" text="Зьмены Дэ Юрэ" />
+    <string id="qODLryGe" text="{PERCENTAGE} выкананьня." />
+    <string id="CW56ko9B" text="{DAYS} засталося дзён на будаваньне прэтэнзіі." />
+    <string id="nFcAkRcD" text="Магчымыя Прэтэнзенты" />
+    <string id="NOYOqKSV" text="Папярэдні ўласьнік тытулу" />
+    <string id="0KERfXox" text="Сфабрыкаваная прэтэнзія" />
+    <string id="n4LgwLxB" text="Нагода" />
+    <string id="7rA02JY3" text="{GOLD} золата." />
+    <string id="EkFaisgP" text="Уплыў" />
+    <string id="bqXrF5SC" text="{INFLUENCE} уплыва." />
+    <string id="bW8pmr9u" text="{RENOWN} вядомасьці." />
+    <string id="RMUyXy4e" text="Кампетэнцыя" />
+    <string id="fTKqtNxB" text="Мяжа Вывучэньня" />
+    <string id="Z8ZfKuSX" text="Імперскі ўрад высокацэнтралізаваны. Палітыкі спрыяюць гаспадарчаму клану за кошт васалаў. Моцная ўлада хутчэй разглядае сваіх васалаў у якасьці адміністратараў, а ня шляхты." />
+    <string id="mWKXYs2o" text="Пляменны хаўрус- самы дэцэнтралізаваны ўрад. Палітыкі спрыяльныя гаспадарчаму кланы непажаданыя, кожны шляхціч гэта 'гаспадар' ці 'гаспадарыня' ў сваім уласным праве." />
+    <string id="v3KydG7F" text="Рэспубліканцы жорстка наладжаны на пазьбяганьне назапшаваньня моцы. Кожнаму клану даецца шанец гаспадарыць, хаця яны могуць мець палітычныя перавагі, гаспадарства заўжды з'яўляецца прыярытэтам." />
     <string id="3bJSgTAD" text="Feudal societies can be seen as the midway between tribals and imperials. Although the ruling clan accumulates privileges, and often cannot be easily removed from the throne, lords and their rightful property need to be respected." />
     <string id="YSZYZZUw" text="In elective monarchies, the ruler is chosen from the realm's dynasties, and rules until death or abdication. Elections take place and all dynasties are able to vote when a new leader is required." />
     <string id="9EjsMFJx" text="In hereditary monarchies, the monarch is always the ruling dynasty's leader. No election takes place, and the realm does not change leadership without extraordinary measures." />
