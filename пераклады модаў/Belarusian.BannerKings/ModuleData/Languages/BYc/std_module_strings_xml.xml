@@ -272,25 +272,25 @@
     <string id="c6ggHVzS" text="Графства" />
     <string id="qOLmvS0B" text="Баронства" />
     <string id="dwMA32rq" text="Шляхецтва" />
-    <string id="0VSP2ghD" text="Прыгоднік" />
-    <string id="wTcCEBLB" text="A free spirit, you are roaming the continent without constraints, or a clear objective. The world is for the taking, will you take your share?" />
-    <string id="2fcEecjz" text="Vanilla start. No troops, goods or any benefits." />
-    <string id="2VoYzCNj" text="Indebted Lord" />
-    <string id="P1rwCkZJ" text="After a series of inherited problems and bad decisions, you find yourself in debt. Thankfuly, you are a landed lord, with income from your Lordship. A food supply and a small retinue accompany you, though their loyalty will be tested by the lack of denars..." />
-    <string id="kLHXZnLY" text="Mercenary" />
-    <string id="wcWg3KPt" text="You serve as a free mercenary company, roaming around the continent in search of employment. After a long period of joblessness, you find your company in the verge of collapse, with little morale, food and finances." />
-    <string id="G2yNVZ9R" text="Start with a mercenary band, in desperate need for plundering gold and food. Party morale reduced for 5 years. Mercenary lifestyle is kickstarted as part of your education." />
-    <string id="GTYYnH9E" text="Outlaw" />
-    <string id="YLxp50Ln" text="Lacking in morals, you assemble a party of like-minded brigands, making a living out stealing and plundering. Your efforts, however, have not gone unnoticed by the local authorities." />
-    <string id="rSAjO3Qg" text="Start with a outlaw band, in desperate need for plundering gold and food. Criminal rating does not reduce for 5 years. Outlaw lifestyle is kickstarted as part of your education." />
-    <string id="2FW79uHM" text="Robbed Caravaneer" />
-    <string id="L1QFOwvp" text="Your caravan has been recently harassed by criminals - most of your belongings are lost, and certainly all your denars. A few goods, mules and wounded soldiers remain." />
-    <string id="dSJsWjyR" text="Start with a wounded caravan, some food, mules and goods. Party speed is reduced by 5% for 5 years. Caravaneer lifestyle is kickstarted as part of your education." />
-    <string id="rLgCZZDO" text="You improved relations with {HERO} due to {PERK} lifestyle perk." />
-    <string id="gVG6uhKS" text="Foreigners that refuse to assimilate will be gradually forced to leave the settlement" />
-    <string id="RERzNEww" text="Ban foreigners" />
-    <string id="yCCWQP3b" text="Extend exemptions to artisans and guilds, improving their output efficiency while decreasing state revenue." />
-    <string id="OdpuFusm" text="Encourage mercantilism" />
+    <string id="0VSP2ghD" text="{?PLAYER.GENDER}Прыгодніца{?}Прыгоднік{\?}" />
+    <string id="wTcCEBLB" text="Вольны дух, вы вандруеце па кантыненце без абмежаваньняў і выразнай мэты. Сьвет належыць вам, ці возьмеце вы сваю долю?" />
+    <string id="2fcEecjz" text="Ванільны старт. Без ваяроў, тавараў ці хоць якіх пераваг." />
+    <string id="2VoYzCNj" text="{?PLAYER.GENDER}Шляхцянка{?}Шляхціч{\?} з Пазыкамі" />
+    <string id="P1rwCkZJ" text="Пасьля шэрага спадкаемных праблемаў і няслушных вынахадаў вы апынуліся ў пазыках. На шчасьце, вы з'яўляецеся {?PLAYER.GENDER}землеўласніцай{?}землеўласнікам{\?} і атрымліваеце прыбытак ад свайго Шляхецтва. Вас суправаджае маленькая сьвіта, вы маеце ежу, хаця вернасьць сьвіты спраўдзіць нястача дэнараў..." />
+    <string id="kLHXZnLY" text="{?PLAYER.GENDER}Наймітка{?}Найміт{\?}" />
+    <string id="wcWg3KPt" text="Вы служыце ў кампаніі вольных наймітаў, туляецеся па кантыненце ў пошуках працы. Пасьля доўгага перыяду беспрацоўі вы выяўляеце, што вашая кампанія знаходзіцца на мяжы краху, з нізкай маральлю, ежай і фінансамі." />
+    <string id="G2yNVZ9R" text="Старт з бандай наймітаў, якой роспачна патрабуецца золата і ежа. Мараль партыі зьніжана цягам 5 гадоў. Лад жыцьця {?PLAYER.GENDER}найміткі{?}найміта{\?} дае пачатак вашай адукацыі." />
+    <string id="GTYYnH9E" text="{?PLAYER.GENDER}Злачынка{?}Злачынец{\?}" />
+    <string id="YLxp50Ln" text="{?PLAYER.GENDER}Пазбаўленая{?}Пазбаўлены{\?} маралі, вы зьбіраеце партыю аднадумцаў-грабежнікай, зарабляючы на жыцьцё крадзяжом і рабаваньнямі. Аднак вашыя высілкі не засталіся незаўважнымі для мясцовай улады." />
+    <string id="rSAjO3Qg" text="Старт з бандай грабежнікаў, якой роспачна патрабуецца золата і ежа. Крымінальны рэйтынг не зьніжаецца цягам 5 гадоў. Лад жыцьця {?PLAYER.GENDER}злачынкі{?}злачынеца{\?} дае пачатак вашай адукацыі." />
+    <string id="2FW79uHM" text="{?PLAYER.GENDER}Абрабаваная Караваньніца{?}Абрабаваны Караваньнік{\?}" />
+    <string id="L1QFOwvp" text="Нядаўна на вашы караван напалі злачынцы. Большая частка вашых тавараў страчана, вядома, разам з вашымі дэнарамі. У вас засталося трохі тавараў, мулаў і параненых ваяроў." />
+    <string id="dSJsWjyR" text="Старт з параненым караванам, ежай, муламі і таварамі. Хуткасьць партыі зьніжана на 5% цягам 5 гадоў. Лад жыцьця {?PLAYER.GENDER}караваньніцы{?}караваньніка{\?} дае пачатак вашай адукацыі." />
+    <string id="rLgCZZDO" text="Вы палепшылі свае адносіны з {HERO} дзякуючы пераваге лада жыцьця {PERK}." />
+    <string id="gVG6uhKS" text="Замежнікі, што адказваюцца асімілявацца, будуць паступова вымушаны пакінуць селішча" />
+    <string id="RERzNEww" text="Забараніць замежнікаў" />
+    <string id="yCCWQP3b" text="Пашырэньне палёгак для рамесьнікаў і гільдыяў, павышае эфектыўнасьць іх вытворчасьці і адначасна зьніжае прыбытак гаспадарства." />
+    <string id="OdpuFusm" text="Заахвочваць меркантылізм" />
     <string id="xngDTGdf" text="Encourage able-bodied men to join the active militia force" />
     <string id="sOQrvQc9" text="Encourage militia" />
     <string id="zsQgCCoS" text="Exempt merchants from tariffs, reducing prices and attracting caravans" />
