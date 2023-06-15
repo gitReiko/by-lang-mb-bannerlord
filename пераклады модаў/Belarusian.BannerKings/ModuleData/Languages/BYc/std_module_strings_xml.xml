@@ -110,8 +110,8 @@
     <string id="UyQA2wzu" text="Служыць вартаўніком" />
     <string id="6OJTPxY0" text="Рыхтаваць варту" />
     <string id="PQSzdrkg" text="Паляваць" />
-    <string id="agYwzCm1" text="Кіраваньне гаспадарствам" />
-    <string id="sSyB0ovj" text="Іерархія гаспадарства" />
+    <string id="agYwzCm1" text="Кіраваньне даменам" />
+    <string id="sSyB0ovj" text="Іерархія даменаў" />
     <string id="m5mzZkkS" text="{RELIGION_NAME}" />
     <string id="sywChwxo" text="{GUILD_NAME}" />
     <string id="NtkWYD54" text="Ажыцявіць дзеяньне" />
@@ -350,7 +350,7 @@
     <string id="DgTSOSYQ" text="Гісторыя Кальрадыйскага Лука{@Plural}збор кніг Гісторыя Кальрадыйскага Лука{\\@}" />
     <string id="5v2oKnX6" text="Дэбаты Лайкарана 1074г.{@Plural}збор кніг Дэбаты Лайкарана 1074г.{\\@}" />
     <string id="3UAFVNOE" text="Прывілеяванае Рыцарства" />
-    <string id="c9Cwm6Ek" text="Рыцары, культура якіх адрозьніваецца ад культуры гаспадарства, болей ня будуць прымацца. Рыцары, што маюць родную культуру гаспадарства, будуць атрымліваць  адмысловую дзесяціну на дапамогу ўтрыманьня іх сьвіты." />
+    <string id="c9Cwm6Ek" text="Рыцары, культура якіх адрозьніваецца ад культуры гаспадарства, болей ня будуць прымацца. Рыцары, што маюць родную культуру дамена, будуць атрымліваць  адмысловую дзесяціну на дапамогу ўтрыманьня іх сьвіты." />
     <string id="9TThCFw6" text="абмежаваньне рыцарства толькі культурнымі нашчадкамі" />
     <string id="FrBNgywz" text="Культурнае абмежаваньне рыцарства{newline}Шляхта рыцарскага рангу атрымлівае 10% дадатковы прыбытак" />
     <string id="mLktnT01" text="Прывілей Абмежаваньня Войскаў" />
@@ -370,79 +370,79 @@
     <string id="fxuVYTrJ" text="Павялічвае вашую шкоду двухручнай зброяй на 10%." />
     <string id="M9R9NkrP" text="Грамадзянскі Інжынер" />
     <string id="8AmeeiL0" text="Прадукцыйнасьць працоўнай моцы павялічана на 20%." />
-    <string id="phRxxa8X" text="Cultivator" />
-    <string id="EH3ExMr9" text="Agricultural yield increases by flat 5%." />
-    <string id="Z2cPBwOj" text="Village hearth growth increases by 1." />
-    <string id="DZXXrNon" text="Overseer" />
-    <string id="zaVqT3bv" text="Stability increases by flat 5%." />
-    <string id="wBqTCqgx" text="Increases infrastructure limit by flat 5." />
-    <string id="UmFnG5z2" text="Manufacturer" />
-    <string id="UruYDkr2" text="Production efficiency increases by flat 15%." />
-    <string id="eQQW0Brf" text="Production quality increases by flat 10%." />
-    <string id="brd9F4gY" text="Siege Engineer" />
-    <string id="2jDEHBg3" text="Get a pre-built ballista as attacker during siege." />
-    <string id="mcVnKCsL" text="Damage to walls increased by 10% during siege." />
-    <string id="VyzxZL7T" text="Siege Planner" />
-    <string id="5jMZb0xZ" text="Ranged infantry deals 15% more damage in siege simulations." />
-    <string id="KWfdgmuc" text="Wall hit points are increased by 25%." />
-    <string id="tWvXqDWY" text="Siege Overseer" />
-    <string id="9SoSFu8s" text="Army consumes 15% less food during sieges, either attacking or defending." />
-    <string id="nvJhzGbv" text="Camp preparation is 20% faster." />
-    <string id="q6cxgOou" text="Commander" />
-    <string id="DWEDZjn1" text="Increases your party size by 5." />
-    <string id="OxaKMeUa" text="Increases party morale by flat 3%." />
-    <string id="Yy1wcNon" text="De Facto" />
-    <string id="o4Ptq4SC" text="Randomly receive positive relations with a councillour." />
-    <string id="HRUBrSjM" text="De Jure" />
-    <string id="nBZtX2R0" text="Demesne limit increased by 1." />
-    <string id="tbJa33Qp" text="Title actions cost / yield 5% less / more denarii and influence." />
-    <string id="6pfSPkvd" text="King of Kings" />
-    <string id="fyoL3m5n" text="If king level or higher, increase vassal limit by 2." />
-    <string id="aeGjJJZw" text="If king level or higher, increase unlanded demesne limit by 1." />
-    <string id="oYAOv2KP" text="Equites" />
-    <string id="BpFCxR6C" text="You and troops in your formation deal 10% more charge damage." />
-    <string id="R5NiPF7H" text="Mounted troops cost 10% less denarii maintenance." />
-    <string id="gg9Yxqfy" text="Adaptive Tactics" />
-    <string id="Pup1khtn" text="Increased damage on horseback with polearms, sidearms and bows by 5%." />
-    <string id="oYKOf3zK" text="You and troops in your formation have 8% more maneuvering." />
-    <string id="iETO50gi" text="Klibanophori" />
-    <string id="a2sO3wbW" text="You and troops in your formation receive 5% less damange when mounted." />
-    <string id="JSxDnFbu" text="You and troops in your formation deal 6% extra thrust damage when mounted." />
-    <string id="Nk505umn" text="Strider" />
-    <string id="s0zsXS2Z" text="Increases your movement speed by 3%." />
-    <string id="NGas0eu2" text="Increases carry capacity of pack animals by 20%." />
-    <string id="6yEOGwgd" text="Dealer" />
-    <string id="njAV5qnr" text="Caravan wages are reduced by 10%." />
-    <string id="REgC6u81" text="Your caravans move 4% faster during daytime." />
-    <string id="ZX0fpu3t" text="Outside Connections" />
-    <string id="0C3HpYf5" text="Your caravans have 5% less trade penalty." />
-    <string id="TWFxSheh" text="Randomly gain relations with merchants where your caravans trade." />
-    <string id="etbv7s6N" text="Smith" />
-    <string id="zOzu5By2" text="Crafting items costs 10% less energy." />
-    <string id="iktjoMi1" text="Craftsman" />
-    <string id="3TB6TJvJ" text="Your workshops have 5% increase in production quality." />
-    <string id="GqTajw9S" text="You are 5% more likely to craft an item with a better modifier." />
-    <string id="hNHACmv9" text="Entrepeneur" />
-    <string id="qiMW8Wio" text="Increased settlement production efficiency by flat 10%." />
-    <string id="p70n92jh" text="You pay 20% less workshop taxes to other clans. Your settlements tax others' workshops 20% more." />
-    <string id="fWwFLnTw" text="Kidnapper" />
-    <string id="kbBbDiyR" text="30% better deals reansoming lords." />
-    <string id="hBQu6YKu" text="Decreases the duration of the disorganized state after breaking sieges and raids by 30%." />
-    <string id="Gqvm5XTq" text="Infamous Plunderer" />
-    <string id="njer0pyD" text="Bandit troops in your party yield influence." />
-    <string id="PawhUHjG" text="Raiding villages is 15% faster." />
-    <string id="JjE7nzmH" text="Night Predator" />
-    <string id="MB9f1s0O" text="Your party is 50% harder to spot in forests." />
-    <string id="HWydDHb3" text="Increased nighttime movement by 6%." />
-    <string id="OMefnnZ9" text="Underworld King" />
-    <string id="GpcWSVCy" text="Killing bandit leaders yields renown." />
-    <string id="8XeyqTNh" text="Local Connections" />
-    <string id="jhZ8TFCB" text="While serving as mercenary, gain the ability to recruit from local minor factions in towns." />
-    <string id="JMubUFej" text="Recruiting mercenary troops is 10% cheaper." />
-    <string id="n9ZMPe6w" text="Ransacker" />
-    <string id="TAfrnnO4" text="Gain 10% more share of loot in victories." />
-    <string id="976FNbqA" text="Famous Sellswords" />
-    <string id="35Mq4ASE" text="Renown award for victories increased by 20%." />
+    <string id="phRxxa8X" text="Культыватар" />
+    <string id="EH3ExMr9" text="Павялічвае ўраджайнасьць агракультур на 5%." />
+    <string id="Z2cPBwOj" text="Узрост дымоў вёсак павялічаны на 1." />
+    <string id="DZXXrNon" text="Наглядаты" />
+    <string id="zaVqT3bv" text="Павялічвае стабільнасьць на 5%." />
+    <string id="wBqTCqgx" text="Павялічвае ліміт інфраструктуры на 5." />
+    <string id="UmFnG5z2" text="Мануфактар" />
+    <string id="UruYDkr2" text="Павялічвае эфектыўнасьць вытворчасьці на 15%." />
+    <string id="eQQW0Brf" text="Павялічвае якасьць прадукцыі на 10%." />
+    <string id="brd9F4gY" text="Абложны Інжынер" />
+    <string id="2jDEHBg3" text="Дае папярэдне пабудаваную балісту падчас аблогі-атакі." />
+    <string id="mcVnKCsL" text="Шкода па сьценах павялічана на 10% падчас аблогі." />
+    <string id="VyzxZL7T" text="Планавальнік Аблогі" />
+    <string id="5jMZb0xZ" text="Пяхота далёкага бою наносіць на 10% болей шкоды падчас сімуляцыяў аблогі." />
+    <string id="KWfdgmuc" text="Ачкі ўдару сьценаў павялічаны на 25%." />
+    <string id="tWvXqDWY" text="Нагляднік Аблогі" />
+    <string id="9SoSFu8s" text="Войска спажывае на 15% меней ежы падчас аблогаў, як на боку атакі, гэтак і на боку абароны." />
+    <string id="nvJhzGbv" text="Рыхтаваньне лагера паскорана на 20%." />
+    <string id="q6cxgOou" text="Камандзір" />
+    <string id="DWEDZjn1" text="Павялічвае памер вашай партыі на 5." />
+    <string id="OxaKMeUa" text="Павялічвае мараль партыі на 3%." />
+    <string id="Yy1wcNon" text="Дэ Факта" />
+    <string id="o4Ptq4SC" text="Паляпшае адносіны з выпадковым дарадцам." />
+    <string id="HRUBrSjM" text="Дэ Юрэ" />
+    <string id="nBZtX2R0" text="Ліміт даменаў павялічаны на 1." />
+    <string id="tbJa33Qp" text="Кошты / прыбыткі за тытулы зьменшаны / павялічаны на 5% у дэнарах і ўплыве." />
+    <string id="6pfSPkvd" text="Гаспадар Гаспадароў" />
+    <string id="fyoL3m5n" text="Калі ровень гаспадар ці вышэйшы, павялічвае ліміт васалаў на 2." />
+    <string id="aeGjJJZw" text="Калі ровень гаспадар ці вышэйшы, павялічвае ліміт беззямельных даменаў на 1." />
+    <string id="oYAOv2KP" text="Эквайты" />
+    <string id="BpFCxR6C" text="Вы і вашыя ваяры ў пабудовах наносяць на 10% болей шкоды напору." />
+    <string id="R5NiPF7H" text="Утрыманьне конных ваяроў каштуе на 10% меней дэнараў." />
+    <string id="gg9Yxqfy" text="Адаптыўная Тактыка" />
+    <string id="Pup1khtn" text="Павялічвае конную шкоду лукаў, тронкавай і бокавай зброі на 5%." />
+    <string id="oYKOf3zK" text="Манеўранасьць вас і вашых пабудоваў павялічана на 8%." />
+    <string id="iETO50gi" text="Клібанафоры" />
+    <string id="a2sO3wbW" text="Вы і ваяры ў вашай пабудове атрымліваюць на 5% меней шкоды, калі знаходзяцца на кані." />
+    <string id="JSxDnFbu" text="Вы і ваяры ў вашых пабудовах наносяць на 6% болей колючай шкоды, калі знаходзяцца на кані." />
+    <string id="Nk505umn" text="Падарожнік" />
+    <string id="s0zsXS2Z" text="Павялічвае вашую хуткасьць руху на 3%." />
+    <string id="NGas0eu2" text="Павялічвае грузападымальнасць клуначных жывёлпаў на 20%." />
+    <string id="6yEOGwgd" text="Спраўнік" />
+    <string id="njAV5qnr" text="Выдаткі на караваны зьніжаны на 10%." />
+    <string id="REgC6u81" text="Вашыя караваны рушаць на 4% хутчэй удзень." />
+    <string id="ZX0fpu3t" text="Вонкавыя Сувязі" />
+    <string id="0C3HpYf5" text="Вашыя караваны маюць зьніжаны на 5% штраф гандлю." />
+    <string id="TWFxSheh" text="Дае адносіны з выпадковымі гандялрамі, зь якімі гандлююць вашыя караваны." />
+    <string id="etbv7s6N" text="Каваль" />
+    <string id="zOzu5By2" text="Кошт энергіі на стварэньне прадметаў зьніжаны на 10%." />
+    <string id="iktjoMi1" text="Рамесьнік" />
+    <string id="3TB6TJvJ" text="Якасьць прадукцыі вашых майстэрняў павялічана на 5%." />
+    <string id="GqTajw9S" text="Верагоднасьць стварэньня прадметаў з лепшымі мадыфікатарамі павялічана на 5%." />
+    <string id="hNHACmv9" text="Прадпрымальнік" />
+    <string id="qiMW8Wio" text="Павялічвае вытворчасьць селішчаў на 10%." />
+    <string id="p70n92jh" text="Вы плаціце на 20% меней падаткаў за майстэрні іншым кланам. Падаткі вашых селішчаў для чужых майстэрняў павялічаны на 20%." />
+    <string id="fWwFLnTw" text="Выкрадальнік" />
+    <string id="kbBbDiyR" text="Паляпшае прапановы выкупу шляхты на 30%." />
+    <string id="hBQu6YKu" text="Зьмяншае працягласьць стану дэзарганізацыі пасьля аблогаў і грабяжоў на 30%." />
+    <string id="Gqvm5XTq" text="Ганебны Рабаўнік" />
+    <string id="njer0pyD" text="Ваяры-бандыты ў вашай партыі прыносяць уплыў." />
+    <string id="PawhUHjG" text="Грабежніцтва вёсак паскорана на 15%." />
+    <string id="JjE7nzmH" text="Начны Драпежнік" />
+    <string id="MB9f1s0O" text="Вашую партыю складаней заўважыць ў лесе на 50%." />
+    <string id="HWydDHb3" text="Павялічвае хуткасьць руху ноччу на 6%." />
+    <string id="OMefnnZ9" text="Злачынны Гаспадар" />
+    <string id="GpcWSVCy" text="Забойства лідараў бандытаў дае вядомасьць." />
+    <string id="8XeyqTNh" text="Мясцовыя Сувязі" />
+    <string id="jhZ8TFCB" text="Падчас служэньня ў якасьці найміта, дае здольнасьць рэкрутаваць ваяроў мясцовых малых фракцыяў у гарадах." />
+    <string id="JMubUFej" text="Рэкрутаваньне ваяроў-наймітаў таньнейшае на 10%." />
+    <string id="n9ZMPe6w" text="Грабежнік" />
+    <string id="TAfrnnO4" text="Дае за перамогі павялічаную на 10% долю здабычы." />
+    <string id="976FNbqA" text="Знакаміты Меч на Продаж" />
+    <string id="35Mq4ASE" text="Узнагароды вядомасьці за перамогі павялічаны на 20%." />
     <string id="mnpTkVYf" text="Faithful" />
     <string id="8zbXJZWL" text="Piety gain is increased by +0.2 daily." />
     <string id="TYjyR0Ls" text="Religious notables' volunteers may be recruited." />
