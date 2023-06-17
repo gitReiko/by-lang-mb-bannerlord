@@ -140,7 +140,7 @@
     <string id="AyXDhK2V" text="Клан {CLAN} пасьвечаны ў рыцары {KNIGHT}." />
     <string id="xEOemRjF" text="{CLAIMANT} выстаўляе прэтэнзіі на вашы тытул, {TITLE}." />
     <string id="D50E4DZk" text="{REVOKER} адклікае {TITLE}." />
-    <string id="dFTm4AbE" text="{FOUNDER} атрымлівае {TITLE}." />
+    <string id="dFTm4AbE" text="{FOUNDER} засноўвае {TITLE}." />
     <string id="c9RCCv20" text="{USURPER} узурпуе {TITLE}." />
     <string id="ZAjBRwSY" text="{USURPER} узурпуе вашы тытул, {TITLE}." />
     <string id="KkbAZK46" text="Вольны" />
@@ -309,7 +309,7 @@
     <string id="qGB6RG9a" text="Падаткі на прыватных рабоў" />
     <string id="TkkCkCWZ" text="Вы ня выканалі свайго абавязку па аказаньні вайсковай дапамогі {SUZERAIN}. У выніку слава вашага клана пацярпела, а вашыя адносіны з сюзерэнам зьмяніліся да {RELATION}." />
     <string id="5OYuLkYg" text="Вашы сюзерэн, {SUZERAIN}, запатрабаваў, каб вы выканалі свае дамоўныя абавязкі і заплацілі яму {RANSOM} золата для кампенсаваньня яго выкупу. У вас засталося {REMAINING} дзён, каб заплаціць іх." />
-    <string id="iykxiy3G" text="{NEW} адгалінавалася ад {ORIGINAL} з-за законаў спадкаемства." />
+    <string id="iykxiy3G" text="{NEW} адгалінавалася ад {ORIGINAL} з-за законаў спадчыннасьці." />
     <string id="ytkncUx3" text="{HEIR} па праве ўспадкаваў {TITLE}" />
     <string id="AQr3XGhg" text="Цяжкі Плуг" />
     <string id="GAADsQQs" text="Цяжкі плуг выкарыстоўваецца для працы на складанейшых пляцоўках." />
@@ -517,7 +517,7 @@
     <string id="6vdekDjR" text="Кампетэнтнасьць у вобласьці чытаньня і пісьма, а таксама веды літаратурных і юрыдычных пытаньняў." />
     <string id="SRo2AK0z" text="Тэалогія" />
     <string id="mrDhJePb" text="Разуменьне духоўных пытаньняў. Звычайна прызначана для прапаведнікаў і найнабажных вернікаў." />
-    <string id="7LeiEP5f" text="Здольнасьць працаваць з законнымі адміністрацыйнымі тытуламі і феадальнымі кантрактамі." />
+    <string id="7LeiEP5f" text="Здольнасьць працаваць з законнымі адміністрацыйнымі тытуламі і феадальнымі дамовамі." />
     <string id="wMius2i9" text="{TITLE} {NAME}" />
     <string id="bdsY7u3H" text="Зараз вы маеце прэтэнзіі на {TITLE}" />
     <string id="5ryn9tJc" text="{TITLE} ператварыўся ў законную частку {SOVEREIGN}" />
@@ -553,9 +553,9 @@
     <string id="Jh6FdJFE" text="Найвысокі ровень тытулу" />
     <string id="eTMvobFw" text="Тытул суверэна фракцыі ўжо існуе." />
     <string id="Z2tSyHfC" text="Ня з'яўляецца лідарам цяперашняй фракцыі." />
-    <string id="t8HXoFk7" text="Нельга стварыць гаспадарства, бо вы ўжо з'яўляецеся суверэнам дэ Юрэ." />
-    <string id="Ac5LJzsc" text="Нельга стварыць гаспадарства, бо вы ня маеце дэ Юрэ тытулу прынамсі роўня Герцаг." />
-    <string id="ZTj1JVuN" text="Нельга стварыць гаспадарства для фракцыі, якая мае меней 3 кланаў." />
+    <string id="t8HXoFk7" text="Нельга заснаваць гаспадарства, бо вы ўжо з'яўляецеся суверэнам дэ Юрэ." />
+    <string id="Ac5LJzsc" text="Нельга заснаваць гаспадарства, бо вы ня маеце дэ Юрэ тытулу прынамсі роўня Герцаг." />
+    <string id="ZTj1JVuN" text="Нельга заснаваць гаспадарства для фракцыі, якая мае меней 3 кланаў." />
     <string id="oXeDiAaA" text="Вам нястае патрэбных рэсурсаў." />
     <string id="sPvMf4oj" text="Ужо з'яўляецеся законным уласьнікам." />
     <string id="KR2fio4X" text="Ня з'яўляецца магчымым прэтэндэнтам." />
@@ -724,44 +724,44 @@
     <string id="xQbPBzgn" text="Шанец з'яўленьня рушэнцаў-ветэранаў заміж рэкрутаў." />
     <string id="MYdkfodC" text="Агульная чалавечая моц шляхты з вяскоўцамі." />
     <string id="08n0UTDS" text="Чалавечая моц шляхетнага насельніцтва. Шляхетны мілітарызм вышэйшы, але шляхта меньшая ў колькасьці. Яна выкарыстоўваецца ў якасьці шляхетных рэкрутаў." />
-    <string id="uaEXD3tE" text="Manpower from serf and craftsmen classes. These are drafted as cultural non-noble recruits." />
-    <string id="MHFeNBXS" text="How much the population is willing or able to militarily serve. Militarism increases the manpower caps." />
-    <string id="g5NdEeBX" text="How quickly volunteer availability in notables replenishes." />
-    <string id="Uw3xBMKd" text="{TEXT}{newline}Target: {TARGET}{newline}{EXPLANATIONS}" />
-    <string id="MKfkuKiS" text="The overall stability of this settlement, affected by security, loyalty, assimilation and whether you are legally entitled to the settlement. Stability is the basis of economic prosperity." />
-    <string id="mVTYGkNP" text="Represents how much the local elite supports you. Support of each notable is weighted on their power, meaning that not having the support of a notable that holds most power will result in a small support percentage. Support is gained through better relations with the notables." />
-    <string id="8mSDgwhX" text="The amount of influence this settlement provides in your realm." />
-    <string id="W4xpFozW" text="Overview" />
-    <string id="7ELr3vXm" text="Military" />
-    <string id="6QMDGRSt" text="Demesne" />
-    <string id="XYZ6qwT0" text="Religion" />
-    <string id="y5BMxhJv" text="Projects at {VILLAGE_NAME}" />
-    <string id="1rU6vVGN" text="You have too many unlanded titles." />
-    <string id="OrGQjeRF" text="Over Title Limit" />
-    <string id="nESsP3qL" text="You have more fiefs than you can manage." />
-    <string id="wV37uMzY" text="You have more vassals than you can manage." />
-    <string id="GbMZ6V8B" text="Clergymen" />
-    <string id="p6itQbf8" text="Virtues" />
-    <string id="BKLacKdC" text="Doctrines" />
-    <string id="1sKJS1JR" text="Aspects" />
-    <string id="FRaCMrgt" text="Leadership" />
-    <string id="EjTxnGJp" text="Culture" />
-    <string id="6NYxLhjH" text="The main culture associated with this faith." />
-    <string id="tpH62HBy" text="Contract" />
-    <string id="yRn9AcwU" text="Review this kingdom's contract, signed by lords that join it." />
-    <string id="nbV21qZv" text="Found Kingdom" />
-    <string id="jeNEcVGi" text="Propose a change in government structure, altering the allowed succession forms and aspects of settlement governance. Depending on the government choice, an appropriate succession type will be enforced as well." />
-    <string id="rTUgik07" text="Succession" />
-    <string id="ie9VdKpd" text="Propose a change in the realm's succession, altering how the next sovereign is chosen." />
-    <string id="aELuNrRC" text="Inheritance" />
-    <string id="PXXY56Vd" text="Propose a change in clan inheritances, that is, who becomes the clan leader once the leader dies." />
-    <string id="LESrJQvC" text="Gender Law" />
-    <string id="kXUWrDRZ" text="Propose a change in gender laws, dictating whether males and females are viewed equally in various aspects." />
-    <string id="ztoYKWVA" text="Founding a new Kingdom" />
-    <string id="CSRMOcCm" text="Founding Dukedoms" />
-    <string id="JgLZ27UL" text="Select up to 3 dukedoms that will compose your kingdom. The kingdom's contract will follow the first dukedom's contract. Dukedom titles from other clans in the faction may be included as well." />
-    <string id="TJJzW4VL" text="Select a {LAW} to be voted on. Starting an election costs {INFLUENCE} influence." />
-    <string id="F7iMS7Tz" text="{LAW} - ({SUPPORT}% support)" />
+    <string id="uaEXD3tE" text="Чалавечая моц ад вясковага и рамеснага класаў. Яна выкарыстоўваецца ў якасьці нешляхетных рэкрутаў." />
+    <string id="MHFeNBXS" text="Ступень гатовасьці насельніцтва да здольнасьці несьці вайсковую службу. Мілітарызм павялічвае чалавечую моц." />
+    <string id="g5NdEeBX" text="Хуткасьць папаўненьня самаахвотнікаў у зямянаў." />
+    <string id="Uw3xBMKd" text="{TEXT}{newline}Мэта: {TARGET}{newline}{EXPLANATIONS}" />
+    <string id="MKfkuKiS" text="На выніковую стабільнасьць селішча ўзьдзейнічаюць бясьпека, лаяльнасьць, асіміляцыя і наяўнасьць законнага права на селішча. Стабільнасьць - гэта грунт эканамічнага росквіту." />
+    <string id="mVTYGkNP" text="Ступень вашай падтрымкі мясцовай элітай. Падтрымка кожнага зямяніна залежыць ад яго моцы, то бок для высокай ступені падтрымкі трэба заручыцца падтрымкай наймоцных зямянаў. Падтрымка дасягаецца за кошт паляпшэньня адносінаў з зямянамі." />
+    <string id="8mSDgwhX" text="Колькасьць уплыву гэтага селішча ў вашым гаспадарстве." />
+    <string id="W4xpFozW" text="Агляд" />
+    <string id="7ELr3vXm" text="Войска" />
+    <string id="6QMDGRSt" text="Дамен" />
+    <string id="XYZ6qwT0" text="Рэлігія" />
+    <string id="y5BMxhJv" text="Праэкты ў {VILLAGE_NAME}" />
+    <string id="1rU6vVGN" text="Вы маеце зашмат беззямельных тытулаў." />
+    <string id="OrGQjeRF" text="Перасяганьне Ліміту Тытулаў" />
+    <string id="nESsP3qL" text="Вы ня можаце кіраваць гэткай колькасьцю воласьцяў." />
+    <string id="wV37uMzY" text="Вы ня можаце кіраваць гэткай колькасьцю васалаў." />
+    <string id="GbMZ6V8B" text="Сьвятарства" />
+    <string id="p6itQbf8" text="Дабрачыннасці" />
+    <string id="BKLacKdC" text="Дактрыны" />
+    <string id="1sKJS1JR" text="Асьпекты" />
+    <string id="FRaCMrgt" text="Лідарства" />
+    <string id="EjTxnGJp" text="Культура" />
+    <string id="6NYxLhjH" text="Галоўная культура, зьвязаная з гэтай верай." />
+    <string id="tpH62HBy" text="Дамова" />
+    <string id="yRn9AcwU" text="Праглядзець дамову гэтага гаспадарства, падпісаную шляхтай, якая далучылася да яго." />
+    <string id="nbV21qZv" text="Заснаваць Гаспадарства" />
+    <string id="jeNEcVGi" text="Прапанаваць зьмену ўрадавай структуры, зьмяняя дазволеныя формы спадкаемства ды асьпекты ўрада селішча. У залежнасьці ад абранага ўрада, будзе ўведзены адпаведны тып спадкаемства." />
+    <string id="rTUgik07" text="Спадкаемства" />
+    <string id="ie9VdKpd" text="Прапанаваць зьмену спадкаемства гаспадарства, зьмяніў шлях абраньня наступнага суверэна." />
+    <string id="aELuNrRC" text="Спадчыннасьць" />
+    <string id="PXXY56Vd" text="Прапанаваць зьмены ў спадчыннасьці клана, то бок, у вызначэньні наступнага лідара клана пасьля сьмерці папярэдняга." />
+    <string id="LESrJQvC" text="Гендарнае Права" />
+    <string id="kXUWrDRZ" text="Прапанаваць зьмяніць гендарныя законы, якія вызначаюць роўнасьць мужчын і жанчын у розных асьпектах." />
+    <string id="ztoYKWVA" text="Заснаваньне новага Гаспадарства" />
+    <string id="CSRMOcCm" text="Заснаваньне Герцагстваў" />
+    <string id="JgLZ27UL" text="Абярыце да 3 герцагстваў, якія складуць вашае гаспадарства. Дамова гаспадарства будзе прытрымлівацца дамовы першых герцагстваў. Тытулы герцагства ад іншых кланаў фракцыі таксама льга дадаць." />
+    <string id="TJJzW4VL" text="Абярыце {LAW} за які будуць галасаваць. Пачынаньне выбараў каштуе {INFLUENCE} уплыву." />
+    <string id="F7iMS7Tz" text="{LAW} - ({SUPPORT}% падтрымка)" />
     <string id="tRp08jyH" text="Battanian" />
     <string id="VtNL32g2" text="Sturgian" />
     <string id="ZdFBNgoJ" text="Khuzait" />
