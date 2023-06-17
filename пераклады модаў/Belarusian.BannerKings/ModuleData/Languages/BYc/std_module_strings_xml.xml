@@ -102,7 +102,7 @@
     <string id="nATj4Nc1" text="Вы рыхтуеце варту ў {CURRENT_SETTLEMENT}." />
     <string id="ZicUVOPr" text="Вы палюеце ў акрузе {CURRENT_SETTLEMENT}. Колькасьць гульняў у краі складае {HUNTING_GAME}." />
     <string id="N9Jznx5N" text="Вы сустракаецеся з шляхтай {CURRENT_SETTLEMENT}." />
-    <string id="533oQJOp" text="Вы вывучаеце навуку з {SCHOLARSHIP_TUTOR}. Кошт інструкцыяў {SCHOLARSHIP_GOLD} за гадзіну." />
+    <string id="533oQJOp" text="Вы вывучаеце навуку з {SCHOLARSHIP_TUTOR}. Кошт настаўленьняў {SCHOLARSHIP_GOLD} за гадзіну." />
     <string id="EUWd2dC5" text="Вы працуеце з кавалём {CRAFTING_HOURS} гадзінаў. Цяперашняя пагадзінная аплата гэтага каваля складае: {CRAFTING_RATE} {GOLD_ICON}.{CRAFTING_EXPLANATION}" />
     <string id="rThJzFpn" text="Вучыць навуку" />
     <string id="WbqhDh40" text="Перадаць рабоў" />
@@ -120,7 +120,7 @@
     <string id="5FDBQiU5" text="Ня з'яўляецца горадам!" />
     <string id="eLyGCZMi" text="Вы атрымалі траўму падчас цяперашняга дзеяньня." />
     <string id="ArMJ9nUV" text="Вы палепшылі вашы навык {SKILL} падчас вашага цяперашняга дзеяньня." />
-    <string id="yLhzjPib" text="Вы спынілі вашае цяперашняе дзеяньне, бо інструктар пакінуў селішча." />
+    <string id="yLhzjPib" text="Вы спынілі вашае цяперашняе дзеяньне, бо настаўнік пакінуў селішча." />
     <string id="mwaS94oD" text="Дастатак" />
     <string id="6qcxi3hF" text="Звычайнасьць" />
     <string id="fphXj90S" text="Галеча" />
@@ -239,11 +239,11 @@
     <string id="ouUiDOuN" text="{MALE}Эрксім{?}Хатагтай{\\?}" />
     <string id="LmHWN0vt" text="Вялікая Княжна" />
     <string id="eVZHT4T6" text="{MALE}Вялікі Князь{?}Вялікая Княжна{\\?}" />
-    <string id="S3kc2bhW" text="Вялікая Княжна" />
-    <string id="KTxFYNyo" text="Княжна" />
-    <string id="QQxLPzDu" text="{MALE}Князь{?}Княжна{\\?}" />
-    <string id="bYQLoRUt" text="Пані" />
-    <string id="DvtAe1VC" text="{MALE}Пан{?}Пані{\\?}" />
+    <string id="S3kc2bhW" text="Княжна" />
+    <string id="KTxFYNyo" text="Магнатка" />
+    <string id="QQxLPzDu" text="{MALE}Магнат{?}Магнатка{\\?}" />
+    <string id="bYQLoRUt" text="Княжна" />
+    <string id="DvtAe1VC" text="{MALE}Князь{?}Княжна{\\?}" />
     <string id="Ec79HNiF" text="Шляхцянка" />
     <string id="E6MmoXHy" text="{MALE}Шляхціч{?}Шляхцянка{\\?}" />
     <string id="JmdALFU2" text="Каралева" />
@@ -535,7 +535,7 @@
     <string id="B6NnSA7H" text="Адсутнічаюць пасады, якія будуць саступлены." />
     <string id="peS8Egz2" text="Не знаходзіцца на пасадзе дзеючага дарадцы." />
     <string id="x5Wi8QSD" text="Ужо з'яўляецца чальцом рады." />
-    <string id="nNESSaBb" text="Валоданьне інструктара" />
+    <string id="nNESSaBb" text="Валоданьне настаўніка" />
     <string id="k5G2c550" text="Разборлівасьць у {LANGUAGE}" />
     <string id="1ssSRbe5" text="Перавышаны ліміт моваў" />
     <string id="vRMD0fdw" text="Валоданьне {LANGUAGE}" />
@@ -629,7 +629,7 @@
     <string id="wvmCvE74" text="Статы" />
     <string id="vKtLDRp6" text="Крымінал" />
     <string id="91fEPp8b" text="Абраць Дарадцу" />
-    <string id="PykdjcGm" text="Прыдворныя" />
+    <string id="PykdjcGm" text="Палацавыя" />
     <string id="K7df68TT" text="Эфекты" />
     <string id="77D4i3pG" text="Прывілеі" />
     <string id="S9zTcqbp" text="Пасада Дарадцы:" />
@@ -673,45 +673,45 @@
     <string id="1zU0h9p7" text="Валоданьне:" />
     <string id="DxbGVKZ1" text="Наколькі вы блізкія да таго, каб гаварыць на мове бяз высілкаў." />
     <string id="2SLtW912" text="Хуткасьць Вывучэньня:" />
-    <string id="xPA1FYkB" text="Інструктар:" />
+    <string id="xPA1FYkB" text="Настаўнік:" />
     <string id="vW3YtyNm" text="Адсутнічае (у мабільнай партыі)" />
-    <string id="cqF7eA22" text="Месцаваньне Інструктара:" />
-    <string id="sFCqysF2" text="Active learning can be done at the instructor's location." />
-    <string id="MaV9QBJE" text="No lifestyle currently adopted" />
-    <string id="WJK9V5ND" text="Necessary skill:" />
-    <string id="RBZRv3np" text="Necessary skill amount in either lifestyle skill to enable next focus investment and perk unlock." />
-    <string id="yavEq3mq" text="Invested focus:" />
-    <string id="78jQbY8E" text="Current progress in this stage. Once progress hits 100% and you have the necessary skill threshold, you can invest your next focus point in exchange for the next lifestyle perk." />
-    <string id="ER70o2UR" text="First skill:" />
-    <string id="NSsPm2UN" text="Second skill:" />
-    <string id="5n3dJTGc" text="None" />
-    <string id="gdCXV7n3" text="Select a language you would like to learn. Learning a language requires an instructor from your court, and different people have different teaching skills. A courtier must have a good opinion of you in order to be available. Learning languages is easier when they are intelligible with your native language." />
-    <string id="DVNd6xA5" text="{HERO} is now learning {LANGUAGE} from {INSTRUCTOR}." />
-    <string id="Fd2YMXEF" text="{HERO} stopped learning any languages." />
-    <string id="pXUyfe6v" text="Select what book you would like to read. Options may be disabled due to language barrier, or lack of Literate perk." />
-    <string id="LeTL076P" text="{HERO} is now reading {BOOK}." />
-    <string id="pzLRq0QJ" text="{HERO} stopped reading any books." />
-    <string id="Z7t7oyXi" text="{HERO} has adopted the {LIFESTYLE} lifestyle." />
-    <string id="YbTbe0FH" text="{HERO} is not following any lifestyle." />
-    <string id="hntWNxZy" text="Education" />
-    <string id="GMNhGSUb" text="Decisions" />
-    <string id="OKw2P9m1" text="Faith" />
-    <string id="2QGyA46m" text="Court" />
-    <string id="h40bm0cG" text="Craft" />
-    <string id="G1NUDN2i" text="Hours spent for all actions: {HOURS} hours." />
-    <string id="A15k4LQS" text="{HERO} has botched {ITEM}!" />
-    <string id="hap0LfbT" text=" with {QUALITY} quality" />
-    <string id="NKVUJKQk" text="{HERO} has crafted {ITEM}{QUALITY}." />
-    <string id="KvHqmTsq" text="You must rest and spend time before you can do this action." />
-    <string id="XiyJ9WrW" text="You don't have all required materials!" />
-    <string id="ph4LMn6k" text="Knights" />
-    <string id="a3G31iZ0" text="Companions" />
-    <string id="mUaJDjqO" text="Council" />
-    <string id="K7hq6hSE" text="Owned Caravans:" />
-    <string id="2qcNKU3J" text="Owned Workshops:" />
-    <string id="jQa22yjg" text="Title Level:" />
-    <string id="43UgU7C4" text="Income:" />
-    <string id="Locuup55" text="Expenses:" />
+    <string id="cqF7eA22" text="Месцаваньне Настаўніка:" />
+    <string id="sFCqysF2" text="Актыўнае навучаньне можа праводзіцца па месцы знаходжаньня настаўніка." />
+    <string id="MaV9QBJE" text="На гэты момант жыцьцёвы стыль не прыняты" />
+    <string id="WJK9V5ND" text="Патрэбны навык:" />
+    <string id="RBZRv3np" text="Патрэбная колькасьць навыкаў у любым з навыкаў жыцьцёвага стылю, каб было льга інвеставаць фокусы і адблакаваць перавагі." />
+    <string id="yavEq3mq" text="Інвеставаныя фокусы:" />
+    <string id="78jQbY8E" text="Прагрэс на гэты момант. Пасьля таго як прагрэс дасягне 100% і вы будзеце мець патрэбны парог навыкаў, вы зможаце інвеставаць вашае наступнае ачко фокусу ў памен на наступную перавагу жыцьцёвага стылю." />
+    <string id="ER70o2UR" text="Першы навык:" />
+    <string id="NSsPm2UN" text="Другі навык:" />
+    <string id="5n3dJTGc" text="Адсутнічае" />
+    <string id="gdCXV7n3" text="Абярыце мову, якую вы жадаеце вывучыць. Для вывучэньня мовы патрабуется настаўнік з вашага палаца, а розныя людзи маюць розныя навыкі навучаньня. Палацавы мусіць мець добрыя адносіны з вамі для магчымасьці вывучэньня. Вывучэньне моваў лягчэйшае, калі яны зразумелыя вашай роднай мове." />
+    <string id="DVNd6xA5" text="{HERO} зараз вывучае {LANGUAGE} з {INSTRUCTOR}." />
+    <string id="Fd2YMXEF" text="{HERO} спыняе вывучэньне ўсіх моваў." />
+    <string id="pXUyfe6v" text="Абярыце кнігу, якую вы жадаеце прачытаць. Частка варыянтаў можа быць недаступная з-за моўнага бар'еру ці адсутнасьці перавагі Адукаванасьць." />
+    <string id="LeTL076P" text="{HERO} зараз чытае {BOOK}." />
+    <string id="pzLRq0QJ" text="{HERO} спыняе чытаньне ўсіх кніг." />
+    <string id="Z7t7oyXi" text="{HERO} прыймае жыцьцёвы стыль {LIFESTYLE}." />
+    <string id="YbTbe0FH" text="{HERO} болей не прытрымліваецца аніякага жыцьцёвага стылю." />
+    <string id="hntWNxZy" text="Адукаваньне" />
+    <string id="GMNhGSUb" text="Пастановы" />
+    <string id="OKw2P9m1" text="Вера" />
+    <string id="2QGyA46m" text="Палац" />
+    <string id="h40bm0cG" text="Рамяство" />
+    <string id="G1NUDN2i" text="Гадзін затрачана на ўсе дзеяньні: {HOURS} гадзінаў." />
+    <string id="A15k4LQS" text="{HERO} псуе {ITEM}!" />
+    <string id="hap0LfbT" text=" з якасьцю {QUALITY}" />
+    <string id="NKVUJKQk" text="{HERO} стварае {ITEM}{QUALITY}." />
+    <string id="KvHqmTsq" text="Каб выканаць гэтае дзеяньне, спачатку трэба адпачыць нейкі час." />
+    <string id="XiyJ9WrW" text="Вы ня маеце ўсіх патрэбных матэрыялаў!" />
+    <string id="ph4LMn6k" text="Рыцары" />
+    <string id="a3G31iZ0" text="Кампаньёны" />
+    <string id="mUaJDjqO" text="Рада" />
+    <string id="K7hq6hSE" text="Караваны ва Ўладаньні:" />
+    <string id="2qcNKU3J" text="Майстэрні ва Ўладаньні:" />
+    <string id="jQa22yjg" text="Ровень Тытулу:" />
+    <string id="43UgU7C4" text="Прыбытак:" />
+    <string id="Locuup55" text="Выдаткі:" />
     <string id="oHJ6Y66V" text="Demesne limit describes how many settlements you may own without negative implications. Different settlement types have different weights, villages being the lowest, towns being the highest. Being over the limit reduces stability across all your settlements. Owning a settlement's title will reduce it's weight." />
     <string id="XAvCOvv4" text="Unlanded demesne limit describes how many unlanded titles you may own. Unlanded titles are titles such as dukedoms and kingdoms - titles not directly associated with a settlement. Dukedoms have the lowest weight while empires have the biggest. Being over the limit progressively reduces relations with your vassals." />
     <string id="nhBf1JY5" text="Vassal limit is how many vassals you may have without negative consequences. Vassals are clans whose highest title are under your own (ie, a barony title under your county title, or knight clans with a single lordship) or knights in your clan. Knights only weight 0.5 towards the limit, while clan leaders weight 1. Companions and family members do not count. Being over the limit progressively reduces your influence gain." />
