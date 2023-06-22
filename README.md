@@ -73,7 +73,7 @@
 
 ## Аўтар
 
-Yan Lidski (Reiko17)
+Denis Makouski (Reiko17)
 
 ## Разьвіцьцё перакладу альбо мадыфікацыя
 
