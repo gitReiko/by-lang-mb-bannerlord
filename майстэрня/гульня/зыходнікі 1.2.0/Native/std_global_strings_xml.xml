@@ -1,0 +1,795 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <strings>
+    <string id="02Qqpama" text="Roll the Camera Right (Clockwise)." />
+    <string id="03mPaWum" text="Kingdom" />
+    <string id="08oulGov" text="Drop your equipped weapon." />
+    <string id="0BwwHF1s" text="Move map camera to left in campaign map." />
+    <string id="0EDGnl1C" text="Ranged Only" />
+    <string id="0fLpwDzk" text="Sets the window mode.{newline}Windowed: Runs the game on a window.{newline}Fullscreen: Runs the game in full screen.{newline}Borderless Fullscreen: Runs the game on a borderless maximized window." />
+    <string id="0ftxDUQU" text="Map Toggle Fast Forward" />
+    <string id="0HNrwVGG" text="By Movement" />
+    <string id="0MvDMsEl" text="Occlusion Method" />
+    <string id="0ot0eBzv" text="Turn Camera With Horse In First Person" />
+    <string id="0YV6wbsq" text="Pause time in campaign map." />
+    <string id="16EUzfcH" text="Adjust the exposure level according to your preference using the slider." />
+    <string id="1awQTVqN" text="Number Of Ragdolls" />
+    <string id="1CLLOxAt" text="Show generic names for players. This will replace all of the players' names with generic names." />
+    <string id="1dQFNvhQ" text="Numpad +" />
+    <string id="1ebaa1Wf" text="Toggle Walk/Run Mode" />
+    <string id="1JlzQIXE" text="Disabled" />
+    <string id="1uCaibsd" text="Full" />
+    <string id="1WsmBXkN" text="Frame Limiter" />
+    <string id="22o7UHXL" text="Select Group 1." />
+    <string id="23Tcbb4W" text="Strafe Right" />
+    <string id="25KihbcP" text="Sets the number of reinforcement waves that will be spawned in a combat mission. A higher value generally means longer mission duration. On settings lower than unlimited, sieges might be resolved without all troops participating in the fight." />
+    <string id="2Ao5DCb6" text="Move Party Down" />
+    <string id="2AyPP3rw" text="High" />
+    <string id="2bPTx7So" text="Your character goes to crouching state." />
+    <string id="2cVkbPYO" text="Unit Spawn Prioritization" />
+    <string id="2e8wI3EM" text="Equip Weapon 2" />
+    <string id="2EjZcRgF" text="F5" />
+    <string id="2EnLU2ZC" text="Change UI Scaling" />
+    <string id="2h2148cq" text="Send Message To Everyone" />
+    <string id="2p3Llq2x" text="Enable Network Alert Icons" />
+    <string id="2xO6VDCj" text="This option is disabled because dynamic resolution is disabled." />
+    <string id="2ZJQylWo" text="Switch between run and walk modes." />
+    <string id="3awgWrma" text="Benchmark" />
+    <string id="3CN7LUCf" text="Toggle Cursor Visibility." />
+    <string id="3CsACce8" text="Exit" />
+    <string id="3Dngsvya" text="Move Forward" />
+    <string id="3Gb7tKgJ" text="{LEFT} and {RIGHT}" />
+    <string id="3nTeojbI" text="=" />
+    <string id="3oUbmqJY" text="Synchronizes the game to the monitor's refresh rate. Eliminates tearing artifacts." />
+    <string id="3P7eDKEY" text="Equip Item 4" />
+    <string id="3sRdGQou" text="Leave" />
+    <string id="3sULxlX1" text="Hold to send your voice." />
+    <string id="3y9Q1m1n" text="Your preferred voice over language." />
+    <string id="3YwMXbAT" text="Fastforward time in campaign map." />
+    <string id="44akzqlm" text="Right Arrow" />
+    <string id="45yEpDdE" text="Resolution Scale" />
+    <string id="46vWdakp" text="Y" />
+    <string id="48faf387" text="Roll Camera Left" />
+    <string id="4aAvY4yO" text="Low" />
+    <string id="4e0ycN1Q" text="Everyone Hear" />
+    <string id="4Gdng2Tt" text="Hold for faster camera sliding on campaign map." />
+    <string id="4lZDJDb2" text="Set how much the sensitivity changes when the camera is zoomed in." />
+    <string id="4NaOKslb" text="-" />
+    <string id="4Nw1hF2R" text="Kick your enemies to break their guard when not attacking or defending. Bash your enemies with your equipment while defending." />
+    <string id="4Q9pzbqM" text="Enable the controller vibration effect." />
+    <string id="4R4shVxp" text="Sharpen Amount" />
+    <string id="4x1wGwW9" text="Select Order 7" />
+    <string id="54c9cZO4" text="Toggle Characters." />
+    <string id="5B3ptxje" text="Character Developer" />
+    <string id="5c7l7r31" text="Left Mouse Button" />
+    <string id="5JTMe54k" text="Select Group 3." />
+    <string id="5jxcNYlU" text="Numpad 6" />
+    <string id="5QfcrJ5r" text="Night Mode" />
+    <string id="5QpTaCa0" text="W" />
+    <string id="5siWUJPw" text="Fullscreen" />
+    <string id="5TYDm7Vv" text="Camera Follow Mode" />
+    <string id="5Unqsx3N" text="Confirm" />
+    <string id="5WDQLWCk" text="Campaign AI" />
+    <string id="5Xoilj6r" text="Shout" />
+    <string id="6AnHiJGR" text="Selected Monitor" />
+    <string id="6CeL6iOp" text="Select Group 1" />
+    <string id="6d56kv7p" text="Vertical Movement Scale for Direction Gestures" />
+    <string id="6g0y182U" text="Environment Detail" />
+    <string id="6HJxnF3G" text="Save Failed!" />
+    <string id="6ibNX7Rr" text="Graphics Mode" />
+    <string id="6Jcchu9g" text="Enable cursor while scoreboard is open." />
+    <string id="6koNIQJi" text="Cannot create save data. Save limit reached." />
+    <string id="6nQR7yYF" text="Start" />
+    <string id="6QiPm27r" text="Move your party upward in campaign map." />
+    <string id="6sIFj7K9" text="Fast-Forward Time" />
+    <string id="6Uh76bYG" text="Map Time Stop" />
+    <string id="6uNvJbdx" text="Select Group 4" />
+    <string id="7fnNx8uP" text="Rotate map camera to right." />
+    <string id="7hytmlkz" text="Enable Generic Avatars" />
+    <string id="7MU008BT" text="F11" />
+    <string id="7phVPcDc" text="Sets the quality of shaders. A higher value means better graphical effects." />
+    <string id="7QKjVON8" text="Jump" />
+    <string id="7S1aCWFa" text="Jump while on foot or mounted." />
+    <string id="7SSytk7Z" text="U" />
+    <string id="7tYiV9Vw" text="Anisotropic 8X" />
+    <string id="7vl1ebVZ" text="Left Control" />
+    <string id="7X6fZ5kQ" text="Enables the screen space reflections." />
+    <string id="7XmaJYuh" text="Move your party to right in campaign map." />
+    <string id="7ZmtmleI" text="Sets the resolution scale. Lower values can increase performance. {newline}{newline}Uses AMD's &quot;FidelityFX Super Resolution 1.0&quot;{newline}{newline}Does not affect UI Quality" />
+    <string id="8AiDqTFB" text="Map Move Backward" />
+    <string id="8b45xcyL" text="Sets the quality of trees and grass." />
+    <string id="8BdF6a4j" text="{LEFT} - {RIGHT}" />
+    <string id="8FbEybTx" text="Enable network alert icons.{newline}1. Latency{newline}2. Packet Loss{newline}3. Poor Server Performance" />
+    <string id="8fYfD6Uw" text="Select Order 8." />
+    <string id="8hArJQWf" text="Show Targeting Reticle" />
+    <string id="8iwie5KL" text="SelectOrder5" />
+    <string id="8kO2jDVf" text="Affects the quality of textures." />
+    <string id="8t4KDZfU" text="E" />
+    <string id="8WrQ9fnb" text="C" />
+    <string id="929oYf3G" text="Zoom Out" />
+    <string id="92ZztgDd" text="Decal Quality" />
+    <string id="9bHr3oNj" text="Crosshair that shows when using a ranged weapon." />
+    <string id="9F323ez4" text="Trilinear" />
+    <string id="9gAVbJAR" text="Resume Time" />
+    <string id="9HdllyAZ" text="Start the Bannerlord Benchmark." />
+    <string id="9hRcH7kV" text="Sun Shafts" />
+    <string id="9N0zXegH" text="Enable chat log." />
+    <string id="9OHGqgjH" text="Zoom in to aim at enemies or to look further." />
+    <string id="9pEc15Sb" text="S" />
+    <string id="9qZw55vR" text="Master volume level." />
+    <string id="9scrSz4i" text="Sets the graphics mode.{newline}Performance: Runs the game at 60 frames per second with dynamic resolution, lower quality settings and less units on battles.{newline}Fidelity: Runs the game at 30 frames per second at the native resolution, higher quality settings and more units on battles." />
+    <string id="9TrnHXRG" text="Fidelity" />
+    <string id="9xKCz9BE" text="Switch between first and third person view." />
+    <string id="9zns14aF" text="Choose how to perform blocks. Auto will default to &quot;By Look Direction&quot; in Multiplayer." />
+    <string id="A0bqGRQc" text="F" />
+    <string id="a5l0tTLE" text="Enable Event Log" />
+    <string id="a8MvWaSN" text="Force VSync in Menus (i.e. Lobby, Inventory, Party, Character, Quest etc.)" />
+    <string id="Aa2Yokz3" text="Numpad *" />
+    <string id="aAaF9FWC" text="Right Control" />
+    <string id="aAAl11qM" text="Switch between locking and unlocking the view to the enemy currently focused at. Press longer to see the detailed display." />
+    <string id="aAXqgbDv" text="Cannot create config data. Config limit reached." />
+    <string id="accbLVWL" text="Sets the anti-aliasing technique. " />
+    <string id="acqAYxhr" text="," />
+    <string id="AD4phxAT" text="Auto (Only in SP)" />
+    <string id="aGb5H9Ni" text="Muffles the sound sources behind obstacles. Forced ON in Multiplayer." />
+    <string id="AhrWBKx9" text="Equip Item 1" />
+    <string id="aIwUX5EF" text="Press {CONSOLE_KEY_NAME} to continue" />
+    <string id="AJFpx99v" text="Exposure Adjustment" />
+    <string id="ajKnHI1s" text="Take Picture" />
+    <string id="aJxmDbur" text="Hold to leave an area. " />
+    <string id="altgamekey" text="Alt" />
+    <string id="aMCChr97" text="Move map camera downward in campaign map." />
+    <string id="amdYLZ6o" text="Quests Window" />
+    <string id="an5aw1wc" text="Some of the options you changed won't take effect until you leave and open a new mission." />
+    <string id="aombIn07" text="Set the exposure amount." />
+    <string id="ap1wEfdW" text="V" />
+    <string id="AP9bKYTb" text="Toggle Cursor" />
+    <string id="ar2Y8Xs9" text="{LEFT}: " />
+    <string id="asrbFBbn" text="Order Menu" />
+    <string id="asYEb2j7" text="Very High (250)" />
+    <string id="au7tXcD1" text="Stereo" />
+    <string id="aufrcNmq" text="Particle Detail" />
+    <string id="AuwOJ4Oz" text="Mission Restart Required" />
+    <string id="aVcBbuKJ" text="F22" />
+    <string id="avDb6Y66" text="Middle Mouse Button" />
+    <string id="averageCampaignAI" text="Average" />
+    <string id="averageCombatAI" text="Average" />
+    <string id="aWDfG0RO" text="F3" />
+    <string id="AXnSAaoi" text="Enable Generic Names" />
+    <string id="aydCb7WA" text="Medium" />
+    <string id="ayYYRfPP" text="Report Personal Damage" />
+    <string id="Az084VJK" text="Defend" />
+    <string id="b00385oX" text="Map Open Encyclopedia" />
+    <string id="b1OtYhnF" text="Texture Filtering" />
+    <string id="b7cHW5DS" text="Shows chat log. Starts typing to All Chat in Multiplayer." />
+    <string id="B8aTbaQo" text="Select Group 4." />
+    <string id="b9rDOY21" text="SelectOrder2" />
+    <string id="bbxpBzPr" text="Sheathe Weapon" />
+    <string id="bdJv9dcm" text="Character Zoom In" />
+    <string id="BDSEgN41" text="Sets the overall graphics quality preset." />
+    <string id="BDSLNk4Q" text="Map Rotate Left" />
+    <string id="bEJsGiBK" text="Foliage Quality" />
+    <string id="BfebVHWv" text="Show Scoreboard" />
+    <string id="bfis1Rqj" text="Enable death location indicators that show where your teammates die." />
+    <string id="bfxMfZrk" text="Allow the render resolution to be scaled down to maintain the targeted frame rate.{newline}{newline}Uses AMD's &quot;FidelityFX Super Resolution 1.0&quot;{newline}{newline}Does not affect UI Quality" />
+    <string id="bGbIRSmD" text="." />
+    <string id="BgjaAUNf" text="Sets the quality of water. A higher value means more detailed water simulation." />
+    <string id="BGKHITSN" text="Stop the game when the focus is lost to the game window." />
+    <string id="bgwA4Pd8" text="2" />
+    <string id="bGZeJJAH" text="Roll the Camera Left (Counterclockwise)." />
+    <string id="bih4MD9a" text="Pause Menu" />
+    <string id="BKeTUf9V" text="Move Camera" />
+    <string id="Bl8cKwhL" text="Display Calibration" />
+    <string id="bmpagYCb" text="Equip your shield or change to the next one." />
+    <string id="BPiWCOco" text="Select Order 7." />
+    <string id="bqb2K5b1" text="Move Right" />
+    <string id="bqUsNucg" text="Sets the render quality of particles. A higher value means sharper particles." />
+    <string id="BSdIYN9F" text="P" />
+    <string id="bT77aWti" text="Switch Weapon Usage" />
+    <string id="bubp5ys1" text="Take Picture." />
+    <string id="bvJUmRBd" text="Select Group 2" />
+    <string id="bW2urPqE" text="SelectOrder6" />
+    <string id="Bw6fZdOh" text="This option is disabled because dynamic resolution is enabled." />
+    <string id="byOZcjuE" text="Voice Language" />
+    <string id="bYwwY9qh" text="Numpad 5" />
+    <string id="c3I1AjcF" text="Enable {?IS_PLAYSTATION}Wireless {?}{\?}Controller Vibration" />
+    <string id="c49AY7yF" text="Low (128)" />
+    <string id="C7zwur4k" text="Escape" />
+    <string id="cAkgnVr5" text="Num Lock" />
+    <string id="CBwEl28t" text="Enable Death Location Indicator" />
+    <string id="CbwmI1JY" text="Enables the depth of field." />
+    <string id="CfjTvLNl" text="Finalize Chat" />
+    <string id="CLpUemXL" text="Stop Game On Focus Lost" />
+    <string id="CNjxn3eB" text="Speakers" />
+    <string id="Co9aqFIB" text="Toggle Camera Follow Mode" />
+    <string id="cOgmdp9e" text="Decline" />
+    <string id="combatkick" text="Kick / Bash" />
+    <string id="controlgamekey" text="Control" />
+    <string id="cp80Mq2W" text=";" />
+    <string id="Crf6Z1S5" text="Page Up" />
+    <string id="cryvNnsO" text="Order visuals that are visible while giving orders in battles." />
+    <string id="CsEtp6Az" text="Group 3 Hear" />
+    <string id="ct0coyrR" text="A" />
+    <string id="CTiemsyh" text="Numpad 3" />
+    <string id="Cvdaadvs" text="Very High" />
+    <string id="cvhQOE38" text="Show Attack Direction" />
+    <string id="cWRA5VVr" text="Left Alt" />
+    <string id="czYbd1vo" text="H" />
+    <string id="D008gyKC" text="Select Order 1" />
+    <string id="D0Ps9ddi" text="Hide UI" />
+    <string id="d5a3QdBR" text="Cannot access save folder." />
+    <string id="d6DkPU2b" text="Overall" />
+    <string id="d75b5uSL" text="Bilinear" />
+    <string id="d7YTtqlO" text="Map Move Down" />
+    <string id="dB6cFDmz" text="/" />
+    <string id="dbkFMtJw" text="Map Zoom In" />
+    <string id="DbpgZxxK" text="Third Person Camera Distance" />
+    <string id="dC1MBjrO" text="Affects the size of the texture streaming cache. A higher value requires more video memory but provides a smoother experience." />
+    <string id="deletekey" text="Delete" />
+    <string id="Dg0SKmCS" text="Combat Speed DESC" />
+    <string id="dg6yQU6z" text="Send Message To Team" />
+    <string id="DGRmXCg4" text="Only Icons (Only in SP)" />
+    <string id="DiK2cKUi" text="Sound Device" />
+    <string id="dkLG4JC4" text="Enter" />
+    <string id="dkYmFAk2" text="Track Attacked Settlements" />
+    <string id="DqFxOjTp" text="Screen Resolution" />
+    <string id="drbgOAqx" text="Enable reports for experience gain." />
+    <string id="drG1OL8d" text="Mouse Scroll Up" />
+    <string id="DTSHoHbu" text="Inventory Window" />
+    <string id="dTyINo1B" text="Lock target" />
+    <string id="dV5ar9eP" text="Max (1000)" />
+    <string id="Dw58UUua" text="Subsurface Scattering" />
+    <string id="DxgwxziA" text="Initiate Chat (Secondary)" />
+    <string id="DYcLYL6E" text="Bar" />
+    <string id="dzR8cr1m" text="Sound Preset" />
+    <string id="E5xbXlLB" text="Enables the sun shafts." />
+    <string id="ea8kNj32" text="Your preferred sound output device." />
+    <string id="EaOcWkH3" text="Open Encyclopedia." />
+    <string id="eDRzvYz5" text="Enable auto tracking settlements when attacked." />
+    <string id="eHb2U0dA" text="Show generic avatars for players. This will replace all of the players' avatars with generic avatars." />
+    <string id="EkzORIiZ" text="Open all chat." />
+    <string id="EMzCDjIR" text="Select Group 2." />
+    <string id="ETxm7IBL" text="F18" />
+    <string id="evc8yBIy" text="M" />
+    <string id="EvOLbiqM" text="Select Group 3" />
+    <string id="evzb1cmP" text="Equip the item in your fourth slot." />
+    <string id="eXa0p5uN" text="Cannot create config data." />
+    <string id="EyYqpm5b" text="Set your vertical movement multiplier for direction gestures, compared to horizontal movement. Does not affect camera movement." />
+    <string id="eZsVkuQD" text="8" />
+    <string id="F2yX5CXI" text="Cannot create config data. Save data is corrupted." />
+    <string id="fBXuMgdm" text="Campaign AI DESC" />
+    <string id="FEDEsbCx" text="Move your party downward in campaign map." />
+    <string id="ffHX9L80" text="Numpad 0" />
+    <string id="FHBoO2sp" text="6" />
+    <string id="fJnqJx8m" text="Character Window" />
+    <string id="fldPHfP6" text="Sets the refresh rate of the game." />
+    <string id="FLLnblfP" text="Report Casualties" />
+    <string id="fM9E7frB" text="Performance" />
+    <string id="fMSYE6Ii" text="Default" />
+    <string id="fpYTcwqI" text="F24" />
+    <string id="FqvJUBRn" text="Very Low" />
+    <string id="fsI2wuHa" text="Group 2 Hear" />
+    <string id="G17kWzwi" text="Very High (600)" />
+    <string id="G2e8xucc" text="If the checkered patterns are not visible inside the frames, try moving the sliders.{newline}Adjust the sliders to the point where patterns are barely visible." />
+    <string id="g4Iq82iw" text="Open team chat." />
+    <string id="g4VjAbMG" text="J" />
+    <string id="G8ug5Bwx" text="Chat" />
+    <string id="G9oAjFL7" text="Very Low (200)" />
+    <string id="GaZ6W7MD" text="Select Order 2." />
+    <string id="gCDjIGB6" text="Show Blood" />
+    <string id="Gd2iUUHa" text="Sets the quality of particles. A higher value means more detailed particles." />
+    <string id="gIsqhwTs" text="First Person Field of View" />
+    <string id="Gl2S6WEW" text="Sets the monitor that the game window will be displayed." />
+    <string id="Gl7wgtPQ" text="Move Party Up" />
+    <string id="goodCampaignAI" text="Good" />
+    <string id="goodCombatAI" text="Good" />
+    <string id="grNuIieh" text="Cursor/Camera Sensitivity" />
+    <string id="gu2JU5zq" text="Crosshair Type" />
+    <string id="GxHV8b1b" text="Numpad 1" />
+    <string id="gxTsIPaS" text="Select Order 3." />
+    <string id="GzICf27a" text="Rotate" />
+    <string id="gzMIzYTF" text="Game Log Window" />
+    <string id="H1kB8qEb" text="Select Order 6." />
+    <string id="h6wUbray" text="Number Of Corpses" />
+    <string id="haLX0kbG" text="Click to continue" />
+    <string id="haX0xRHa" text="Camera Speed Up" />
+    <string id="HC2sdqca" text="Enable Tutorial Hints" />
+    <string id="hdbb0Jjp" text="Encyclopedia Window" />
+    <string id="hdLs35aB" text="Low (25)" />
+    <string id="HDV63kra" text="4" />
+    <string id="HeCR9aex" text="Enable text reports for shouts." />
+    <string id="HH7LDwlK" text="Toggle Fast Forward" />
+    <string id="hHxSj7tY" text="SelectOrder3" />
+    <string id="Hiv0420V" text="Select Group 6." />
+    <string id="Hj1bsSbW" text="Force VSync in Menus" />
+    <string id="hjsLo4ri" text="View orders." />
+    <string id="hkiuDcb6" text="Select Group 5." />
+    <string id="HmgPBPeq" text="Desktop Resolution" />
+    <string id="HNTCnUYY" text="Party Window" />
+    <string id="homekey" text="Home" />
+    <string id="Hs1CYfbc" text="Equip Next Weapon" />
+    <string id="hS4wYBa8" text="Reverse Order Group" />
+    <string id="HsljR1NL" text="Equip Weapon 1" />
+    <string id="hUyPaplJ" text="Battle Size" />
+    <string id="HVa0okoe" text="F9" />
+    <string id="hwzQGpYa" text="Sound Occlusion" />
+    <string id="HxIqxjmk" text="Select Everyone" />
+    <string id="hZEAeoCk" text="Move your party to left in campaign map." />
+    <string id="I3eooo5c" text="Sets the terrain quality." />
+    <string id="I3rTzBae" text="Character Detail" />
+    <string id="i5xbEcE3" text="Resume or pause time in campaign map." />
+    <string id="I6OJtaMT" text="Never" />
+    <string id="I9PN1qny" text="Numpad Enter" />
+    <string id="IahiWHHW" text="K" />
+    <string id="Iam02fhz" text="Low (300)" />
+    <string id="IaoVYeZi" text="Enables the tesselation." />
+    <string id="iazKqdH1" text="Report Shouts" />
+    <string id="iblHebbT" text="F1" />
+    <string id="IcEPmXxM" text="Sets the ambient occlusion technique." />
+    <string id="ICgda8Is" text="Up Double Press: Charge Forward" />
+    <string id="ID9lG6xg" text="View Orders" />
+    <string id="igGLkaf6" text="Equip Item 2" />
+    <string id="iGi5HsGS" text="Left Shift" />
+    <string id="ihAadMd5" text="Open Encyclopedia on the campaign map" />
+    <string id="IjhCSwNn" text="Move camera further from your character in third person view." />
+    <string id="IjLcnwpz" text="Increase Camera Focus." />
+    <string id="IjRHUbbN" text="Tesselation" />
+    <string id="ikbBAZtA" text="Export Buffer Visualizations." />
+    <string id="IKjxVh2N" text="Motion Blur" />
+    <string id="ikoUJQyl" text="Enables the bloom effect." />
+    <string id="iljRgsvP" text="Order Layout Type" />
+    <string id="invalidkey" text="-" />
+    <string id="IOZ4aWVp" text="Select Group 8" />
+    <string id="iPx4jep6" text="Exposure" />
+    <string id="Irhxad7u" text="Water Quality" />
+    <string id="iUFgqwkA" text="Medium (256)" />
+    <string id="iuQk8map" text="Voice-over Volume" />
+    <string id="iwO3g6Rz" text="Select how challenging the combat AI will be." />
+    <string id="ixHHmobT" text="Enable being able to lock onto enemies while using a melee weapon." />
+    <string id="ixTwtPt0" text="4 waves" />
+    <string id="IxzTvJH9" text="Sound in Background" />
+    <string id="IyenJVb1" text="Affects the animation sampling frame rate. A higher value requires more CPU resource but provides smoother animations." />
+    <string id="IYLn67Xm" text="X" />
+    <string id="Iz2vu6xM" text="Mouse Scroll Down" />
+    <string id="iZAwcZSV" text="Track Settlement" />
+    <string id="j2g8BSOF" text="Static and Dynamic" />
+    <string id="J2pcA6KR" text="View Character" />
+    <string id="j3k8PiPo" text="Enables the deformable grass." />
+    <string id="j4F7tTzy" text="Clan" />
+    <string id="jaeLYPIG" text="Pause Time" />
+    <string id="jafcz97A" text="Shadow Quality" />
+    <string id="JAzv5xYY" text="Enable text reports for damage dealt." />
+    <string id="jbLwdd6z" text="Headphones" />
+    <string id="jd9ZG2CI" text="R" />
+    <string id="JDDANRcS" text="Zoom Sensitivity Modifier" />
+    <string id="jgCb0sga" text="Enable crosshair for ranged weapons." />
+    <string id="jIcGy6gI" text="{LEFT} : {RIGHT}" />
+    <string id="JKH8aiDE" text="Toggle Characters" />
+    <string id="JLqe3lrb" text="Combat AI Difficulty" />
+    <string id="JLtTANZg" text="Move Left" />
+    <string id="JmvywkK6" text="Map Move Up" />
+    <string id="jOGbGqOC" text="Enable Vertical Aim Correction" />
+    <string id="JP1y1i0A" text="Equip Weapon 4" />
+    <string id="Js1lhJkk" text="Language" />
+    <string id="js6LONvV" text="Move Backward" />
+    <string id="Ju6btXsv" text="Control Attack Direction" />
+    <string id="jvOYgHOe" text="Custom" />
+    <string id="JXdwIX8Q" text="Set thickness for trails of weapons." />
+    <string id="jy9orOJz" text="Play" />
+    <string id="JZFXI1LK" text="UI Scale" />
+    <string id="jZs8I1Uq" text="Enables the film grain." />
+    <string id="JZYQGUF3" text="Down Double Press: Sudden Break" />
+    <string id="k0nSlwe9" text="Auto Save Interval" />
+    <string id="k3LajvfJ" text="Banner Editor" />
+    <string id="k4E1gylQ" text="Sets the amount of sharpen effect." />
+    <string id="k7gJYLLj" text="Numpad 8" />
+    <string id="K80z5onY" text="Determines how far will the camera be in third-person." />
+    <string id="kak4GxOh" text="F6" />
+    <string id="kCXjabff" text="Shows chat log. Starts typing to Team Chat in Multiplayer." />
+    <string id="ke34iiXU" text="Slow Down While Giving Orders" />
+    <string id="kG4051e5" text="SelectOrder7" />
+    <string id="KGaaYZi1" text="Refresh Rate" />
+    <string id="Kh8qRccB" text="Reset changes." />
+    <string id="KHbdmIfF" text="Static Only" />
+    <string id="khHVSEiK" text="Move map camera upward in campaign map." />
+    <string id="KiY5M2uk" text="Save data successfully created." />
+    <string id="KjZas5Xs" text="Sets the display adapter that the game will run on." />
+    <string id="kKg8oyGu" text="F19" />
+    <string id="KKNmozPI" text="Left Arrow" />
+    <string id="Kksv0KyL" text="Select Group 7." />
+    <string id="KL8cGTao" text="Radial" />
+    <string id="kNpWwJcc" text="High (500)" />
+    <string id="KO5zuUvN" text="Action" />
+    <string id="KONClayU" text="\" />
+    <string id="koX9okuG" text="None" />
+    <string id="KShlkb9M" text="Rotate map camera to left." />
+    <string id="KtYtBnvP" text="Sets the frame limiter." />
+    <string id="KUEHAD4U" text="Quests" />
+    <string id="KUGomrhD" text="Don't Show Again" />
+    <string id="KwNTg7BT" text="Display Mode" />
+    <string id="l4ex8t6l" text="5 waves" />
+    <string id="l5aKnGy3" text="Initiate Chat" />
+    <string id="l7Rfaa8f" text="Select Group 8." />
+    <string id="L992LXVF" text="Toggle Camera Follow Mode. Toggle between &quot;Focus on player&quot; or &quot;Free cam&quot;." />
+    <string id="lC5xsoSh" text="Unlimited" />
+    <string id="lCucoVwJ" text="Estimated GPU Memory Usage" />
+    <string id="lG7AlfxK" text="Map Track Settlement" />
+    <string id="lgOBD6MF" text="Enable marks for direction of attack." />
+    <string id="lgzmPG6K" text="Crouch" />
+    <string id="LjNnWa7R" text="F10" />
+    <string id="LJZAvH8f" text="Texture Quality" />
+    <string id="ll2iP8yo" text="Using more than your available GPU memory can result in serious performance drops and stability issues. Proceed with caution." />
+    <string id="Lm5Wj9ty" text="Voice Chat Volume" />
+    <string id="Lo0bRwYO" text="Cannot create save data. Save data is corrupted." />
+    <string id="Lp0byzGQ" text="I" />
+    <string id="LroTz1rL" text="Enable slowing down the game while the player is giving orders." />
+    <string id="lsQ1kFLn" text="Equipment Switch Menu" />
+    <string id="LsX8rTwl" text="Open Character Development screen." />
+    <string id="lsxqkhy6" text="O" />
+    <string id="LTxU2AST" text="Sets the interval of time between autosaves. Value is in minutes." />
+    <string id="Lu1sjJKR" text="Dynamic Resolution Scaling" />
+    <string id="m1PinhQd" text="Open Party Screen." />
+    <string id="M1ZFZR5I" text="Terrain Quality" />
+    <string id="M3bY9bLu" text="Enable informative messages." />
+    <string id="m4Lketfz" text="Invert Y Axis for camera control." />
+    <string id="m7B471Hw" text="Sets the lighting quality." />
+    <string id="m7IunCRL" text="Open Banner Editor screen." />
+    <string id="mAxXKaXp" text="Reset" />
+    <string id="mBYYRzog" text="Enable Voice Chat" />
+    <string id="Mf5qVgAv" text="Equip Item 3" />
+    <string id="MFbBFDqx" text="Map Fast Move" />
+    <string id="MfsNAPh6" text="Enables the subsurface scattering." />
+    <string id="MfunBOxF" text="Calibrate contrast levels." />
+    <string id="mG4rCrfE" text="0" />
+    <string id="Mja6xKiX" text="Order Visuals Type" />
+    <string id="MkKL3Y4P" text="Numpad 7" />
+    <string id="mkQiThTA" text="Config data successfully created." />
+    <string id="mLtHlKzD" text="Right Alt" />
+    <string id="MNsKxGzK" text="Texture Streaming Budget" />
+    <string id="mueocuFG" text="Show Indicators" />
+    <string id="mWnA4X5D" text="Select Order 6" />
+    <string id="mWT9b9ZM" text="Medium (75)" />
+    <string id="MXHkvySm" text="F7" />
+    <string id="MxmOWsHj" text="Encyclopedia" />
+    <string id="Mxnj08mB" text="Move Party Right" />
+    <string id="n23hFPye" text="Change Cursor Mode" />
+    <string id="N5fmlTza" text="{LEFT}, {RIGHT}" />
+    <string id="nbXC9aIe" text="120 Hz Mode" />
+    <string id="nD11hOsQ" text="Open Quest Log." />
+    <string id="nDjFBDvE" text="Sets the maximum number of units on battles. A higher value requires better CPU and GPU." />
+    <string id="nLhH8JhZ" text="Voice chat volume level." />
+    <string id="NMP6nR8C" text="DLSS Performance" />
+    <string id="NN7DHB1A" text="Group 1 Hear" />
+    <string id="noYzJpKr" text="Toggle Zoom" />
+    <string id="NSSsxBHV" text="Randomize" />
+    <string id="nwdlr4MI" text="Decline Current Running Poll." />
+    <string id="o0QPZODk" text="Move Party Left" />
+    <string id="o2wElwi5" text="Homogeneous" />
+    <string id="o8WjGqS4" text="Z" />
+    <string id="O9ed2AWr" text="Finalize message if chat box is active. Otherwise, activate chat box." />
+    <string id="ocNVbyPJ" text="Borderless Fullscreen" />
+    <string id="oCtaP2tZ" text="This option is disabled because DLSS is enabled." />
+    <string id="odsVjkbO" text="Open Inventory." />
+    <string id="oEdTBobd" text="Anisotropic 2X" />
+    <string id="OeJ53VmM" text="Target framerate to be maintained by the &quot;Dynamic Resolution Scaling&quot; setting.{newline}{newline}It is advised that you set it to the lowest framerate you're comfortable playing with. Setting a value that's too high will cause unnecessary resolution drops." />
+    <string id="OgXnrvcA" text="Enables the cloth simulation. Uses GPU resources." />
+    <string id="oHaWR73d" text="Ok" />
+    <string id="oI1gktYa" text="Sound effects volume level." />
+    <string id="OiB50fga" text="Map Select" />
+    <string id="oIuCX8KW" text="Equip/Drop Equipment" />
+    <string id="OlajLkbl" text="F13" />
+    <string id="oMaTg568" text="Get camera closer to campaign map." />
+    <string id="Oo7wQbfG" text="X2 Mouse Button" />
+    <string id="Op68a8dO" text="Menu Shortcuts" />
+    <string id="opGK2hO0" text="Hides battle UI elements while the player is in a mission." />
+    <string id="otHjiYlN" text="Particle Quality" />
+    <string id="OtS4DYD1" text="T" />
+    <string id="owS8kqZs" text="Determine unit spawn prioritization.{newline}Default: Units spawn according to their position in the party roster.{newline}High Level: High level units will spawn first.{newline}Low Level: Low level units will spawn first.{newline}Homogeneous: Spawn units homogeneously based on their troop types rather than their levels. This option will try to fill the ranks with each type of unit at the same ratio and ignore their tiers while doing it.{newline}The settings above apply only to the player's starting composition. The AI is not affected." />
+    <string id="OYaqdNAI" text="Select Order 2" />
+    <string id="P4rblFQN" text="Map Zoom Out" />
+    <string id="P5x1HU1u" text="Anti-aliasing" />
+    <string id="P7E3rS3m" text="Music volume level." />
+    <string id="pa8A2VG3" text="Enable the red border around the screen when the player takes damage." />
+    <string id="PACe9VHN" text="&lt;" />
+    <string id="PADeKaAu" text="Map Context Menu" />
+    <string id="PBzbWfGF" text="Lock Target" />
+    <string id="PC77pnRB" text="Leader Only" />
+    <string id="pialOblr" text="Order Hold" />
+    <string id="PksJtzwJ" text="Space" />
+    <string id="Pkw17hO0" text="Combat Speed" />
+    <string id="PmbKYDON" text="Cheer" />
+    <string id="pnEeRPAk" text="Group 7 Hear" />
+    <string id="pNocZkrx" text="Enable Damage Taken Visuals" />
+    <string id="poorCampaignAI" text="Poor" />
+    <string id="poorCombatAI" text="Poor" />
+    <string id="pQLVaBuN" text="Invert Camera Y Axis" />
+    <string id="pQVSwtfn" text="Move camera closer to your character in third person view." />
+    <string id="PRsSB9B8" text="Interact with weapons, mounts, doors, people etc." />
+    <string id="ps103cxD" text="Perform an attack with your weapon." />
+    <string id="psCircleButton" text="circle button" />
+    <string id="psDownDirectionButton" text="down button" />
+    <string id="pshodFff" text="Weapon Trail Visibility" />
+    <string id="psL1Button" text="L1 button" />
+    <string id="psL2Button" text="L2 button" />
+    <string id="psLeftDirectionButton" text="left button" />
+    <string id="psLeftStick" text="left stick" />
+    <string id="psLeftStickDown" text="left stick down" />
+    <string id="psLeftStickLeft" text="left stick left" />
+    <string id="psLeftStickRight" text="left stick right" />
+    <string id="psLeftStickUp" text="left stick up" />
+    <string id="psOptionsButton" text="OPTIONS button" />
+    <string id="psR1Button" text="R1 button" />
+    <string id="psR2Button" text="R2 button" />
+    <string id="psRightDirectionButton" text="right button" />
+    <string id="psRightStick" text="right stick" />
+    <string id="psRightStickDown" text="right stick down" />
+    <string id="psRightStickLeft" text="right stick left" />
+    <string id="psRightStickRight" text="right stick right" />
+    <string id="psRightStickUp" text="right stick up" />
+    <string id="psSquareButton" text="square button" />
+    <string id="psTouchpadButton" text="touch pad button" />
+    <string id="psTriangleButton" text="triangle button" />
+    <string id="psUpDirectionButton" text="up button" />
+    <string id="psXButton" text="cross button" />
+    <string id="PtI8voo3" text="F8" />
+    <string id="PvNGaexX" text="Hold to show marks for important people, places, nameplates etc." />
+    <string id="pVrv5hnp" text="B" />
+    <string id="py0auN0A" text="{ESTIMATED} MB / {TOTAL} MB" />
+    <string id="Q1kAeH3b" text="F16" />
+    <string id="QaMie1KY" text="Melee Only" />
+    <string id="Qbz9VJGw" text="{Modifier} + {KEY}" />
+    <string id="QBzjt1c4" text="Extended Key 1" />
+    <string id="QcNaK9xX" text="Animation Sampling Quality" />
+    <string id="qDhDbZKh" text="Track Settlement currently hovered over settlement" />
+    <string id="qDVoGsb9" text="Hold to give orders with a gamepad." />
+    <string id="QfsXhxOI" text="Ultra (800)" />
+    <string id="qggjceRq" text="Sound Output" />
+    <string id="QiYy3Ja4" text="Select Order Return" />
+    <string id="QKy9a176" text="Strafe Left" />
+    <string id="qmplQd0Q" text="Three Part" />
+    <string id="qNPmVDmU" text="Sets the NVIDIA DLSS method if applicable. " />
+    <string id="qnxJYAs7" text="Party" />
+    <string id="QObLf5jh" text="Select on Map" />
+    <string id="qOcw1xap" text="Page Down" />
+    <string id="QoGjzEwI" text="Move Back" />
+    <string id="Qp3i4PrW" text="TV" />
+    <string id="QpUkFQnj" text="Locks the framerate to 40 Hz on the Fidelity Mode and unlocks it on the Performance Mode." />
+    <string id="qR4S6PeD" text="DLSS Quality" />
+    <string id="qS0z458V" text="~" />
+    <string id="QsdUafoH" text="Select Order 5" />
+    <string id="qSJZyoro" text="F2" />
+    <string id="qsrqjK0B" text="Sets the detail level of environment props." />
+    <string id="qtgBKzY8" text="Sets the number of visible corpses." />
+    <string id="qvaJYO9c" text="Anisotropic 16X" />
+    <string id="qW1FWX0C" text="Down Arrow" />
+    <string id="r4wEESkT" text="Enable event log in campaign map and missions." />
+    <string id="r5onpWZW" text="Always" />
+    <string id="R9cQCadq" text="Choose how to perform attacks." />
+    <string id="r9tGsO4Z" text="Game Restart Required" />
+    <string id="RaijrIxP" text="Interact" />
+    <string id="rbz1Bwbv" text="Inventory" />
+    <string id="Rh7aDJ3n" text="Banner Window" />
+    <string id="rHeu8Ndg" text="Open Face Generation." />
+    <string id="Rhl5E2ut" text="Sets the type of shadows." />
+    <string id="RhUd5Y2T" text="Accept Current Running Poll." />
+    <string id="rKvjSSri" text="F14" />
+    <string id="rNiESgEo" text="]" />
+    <string id="ro0NhUnJ" text="Set field of view for first person camera." />
+    <string id="roJLc9oH" text="Half" />
+    <string id="rP058aIm" text="Equip the item in your first slot." />
+    <string id="rs0wImmD" text="Cannot create save data." />
+    <string id="rS6nO0wb" text="Toggle Vignette" />
+    <string id="RSmsn6mb" text="Resume/Pause Time" />
+    <string id="RX76Kfa8" text="Camera Toggle" />
+    <string id="rXftSOjn" text="Map Rotate Right" />
+    <string id="rxTqpENB" text="F20" />
+    <string id="rYCYUZu5" text="Group 5 Hear" />
+    <string id="RZ1x41t2" text="Enable incoming voice chat messages from players in your team." />
+    <string id="s4r1xdg0" text="Group 6 Hear" />
+    <string id="s533kEjf" text="Music Volume" />
+    <string id="s5EnYLUp" text="Cheer on click. Open Cheer wheel on hold." />
+    <string id="s7yWjpeB" text="Selected Adapter" />
+    <string id="sAa2SIgO" text="You can switch between different mix modes better suited to your speaker configuration." />
+    <string id="sAoWNAwZ" text="Windowed" />
+    <string id="sbUBtOTb" text="Report Damage" />
+    <string id="sCjtEbTF" text="These modules have been removed from the game:" />
+    <string id="SEucYSln" text="Numpad 2" />
+    <string id="ShDZ4GgG" text="Equip Weapon 3" />
+    <string id="sPqkglTv" text="Hide Battle UI" />
+    <string id="sQCP8t0U" text="Map Wait" />
+    <string id="StaoHYba" text="Group 4 Hear" />
+    <string id="sTlHHQPs" text="You will need to restart Bannerlord for this setting to take effect" />
+    <string id="SuYh3GtG" text="Toggle Weapon Mode" />
+    <string id="SWDHaFCK" text="SelectOrder4" />
+    <string id="swdKFkfu" text="F21" />
+    <string id="SWk141EO" text="Sheathe your equipped weapon." />
+    <string id="sxFsZAeC" text="1" />
+    <string id="sxIWNefq" text="Legacy" />
+    <string id="t0vgSn7D" text="Select Next Group" />
+    <string id="T3Ex0K1p" text="End" />
+    <string id="T6IJg6wq" text="Map Camera Follow Mode" />
+    <string id="TbCbHxeF" text="Toggle Group Selection" />
+    <string id="tbGol5PT" text="F4" />
+    <string id="tbwhjsqS" text="Right Mouse Button" />
+    <string id="Tdf5AbRp" text="Open Clan Screen." />
+    <string id="TEuOMadV" text="Tab" />
+    <string id="tewykKdc" text="Control Block Direction" />
+    <string id="tFZspabL" text="Switch to Previous Tab" />
+    <string id="TgIAHPHs" text="Select Order 4" />
+    <string id="tifiQGTa" text="Open Kingdom Screen." />
+    <string id="TIYrYxpr" text="Select Group 5" />
+    <string id="tkCbjgfx" text="Numpad -" />
+    <string id="TlpNyR2U" text="Low Level" />
+    <string id="tlR1jGNH" text="Toggle Pause Menu" />
+    <string id="TOebahlA" text="Map Time Fast Forward" />
+    <string id="toHFqO2G" text="Select Order 5." />
+    <string id="TRmaxjal" text="Enable vertical aim correction while in third person mode." />
+    <string id="tsPjK1Ke" text="Enabled" />
+    <string id="ttCcMbwO" text="Up Arrow" />
+    <string id="TtWjblNo" text="Toggle Show" />
+    <string id="TUWeNFOv" text="Take Screenshot" />
+    <string id="TvGJqPGp" text="Enable reports for deaths and knock outs." />
+    <string id="tw5Wxv3b" text="Numpad ." />
+    <string id="TWbbfaUu" text="Move map camera to right in campaign map." />
+    <string id="TybJcG0A" text="Very Low (64) " />
+    <string id="tZGftbOD" text="Push To Talk" />
+    <string id="TzpULeDH" text="Select Order Return." />
+    <string id="u2dQaVY2" text="Equip the item in your third slot." />
+    <string id="U58amXO0" text="Hold to show equipment switching menu." />
+    <string id="U5xKAHGi" text="Bloom" />
+    <string id="u6QCWQvu" text="Four Part" />
+    <string id="u7FkCtRN" text="Group 0 Hear" />
+    <string id="U8NaF1bo" text="Calibrate" />
+    <string id="Uaae1eBV" text="Right Double Press: Sudden Right" />
+    <string id="UboDNGJw" text="Select Group 7" />
+    <string id="uBRn8Je8" text="3" />
+    <string id="Uc1n5MRj" text="NVIDIA DLSS" />
+    <string id="ucyy9Sc5" text="{LEFT} / {RIGHT}" />
+    <string id="UFHqkvah" text="Interactive Grass" />
+    <string id="uGEcLaqw" text="Roll Camera Right" />
+    <string id="UItoMdHh" text="Cannot create config data. Not enough space." />
+    <string id="UixNc11t" text="Defend attacks with your weapon or shield." />
+    <string id="ukw0Zi1X" text="[" />
+    <string id="UNmUcizM" text="Select Order 3" />
+    <string id="Uojm77jP" text="Lighting Quality" />
+    <string id="UoxjMhfJ" text="SelectOrder1" />
+    <string id="UqB9zKfE" text="Equip Primary Weapon" />
+    <string id="uQfDuGem" text="Character Zoom Out" />
+    <string id="urbLiiQJ" text="Configure Exposure" />
+    <string id="uRXlSUVh" text="N" />
+    <string id="uSGPBRFS" text="Zoom" />
+    <string id="UTU6yVsp" text="Resume time in campaign map." />
+    <string id="uUHUfeQr" text="Select Group 6" />
+    <string id="UwJIMaRi" text="Shader Quality" />
+    <string id="UwuYCgIU" text="Caution" />
+    <string id="v2me5eP1" text="Toggle Vignette." />
+    <string id="V5ltCcw0" text="High (125)" />
+    <string id="v8GIxASM" text="V-Sync" />
+    <string id="vAnlshLW" text="9" />
+    <string id="VasVb9DK" text="Equip your weapon or change to the next one." />
+    <string id="VAtNIoKC" text="L" />
+    <string id="VdGuZAoK" text="Hide the User Inferface." />
+    <string id="Ve99pCSo" text="Cloth Simulation" />
+    <string id="VE9TavSl" text="Sets the decal quality." />
+    <string id="Vea6bRUO" text="Enable interface elements that report players damage and casualities in center bottom." />
+    <string id="vJ41v8zh" text="Friendly Troops Banner Opacity" />
+    <string id="vJDxgaOZ" text="These modules' versions are different:" />
+    <string id="VklN5Wm6" text="Photo Mode" />
+    <string id="VLxclitg" text="Enable Chat Log" />
+    <string id="vOanWRQi" text="Select Order 1." />
+    <string id="vOVdr24b" text="Select Order 4." />
+    <string id="vT3yIxmO" text="Numpad 4" />
+    <string id="vvKU6wTA" text="Voice-over volume level." />
+    <string id="vXvmeGhm" text="Shadow Type" />
+    <string id="VzSerzva" text="Right Shift" />
+    <string id="W3NRW1d4" text="Choose the layout of orders (i.e. order categories and keys){newline}Default: The default order layout.{newline}Legacy: The order layout used in the earlier versions of the game." />
+    <string id="w4l8xA2Q" text="Map Move Left" />
+    <string id="waNCurZY" text="Enables the motion blur." />
+    <string id="wb84GjZw" text="Shadow Filtering" />
+    <string id="WBVMg0bd" text="Sets the texture filtering technique. A higher value means more detailed and sharp textures." />
+    <string id="wg5YeO4k" text="Campaign Map" />
+    <string id="wGa1SUop" text="Equip the item in your second slot." />
+    <string id="whn4v32E" text="Sets the resolution of shadows." />
+    <string id="WiBlu6mE" text="SelectOrder9" />
+    <string id="wJWICbOg" text="Your preferred game language." />
+    <string id="WldVAZhy" text="Sets the detail level of character models." />
+    <string id="wMe5p2HG" text="7" />
+    <string id="WMmGH9yp" text="Get camera further from campaign map." />
+    <string id="WOubRnjm" text="Report Experience" />
+    <string id="WP4bYHK2" text="Polls" />
+    <string id="WP6GEbYa" text="Keep game sounds while game is out of focus." />
+    <string id="Wr2DX9Go" text="F23" />
+    <string id="wubDWOlh" text="Select Profile" />
+    <string id="WVpVmbzC" text="These modules are new in the game:" />
+    <string id="wWDHH5FK" text="Depth of Field" />
+    <string id="wygub2sh" text="F15" />
+    <string id="wYicqUa9" text="Map Time Normal" />
+    <string id="X1nFnomy" text="Medium (400)" />
+    <string id="X2CbgcZ9" text="By Look Direction" />
+    <string id="X5cSNxHf" text="5" />
+    <string id="x7kYOUfi" text="Effects Volume" />
+    <string id="x7qfk550" text="Q" />
+    <string id="xboxBackButton" text="View Button" />
+    <string id="xboxDpadDown" text="D-pad Down" />
+    <string id="xboxDpadLeft" text="D-pad Left" />
+    <string id="xboxDpadRight" text="D-pad Right" />
+    <string id="xboxDpadUp" text="D-pad Up" />
+    <string id="xboxLeftBumper" text="left bumper" />
+    <string id="xboxLeftStick" text="Left Stick" />
+    <string id="xboxLeftStickDown" text="Left Stick Down" />
+    <string id="xboxLeftStickLeft" text="Left Stick Left" />
+    <string id="xboxLeftStickRight" text="Left Stick Right" />
+    <string id="xboxLeftStickUp" text="Left Stick Up" />
+    <string id="xboxLeftTrigger" text="left trigger" />
+    <string id="xboxRightBumper" text="right bumper" />
+    <string id="xboxRightStick" text="Right Stick" />
+    <string id="xboxRightStickDown" text="Right Stick Down" />
+    <string id="xboxRightStickLeft" text="Right Stick Left" />
+    <string id="xboxRightStickRight" text="Right Stick Right" />
+    <string id="xboxRightStickUp" text="Right Stick Up" />
+    <string id="xboxRightTrigger" text="right trigger" />
+    <string id="xboxStartButton" text="Menu Button" />
+    <string id="XCB1SGxZ" text="Start Benchmark" />
+    <string id="xEquRfRF" text="10" />
+    <string id="xikMYwty" text="DLSS Ultra Performance" />
+    <string id="xJpOH8DU" text="Open Encyclopedia" />
+    <string id="XldS0fkN" text="Change Camera Follow Mode" />
+    <string id="xlxTJuJ9" text="Select Everyone." />
+    <string id="xMoqTFkZ" text="By Inverse Look Direction" />
+    <string id="XnhBdHnS" text="Surround" />
+    <string id="xNprkuJl" text="Drop Weapon" />
+    <string id="xnulLUFX" text="Save your game quickly with a shortcut." />
+    <string id="XrUGC7H4" text="Backspace" />
+    <string id="XtiGbj0W" text="Show Cursor" />
+    <string id="xuOz73hl" text="Choose whether blood is visible in battles." />
+    <string id="xZ84ujuu" text="How many sounds could be played at once. Lower values will lower your CPU usage while higher values delivers better atmosphere." />
+    <string id="y5FGfFdf" text="F17" />
+    <string id="y7dx24ih" text="Turn camera as you change direction on a horse in first person view." />
+    <string id="Y94H6XnK" text="Accept" />
+    <string id="YAHs7wBa" text="Select Order 8" />
+    <string id="YDccwh2x" text="Master Volume" />
+    <string id="yDr2HCFR" text="Switch to 360 degree view mode around your character." />
+    <string id="yfMN8wWN" text="Anisotropic 4X" />
+    <string id="Yg2jHH1M" text="Numpad /" />
+    <string id="YirOUaIV" text="Decrease Camera Focus." />
+    <string id="yLCSTuBw" text="Sets the resolution of the game. Higher resolution requires a more powerful display adapter." />
+    <string id="Yn8bh0qT" text="Equip Next Shield" />
+    <string id="yruQv3th" text="3 waves" />
+    <string id="YT6ljA5V" text="Map Move Forward" />
+    <string id="YTXLLaEN" text="High Level" />
+    <string id="yV64UCaW" text="Zoom In" />
+    <string id="YZv1752W" text="D" />
+    <string id="yZvw7EQb" text="Screen Space Reflection" />
+    <string id="z5Kbb4pC" text="DLSS Balanced" />
+    <string id="z6ezjlkX" text="Shift" />
+    <string id="z8XjxODK" text="Change to alternative usage for a weapon. Melee or ranged, one handed or two handed." />
+    <string id="ZaaPPemL" text="SelectOrder8" />
+    <string id="ZeIsxhk4" text="Sets the shadow filtering technique." />
+    <string id="ZewnkWoO" text="G" />
+    <string id="Zgs47DHB" text="Caps Lock" />
+    <string id="ZIKuUbUG" text="Sets the number of simultaneous ragdoll simulations." />
+    <string id="ZKg3DqbQ" text="Determines the opacity of the banners shown on top of the friendly troops." />
+    <string id="ZlcrmFvl" text="Switch to Next Tab" />
+    <string id="znSZmZvV" text="Map Move Right" />
+    <string id="Zo2ngsUk" text="Face Generation" />
+    <string id="ZoDugJHP" text="Select Previous Group" />
+    <string id="zofULNb8" text="Equip Secondary Weapon" />
+    <string id="ZOUxmamu" text="Set sensitivity for cursor movement and camera control." />
+    <string id="ZP1tLaa1" text="Numpad 9" />
+    <string id="ZtDJrNz9" text="Film Grain" />
+    <string id="zTFbqJ6R" text="'" />
+    <string id="ZtxvyzjY" text="Sound Channels" />
+    <string id="ZUGXXsGj" text="Reinforcement Wave Count" />
+    <string id="zUXxshZK" text="F12" />
+    <string id="zvD48rVQ" text="Quick Save" />
+    <string id="ZvjfAm7H" text="Cannot create save data. Not enough space." />
+    <string id="ZVLr4CMO" text="X1 Mouse Button" />
+    <string id="ZvtKqPt3" text="Left Double Press: Sudden Left" />
+    <string id="zwL5NFAr" text="Insert" />
+    <string id="ZX8TLWzd" text="DLSS is not available for this system." />
+    <string id="zxMOqlhs" text="Attack" />
+    <string id="zXUB15lX" text="Dynamic Resolution FPS Target" />
+    <string id="zyR3jbj2" text="Faster Camera" />
+    <string id="zzonsjpL" text="High (512)" />
+  </strings>
+</base>
