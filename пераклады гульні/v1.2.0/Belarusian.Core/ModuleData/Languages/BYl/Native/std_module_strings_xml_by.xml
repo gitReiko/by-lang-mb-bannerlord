@@ -75,6 +75,7 @@
     <string id="2Ja8KYVg" text="Nastup" />
     <string id="2JnLh6F0" text="Chłuślivaść" />
     <string id="2Jr3zWQz" text="Koni i Vupraž Koniej" />
+    <string id="2Mic7nhz" text="Usim čalcam partyi brakuje navyku {SKILL} dla vykanańnia zamovy." />
     <string id="2noOKM5N" text="Źviazanyja handlem sieliščy" />
     <string id="2RFda5ph" text="{GOLD_AMOUNT}{GOLD_ICON} atrymana ŭ jakaści ŭznaharody." />
     <string id="2RIyK1bp" text="Zbroja" />
@@ -186,7 +187,7 @@
     <string id="6bex2HUl" text="Chacia zdajecca, što bolšaść ludziej spraŭlajecca z prablemami, šmat chto vyhladaje razdražnionym, i vy čujecie, jak niekalki minakoŭ marmyčuć, što ich ciarplivaść vyčerpvajecca. Vy adčuvajecie, što niešta moža zavarušycca." />
     <string id="6Bk1YjS4" text="Kali vy sprabujecie prymusić žycharoŭ addać vam tavary, niekatoryja ź ich mohuć dać adpor." />
     <string id="6bx9IhpD" text="Palapšeńni" />
-    <string id="6dNTZdPf" text="Stoj, imiem volnych ludziej hor! Dyk, niešta maješ dla nas?" />
+    <string id="6DZx6jTA" text="Pałonnyja, Jakich Lha Rekrutavać" />
     <string id="6e82kCVB" text="Tronak z Karotkim Zucham" />
     <string id="6GmsZ7AG" text="Vy addali {COUNT} {ITEM} partyi {PARTY_NAME}." />
     <string id="6GSXsdeX" text="Chutkaść" />
@@ -204,6 +205,7 @@
     <string id="6Xl9F8Oa" text="Kramaŭ u Horadzie" />
     <string id="6XYG7bux" text="Vy źbirajeciesia vydatkavać {AMOUNT}{INFLUENCE_ICON}" />
     <string id="72Rasm5f" text="U nas ničoha niama: ni srebra, ni tavaraŭ." />
+    <string id="7663BDwd" text="Harnizony ({CURRENT})" />
     <string id="77aNVVE0" text="Bonus viadomaści" />
     <string id="77SdNt8C" text="Vašy apanient pabudavaŭ suprać vas barjer. U vas zastałosia mieniej piešak. Vy prajhrali hulniu!" />
     <string id="79cOhac4" text="Pojdzie. Prynamsi, pakul. Padarožničajcie biaśpiečna. Spadziajusia ŭbačyć vas iznoŭ.[ib:closed][rf:convo_bemused]" />
@@ -223,6 +225,7 @@
     <string id="7h6cXdW7" text="Inžynier" />
     <string id="7hj7Kaoz" text="Uvieś Dachod" />
     <string id="7IqpjCDY" text="Pakarańnie śmierciu pałonnaha admoŭna adabjecca na vašaj reputacyi i pahoršyć adnosiny z frakcyjaj/kłanam pałonnaha.{newline}Vy nia zmožacie skasavać hetaje dziejańnie.{newline}Vy ŭpeŭnieny, što žadajecie pakarać śmierciu hetaha piersanaža?" />
+    <string id="7j4fQHg7" text="Lasnaja Bitva{newline}{newline}• Piachota atrymlivaje maleńki bonus.{newline}• Łučniki atrymlivajuć siaredni štraf.{newline}• Vieršnica atrymlivaje vialiki štraf.{newline}• Konnyja łučniki atrymlivajuć žorstki štraf." />
     <string id="7JpAR59k" text="Užyvajecca dla pieravozki hruzaŭ" />
     <string id="7llkDelg" text="Pastanovy Haspadarstva" />
     <string id="7mRN2br0" text="Lidarstva nad pabudovaj pieradadziena {HERO_NAME}." />
@@ -233,6 +236,7 @@
     <string id="7sUhWG0E" text="Kolučaja škoda: " />
     <string id="7sZMMYbe" text="Małaja Frakcyja" />
     <string id="7t1daAel" text="Drenny vynachod, siabar.[ib:aggressive][if:convo_very_stern]" />
+    <string id="7UNcl2xi" text="Nielha rekrutavać pałonnaha" />
     <string id="7vdgxtwo" text="IV" />
     <string id="7vrdpDFK" text="&lt;b&gt;Manhanel&lt;/b&gt;{NEWLINE}Kidaje kamieńnie na adlehłaść z dapamohaj tarsijonnaj ciahi.{NEWLINE}Adnolkava efiektyŭny suprać ścienaŭ i abłohavych mašynaŭ voraha ź ich piersanałam." />
     <string id="7W79uw0y" text="Viarnuć da Pradvyznačanych" />
@@ -263,7 +267,7 @@
     <string id="8kVhiTmu" text="Nastupny Rovień:" />
     <string id="8l8xEu64" text="Kupić i Ekipijavać" />
     <string id="8LhfzIQE" text="r" />
-    <string id="8mBT44QK" text="Šlachta frakcyi {FACTION}" />
+    <string id="8mBT44QK" text="Šlachta frakcyi {FACTION_INFORMAL_NAME}" />
     <string id="8oaVYIlk" text="Vy znadvorku {SETTLEMENT_NAME}. Vy nia možacie ŭvajści ŭ zamak, bo jon naležyć vorahu." />
     <string id="8OkPHu4f" text="Nie" />
     <string id="8Rkxc5jE" text="Niama ježy" />
@@ -340,7 +344,6 @@
     <string id="aHKwty74" text="Skasavać Dziejańnie" />
     <string id="aHu7bgbx" text="{DAY_OF_YEAR} {YEAR} hodu. {HERO_NAME} {?HERO_NAME.GENDER}dasiahnuła{?}dasiahnuŭ{\?} paŭnalećcia." />
     <string id="AI2Spvw0" text="Abrać" />
-    <string id="aieN31uq" text="Kampańjony ({COMPANION_COUNT}/{COMPANION_LIMIT})" />
     <string id="AIh1Ik4A" text="Kalradyjskaja Impieryja" />
     <string id="aIkffnN6" text="Piersanažy" />
     <string id="aiX4b5kS" text="Vykananyja Kvesty" />
@@ -408,6 +411,7 @@
     <string id="bAHNQGAw" text="Našym chaŭruśnikam patrebna dapamoha. Źniać abłohu!" />
     <string id="baIUUw1c" text="Vydatkujcie ŭłasny ŭpłyŭ, kab pavialičyć upłyŭ abranaha kłana" />
     <string id="BANC61K5" text="Papiaredni Piersanaž" />
+    <string id="bARwyXXZ" text="Palapšanyja Vajary" />
     <string id="bB4602W2" text="Kolučaja {THRUST_DAMAGE_TYPE} škoda: " />
     <string id="bbmrHzRF" text="Adpravić Čalcoŭ Kłana ŭ {SETTLEMENT_NAME}" />
     <string id="bBXGPgwe" text="maja dačka {REFERING_HERO.LINK}" />
@@ -494,7 +498,7 @@
     <string id="C4n1rgBC" text="Siha" />
     <string id="c4Pmtkle" text="Koni&amp;Siodły" />
     <string id="C4qjBqLO" text="Sturhija" />
-    <string id="c6Ei8Fqh" text="Vasał haspadarstva {FACTION}" />
+    <string id="c6Ei8Fqh" text="Vasał haspadarstva {FACTION_INFORMAL_NAME}" />
     <string id="C6n2tZlQ" text="moj chaŭruśnik {REFERING_HERO.LINK}" />
     <string id="c7bVbjD7" text="Jak pažadajecie. Z hetaha času, my vajujem za vas." />
     <string id="C9EDof32" text="Vojska Nie Abrana" />
@@ -547,6 +551,7 @@
     <string id="CZqZGAVB" text="Prapanova bartaru skasavana!" />
     <string id="D2KdSGGJ" text="Vy znadvorku {SETTLEMENT_NAME}. Vy nia možaci ŭvajści ŭ sielišča. Zvyčajna, kali vy nabližajeciesia da varožaha horada, na darohach nikoha niama. Ale hetym razam vy prajazdžajecie mima niekalkich minakoŭ i navat čujecie vypadkovyja padbadziorvańni. Vy padazrajecie, što bolšaść žycharoŭ nia majuć addanaści da {FACTION_INFORMAL_NAME}, i što rušeńnie naŭrad ci voźmie ŭ ruki zbroju dla abarony horada." />
     <string id="d4n8AuUh" text="Chaŭrusnyja vajary biahuć. Vy prajhrali bitvu." />
+    <string id="d4OPyxom" text="Jomistaść składu pieravyšana." />
     <string id="D5QlXOV0" text="Krytyčny pravał i pravał usiaho šancu pierakanańnia" />
     <string id="d68pZq4j" text="Patrabavany Uzrovień Navyku" />
     <string id="D7KllIPI" text="Prablemy" />
@@ -554,6 +559,7 @@
     <string id="D8Wjbw9K" text="Mianie złavili, ale potym ja zmoh źbiehčy" />
     <string id="D9WJXQ9Z" text="Adchilić" />
     <string id="DaE0N37L" text="Ziamianie" />
+    <string id="DaMQ9c3T" text="Viaskovaja Bitva{newline}{newline}• Piachota atrymlivaje maleńki bonus.{newline}• Łučniki atrymlivajuć maleńki bonus padčas abarony.{newline}• Vieršnica atrymlivaje siaredni štraf padčas abarony." />
     <string id="DaX6bsaD" text="{ENEMY_PARTY_NAME} atakavała {CLAN_PARTY_NAME} kala {SETTLEMENT_NAME}" />
     <string id="dbdliaP3" text="maja žonka {REFERING_HERO.LINK}" />
     <string id="DBU4VaIl" text="Frakcyja Bandytaŭ" />
@@ -581,7 +587,9 @@
     <string id="DM6luo3c" text="Praciahnuć" />
     <string id="dMKyWmJ6" text="Vy trapili ŭ pastku vorahaŭ." />
     <string id="dO5tqXT8" text="{?HERO.GENDER}Byłaja žonka{?}Były muž{\?}" />
+    <string id="DOaIBObZ" text="(Pradvyznačanaje štodzionnaje stanovicca aktyŭnym, kali praekty nie vykonvajucca)" />
     <string id="DOKG38dF" text="Padkazki Uklučany" />
+    <string id="dpPMuLa4" text="Nielha vykanać nijakuju zamovu." />
     <string id="DqJG7bvh" text="Jomistaść Pieravyšana" />
     <string id="dQRdP9eQ" text="Sutyknieńnie" />
     <string id="DRaJ7hoz" text="Pieramožac" />
@@ -621,6 +629,7 @@
     <string id="Ej0QNsY9" text="piatnaccaty" />
     <string id="eJgaemO5" text="Prybytak ad Stavak: {BET} {GOLD_ICON}" />
     <string id="ejhFyhyx" text="&lt;b&gt;Abłohavaja Vieža&lt;/b&gt;&lt;br&gt;{NEWLINE}Padymaje napadnikaŭ na vyšyniu ścienaŭ i ŭraŭnavažvaje šancy suprać abaroncaŭ." />
+    <string id="ekQP9052" text="Stepavaja Bitva{newline}{newline}• Vieršnica atrymlivaje vialiki bonus.{newline}• Konnyja Łučniki atrymlivajuć vialiki bonus." />
     <string id="eKwhGmbI" text="Paśla taho jak hetyja vajary atrymajuć {XP_AMOUNT} dośviedu, jašče adnamu ź ich budzie dastupna palapšeńnie." />
     <string id="EL7lZLXN" text="Moža Pavalić" />
     <string id="elhSbQfW" text="moj svajak {REFERING_HERO.LINK}" />
@@ -770,6 +779,7 @@
     <string id="gflnRhhe" text="({PRIMARY_ROLE}/{SECONDARY_ROLE})" />
     <string id="GfpRqcWN" text="Abiarycie Łučnikaŭ" />
     <string id="gfQmYDRq" text="Kali vy sprabujecie prymusić ziamianaŭ dać vam rekrutaŭ, niekatoryja žychary źbirajucca, kab dać vam adpor." />
+    <string id="GfR7NY0n" text="Bitva padčas Abłohi{newline}{newline}• Łučniki atrymlivajuć vialiki bonus padčas abarony.{newline}• Vieršnica atrymlivaje siaredni štraf padčas abarony.{newline}• Konnyja łučniki atrymlivajuć vialiki bonus padčas abarony." />
     <string id="gFtu0j4T" text="Streły" />
     <string id="ggMmjk31" text="chibnaj" />
     <string id="ggpRTQQl" text="Lidar Partyi" />
@@ -934,6 +944,7 @@
     <string id="iYCR3xuQ" text="Sturhijskaje Kniastva" />
     <string id="iyDOTnCS" text="Dać im toje, čaho jany prahnuć!" />
     <string id="iyob7aH3" text="Baranicie svaju pazicyju" />
+    <string id="IzDYSckc" text="Karavany ({CURRENT})" />
     <string id="izKWEAbY" text="Kłan Nia Maje Dadatkovych Prybytkaŭ" />
     <string id="j2OaZPQz" text="Vašyja vajary atrymajuć {XP_AMOUNT} dośviedu za achviaravańnie zbroi i/abo brani ŭ zaležnaści ad vašych pieravahaŭ. Jany zmohuć atrymać da {XP_DONATION_LIMIT} dośviedu." />
     <string id="J3ACAwbt" text="Vaš apanient pabudavaŭ barjer suprać vas, ale ŭ vas zastałosia bolej piešak. Vy vyjhrali!" />
@@ -956,6 +967,7 @@
     <string id="JdNTRtpJ" text="Padtrymlivajcie vysokuju maral u svajoj hrupie. Źbirajcie i ŭznačalvajcie vojski. Palapšajcie vašych vajaroŭ" />
     <string id="Jelvod71" text="Zachoplivaje" />
     <string id="jfIbp2Hg" text="Asočvańnie: " />
+    <string id="jFL2rgkP" text="Vy pakidajecie vajaroŭ i/ci pałonnych zzadu! Vy ŭpeŭnienyja?" />
     <string id="JflqTj4T" text="Roznaje" />
     <string id="JG2bgZMM" text="Pierastrelvacca napieradzie chaŭruśnikaŭ {AI_SIDE} {CLASS}" />
     <string id="jGFEbaex" text="Kidok Kostak" />
@@ -1037,8 +1049,8 @@
     <string id="ksDGaGIi" text="dzieviatnaccaty" />
     <string id="ktFeXrXl" text="Vy nia možacie zrabić nijakich krokaŭ. Propusk kroku." />
     <string id="KTGG9EgL" text="Biaśpiečnych padarožžaŭ! Nie dazvalajcie nikomu, aproč nas, abrabavać siabie!" />
-    <string id="Ktk2FaFn" text="Partyi ({CURRENT}\{LIMIT})" />
     <string id="KTUcgvMZ" text="Vy pieravysicie limit vajaroŭ. Heta moža niehatyŭna adbicca na marali vašaj partyi." />
+    <string id="kUBvVY89" text="Bitva Račnoha Pierachodu{newline}{newline}• Piachota atrymlivaje maleńki bonus.{newline}• Łučniki atrymlivajuć maleńki bonus padčas abarony.{newline}• Vieršnica atrymlivaje maleńki štraf padčas abarony." />
     <string id="KUEHAD4U" text="Kvesty" />
     <string id="kuKad3dj" text="{MISSION_MODE}" />
     <string id="kuLjsNgz" text="Viaskovyja Ziamianie" />
@@ -1059,7 +1071,7 @@
     <string id="l4uTnJct" text="Vy pavinny abrać vynik, jakomu addajacie pieravahu, a taksama stupień, ź jakoj žadajecie jaho padtrymać." />
     <string id="l57Dk2DQ" text="Pieravyšany Limit Viaźnicy ({TROOP_NUMBER} pałonnych)" />
     <string id="l6a3grfK" text="vašaja partyja" />
-    <string id="L7qKijnE" text="{COMPANION.LINK} vyjhraje {ITEM_NAME}. Pradmiet dadadzieny ŭ vašy invientar." />
+    <string id="L7qKijnE" text="{COMPANION.NAME} vyjhraje {ITEM_NAME}. Pradmiet dadadzieny ŭ vašy invientar." />
     <string id="L7teSXvq" text="Vy musicie być lidaram vojska, kab kiravać im" />
     <string id="L7wn49Uz" text="Dypłamatyja" />
     <string id="l9Vve3bD" text="Vosień" />
@@ -1093,6 +1105,7 @@
     <string id="lnKAqDVM" text="Baranicie klučavyja pazicyi" />
     <string id="lockverb" text="Zabłakavać" />
     <string id="Lp0byzGQ" text="Ja" />
+    <string id="LpAiJGeV" text="{HERO_NAME} nia moža vykanać anijakuju dastupnuju zamovu." />
     <string id="lpbDPuuW" text="{?RULER.GENDER}Impieratryca{?}Impieratar{\?} {RULER.NAME}" />
     <string id="LpVaZbRS" text="Užo isnuje inšaje haspadarstva z takoj nazvaj." />
     <string id="lqm9PfF1" text="{?RULER.GENDER}Kniažna{?}Kniaź{\?} {RULER.NAME}" />
@@ -1162,7 +1175,7 @@
     <string id="mSPDO0Fe" text="Vy trapili ŭ pastku vorahaŭ. Vy nia ŭ stanie vajavać. Vašy adziny varyjant - zdacca." />
     <string id="MT4b8H9h" text="Nieviadom." />
     <string id="mTTWkewD" text="Dać" />
-    <string id="MUCmJaXQ" text="Haspadar {FACTION}" />
+    <string id="MUCmJaXQ" text="Haspadar {FACTION_INFORMAL_NAME}" />
     <string id="MUStU7ab" text="brat" />
     <string id="MW8rlyfL" text="Kidalnaja Zbroja" />
     <string id="MWatMKoP" text="{DAY_OF_YEAR} {YEAR} hodu. Tajemny pakt pamiž Impierskimi frakcyjami bolej zjaŭlajecca tajamnicaj, bo vojski byłych supiernikaŭ vychodziać na pali boju razam." />
@@ -1185,6 +1198,7 @@
     <string id="n6Q6vv5t" text="Vy narabavali {GOLD} zołata." />
     <string id="N6QTvjMf" text="Pałonnyja" />
     <string id="N7w6zi0F" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} i {?}{\?}{TROOP_NAMES_END} adychodziać nazad." />
+    <string id="N7yWipWU" text="Bitva Račnoha Pierachodu{newline}{newline}• Piachota atrymlivaje maleńki bonus.{newline}• Vieršnica atrymlivaje siaredni štraf padčas ataki.newline}• Konnyja łučniki atrymlivajuć maleńki štraf padčas ataki." />
     <string id="N84HlDaV" text="{NUMBER_OF} {ITEM} ({AMOUNT}{GOLD_ICON})" />
     <string id="n9qR84YI" text="{PRISONER.NAME} {?PRISONER.GENDER}źbiehła{?}źbieh{\?} z {SETTLEMENT}." />
     <string id="NaAA5kjG" text="Abmierkavać mirnuju damovu, budzie atrymana {TRIBUTE} daniny ŭ dzień. (Padtrymka: {SUPPORT}%)" />
@@ -1225,6 +1239,7 @@
     <string id="NQbqtEqP" text="Košt: {COUNT}" />
     <string id="NqSLYe6b" text="Viadomaść:" />
     <string id="NqtTPVzn" text="Atrybuty" />
+    <string id="NRbNsJ9C" text="Heta skasuje vašyja źmieny! Vy ŭpeŭnienyja?" />
     <string id="NRpwZGxI" text="Vajar" />
     <string id="NSSsxBHV" text="Vypadkavać" />
     <string id="NvJru5Tz" text="Tolki Mužčyny" />
@@ -1257,6 +1272,7 @@
     <string id="OEax2Y9c" text="Rabujcie karavany. Rekrutujcie i ŭznačalvajcie bandytaŭ. Prakradvajciesia ŭ varožyja harady. Davajcie chabary. Źbiahajcie z pałonu." />
     <string id="oGflu1jV" text="Užyć adtulinu dla zabojstvaŭ" />
     <string id="OGjq7rpg" text="My viaziom našuju pradukcyju na kirmaš u {TOWN}." />
+    <string id="OgRtdJhu" text="Viaskovaja Bitva{newline}{newline}• Piachota atrymlivaje maleńki bonus.{newline}• Łučniki atrymlivajuć siaredni štraf padčas ataki.{newline}• Konnyja łučniki atrymlivajuć siaredni štraf padčas ataki." />
     <string id="ogtgc69b" text="Vy atrymali prava nasić ściah. Vašy ściah budzie pakazvać vašy status i pryniasie vam honar. Jaki ściah vy žadajecie abrać? " />
     <string id="OGxk0EXC" text="Turnir skončany. {TOURNAMENT_FINAL_PARTICIPANT_A} {?TOURNAMENT_FINAL_PARTICIPANT_A.GENDER}pieramahła{?}pieramoh{\?} {TOURNAMENT_FINAL_PARTICIPANT_B} u finalnym raŭndzie." />
     <string id="oHaWR73d" text="Dobra" />
@@ -1306,6 +1322,7 @@
     <string id="P8Z3zQyy" text="Biaśpiečna" />
     <string id="pa3E7810" text="Rychtoŭla da Abłohi" />
     <string id="PAa618xe" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} i {?}{\?}{TROOP_NAMES_END} robiać vybieh." />
+    <string id="pAOtyE9u" text="Dziunavaja Bitva{newline}{newline}• Vieršnica atrymlivaje vialiki bonus.{newline}• Konnyja łučniki atrymlivajuć vialiki bonus." />
     <string id="pb4KfhxC" text="Vašyja kapitany zahadvajuć taktyčny adstup!" />
     <string id="pB5anEQq" text="Ruchacca da pačatkovaj pazicyi" />
     <string id="pbdrFqb3" text="Siłkom rasfarmavać hetaje vojska" />
@@ -1401,6 +1418,7 @@
     <string id="qKg44yWp" text="Pryjarytet" />
     <string id="QKGVAVcc" text="Pieravahi Starosty" />
     <string id="QL2t7D44" text="Dadatkovy Limit Majsterniaŭ" />
+    <string id="ql8Xr5ap" text="Bitva Padčas Abłohi{newline}{newline}• Łučniki atrymlivajuć vialiki štraf padčas ataki.{newline}• Vieršnica atrymlivaje siaredni štraf padčas ataki.{newline}• Konnyja łučniki atrymlivajuć žorstki štraf padčas ataki." />
     <string id="QlaGZAHq" text="Novaje padmacavańnie prybyło!" />
     <string id="QLM6DWHB" text="Aktyŭnyja Kvesty" />
     <string id="qlnXblKO" text="{ISSUE_NAME}: Vašyja vajary vyrašyli hetaje pytańnie i viarnulisia z misii." />
@@ -1453,12 +1471,13 @@
     <string id="REdb7vbQ" text="{?RULER.GENDER}Sułtana{?}Sułtan{\?} {RULER.NAME}" />
     <string id="redwEIlW" text="Kvatermajstar" />
     <string id="rFvEZJu7" text="Pradmiet ({ITEM_NAME}) dadadzieny ŭ invientar {PLAYER.LINK}." />
+    <string id="rgmnL6sF" text="Pustelnaja Bitva{newline}{newline}• Vieršnica atrymlivaje vialiki bonus.{newline}• Konnyja łučniki atrymlivajuć vialiki bonus." />
     <string id="rGNrtXSx" text="Vy prybyli ŭ {SETTLEMENT}, kab dapamahčy abaranić sielišča ad napadnikaŭ." />
     <string id="RGqPxabq" text="Moc" />
     <string id="rHSjMjWX" text="Vyrašyć Pastanovu" />
     <string id="RiZ9lNAe" text="Uzrovień Ścienaŭ" />
     <string id="RjgBIYvH" text="&lt;b&gt;Palepšany Taran&lt;/b&gt;{NEWLINE}Užyvajecca dla prałomu bramy. Lepiej zvyčnaha." />
-    <string id="RJJ1Pbjk" text="Najmity haspadarstva {FACTION}" />
+    <string id="RJJ1Pbjk" text="Najmity, što zmahajucca za haspadarstva {FACTION_INFORMAL_NAME}" />
     <string id="RKyiu5MH" text="Mahčyma my možam zaklučyć ŭhodu." />
     <string id="rmSkXZlp" text="Turnir skončany. {TOURNAMENT_FINAL_OPPONENT} pieramahaje vas u finalnym raŭndzie." />
     <string id="RNQIG1DS" text="Čuješ hety śvist i vyćcio? Heta nia viecier - heta zdani tych, chto kinuŭ nam vyklik. Rychtujsia dałučycca da ich." />
@@ -1479,6 +1498,7 @@
     <string id="RvKwdXWs" text="Kamandzir" />
     <string id="RVPidk5a" text="Upłyŭ" />
     <string id="rxOK6dn1" text="Maje prava być Vasałam" />
+    <string id="rxxZFVOa" text="{HERO_NAME} moža vykanać {NUMBER} zamovaŭ." />
     <string id="rY23b263" text="Vašy apanient ruchaje piešku." />
     <string id="rZ9aqmaq" text="Isnuje lepšaja cel. My pavinny pajści tudy." />
     <string id="RzjMX0Og" text="Dobra. A zaraz idzi svaim šlacham. Nie zabyvaj pić šmat vady!" />
@@ -1521,6 +1541,7 @@
     <string id="SojzHoCa" text="Tolki Žančyny" />
     <string id="spIe8wd8" text="Adnaručnaja Tronkavaja Zbroja" />
     <string id="spkv1rOW" text="Źmiena Lidara Partyi" />
+    <string id="SqUphVOm" text="Partyi ({CURRENT} / {LIMIT})" />
     <string id="SrfYbg3x" text="Lidar" />
     <string id="SRYuaoh1" text="Hety rehijon achopleny hramadzianskimi chvalavańniami, ale ludzi pa-raniejšamu vymušany zajmacca svaimi štodzionnymi spravami. Hałoŭnym čynam jany nie zatrymlivajucca na kirmašach nadoŭha i nie hladziać u vočy. Ale vy padsłuchoŭvajecie cichija hutarki ab paŭstancaŭ u sielskaj miascovaści. Adny, zdajecca, bajacca paŭstancaŭ, inšyja ŭpotaj ciešacca tamu, što choć na niejki čas bahatyja i mahutnyja paviarnulisia da ich tvaram." />
     <string id="strcharactertypelady" text="Šlachcianka" />
@@ -1678,7 +1699,7 @@
     <string id="Vi6ojGrk" text="{FACTION_1_NAME} suprać {FACTION_2_NAME}" />
     <string id="vIpFgbU6" text="Lohkaja Brania" />
     <string id="ViYdZUbQ" text="Rasfarmavać Vojska" />
-    <string id="VJNJsdif" text="{COMPANION.LINK} {?COMPANION.GENDER}dałučyłasia{?}dałučyŭsia{\?} da vašaj partyi." />
+    <string id="VJNJsdif" text="{COMPANION.NAME} {?COMPANION.GENDER}dałučyłasia{?}dałučyŭsia{\?} da vašaj partyi." />
     <string id="vJOWy1QF" text="Chuzait" />
     <string id="vLU6nNwp" text="Vy pastavili {BET_AMOUNT} na {FIGHTER_NAME}, i {?FIGHTER_GENDER}jana pieramahła{?}jon pieramoh{\?} bitvu. Voś vašaja ŭznaharoda {REWARD_AMOUNT}{GOLD_ICON}." />
     <string id="vmMqs3Ck" text="Šlachta" />
@@ -1738,6 +1759,7 @@
     <string id="wKbafI9r" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} i {?}{\?}{TROOP_NAMES_END} stralajuć z abłohavaj viežy." />
     <string id="wKgpciSx" text="{AMOUNT}{INFLUENCE_ICON}" />
     <string id="WlV9cE5E" text="Najmity nia mohuć prapanoŭvać vajskovyja palityki." />
+    <string id="wmpwMa8j" text="{?IS_POSITIVE}+{?}-{\?}{CHANGE}" />
     <string id="wNHfL0x0" text="{DAY_OF_YEAR} {YEAR} hodu. {NAME} {?NAME.GENDER}zahinuła{?}zahinuŭ{\?} u boi." />
     <string id="wNjhpOOM" text="Ažyciavić Pamien" />
     <string id="wrbea2oa" text="Bałty" />
@@ -1750,6 +1772,7 @@
     <string id="WusvipsF" text="Nie chapaje srodkaŭ!" />
     <string id="WVAUoXMY" text="{CURRENT_XP} / {LEVEL_MAX_XP} dośviedu" />
     <string id="WVqaRKUm" text="Poŭść{@Plural}adzinak poŭści{\@}" />
+    <string id="WvyWpbE8" text="Košt Zhody za Rekrutavańnie Pałonnaha" />
     <string id="wx6DZJ0W" text="+{BONUS_AMOUNT} da ačkoŭ udaru ściany" />
     <string id="wXQUXa1P" text="Vy bolej nia možacie dadać ački fokusa hetamu navyku" />
     <string id="wXwZ778J" text="vajary" />
@@ -1769,6 +1792,7 @@
     <string id="XBIPqxA2" text="Pust." />
     <string id="XbMVn2JV" text="Kłunačny Koń" />
     <string id="XCz81XYm" text="Syravina" />
+    <string id="xD3ICb06" text="Śniežnaja Bitva{newline}{newline}• Vieršnica atrymlivaje vialiki bonus.{newline}• Konnyja łučniki atrymlivajuć vialiki bonus." />
     <string id="xD9xlbXt" text="prync" />
     <string id="Xedhfj07" text="Dla taho kab {HERO_NAME} {?HERO_NAME.GENDER}prybyła{?}prybyŭ{\?} u vašuju partyju, spatrebicca {TRAVEL_DURATION}. Žadajecie praciahnuć?" />
     <string id="xEWwbGVK" text="Trapnaść: " />
@@ -1833,6 +1857,7 @@
     <string id="yFl9N7wz" text="Uziać" />
     <string id="yfNAkFgF" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} i {?}{\?}{TROOP_NAMES_END} farmujuć liniju ataki." />
     <string id="yG3YUySN" text="Zachodniaja Impieryja" />
+    <string id="YgcirtUD" text="Raŭninnaja Bitva{newline}{newline}• Vieršnica atrymlivaje vialiki bonus.{newline}• Konnyja łučniki atrymlivajuć vialiki bonus." />
     <string id="ygY1oKQD" text="My da vašych pasłuhaŭ, {?PLAYER.GENDER}pani{?}panovie{\?}. Nakirujcie nas na tych, kamu treba naškodzić, i my zrobim usio astatniaje.[ib:convo_approving]" />
     <string id="YhLweMrP" text="Brania" />
     <string id="YifFZaG7" text="Ułaśnik Partyi" />

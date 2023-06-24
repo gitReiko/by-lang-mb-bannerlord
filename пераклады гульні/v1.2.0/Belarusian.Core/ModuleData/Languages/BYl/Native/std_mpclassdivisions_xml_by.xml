@@ -2,7 +2,7 @@
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <strings>
     <string id="0e17RZrZ" text="Arbalest" />
-    <string id="0K58as8Y" text="Vy - ekśpiert pa praryvie abarončych linij.{newline} {newline}+50% da Škody ad Bonusa Chutkasci Viarchom na Kani" />
+    <string id="0o6o94sk" text="Vy - ekśpiert pa praryvie abarončych linij na kani.{newline} {newline}+50% da Škody ad Bonusa Chutkasci Viarchom na Kani" />
     <string id="0TtCRwmr" text="Atletyka" />
     <string id="0yGhTKey" text="Daje Dadatkovyja Streły." />
     <string id="10u6mqIX" text="Zamianiaje Karotki Łuk Kačeŭnika na Zahnuty Nazad Łuk, nanosić bolej škody, ale pavolniejšy." />
@@ -19,7 +19,6 @@
     <string id="4Gi8asWk" text="Zamianiaje Zahnuty Nazad Łuk na Kampazitny Łuk, naciahvajecca chutčej dy nanosić bolej škody." />
     <string id="4O4xjMMd" text="Łučnik-Kačeŭnik" />
     <string id="4t6A2jY8" text="Siakiera i Ščyt" />
-    <string id="4wdgiTta" text="Sierp" />
     <string id="4YTJJaTG" text="Ciažkaja Šabla" />
     <string id="5aZNQczb" text="Zamianiaje kania na bolš manieŭranaha." />
     <string id="5f6TSkM1" text="Konny Zastrelnik" />
@@ -59,6 +58,7 @@
     <string id="a6HqLFC7" text="Vy - vajar stepu, u boi vy zastajaciesia mabilnym i niebiaśpiečnym, kab udaryć voraham u śpinu.{newline} {newline}Daje Karotkaje Kapjo{newline} {newline}+5% da Škody ŭ Blizkim Boi" />
     <string id="a8ycVmwU" text="Bierdyš" />
     <string id="AApw8sqj" text="Vašy dośvied frantavika dazvalaje vam lepiej vajavać u blizkim boi.{newline} {newline}Daje Lepšy Dvuchručny Mieč{newline} {newline}+5% da Chutkaści Ruchu {newline}-60% da Štrafu Trapnaści Padčas Ruchu" />
+    <string id="AeWE63so" text="Doŭhaja Siakiera i Ščyt" />
     <string id="aeWqECxF" text="Chutčejšy Doŭhi Łuk" />
     <string id="aVGSZhCN" text="Ščyt-Paviesa" />
     <string id="AW8XDIIP" text="Toŭstaja Skura" />
@@ -75,7 +75,6 @@
     <string id="blqDgCtL" text="Palaŭničy za Bujnaju Dzičynaju" />
     <string id="bsabIdYm" text="Dvuchručnaja Siakiera" />
     <string id="btoJTO9G" text="Siakiera Nalotnika" />
-    <string id="BUAatpbx" text="Ščyt i Siakiera" />
     <string id="bxUVwypQ" text="Vy viedajecie, jak pavodzić siabie ŭ blizkim boi. Daje Ščyt u Bułavu.{newline} {newline}Daje Maleńki Mietaličny Ščyt{newline}Daje Ciažkuju Bułavu{newline}+7% da Chutkaści Ruchu" />
     <string id="bY9U7w1Q" text="Mieč" />
     <string id="bzr6vtXi" text="Ciažki Mienavlijon" />
@@ -111,6 +110,8 @@
     <string id="E7WWiQCf" text="Dalokabojny Doŭhi Łuk" />
     <string id="E8f6ngSe" text="Z-za vas varožyja vajary nia mohuć zasnuć, vy - niastrymny zabojca.{newline} {newline}+9 Brani{newline}+10% da Režučaj Chutkaści Viarchom na Kani{newline}+10% da Škody Abuchovaj Zbroi" />
     <string id="ebGVm8Ve" text="Daje vypadkovy ščyt roznaj jakaści." />
+    <string id="EcYwrKTf" text="Ciažkaja Siakiera i Ščyt" />
+    <string id="efYCG9u2" text="Braniavanaje Navierša Kapja" />
     <string id="EjyFIpP6" text="Vašy Ščyt vałodaje bolšaju tryvałaściu i dazvalaje zasłaniać ščytom bolš vialikuju płošču. Hetaksama vy atrymlivajecie mieniej škody ad kolučaj zbroi.{newline} {newline}Daje Macniejšy Ščyt{newline}+20% da Vobłaści Ščyta Suprać Dalokaj Zbroi{newline}-30% da Atrymanaj Škody ad Kolučaj Zbroi" />
     <string id="eLoZTNYa" text="Vy pa-majstersku vajujecie padčas ruchu z łukam.{newline} {newline}+25% da Chutkaści Ruchu Padčas Ruchu i Prycelvańni{newline}-80% da Štrafu Trapnaści Padčas Pavarotu{newline}-80% da Štrafu Trapnaści Padčas Ruchu" />
     <string id="eMd39oQf" text="Vy ekśpiert u zmahańni piešym z vieršnicaj i navučylisia pa-majstersku vykarystoŭvać chutkaść vieršnicy suprać jaje samoj.{newline} {newline}Daje Doŭhaje Kapjo.{newline} {newline}+100% da Škody Kaniam Zbrojaj Blizkaha Boju{newline}+50% da Škody ad Bonusa Chutkaści Kolučaj Zbrojaj Blizkaha Boju" />
@@ -130,7 +131,6 @@
     <string id="G4nZNi6t" text="Čas, praviedzieny na pryrodzie, zrabiŭ vas nienaturalna mocnym, vašyja kidki nanosiać bolej škody.{newline} {newline}Daje Kidalnaje Kapjo{newline} {newline}+20% da Kidalnaj Škody" />
     <string id="gcmyaxK9" text="Vy viedajecie, kudy paražać celi, vašyja streły nanosiać dadatkovuju škodu, asabliva streły ŭ hałavu.{newline} {newline}+5% da Škody ad Snaradaŭ {newline}+5% da Dadatkovaj Škody ad Strełu ŭ Hałavu" />
     <string id="GdmMrIWm" text="Daje Bil z Krukom, efiektyŭny na dalokich dystancyjach dla padtrymki piachoty, dvuchručny." />
-    <string id="GFZifSoP" text="Vy - ekśpiert pa praryvie abarončych linij.{newline} {newline}+50% da Škody ad Bonusa Chutkaści Viarchom na Kani" />
     <string id="gnb4493C" text="Zamianiaje Mieč na Dubiec, efiektyŭny suprać braniavanych supiernikaŭ." />
     <string id="gQtU8qqy" text="Daje Siakieru, efiektyŭnuju suprać ščytoŭ." />
     <string id="h5Oj84Wu" text="Rany pryvodziać vas u lutaść. Čym bolš vy paranieny, tym bolš škody vy nanasicie ŭ blizkim boi.{newline} {newline}+7% da Škody za Kožnuju Stratu 20 Ačkoŭ Udaru{newline}-7% da Atrymanaj Škody ad Atak Blizkaha Boju za Kožnuju Stratu 20 Ačkoŭ Udaru" />
@@ -169,6 +169,7 @@
     <string id="jTJa8tBY" text="Vy nosicie dadatkovyja płasty padkładak pad branioju.{newline} {newline}+10 Brani{newline}-20% da Atrymanaj Abuchovaj Škody" />
     <string id="JxDrcvDO" text="Vy viedajecie słabyja miescy ščytoŭ, vašyja ataki asabliva efiektyŭnyja suprać ščytoŭ.{newline} {newline}+100% da Škody pa Ščytach" />
     <string id="k5wDzNqz" text="Razburalnik Šychtu" />
+    <string id="KGYSP8Sn" text="Hocać jak Viecier" />
     <string id="KrEPteFM" text="Vy viedajecie słabyja miescy ščytoŭ, vašyja ataki asabliva efiektyŭnyja suprać ščytoŭ.{newline} {newline}+30% da Škody pa Ščytach" />
     <string id="Kt605dRo" text="Dužaja ruka dazvalaje vam kidać chutčej i sa značna bolšaj śmiarotnaj siłaju.{newline} {newline}+5% da Chutkaści Vypusku Snarada{newline} {newline}+15% da Škody Kidalnaj Zbroi" />
     <string id="KTegaNPW" text="Doŭhi Łuk" />
@@ -264,7 +265,6 @@
     <string id="urUwa4bf" text="Rabaŭnik" />
     <string id="uTfm0blH" text="Daje Karotki Łuk, dazvalaje stralać z kania." />
     <string id="uxSlnb7y" text="Vyrableny z samaha vytančanaha dreva, hety łuk adroźnivajecca vyłučnaj trapnaściu." />
-    <string id="v0RmrsJZ" text="Siakiera + Ščyt" />
     <string id="V2SKzX1e" text="Koń Čardžer" />
     <string id="v2WKbNZo" text="Chutkija Kidki" />
     <string id="v3TAosde" text="Haspadarski Łučnik" />
@@ -313,8 +313,8 @@
     <string id="YjmSNwpY" text="Vy palepšyli svaju braniu tryvałymi mietaličnymi płaścinami.{newline} {newline}+10 Brani{newline}-10% da Atrymanaj Režučaj Škody" />
     <string id="Yjs1ySjJ" text="Ščyt i Kapjo" />
     <string id="YnnrpaFO" text="Dadatkovaja Kalčuha" />
-    <string id="YqqhxGwH" text="Zamianiaje Dubiec na Sierp, zdolny nanieści prystojnuju škodu i efiektyŭny suprać ščytoŭ." />
     <string id="yRTNfCfm" text="Chutčejšy Arbalet" />
+    <string id="ytSKeWyX" text="Zamianiaje Dubiec na Siakieru, efiektyŭnuju suprać ščytoŭ." />
     <string id="YUauBtTT" text="Ručka łuka, vyrablenaja z tryvałaj draŭniny, robić hety łuk asabliva chutkim i dalokim." />
     <string id="Yvk8a2tb" text="Praca Nahami" />
     <string id="YVwl3BgB" text="Vašy dośvied snajpiera dazvalaje vam vypuskać ciažejšyja streły z bolšaj trapnaściu.{newline} {newline}Daje Mahutniejšyja Streły{newline} {newline}+100% da Maks Praciahłaści Trapnaści" />

@@ -2,10 +2,12 @@
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <strings>
     <string id="0MDEP0jy" text="Вы ня можаце запрасіць сябе" />
+    <string id="0W4dgUho" text="Забанены ад гульні да {BANNEDUNTIL}, Нагода: {BANREASON}" />
     <string id="0XY1VKVB" text="Вашая партыя ня можа браць удзел у кланавых гульнях." />
     <string id="1CO3GGEk" text="Азначаны ID занадта кароткі." />
     <string id="2BtJYizu" text="Вы павінны быць у партыі, каб зьдзейсьніць гэтае дзеяньне." />
     <string id="2KsbeJHa" text="Вы пасьпяхова абнавілі налады вашага герба" />
+    <string id="39f0eu3Y" text="Пададзены AuthToken пратэрмінаваны." />
     <string id="3cWg0cWt" text="Не атрымалася далучыцца да сервера." />
     <string id="3lNHtNWa" text="Пасада афіцэра {ARG1} выдалена." />
     <string id="3NwGpJwe" text="Запыт на даданьне ў сябры прыняты." />
@@ -17,7 +19,6 @@
     <string id="63X8LERm" text="Не ўдалося атрымаць вынікі ўваходу на сервер." />
     <string id="6cMSAe2Z" text="Не ўдалося паскардзіцца на гульца. Гулец ня знойдзены." />
     <string id="6doiovtH" text="Вырашэньне неадназначнасьці: {CHATROOMS}" />
-    <string id="6PcEQ5dq" text="Вас выгнаў антычыт. Прычына: {ARG1}" />
     <string id="7cEXe02I" text="{ARG1} адхіліў запрашэньне клана." />
     <string id="8UmHXSnO" text="Гулец ня мае доступу да функцыі Клан." />
     <string id="96e2tZea" text="Вы ня можаце выкарыстоўваць некалькі касьметычных прадметаў, што замяняюць адзін і той жа прадмет" />
@@ -25,6 +26,7 @@
     <string id="9TxM5UQS" text="Не ўдалося абнавіць паказаны значок." />
     <string id="a1RXhy6A" text="Вашае запрашэньне ў партыю болей ня дзее." />
     <string id="AAnoAhox" text="Не ўдалося зьмяніць абраны гульнявы рэжым" />
+    <string id="ahobSLlo" text="Не ўдалося выканаць запыт уваходу." />
     <string id="aId8kA8r" text="Уведзены тэкст даўжэйшы за ўсталяваны ліміт." />
     <string id="AIgw3aFG" text="Немагчыма ўстаць у чаргу на бітву, бо некаторым гульцам заблакавана стварэньне матча." />
     <string id="Ajw0d4dW" text="Хібны пароль." />
@@ -47,9 +49,11 @@
     <string id="CyeaniWe" text="Запыт на даданьне ў сябры адпраўлены {ARG1}." />
     <string id="CyrOnYI2" text="Вам бракуе здабычы." />
     <string id="dabogDDj" text="Вы ўжо сябры" />
+    <string id="dbLB0tuT" text="Супольны сямейны доступ не дазволены." />
     <string id="DcbVwkit" text="{ARG1} ужо ў клане." />
     <string id="dHlxVbMw" text="Вы ўжо ў клане." />
     <string id="DJFaYeWm" text="Вы павінны быць у лобі, каб зьдзейсьніць гэтае дзеяньне." />
+    <string id="DLKRQOuM" text="Нельга атрымаць доступ да вашага сэрвісу платформы (Памылка: {ACCESSERROR})." />
     <string id="DMPzhEK0" text="Адлучаны з пакоя чату: /{ARG1}" />
     <string id="Dmz3JLyp" text="Гулец запрошаны ў клан." />
     <string id="dnKQbXIZ" text="Не ўдалося паскардзіцца на гульца: Гульня не існуе." />
@@ -64,7 +68,6 @@
     <string id="FEeVGSO6" text="Лідар клана ня можа пакінуць клан." />
     <string id="FFPyGnZg" text="{ARG1} пасьпяхова прасунуты да афіцэра клана." />
     <string id="fQCaY3da" text="Азначаны ID утрымлівае недапушчальныя знакі." />
-    <string id="fZC7pBba" text="Вы можаце толькі прапаноўваць гульцам запускаць гульню з антычытам." />
     <string id="gAeQdLU5" text="Не ўдалося атрымаць дадзеныя доступу ад платформы" />
     <string id="GIiGZOxP" text="Нельга дадаць сябра. Збой наладаў прыватнасьці." />
     <string id="gQ8deZ17" text="{ARG1} афлайн." />
@@ -79,6 +82,7 @@
     <string id="InUAmnX4" text="Вас выгналі з-за шкоды па сябрах" />
     <string id="IRWReNWu" text="Каб выканаць гэтае дзеяньне, вы павінны быць лідарам сваёй партыі." />
     <string id="ivKntfNA" text="Ужо запытана далучэньне, чаканьне адказу сервера" />
+    <string id="iWLq9hMg" text="Токен аўтэнтыфікацыі не пададзены." />
     <string id="IWr2ZmWX" text="{ARG1} быў прасунуты да лідара партыі." />
     <string id="J3dazru7" text="Запрасіў {ARG1} у гульню" />
     <string id="jbaOH6qf" text="{ARG1} пасьпяхова прасунуты да лідара клана." />
@@ -87,6 +91,7 @@
     <string id="KPMxDIgb" text="Культура клана пасьпяхова зьменена." />
     <string id="kuM16dg2" text="На {ARG1} адпраўлена скарга." />
     <string id="kVcDXjUx" text="Хібны ваяр" />
+    <string id="kY2oXMng" text="Нельга выканаць уваход." />
     <string id="l1YfVXF3" text="Вы ня можаце запрасіць гульца, які мае моды!" />
     <string id="l6a9vI9z" text="Толькі лідар партыі можа запрашаць іншых гульцоў." />
     <string id="lcq2bKRk" text="Аднаўленьне бітвы." />
@@ -100,20 +105,22 @@
     <string id="ND2abg9k" text="Стварэньне матча заблакавана на {ARG1} секундаў." />
     <string id="nlYK3i5a" text="Назва клана няправільная." />
     <string id="Np8V0jcX" text="Гулец ужо запрошаны ў іншы клан." />
+    <string id="NRa52uaF" text="Не ўдалося атрымаць доступ ад вашага сэрвісу платформы." />
     <string id="nZlu3Moe" text="Пакінуў клан." />
     <string id="o76rZw0U" text="Сэрвіс недаступны зараз" />
     <string id="OByu0fjQ" text="Немагчыма ўстаць у чаргу на бітву, бо не ўсе гульцы ў вашай групе гатовыя." />
     <string id="OfCk5NMA" text="Фракцыя клана няправільная." />
     <string id="oFfMEy1S" text="Запыт на сяброўства ня можа быць знойдзены" />
-    <string id="olLwOWf8" text="Немагчыма ўстаць у чаргу на бітву, бо не ўсе гульцы выкарыстоўваюць антычыт." />
     <string id="P0aRStg4" text="Немагчыма ўстаць у чаргу на бітву, бо ў вас заблакавана стварэньне матчаў." />
     <string id="P3JTNI9P" text="Вы ня можаце прасунуць сябе да лідара клана." />
+    <string id="p5K0ATtZ" text="Нельга зьнішчыць вашую старую сэсію." />
     <string id="Pn13ZKwI" text="Вашая партыя расфармавана!" />
     <string id="PzUrwWnO" text="Вы ня лідар свайго клана." />
     <string id="qHGkxNWJ" text="Хібны герб клана." />
     <string id="R7z6X8bT" text="Не ўдалося абнавіць Bannerlord ID." />
     <string id="rfaIXasP" text="Герб клана пасьпяхова зьменены." />
     <string id="rI8gE2Qh" text="Аб'ява пасьпяхова выдалена." />
+    <string id="Rj8RhD7F" text="Памылка" />
     <string id="RKioOKi4" text="Bannerlord ID ня можа быць пустым." />
     <string id="rkxTEFGp" text="Гулец не анлайн." />
     <string id="ruC5qF1H" text="Сяброўскі запыт адхілены." />
@@ -121,6 +128,7 @@
     <string id="rwcA5RMK" text="Вы ўжо маеце чакаючы запыт для гэтага гульца." />
     <string id="S7Y5Suho" text="Вы ня можаце прапанаваць сябе ў партыю." />
     <string id="sa138Btz" text="Вы павінны пачаць стварэньне кланавай гульні, каб скасаваць яе." />
+    <string id="satFJMMu" text="Сэрвер Наладжвальнай Бітвы мае несумяшчальную версію." />
     <string id="shIV99LZ" text="Запыт на сяброўства атрыманы ад {ARG1}." />
     <string id="SIT1tREw" text="Вы ня можаце дадаць сябе ў сябры" />
     <string id="SsCPw38T" text="Абраная касьметыка не існуе" />
@@ -132,27 +140,30 @@
     <string id="TaLNjfao" text="Вы болей не сябры з {ARG1}." />
     <string id="tam7tCdb" text="{ARG1} не ў вашым клане." />
     <string id="taPBAd4c" text="Дадзеная каманда не пачынаецца з /" />
+    <string id="Tauk2JzA" text="Несупадзеньне версіі, Версія Сэрверу: {SERVERVERSION} - Вашая Версія: {CLIENTVERSION}." />
     <string id="tKlQbZaJ" text="{ARG1} выдалены з клана." />
     <string id="TuORvMMq" text="Адмовіцца ад ролі афіцэра." />
+    <string id="tzQxtv27" text="Невядомая памылка." />
     <string id="UcUqJcr9" text="Вы ня можаце запрасіць анлайн-гульца ў гульню" />
     <string id="uDbGN6fp" text="Гулец ня ў лобі." />
     <string id="uJ7527FB" text="{ARG1} ужо запрошаны ў іншы клан." />
     <string id="uqqqWl6f" text="Партыя ня можа браць удзел у кланавай гульні." />
     <string id="vd8dEfvZ" text="Вы ня можаце стварыць партыю пакуль маеце моды!" />
-    <string id="VDDm5bqb" text="Вы можаце запрашаць толькі гульцоў, якія запусьцілі гульню з антычытам." />
     <string id="VdyJtjSG" text="{ARG1} не ў вашай партыі!" />
     <string id="vfsaTZKg" text="{ARG1} запрошаны ў вашую партыю." />
     <string id="vi3lFSBW" text="Партыі {ARG1} забаронены ў чарзе партый." />
     <string id="w0FSTU2h" text="Вы ня можаце абраць значок ніжэйшага узроўню." />
-    <string id="w8WiqZT3" text="Вы павінны запусьціць гульню з антычытам, каб далучыцца або стварыць партыю!" />
     <string id="wJsR1aGI" text="{ARG1} ня чалец партыі." />
     <string id="wNubP2BF" text="Толькі лідар партыі можа стаяць у чаргі на гульні." />
     <string id="x5vn4FPi" text="Гулец запрошаны ў вашую партыю." />
+    <string id="X6N9nSn0" text="Вам не дазволена ўвайсьці на гэты сэрвер. Калі ласка, паспрабуйце афіцыйныя публічныя сэрверы." />
     <string id="XgQQPZsn" text="Вы ня можаце запрасіць сябе." />
     <string id="xHqjCamt" text="Не ўдалося паскардзіцца на гульца. Гульня ня можа быць знойдзена." />
+    <string id="xriaEwgN" text="Вас забанілі на хоставых сэрверах да {BAN_EXPIRATION_TIME}. Нагода: {BAN_REASON}." />
     <string id="y0dKQ8pL" text="Аб'ява пасьпяхова зьменена." />
     <string id="Y7wWhSsO" text="Вы няе з'яўляецеся прывілеяваным чальцом свайго клана." />
     <string id="YGfHWmNS" text="Не ўдалося зьмяніць рэгіён" />
+    <string id="YmPyx3qi" text="Дасягнута максімальная колькасьць гульцоў на Сэрверы Наладжвальнай Бітвы." />
     <string id="YOYvBVu1" text="Ня знойдзена адпаведнага чат-пакоя {COMMAND}" />
     <string id="yQyozBBX" text="Вашая партыя ня мае права ствараць кланавыя гульні." />
     <string id="yR7avbUg" text="{ARG1} не афіцэр." />
