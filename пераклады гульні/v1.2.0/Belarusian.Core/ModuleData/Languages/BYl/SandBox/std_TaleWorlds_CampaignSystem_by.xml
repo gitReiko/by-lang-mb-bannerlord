@@ -785,7 +785,7 @@
     <string id="9mlBbzLx" text="{VALUE} pośpiech pierakanańnia, patrebny dla piersanažaŭ vašaj ułasnaj kultury." />
     <string id="9mWxhzDG" text="{?CHILD.GENDER}zakupała{?}zakupaŭ{\?} materyjały." />
     <string id="9NbAzOER" text="kamunikuje z dziełavymi partniorami." />
-    <string id="9nxTUZkO" text="Ja maju prablemu. Minułaja zima była ciažkaj dla našaj žyvioły. Častka pamiorła ad chvarob, inšaja była zachoplena vaŭkami. My b pajšli ŭ horad, kab kupić jašče, ale, zrazumieła, statki - spakuślivaja cel dla bandytaŭ, a my zusim nie prystasavany dla zmahańnia ź imi. My nia možam dazvolić sabie zabivać navat samych starych i słabych žyvioł, bo jany patrebnyja nam, kab ciahnuć płuh. Mahčyma vy zmožacie dapamahčy nam?" />
+    <string id="9nxTUZkO" text="Ja maju prablemu. Minułaja zima była ciažkaj dla našaj žyvioły. [if:convo_grave][ib:demure2]Častka pamiorła ad chvarob, inšaja była zachoplena vaŭkami. My b pajšli ŭ horad, kab kupić jašče, ale, zrazumieła, statki - spakuślivaja cel dla bandytaŭ, a my zusim nie prystasavany dla zmahańnia ź imi. My nia možam dazvolić sabie zabivać navat samych starych i słabych žyvioł, bo jany patrebnyja nam, kab ciahnuć płuh. Mahčyma vy zmožacie dapamahčy nam?" />
     <string id="9Obe3S6L" text="{LORD.FIRSTNAME} čalec kłana {CLAN_NAME}, {CLAN_DESCRIPTION} z haspadarstva {FACTION_NAME}. {?LORD.GENDER}Jana{?}Jon{\?} maje reputacyju: {REPUTATION}." />
     <string id="9QLPm1o6" text="{?CHILD.GENDER}dałučyłaś{?}dałučyŭsia{\?} da pilihrymki." />
     <string id="9qoLQva5" text="Budźcie upeŭnieny, ja strymaju kožnuju dannuju klatvu." />
@@ -797,7 +797,7 @@
     <string id="9Tq3IAiz" text="{?CHARACTER.GENDER}Jaje{?}Jaho{\?} pakarali śmierciu ŭ {YEAR} va ŭzroście {CHARACTER.AGE} hadoŭ. {?CHARACTER.GENDER}Jana mieła{?}Jon mieŭ{\?} reputacyju: {REPUTATION}" />
     <string id="9u9OEZ9Y" text="Cudoŭna. Maje ludzi praviaduć vašaha kampańjona da schovišča." />
     <string id="9UABeRWO" text="Tak. Voś vašaje ziernie." />
-    <string id="9vOZWY25" text="Jaki ŭražalny vynik! Ja abaviazkova prapušču hetyja turniry. Dobra, mahčyma, praz peŭny čas uspaminy atumaniacca, i my zmožam praciahnuć. Voś apošniaja płata. Vielmi zasłužanaja.[if:happy][ib:demure]" />
+    <string id="9vOZWY25" text="Jaki ŭražalny vynik! Ja abaviazkova prapušču hetyja turniry. [if:convo_happy][ib:demure]Dobra, mahčyma, praz peŭny čas uspaminy atumaniacca, i my zmožam praciahnuć. Voś apošniaja płata. Vielmi zasłužanaja.[if:happy][ib:demure]" />
     <string id="9vzm2j5T" text="Dezierciry zaŭvažyli našuju prysutnaść, jany ŭciakajuć!" />
     <string id="9WDK03GW" text="{AGGRESSOR_RULER.NAME} z haspadartsva {AGGRESSOR_KINGDOM} {?AGGRESSOR_RULER.GENDER}vyrašyła{?}vyrašyŭ{\?} nie pačynać vajnu z haspadarstvam {KINGDOM}." />
     <string id="9WNmQpkm" text="padobny tamu, čym karystajecca šlachta." />
@@ -819,6 +819,7 @@
     <string id="a2dJDUoL" text="Moj mieč - moj talent. Za im pryjdzie zołata i ziamla." />
     <string id="a2eM0QUb" text="Vydatki na vajaroŭ harnizona źmienšany na 20%." />
     <string id="A2ju7YTZ" text="Ja nia viedaju... Jany vyhladajuć pa-zdradnicku." />
+    <string id="A2JWExWL" text="Spadziajusia, našy šanoŭnyja siabry pryjduć da damovy." />
     <string id="A310vHqJ" text="Pavialičeńnie chutkaści lačeńnia vajaroŭ: +{a0}%" />
     <string id="a37zTVVe" text="Paviercie, ja budu {?NPC.GENDER}ščodraj{?}ščodrym{\?} da tych, chto pryjšoŭ da mianie rana. Napeŭna, da spoźnienych ja nia budu hetak ža {?NPC.GENDER}ščodraj{?}ščodrym{\?}." />
     <string id="A3HdRbqf" text="{ARMY} było rasfarmavana paśla taho, jak lidar vojska pakinuŭ jaje." />
@@ -838,15 +839,17 @@
     <string id="a869yxLt" text="{?IS_BATTANIA_OR_KHUZAIT}Kramnik{?}Navukoviec{\?}" />
     <string id="a8arFSra" text="{?PLAYER.GENDER}trenieravałasia{?}trenieravaŭsia{\?} z piachotaj." />
     <string id="A8dyXgLz" text="Jaki žal." />
-    <string id="A8lvIDVw" text="Razumnaje rašeńnie! A zaraz napierad! " />
-    <string id="A8NttdZY" text="{?QUEST_GIVER.GENDER}Maja šlachcianka{?}Moj šlachcič{\?} budzie ŭ lutaści z-za taho, što vy parušyli svajo słova. " />
+    <string id="A8lvIDVw" text="Razumnaje rašeńnie! A zaraz napierad![if:convo_angry] " />
+    <string id="A8NttdZY" text="{?QUEST_GIVER.GENDER}Maja šlachcianka{?}Moj šlachcič{\?} budzie ŭ lutaści z-za taho, što vy parušyli svajo słova.[if:convo_annoyed][ib:closed2] " />
     <string id="a94mkNNk" text="Łaviec Strełaŭ" />
     <string id="a9pK8pyq" text="Ja znajdu i spyniu ich." />
     <string id="aa1lM2MV" text="{FIRSTNAME} Anioł" />
     <string id="aa1yFm6q" text="Kłunačnyja Žyvioły:" />
+    <string id="aa3kbW8j" text="Uvajści ŭ Zamak" />
     <string id="aa5F4vP5" text="{?CONVERSATION_NPC.GENDER}Spadarynia{?}Spadar{\?}, kali łaska, dajcie mnie bolš času, kab abdumać hetaje." />
     <string id="aA8T7AsY" text="{VALUE} škoda ekipijavanych arbaletaŭ." />
     <string id="AaahFmxv" text="Vajna nikoli nie była zadalokaj. Niaraz {CHILD.NAME} {?CHILD.GENDER}zaŭvažała{?}zaŭvažaŭ{\?} vorahaŭ na haryzoncie, i {?CHILD.GENDER}joj{?}jamu{\?} treba było zjazdžać jak maha chutčej." />
+    <string id="aABDmDJk" text="Chach, mnie padabajecca ruch tvaich dumak. Dobra. U lubym vypadku, hety kraj staŭ zanadta niebiaspiečnym. Vy bolej nie ŭbačycie nas kala {TARGET_SETTLEMENT}." />
     <string id="aadTnAEg" text="Kiravańnie Pałonnymi" />
     <string id="aaf5R99a" text="Ja nia dam tabie ničoha aproč chałodnaj stali, adkid!" />
     <string id="AahNTeXY" text="Manieŭranaść kania: +{a0}" />
@@ -870,12 +873,13 @@
     <string id="aCO0Md8z" text="Kali {?CHILD.GENDER}jana trapiła{?}jon trapiŭ{\?} u zasadu na patruli, {CHILD.NAME} {?CHILD.GENDER}adbiła{?}adbiŭ{\?} napadnikaŭ vyłučna siłaj voli." />
     <string id="acOOsQaC" text="U nas kančajecca ježa. Heta niespraviadliva ŭ adnosinach da ludziej. My pavinny pakłapacicca pra toje, kab ježa nia skončyłasia." />
     <string id="acp2IcMs" text="Krotar" />
+    <string id="acqSONrT" text="Ja zajmusia hetymi kantrabandistami asabista." />
     <string id="acu1wTeq" text="Vašyja ludzi ŭpeŭnieny, što častku tavaraŭ skrali z abozu." />
     <string id="ACvQdkG8" text="Abmierkavać umovy vašaj zdačy" />
     <string id="aDABE6Md" text="Vitaju, {PLAYER.NAME}. Pryjemna, što vy atrymali majo paviedamleńnie. Ci zacikaŭleny vy ŭ majoj prapanovie?" />
     <string id="ADabRUeh" text="zbroja" />
     <string id="Adah5bay" text="Kab navučycca pravilna vykarystoŭvać samuju mahutnuju zbroju, patrebna šmathadovaja praktyka. Jaje karystalnikam lepiej pačynać trenieravańni rana." />
-    <string id="ADIYnC4u" text="Ciapier, ja viedaju, vy nia možacie pieramahać kožny boj. Ja zmahu zrazumieć, kali vy prajhrajecie adzin ci dva boi. Ale, kali vy budziecie prajhravać štoraz, ci jašče horš, vyjhravać kali nia treba, ja budu trochi zły.[if:convo_mocking_revenge][ib:confident]" />
+    <string id="ADIYnC4u" text="Ciapier, ja viedaju, vy nia možacie pieramahać kožny boj. Ja zmahu zrazumieć, kali vy prajhrajecie adzin ci dva boi. [if:convo_nonchalant][ib:normal2]Ale, kali vy budziecie prajhravać štoraz, ci jašče horš, vyjhravać kali nia treba, ja budu trochi zły.[if:convo_mocking_revenge][ib:confident]" />
     <string id="AdK4Ilzw" text="Čejlija" />
     <string id="AdkSktd2" text="Vy musicie adpravić na hety kvest {NUMBER} {?MOUNTED}vieršnikaŭ{?}piachotnikaŭ{\?}." />
     <string id="AdoaDR26" text="{QUEST_GIVER.LINK} {?QUEST_GIVER.GENDER}paprasiła{?}paprasiŭ{\?} vas vyviedać {SETTLEMENT_1}, {SETTLEMENT_2} i {SETTLEMENT_3}." />
@@ -890,14 +894,15 @@
     <string id="aeNhsyD7" text="{VALUE} ačkoŭ udaru piachocie vašaj partyi." />
     <string id="aEt1kqxm" text="{PEACEMAKER_RULER.NAME} z haspadarstva {KINGDOM_CONSIDERING_PEACE} {?PEACEMAKER_RULER.GENDER}vyrašyła{?}vyrašyŭ{\?} abviaścić mir z haspadarstvam {KINGDOM}, dumka {?PEACEMAKER_RULER.GENDER}jaje{?}jaho{\?} rady padzialiłasia." />
     <string id="AeTSNsRu" text="{VALUE}% atrymańnie dośviedu za kožny ŭnikalny prajekt u kiravanym sieliščy." />
+    <string id="AEVIa5sQ" text="Niachaj budzie tak. Pahladzim, ci zmožacie vy zładzić z {NUMBER_OF_TARGET_VILLAGE} vioskami. [if:convo_stern]Jany nia zmohuć ihnaravać hetaje, bo ichnija prybytki źmienšacca. Ja dam vam {BASE_REWARD}{GOLD_ICON} za pracu, i {EXTRA_REWARD}{GOLD_ICON} za kožnaje dadatkovaje rabavańnie. Vy zhodnyja?" />
     <string id="AewK9qME" text="Prybytak Sielišča" />
     <string id="aeWZRHy3" text="biare na siabie adkaznaść." />
-    <string id="aExKdXmx" text="Nam treba {REQUESTED_ANIMAL_AMOUNT} {.%}{?(REQUESTED_ANIMAL_AMOUNT &gt; 1)}{PLURAL(SELECTED_ANIMAL)}{?}{SELECTED_ANIMAL}{\?}{.%}. Kali być sumlennym našaja vioska biednaja, a skarb pusty. My zmožam zapłacić tolki miasam starych žyviołaŭ, jakich my zabjom, kali atrymajem novych. My možam prapanavać {MEAT_AMOUNT} adzinak miasa, vy prymicie našuju prapanovu, {?PLAYER.GENDER}pani{?}panovie{\?}?" />
+    <string id="aExKdXmx" text="Nam treba {REQUESTED_ANIMAL_AMOUNT} {.%}{?(REQUESTED_ANIMAL_AMOUNT &gt; 1)}{PLURAL(SELECTED_ANIMAL)}{?}{SELECTED_ANIMAL}{\?}{.%}. [if:convo_normal][ib:demure]Kali być sumlennym našaja vioska biednaja, a skarb pusty. My zmožam zapłacić tolki miasam starych žyviołaŭ, jakich my zabjom, kali atrymajem novych. My možam prapanavać {MEAT_AMOUNT} adzinak miasa, vy prymicie našuju prapanovu, {?PLAYER.GENDER}pani{?}panovie{\?}?" />
     <string id="aezwJGvY" text="Čienon" />
     <string id="Af7zOV2l" text="{VALUE}% staty trapnaści padčas ruchu." />
     <string id="afaCdojS" text="Rychtoŭla" />
     <string id="afbLOXbb" text="Mahčyma, my zmožam damovicca." />
-    <string id="aFDiKxhr" text="Našaja ŭhoda palahaje ŭ tym, što vy atrymlivajecie svaju dolu ad prodažaŭ. Adsutnaść prodažaŭ aznačaje adsutnaść doli. Ja ŭpeŭnieny vy razumiejecie." />
+    <string id="aFDiKxhr" text="Našaja ŭhoda palahaje ŭ tym, što vy atrymlivajecie svaju dolu ad prodažaŭ. Adsutnaść prodažaŭ aznačaje adsutnaść doli. [ib:warrior2]Ja ŭpeŭnieny vy razumiejecie." />
     <string id="afH90aNs" text="Rušeńnie ŭzbrojenaje dzidaju i ščytom, nabranaje z drobnych ziemlarobaŭ, zaŭsiody zjaŭlałasia hruntam usich vojskaŭ Kalradyi." />
     <string id="AFJ3BvTH" text="Vas chutka atačajuć vartaŭniki, jakija adbirajuć u vas zbroju. Z praklonami i abrazami jany kidajuć vas u viaźnicu, dzie vy musicie bavić vartyja žalu dni svajho pałonu." />
     <string id="aFNfxhwz" text="Zaraz vam brakuje {?MOUNT_TYPE_IS_CAMEL}viarbludaŭ{?}koniej{\?} dla {QUEST_GIVER.LINK}." />
@@ -927,16 +932,16 @@
     <string id="aj2R3vnb" text="{VALUE}% škoda blizkaha boju vieršnicy vašaj pabudovy." />
     <string id="aJcChHfj" text="Što vy płanujecie rabić ź imi?" />
     <string id="ajePb62s" text="{FIRSTNAME} Rtuć" />
-    <string id="aJHMafam" text="{?PLAYER.GENDER}Pani{?}Panovie{\?}, udzialicie trochi času! Vy pracujecie na {ISSUE_GIVER.LINK}, ja maju racyju? Pasłuchajcie - našyja ludzi zaležać ad hetaj pracy. {?ISSUE_GIVER.GENDER}Jana{?}Jon{\?} nia budzie płacić nam pražytkovy minimum, kali zmoža pracavać z pałonnymi. Kali łaska razarvicie vašuju damovu. Vam nia treba hetaha rabić." />
+    <string id="aJHMafam" text="{?PLAYER.GENDER}Pani{?}Panovie{\?}, udzialicie trochi času! [if:convo_undecided_open][ib:nervous2]Vy pracujecie na {ISSUE_GIVER.LINK}, ja maju racyju? Pasłuchajcie - našyja ludzi zaležać ad hetaj pracy. {?ISSUE_GIVER.GENDER}Jana{?}Jon{\?} nia budzie płacić nam pražytkovy minimum, kali zmoža pracavać z pałonnymi. Kali łaska razarvicie vašuju damovu. Vam nia treba hetaha rabić." />
     <string id="aJLQz9iZ" text="Srebnaja Šachta" />
     <string id="aK23T43P" text="Zachoŭvaje zapasy ježy, kab palepšyć zabieśpiačeńnie ježaj sielišča. Kožny uzrovień pavialičvaje miascovaje zabieśpiačeńnie ježaj." />
     <string id="aKaGaOQx" text="Kłan {CLAN_LEADER.NAME}" />
     <string id="AkbiPIij" text="Sady" />
-    <string id="AKdDSZoM" text="Tak. Tym nia mienš, heta dobraja prablema. Jak vy viedajecie, ja handluju {.%}{SELECTED_ITEM}{.%}. Vytvorčaść sioleta była vielmi dobraj, i my bolej nia možam atrymać prybytak na miascovym kirmašy. Adnak ja nie mahu sabrać karavan, kab pradać tavar niedzie jašče. Dyk voś, ja prapanuju vielmi prostuju ŭhodu." />
+    <string id="AKdDSZoM" text="Tak. Tym nia mienš, heta dobraja prablema. [if:convo_innocent_smile][ib:confident]Jak vy viedajecie, ja handluju {.%}{SELECTED_ITEM}{.%}. Vytvorčaść sioleta była vielmi dobraj, i my bolej nia možam atrymać prybytak na miascovym kirmašy. Adnak ja nie mahu sabrać karavan, kab pradać tavar niedzie jašče. Dyk voś, ja prapanuju vielmi prostuju ŭhodu." />
     <string id="aKLak7nn" text="nadzialaje haspadara šyrejšymi paŭnamoctvami nakładvańnia vieta na zakony" />
     <string id="ako4Xbvk" text="{VALUE}% šaniec uciokaŭ pałonnych z viaźnicy kiravanaha sielišča." />
     <string id="aKrzoAsh" text="Vy pieramahli {MALE_LESSER_NOBLE_NAME} i dapamahli {QUEST_GIVER.LINK} jak i abiacali. Vy atrymali {REWARD}{GOLD_ICON} za vašyja pasłuhi." />
-    <string id="al27CmYV" text="Kali u vas atrymajecca dajści da {ROUND_COUNT} raŭnda, biez sumnievu, heta zrobić honar nam abodvum." />
+    <string id="al27CmYV" text="Kali u vas atrymajecca dajści da {ROUND_COUNT} raŭnda, biez sumnievu, heta zrobić honar nam abodvum.[if:convo_calm_friendly][ib:demure]" />
     <string id="ALC3Kzv9" text="U Abłozie" />
     <string id="AlFTInfU" text="Haspadarstva sa strohimi farmalnymi zakonami spadkajemstva abciažarvaje adklikańnie ziemlaŭ u šlachty." />
     <string id="aLsVKIRy" text="Paranienyja Čalcy" />
@@ -948,13 +953,14 @@
     <string id="aN85Kfnq" text="Sielišča {SETTLEMENT} było razrabavano. Vašaje pahadnieńnie z {QUEST_GIVER.LINK} skasavana." />
     <string id="AndfZYIJ" text="Vašy kampańjon zdoleŭ viarnuć usich vajaroŭ, jakich {ISSUE_GIVER.LINK} {?ISSUE_GIVER.GENDER}addała{?}addaŭ{\?} vam dla navučańnia. {?ISSUE_GIVER.GENDER}Jana adpraviła{?}Jon adpraviŭ{\?} vam nastupny list.{newline}{newline}“{?PLAYER.GENDER}Spadarynia{?}Spadar{\?}, dziakuj za kłopaty pra maich ludziej. Vy hanarova vykanali našuju ŭhodu. Ja vam {?ISSUE_GIVER.GENDER}udziačnaja{?}udziačny{\?}. Kali łaska, prymicie hetyja {GOLD}{GOLD_ICON}." />
     <string id="ANhbaAhL" text="{VALUE} adnosinaŭ z handlarom, kali na adnu ŭhodu marnujecca prynamsi 10.000 denaraŭ." />
+    <string id="anTRftmb" text="Skład" />
     <string id="aO2JSbSq" text="Zavostrany Kancavik" />
     <string id="ao9bhAhf" text="Vy nie ŭznačalvajecie vajaroŭ" />
     <string id="AoaabumE" text="Śledapyt" />
     <string id="AOgrLJos" text="Nie, ja dahetul nia {?PLAYER.GENDER}vyrašyła{?}vyrašyŭ{\?}." />
     <string id="aoJHP3Ud" text="Ja dałučusia da vas, bo maju abaviazak pierad vami." />
     <string id="aPbpBJq5" text="Architektar Viaźnicy" />
-    <string id="APEBfqyW" text="Vitaju, {?PLAYER.GENDER}šlachcianka{?}šlachcič{\?}. Žadajecie niešta ad mianie?" />
+    <string id="APEBfqyW" text="Vitaju, {?PLAYER.GENDER}šlachcianka{?}šlachcič{\?}. Žadajecie niešta ad mianie?[if:convo_innocent_smile][ib:normal2]" />
     <string id="apgpk6j1" text="{VALUE} navyk tronkavaj zbroi piachocie vašaj pabudovie." />
     <string id="aPoS8wOW" text="Vy majecie abmiežavany dostup da Viaźnicy." />
     <string id="apr2dH0n" text="{ISSUE_SETTLEMENT} Maje Patrebu ŭ Nasieńni Ziernia" />
@@ -970,7 +976,7 @@
     <string id="arbaXvQf" text="Upłyvaje na vytvorčaść vioscy." />
     <string id="arBQHbWv" text="Sumniajusia, što viedaju vas dosyć dobra, kab abmiarkoŭvać niešta padobnaje." />
     <string id="arCGUuR5" text="Vašaje sielišča pad abłohaj." />
-    <string id="aRfMtTUT" text="Dobra. Pahladzim, ci zmožacie vy razrabavać {NUMBER_OF_TARGET_VILLAGE} viosak. Jany nia zmohuć praihnaravać hetkuju škodu. Ja dam vam {BASE_REWARD} {GOLD_ICON} za hetaje i jašče {EXTRA_REWARD} {GOLD_ICON} za kožnaje dadatkovaje rabavańnie. Pa rukach?" />
+    <string id="aRfMtTUT" text="Dobra. Pahladzim, ci zmožacie vy razrabavać {NUMBER_OF_TARGET_VILLAGE} viosak. [if:convo_mocking_revenge]Jany nia zmohuć praihnaravać hetkuju škodu. Ja dam vam {BASE_REWARD} {GOLD_ICON} za hetaje i jašče {EXTRA_REWARD} {GOLD_ICON} za kožnaje dadatkovaje rabavańnie. Pa rukach?" />
     <string id="ARNYrXln" text="{TROOP.NAME} zapatrabavaŭ {SIDE1_PARTY}, jakaja ciapier utrymlivajecca {SIDE2_FACTION}" />
     <string id="ARXvmC1v" text="{QUEST_GIVER.LINK} kaža, što {MALE_LESSER_NOBLE_TITLE} ź imiem {MALE_LESSER_NOBLE_NAME} raspalvaje chvalavańni ŭ sielskaj miascovaści. {?QUEST_GIVER.GENDER}Jana prasiła{?}Jon prasiŭ{\?} vas razahnać bandu {MALE_LESSER_NOBLE_NAME}, vykarystoŭvajučy ŭsie patrebnyja sposaby da taho, jak hety ruch atrymaje dastatkovuju padtrymku." />
     <string id="asa9HaIQ" text="Zachavać prybytak" />
@@ -981,6 +987,7 @@
     <string id="at0iWxo1" text="Pryjemna dumać, što vajar vašaha pamieru stanie maim čempijonam. {TOURNAMENT_ROUND_GOAL}" />
     <string id="aTeuX4L0" text="Zvyčajn." />
     <string id="AtFv5RMW" text="Vypłata Daniny" />
+    <string id="AtHjW2lY" text="Nabyć vykradzienyja rečy ŭ {QUEST_GIVER.NAME}" />
     <string id="AThZtg7U" text="{PEACEMAKER_RULER.NAME} z haspadarstva{KINGDOM_CONSIDERING_PEACE} {?PEACEMAKER_RULER.GENDER}admoviłasia{?}admoviŭsia{\?} składać mir z haspadarstvam {KINGDOM}, dumka {?PEACEMAKER_RULER.GENDER}jaje{?}jaho{\?} rady padzialiłasia." />
     <string id="atk3PTae" text="Dezierciry vymahajuć u viaskoŭcaŭ {SETTLEMENT}, i ŭžo zabili niekalki supraciŭnikaŭ." />
     <string id="aTncHUfL" text="stajali na varcie z harnizonami." />
@@ -989,15 +996,16 @@
     <string id="auCinAKs" text="nikoli nie stamlajecca." />
     <string id="auftprN9" text="dazvalaje prostym ludziam abirać pradstaŭnikoŭ svaich plamionaŭ" />
     <string id="auIRGa2V" text="Kamieniačos" />
+    <string id="auIV2JoK" text="{ISSUE_GIVER.LINK} šukaje niekaha, chto stvoryć asablivuju zbroju dla {?ISSUE_GIVER.GENDER}jaje{?}jaho{\?} ludziej." />
     <string id="AULqrp7D" text="kubak vina Kalradyi" />
     <string id="aupbQveh" text="{?CONVERSATION_NPC.GENDER}Pani{?}Panovie{\?}, mnie patrebna bolej času, kab vyrašyć hetaje." />
-    <string id="aUXAh8cE" text="Cudoŭna, {PLAYER.NAME}. Kali vy hatovyja daručycca za svajho kampańjona, biez sumnievu, jon zładzicca." />
+    <string id="aUXAh8cE" text="Cudoŭna, {PLAYER.NAME}. [if:convo_innocent_smile][ib:confident]Kali vy hatovyja daručycca za svajho kampańjona, biez sumnievu, jon zładzicca." />
     <string id="av14a64q" text="Dumaje" />
-    <string id="AV5xVGM5" text="Dobra. Jany nam patrebny jak maha chutčej." />
+    <string id="AV5xVGM5" text="Dobra. Jany nam patrebny jak maha chutčej.[if:convo_undecided_open][ib:closed2]" />
     <string id="AvaZUvnu" text="Pieravahi Kvatermajstra" />
     <string id="AvBNKK5y" text="Dobra. Ja adpraŭlu adnaho kampańjona vyratavać vašych siabroŭ." />
     <string id="averageWealthStatus" text="Siaredn." />
-    <string id="avFXbBLV" text="Ja viedaju jak heta byvaje. Prosta pryniasi mnie zbroju." />
+    <string id="avFXbBLV" text="Ja viedaju jak heta byvaje. [if:convo_bored2]Prosta pryniasi mnie zbroju." />
     <string id="avMQKUoJ" text="Vy zmahli vyhnać pastuchoŭ sa sprečnaj pašy. {?QUEST_GIVER.GENDER}Ziemleŭłaśnica, {QUEST_GIVER.LINK}, udziačnaja{?}Ziemleŭłaśnik, {QUEST_GIVER.LINK}, udziačny{\?} vam i adpraŭlaje {REWARD}{GOLD_ICON}." />
     <string id="aVWb6aoQ" text="{VALUE}% atrymańnie adnosinaŭ z supraćlehłym połam." />
     <string id="Avy8Gua1" text="Pieravahi" />
@@ -1011,7 +1019,7 @@
     <string id="Axe5FkET" text="Talisan" />
     <string id="aXFYyBEQ" text="Prajava litaści da sielišča z kulturaj vašaj frakcyi nie patrabuje ŭpłyvu.{newline}" />
     <string id="aXhPvVud" text="{HERO.LINK} {?HERO.GENDER}stvaryła{?}stvaryŭ{\?} vojska." />
-    <string id="aXOgAKfj" text="Dziakuj, {?PLAYER.GENDER}pani{?}panovie{\?}. Spadziajusia, vašyja ludzi damohucca pośpiechu. " />
+    <string id="aXOgAKfj" text="Dziakuj, {?PLAYER.GENDER}pani{?}panovie{\?}. Spadziajusia, vašyja ludzi damohucca pośpiechu.[ib:hip][if:convo_excited]" />
     <string id="AXsbnTBb" text="{QUEST_GIVER.LINK} {?QUEST_GIVER.GENDER}abviaściła{?}abviaściŭ{\?} mir z {ENEMYFACTION_INFORMALNAME}. Vašaje pahadnieńnie z {QUEST_GIVER.LINK} było skasavana." />
     <string id="AXy26AFb" text="Mažliva, ja mahu dapamahčy. Jakija ŭmovy pahadnieńnia." />
     <string id="Ay0G3f7I" text="Vašaja siamja ŭładkavała vas u štat Impierskaha strateha. Na vas nie ŭskładali asnoŭnyja abaviazki. Hałoŭnym čynam vy pieranosili paviedamleńni i dahladali jaho kania, ale heta davała vam mahčymaść bačyć, jak płanavalisia kampanii i jak ludzi razhortvalisia ŭ boi." />
@@ -1026,13 +1034,13 @@
     <string id="azjMBa86" text="Vydatnaja Stal{@Plural}źlitkaŭ vydatnaj stali{\@}" />
     <string id="aZjz2GfX" text="Majstar pa Zbroi" />
     <string id="AzKq8AfI" text="Tearetyčna haspadary i impieratary majuć vyłučnaje prava kamandavać vajarami na poli. Usie kamandziry vojska kirujuć ad imia haspadara." />
-    <string id="aZne44IB" text="Siamja {CLAN_NAME}" />
     <string id="b0ak3yGV" text="Lutaść" />
     <string id="B0uKPW9S" text="Hałasujcie za nastupnaha haspadara {KINGDOM_NAME}" />
     <string id="b0w3Fruf" text="{VALUE}% ačkoŭ udaru koniam vajaroŭ vašaj pabudovy." />
     <string id="b0WQfzNb" text="{QUEST_GIVER.LINK}, {?QUEST_GIVER.GENDER}šlachcianka{?}šlachcič{\?} z {TARGET_SETTLEMENT}, {?QUEST_GIVER.GENDER}skazała{?}skazaŭ{\?} vam, što {?QUEST_GIVER.GENDER}jana{?}jon{\?} žadaje daravać pravy zboru padatkaŭ kamandziram z dobraj reputacyjaj, jakija majuć dosyć ludziej dla pryhniečańnia luboha supracivu. {?QUEST_GIVER.GENDER}Jana skazała{?}Jon skazaŭ{\?} vam naviedać usie vioski źviazanyja z {TARGET_SETTLEMENT} i sabrać padatki i rentu. Vy pahadzilisia sabrać padatki paśla vypłaty doli {QUEST_GIVER.LINK}, {REQUESTED_DENARS}{GOLD_ICON} denaraŭ." />
-    <string id="B0YOpGsZ" text="Majecie naviny pra maich pałonnych?" />
-    <string id="b19Hlp7h" text="Heta moža spracavać, kali vy majecie hrošy. Ale kali nia majecie, ja žadaju dać vam šaniec. Ja liču, što dla {SELECTED_ITEM_COUNT} {?SELECTED_ITEM_COUNT &gt; 1}{PLURAL(SELECTED_ITEM)}{?}{SELECTED_ITEM}{\?} lha znajści poruč kirmaš, na jakim možna atrymać {TOTAL_GOLD}{GOLD_ICON}. Voś maja prapanova. Ja pazyču vam žyviołu. Vy pradaścio jaje pa lubym košcie i vierniecie mnie {TOTAL_GOLD}{GOLD_ICON} denaraŭ. Biez sumnievu, vy zmožacie znajści kirmaš z lepšym koštam i zarabić prybytak." />
+    <string id="B0YOpGsZ" text="Majecie naviny pra maich pałonnych?[if:convo_mocking_teasing][ib:hip]" />
+    <string id="b14v853a" text="Kali vy nabližajeciesia da łahieru bandytaŭ, vy bačycie adnoha čałavieka na adkrytym miescy, jaki čakaje vas, kročačy i šturchajučy kamiani." />
+    <string id="b19Hlp7h" text="Heta moža spracavać, kali vy majecie hrošy. [if:convo_innocent_smile][ib:confident]Ale kali nia majecie, ja žadaju dać vam šaniec. Ja liču, što dla {SELECTED_ITEM_COUNT} {?SELECTED_ITEM_COUNT &gt; 1}{PLURAL(SELECTED_ITEM)}{?}{SELECTED_ITEM}{\?} lha znajści poruč kirmaš, na jakim možna atrymać {TOTAL_GOLD}{GOLD_ICON}. Voś maja prapanova. Ja pazyču vam žyviołu. Vy pradaścio jaje pa lubym košcie i vierniecie mnie {TOTAL_GOLD}{GOLD_ICON} denaraŭ. Biez sumnievu, vy zmožacie znajści kirmaš z lepšym koštam i zarabić prybytak." />
     <string id="b1IKTI8t" text="{VALUE}% šaniec śmierci padčas straty prytomnaści ŭ bitvie." />
     <string id="b1lsZNxE" text="Vy nie paśpieli dastavić dosyć pałonnych. {QUEST_GIVER.LINK} dakładna budzie {QUEST_GIVER.GENDER}rasčaravana{?}račaravany{\?}." />
     <string id="b1T6qywr" text="{QUEST_GIVER.LINK} z haspadarstva {QUEST_GIVER.FACTION} {?QUEST_GIVER.GENDER}paprasiła{?}paprasiŭ{\?} vas uziać {TARGET_SETTLEMENT} u imia haspadarstva {QUEST_GIVER.FACTION} dla ŭmacavańnia vajennaha stanovišča. {QUEST_GIVER.LINK} {?QUEST_GIVER.GENDER}skazała{?}skazaŭ{\?}, što dapamoža vam {REWARD}{GOLD_ICON} jak tolki {TARGET_SETTLEMENT} padzie." />
@@ -1045,7 +1053,6 @@
     <string id="b3GrvocA" text="Vy skazali svaim ludziam być aściarožnym, ale praciahvać źbirać padatki. Bačna, što viaskovyja ziamianie byli niezadavoleny vašym vyrašeńniem." />
     <string id="b3iBOVXN" text="Prachodziačy mima vadzi, vy bačycie štości padobnaje na zamaskavanuju studniu, pryznačanuju dla zboru hruntovych vodaŭ, pakinutych redkimi daždžami." />
     <string id="b3PsxeiB" text="Aceńvańnik" />
-    <string id="b3shPt8Q" text="Vy nia možacie ŭvajści ŭ varožuju viaźnicu." />
     <string id="B3WyJjBx" text="{QUEST_GIVER.LINK}, vierchavod bandy z {SETTLEMENT}, žadaje, kab vy dastali zbroju dla {?QUEST_GIVER.GENDER}jaje{?}jaho{\?} spravy. {?QUEST_GIVER.GENDER}Jana prapanavała{?}Jon prapanavaŭ{\?} vam {REWARD_GOLD}{GOLD_ICON} za dastavu. {?QUEST_GIVER.GENDER}Jana skazała{?}Jon skazaŭ{\?} vam nabyć {NEEDED_AMOUNT} adzinak {NEEDED_TYPE} i dastavić ich u {SETTLEMENT}, dzie ludzi {QUEST_GIVER.LINK} buduć čakać vas. {?QUEST_GIVER.GENDER}Jana abiacała{?}Jon abiacaŭ{\?} zapłacić vam {REWARD_GOLD}{GOLD_ICON} za vašyja turboty." />
     <string id="b4lDDcli" text="Siamja" />
     <string id="b4TeiuoJ" text="Ahulnapryniata padčas vajny źbirać nadzvyčajnyja padatki." />
@@ -1069,6 +1076,7 @@
     <string id="b9NaTqyr" text="Dadatkovaja Abarona Zastupnikaŭ" />
     <string id="b9nvCgYF" text="Palaŭničy viedaje, jak padrychtavać pastku i jak pryciahnuć da jaje zdabyču, a taksama, kali nabližajucca niebiaśpiečnyja drapiežniki, i jak nia stać ich achviaraj." />
     <string id="b9ty57rJ" text="Lidar Frakcyi" />
+    <string id="babDRxdu" text="Ja sprabuju dapamahčy siabram. [if:convo_mocking_aristocratic][ib:hip]Im patrebien pakupnik dla tavaraŭ, jakija, nu, skažam, jany mahli nie zapłacić za ich. Ich łahier znachodzicca poruč, ale jany nie žadajuć zachadić u horad. Razumiejecie?" />
     <string id="baeO5Zkk" text="{TITLE}... {GRIEVANCE_SHORT_DESCRIPTION}" />
     <string id="bai3aiDB" text="u jakaści pasłanca." />
     <string id="BaifRgT5" text="Heta karysna viedać, kali prychodzić čas abhavaryć abmien pałonnymi." />
@@ -1082,11 +1090,11 @@
     <string id="Bb4L971j" text="{VALUE}% škoda pa ščytach vajaroŭ u vašaj pabudovie." />
     <string id="bBa0LB1D" text="Chiby Brani" />
     <string id="BbaidhT4" text="Ekipijavanyja arbalety nie zapavolvajuć vas." />
-    <string id="BbqzSmHG" text="Tak... Jak vy viedajecie, vojny hetamu haspadarstvu abyšlisia vielmi doraha. U pryvatnaści, vialikim šlachcičam ciažka źbirać vojski, jakija zjaŭlajucca klučom da abarony hetych ziemlaŭ. Niekatoryja z nas prapanavali pavialičyć padušnyja padatki, jakija płaciać viaskoŭcy dy zjaŭlajucca asnoŭnaju krynicaj prybytkaŭ. Ja nia viedaju, ci budzie pryniaty hety zakon, ale ŭ maim miastečki chodziać čutki pra jaho, i mnohija viaskoŭcy zaniepakojeny. Zaraz bolšaść z nas robiać svaju častku, kab trymać usio pad kantrolem. Ale isnuje adzin šlachcič, {MALE_LESSER_NOBLE_NAME}, jaki, da majho soramu, niekali byŭ {TOP_TIER_CAV_TITLE} pad maim ściaham, jeździć pa vioskach i padymaje chvalavańni. Jon sabraŭ paśladoŭnikaŭ, i jany majuć ceły śpis vymohaŭ, ułučajučy zabaronu na novyja padatki, jakija prama kažučy padryvajuć zdolnaść našaha haspadarstva źbirać hrošy, patrebnyja dla abarony. Ja by sam pakłapaciŭsia pra jaho, ale heta budzie vyhladać nia lepšym čynam. Mahčyma vy možacie dapamahčy?" />
+    <string id="BbqzSmHG" text="Tak... Jak vy viedajecie, vojny hetamu haspadarstvu abyšlisia vielmi doraha. [if:convo_thinking][ib:closed2]U pryvatnaści, vialikim šlachcičam ciažka źbirać vojski, jakija zjaŭlajucca klučom da abarony hetych ziemlaŭ. Niekatoryja z nas prapanavali pavialičyć padušnyja padatki, jakija płaciać viaskoŭcy dy zjaŭlajucca asnoŭnaju krynicaj prybytkaŭ. Ja nia viedaju, ci budzie pryniaty hety zakon, ale ŭ maim miastečki chodziać čutki pra jaho, i mnohija viaskoŭcy zaniepakojeny. Zaraz bolšaść z nas robiać svaju častku, kab trymać usio pad kantrolem. Ale isnuje adzin šlachcič, {MALE_LESSER_NOBLE_NAME}, jaki, da majho soramu, niekali byŭ {TOP_TIER_CAV_TITLE} pad maim ściaham, jeździć pa vioskach i padymaje chvalavańni. Jon sabraŭ paśladoŭnikaŭ, i jany majuć ceły śpis vymohaŭ, ułučajučy zabaronu na novyja padatki, jakija prama kažučy padryvajuć zdolnaść našaha haspadarstva źbirać hrošy, patrebnyja dla abarony. Ja by sam pakłapaciŭsia pra jaho, ale heta budzie vyhladać nia lepšym čynam. Mahčyma vy možacie dapamahčy?" />
     <string id="bBRA2jJp" text="{VALUE}% šaniec naniasieńnia dvajnoj škody vajaram abłohi padčas bambavańnia abłohi ŭ kiravanym sieliščy." />
     <string id="bbsN6hOo" text="Vy ŭžo pradali {SELECTED_ITEM}? Kali tak, to heta žachliva chutka." />
     <string id="bBTHy6f9" text="Prosta ja dumaju, što my nia možam być ščaślivyja razam." />
-    <string id="bbXFwya1" text="Ničoha nie prychodzić na rozum. Ale kali vy nie žadajecie hetaha rabić, to možacie pryznačyć niekaha sa svajoj partyi. Adnak heta budzie nia prosta. Kaho by vy nie pryznačyli, jon pavinien być dobrym lidaram i dobra raźbiracca ŭ taktycy, a taksama ŭziać z saboj prynamsi {ALTERNATIVE_SOLUTION_NEEDED_MAN_COUNT} vajaroŭ. Ja hatovy zapłacić {REWARD} {GOLD_ICON} za vašyja pasłuhi. A kali sprava dojdzie da bitvy, vy možacie zabrać usio narabavanaje ŭ jakaści vajskovaj zdabyčy." />
+    <string id="bbXFwya1" text="Ničoha nie prychodzić na rozum. Ale kali vy nie žadajecie hetaha rabić, [if:convo_thinking]to možacie pryznačyć niekaha sa svajoj partyi. Adnak heta budzie nia prosta. Kaho by vy nie pryznačyli, jon pavinien być dobrym lidaram i dobra raźbiracca ŭ taktycy, a taksama ŭziać z saboj prynamsi {ALTERNATIVE_SOLUTION_NEEDED_MAN_COUNT} vajaroŭ. Ja hatovy zapłacić {REWARD} {GOLD_ICON} za vašyja pasłuhi. A kali sprava dojdzie da bitvy, vy možacie zabrać usio narabavanaje ŭ jakaści vajskovaj zdabyčy." />
 <string id="bbz2eyAO" text="Vierahodna, {?PLAYER.GENDER}šlachcianka{?}šlachcič{\?}, adbyłasia pamyłka? Kali vy admovicisia ad tavaraŭ, heta davolić paźbiehnuć situacyi, jakaja moža zdacca, nu, trochi nieprystojnaj." />
     <string id="bC2jevlu" text="Klijent niezadavoleny." />
     <string id="BC4BC0ZC" text="{FIRSTNAME} {?FEMALE}Handlarka{?}Handlar{\?} Śpiecyjami" />
@@ -1108,7 +1116,7 @@
     <string id="bdYtcgyB" text="nikoli nie adstupaje pierad vyklikam." />
     <string id="bdzt4TcN" text="Upeŭnieny Krok" />
     <string id="bdzZUVxf" text="Uzrovień vašaha kłana niedastatkova vysoki, kab zapytać sustreču." />
-    <string id="bEab8stb" text="Dobra. Ja čakaju dobrych navinaŭ ad vas." />
+    <string id="bEab8stb" text="Dobra. Ja čakaju dobrych navinaŭ ad vas.[if:convo_undecided_open]" />
     <string id="bEak0k5N" text="Sielišča {TARGET_SETTLEMENT} uziata. Vy nia brali ŭdzieł u hetaj bitvie. Vašaje pahadnieńnie z {QUEST_GIVER.LINK} sprečnaje." />
     <string id="beK0AZ2y" text="Mianie niepakoić, što vam nie chapaje srodkaŭ dla zabieśpiačeńnia siamji." />
     <string id="BExNNwm0" text="{ATTACKER} rabuje {DEFENDER}" />
@@ -1121,12 +1129,13 @@
     <string id="bFOfZmwC" text="{VALUE}% štraf da chutkaści partyi ad ranieńnia." />
     <string id="bfPsE9M1" text="Imavierna vy chibna mianie zrazumieli. Idzicie z miram." />
     <string id="bGbSbqTG" text="Vy prynieśli našyja zapasy?" />
+    <string id="bGERUWEr" text="{ISSUE_GIVER.LINK}, {?ISSUE_GIVER.GENDER}šlachcianka{?}šlachcič{\?} {TARGET_SETTLEMENT}, {?ISSUE_GIVER.GENDER}skazała{?}skazaŭ{\?} vam, što {?ISSUE_GIVER.GENDER}jana{?}jon{\?} maje prablemy z kantrabandystami, što soŭhajucca miž {TARGET_SETTLEMENT} i {ORIGIN_SETTLEMENT}. Vy vyrašyli adpravić {COMPANION.LINK} z {TROOP_COUNT} vajarami na pošuki kantrabandystaŭ. Jany musiać viarnucca praz {RETURN_DAYS} dzion." />
     <string id="BGgDjRcW" text="Ja dumaju, hetaha dosyć. Voś vašaja apłata." />
-    <string id="BGJpwxvm" text="My majem prablemy. U minułym miesiacy tut prajšła chvaroba. Słava Niabiosam, pamierła ŭsiaho niekalki čałaviek, ale mnohija byli sasłabieły, i my nie zmahli zrabić mnoha pracy. Zaraz nam treba naniać pracoŭnych z blizkich sieliščaŭ, kab papoŭnić niastaču, ale my nia majem dla ich instrumientaŭ. My krychu śpiašajemsia. Jak dumajecie, vy zmožacie znajści dla nas instrumienty?" />
+    <string id="BGJpwxvm" text="My majem prablemy. [ib:demure][if:convo_dismayed]U minułym miesiacy tut prajšła chvaroba. Słava Niabiosam, pamierła ŭsiaho niekalki čałaviek, ale mnohija byli sasłabieły, i my nie zmahli zrabić mnoha pracy. Zaraz nam treba naniać pracoŭnych z blizkich sieliščaŭ, kab papoŭnić niastaču, ale my nia majem dla ich instrumientaŭ. My krychu śpiašajemsia. Jak dumajecie, vy zmožacie znajści dla nas instrumienty?" />
     <string id="bgVZcd1I" text="{HERO.NAME} - heta starosta." />
     <string id="bgXebaRF" text="Vy možacie tolki abmianiać {X} {?IS_PLURAL}pałonnych{?}pałonnaha{\?}." />
     <string id="bGyrPe8c" text="Vytvorčaść" />
-    <string id="BH17ZNSe" text="Ja nia dumaju, što ŭ nas uźniknie bolej prablemaŭ z {TARGET_SETTLEMENT}, dziakuj vašym ludziam. Kali łaska, pieradajcie im našuju padziaku, {?PLAYER.GENDER}pani{?}panovie{\?}." />
+    <string id="BH17ZNSe" text="Ja nia dumaju, što ŭ nas uźniknie bolej prablemaŭ z {TARGET_SETTLEMENT}, [if:convo_mocking_teasing][ib:hip]dziakuj vašym ludziam. Kali łaska, pieradajcie im našuju padziaku, {?PLAYER.GENDER}pani{?}panovie{\?}." />
     <string id="bHbR5Mgy" text="Łosis" />
     <string id="bhdkegZ4" text="Usie harady majuć prajekty, jakija stała patrabujuć jak kvalifikavanych, hetak i niekvalifikavanych pracaŭnikoŭ. Vy daviedalisia pra toje jak budujucca padymalniki i lasy, jak abčesvajucca i ŭkładajucca doški i kamiani, i inšyja navyki." />
     <string id="BhDWm78v" text="{VICTIM.NAME} {?VICTIM.GENDER}pamiorła ŭ{?}pamior u{\?} boi." />
@@ -1136,7 +1145,7 @@
     <string id="bhoCBIWB" text="dazvalaje haspadaru mieć vialikuju asabistuju hvardyju" />
     <string id="Bhtt6XPv" text="Zarobak vašych ludziej zatrymvajecca. Heta nia taja kampanija, ź jakoj chočacca vajavać" />
     <string id="bHZyublA" text="Tak... Ja {?NPC.GENDER}rada{?}rady{\?} mahčymaści tracić čas razam." />
-    <string id="BI1UnHaB" text="Dobra, dobra. Ja razumieju, što heta zojmie čas, ale nie prymušajcie mianie čakać zadoŭha." />
+    <string id="BI1UnHaB" text="Dobra, dobra. Ja razumieju, što heta zojmie čas, ale nie prymušajcie mianie čakać zadoŭha.[if:convo_mocking_aristocratic]" />
     <string id="bIDvq6wA" text="Vorah bolej nia maje viosak. {QUEST_GIVER.LINK} {?QUEST_GIVER.GENDER}skasavała{?}skasavaŭ{\?} vašuju misiju." />
     <string id="bigS7KHi" text="Dobra Składzieny" />
     <string id="bIiBytSB" text="Strałki" />
@@ -1157,7 +1166,8 @@
     <string id="bJZJI867" text="Viasielle" />
     <string id="Bk62qb7O" text="{FIRSTNAME} Žalezny Čerap" />
     <string id="BK9ww4NU" text="{QUEST_GIVER.LINK}, z haspadarstva {QUEST_GIVER.FACTION}, {?QUEST_GIVER.GENDER}paprasiła{?}paprasiŭ{\?} vas pradać {?QUEST_GIVER.GENDER}jaje{?}jaho{\?} tavary pa košcie prynamsi {UNIT_PRICE}{GOLD_ICON} za {UNIT_NAME} i viarnucca da {?QUEST_GIVER.GENDER}jaje. Jana skazała{?}jaho. Jon skazaŭ{\?}, vy možacie zabrać luby prybytak vyšejšy za aznačany košt. Vy paprasili {COMPANION.LINK} uziać {TROOP_COUNT} vašych lepšych vajaroŭ i vyrašyć hetuju prablemu. Jany pavinny viarnucca praz {RETURN_DAYS} dzion." />
-    <string id="bKfaMFVK" text="Taksama vy možacie dasłać mnie rekrutara: nadziejnaha kampańjona z dobrymi navykami lidara i niahodnika, kab zavajavać davier inšych niahodnikaŭ..." />
+    <string id="bKfaMFVK" text="Taksama vy možacie dasłać mnie rekrutara: nadziejnaha kampańjona z dobrymi navykami lidara [if:convo_undecided_open][ib:confident]i niahodnika, kab zavajavać davier inšych niahodnikaŭ..." />
+    <string id="bkoJ57h3" text="Uvajści ŭ Horad" />
     <string id="bKsb7tcr" text="Ščyra kažučy, što vy dumajecie pra {?GENDER}našuju haspadaryniu{?}našaha haspadara{\?}, {FIRST_NAME}?" />
     <string id="BkTiRPT4" text="Trenieroŭčyja Pali" />
     <string id="BktSNgY4" text="My suprać hetaj prapanovy" />
@@ -1180,13 +1190,12 @@
     <string id="bmHAYBwX" text="Kaciła" />
     <string id="BMQQSeTp" text="Ja {?PLAYER.GENDER}ŭpeŭniena{?}ŭpeŭnieny{\?}, maje ludzi znojduć toje, što vam patrebna, i dastaviać u čas." />
     <string id="bMSI9Bt3" text="Rada Abščyn" />
-    <string id="bMTfCgTY" text="Vy pryniali zapyt handlara, i addali tavar." />
     <string id="bmW77NvO" text="Što z maimi {?MOUNT_TYPE_IS_CAMEL}viarbludami{?}końmi{\?}?" />
     <string id="bMwUQenD" text="{VALUE}% chutkaść snaradu, atrymanaja ad ruchu, dla vašaj kidalnaj zbroi." />
     <string id="bN3bLDb2" text="Bajavaja zdabyča: +{a0}%" />
     <string id="bn5fpYx3" text="{newline} • {HERO.NAME} pavinien vykarystać {INFLUENCE_AMOUNT} upłyvu, kab pierakanać {CRUEL_LORD_COUNT} žorstkich lidaraŭ u hetym dziejańni:{newline} {CRUEL_LORDS}" />
-    <string id="bNAbWn4E" text="Ja {?PLAYER.GENDER}nazirała{?}naziraŭ{\?}, jak vy majecie znosiny z roznymi ludźmi: jak padavajocie siabie, jak pravilna źviartiecieś da ludziej z roznych płastoŭ hramadstva, jak vyklikajecie vielič u tych, chto vam daviaraje." />
-    <string id="bNAG2t8S" text="Takim čynam moj siabar, ty albo ašukvaješ nas, albo prosta nia vielmi dobry ŭ hetym. U kožnym razie {QUEST_GIVER.LINK} žadaje paviedamić vam, što {?QUEST_GIVER.GENDER}jaje{?}jaho{\?} kantakty z vami zavieršany.[if:idle_insulted][ib:closed]" />
+    <string id="bNAbWn4E" text="Ja {?PLAYER.GENDER}nazirała{?}naziraŭ{\?}, jak vy majecie znosiny z roznymi ludźmi: jak padavajocie siabie, jak pravilna źviartiecieś da ludziej z roznych płastoŭ hramadstva, jak vyklikajecie vielič u tych, chto vam daviaraje.[if:convo_calm_friendly][ib:confident]" />
+    <string id="bNAG2t8S" text="Takim čynam moj siabar, ty albo ašukvaješ nas, albo prosta nia vielmi dobry ŭ hetym. [if:convo_predatory][ib:closed2]U kožnym razie {QUEST_GIVER.LINK} žadaje paviedamić vam, što {?QUEST_GIVER.GENDER}jaje{?}jaho{\?} kantakty z vami zavieršany." />
     <string id="BNb88lyN" text="Nie biarycie ŭ hałavu. Praciahvajcie svoj šlach." />
     <string id="BNnLbOkN" text="Adzineja" />
     <string id="bNnQt4jN" text="Kaval" />
@@ -1209,7 +1218,7 @@
     <string id="Bp0ZQbfp" text="{DEFAULT_TEXT} {ARMY_LEADER.LINK} {?ARMY_LEADER.GENDER}vyrašyła{?}vyrašyŭ{\?} prajavić litaść da žycharoŭ {SETTLEMENT}. Vy možacie pačuć niezadavoleny homan siarod vajaroŭ, jakim było admoŭlena ŭ ichnim zvykłym pravie rabavać." />
     <string id="bP3XdKK3" text="{FIRSTNAME} sa Śvitanku" />
     <string id="bPbzwMat" text="Mnie udałosia dastavić tolki {AMOUNT_TO_DELIVER} {.%}{?AMOUNT_TO_DELIVER &gt; 1}{PLURAL(REQUESTED_GOOD)}{?}{REQUESTED_GOOD}{\?}{.%}." />
-    <string id="bPcO3Km2" text="Tak, roznaje byvaje, ale majo pahadnieńnie z {QUEST_GIVER.LINK} było na fiksavanuju kolkaść tavaraŭ. Ja nie žadaju vieści pieramovy pra novuju ŭhodu. Kali łaska, viartajciesia, kali ŭ vas budzie patrebnaja kolkaść tavaru." />
+    <string id="bPcO3Km2" text="Tak, roznaje byvaje, [if:convo_nervous2][ib:closed]ale majo pahadnieńnie z {QUEST_GIVER.LINK} było na fiksavanuju kolkaść tavaraŭ. Ja nie žadaju vieści pieramovy pra novuju ŭhodu. Kali łaska, viartajciesia, kali ŭ vas budzie patrebnaja kolkaść tavaru." />
     <string id="BPfuSkCl" text="Heta zaležyć. Jak vy dumajecie, kolki ludziej patrabujecca dla vykanańnia pracy?" />
     <string id="bPpdw81a" text="Dzionnaja padrychtoŭka rušeńnia pavialičana na 1{newline}Rekruty papaŭniajucca na 20% chutčej{newline}Prybytak ad padatkaŭ u sieliščach źnižany na 10%" />
     <string id="BPPG2XF7" text="Pšaničnaja Haspadarka" />
@@ -1223,6 +1232,7 @@
     <string id="BQn8yTs5" text="Ach, tak. Bajusia, ja bolej nie mahu razhladać vašuju prapanovu, prynamsi, zaraz." />
     <string id="BQuVWKvq" text="Sardečna zaprašajem. Nam trebna niešta abmierkavać? " />
     <string id="bqXpBNvF" text="{FIRSTNAME} Karyca" />
+    <string id="BRaGcALd" text="Cha! Navošta nam hetaje rabić?" />
     <string id="brDw7ewN" text="Vam nie ŭdałosia dastavić žycharam {GRAIN_AMOUNT} adzinak ziernia. Da nastupu zimy pasiejać jaho nie atrymajecca. Starosta i žychary stracili nadzieju." />
     <string id="brixvCjC" text="{?CHILD.GENDER}kiravała{?}kiravaŭ{\?} karavanam." />
     <string id="brW4pjPQ" text="Biažycie, pakul možacie. Vojska ŭžo jedzie siudy, kab paviesić vas usich." />
@@ -1242,31 +1252,33 @@
     <string id="bteVVFh0" text="{VALUE} zołata za kožny karavan, jaki naviedaŭ kiravanaje sielišča." />
     <string id="bTj16PqR" text="Kožny šlachietny junak žadaje bačyć centr usiaho hetaha, dzie šlachta źbirajecca ŭ pyšnaści, kab hutaryć i paturać. Vy zaprasili dzicio pahladzieć śpiektakl svaimi vačami i dali elehantnaje adzieńnie, kab {?CHILD.GENDER}jana stała{?}jon staŭ{\?} jaho častkaju. " />
     <string id="bTKiN0hr" text="pracavali ŭ viaskovaj kuźni." />
+    <string id="BTp7qpak" text="Vas abvinavačvajuć u złačynstvie, i {QUEST_GIVER.LINK} bolej nie žadaje vašaj dapamohi." />
     <string id="btsMpRcA" text="Vašaja siamja vałodała kuźniaj u horadzie. Vašy baćka hraŭ aktyŭnuju, choć i druharadnuju rolu ŭ haradzkoj radzie, a taksama słužyŭ u rušeńni." />
     <string id="bu2rmgY1" text="{FIRSTNAME} z Viarby" />
     <string id="bue9AShm" text="Ja klanusia vajavać z vašymi vorahami i davać prytułak i vadu vašym siabram..." />
     <string id="BUf9WeyN" text="Nia dumaju, što vy možacie mnie dapamahčy. Vam varta trochi adpačyć i dać svaim ranam zažyć." />
-    <string id="bUfBHSsz" text="Pačakaj chvilinku, siabar. Mnie treba pahavaryć z taboj." />
+    <string id="bUfBHSsz" text="Pačakaj chvilinku, siabar. Mnie treba pahavaryć z taboj.[ib:aggressive]" />
     <string id="buFin46y" text="{VALUE} štodzionnaja biaśpieka ŭ kiravanym sieliščy." />
     <string id="buKXELE3" text="Pryniać prapanovu." />
-    <string id="BUM63VJq" text="Voś heta duch. Maje ludzi raskažuć vam, jak znajści schovišča. Vyratujcie hetych niaščasnych pałonnych, i vialiki miašok srebra budzie ŭ darozie!" />
-    <string id="bvEOmHWd" text="Dumaju, čałaviek daśviedčany ŭ handli z {ALTERNATIVE_TROOP_AMOUNT} vajarami zmoža vykanać hetuju pracu biez prablemaŭ. Taksama im spatrebicca {GOLD_REQUIRED_FOR_ALTERNATIVE_SOLUTION}{GOLD_ICON} denaraŭ, kab nabyć žyvioł. Vy abo adzin z vašych kampańjonaŭ, {?PLAYER.GENDER}pani{?}panovie{\?}. Heta nia maje značeńnia dla nas, pakul vy znachodzicie nam patrebnych žyvioł..." />
+    <string id="BUM63VJq" text="Voś heta duch. [if:convo_approving][ib:hip]Maje ludzi raskažuć vam, jak znajści schovišča. Vyratujcie hetych niaščasnych pałonnych, i vialiki miašok srebra budzie ŭ darozie!" />
+    <string id="Bvb0AmW7" text="Na žal, mnie brakuje denaraŭ." />
+    <string id="bvEOmHWd" text="Dumaju, čałaviek daśviedčany ŭ handli z {ALTERNATIVE_TROOP_AMOUNT} [if:convo_undecided_open]vajarami zmoža vykanać hetuju pracu biez prablemaŭ. Taksama im spatrebicca {GOLD_REQUIRED_FOR_ALTERNATIVE_SOLUTION}{GOLD_ICON} denaraŭ, kab nabyć žyvioł. Vy abo adzin z vašych kampańjonaŭ, {?PLAYER.GENDER}pani{?}panovie{\?}. Heta nia maje značeńnia dla nas, pakul vy znachodzicie nam patrebnych žyvioł..." />
     <string id="bVi0JKSx" text="Vas pakarajuć śmierciu. Vy pavinny hladzieć na heta jak maha advažniej" />
     <string id="BVIm1HPw" text="Nazva Partyi:" />
     <string id="bvRVu0fO" text="{SKILL1} i {SKILL2} atrymlivajuć {NUMBER_FP} ačkoŭ fokusa i {NUMBER_SP} ačkoŭ navyku." />
     <string id="bVUQyN8t" text="{VALUE}% prabivańnie brani arbaletam." />
     <string id="BvytaDUJ" text="Niabiosy baroniać nas ad takich, jak ty." />
-    <string id="bw0hEPN6" text="Vy ŭžo nabyli ich kantrakt u našaha kłana. Navošta mnie kuplać jaho nazad?" />
+    <string id="bw0hEPN6" text="Vy ŭžo nabyli ich kantrakt u našaha kłana. [if:convo_confused_normal]Navošta mnie kuplać jaho nazad?" />
     <string id="bW3csuSZ" text="Žyviołahadoŭčaja Haspadarka" />
     <string id="bW3ygxro" text="Tak, dobra mieć mahčymaść paznać adzin adnaho bližej." />
     <string id="bW7DT97A" text="{VALUE}% režučaja chutkaść adnaručnaj zbroi." />
-    <string id="BW7v0g6q" text="My źbirajemsia adpravicca ŭ kampaniju, ale moj kvatermajstar paviedamlaje, što našych zapasaŭ ježy nia chopić, kab pratrymacca ŭ poli doŭha. Ja nie mahu vydzialić nikoha z maich šlachcičaŭ, tamu mnie patrebien niechta inšy, kab jak maha chutčej dastavić nam vialikuju kolkaść ježy. Zmožacie zrabić hetaje?" />
+    <string id="BW7v0g6q" text="My źbirajemsia adpravicca ŭ kampaniju, [if:convo_grave][ib:closed]ale moj kvatermajstar paviedamlaje, što našych zapasaŭ ježy nia chopić, kab pratrymacca ŭ poli doŭha. Ja nie mahu vydzialić nikoha z maich šlachcičaŭ, tamu mnie patrebien niechta inšy, kab jak maha chutčej dastavić nam vialikuju kolkaść ježy. Zmožacie zrabić hetaje?" />
     <string id="bWb245zO" text="Valijas" />
-    <string id="bWbcuOji" text="Tak. Heta šmat, ale ja mahu heta zapłacić. Dziakuj, {?PLAYER.GENDER}maja šlachcianka{?}moj šlachcič{\?}. Ja {?SPEAKER.GENDER}viedała{?}viedaŭ{\?}, što my možam pryjści da pahadnieńnia." />
+    <string id="bWbcuOji" text="Tak. Heta šmat, ale ja mahu heta zapłacić. Dziakuj, {?PLAYER.GENDER}maja šlachcianka{?}moj šlachcič{\?}. Ja {?SPEAKER.GENDER}viedała{?}viedaŭ{\?}, što my možam pryjści da pahadnieńnia.[if:convo_grateful][ib:confident]" />
     <string id="BWhVhZPn" text="{VALUE}% košt utrymańnia harnizonu." />
     <string id="BwIT8F0k" text="Ja tak nia dumaju, razbojnik. Zdavajsia abo pamry!" />
     <string id="bWlmGDf3" text="Kali z-za raptoŭnaha štormu miascovy ručaj źnianacka padniaŭsia, vašym susiedziam spatrebiłasia chutkadumnaje kiraŭnictva. Vy zabiaśpiečyli jaho, zahadaŭšy im budavać dambu dla vyratavańnia damoŭ." />
-    <string id="bWpLYiEg" text="Vy niekali znachodzili sposab zdoleć hetych najmitaŭ?" />
+    <string id="bWpLYiEg" text="Vy niekali znachodzili sposab zdoleć hetych najmitaŭ?[if:convo_astonished]" />
     <string id="bwuawgrW" text="Jak čalec z samym vysokim navykam taktyki  {HIGHEST_TACTICS_SKILLED_MEMBER} ({HIGHEST_TACTICS_SKILL}) raspracujcie płan, jak syści ŭ pusteču, kab adarvacca ad vorahaŭ. Vy i bolšaść ludziej zmohuć vyratavać svaje žyćci, ale prynamsi {NEEEDED_MEN_COUNT} {SOLDIER_OR_SOLDIERS} buduć stračany razam z častkaj vašaha bahažu." />
     <string id="bwWdGLDv" text="Mnie davodziłasia bačyć vialikaje dabro i zło, ale ja mahu tolki spadziavacca na toje, što dabro pieramoža zło ŭ sercach bolšaści ludziej." />
     <string id="bwYRMGIN" text="traktat pra abłohavaje majsterstva." />
