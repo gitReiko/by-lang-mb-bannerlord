@@ -2,10 +2,12 @@
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <strings>
     <string id="0MDEP0jy" text="You cannot invite yourself" />
+    <string id="0W4dgUho" text="Banned from game until {BANNEDUNTIL}, Reason: {BANREASON}" />
     <string id="0XY1VKVB" text="Your party is not eligible for clan games." />
     <string id="1CO3GGEk" text="Given ID is too short." />
     <string id="2BtJYizu" text="You must be in a party to perform this action." />
     <string id="2KsbeJHa" text="You have successfully updated your sigil preference" />
+    <string id="39f0eu3Y" text="Provided AuthToken has expired." />
     <string id="3cWg0cWt" text="Could not connect to server." />
     <string id="3lNHtNWa" text="Officer role of {ARG1} is removed." />
     <string id="3NwGpJwe" text="Friend request accepted." />
@@ -17,7 +19,6 @@
     <string id="63X8LERm" text="Couldn't receive login result from server." />
     <string id="6cMSAe2Z" text="Could not report player. Player cannot be found." />
     <string id="6doiovtH" text="Disambiguation: {CHATROOMS}" />
-    <string id="6PcEQ5dq" text="You have been kicked by anti-cheat. Reason: {ARG1}" />
     <string id="7cEXe02I" text="{ARG1} declined clan invitation." />
     <string id="8UmHXSnO" text="Player does not have the Clan feature available." />
     <string id="96e2tZea" text="You cannot use multiple cosmetic items changing same item" />
@@ -25,6 +26,7 @@
     <string id="9TxM5UQS" text="Could not update shown badge." />
     <string id="a1RXhy6A" text="Your party invitation is no longer valid." />
     <string id="AAnoAhox" text="Could not change selected game mode" />
+    <string id="ahobSLlo" text="Login request failed." />
     <string id="aId8kA8r" text="Given text is longer than the limit." />
     <string id="AIgw3aFG" text="Cannot queue to battle because some of the players are blocked from matchmaking." />
     <string id="Ajw0d4dW" text="Incorrect password." />
@@ -47,9 +49,11 @@
     <string id="CyeaniWe" text="Friend request is sent to {ARG1}." />
     <string id="CyrOnYI2" text="You do not have enough loot." />
     <string id="dabogDDj" text="You are already friends" />
+    <string id="dbLB0tuT" text="Family share is not allowed." />
     <string id="DcbVwkit" text="{ARG1} is already in a clan." />
     <string id="dHlxVbMw" text="You are already in a clan." />
     <string id="DJFaYeWm" text="You must be in lobby to perform this action." />
+    <string id="DLKRQOuM" text="Could not get access from your platform service (Error: {ACCESSERROR})." />
     <string id="DMPzhEK0" text="Disconnected from chat room: /{ARG1}" />
     <string id="Dmz3JLyp" text="Player invited to clan." />
     <string id="dnKQbXIZ" text="Could not report player: Game does not exist." />
@@ -64,7 +68,6 @@
     <string id="FEeVGSO6" text="Clan leader can't leave the clan." />
     <string id="FFPyGnZg" text="{ARG1} successfully promoted to clan officer." />
     <string id="fQCaY3da" text="Given ID contains invalid characters." />
-    <string id="fZC7pBba" text="You can only suggest players running the game with Anti-cheat." />
     <string id="gAeQdLU5" text="Failed to acquire access data from platform" />
     <string id="GIiGZOxP" text="Cannot add friend. Privacy settings failed." />
     <string id="gQ8deZ17" text="{ARG1} is not online." />
@@ -79,6 +82,7 @@
     <string id="InUAmnX4" text="You are kicked due to friendly damage" />
     <string id="IRWReNWu" text="You must be the leader of your party to perform this action." />
     <string id="ivKntfNA" text="Already requested to join, waiting for server response" />
+    <string id="iWLq9hMg" text="No Authentication Token is provided." />
     <string id="IWr2ZmWX" text="{ARG1} was promoted to party leader." />
     <string id="J3dazru7" text="Invited {ARG1} to the game" />
     <string id="jbaOH6qf" text="{ARG1} successfully promoted to clan leader." />
@@ -87,6 +91,7 @@
     <string id="KPMxDIgb" text="Clan culture changed successfully." />
     <string id="kuM16dg2" text="{ARG1} has been reported." />
     <string id="kVcDXjUx" text="Invalid troop" />
+    <string id="kY2oXMng" text="Could not login." />
     <string id="l1YfVXF3" text="You can't invite a player that has mods!" />
     <string id="l6a9vI9z" text="Only party leader can invite other players." />
     <string id="lcq2bKRk" text="Rejoining battle." />
@@ -100,20 +105,22 @@
     <string id="ND2abg9k" text="You are blocked from matchmaking for {ARG1} seconds." />
     <string id="nlYK3i5a" text="Clan name is invalid." />
     <string id="Np8V0jcX" text="Player is already invited to another clan." />
+    <string id="NRa52uaF" text="Could not get access from your platform service." />
     <string id="nZlu3Moe" text="Left clan." />
     <string id="o76rZw0U" text="Service is not available at the moment" />
     <string id="OByu0fjQ" text="Cannot queue to battle because not all players are ready in your party." />
     <string id="OfCk5NMA" text="Clan faction is invalid." />
     <string id="oFfMEy1S" text="Friend request cannot be found" />
-    <string id="olLwOWf8" text="Cannot queue to battle because not all players are using anti-cheat." />
     <string id="P0aRStg4" text="Cannot queue to battle because you are blocked from matchmaking." />
     <string id="P3JTNI9P" text="You can not promote yourself to clan leader." />
+    <string id="p5K0ATtZ" text="Could not destroy your old session." />
     <string id="Pn13ZKwI" text="Your party has been disbanded!" />
     <string id="PzUrwWnO" text="You are not the leader of your clan." />
     <string id="qHGkxNWJ" text="Invalid clan sigil." />
     <string id="R7z6X8bT" text="Could not update Bannerlord ID." />
     <string id="rfaIXasP" text="Clan sigil changed successfully." />
     <string id="rI8gE2Qh" text="Announcement deleted successfully." />
+    <string id="Rj8RhD7F" text="Failed" />
     <string id="RKioOKi4" text="Bannerlord ID cannot be empty." />
     <string id="rkxTEFGp" text="Player is not online." />
     <string id="ruC5qF1H" text="Friend request declined." />
@@ -121,6 +128,7 @@
     <string id="rwcA5RMK" text="You already have a pending request for this player." />
     <string id="S7Y5Suho" text="You cannot suggest yourself to party." />
     <string id="sa138Btz" text="You have to be creating a clan game to cancel one." />
+    <string id="satFJMMu" text="Custom Battle Server has incompatible version." />
     <string id="shIV99LZ" text="Friend request received from {ARG1}." />
     <string id="SIT1tREw" text="You cannot add yourself as friend" />
     <string id="SsCPw38T" text="Selected cosmetic does not exist" />
@@ -132,27 +140,30 @@
     <string id="TaLNjfao" text="You are now friends with {ARG1}." />
     <string id="tam7tCdb" text="{ARG1} is not in your clan." />
     <string id="taPBAd4c" text="Given command does not start with /" />
+    <string id="Tauk2JzA" text="Version mismatch, Server Version: {SERVERVERSION} - Your Version: {CLIENTVERSION}." />
     <string id="tKlQbZaJ" text="{ARG1} removed from clan." />
     <string id="TuORvMMq" text="Left officer role." />
+    <string id="tzQxtv27" text="Unknown error." />
     <string id="UcUqJcr9" text="You cannot invite an online player to the game" />
     <string id="uDbGN6fp" text="Player is not in lobby." />
     <string id="uJ7527FB" text="{ARG1} is already invited to another clan." />
     <string id="uqqqWl6f" text="Party not eligible for clan game." />
     <string id="vd8dEfvZ" text="You can't create a party while having mods!" />
-    <string id="VDDm5bqb" text="You can only invite players running the game with Anti-cheat." />
     <string id="VdyJtjSG" text="{ARG1} is not in your party!" />
     <string id="vfsaTZKg" text="{ARG1} invited to your party." />
     <string id="vi3lFSBW" text="Parties of {ARG1} are not allowed in party queue." />
     <string id="w0FSTU2h" text="You cannot pick a lower tier badge." />
-    <string id="w8WiqZT3" text="You must run the game with Anti-cheat to join or create a party!" />
     <string id="wJsR1aGI" text="{ARG1} is not a party member." />
     <string id="wNubP2BF" text="Only party leader can queue for games." />
     <string id="x5vn4FPi" text="Player invited to your party." />
+    <string id="X6N9nSn0" text="You are not allowed to login into this server. Please try official public servers." />
     <string id="XgQQPZsn" text="You can't invite yourself." />
     <string id="xHqjCamt" text="Could not report player. Game cannot be found." />
+    <string id="xriaEwgN" text="You're banned from hosting servers until {BAN_EXPIRATION_TIME}. Reason: {BAN_REASON}." />
     <string id="y0dKQ8pL" text="Announcement changed successfully." />
     <string id="Y7wWhSsO" text="You are not a privileged member of your clan." />
     <string id="YGfHWmNS" text="Could not change region" />
+    <string id="YmPyx3qi" text="Player reached maximum allowed number of Custom Battle Servers." />
     <string id="YOYvBVu1" text="No chat room found matching {COMMAND}" />
     <string id="yQyozBBX" text="Your party is not eligible to create a clan game." />
     <string id="yR7avbUg" text="{ARG1} is not an officer." />

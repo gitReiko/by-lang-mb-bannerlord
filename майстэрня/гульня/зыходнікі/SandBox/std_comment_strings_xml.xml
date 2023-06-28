@@ -14,7 +14,7 @@
     <string id="2FWBCCw0" text="Sister" />
     <string id="2VkCAuiu" text="Yes... I believe I may have heard your name." />
     <string id="2vMNJl7F" text="Very well. It is settled, then." />
-    <string id="3L7Rkswm" text="You can surrender, but I hope you don't. I'd enjoy sticking a blade into you until you squeal.[ib:warrior][if:convo_mocking_predatory]" />
+    <string id="3L7Rkswm" text="You can surrender, but I hope you don't. I'd enjoy sticking a blade into you until you squeal.[ib:warrior][if:convo_mocking_revenge]" />
     <string id="3PsQTf0z" text="I've got you cornered. Yield, or we shall attack.[ib:warrior][if:convo_aggressive]" />
     <string id="3TGug4Vb" text="I know your name. They say you are a most valiant warrior. I can only hope that your honour and mercy matches your valor." />
     <string id="3UucAOBW" text="I am {CONVERSATION_CHARACTER.LINK} of the {CLAN_NAME}." />
@@ -62,7 +62,6 @@
     <string id="bAir72Sf" text="Stop! I yield![if:convo_beaten]" />
     <string id="bbjLFWhP" text="I won our last duel, but you fought well. I wouldn't blame you if you wished for a rematch." />
     <string id="BbVpiTdi" text="You are, I hear, a man of the world, as they say. Tell me a bit about your journeys." />
-    <string id="bc1YyTO4" text="Perhaps it will not be today, or tomorrow, but one way or the other I will see that you regret your decision." />
     <string id="BCfeuAX5" text="Am I? So refined is your cruelty, that you would rather see me free and humiliated, than in chains. Enjoy your triumph![if:convo_contemptuous]" />
     <string id="bDarsOFR" text="I am {CONVERSATION_CHARACTER.LINK} of the house of {CLAN_NAME}." />
     <string id="bdiuV4qb" text="I know your name. They say you are a {?PLAYER.GENDER}woman{?}man{\?} of valor. If fate ever decrees that we cross swords, it would be an honor." />
@@ -105,7 +104,7 @@
     <string id="EXgm5Utx" text="Long may {?GENDER}she{?}he{\?} live!" />
     <string id="eyxfHmCU" text="I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}. Our family has served the kings of the Vlandians for generations." />
     <string id="eZh2qzeR" text="How about that tournament in {TOURNAMENT_TOWN}, eh? And to imagine those contestants thought they had a chance against me" />
-    <string id="f2eZL7w5" text="Oh, I suppose I'm obligated to give you a chance to grovel for your life. Will you surrender, then?[ib:warrior][if:convo_mocking_predatory]" />
+    <string id="f2eZL7w5" text="Oh, I suppose I'm obligated to give you a chance to grovel for your life. Will you surrender, then?[ib:warrior][if:convo_mocking_revenge]" />
     <string id="f3X79aDs" text="So... I've heard you've travelled around a fair bit. No doubt you've seen a lot of strange and awful things. Maybe you've done a few strange and awful things. Go on, tell me a bit about your journeys. I promise not to be shocked." />
     <string id="Fb7JxGKM" text="Yeah... I know your name. Right. I'm not one for chat, so let's skip the soup and go straight to the meat." />
     <string id="fbArcLAA" text="My lady, if you are skilled as arms as you are fair in countenance, then your enemies should indeed fear you!" />

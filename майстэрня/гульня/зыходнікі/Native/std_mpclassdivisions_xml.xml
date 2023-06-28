@@ -2,7 +2,7 @@
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <strings>
     <string id="0e17RZrZ" text="Arbalest" />
-    <string id="0K58as8Y" text="You are an expert at charging in to break defensive lines.{newline} {newline}+50% Speed Bonus Damage on Mount" />
+    <string id="0o6o94sk" text="You are an expert at charging in with your mount to break defensive lines.{newline} {newline}+50% Speed Bonus Damage on Mount" />
     <string id="0TtCRwmr" text="Athletic" />
     <string id="0yGhTKey" text="Grants Extra Arrows." />
     <string id="10u6mqIX" text="Replaces Nomad Short Bow with Recurved Bow, deals more damage, but is slower." />
@@ -19,7 +19,6 @@
     <string id="4Gi8asWk" text="Replaces Recurve Bow with a Composite Bow, draws faster and deals more damage." />
     <string id="4O4xjMMd" text="Nomad Archer" />
     <string id="4t6A2jY8" text="Axe and Shield" />
-    <string id="4wdgiTta" text="Sickle" />
     <string id="4YTJJaTG" text="Heavy Sabre" />
     <string id="5aZNQczb" text="Replaces mount with a more maneuverable horse." />
     <string id="5f6TSkM1" text="Mounted Skirmish" />
@@ -59,6 +58,7 @@
     <string id="a6HqLFC7" text="You are a fighter of the steppe, in combat you stay mobile and dangerous to open up the back of your enemies.{newline} {newline}Grants Short Spear{newline} {newline}+5% Melee Damage" />
     <string id="a8ycVmwU" text="Bardiche" />
     <string id="AApw8sqj" text="Your experience as a Frontliner allows you fight better in melee.{newline} {newline}Grants Better Twohanded Sword{newline} {newline}+5% Movement Speed {newline}-60% Moving Accuracy Penalty" />
+    <string id="AeWE63so" text="Long Axe and Shield" />
     <string id="aeWqECxF" text="Faster Longbow" />
     <string id="aVGSZhCN" text="Pavise Shield" />
     <string id="AW8XDIIP" text="Thick Skin" />
@@ -75,7 +75,6 @@
     <string id="blqDgCtL" text="Big Game Hunter" />
     <string id="bsabIdYm" text="Two Handed Axe" />
     <string id="btoJTO9G" text="Raider Axe" />
-    <string id="BUAatpbx" text="Shield and Axe" />
     <string id="bxUVwypQ" text="You know how to handle yourself in melee, grants a shield and a mace.{newline} {newline}Grants Small Metal Shield{newline}Grants Heavy Mace{newline}+7% movement speed" />
     <string id="bY9U7w1Q" text="Sword" />
     <string id="bzr6vtXi" text="Heavy Menavlion" />
@@ -111,6 +110,8 @@
     <string id="E7WWiQCf" text="Range Longbow" />
     <string id="E8f6ngSe" text="You are the reason enemy troops have trouble sleeping, an unstoppable death dealer.{newline} {newline}+9 Armor{newline}+10% Swing Speed on Horseback{newline}+10% Damage dealt with Blunt Weapons" />
     <string id="ebGVm8Ve" text="Grants a random shield of varying grades." />
+    <string id="EcYwrKTf" text="Heavy Axe and Shield" />
+    <string id="efYCG9u2" text="Armored Spearhead" />
     <string id="EjyFIpP6" text="Your Shield has more durability and allow you to cover more area with your shield. You also take less damage from Piercing weapons.{newline} {newline}Grants Stronger Shield{newline}+20% Shield Area vs Ranged Weapons{newline}-30% Damage taken from Piercing Weapons" />
     <string id="eLoZTNYa" text="You are an expert at fighting while moving around with your bow.{newline} {newline}+25% Faster Movement When moving and aiming{newline}-80% Turning Accuracy Penalty{newline}-80% Moving Accuracy Penalty" />
     <string id="eMd39oQf" text="You are an expert at fighting against cavalry on foot and mastered to use cavalry's speed against itself.{newline} {newline}Grants Long Spear.{newline} {newline}+100% Damage to Mounts with Melee Weapons{newline}+50% Speed Bonus Damage with Melee Weapons on Piercing Attacks" />
@@ -130,7 +131,6 @@
     <string id="G4nZNi6t" text="Your time spent in nature made you unnaturally strong,  your throws deal more damage.{newline} {newline}Grants Throwing Spear{newline} {newline}+20% Throwing Damage" />
     <string id="gcmyaxK9" text="You know where to hit your targets, your shots deal additional damage, especially your headshots.{newline} {newline}+5% Damage with Missiles {newline}+5% extra Damage on Headshots" />
     <string id="GdmMrIWm" text="Grants a Billhook, effective at long range infantry support, two handed." />
-    <string id="GFZifSoP" text="You are an expert at charging in to break defensive lines.{newline} {newline}+50% Speed Bonus Damage on Mount" />
     <string id="gnb4493C" text="Replaces Sword with Club, effective against armored opponents." />
     <string id="gQtU8qqy" text="Grants Axe, effective against shields." />
     <string id="h5Oj84Wu" text="Getting hurt puts you in a frenzied rage, you take less damage and deal more damage in melee the more you get hurt.{newline} {newline}+7% Damage per 20 Hitpoints lost{newline}-7% Damage Taken from Melee Attacks per 20 Hitpoints lost" />
@@ -169,6 +169,7 @@
     <string id="jTJa8tBY" text="You are wearing extra layers of padding below your armor.{newline} {newline}+10 armor{newline}-20% Blunt damage taken" />
     <string id="JxDrcvDO" text="You know the weak points of shields, your attacks are extra effective against shields.{newline} {newline}+100% Damage to Shields" />
     <string id="k5wDzNqz" text="Line Breaker" />
+    <string id="KGYSP8Sn" text="Ride Like the Wind" />
     <string id="KrEPteFM" text="You know the weak points of shields, your attacks are extra effective against shields.{newline} {newline}+30% Damage to Shields" />
     <string id="Kt605dRo" text="Your strong arm allows you to throw faster with much more deadly force.{newline} {newline}+5% Missle Release Speed{newline} {newline}+15% Throwing Weapon Damage" />
     <string id="KTegaNPW" text="Longbow" />
@@ -264,7 +265,6 @@
     <string id="urUwa4bf" text="Looter" />
     <string id="uTfm0blH" text="Grants Short Bow, enables to shoot from horseback." />
     <string id="uxSlnb7y" text="Made from the most exquisite wood, this bow is exceptionally accurate." />
-    <string id="v0RmrsJZ" text="Axe + Shield" />
     <string id="V2SKzX1e" text="Charger Horse" />
     <string id="v2WKbNZo" text="Rapid Throws" />
     <string id="v3TAosde" text="Royal Archer" />
@@ -313,8 +313,8 @@
     <string id="YjmSNwpY" text="You improved your armor with sturdy metal plates.{newline} {newline}+10 armor{newline}-10% Cut damage taken" />
     <string id="Yjs1ySjJ" text="Shield and Spear" />
     <string id="YnnrpaFO" text="Extra Chainmail" />
-    <string id="YqqhxGwH" text="Replaces Club with Sickle, capable of dealing decent damage and effective against shields." />
     <string id="yRTNfCfm" text="Faster Crossbow" />
+    <string id="ytSKeWyX" text="Replaces Club with Axe, effective against shields." />
     <string id="YUauBtTT" text="A bow arm from strong wood, makes this bow shoot especially fast and far." />
     <string id="Yvk8a2tb" text="Footwork" />
     <string id="YVwl3BgB" text="Your experience as Marksman allows you to fire heavier arrows with more precision.{newline} {newline}Grants Stronger Arrows{newline} {newline}+100% Max Accuracy duration" />
