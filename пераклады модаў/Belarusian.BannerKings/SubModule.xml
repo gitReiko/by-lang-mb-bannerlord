@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Module>
+	<Name value = "Belarusian Banner Kings"/>
+	<Id value = "Belarusian Banner Kings"/>
+	<Version value = "v1.1.5"/>
+	<DefaultModule value="true"/>
+	<SingleplayerModule value="true"/>
+	<MultiplayerModule value="false"/>
+	<Author value="Denis Makouski (Reiko17)" />
+  	<Official value="false" />
+	<DependedModules>
+		<DependedModule Id="Native" DependentVersion="v1.1.5"/>
+		<DependedModule Id="SandBoxCore" DependentVersion="v1.1.5"/>
+		<DependedModule Id="Sandbox" DependentVersion="v1.1.5"/>
+		<DependedModule Id="StoryMode" DependentVersion="v1.1.5"/>
+		<DependedModule Id="Belarusian Core" DependentVersion="v1.1.5"/>
+	</DependedModules>
+	<SubModules/>
+	<Xmls> 
+	</Xmls>
+</Module>
