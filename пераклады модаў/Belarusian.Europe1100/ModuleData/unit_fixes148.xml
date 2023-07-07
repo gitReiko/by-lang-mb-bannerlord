@@ -61,6 +61,91 @@
 				culture="Culture.berber">
 	</NPCCharacter>
 
+	<NPCCharacter id="village_woman_crusader" 
+				name="{=E11CRt1}Outremer Peasant" 
+				culture="Culture.crusader">
+	</NPCCharacter>
+
+	<NPCCharacter id="caravan_master_crusader" 
+				name="{=E11CRt2}Outremer Caravan Master" 
+				culture="Culture.crusader">
+	</NPCCharacter>
+	
+	<NPCCharacter id="armed_trader_crusader" 
+				name="{=E11CRt3}Outremer Armed Trader" 
+				culture="Culture.crusader">
+	</NPCCharacter>
+
+	<NPCCharacter id="caravan_guard_crusader" 
+				name="{=E11CRt4}Outremer Caravan Guard" 
+				culture="Culture.crusader">
+	</NPCCharacter>
+
+	<NPCCharacter id="veteran_caravan_guard_crusader" 
+				name="{=E11CRt5}Outremer Veteran Caravan Guard" 
+				culture="Culture.crusader">
+	</NPCCharacter>
+
+	<NPCCharacter id="crusader_pilgrim" 
+				name="{=E11CRt6}Outremer Pilgrim" 
+				culture="Culture.crusader">
+	</NPCCharacter>
+
+	<NPCCharacter id="crusader_spearman" 
+				name="{=E11CRt7}Outremer Spearman" 
+				culture="Culture.crusader">
+	</NPCCharacter>
+
+	<NPCCharacter id="crusader_brotherhood_spearman" 
+				name="{=E11CRt8}Outremer Brotherhood Spearman" 
+				culture="Culture.crusader">
+	</NPCCharacter>
+
+	<NPCCharacter id="crusader_sergeant_spearman" 
+				name="{=E11CRt9}Outremer Sergeant Spearman" 
+				culture="Culture.crusader">
+	</NPCCharacter>
+
+	<NPCCharacter id="crusader_crossbowman" 
+				name="{=E11CRt10}Outremer Crossbowman" 
+				culture="Culture.crusader">
+	</NPCCharacter>
+
+	<NPCCharacter id="crusader_brotherhood_crossbowman" 
+				name="{=E11CRt11}Outremer Brotherhood Crossbowman" 
+				culture="Culture.crusader">
+	</NPCCharacter>
+
+	<NPCCharacter id="crusader_master_crossbowman" 
+				name="{=E11CRt12}Outremer Master Crossbowman" 
+				culture="Culture.crusader">
+	</NPCCharacter>
+
+	<NPCCharacter id="crusader_light_cavalry" 
+				name="{=E11CRt13}Outremer Turcopole Light Cavalry" 
+				culture="Culture.crusader">
+	</NPCCharacter>
+
+	<NPCCharacter id="crusader_horse_archer" 
+				name="{=E11CRt14}Outremer Turcopole Horse Archer" 
+				culture="Culture.crusader">
+	</NPCCharacter>
+
+	<NPCCharacter id="crusader_knight" 
+				name="{=E11CRt15}Outremer Hospitaller Knight" 
+				culture="Culture.crusader">
+	</NPCCharacter>
+
+	<NPCCharacter id="crusader_hospitaller_gonfanonier" 
+				name="{=E11CRt16}Outremer Hospitaller Gonfanonier" 
+				culture="Culture.crusader">
+	</NPCCharacter>
+
+	<NPCCharacter id="crusader_marshal" 
+				name="{=E11CRt17}Outremer Hospitaller Marshal" 
+				culture="Culture.crusader">
+	</NPCCharacter>
+
 	<NPCCharacter id="byzantine_tagma"  
 				name="{=E11BYt07}Byzantine Tagma" 
 				culture="Culture.byzantine">
@@ -839,6 +924,91 @@
 	<NPCCharacter id="scottish_champion_knight"  
 				name="{=E11SCt17}Scottish Champion Knight" 
 				culture="Culture.scottish">
+	</NPCCharacter>
+
+	<NPCCharacter id="village_woman_sicilian" 
+				name="{=E11SIt1}Empire Peasant" 
+				culture="Culture.sicilian">
+	</NPCCharacter>
+
+	<NPCCharacter id="caravan_master_sicilian" 
+				name="{=E11SIt2}Sicilian Caravan Master" 
+				culture="Culture.sicilian">
+	</NPCCharacter>
+
+	<NPCCharacter id="armed_trader_sicilian" 
+				name="{=E11SIt3}Sicilian Armed Trader" 
+				culture="Culture.sicilian">
+	</NPCCharacter>
+
+	<NPCCharacter id="caravan_guard_sicilian" 
+				name="{=E11SIt4}Sicilian Caravan Guard" 
+				culture="Culture.sicilian">
+	</NPCCharacter>
+
+	<NPCCharacter id="veteran_caravan_guard_sicilian" 
+				name="{=E11SIt5}Sicilian Veteran Caravan Guard" 
+				culture="Culture.sicilian">
+	</NPCCharacter>
+
+	<NPCCharacter id="sicilian_levy" 
+				name="{=E11SIt6}Sicilian Levy" 
+				culture="Culture.sicilian">
+	</NPCCharacter>
+
+	<NPCCharacter id="sicilian_militia_spearman" 
+				name="{=E11SIt7}Sicilian Militia Spearman" 
+				culture="Culture.sicilian">
+	</NPCCharacter>
+
+	<NPCCharacter id="sicilian_veteran_miltia_spearman" 
+				name="{=E11SIt8}Sicilian Veteran Militia Spearman" 
+				culture="Culture.sicilian">
+	</NPCCharacter>
+
+	<NPCCharacter id="sicilian_sergeant_spearman" 
+				name="{=E11SIt9}Sicilian Sergeant Spearman" 
+				culture="Culture.sicilian">
+	</NPCCharacter>
+
+	<NPCCharacter id="sicilian_militia_archer" 
+				name="{=E11SIt10}Sicilian Militia Archer" 
+				culture="Culture.sicilian">
+	</NPCCharacter>
+
+	<NPCCharacter id="sicilian_veteran_militia_archer" 
+				name="{=E11SIt11}Sicilian Veteran Militia Archer" 
+				culture="Culture.sicilian">
+	</NPCCharacter>
+
+	<NPCCharacter id="sicilian_sergeant_archer" 
+				name="{=E11SIt12}Sicilian Sergeant Archer" 
+				culture="Culture.sicilian">
+	</NPCCharacter>
+
+	<NPCCharacter id="sicilian_manatarms" 
+				name="{=E11SIt13}Sicilian Man At Arms" 
+				culture="Culture.sicilian">
+	</NPCCharacter>
+
+	<NPCCharacter id="sicilian_light_cavalry" 
+				name="{=E11SIt14}Sicilian Light Cavalry" 
+				culture="Culture.sicilian">
+	</NPCCharacter>
+
+	<NPCCharacter id="sicilian_norman_squire" 
+				name="{=E11SIt15}Sicilian Norman Squire" 
+				culture="Culture.sicilian">
+	</NPCCharacter>
+
+	<NPCCharacter id="sicilian_norman_knight" 
+				name="{=E11SIt16}Sicilian Norman Knight" 
+				culture="Culture.sicilian">
+	</NPCCharacter>
+
+	<NPCCharacter id="sicilian_norman_marshal" 
+				name="{=E11SIt17}Sicilian Norman Marshal" 
+				culture="Culture.sicilian">
 	</NPCCharacter>
 
 	<NPCCharacter id="caravan_master_goldenhorde"  
