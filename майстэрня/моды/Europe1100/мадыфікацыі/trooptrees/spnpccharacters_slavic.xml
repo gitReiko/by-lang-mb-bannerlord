@@ -433,7 +433,7 @@
   <NPCCharacter id="rus_polk"
                 default_group="Infantry"
                 level="6"
-                name="{=rus_polk}Rus Polk"
+                name="{=rus_polk}Rus Smerd"
                 occupation="Soldier"
                 is_basic_troop="true"
                 culture="Culture.goldenhorde">
@@ -480,7 +480,7 @@
  <NPCCharacter id="rus_polk_spearman"
                 default_group="Infantry"
                 level="11"
-                name="{=rus_polk}Rus Polk Spearman"
+                name="{=rus_polk}Rus Woj Kopijnik"
                 occupation="Soldier"
                 culture="Culture.goldenhorde">
     <face>
@@ -523,7 +523,7 @@
   <NPCCharacter id="rus_polk_veteran_spearman"
                 default_group="Infantry"
                 level="16"
-                name="{=rus_polk}Rus Polk Veteran Spearman"
+                name="{=rus_polk}Rus Woj Veteran Kopijnik"
                 occupation="Soldier"
                 culture="Culture.goldenhorde">
     <face>
@@ -567,7 +567,7 @@
    <NPCCharacter id="rus_smerdy_axeman"
                 default_group="Infantry"
                 level="21"
-                name="{=rus_polk}Rus Smerdy Axeman"
+                name="{=rus_polk}Rus Polkovoj Siekirnik"
                 occupation="Soldier"
                 culture="Culture.goldenhorde">
     <face>
@@ -610,7 +610,7 @@
   <NPCCharacter id="rus_polk_archer"
                 default_group="Ranged"
                 level="11"
-                name="{=rus_polk}Rus Polk Archer"
+                name="{=rus_polk}Rus Woj Lučnik"
                 occupation="Soldier"
                 culture="Culture.goldenhorde">
     <face>
@@ -653,7 +653,7 @@
   <NPCCharacter id="rus_polk_veteran_archer"
                 default_group="Ranged"
                 level="16"
-                name="{=rus_polk}Rus Polk Veteran Archer"
+                name="{=rus_polk}Rus Woj Veteran Lučnik"
                 occupation="Soldier"
                 culture="Culture.goldenhorde">
     <face>
@@ -698,7 +698,7 @@
   <NPCCharacter id="rus_smerdy_archer"
                 default_group="Ranged"
                 level="21"
-                name="{=rus_polk}Rus Smerdy Archer"
+                name="{=rus_polk}Rus Polkovoj Lučnik"
                 occupation="Soldier"
                 culture="Culture.goldenhorde">
     <face>
@@ -742,7 +742,7 @@
   <NPCCharacter id="rus_bagatur"
                 default_group="Cavalry"
                 level="16"
-                name="{=rus_polk}Rus Bagatur"
+                name="{=rus_polk}Rus Dziecki"
 				upgrade_requires="ItemCategory.horse"
                 occupation="Soldier"
                 culture="Culture.goldenhorde">
@@ -789,7 +789,7 @@
   <NPCCharacter id="rus_gridba"
                 default_group="Cavalry"
                 level="21"
-                name="{=rus_polk}Rus Griba"
+                name="{=rus_polk}Rus Otrok"
                 occupation="Soldier"
                 culture="Culture.goldenhorde">
     <face>
@@ -834,7 +834,7 @@
   <NPCCharacter id="rus_tysiatsky"
                 default_group="Cavalry"
                 level="21"
-                name="{=rus_polk}Rus Tysiatsky"
+                name="{=rus_polk}Rus Bojawy Chołop"
 				is_basic_troop="true"
                 occupation="Soldier"
                 culture="Culture.goldenhorde">
@@ -881,7 +881,7 @@
    <NPCCharacter id="rus_druzhina"
                 default_group="Cavalry"
                 level="26"
-                name="{=rus_polk}Rus Druzhina"
+                name="{=rus_polk}Rus Hrid"
 				upgrade_requires="ItemCategory.war_horse"
                 occupation="Soldier"
                 culture="Culture.goldenhorde">
@@ -928,7 +928,7 @@
    <NPCCharacter id="rus_boyar"
                 default_group="Cavalry"
                 level="31"
-                name="{=rus_polk}Rus Boyar"
+                name="{=rus_polk}Rus Sotiennij"
                 occupation="Soldier"
                 culture="Culture.goldenhorde">
     <face>

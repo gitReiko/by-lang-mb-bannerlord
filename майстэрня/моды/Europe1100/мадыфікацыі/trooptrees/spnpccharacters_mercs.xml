@@ -218,7 +218,7 @@
   </NPCCharacter>
   
   <NPCCharacter id="legion_of_the_betrayed_tier_3"
-                default_group="Infantry"
+                default_group="Cavalry"
                 level="31"
                 occupation="Soldier"
                 culture="Culture.spanish"
@@ -264,180 +264,197 @@
     </Equipments>
   </NPCCharacter>
   
-  <NPCCharacter id="skolderbrotva_tier_1"
-                default_group="Infantry"
+   <NPCCharacter id="skolderbrotva_tier_1"
+                default_group="HorseArcher"
                 level="21"
                 occupation="Soldier"
                 is_basic_troop="true"
-                culture="Culture.empire"
-                name="{=E11RAVENNA_tr1}Papal Legate">
+                culture="Culture.khuzait"
+                name="{=E11PECHENEGS_tr1}Kipchak Horse Archer">
     <face>
-      <face_key_template value="BodyProperty.fighter_empire" />
+      <face_key_template value="BodyProperty.fighter_khuzait" />
     </face>
     <skills>
-    <skill id="Athletics"
-           value="100" />
-    <skill id="Riding"
-           value="15" />
-    <skill id="OneHanded"
-           value="100" />
-    <skill id="TwoHanded"
-           value="100" />
-    <skill id="Polearm"
-           value="100" />
-    <skill id="Bow"
-           value="45" />
-    <skill id="Crossbow"
-           value="45" />
-    <skill id="Throwing"
-           value="60" />
+      <skill id="Athletics"
+             value="40" />
+      <skill id="Riding"
+             value="40" />
+      <skill id="OneHanded"
+             value="20" />
+      <skill id="TwoHanded"
+             value="15" />
+      <skill id="Polearm"
+             value="10" />
+      <skill id="Bow"
+             value="30" />
+      <skill id="Crossbow"
+             value="5" />
+      <skill id="Throwing"
+             value="15" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.skolderbrotva_tier_2" />
     </upgrade_targets>
     <Equipments>
       <EquipmentRoster>
-				<equipment slot="Item0" id="Item.bo_staff"/>
-				<equipment slot="Item1" id="Item.judgement_mace_t3"/>
-				<equipment slot="Head" id="Item.empire_crown_north"/>
-				<equipment slot="Body" id="Item.imperial_robes"/>
-				<equipment slot="Gloves" id="Item.northern_brass_bracers"/>
-				<equipment slot="Leg" id="Item.southern_moccasins"/>
+				<equipment slot="Item0" id="Item.composite_bow"/>
+				<equipment slot="Item1" id="Item.steppe_arrows"/>
+				<equipment slot="Item2" id="Item.steppe_arrows"/>
+				<equipment slot="Item3" id="Item.khuzait_sword_3_t3"/>
+				<equipment slot="Head" id="Item.decorated_nomad_cap"/>
+				<equipment slot="Cape" id="Item.wrapped_scarf"/>
+				<equipment slot="Body" id="Item.aserai_archer_armor"/>
+				<equipment slot="Gloves" id="Item.studded_leather_vambraces"/>
+				<equipment slot="Leg" id="Item.khuzait_curved_boots"/>
+				<equipment slot="Horse" id="Item.t2_khuzait_horse"/>
+				<equipment slot="HorseHarness" id="Item.steppe_half_barding"/>
       </EquipmentRoster>
-      <EquipmentRoster>
-				<equipment slot="Item0" id="Item.bo_staff"/>
-				<equipment slot="Item1" id="Item.judgement_mace_t3"/>
-				<equipment slot="Head" id="Item.empire_crown_north"/>
-				<equipment slot="Body" id="Item.imperial_robes"/>
-				<equipment slot="Gloves" id="Item.northern_brass_bracers"/>
-				<equipment slot="Leg" id="Item.southern_moccasins"/>
+      <EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.composite_bow"/>
+				<equipment slot="Item1" id="Item.steppe_arrows"/>
+				<equipment slot="Item2" id="Item.steppe_arrows"/>
+				<equipment slot="Item3" id="Item.khuzait_sword_3_t3"/>
+				<equipment slot="Head" id="Item.decorated_nomad_cap"/>
+				<equipment slot="Cape" id="Item.wrapped_scarf"/>
+				<equipment slot="Body" id="Item.aserai_archer_armor"/>
+				<equipment slot="Gloves" id="Item.studded_leather_vambraces"/>
+				<equipment slot="Leg" id="Item.khuzait_curved_boots"/>
+				<equipment slot="Horse" id="Item.t2_khuzait_horse"/>
+				<equipment slot="HorseHarness" id="Item.steppe_half_barding"/>
       </EquipmentRoster>
-      <EquipmentSet id="sturgia_troop_civilian_template_t1"
-                    civilian="true" />
     </Equipments>
   </NPCCharacter>
   
   <NPCCharacter id="skolderbrotva_tier_2"
-                default_group="Infantry"
+                default_group="HorseArcher"
                 level="26"
                 occupation="Soldier"
-                culture="Culture.empire"
-                name="{=E11RAVENNA_tr2}Antipope German Knight">
+                culture="Culture.khuzait"
+                name="{=E11PECHENEGS_tr2}Kipchak Veteran Horse Archer">
     <face>
-      <face_key_template value="BodyProperty.fighter_empire" />
+      <face_key_template value="BodyProperty.fighter_khuzait" />
     </face>
     <skills>
-      <skill id="Athletics"
-             value="130" />
-      <skill id="Riding"
-             value="20" />
-      <skill id="OneHanded"
-             value="130" />
-      <skill id="TwoHanded"
-             value="130" />
-      <skill id="Polearm"
-             value="130" />
-      <skill id="Bow"
-             value="60" />
-      <skill id="Crossbow"
-             value="60" />
-      <skill id="Throwing"
-             value="80" />
+    <skill id="Athletics"
+              value="80" />
+    <skill id="Riding"
+           value="130" />
+    <skill id="OneHanded"
+           value="50" />
+    <skill id="TwoHanded"
+           value="50" />
+    <skill id="Polearm"
+           value="130" />
+    <skill id="Bow"
+           value="160" />
+    <skill id="Crossbow"
+           value="160" />
+    <skill id="Throwing"
+           value="60" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.skolderbrotva_tier_3" />
     </upgrade_targets>
     <Equipments>
       <EquipmentRoster>
-				<equipment slot="Item0" id="Item.vlandia_sword_2_t3"/>
-				<equipment slot="Item1" id="Item.wide_heater_shield"/>
-				<equipment slot="Head" id="Item.imperial_mail_coif"/>
-				<equipment slot="Cape" id="Item.mail_shoulders"/>
-				<equipment slot="Body" id="Item.vlandia_chainmail"/>
-				<equipment slot="Gloves" id="Item.mail_mitten"/>
-				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
+				<equipment slot="Item0" id="Item.composite_bow"/>
+				<equipment slot="Item1" id="Item.steppe_arrows"/>
+				<equipment slot="Item2" id="Item.steppe_arrows"/>
+				<equipment slot="Item3" id="Item.khuzait_sword_3_t3"/>
+				<equipment slot="Head" id="Item.plumed_nomad_helmet"/>
+				<equipment slot="Cape" id="Item.a_khuzait_leather_shoulder_b_b"/>
+				<equipment slot="Body" id="Item.aserai_robe_c_chain"/>
+				<equipment slot="Gloves" id="Item.studded_leather_vambraces"/>
+				<equipment slot="Leg" id="Item.khuzait_curved_boots"/>
+				<equipment slot="Horse" id="Item.t2_khuzait_horse"/>
+				<equipment slot="HorseHarness" id="Item.steppe_half_barding"/>
       </EquipmentRoster>
-      <EquipmentRoster>
-				<equipment slot="Item0" id="Item.vlandia_sword_2_t3"/>
-				<equipment slot="Item1" id="Item.wide_heater_shield"/>
-				<equipment slot="Head" id="Item.imperial_mail_coif"/>
-				<equipment slot="Cape" id="Item.mail_shoulders"/>
-				<equipment slot="Body" id="Item.vlandia_chainmail"/>
-				<equipment slot="Gloves" id="Item.mail_mitten"/>
-				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
+      <EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.composite_bow"/>
+				<equipment slot="Item1" id="Item.steppe_arrows"/>
+				<equipment slot="Item2" id="Item.steppe_arrows"/>
+				<equipment slot="Item3" id="Item.khuzait_sword_3_t3"/>
+				<equipment slot="Head" id="Item.plumed_nomad_helmet"/>
+				<equipment slot="Cape" id="Item.a_khuzait_leather_shoulder_b_b"/>
+				<equipment slot="Body" id="Item.aserai_robe_c_chain"/>
+				<equipment slot="Gloves" id="Item.studded_leather_vambraces"/>
+				<equipment slot="Leg" id="Item.khuzait_curved_boots"/>
+				<equipment slot="Horse" id="Item.t2_khuzait_horse"/>
+				<equipment slot="HorseHarness" id="Item.steppe_half_barding"/>
       </EquipmentRoster>
-      <EquipmentSet id="sturgia_troop_civilian_template_t2"
-                    civilian="true" />
     </Equipments>
   </NPCCharacter>
   
   <NPCCharacter id="skolderbrotva_tier_3"
-                default_group="Cavalry"
+                default_group="HorseArcher"
                 level="31"
                 occupation="Soldier"
-                culture="Culture.empire"
-                name="{=E11RAVENNA_tr3}Antipope German Banner Knight">
+                culture="Culture.khuzait"
+                name="{=E11PECHENEGS_tr3}Kipchak Khan's Guard"
+				upgrade_requires="ItemCategory.war_horse">
     <face>
-      <face_key_template value="BodyProperty.fighter_sturgia" />
+      <face_key_template value="BodyProperty.fighter_khuzait" />
     </face>
     <skills>
     <skill id="Athletics"
-           value="60" />
+             value="60" />
     <skill id="Riding"
            value="200" />
     <skill id="OneHanded"
-           value="200" />
-    <skill id="TwoHanded"
-           value="260" />
-    <skill id="Polearm"
-           value="260" />
-    <skill id="Bow"
            value="60" />
+    <skill id="TwoHanded"
+           value="60" />
+    <skill id="Polearm"
+           value="220" />
+    <skill id="Bow"
+           value="260" />
     <skill id="Crossbow"
-           value="25" />
+           value="260" />
     <skill id="Throwing"
-           value="45" />
+           value="30" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
       <EquipmentRoster>
-				<equipment slot="Item0" id="Item.vlandia_sword_3_t4"/>
-				<equipment slot="Item1" id="Item.wide_heater_shield"/>
-				<equipment slot="Item2" id="Item.empire_polearm_1_t4"/>
-				<equipment slot="Head" id="Item.segmented_skullcap_over_mail_coif"/>
-				<equipment slot="Cape" id="Item.studded_imperial_neckguard"/>
-				<equipment slot="Body" id="Item.coat_of_plates_over_mail"/>
-				<equipment slot="Gloves" id="Item.lordly_mail_mitten"/>
-				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
-				<equipment slot="Horse" id="Item.t2_vlandia_horse"/>
-				<equipment slot="HorseHarness" id="Item.chain_horse_harness"/>
+				<equipment slot="Item0" id="Item.steppe_war_bow"/>
+				<equipment slot="Item1" id="Item.steppe_arrows"/>
+				<equipment slot="Item2" id="Item.khuzait_polearm_1_t4"/>
+				<equipment slot="Item3" id="Item.khuzait_sword_3_t3"/>
+				<equipment slot="Head" id="Item.spiked_helmet_with_facemask"/>
+				<equipment slot="Cape" id="Item.a_khuzait_leather_shoulder_b_b"/>
+				<equipment slot="Body" id="Item.eastern_plated_leather"/>
+				<equipment slot="Gloves" id="Item.studded_leather_vambraces"/>
+				<equipment slot="Leg" id="Item.khuzait_curved_boots"/>
+				<equipment slot="Horse" id="Item.t2_khuzait_horse"/>
+				<equipment slot="HorseHarness" id="Item.steppe_half_barding"/>
       </EquipmentRoster>
-      <EquipmentRoster>
-				<equipment slot="Item0" id="Item.vlandia_sword_3_t4"/>
-				<equipment slot="Item1" id="Item.wide_heater_shield"/>
-				<equipment slot="Item2" id="Item.empire_polearm_1_t4"/>
-				<equipment slot="Head" id="Item.segmented_skullcap_over_mail_coif"/>
-				<equipment slot="Cape" id="Item.studded_imperial_neckguard"/>
-				<equipment slot="Body" id="Item.coat_of_plates_over_mail"/>
-				<equipment slot="Gloves" id="Item.lordly_mail_mitten"/>
-				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
-				<equipment slot="Horse" id="Item.t2_vlandia_horse"/>
-				<equipment slot="HorseHarness" id="Item.chain_horse_harness"/>
+      <EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.steppe_war_bow"/>
+				<equipment slot="Item1" id="Item.steppe_arrows"/>
+				<equipment slot="Item2" id="Item.khuzait_polearm_1_t4"/>
+				<equipment slot="Item3" id="Item.khuzait_sword_3_t3"/>
+				<equipment slot="Head" id="Item.spiked_helmet_with_facemask"/>
+				<equipment slot="Cape" id="Item.a_khuzait_leather_shoulder_b_b"/>
+				<equipment slot="Body" id="Item.eastern_plated_leather"/>
+				<equipment slot="Gloves" id="Item.studded_leather_vambraces"/>
+				<equipment slot="Leg" id="Item.khuzait_curved_boots"/>
+				<equipment slot="Horse" id="Item.t2_khuzait_horse"/>
+				<equipment slot="HorseHarness" id="Item.steppe_half_barding"/>
       </EquipmentRoster>
-      <EquipmentSet id="sturgia_troop_civilian_template_t3"
-                    civilian="true" />
     </Equipments>
   </NPCCharacter>
+  
+
   <!-- free company/vlandia -->
   <NPCCharacter id="company_of_the_boar_tier_1"
-                default_group="Ranged"
+                default_group="Infantry"
                 level="21"
                 occupation="Soldier"
                 is_basic_troop="true"
-                culture="Culture.vlandia"
-                name="{=E11LAZARUS_tr1}Lazarist Pilgrim">
+                culture="Culture.italian"
+                name="{=E11LAZARUS_tr1}Pisan Sailor">
     <face>
-      <face_key_template value="BodyProperty.fighter_vlandia" />
+      <face_key_template value="BodyProperty.fighter_italian" />
     </face>
     <skills>
     <skill id="Athletics"
@@ -462,22 +479,25 @@
     </upgrade_targets>
     <Equipments>
       <EquipmentRoster>
-				<equipment slot="Item0" id="Item.bo_staff"/>
-				<equipment slot="Item2" id="Item.peasant_maul_t1_2"/>
-				<equipment slot="Body" id="Item.aserai_robe_c_chain"/>
-				<equipment slot="Gloves" id="Item.rough_tied_bracers"/>
+				<equipment slot="Item0" id="Item.narrow_sword_t3"/>
+				<equipment slot="Item1" id="Item.empire_throwingknife_t5"/>
+				<equipment slot="Item2" id="Item.northern_spear_4_t5"/>
+				<equipment slot="Head" id="Item.merchants_hat"/>
+				<equipment slot="Cape" id="Item.battania_scarf_a"/>
+				<equipment slot="Body" id="Item.studded_leather_coat"/>
+				<equipment slot="Gloves" id="Item.armwraps"/>
 				<equipment slot="Leg" id="Item.turndown_leather_boots"/>
       </EquipmentRoster>
 </Equipments>
   </NPCCharacter>
   <NPCCharacter id="company_of_the_boar_tier_2"
-                default_group="Ranged"
+                default_group="Infantry"
                 level="26"
                 occupation="Soldier"
-                culture="Culture.vlandia"
-                name="{=E11LAZARUS_tr2}Lazarist Knight">
+                culture="Culture.italian"
+                name="{=E11LAZARUS_tr2}Pisan Mariner">
     <face>
-      <face_key_template value="BodyProperty.fighter_vlandia" />
+      <face_key_template value="BodyProperty.fighter_italian" />
     </face>
     <skills>
       <skill id="Athletics"
@@ -502,27 +522,26 @@
     </upgrade_targets>
     <Equipments>
       <EquipmentRoster>
-				<equipment slot="Item0" id="Item.vlandia_axe_2_t4"/>
-				<equipment slot="Item1" id="Item.heavy_heater_shield"/>
-				<equipment slot="Head" id="Item.imperial_mail_coif"/>
-				<equipment slot="Cape" id="Item.chainmail_shoulder_armor"/>
-				<equipment slot="Body" id="Item.white_coat_over_mail"/>
-				<equipment slot="Gloves" id="Item.mail_mitten"/>
-				<equipment slot="Leg" id="Item.mail_chausses"/>
+				<equipment slot="Item0" id="Item.billhook_polearm_t2"/>
+				<equipment slot="Item1" id="Item.empire_noble_sword_1_t5"/>
+				<equipment slot="Head" id="Item.segmented_cervelliere_over_mail_coif"/>
+				<equipment slot="Cape" id="Item.padded_leather_shoulders"/>
+				<equipment slot="Body" id="Item.gambeson_b"/>
+				<equipment slot="Gloves" id="Item.guarded_padded_vambrace"/>
+				<equipment slot="Leg" id="Item.turndown_leather_boots"/>
       </EquipmentRoster>
 
     </Equipments>
   </NPCCharacter>
   
   <NPCCharacter id="company_of_the_boar_tier_3"
-                default_group="Ranged"
+                default_group="Cavalry"
                 level="31"
                 occupation="Soldier"
-                culture="Culture.vlandia"
-                name="{=E11LAZARUS_tr3}Lazarist Crusader"
-				upgrade_requires="ItemCategory.war_horse">
+                culture="Culture.italian"
+                name="{=E11LAZARUS_tr3}Pisan Knight">
     <face>
-      <face_key_template value="BodyProperty.villager_vlandia" />
+      <face_key_template value="BodyProperty.fighter_italian" />
     </face>
     <skills>
     <skill id="Athletics"
@@ -545,16 +564,14 @@
     <upgrade_targets></upgrade_targets>
     <Equipments>
       <EquipmentRoster>
-				<equipment slot="Item0" id="Item.empire_polearm_1_t4"/>
-				<equipment slot="Item1" id="Item.heavy_heater_shield"/>
-				<equipment slot="Item2" id="Item.vlandia_noble_sword_1_t5"/>
-				<equipment slot="Head" id="Item.full_helm_over_mail_coif"/>
-				<equipment slot="Cape" id="Item.pauldron_cape_a"/>
-				<equipment slot="Body" id="Item.coat_of_plates_over_mail"/>
-				<equipment slot="Gloves" id="Item.reinforced_mail_mitten"/>
-				<equipment slot="Leg" id="Item.mail_chausses"/>
-				<equipment slot="Horse" id="Item.t3_vlandia_horse"/>
-				<equipment slot="HorseHarness" id="Item.chain_barding"/>
+				<equipment slot="Item0" id="Item.vlandia_noble_sword_4_t5"/>
+				<equipment slot="Item1" id="Item.wide_heater_shield"/>
+				<equipment slot="Item2" id="Item.vlandia_lance_3_t5"/>
+				<equipment slot="Head" id="Item.segmented_cervelliere_over_mail_coif"/>
+				<equipment slot="Cape" id="Item.chainmail_shoulder_armor"/>
+				<equipment slot="Body" id="Item.red_coat_over_mail"/>
+				<equipment slot="Gloves" id="Item.mail_mitten"/>
+				<equipment slot="Leg" id="Item.strapped_mail_chausses"/>
       </EquipmentRoster>
 
     </Equipments>
@@ -673,7 +690,7 @@
   </NPCCharacter>
   
   <NPCCharacter id="beni_zilal_tier_3"
-                default_group="Cavalry"
+                default_group="Infantry"
                 level="31"
                 occupation="Soldier"
                 culture="Culture.persian"
@@ -725,223 +742,158 @@
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
+  
   <!-- wolfskins - battanians with no armor or cloth, only animal hides -->
+  
   <NPCCharacter id="wolfskins_tier_1"
-                default_group="Ranged"
-                level="11"
+                default_group="Infantry"
+                level="21"
                 occupation="Soldier"
                 is_basic_troop="true"
                 culture="Culture.battania"
-                name="{=E11POWYS_tr1}Young Wolf">
+                name="{=E11GWYNEDD_tr1}Welsh Spearman">
     <face>
       <face_key_template value="BodyProperty.fighter_battania" />
     </face>
     <skills>
-      <skill id="Athletics"
-             value="50" />
-      <skill id="Riding"
-             value="10" />
-      <skill id="OneHanded"
-             value="40" />
-      <skill id="TwoHanded"
-             value="15" />
-      <skill id="Polearm"
-             value="15" />
-      <skill id="Bow"
-             value="40" />
-      <skill id="Crossbow"
-             value="5" />
-      <skill id="Throwing"
-             value="20" />
+    <skill id="Athletics"
+           value="100" />
+    <skill id="Riding"
+           value="15" />
+    <skill id="OneHanded"
+           value="100" />
+    <skill id="TwoHanded"
+           value="100" />
+    <skill id="Polearm"
+           value="100" />
+    <skill id="Bow"
+           value="45" />
+    <skill id="Crossbow"
+           value="45" />
+    <skill id="Throwing"
+           value="60" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.wolfskins_tier_2" />
     </upgrade_targets>
     <Equipments>
       <EquipmentRoster>
-        <equipment slot="Item0"
-                   id="Item.highland_ranger_bow" />
-        <equipment slot="Item1"
-                   id="Item.default_arrows" />
-        <equipment slot="Item2"
-                   id="Item.highland_scouts_shield" />
-        <equipment slot="Item3"
-                   id="Item.small_spurred_axe_t2" />
-        <equipment slot="Body"
-                   id="Item.sleeveless_studded_fur_armor" />
-        <equipment slot="Leg"
-                   id="Item.strapped_shoes" />
-        <equipment slot="Head"
-                   id="Item.wolfhead" />
+				<equipment slot="Item0" id="Item.highland_spear_t2"/>
+				<equipment slot="Item1" id="Item.battania_shield_targe_a"/>
+				<equipment slot="Item2" id="Item.battania_sword_3_t3"/>
+				<equipment slot="Head" id="Item.battania_earmuff_helmet_b"/>
+				<equipment slot="Body" id="Item.battanian_chainmail_armor_a"/>
+				<equipment slot="Gloves" id="Item.northern_brass_bracers"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <equipment slot="Item0"
-                   id="Item.highland_ranger_bow" />
-        <equipment slot="Item1"
-                   id="Item.default_arrows" />
-        <equipment slot="Item2"
-                   id="Item.highland_scouts_shield" />
-        <equipment slot="Item3"
-                   id="Item.battania_axe_1_t2" />
-        <equipment slot="Body"
-                   id="Item.sleeveless_studded_fur_armor" />
-        <equipment slot="Leg"
-                   id="Item.rough_tied_boots" />
-        <equipment slot="Head"
-                   id="Item.wolfhead" />
+				<equipment slot="Item0" id="Item.highland_spear_t2"/>
+				<equipment slot="Item1" id="Item.battania_shield_targe_a"/>
+				<equipment slot="Item2" id="Item.battania_sword_3_t3"/>
+				<equipment slot="Head" id="Item.battania_earmuff_helmet_b"/>
+				<equipment slot="Body" id="Item.battanian_chainmail_armor_a"/>
+				<equipment slot="Gloves" id="Item.northern_brass_bracers"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
       </EquipmentRoster>
-      <EquipmentSet id="battania_troop_civilian_template_t1"
+      <EquipmentSet id="sturgia_troop_civilian_template_t1"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
+  
   <NPCCharacter id="wolfskins_tier_2"
-                default_group="Ranged"
-                level="16"
+                default_group="Cavalry"
+                level="26"
                 occupation="Soldier"
                 culture="Culture.battania"
-                name="{=E11POWYS_tr2}Seasoned Wolf">
+                name="{=E11GWYNEDD_tr2}Welsh Teulu"
+				upgrade_requires="ItemCategory.war_horse">
     <face>
       <face_key_template value="BodyProperty.fighter_battania" />
     </face>
     <skills>
-      <skill id="Athletics"
-             value="100" />
-      <skill id="Riding"
-             value="10" />
-      <skill id="OneHanded"
-             value="80" />
-      <skill id="TwoHanded"
-             value="40" />
-      <skill id="Polearm"
-             value="30" />
-      <skill id="Bow"
-             value="80" />
-      <skill id="Crossbow"
-             value="10" />
-      <skill id="Throwing"
-             value="10" />
+    <skill id="Athletics"
+           value="80" />
+    <skill id="Riding"
+           value="130" />
+    <skill id="OneHanded"
+           value="130" />
+    <skill id="TwoHanded"
+           value="160" />
+    <skill id="Polearm"
+           value="160" />
+    <skill id="Bow"
+           value="60" />
+    <skill id="Crossbow"
+           value="20" />
+    <skill id="Throwing"
+           value="60" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.wolfskins_tier_3" />
     </upgrade_targets>
     <Equipments>
       <EquipmentRoster>
-        <equipment slot="Item0"
-                   id="Item.lowland_longbow" />
-        <equipment slot="Item1"
-                   id="Item.barbed_arrows" />
-        <equipment slot="Item2"
-                   id="Item.reinforced_flat_kite_shield" />
-        <equipment slot="Item3"
-                   id="Item.small_spurred_axe_t2" />
-        <equipment slot="Head"
-                   id="Item.wolfhead" />
-        <equipment slot="Body"
-                   id="Item.bandit_fur_b" />
-        <equipment slot="Leg"
-                   id="Item.highland_leg_wrappings" />
-        <equipment slot="Gloves"
-                   id="Item.guarded_armwraps" />
-        <equipment slot="Cape"
-                   id="Item.wolf_shoulder" />
+				<equipment slot="Item0" id="Item.highland_spear_t2"/>
+				<equipment slot="Item1" id="Item.battania_shield_targe_a"/>
+				<equipment slot="Item2" id="Item.battania_sword_3_t3"/>
+				<equipment slot="Head" id="Item.battania_earmuff_helmet_d_brnz"/>
+				<equipment slot="Body" id="Item.battania_woodland_chainmail"/>
+				<equipment slot="Gloves" id="Item.northern_brass_bracers"/>
+				<equipment slot="Leg" id="Item.mail_chausses"/>
+				<equipment slot="Horse" id="Item.noble_horse_battania"/>
+				<equipment slot="HorseHarness" id="Item.studded_steppe_barding"/>
       </EquipmentRoster>
-      <EquipmentRoster>
-        <equipment slot="Item0"
-                   id="Item.lowland_longbow" />
-        <equipment slot="Item1"
-                   id="Item.barbed_arrows" />
-        <equipment slot="Item2"
-                   id="Item.reinforced_flat_kite_shield" />
-        <equipment slot="Item3"
-                   id="Item.small_spurred_axe_t2" />
-        <equipment slot="Head"
-                   id="Item.wolfhead" />
-        <equipment slot="Body"
-                   id="Item.bandit_fur_b" />
-        <equipment slot="Leg"
-                   id="Item.rough_tied_boots" />
-        <equipment slot="Gloves"
-                   id="Item.rough_tied_bracers" />
-        <equipment slot="Cape"
-                   id="Item.wolf_shoulder" />
-      </EquipmentRoster>
-      <EquipmentSet id="battania_troop_civilian_template_t2"
+      <EquipmentSet id="sturgia_troop_civilian_template_t2"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
+  
   <NPCCharacter id="wolfskins_tier_3"
-                default_group="Ranged"
-                level="21"
+                default_group="Cavalry"
+                level="31"
                 occupation="Soldier"
                 culture="Culture.battania"
-                name="{=E11POWYS_tr3}Chosen Wolf">
+                name="{=E11GWYNEDD_tr3}Welsh Uchelwr">
     <face>
       <face_key_template value="BodyProperty.fighter_battania" />
     </face>
     <skills>
-      <skill id="Athletics"
-             value="120" />
-      <skill id="Riding"
-             value="25" />
-      <skill id="OneHanded"
-             value="110" />
-      <skill id="TwoHanded"
-             value="50" />
-      <skill id="Polearm"
-             value="30" />
-      <skill id="Bow"
-             value="130" />
-      <skill id="Crossbow"
-             value="15" />
-      <skill id="Throwing"
-             value="15" />
+    <skill id="Athletics"
+           value="60" />
+    <skill id="Riding"
+           value="200" />
+    <skill id="OneHanded"
+           value="200" />
+    <skill id="TwoHanded"
+           value="260" />
+    <skill id="Polearm"
+           value="260" />
+    <skill id="Bow"
+           value="60" />
+    <skill id="Crossbow"
+           value="25" />
+    <skill id="Throwing"
+           value="45" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
       <EquipmentRoster>
-        <equipment slot="Item0"
-                   id="Item.woodland_yew_bow" />
-        <equipment slot="Item1"
-                   id="Item.barbed_arrows" />
-        <equipment slot="Item2"
-                   id="Item.bracketed_heater_shield" />
-        <equipment slot="Item3"
-                   id="Item.battania_axe_2_t4" />
-        <equipment slot="Head"
-                   id="Item.wolfhead" />
-        <equipment slot="Body"
-                   id="Item.bandit_fur_b" />
-        <equipment slot="Leg"
-                   id="Item.highland_boots" />
-        <equipment slot="Gloves"
-                   id="Item.highland_gloves" />
-        <equipment slot="Cape"
-                   id="Item.fur_cloak_c" />
+				<equipment slot="Item0" id="Item.highland_spear_t2"/>
+				<equipment slot="Item1" id="Item.battania_shield_targe_a"/>
+				<equipment slot="Item2" id="Item.battania_sword_3_t3"/>
+				<equipment slot="Head" id="Item.battania_earmuff_helmet_d_brnz"/>
+				<equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.battania_woodland_chainmail"/>
+				<equipment slot="Gloves" id="Item.northern_brass_bracers"/>
+				<equipment slot="Leg" id="Item.mail_chausses"/>
+				<equipment slot="Horse" id="Item.noble_horse_battania"/>
+				<equipment slot="HorseHarness" id="Item.studded_steppe_barding"/>
       </EquipmentRoster>
-      <EquipmentRoster>
-        <equipment slot="Item0"
-                   id="Item.woodland_longbow" />
-        <equipment slot="Item1"
-                   id="Item.barbed_arrows" />
-        <equipment slot="Item2"
-                   id="Item.bracketed_heater_shield" />
-        <equipment slot="Item3"
-                   id="Item.battania_axe_2_t4" />
-        <equipment slot="Head"
-                   id="Item.wolfhead" />
-        <equipment slot="Body"
-                   id="Item.bandit_fur_b" />
-        <equipment slot="Leg"
-                   id="Item.highland_boots" />
-        <equipment slot="Gloves"
-                   id="Item.highland_gloves" />
-        <equipment slot="Cape"
-                   id="Item.fur_cloak_c" />
-      </EquipmentRoster>
-      <EquipmentSet id="battania_troop_civilian_template_t3"
+      <EquipmentSet id="sturgia_troop_civilian_template_t3"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
+  
   <!-- hidden ones - -->
   <NPCCharacter id="hidden_hand_tier_1"
                 default_group="Infantry"
@@ -1051,11 +1003,11 @@
   </NPCCharacter>
   
   <NPCCharacter id="hidden_hand_tier_3"
-                default_group="Infantry"
+                default_group="Ranged"
                 level="31"
                 occupation="Soldier"
                 culture="Culture.italian"
-                name="{=E11GENOESE_tr3}Genoese Champion Crossbowman">
+                name="{=E11GENOESE_tr3}Genoese Veteran Crossbowman">
     <face>
       <face_key_template value="BodyProperty.fighter_italian" />
     </face>
@@ -1250,10 +1202,10 @@
                 level="21"
                 occupation="Soldier"
                 is_basic_troop="true"
-                culture="Culture.vlandia"
-                name="{=E11HOSPITAL_tr1}Chaplain">
+                culture="Culture.empire"
+                name="{=E11HOSPITAL_tr1}Prussian Ukininkas">
     <face>
-      <face_key_template value="BodyProperty.fighter_vlandia" />
+      <face_key_template value="BodyProperty.fighter_empire" />
     </face>
     <skills>
     <skill id="Athletics"
@@ -1278,24 +1230,25 @@
     </upgrade_targets>
     <Equipments>
       <EquipmentRoster>
-				<equipment slot="Item0" id="Item.bo_staff"/>
-				<equipment slot="Item1" id="Item.wide_heater_shield"/>
-				<equipment slot="Item2" id="Item.vlandia_mace_2_t4"/>
-				<equipment slot="Body" id="Item.mail_shirt"/>
-				<equipment slot="Gloves" id="Item.mail_mitten"/>
-				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
+				<equipment slot="Item0" id="Item.sturgia_axe_4_t4"/>
+				<equipment slot="Item1" id="Item.empire_throwingknife_t5"/>
+				<equipment slot="Item2" id="Item.northern_spear_4_t5"/>
+				<equipment slot="Head" id="Item.desert_cap"/>
+				<equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.studded_leather_coat"/>
+				<equipment slot="Leg" id="Item.turndown_leather_boots"/>
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
   
   <NPCCharacter id="brotherhood_of_woods_tier_2"
-                default_group="Ranged"
+                default_group="Infantry"
                 level="26"
                 occupation="Soldier"
-                culture="Culture.vlandia"
-                name="{=E11HOSPITAL_tr2}Hospitaller Man at Arms">
+                culture="Culture.empire"
+                name="{=E11HOSPITAL_tr2}Prussian Bajoras">
     <face>
-      <face_key_template value="BodyProperty.fighter_vlandia" />
+      <face_key_template value="BodyProperty.fighter_empire" />
     </face>
     <skills>
       <skill id="Athletics"
@@ -1320,27 +1273,28 @@
     </upgrade_targets>
     <Equipments>
       <EquipmentRoster>
-				<equipment slot="Item0" id="Item.vlandia_sword_5_t5"/>
-				<equipment slot="Item1" id="Item.heavy_heater_shield"/>
-				<equipment slot="Head" id="Item.segmented_cervelliere_over_mail_coif"/>
-				<equipment slot="Cape" id="Item.chainmail_shoulder_armor"/>
-				<equipment slot="Body" id="Item.white_coat_over_mail"/>
-				<equipment slot="Gloves" id="Item.mail_mitten"/>
-				<equipment slot="Leg" id="Item.mail_chausses"/>
+				<equipment slot="Item0" id="Item.vlandia_noble_sword_1_t5"/>
+				<equipment slot="Item1" id="Item.empire_throwingknife_t5"/>
+				<equipment slot="Item2" id="Item.sturgia_lance_2_t5"/>
+				<equipment slot="Item3" id="Item.stronger_eastern_wicker_shield"/>
+				<equipment slot="Head" id="Item.desert_cap"/>
+				<equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.studded_fur_armor"/>
+				<equipment slot="Gloves" id="Item.guarded_armwraps"/>
+				<equipment slot="Leg" id="Item.turndown_leather_boots"/>
       </EquipmentRoster>
 
     </Equipments>
   </NPCCharacter>
   
   <NPCCharacter id="brotherhood_of_woods_tier_3"
-                default_group="Ranged"
+                default_group="Infantry"
                 level="31"
                 occupation="Soldier"
                 culture="Culture.vlandia"
-                name="{=E11HOSPITAL_tr3}Hospitaller Knight"
-				upgrade_requires="ItemCategory.war_horse">
+                name="{=E11HOSPITAL_tr3}Prussian Rikis">
     <face>
-      <face_key_template value="BodyProperty.fighter_vlandia" />
+      <face_key_template value="BodyProperty.fighter_empire" />
     </face>
     <skills>
     <skill id="Athletics"
@@ -1363,16 +1317,15 @@
     <upgrade_targets></upgrade_targets>
     <Equipments>
       <EquipmentRoster>
-				<equipment slot="Item0" id="Item.empire_polearm_1_t4"/>
-				<equipment slot="Item1" id="Item.heavy_heater_shield"/>
-				<equipment slot="Item2" id="Item.vlandia_noble_sword_1_t5"/>
-				<equipment slot="Head" id="Item.segmented_skullcap_over_mail_coif"/>
-				<equipment slot="Cape" id="Item.pauldron_cape_a"/>
-				<equipment slot="Body" id="Item.coat_of_plates_over_mail"/>
-				<equipment slot="Gloves" id="Item.reinforced_mail_mitten"/>
-				<equipment slot="Leg" id="Item.mail_chausses"/>
-				<equipment slot="Horse" id="Item.t3_vlandia_horse"/>
-				<equipment slot="HorseHarness" id="Item.chain_barding"/>
+				<equipment slot="Item0" id="Item.battania_noble_sword_1_t5"/>
+				<equipment slot="Item1" id="Item.empire_throwingknife_t5"/>
+				<equipment slot="Item2" id="Item.sturgia_lance_2_t5"/>
+				<equipment slot="Item3" id="Item.stronger_eastern_wicker_shield"/>
+				<equipment slot="Head" id="Item.sturgian_crown"/>
+				<equipment slot="Cape" id="Item.rough_bearskin"/>
+				<equipment slot="Body" id="Item.rough_fur_over_chain"/>
+				<equipment slot="Gloves" id="Item.guarded_armwraps"/>
+				<equipment slot="Leg" id="Item.turndown_leather_boots"/>
       </EquipmentRoster>
 
     </Equipments>
@@ -2036,7 +1989,7 @@
   </NPCCharacter>
   <!-- eleftheroi/empire -  -->
   <NPCCharacter id="eleftheroi_tier_1"
-                default_group="Cavalry"
+                default_group="Infantry"
                 level="21"
                 occupation="Soldier"
                 is_basic_troop="true"
@@ -2087,7 +2040,7 @@
   </NPCCharacter>
   
   <NPCCharacter id="eleftheroi_tier_2"
-                default_group="Cavalry"
+                default_group="Infantry"
                 level="26"
                 occupation="Soldier"
                 culture="Culture.italian"
@@ -2136,7 +2089,8 @@
                 level="21"
                 occupation="Soldier"
                 culture="Culture.italian"
-                name="{=E11JAMES_tr3}Knight of Saint James">
+                name="{=E11JAMES_tr3}Knight of Saint James"
+				upgrade_requires="ItemCategory.war_horse">
     <face>
       <face_key_template value="BodyProperty.fighter_empire" />
     </face>
@@ -2320,7 +2274,7 @@
   
   <NPCCharacter id="sword_sisters_sister_infantry_t5"
                 is_female="false"
-                default_group="Infantry"
+                default_group="Cavalry"
                 is_hero="false"
                 level="26"
                 name="{=E11TAVERN_tr4}Mercenary Knight"
@@ -2640,7 +2594,6 @@
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.western_mercenary_t4" />
-      <upgrade_target id="NPCCharacter.western_crossbow_t4" />
     </upgrade_targets>
     <Equipments>
       <EquipmentRoster>
@@ -2747,93 +2700,114 @@
   
   <NPCCharacter id="western_crossbow_t4"
                 default_group="Ranged"
-                is_hero="false"
-                level="21"
-                name="{=E11TAVERN_tr13}Mercenary Tracker"
-                occupation="Mercenary"
-                culture="Culture.neutral_culture">
+                level="26"
+                occupation="Soldier"
+                culture="Culture.italian"
+                name="{=E11GENOESE_tr2}Genoese Mercenary Crossbowman">
     <face>
-      <face_key_template value="BodyProperty.fighter_battania" />
+      <face_key_template value="BodyProperty.fighter_italian" />
     </face>
     <skills>
-      <skill id="Athletics"
+    <skill id="Athletics"
              value="100" />
-      <skill id="Riding"
-             value="60" />
-      <skill id="OneHanded"
-             value="90" />
-      <skill id="TwoHanded"
-             value="45" />
-      <skill id="Polearm"
-             value="45" />
-      <skill id="Bow"
-             value="15" />
-      <skill id="Crossbow"
-             value="110" />
-      <skill id="Throwing"
-             value="60" />
+    <skill id="Riding"
+           value="15" />
+    <skill id="OneHanded"
+           value="100" />
+    <skill id="TwoHanded"
+           value="60" />
+    <skill id="Polearm"
+           value="60" />
+    <skill id="Bow"
+           value="100" />
+    <skill id="Crossbow"
+           value="100" />
+    <skill id="Throwing"
+           value="100" />
     </skills>
     <upgrade_targets>
-      <upgrade_target id="NPCCharacter.western_crossbow_t5" />
+      <upgrade_target id="NPCCharacter.hidden_hand_tier_3" />
     </upgrade_targets>
     <Equipments>
       <EquipmentRoster>
-				<equipment slot="Item0" id="Item.glen_ranger_bow"/>
-				<equipment slot="Item1" id="Item.battania_sword_1_t2"/>
-				<equipment slot="Item2" id="Item.bodkin_arrows_a"/>
-				<equipment slot="Head" id="Item.battania_civil_hood"/>
-				<equipment slot="Cape" id="Item.battania_woodland_cloak"/>
-				<equipment slot="Body" id="Item.rough_fur_armor"/>
-				<equipment slot="Gloves" id="Item.studded_leather_vambraces"/>
-				<equipment slot="Leg" id="Item.turndown_leather_boots"/>
+				<equipment slot="Item0" id="Item.crossbow_d"/>
+				<equipment slot="Item1" id="Item.bolt_b"/>
+				<equipment slot="Item2" id="Item.vlandia_sword_3_t4"/>
+				<equipment slot="Item3" id="Item.pavise_shield"/>
+				<equipment slot="Head" id="Item.leatherlame_roundkettle"/>
+				<equipment slot="Cape" id="Item.scale_shoulder_armor"/>
+				<equipment slot="Body" id="Item.red_coat_over_mail"/>
+				<equipment slot="Gloves" id="Item.northern_brass_bracers"/>
+				<equipment slot="Leg" id="Item.strapped_mail_chausses"/>
       </EquipmentRoster>
-      <EquipmentSet id="empire_troop_civilian_template_t3"
-                    civilian="true" />
+      <EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.crossbow_d"/>
+				<equipment slot="Item1" id="Item.bolt_b"/>
+				<equipment slot="Item2" id="Item.vlandia_sword_3_t4"/>
+				<equipment slot="Item3" id="Item.pavise_shield"/>
+				<equipment slot="Head" id="Item.leatherlame_roundkettle"/>
+				<equipment slot="Cape" id="Item.scale_shoulder_armor"/>
+				<equipment slot="Body" id="Item.red_coat_over_mail"/>
+				<equipment slot="Gloves" id="Item.northern_brass_bracers"/>
+				<equipment slot="Leg" id="Item.strapped_mail_chausses"/>
+      </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
   
   <NPCCharacter id="western_crossbow_t5"
                 default_group="Ranged"
-                is_hero="false"
-                level="26"
-                name="{=E11TAVERN_tr14}Veteran Mercenary Tracker"
-                occupation="Mercenary"
-                culture="Culture.neutral_culture">
+                level="31"
+                occupation="Soldier"
+                culture="Culture.italian"
+                name="{=E11GENOESE_tr3}Genoese Veteran Mercenary Crossbowman">
     <face>
-      <face_key_template value="BodyProperty.fighter_battania" />
+      <face_key_template value="BodyProperty.fighter_italian" />
     </face>
     <skills>
-      <skill id="Athletics"
-             value="120" />
-      <skill id="Riding"
-             value="30" />
-      <skill id="OneHanded"
-             value="140" />
-      <skill id="TwoHanded"
-             value="70" />
-      <skill id="Polearm"
-             value="60" />
-      <skill id="Bow"
-             value="80" />
-      <skill id="Crossbow"
-             value="140" />
-      <skill id="Throwing"
-             value="50" />
+    <skill id="Athletics"
+      value="160" />
+    <skill id="Bow"
+      value="210" />
+    <skill id="Crossbow"
+      value="210" />
+    <skill id="OneHanded"
+      value="110" />
+    <skill id="Polearm"
+      value="70" />
+    <skill id="Riding"
+      value="40" />
+    <skill id="Throwing"
+      value="160" />
+    <skill id="TwoHanded"
+      value="110" />
     </skills>
+    <upgrade_targets></upgrade_targets>
     <Equipments>
       <EquipmentRoster>
-				<equipment slot="Item0" id="Item.glen_ranger_bow"/>
-				<equipment slot="Item1" id="Item.battania_2hsword_5_t4"/>
-				<equipment slot="Item2" id="Item.bodkin_arrows_a"/>
-				<equipment slot="Head" id="Item.battania_civil_hood"/>
-				<equipment slot="Cape" id="Item.battania_shoulder_furr"/>
-				<equipment slot="Body" id="Item.rough_fur_over_chain"/>
-				<equipment slot="Gloves" id="Item.studded_leather_vambraces"/>
+				<equipment slot="Item0" id="Item.vlandia_sword_3_t4"/>
+				<equipment slot="Item1" id="Item.pavise_shield"/>
+				<equipment slot="Item2" id="Item.bolt_c"/>
+				<equipment slot="Item3" id="Item.crossbow_f"/>
+				<equipment slot="Head" id="Item.peaked_helmet_over_mail"/>
+				<equipment slot="Cape" id="Item.scale_shoulder_armor"/>
+				<equipment slot="Body" id="Item.coat_of_plates_over_mail"/>
+				<equipment slot="Gloves" id="Item.northern_brass_bracers"/>
 				<equipment slot="Leg" id="Item.strapped_mail_chausses"/>
       </EquipmentRoster>
-      <EquipmentSet id="empire_troop_civilian_template_t3"
-                    civilian="true" />
+      <EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.vlandia_sword_3_t4"/>
+				<equipment slot="Item1" id="Item.pavise_shield"/>
+				<equipment slot="Item2" id="Item.bolt_c"/>
+				<equipment slot="Item3" id="Item.crossbow_f"/>
+				<equipment slot="Head" id="Item.peaked_helmet_over_mail"/>
+				<equipment slot="Cape" id="Item.scale_shoulder_armor"/>
+				<equipment slot="Body" id="Item.coat_of_plates_over_mail"/>
+				<equipment slot="Gloves" id="Item.northern_brass_bracers"/>
+				<equipment slot="Leg" id="Item.strapped_mail_chausses"/>
+      </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
+  
+ 
   
 </NPCCharacters>

@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+ <strings>
+  <string id="CsjtWt1g" text="Tavern Keeper"/>
+  <string id="twCIejxn" text="Game Host"/>
+  <string id="zfCoeglY" text="Musician"/>
+  <string id="z6RMWTaA" text="Tavern Maid"/>
+  <string id="jx8ohENz" text="Armorer"/>
+  <string id="79ElOr2x" text="Horse Trader"/>
+  <string id="thbcgVVO" text="Trader"/>
+  <string id="malebeggar" text="Beggar"/>
+  <string id="femalebeggar" text="Beggar"/>
+  <string id="X3KYysuv" text="Dancer"/>
+  <string id="IHKXNP9H" text="Tournament Master"/>
+  <string id="maleinfant" text="Infant"/>
+  <string id="malechild" text="Child"/>
+  <string id="maleteenager" text="Teenager"/>
+  <string id="femaleinfant" text="Infant"/>
+  <string id="femalechild" text="Child"/>
+  <string id="femaleteenager" text="Teenager"/>
+  <string id="275LD0Gh" text="Shop Worker"/>
+  <string id="muu5cofb" text="Townsman"/>
+  <string id="AlmaRAib" text="Rural Notable Notary"/>
+  <string id="bLMGbLF8" text="Preacher Notary"/>
+  <string id="ECxiXTbF" text="Artisan Notary"/>
+  <string id="reoVAtrE" text="Merchant Notary"/>
+  <string id="LNNXiPyV" text="Gang Leader Bodyguard"/>
+  <string id="W2WXkiAh" text="Ransom Broker"/>
+  <string id="WH7EGGIg" text="Barber"/>
+  <string id="UaN2lfwi" text="Weaponsmith"/>
+  <string id="bNnQt4jN" text="Blacksmith"/>
+  <string id="XgjXfmM1" text="Prison Guard"/>
+  <string id="kPCcelVX" text="Trader "/>
+  <!--input/trooptrees/spnpccharacters_berber.xml-->
+  <string id="E11BEt01" text="Berber Peasant"/>
+  <string id="E11BEt02" text="Berber Caravan Master"/>
+  <string id="E11BEt03" text="Berber Armed Trader"/>
+  <string id="E11BEt04" text="Berber Caravan Guard"/>
+  <string id="E11BEt05" text="Berber Veteran Caravan Guard"/>
+  <string id="E11BEt06" text="Berber Hushud"/>
+  <string id="E11BEt07" text="Berber Tribal Spearman"/>
+  <string id="E11BEt08" text="Berber Mutatawwi'a"/>
+  <string id="E11BEt09" text="Berber Ghazi"/>
+  <string id="E11BEt10" text="Berber Veteran Tribal Spearman"/>
+  <string id="E11BEt11" text="Berber Murtaziqa"/>
+  <string id="E11BEt12" text="Berber Tribal Archer"/>
+  <string id="E11BEt13" text="Berber Veteran Tribal Archer"/>
+  <string id="E11BEt14" text="Berber Lamtunah Archer"/>
+  <string id="E11BEt15" text="Berber Mulathamun"/>
+  <string id="E11BEt16" text="Berber Granadine"/>
+  <string id="E11BEt17" text="Berber Heavy Granadine"/>
+  <!--input/trooptrees/spnpccharacters_crusader.xml-->
+  <string id="E11CRt1" text="Outremer Peasant"/>
+  <string id="E11CRt2" text="Outremer Caravan Master"/>
+  <string id="E11CRt3" text="Outremer Armed Trader"/>
+  <string id="E11CRt4" text="Outremer Caravan Guard"/>
+  <string id="E11CRt5" text="Outremer Veteran Caravan Guard"/>
+  <string id="E11CRt6" text="Outremer Pilgrim"/>
+  <string id="E11CRt7" text="Outremer Spearman"/>
+  <string id="E11CRt8" text="Outremer Brotherhood Spearman"/>
+  <string id="E11CRt9" text="Outremer Sergeant Spearman"/>
+  <string id="E11CRt10" text="Outremer Crossbowman"/>
+  <string id="E11CRt11" text="Outremer Brotherhood Crossbowman"/>
+  <string id="E11CRt12" text="Outremer Master Crossbowman"/>
+  <string id="E11CRt13" text="Outremer Turcopole Light Cavalry"/>
+  <string id="E11CRt14" text="Outremer Turcopole Horse Archer"/>
+  <string id="E11CRt15" text="Outremer Hospitaller Knight"/>
+  <string id="E11CRt16" text="Outremer Hospitaller Gonfanonier"/>
+  <string id="E11CRt17" text="Outremer Hospitaller Marshal"/>
+  <!--input/trooptrees/spnpccharacters_byzantine.xml-->
+  <string id="E11BYt01" text="Byzantine Peasant"/>
+  <string id="E11BYt02" text="Byzantine Caravan Master"/>
+  <string id="E11BYt03" text="Byzantine Armed Trader"/>
+  <string id="E11BYt04" text="Byzantine Caravan Guard"/>
+  <string id="E11BYt05" text="Byzantine Veteran Caravan Guard"/>
+  <string id="E11BYt07" text="Byzantine Tagma"/>
+  <string id="E11BYt08" text="Byzantine Toxotoi"/>
+  <string id="E11BYt09" text="Byzantine Trapezund Toxotoi"/>
+  <string id="E11BYt10" text="Byzantine Palatine Guard"/>
+  <string id="E11BYt11" text="Byzantine Skoutatoi"/>
+  <string id="E11BYt12" text="Byzantine Menaulon"/>
+  <string id="E11BYt13" text="Byzantine Spatharioi"/>
+  <string id="E11BYt14" text="Byzantine Domestikos"/>
+  <string id="E11BYt15" text="Byzantine Noumeroi"/>
+  <string id="E11BYt16" text="Byzantine Archontopouloi"/>
+  <string id="E11BYt17" text="Byzantine Athanatoi"/>
+  <string id="E11BYt18" text="Byzantine Kataphraktoi"/>
+  <!--input/trooptrees/spnpccharacters_cumans.xml-->
+  <string id="E11CUt01" text="Eastern Peasant"/>
+  <string id="E11CUt02" text="Eastern Caravan Master"/>
+  <string id="E11CUt03" text="Eastern Armed Trader"/>
+  <string id="E11CUt04" text="Eastern Caravan Guard"/>
+  <string id="E11CUt05" text="Eastern Veteran Caravan Guard"/>
+  <string id="E11CUt06" text="Cuman Nomad"/>
+  <string id="E11CUt07" text="Cuman Nomad Spearman"/>
+  <string id="E11CUt08" text="Cuman Veteran Nomad Spearman"/>
+  <string id="E11CUt09" text="Cuman Nomad Bodyguard"/>
+  <string id="E11CUt10" text="Cuman Nomad Archer"/>
+  <string id="E11CUt11" text="Cuman Veteran Nomad Archer"/>
+  <string id="E11CUt12" text="Cuman Marksman"/>
+  <string id="E11CUt13" text="Cuman Horse Archer"/>
+  <string id="E11CUt14" text="Cuman Veteran Horse Archer"/>
+  <string id="E11CUt15" text="Cuman Light Cavalry"/>
+  <string id="E11CUt16" text="Cuman Heavy Cavalry"/>
+  <string id="E11CUt17" text="Cuman Khan's Guard"/>
+  <!--input/trooptrees/spnpccharacters_english.xml-->
+  <string id="E11ENt01" text="English Peasant"/>
+  <string id="E11ENt02" text="English Caravan Master"/>
+  <string id="E11ENt03" text="English Armed Trader"/>
+  <string id="E11ENt04" text="English Caravan Guard"/>
+  <string id="E11ENt05" text="English Veteran Caravan Guard"/>
+  <string id="E11ENt06" text="English Levy"/>
+  <string id="E11ENt07" text="English Fyrd Spearman"/>
+  <string id="E11ENt08" text="English Veteran Fyrd Spearman"/>
+  <string id="E11ENt09" text="English Sergeant Spearman"/>
+  <string id="E11ENt10" text="English Fyrd Archer"/>
+  <string id="E11ENt11" text="English Veteran Fyrd Archer"/>
+  <string id="E11ENt12" text="English Sergeant Archer"/>
+  <string id="E11ENt13" text="English Axeman"/>
+  <string id="E11ENt14" text="English Sergeant Axeman"/>
+  <string id="E11ENt15" text="English Squire"/>
+  <string id="E11ENt16" text="English Yeoman"/>
+  <string id="E11ENt17" text="English Knight"/>
+  <!--input/trooptrees/spnpccharacters_fatimid.xml-->
+  <string id="E11FAt01" text="Arab Peasant"/>
+  <string id="E11FAt02" text="Arab Caravan Master"/>
+  <string id="E11FAt03" text="Arab Armed Trader"/>
+  <string id="E11FAt04" text="Arab Caravan Guard"/>
+  <string id="E11FAt05" text="Arab Veteran Caravan Guard"/>
+  <string id="E11FAt06" text="Fatimid Levy"/>
+  <string id="E11FAt07" text="Fatimid Militia Spearman"/>
+  <string id="E11FAt08" text="Fatimid Veteran Militia Spearman"/>
+  <string id="E11FAt09" text="Fatimid Ghazi Swordsman"/>
+  <string id="E11FAt10" text="Fatimid Militia Archer"/>
+  <string id="E11FAt11" text="Fatimid Veteran Militia Archer"/>
+  <string id="E11FAt12" text="Fatimid Ghazi Archer"/>
+  <string id="E11FAt13" text="Fatimid Bedouin Horse Archer"/>
+  <string id="E11FAt14" text="Fatimid Veteran Bedouin Horse Archer"/>
+  <string id="E11FAt15" text="Fatimid Mamluk"/>
+  <string id="E11FAt16" text="Fatimid Veteran Mamluk"/>
+  <string id="E11FAt17" text="Fatimid Hujariyya"/>
+  <!--input/trooptrees/spnpccharacters_france.xml-->
+  <string id="E11FRt01" text="Frankish Peasant"/>
+  <string id="E11FRt02" text="Frankish Caravan Master"/>
+  <string id="E11FRt03" text="Frankish Armed Trader"/>
+  <string id="E11FRt04" text="Frankish Caravan Guard"/>
+  <string id="E11FRt05" text="Frankish Veteran Caravan Guard"/>
+  <string id="E11FRt07" text="Frankish Levy"/>
+  <string id="E11FRt08" text="Frankish Militia Spearman"/>
+  <string id="E11FRt09" text="Frankish Veteran Militia Spearman"/>
+  <string id="E11FRt10" text="Frankish Sergeant Spearman"/>
+  <string id="E11FRt11" text="Frankish Militia Crossbowman"/>
+  <string id="E11FRt12" text="Frankish Veteran Militia Crossbowman"/>
+  <string id="E11FRt13" text="Frankish Master Crossbowman"/>
+  <string id="E11FRt14" text="Frankish Man at arms"/>
+  <string id="E11FRt15" text="Frankish Sergeant Man at arms"/>
+  <string id="E11FRt16" text="Frankish Squire"/>
+  <string id="E11FRt17" text="Frankish Banner Knight"/>
+  <string id="E11FRt18" text="Frankish Marshal"/>
+  <!--input/trooptrees/spnpccharacters_germany.xml-->
+  <string id="E11GEt01" text="German Peasant"/>
+  <string id="E11GEt02" text="German Caravan Master"/>
+  <string id="E11GEt03" text="German Armed Trader"/>
+  <string id="E11GEt04" text="German Caravan Guard"/>
+  <string id="E11GEt05" text="German Veteran Caravan Guard"/>
+  <string id="E11GEt07" text="German Herrbann"/>
+  <string id="E11GEt08" text="German Militia Spearman"/>
+  <string id="E11GEt09" text="German Veteran Militia Spearman"/>
+  <string id="E11GEt10" text="German Sergeant Spearman"/>
+  <string id="E11GEt11" text="German Militia Crossbowman"/>
+  <string id="E11GEt12" text="German Veteran Miltia Crossbowman"/>
+  <string id="E11GEt13" text="German Sergeant Crossbowman"/>
+  <string id="E11GEt14" text="German Swabian Swordsman"/>
+  <string id="E11GEt15" text="German Mounted Swabian Swordsman"/>
+  <string id="E11GEt16" text="German Mounted Sergeant"/>
+  <string id="E11GEt17" text="German Dienstleuten"/>
+  <string id="E11GEt18" text="German Noble Knight"/>
+  <!--input/trooptrees/spnpccharacters_hungary.xml-->
+  <string id="E11HUt01" text="Hungarian Peasant"/>
+  <string id="E11HUt02" text="Hungarian Caravan Master"/>
+  <string id="E11HUt03" text="Hungarian Armed Trader"/>
+  <string id="E11HUt04" text="Hungarian Caravan Guard"/>
+  <string id="E11HUt05" text="Hungarian Veteran Caravan Guard"/>
+  <string id="E11HUt07" text="Hungarian Levy"/>
+  <string id="E11HUt08" text="Hungarian Militia Spearman"/>
+  <string id="E11HUt09" text="Hungarian Veteran Militia Spearman"/>
+  <string id="E11HUt10" text="Hungarian Infantry Jobagiones"/>
+  <string id="E11HUt11" text="Hungarian Militia Archer"/>
+  <string id="E11HUt12" text="Hungarian Veteran Militia Archer"/>
+  <string id="E11HUt13" text="Hungarian Archer Jobagiones"/>
+  <string id="E11HUt14" text="Hungarian Horse Archer"/>
+  <string id="E11HUt15" text="Hungarian Veteran Horse Archer"/>
+  <string id="E11HUt16" text="Hungarian Ban"/>
+  <string id="E11HUt17" text="Hungarian Ispan"/>
+  <string id="E11HUt18" text="Hungarian Nadorispan"/>
+  <!--input/trooptrees/spnpccharacters_irish.xml-->
+  <string id="E11IRt01" text="Irish Peasant"/>
+  <string id="E11IRt02" text="Irish Caravan Master"/>
+  <string id="E11IRt03" text="Irish Armed Trader"/>
+  <string id="E11IRt04" text="Irish Caravan Guard"/>
+  <string id="E11IRt05" text="Irish Veteran Caravan Guard"/>
+  <string id="E11IRt06" text="Irish Levy"/>
+  <string id="E11IRt07" text="Irish Militia Spearman"/>
+  <string id="E11IRt08" text="Irish Veteran Militia Spearman"/>
+  <string id="E11IRt09" text="Irish Axeman"/>
+  <string id="E11IRt10" text="Irish Militia Archer"/>
+  <string id="E11IRt11" text="Irish Veteran Militia Archer"/>
+  <string id="E11IRt12" text="Irish Saighdeoiri"/>
+  <string id="E11IRt13" text="Irish Skirmisher"/>
+  <string id="E11IRt14" text="Irish Scout"/>
+  <string id="E11IRt15" text="Irish Kern"/>
+  <string id="E11IRt16" text="Irish Ostmen"/>
+  <string id="E11IRt17" text="Irish Galloglaich"/>
+  <!--input/trooptrees/spnpccharacters_italy.xml-->
+  <string id="E11ITt01" text="Italian Peasant"/>
+  <string id="E11ITt02" text="Italian Caravan Master"/>
+  <string id="E11ITt03" text="Italian Armed Trader"/>
+  <string id="E11ITt04" text="Italian Caravan Guard"/>
+  <string id="E11ITt05" text="Italian Veteran Caravan Guard"/>
+  <string id="E11ITt07" text="Italian Levy"/>
+  <string id="E11ITt08" text="Italian Contadini Spearman"/>
+  <string id="E11ITt09" text="Italian Contadini Veteran Spearman"/>
+  <string id="E11ITt10" text="Italian Capitani Pikeman"/>
+  <string id="E11ITt11" text="Italian Contadini Crossbowman"/>
+  <string id="E11ITt12" text="Italian Contadini Veteran Crossbowman"/>
+  <string id="E11ITt13" text="Italian Capitani Crossbowman"/>
+  <string id="E11ITt14" text="Italian Contadini Cavalry"/>
+  <string id="E11ITt15" text="Italian Contadini Veteran Cavalry"/>
+  <string id="E11ITt16" text="Italian Commune Noble"/>
+  <string id="E11ITt17" text="Italian Milites Pro Commune"/>
+  <string id="E11ITt18" text="Italian Vavassores"/>
+  <!--input/trooptrees/spnpccharacters_mercs.xml-->
+  <string id="E11ARMENIAN_tr1" text="Armenian Spearman"/>
+  <string id="E11ARMENIAN_tr2" text="Armenian Skirmisher"/>
+  <string id="E11ARMENIAN_tr3" text="Armenian Heavy Cavalry"/>
+  <string id="E11ST_MICHAEL_tr1" text="Knight of St Michael"/>
+  <string id="E11ST_MICHAEL_tr2" text="Commander of St Michael"/>
+  <string id="E11ST_MICHAEL_tr3" text="Grand Officer of St Michael"/>
+  <string id="E11PECHENEGS_tr1" text="Kipchak Horse Archer"/>
+  <string id="E11PECHENEGS_tr2" text="Kipchak Veteran Horse Archer"/>
+  <string id="E11PECHENEGS_tr3" text="Kipchak Khan's Guard"/>
+  <string id="E11LAZARUS_tr1" text="Pisan Sailor"/>
+  <string id="E11LAZARUS_tr2" text="Pisan Mariner"/>
+  <string id="E11LAZARUS_tr3" text="Pisan Knight"/>
+  <string id="E11ASSASINS_tr1" text="Initiate Assassin"/>
+  <string id="E11ASSASINS_tr2" text="Devotee Assassin"/>
+  <string id="E11ASSASINS_tr3" text="Master Assassin"/>
+  <string id="E11GWYNEDD_tr1" text="Welsh Spearman"/>
+  <string id="E11GWYNEDD_tr2" text="Welsh Teulu"/>
+  <string id="E11GWYNEDD_tr3" text="Welsh Uchelwr"/>
+  <string id="E11GENOESE_tr1" text="Genoese Mariner"/>
+  <string id="E11GENOESE_tr2" text="Genoese Crossbowman"/>
+  <string id="E11GENOESE_tr3" text="Genoese Veteran Crossbowman"/>
+  <string id="E11VARAG_tr1" text="Varyag"/>
+  <string id="E11VARAG_tr2" text="Varangian Mercenary"/>
+  <string id="E11VARAG_tr3" text="Varangian Bodyguard"/>
+  <string id="E11HOSPITAL_tr1" text="Prussian Ukininkas"/>
+  <string id="E11HOSPITAL_tr2" text="Prussian Bajoras"/>
+  <string id="E11HOSPITAL_tr3" text="Prussian Rikis"/>
+  <string id="E11GEORG_tr1" text="Georgian Aznauri"/>
+  <string id="E11GEORG_tr2" text="Georgian Eristavi"/>
+  <string id="E11GEORG_tr3" text="Georgian Tavadi"/>
+  <string id="E11DANISHMENDS_tr1" text="Danishmend Horse Archer"/>
+  <string id="E11DANISHMENDS_tr2" text="Danishmend Veteran Horse Archer"/>
+  <string id="E11DANISHMENDS_tr3" text="Danishmend Champion Horse Archer"/>
+  <string id="E11JAMES_tr1" text="Layman of Saint James"/>
+  <string id="E11JAMES_tr2" text="Brother of Saint James"/>
+  <string id="E11JAMES_tr3" text="Knight of Saint James"/>
+  <string id="E11TAVERN_tr1" text="Mercenary Soldier"/>
+  <string id="E11TAVERN_tr2" text="Mercenary Corporal"/>
+  <string id="E11TAVERN_tr3" text="Mercenary Sergeant"/>
+  <string id="E11TAVERN_tr4" text="Mercenary Knight"/>
+  <string id="E11TAVERN_tr5" text="Mercenary Thief"/>
+  <string id="E11TAVERN_tr6" text="Mercenary Rogue"/>
+  <string id="E11TAVERN_tr7" text="Veteran Mercenary Rogue"/>
+  <string id="E11TAVERN_tr8" text="Mercenary Horse Archer"/>
+  <string id="E11TAVERN_tr9" text="Veteran Mercenary Horse Archer"/>
+  <string id="E11TAVERN_tr10" text="Viking Mercenary"/>
+  <string id="E11TAVERN_tr11" text="Veteran Viking Mercenary"/>
+  <string id="E11TAVERN_tr12" text="Mercenary Housecarl"/>
+  <!--input/trooptrees/spnpccharacters_norse.xml-->
+  <string id="E11NOt01" text="Nordic Peasant"/>
+  <string id="E11NOt02" text="Nordic Caravan Master"/>
+  <string id="E11NOt03" text="Nordic Armed Trader"/>
+  <string id="E11NOt04" text="Nordic Caravan Guard"/>
+  <string id="E11NOt05" text="Nordic Veteran Caravan Guard"/>
+  <string id="E11NOt06" text="Nordic Karl"/>
+  <string id="E11NOt07" text="Nordic Leiðangr Spearman"/>
+  <string id="E11NOt08" text="Nordic Veteran Leiðangr Spearman"/>
+  <string id="E11NOt09" text="Nordic Huscarl"/>
+  <string id="E11NOt10" text="Nordic Leiðangr Archer"/>
+  <string id="E11NOt11" text="Nordic Veteran Leiðangr Archer"/>
+  <string id="E11NOt12" text="Nordic Merkismadr"/>
+  <string id="E11NOt13" text="Nordic Berserker"/>
+  <string id="E11NOt14" text="Nordic Ulfhednar"/>
+  <string id="E11NOt15" text="Nordic Kertisveinar"/>
+  <string id="E11NOt16" text="Nordic Gestir"/>
+  <string id="E11NOt17" text="Nordic Hirdmenn"/>
+  <!--input/trooptrees/spnpccharacters_persian.xml-->
+  <string id="E11PEt06" text="Seljuk Turkmenn"/>
+  <string id="E11PEt07" text="Seljuk Tribal Spearman"/>
+  <string id="E11PEt08" text="Seljuk Veteran Tribal Spearman"/>
+  <string id="E11PEt09" text="Seljuk Tribal Light Cavalry"/>
+  <string id="E11PEt10" text="Seljuk Tribal Archer"/>
+  <string id="E11PEt11" text="Seljuk Veteran Tribal Archer"/>
+  <string id="E11PEt12" text="Seljuk Tribal Skirmisher"/>
+  <string id="E11PEt13" text="Seljuk Horse Archer"/>
+  <string id="E11PEt14" text="Seljuk Veteran Horse Archer"/>
+  <string id="E11PEt15" text="Seljuk Ghulam Light Cavalry"/>
+  <string id="E11PEt16" text="Seljuk Ghulam Heavy Cavalry"/>
+  <string id="E11PEt17" text="Seljuk Ghulam Askari"/>
+  <!--input/trooptrees/spnpccharacters_polish.xml-->
+  <string id="E11POt01" text="Polish Peasant"/>
+  <string id="E11POt02" text="Polish Caravan Master"/>
+  <string id="E11POt03" text="Polish Armed Trader"/>
+  <string id="E11POt04" text="Polish Caravan Guard"/>
+  <string id="E11POt05" text="Polish Veteran Caravan Guard"/>
+  <string id="E11POt07" text="Polish Levy"/>
+  <string id="E11POt08" text="Polish Militia Axeman"/>
+  <string id="E11POt09" text="Polish Veteran Militia Axeman"/>
+  <string id="E11POt10" text="Polish Infantry Wlodyka"/>
+  <string id="E11POt11" text="Polish Militia Archer"/>
+  <string id="E11POt12" text="Polish Veteran Militia Archer"/>
+  <string id="E11POt13" text="Polish Archer Wlodyka"/>
+  <string id="E11POt14" text="Polish Tarczownicy"/>
+  <string id="E11POt15" text="Polish Veteran Tarczownicy"/>
+  <string id="E11POt16" text="Polish Druzynnik"/>
+  <string id="E11POt17" text="Polish Szlachta"/>
+  <string id="E11POt18s" text="Polish Rycerz"/>
+  <!--input/trooptrees/spnpccharacters_scottish.xml-->
+  <string id="E11SCt01" text="Scottish Peasant"/>
+  <string id="E11SCt02" text="Scottish Caravan Master"/>
+  <string id="E11SCt03" text="Scottish Armed Trader"/>
+  <string id="E11SCt04" text="Scottish Caravan Guard"/>
+  <string id="E11SCt05" text="Scottish Veteran Caravan Guard"/>
+  <string id="E11SCt06" text="Scottish Neyf"/>
+  <string id="E11SCt07" text="Scottish Militia Spearman"/>
+  <string id="E11SCt08" text="Scottish Veteran Militia Spearman"/>
+  <string id="E11SCt09" text="Scottish Highland Spearman"/>
+  <string id="E11SCt10" text="Scottish Militia Archer"/>
+  <string id="E11SCt11" text="Scottish Veteran Militia Archer"/>
+  <string id="E11SCt12" text="Scottish Highland Archer"/>
+  <string id="E11SCt13" text="Scottish Swordsman"/>
+  <string id="E11SCt14" text="Scottish Highland Swordsman"/>
+  <string id="E11SCt15" text="Scottish Light Cavalry"/>
+  <string id="E11SCt16" text="Scottish Knight"/>
+  <string id="E11SCt17" text="Scottish Champion Knight"/>
+  <!--input/trooptrees/spnpccharacters_sicilian.xml-->
+  <string id="E11SIt1" text="Sicilian Peasant"/>
+  <string id="E11SIt2" text="Sicilian Caravan Master"/>
+  <string id="E11SIt3" text="Sicilian Armed Trader"/>
+  <string id="E11SIt4" text="Sicilian Caravan Guard"/>
+  <string id="E11SIt5" text="Sicilian Veteran Caravan Guard"/>
+  <string id="E11SIt6" text="Sicilian Levy"/>
+  <string id="E11SIt7" text="Sicilian Militia Spearman"/>
+  <string id="E11SIt8" text="Sicilian Veteran Militia Spearman"/>
+  <string id="E11SIt9" text="Sicilian Sergeant Spearman"/>
+  <string id="E11SIt10" text="Sicilian Militia Archer"/>
+  <string id="E11SIt11" text="Sicilian Veteran Militia Archer"/>
+  <string id="E11SIt12" text="Sicilian Sergeant Archer"/>
+  <string id="E11SIt13" text="Sicilian Man At Arms"/>
+  <string id="E11SIt14" text="Sicilian Light Cavalry"/>
+  <string id="E11SIt15" text="Sicilian Norman Squire"/>
+  <string id="E11SIt16" text="Sicilian Norman Knight"/>
+  <string id="E11SIt17" text="Sicilian Norman Marshal"/>
+  <!--input/trooptrees/spnpccharacters_slavic.xml-->
+  <string id="E11RUt01" text="Rus Caravan Master"/>
+  <string id="E11RUt02" text="Rus Caravan Guard"/>
+  <string id="E11RUt03" text="Rus Veteran Caravan Guard"/>
+  <string id="E11RUt04" text="Rus Armed Trader"/>
+  <string id="E11RUt06" text="Rus Smerd"/>
+  <string id="E11RUt07" text="Rus Woj Kopijnik"/>
+  <string id="E11RUt08" text="Rus Woj Veteran Kopijnik"/>
+  <string id="E11RUt09" text="Rus Polkovoj Siekirnik"/>
+  <string id="E11RUt10" text="Rus Woj Lučnik"/>
+  <string id="E11RUt11" text="Rus Woj Veteran Lučnik"/>
+  <string id="E11RUt12" text="Rus Polkovoj Lučnik"/>
+  <string id="E11RUt13" text="Rus Dziecki"/>
+  <string id="E11RUt14" text="Rus Otrok"/>
+  <string id="E11RUt15" text="Rus Bojawy Chołop"/>
+  <string id="E11RUt16" text="Rus Hrid"/>
+  <string id="E11RUt17" text="Rus Sotiennij"/>
+  <!--input/trooptrees/spnpccharacters_spanish.xml-->
+  <string id="E11SPt01" text="Spanish Peasant"/>
+  <string id="E11SPt02" text="Spanish Caravan Master"/>
+  <string id="E11SPt03" text="Spanish Armed Trader"/>
+  <string id="E11SPt04" text="Spanish Caravan Guard"/>
+  <string id="E11SPt05" text="Spanish Veteran Caravan Guard"/>
+  <string id="E11SPt07" text="Spanish Peones"/>
+  <string id="E11SPt08" text="Spanish Militia Spearman"/>
+  <string id="E11SPt09" text="Spanish Veteran Militia Spearman"/>
+  <string id="E11SPt10" text="Spanish Bidet"/>
+  <string id="E11SPt11" text="Spanish Militia Crossbowman"/>
+  <string id="E11SPt12" text="Spanish Veteran Militia Crossbowman"/>
+  <string id="E11SPt13" text="Spanish Ballestero"/>
+  <string id="E11SPt14" text="Spanish Light Cavalry"/>
+  <string id="E11SPt15" text="Spanish Jinite"/>
+  <string id="E11SPt16" text="Spanish Talayeros"/>
+  <string id="E11SPt17" text="Spanish Caballeros"/>
+  <string id="E11SPt18" text="Spanish Noble Caballeros"/>
+ </strings>
+</base>

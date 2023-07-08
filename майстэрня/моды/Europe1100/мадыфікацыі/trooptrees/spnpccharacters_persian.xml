@@ -1,6 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <NPCCharacters>
 
+<!--npcs-->
+
+ <!--tavern-->
+
 <NPCCharacter id="tavernkeeper_persian"
                 default_group="Infantry"
                 is_hero="false"
@@ -9,7 +13,7 @@
                 culture="Culture.persian"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_persian" />
+      <face_key_template value="BodyProperty.villager_aserai" />
     </face>
     <skills></skills>
     <Equipments>
@@ -37,7 +41,7 @@
         <equipment slot="Leg"
                    id="Item.khuzait_curved_boots" />
       </EquipmentRoster>
-      <EquipmentSet id="npc_wanderer_equipment_template_persian" />
+      <EquipmentSet id="npc_wanderer_equipment_template_aserai" />
     </Equipments>
   </NPCCharacter>
   
@@ -51,7 +55,7 @@
                 culture="Culture.persian"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_persian" />
+      <face_key_template value="BodyProperty.villager_aserai" />
     </face>
     <skills></skills>
     <Equipments>
@@ -103,7 +107,7 @@
                 culture="Culture.persian"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_persian" />
+      <face_key_template value="BodyProperty.villager_aserai" />
     </face>
     <skills></skills>
     <Equipments>
@@ -154,7 +158,7 @@
                 culture="Culture.persian"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.townswoman_persian" />
+      <face_key_template value="BodyProperty.townswoman_aserai" />
     </face>
     <skills></skills>
     <Equipments>
@@ -172,7 +176,7 @@
         <equipment slot="Leg"
                    id="Item.ladys_shoe" />
       </EquipmentRoster>
-      <EquipmentSet id="npc_wanderer_equipment_template_persian" />
+      <EquipmentSet id="npc_wanderer_equipment_template_aserai" />
     </Equipments>
   </NPCCharacter>
   
@@ -186,7 +190,7 @@
                 name="{=jx8ohENz}Armorer"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_persian" />
+      <face_key_template value="BodyProperty.villager_aserai" />
     </face>
     <skills></skills>
     <Equipments>
@@ -226,7 +230,7 @@
         <equipment slot="Leg"
                    id="Item.khuzait_curved_boots" />
       </EquipmentRoster>
-      <EquipmentSet id="npc_wanderer_equipment_template_persian" />
+      <EquipmentSet id="npc_wanderer_equipment_template_aserai" />
     </Equipments>
   </NPCCharacter>
   
@@ -240,7 +244,7 @@
                 name="{=79ElOr2x}Horse Trader"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_persian" />
+      <face_key_template value="BodyProperty.villager_aserai" />
     </face>
     <skills></skills>
     <Equipments>
@@ -274,7 +278,7 @@
         <equipment slot="Leg"
                    id="Item.khuzait_curved_boots" />
       </EquipmentRoster>
-      <EquipmentSet id="npc_wanderer_equipment_template_persian" />
+      <EquipmentSet id="npc_wanderer_equipment_template_aserai" />
     </Equipments>
   </NPCCharacter>
   
@@ -288,7 +292,7 @@
                 name="{=thbcgVVO}Trader"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_persian" />
+      <face_key_template value="BodyProperty.villager_aserai" />
     </face>
     <skills></skills>
     <Equipments>
@@ -342,7 +346,7 @@
         <equipment slot="Leg"
                    id="Item.khuzait_curved_boots" />
       </EquipmentRoster>
-      <EquipmentSet id="npc_wanderer_equipment_template_persian" />
+      <EquipmentSet id="npc_wanderer_equipment_template_aserai" />
     </Equipments>
   </NPCCharacter>
   
@@ -388,7 +392,7 @@
         <equipment slot="Body"
                    id="Item.bandit_envelope_dress_v2" />
       </EquipmentRoster>
-      <EquipmentSet id="npc_wanderer_equipment_template_persian" />
+      <EquipmentSet id="npc_wanderer_equipment_template_aserai" />
     </Equipments>
   </NPCCharacter>
   
@@ -401,7 +405,7 @@
                 culture="Culture.persian"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.townswoman_persian" />
+      <face_key_template value="BodyProperty.townswoman_aserai" />
     </face>
     <skills></skills>
     <!-- Uses village hair -->
@@ -420,7 +424,7 @@
         <equipment slot="Body"
                    id="Item.bandit_envelope_dress_v2" />
       </EquipmentRoster>
-      <EquipmentSet id="npc_wanderer_equipment_template_persian" />
+      <EquipmentSet id="npc_wanderer_equipment_template_aserai" />
     </Equipments>
   </NPCCharacter>
   
@@ -435,7 +439,7 @@
                 culture="Culture.persian"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.townswoman_persian" />
+      <face_key_template value="BodyProperty.townswoman_aserai" />
     </face>
     <skills></skills>
     <Equipments>
@@ -455,7 +459,7 @@
         <equipment slot="Leg"
                    id="Item.ladys_shoe" />
       </EquipmentRoster>
-      <EquipmentSet id="npc_wanderer_equipment_template_persian" />
+      <EquipmentSet id="npc_wanderer_equipment_template_aserai" />
     </Equipments>
   </NPCCharacter>
   
@@ -469,7 +473,7 @@
                 name="{=IHKXNP9H}Tournament Master"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_persian" />
+      <face_key_template value="BodyProperty.villager_aserai" />
     </face>
     <skills></skills>
     <Equipments>
@@ -477,13 +481,13 @@
         <equipment slot="Item0"
                    id="Item.short_sword_t3" />
         <equipment slot="Body"
-                   id="Item.persian_archer_armor" />
+                   id="Item.aserai_archer_armor" />
         <equipment slot="Head"
                    id="Item.aserai_civil_d_hscarf" />
         <equipment slot="Leg"
                    id="Item.strapped_leather_boots" />
       </EquipmentRoster>
-      <EquipmentSet id="npc_wanderer_equipment_template_persian"
+      <EquipmentSet id="npc_wanderer_equipment_template_aserai"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -500,7 +504,7 @@
                 culture="Culture.persian"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_persian" />
+      <face_key_template value="BodyProperty.villager_aserai" />
     </face>
     <Equipments>
       <EquipmentRoster civilian="true">
@@ -522,7 +526,7 @@
                 culture="Culture.persian"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_persian" />
+      <face_key_template value="BodyProperty.villager_aserai" />
     </face>
     <Equipments>
       <EquipmentRoster civilian="true">
@@ -558,6 +562,7 @@
       <EquipmentSet id="ase_bat_template_medium" />
     </Equipments>
   </NPCCharacter>
+  
   <NPCCharacter id="villager_teenager_persian"
                 name="{=maleteenager}Teenager"
                 age="14"
@@ -568,7 +573,7 @@
                 culture="Culture.persian"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_persian" />
+      <face_key_template value="BodyProperty.villager_aserai" />
     </face>
     <Equipments>
       <EquipmentRoster civilian="true">
@@ -611,7 +616,7 @@
                 culture="Culture.persian"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.townswoman_persian" />
+      <face_key_template value="BodyProperty.townswoman_aserai" />
     </face>
     <Equipments>
       <EquipmentRoster civilian="true">
@@ -620,7 +625,7 @@
         <equipment slot="Leg"
                    id="Item.southern_moccasins" />
       </EquipmentRoster>
-      <EquipmentSet id="npc_armed_wanderer_equipment_template_persian" />
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_aserai" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="village_woman_child_persian"
@@ -633,7 +638,7 @@
                 culture="Culture.persian"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.townswoman_persian" />
+      <face_key_template value="BodyProperty.townswoman_aserai" />
     </face>
     <Equipments>
       <EquipmentRoster civilian="true">
@@ -666,7 +671,7 @@
         <equipment slot="Leg"
                    id="Item.southern_moccasins" />
       </EquipmentRoster>
-      <EquipmentSet id="npc_armed_wanderer_equipment_template_persian" />
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_aserai" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="village_woman_teenager_persian"
@@ -679,7 +684,7 @@
                 culture="Culture.persian"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.townswoman_persian" />
+      <face_key_template value="BodyProperty.townswoman_aserai" />
     </face>
     <Equipments>
       <EquipmentRoster civilian="true">
@@ -708,19 +713,20 @@
         <equipment slot="Gloves"
                    id="Item.guarded_padded_vambrace" />
       </EquipmentRoster>
-      <EquipmentSet id="npc_armed_wanderer_equipment_template_persian" />
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_aserai" />
     </Equipments>
   </NPCCharacter>
+  
   <NPCCharacter id="village_woman_persian"
                 default_group="Infantry"
                 is_female="true"
                 level="1"
-                name="{=E11PEt01}Aserai Peasant"
+                name="{=E11BEt01}persian Peasant"
                 occupation="Villager"
                 culture="Culture.persian"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.townswoman_persian" />
+      <face_key_template value="BodyProperty.townswoman_aserai" />
     </face>
     <skills></skills>
     <Equipments>
@@ -844,11 +850,11 @@
   <NPCCharacter id="caravan_master_persian"
                 default_group="Infantry"
                 level="26"
-                name="{=E11PEt02}Seljuk Caravan Master"
+                name="{=E11BEt02}Persian Caravan Master"
                 occupation="CaravanGuard"
                 culture="Culture.persian">
     <face>
-      <face_key_template value="BodyProperty.fighter_persian" />
+      <face_key_template value="BodyProperty.fighter_aserai" />
     </face>
     <skills>
       <skill id="Athletics"
@@ -876,7 +882,7 @@
         <equipment slot="Head"
                    id="Item.aserai_civil_c_head" />
         <equipment slot="Body"
-                   id="Item.persian_archer_armor" />
+                   id="Item.aserai_archer_armor" />
         <equipment slot="Gloves"
                    id="Item.buttoned_leather_bracers" />
         <equipment slot="Leg"
@@ -888,7 +894,7 @@
         <equipment slot="Head"
                    id="Item.aserai_civil_d_hscarf" />
         <equipment slot="Body"
-                   id="Item.persian_archer_armor" />
+                   id="Item.aserai_archer_armor" />
         <equipment slot="Gloves"
                    id="Item.buttoned_leather_bracers" />
         <equipment slot="Cape"
@@ -916,7 +922,7 @@
         <equipment slot="Head"
                    id="Item.aserai_civil_c_head" />
         <equipment slot="Body"
-                   id="Item.persian_archer_armor" />
+                   id="Item.aserai_archer_armor" />
         <equipment slot="Gloves"
                    id="Item.buttoned_leather_bracers" />
         <equipment slot="Leg"
@@ -930,12 +936,12 @@
   <NPCCharacter id="armed_trader_persian"
                 default_group="Ranged"
                 level="16"
-                name="{=E11PEt03}Seljuk Armed Trader"
+                name="{=E11BEt03}Persian Armed Trader"
                 occupation="CaravanGuard"
                 culture="Culture.persian"
                 is_basic_troop="true">
     <face>
-      <face_key_template value="BodyProperty.fighter_persian" />
+      <face_key_template value="BodyProperty.fighter_aserai" />
     </face>
     <skills>
       <skill id="Athletics"
@@ -985,12 +991,12 @@
   <NPCCharacter id="caravan_guard_persian"
                 default_group="Cavalry"
                 level="21"
-                name="{=E11PEt04}Seljuk Caravan Guard"
+                name="{=E11BEt04}Persian Caravan Guard"
                 upgrade_requires="ItemCategory.horse"
                 occupation="CaravanGuard"
                 culture="Culture.persian">
     <face>
-      <face_key_template value="BodyProperty.fighter_persian" />
+      <face_key_template value="BodyProperty.fighter_aserai" />
     </face>
     <skills>
       <skill id="Athletics"
@@ -1102,12 +1108,12 @@
   <NPCCharacter id="veteran_caravan_guard_persian"
                 default_group="HorseArcher"
                 level="26"
-                name="{=E11PEt05}Seljuk Veteran Caravan Guard"
+                name="{=E11BEt05}Persian Veteran Caravan Guard"
                 upgrade_requires="ItemCategory.war_horse"
                 occupation="CaravanGuard"
                 culture="Culture.persian">
     <face>
-      <face_key_template value="BodyProperty.fighter_persian" />
+      <face_key_template value="BodyProperty.fighter_aserai" />
     </face>
     <skills>
       <skill id="Athletics"
@@ -1214,13 +1220,13 @@
                    id="Item.wrapped_scarf" />
       </EquipmentRoster>
       <equipment slot="Horse"
-                 id="Item.t2_persian_horse" />
+                 id="Item.t2_aserai_horse" />
       <equipment slot="HorseHarness"
                  id="Item.chain_horse_harness" />
     </Equipments>
   </NPCCharacter>
   
-  
+ 
   
   <!--practice dummy-->
   
@@ -1229,7 +1235,7 @@
                 is_hero="false"
                 occupation="Special"
                 culture="Culture.persian"
-                name="{=!}Seljuk Gear Dummy"
+                name="{=!}Aserai Gear Dummy"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
       <face_key_template value="BodyProperty.guard" />
@@ -1276,16 +1282,17 @@
         <equipment slot="Leg"
                    id="Item.wrapped_shoes" />
       </EquipmentRoster>
-      <EquipmentSet id="npc_wanderer_equipment_template_persian"
+      <EquipmentSet id="npc_wanderer_equipment_template_aserai"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
+  
   <NPCCharacter id="weapon_practice_stage_1_persian"
                 default_group="Infantry"
                 is_hero="false"
                 occupation="Special"
                 culture="Culture.persian"
-                name="{=!}Seljuk Weapon Dummy"
+                name="{=!}Aserai Weapon Dummy"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
       <face_key_template value="BodyProperty.guard" />
@@ -1362,16 +1369,17 @@
         <equipment slot="Item1"
                    id="Item.eastern_javelin_1_t2" />
       </EquipmentRoster>
-      <EquipmentSet id="npc_wanderer_equipment_template_persian"
+      <EquipmentSet id="npc_wanderer_equipment_template_aserai"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
+  
   <NPCCharacter id="weapon_practice_stage_2_persian"
                 default_group="Infantry"
                 is_hero="false"
                 occupation="Special"
                 culture="Culture.persian"
-                name="{=!}Seljuk Weapon Dummy"
+                name="{=!}Aserai Weapon Dummy"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
       <face_key_template value="BodyProperty.guard" />
@@ -1448,16 +1456,17 @@
         <equipment slot="Item1"
                    id="Item.eastern_javelin_1_t2" />
       </EquipmentRoster>
-      <EquipmentSet id="npc_wanderer_equipment_template_persian"
+      <EquipmentSet id="npc_wanderer_equipment_template_aserai"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
+  
   <NPCCharacter id="weapon_practice_stage_3_persian"
                 default_group="Infantry"
                 is_hero="false"
                 occupation="Special"
                 culture="Culture.persian"
-                name="{=!}Seljuk Weapon Dummy"
+                name="{=!}Aserai Weapon Dummy"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
       <face_key_template value="BodyProperty.guard" />
@@ -1546,7 +1555,7 @@
         <equipment slot="Item1"
                    id="Item.desert_throwing_knife" />
       </EquipmentRoster>
-      <EquipmentSet id="npc_wanderer_equipment_template_persian"
+      <EquipmentSet id="npc_wanderer_equipment_template_aserai"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -1558,10 +1567,10 @@
                 default_group="Infantry"
                 is_hero="false"
                 occupation="Special"
-                culture="Culture.empire"
+                culture="Culture.persian"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_persian" />
+      <face_key_template value="BodyProperty.villager_aserai" />
     </face>
     <skills>
       <skill id="OneHanded"
@@ -1618,7 +1627,7 @@
                 culture="Culture.persian"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_persian" />
+      <face_key_template value="BodyProperty.villager_aserai" />
     </face>
     <skills></skills>
     <Equipments>
@@ -1662,7 +1671,7 @@
         <equipment slot="Leg"
                    id="Item.khuzait_curved_boots" />
       </EquipmentRoster>
-      <EquipmentSet id="npc_wanderer_equipment_template_persian" />
+      <EquipmentSet id="npc_wanderer_equipment_template_aserai" />
     </Equipments>
   </NPCCharacter>
 
@@ -1678,7 +1687,7 @@
                 culture="Culture.persian"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_persian" />
+      <face_key_template value="BodyProperty.villager_aserai" />
     </face>
     <Equipments>
       <EquipmentRoster civilian="true">
@@ -1690,6 +1699,7 @@
       <EquipmentSet id="ase_bat_template_medium" />
     </Equipments>
   </NPCCharacter>
+  
   <NPCCharacter id="townsman_child_persian"
                 name="{=malechild}Child"
                 age="6"
@@ -1700,7 +1710,7 @@
                 culture="Culture.persian"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_persian" />
+      <face_key_template value="BodyProperty.villager_aserai" />
     </face>
     <Equipments>
       <EquipmentRoster civilian="true">
@@ -1730,6 +1740,7 @@
       <EquipmentSet id="ase_bat_template_medium" />
     </Equipments>
   </NPCCharacter>
+  
   <NPCCharacter id="townsman_teenager_persian"
                 name="{=maleteenager}Teenager"
                 age="14"
@@ -1739,7 +1750,7 @@
                 occupation="Townsfolk"
                 culture="Culture.persian">
     <face>
-      <face_key_template value="BodyProperty.villager_persian" />
+      <face_key_template value="BodyProperty.villager_aserai" />
     </face>
     <Equipments>
       <EquipmentRoster civilian="true">
@@ -1771,6 +1782,7 @@
       <EquipmentSet id="ase_bat_template_medium" />
     </Equipments>
   </NPCCharacter>
+  
   <NPCCharacter id="townsman_persian"
                 default_group="Infantry"
                 name="{=muu5cofb}Townsman"
@@ -1778,7 +1790,7 @@
                 culture="Culture.persian"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_persian" />
+      <face_key_template value="BodyProperty.villager_aserai" />
     </face>
     <skills></skills>
     <Equipments>
@@ -1886,7 +1898,7 @@
                 culture="Culture.persian"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_persian" />
+      <face_key_template value="BodyProperty.villager_aserai" />
     </face>
     <skills></skills>
     <Equipments>
@@ -1948,7 +1960,7 @@
         <equipment slot="Head"
                    id="Item.aserai_civil_hscarf_b" />
         <equipment slot="Body"
-                   id="Item.persian_archer_armor" />
+                   id="Item.aserai_archer_armor" />
         <equipment slot="Leg"
                    id="Item.khuzait_curved_boots" />
       </EquipmentRoster>
@@ -1970,7 +1982,7 @@
         <equipment slot="Leg"
                    id="Item.khuzait_curved_boots" />
       </EquipmentRoster>
-      <EquipmentSet id="npc_wanderer_equipment_template_persian" />
+      <EquipmentSet id="npc_wanderer_equipment_template_aserai" />
     </Equipments>
   </NPCCharacter>
 
@@ -1983,7 +1995,7 @@
                 culture="Culture.persian"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_persian" />
+      <face_key_template value="BodyProperty.villager_aserai" />
     </face>
     <skills></skills>
     <Equipments>
@@ -2045,7 +2057,7 @@
         <equipment slot="Head"
                    id="Item.aserai_civil_hscarf_b" />
         <equipment slot="Body"
-                   id="Item.persian_archer_armor" />
+                   id="Item.aserai_archer_armor" />
         <equipment slot="Leg"
                    id="Item.khuzait_curved_boots" />
       </EquipmentRoster>
@@ -2067,7 +2079,7 @@
         <equipment slot="Leg"
                    id="Item.khuzait_curved_boots" />
       </EquipmentRoster>
-      <EquipmentSet id="npc_wanderer_equipment_template_persian" />
+      <EquipmentSet id="npc_wanderer_equipment_template_aserai" />
     </Equipments>
   </NPCCharacter>
 
@@ -2080,7 +2092,7 @@
                 culture="Culture.persian"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_persian" />
+      <face_key_template value="BodyProperty.villager_aserai" />
     </face>
     <skills></skills>
     <Equipments>
@@ -2142,7 +2154,7 @@
         <equipment slot="Head"
                    id="Item.aserai_civil_hscarf_b" />
         <equipment slot="Body"
-                   id="Item.persian_archer_armor" />
+                   id="Item.aserai_archer_armor" />
         <equipment slot="Leg"
                    id="Item.khuzait_curved_boots" />
       </EquipmentRoster>
@@ -2164,7 +2176,7 @@
         <equipment slot="Leg"
                    id="Item.khuzait_curved_boots" />
       </EquipmentRoster>
-      <EquipmentSet id="npc_wanderer_equipment_template_persian" />
+      <EquipmentSet id="npc_wanderer_equipment_template_aserai" />
     </Equipments>
   </NPCCharacter>
 
@@ -2177,7 +2189,7 @@
                 culture="Culture.persian"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_persian" />
+      <face_key_template value="BodyProperty.villager_aserai" />
     </face>
     <skills></skills>
     <Equipments>
@@ -2239,7 +2251,7 @@
         <equipment slot="Head"
                    id="Item.aserai_civil_hscarf_b" />
         <equipment slot="Body"
-                   id="Item.persian_archer_armor" />
+                   id="Item.aserai_archer_armor" />
         <equipment slot="Leg"
                    id="Item.khuzait_curved_boots" />
       </EquipmentRoster>
@@ -2261,7 +2273,7 @@
         <equipment slot="Leg"
                    id="Item.khuzait_curved_boots" />
       </EquipmentRoster>
-      <EquipmentSet id="npc_wanderer_equipment_template_persian" />
+      <EquipmentSet id="npc_wanderer_equipment_template_aserai" />
     </Equipments>
   </NPCCharacter>
 
@@ -2275,7 +2287,7 @@
                 skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
                 level="16">
     <face>
-      <face_key_template value="BodyProperty.fighter_persian" />
+      <face_key_template value="BodyProperty.fighter_aserai" />
     </face>
     <skills></skills>
     <Equipments>
@@ -2362,7 +2374,7 @@
                 culture="Culture.persian"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_persian" />
+      <face_key_template value="BodyProperty.villager_aserai" />
     </face>
     <skills></skills>
     <Equipments>
@@ -2406,7 +2418,7 @@
         <equipment slot="Head"
                    id="Item.aserai_civil_c_head" />
       </EquipmentRoster>
-      <EquipmentSet id="npc_wanderer_equipment_template_persian" />
+      <EquipmentSet id="npc_wanderer_equipment_template_aserai" />
     </Equipments>
   </NPCCharacter>
 
@@ -2422,7 +2434,7 @@
                 culture="Culture.persian"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_persian" />
+      <face_key_template value="BodyProperty.villager_aserai" />
     </face>
     <Equipments>
       <EquipmentRoster civilian="true">
@@ -2434,6 +2446,7 @@
       <EquipmentSet id="ase_bat_template_medium" />
     </Equipments>
   </NPCCharacter>
+  
   <NPCCharacter id="townswoman_child_persian"
                 name="{=femalechild}Child"
                 age="6"
@@ -2444,7 +2457,7 @@
                 culture="Culture.persian"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_persian" />
+      <face_key_template value="BodyProperty.villager_aserai" />
     </face>
     <Equipments>
       <EquipmentRoster civilian="true">
@@ -2458,6 +2471,7 @@
       <EquipmentSet id="ase_bat_template_medium" />
     </Equipments>
   </NPCCharacter>
+  
   <NPCCharacter id="townswoman_teenager_persian"
                 name="{=femaleteenager}Teenager"
                 age="14"
@@ -2468,7 +2482,7 @@
                 culture="Culture.persian"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_persian" />
+      <face_key_template value="BodyProperty.villager_aserai" />
     </face>
     <Equipments>
       <EquipmentRoster civilian="true">
@@ -2509,7 +2523,7 @@
                 name="{=WH7EGGIg}Barber"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_persian" />
+      <face_key_template value="BodyProperty.villager_aserai" />
     </face>
     <skills></skills>
     <Equipments>
@@ -2541,7 +2555,7 @@
         <equipment slot="Gloves"
                    id="Item.leather_gloves" />
       </EquipmentRoster>
-      <EquipmentSet id="npc_wanderer_equipment_template_persian" />
+      <EquipmentSet id="npc_wanderer_equipment_template_aserai" />
     </Equipments>
   </NPCCharacter>
 
@@ -2555,7 +2569,7 @@
                 name="{=UaN2lfwi}Weaponsmith"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_persian" />
+      <face_key_template value="BodyProperty.villager_aserai" />
     </face>
     <skills></skills>
     <Equipments>
@@ -2593,7 +2607,7 @@
         <equipment slot="Gloves"
                    id="Item.leather_gloves" />
       </EquipmentRoster>
-      <EquipmentSet id="npc_wanderer_equipment_template_persian" />
+      <EquipmentSet id="npc_wanderer_equipment_template_aserai" />
     </Equipments>
   </NPCCharacter>
 
@@ -2607,7 +2621,7 @@
                 name="{=bNnQt4jN}Blacksmith"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_persian" />
+      <face_key_template value="BodyProperty.villager_aserai" />
     </face>
     <skills></skills>
     <Equipments>
@@ -2635,7 +2649,7 @@
         <equipment slot="Head"
                    id="Item.desert_cap" />
       </EquipmentRoster>
-      <EquipmentSet id="npc_wanderer_equipment_template_persian" />
+      <EquipmentSet id="npc_wanderer_equipment_template_aserai" />
     </Equipments>
   </NPCCharacter>
 
@@ -2649,7 +2663,7 @@
                 name="{=XgjXfmM1}Prison Guard"
                 skill_template="SkillSet.infantry_heavyinfantry_level21_template_skills">
     <face>
-      <face_key_template value="BodyProperty.fighter_persian" />
+      <face_key_template value="BodyProperty.fighter_aserai" />
     </face>
     <skills>
       <!--<skill id="Athletics" value="50" /> #OLD_SKILL# -->
@@ -2810,7 +2824,7 @@
         <equipment slot="Item0"
                    id="Item.eastern_spear_4_t4" />
       </EquipmentRoster>
-      <EquipmentSet id="npc_wanderer_equipment_template_persian"
+      <EquipmentSet id="npc_wanderer_equipment_template_aserai"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -2818,11 +2832,11 @@
   <NPCCharacter id="tournament_template_persian_one_participant_set_v1"
                 default_group="Infantry"
                 level="6"
-                name="{=!}tournament_template_persian_one_participant_set_v1"
+                name="{=!}tournament_template_aserai_one_participant_set_v1"
                 culture="Culture.persian"
                 skill_template="SkillSet.infantry_heavyinfantry_level6_template_skills">
     <face>
-      <face_key_template value="BodyProperty.fighter_persian" />
+      <face_key_template value="BodyProperty.fighter_aserai" />
     </face>
     <skills></skills>
     <upgrade_targets></upgrade_targets>
@@ -2835,18 +2849,19 @@
         <equipment slot="Item2"
                    id="Item.eastern_javelin_1_t2_blunt" />
       </EquipmentRoster>
-      <EquipmentSet id="npc_wanderer_equipment_template_persian_civilian"
+      <EquipmentSet id="npc_wanderer_equipment_template_aserai_civilian"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
+  
   <NPCCharacter id="tournament_template_persian_two_participant_set_v1"
                 default_group="Infantry"
                 level="6"
-                name="{=!}tournament_template_persian_two_participant_set_v1"
+                name="{=!}tournament_template_aserai_two_participant_set_v1"
                 culture="Culture.persian"
                 skill_template="SkillSet.infantry_heavyinfantry_level6_template_skills">
     <face>
-      <face_key_template value="BodyProperty.fighter_persian" />
+      <face_key_template value="BodyProperty.fighter_aserai" />
     </face>
     <skills></skills>
     <upgrade_targets></upgrade_targets>
@@ -2863,18 +2878,19 @@
         <equipment slot="Item1"
                    id="Item.bound_desert_round_sparring_shield" />
       </EquipmentRoster>
-      <EquipmentSet id="npc_wanderer_equipment_template_persian_civilian"
+      <EquipmentSet id="npc_wanderer_equipment_template_aserai_civilian"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
+  
   <NPCCharacter id="tournament_template_persian_two_participant_set_v2"
                 default_group="Infantry"
                 level="6"
-                name="{=!}tournament_template_persian_two_participant_set_v2"
+                name="{=!}tournament_template_aserai_two_participant_set_v2"
                 culture="Culture.persian"
                 skill_template="SkillSet.infantry_heavyinfantry_level6_template_skills">
     <face>
-      <face_key_template value="BodyProperty.fighter_persian" />
+      <face_key_template value="BodyProperty.fighter_aserai" />
     </face>
     <skills></skills>
     <upgrade_targets></upgrade_targets>
@@ -2893,18 +2909,19 @@
         <equipment slot="Item2"
                    id="Item.aserai_axe_2_t2_blunt" />
       </EquipmentRoster>
-      <EquipmentSet id="npc_wanderer_equipment_template_persian_civilian"
+      <EquipmentSet id="npc_wanderer_equipment_template_aserai_civilian"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
+  
   <NPCCharacter id="tournament_template_persian_two_participant_set_v3"
                 default_group="Infantry"
                 level="6"
-                name="{=!}tournament_template_persian_two_participant_set_v3"
+                name="{=!}tournament_template_aserai_two_participant_set_v3"
                 culture="Culture.persian"
                 skill_template="SkillSet.infantry_heavyinfantry_level6_template_skills">
     <face>
-      <face_key_template value="BodyProperty.fighter_persian" />
+      <face_key_template value="BodyProperty.fighter_aserai" />
     </face>
     <skills></skills>
     <upgrade_targets></upgrade_targets>
@@ -2931,14 +2948,15 @@
         <equipment slot="HorseHarness"
                    id="Item.light_harness" />
       </EquipmentRoster>
-      <EquipmentSet id="npc_wanderer_equipment_template_persian_civilian"
+      <EquipmentSet id="npc_wanderer_equipment_template_aserai_civilian"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
+  
   <NPCCharacter id="tournament_template_persian_four_participant_set_v1"
                 default_group="Infantry"
                 level="6"
-                name="{=!}tournament_template_persian_four_participant_set_v1"
+                name="{=!}tournament_template_aserai_four_participant_set_v1"
                 culture="Culture.persian"
                 skill_template="SkillSet.infantry_heavyinfantry_level6_template_skills">
     <face>
@@ -2973,18 +2991,19 @@
         <equipment slot="Item2"
                    id="Item.aserai_axe_2_t2_blunt" />
       </EquipmentRoster>
-      <EquipmentSet id="npc_wanderer_equipment_template_persian_civilian"
+      <EquipmentSet id="npc_wanderer_equipment_template_aserai_civilian"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
+  
   <NPCCharacter id="tournament_template_persian_four_participant_set_v2"
                 default_group="Infantry"
                 level="6"
-                name="{=!}tournament_template_persian_four_participant_set_v2"
+                name="{=!}tournament_template_aserai_four_participant_set_v2"
                 culture="Culture.persian"
                 skill_template="SkillSet.infantry_heavyinfantry_level6_template_skills">
     <face>
-      <face_key_template value="BodyProperty.fighter_persian" />
+      <face_key_template value="BodyProperty.fighter_aserai" />
     </face>
     <skills></skills>
     <upgrade_targets></upgrade_targets>
@@ -3023,18 +3042,19 @@
         <equipment slot="HorseHarness"
                    id="Item.light_harness" />
       </EquipmentRoster>
-      <EquipmentSet id="npc_wanderer_equipment_template_persian_civilian"
+      <EquipmentSet id="npc_wanderer_equipment_template_aserai_civilian"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
+  
   <NPCCharacter id="tournament_template_persian_four_participant_set_v3"
                 default_group="Infantry"
                 level="6"
-                name="{=!}tournament_template_persian_four_participant_set_v3"
+                name="{=!}tournament_template_aserai_four_participant_set_v3"
                 culture="Culture.persian"
                 skill_template="SkillSet.infantry_heavyinfantry_level6_template_skills">
     <face>
-      <face_key_template value="BodyProperty.fighter_persian" />
+      <face_key_template value="BodyProperty.fighter_aserai" />
     </face>
     <skills></skills>
     <upgrade_targets></upgrade_targets>
@@ -3075,18 +3095,19 @@
         <equipment slot="HorseHarness"
                    id="Item.light_harness" />
       </EquipmentRoster>
-      <EquipmentSet id="npc_wanderer_equipment_template_persian_civilian"
+      <EquipmentSet id="npc_wanderer_equipment_template_aserai_civilian"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
+  
   <NPCCharacter id="tournament_template_persian_four_participant_set_v4"
                 default_group="Infantry"
                 level="6"
-                name="{=!}tournament_template_persian_four_participant_set_v4"
+                name="{=!}tournament_template_aserai_four_participant_set_v4"
                 culture="Culture.persian"
                 skill_template="SkillSet.infantry_heavyinfantry_level6_template_skills">
     <face>
-      <face_key_template value="BodyProperty.fighter_persian" />
+      <face_key_template value="BodyProperty.fighter_aserai" />
     </face>
     <skills></skills>
     <upgrade_targets></upgrade_targets>
@@ -3135,20 +3156,20 @@
         <equipment slot="HorseHarness"
                    id="Item.light_harness" />
       </EquipmentRoster>
-      <EquipmentSet id="npc_wanderer_equipment_template_persian_civilian"
+      <EquipmentSet id="npc_wanderer_equipment_template_aserai_civilian"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
   
 <!--troops-->
 
-  <NPCCharacter id="seljuk_levy"
+ <NPCCharacter id="seljuk_levy"
                 default_group="Infantry"
                 level="6"
                 name="{=E11PEt10}Seljuk Turkmenn"
                 occupation="Soldier"
                 is_basic_troop="true"
-                culture="Culture.persian">
+                culture="Culture.khuzait">
     <face>
       <face_key_template value="BodyProperty.fighter_aserai" />
     </face>
@@ -3177,7 +3198,6 @@
     <Equipments>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.peasant_hammer_1_t1"/>
-				<equipment slot="Item2" id="Item.throwing_stone"/>
 				<equipment slot="Body" id="Item.steppe_armor"/>
 				<equipment slot="Leg" id="Item.khuzait_curved_boots"/>
 			</EquipmentRoster>
@@ -3194,7 +3214,7 @@
                 level="11"
                 name="{=E11PEt10}Seljuk Tribal Spearman"
                 occupation="Soldier"
-                culture="Culture.persian">
+                culture="Culture.khuzait">
     <face>
       <face_key_template value="BodyProperty.fighter_aserai" />
     </face>
@@ -3224,7 +3244,6 @@
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.eastern_spear_3_t3"/>
 				<equipment slot="Item1" id="Item.curved_round_shield"/>
-				<equipment slot="Item2" id="Item.throwing_stone"/>
 				<equipment slot="Head" id="Item.fur_hat"/>
 				<equipment slot="Cape" id="Item.battania_woodland_cloak"/>
 				<equipment slot="Body" id="Item.khuzait_civil_coat_b"/>
@@ -3238,7 +3257,7 @@
                 level="16"
                 name="{=E11PEt10}Seljuk Veteran Tribal Spearman"
                 occupation="Soldier"
-                culture="Culture.persian">
+                culture="Culture.khuzait">
     <face>
       <face_key_template value="BodyProperty.fighter_aserai" />
     </face>
@@ -3283,7 +3302,7 @@
                 name="{=E11PEt10}Seljuk Tribal Light Cavalry"
 				upgrade_requires="ItemCategory.horse"
                 occupation="Soldier"
-                culture="Culture.persian">
+                culture="Culture.khuzait">
     <face>
       <face_key_template value="BodyProperty.fighter_aserai" />
     </face>
@@ -3328,7 +3347,7 @@
                 level="11"
                 name="{=E11PEt10}Seljuk Tribal Archer"
                 occupation="Soldier"
-                culture="Culture.persian">
+                culture="Culture.khuzait">
     <face>
       <face_key_template value="BodyProperty.fighter_aserai" />
     </face>
@@ -3371,7 +3390,7 @@
                 level="16"
                 name="{=E11PEt10}Seljuk Veteran Tribal Archer"
                 occupation="Soldier"
-                culture="Culture.persian">
+                culture="Culture.khuzait">
     <face>
       <face_key_template value="BodyProperty.fighter_aserai" />
     </face>
@@ -3416,7 +3435,7 @@
                 level="21"
                 name="{=E11PEt10}Seljuk Tribal Skirmisher"
                 occupation="Soldier"
-                culture="Culture.persian">
+                culture="Culture.khuzait">
     <face>
       <face_key_template value="BodyProperty.fighter_aserai" />
     </face>
@@ -3461,7 +3480,7 @@
                 name="{=E11PEt10}Seljuk Horse Archer"
 				upgrade_requires="ItemCategory.horse"
                 occupation="Soldier"
-                culture="Culture.persian">
+                culture="Culture.khuzait">
     <face>
       <face_key_template value="BodyProperty.fighter_aserai" />
     </face>
@@ -3508,7 +3527,7 @@
                 level="21"
                 name="{=E11PEt10}Seljuk Veteran Horse Archer"
                 occupation="Soldier"
-                culture="Culture.persian">
+                culture="Culture.khuzait">
     <face>
       <face_key_template value="BodyProperty.fighter_aserai" />
     </face>
@@ -3555,7 +3574,7 @@
                 name="{=E11PEt10}Seljuk Ghulam Light Cavalry"
 				is_basic_troop="true"
                 occupation="Soldier"
-                culture="Culture.persian">
+                culture="Culture.khuzait">
     <face>
       <face_key_template value="BodyProperty.fighter_aserai" />
     </face>
@@ -3603,7 +3622,7 @@
                 name="{=E11PEt10}Seljuk Ghulam Heavy Cavalry"
 				upgrade_requires="ItemCategory.war_horse"
                 occupation="Soldier"
-                culture="Culture.persian">
+                culture="Culture.khuzait">
     <face>
       <face_key_template value="BodyProperty.fighter_aserai" />
     </face>
@@ -3649,7 +3668,7 @@
                 level="31"
                 name="{=E11PEt10}Seljuk Ghulam Askari"
                 occupation="Soldier"
-                culture="Culture.persian">
+                culture="Culture.khuzait">
     <face>
       <face_key_template value="BodyProperty.fighter_aserai" />
     </face>
@@ -3688,5 +3707,7 @@
 			</EquipmentRoster>
     </Equipments>
   </NPCCharacter>
+
+ 
 
 </NPCCharacters>

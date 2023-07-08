@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
  <strings>
-  <string id="E11FA_desc" text="The Fatimid Caliphate was an Ismaili Shi'a caliphate extant from the tenth to the twelfth centuries AD. Spanning a large area of North Africa, it ranged from the Atlantic Ocean in the west to the Red Sea in the east. The Fatimids, a dynasty of Arab origin, trace their ancestry to Muhammad's daughter Fatima and her husband Ali b. Abi Talib, the first Shi‘a imam. The Fatimids were acknowledged as the rightful imams by different Isma‘ili communities, but also in many other Muslim lands, including Persia and the adjacent regions. Originating during the Abbasid Caliphate, the Fatimids conquered Tunisia and established the city of al-Mahdiyya. The Ismaili dynasty ruled territories across the Mediterranean coast of Africa and ultimately made Egypt the center of the caliphate. At its height, the caliphate included – in addition to Egypt – varying areas of the Maghreb, Sudan, Sicily, the Levant, and the Hijaz."/>
-  <string id="E11FA_adj_cul" text="Fatimid"/>
-  <string id="E11FA_cul_name" text="Fatimid"/>
+  <string id="E11FA_desc" text="The first written reference to Arabs is in Assyrian texts from the 9th century BC, where they appear inhabiting present-day Levant, Arabia and Mesopotamia. Throughout the ancient Near East, Arabs spanned several kingdoms and empires. In the Middle Ages, the Arabs spread massively and forged the Rashidun, Umayyad, Abbasid, and Fatimid empires, whose borders reached southern France in the west, China in the east, Anatolia in the north, to South Sudan, forming one of the largest land empires in history."/>
+  <string id="E11FA_adj_cul" text="Arab"/>
+  <string id="E11FA_cul_name" text="Arab"/>
   <string id="E11FA_ruler_title" text="{?RULER.GENDER}Sultana{?}Caliph{\?} {RULER.NAME}"/>
   <string id="E11FA_noble_title" text="{?RULER.GENDER}Emira{?}Emir{\?} {RULER.NAME}"/>
   <string id="E11FA_noble_m" text="Emir"/>
@@ -11,26 +11,11 @@
   <string id="E11FA_ruler_m" text="Caliph"/>
   <string id="E11FA_ruler_f" text="Sultana"/>
   <string id="E11FA_ruler_sp" text="{?RULER.GENDER}Sultana{?}Caliph{\?} {RULER.NAME}"/>
-  <string id="E11FA_n_cul" text="Fatimids"/>
-  <string id="E11FA_adj_fac" text="Fatimids"/>
-  <string id="E11FA_short_term" text="Fatimid"/>
-  <string id="E11FA_formal_name" text="Fatimid Caliphate"/>
-  <string id="E11FA_informal_name" text="the Fatimids"/>
-  <string id="E11AR_desc" text="The Fatimid Caliphate was an Ismaili Shi'a caliphate extant from the tenth to the twelfth centuries AD. Spanning a large area of North Africa, it ranged from the Atlantic Ocean in the west to the Red Sea in the east. The Fatimids, a dynasty of Arab origin, trace their ancestry to Muhammad's daughter Fatima and her husband Ali b. Abi Talib, the first Shi‘a imam. The Fatimids were acknowledged as the rightful imams by different Isma‘ili communities, but also in many other Muslim lands, including Persia and the adjacent regions. Originating during the Abbasid Caliphate, the Fatimids conquered Tunisia and established the city of al-Mahdiyya. The Ismaili dynasty ruled territories across the Mediterranean coast of Africa and ultimately made Egypt the center of the caliphate. At its height, the caliphate included – in addition to Egypt – varying areas of the Maghreb, Sudan, Sicily, the Levant, and the Hijaz."/>
-  <string id="E11AR_adj_cul" text="Fatimid"/>
-  <string id="E11AR_cul_name" text="Fatimid"/>
-  <string id="E11AR_ruler_title" text="{?RULER.GENDER}Sultana{?}Caliph{\?} {RULER.NAME}"/>
-  <string id="E11AR_noble_title" text="{?RULER.GENDER}Emira{?}Emir{\?} {RULER.NAME}"/>
-  <string id="E11AR_noble_m" text="Emir"/>
-  <string id="E11AR_noble_f" text="Emira"/>
-  <string id="E11AR_ruler_m" text="Caliph"/>
-  <string id="E11AR_ruler_f" text="Sultana"/>
-  <string id="E11AR_ruler_sp" text="{?RULER.GENDER}Sultana{?}Caliph{\?} {RULER.NAME}"/>
-  <string id="E11AR_n_cul" text="Fatimids"/>
-  <string id="E11AR_adj_fac" text="Fatimids"/>
-  <string id="E11AR_short_term" text="Fatimid"/>
-  <string id="E11AR_formal_name" text="Fatimid Caliphate"/>
-  <string id="E11AR_informal_name" text="the Fatimids"/>
+  <string id="E11FA_n_cul" text="Arab"/>
+  <string id="E11FA_adj_fac" text="Arab"/>
+  <string id="E11FA_short_term" text="Arab"/>
+  <string id="E11FA_formal_name" text="The Arabs"/>
+  <string id="E11FA_informal_name" text="the Arabs"/>
   <string id="E11PE_desc" text="The Turco-Persian Islamic culture that emerged under the Persianate Samanids, Ghaznavids, and Kara-Khanids was carried by succeeding dynasties into Western and Southern Asia, in particular, by the Seljuks (1040-1118), and their successor states, who presided over Persia, Syria, and Anatolia until the thirteenth century, and by the Ghaznavids, who in the same period dominated Greater Khorasan and most of present-day Pakistan. These two dynasties together drew the center of the Islamic world eastward. The institutions stabilized Islamic society into a form that would persist, at least in Western Asia, until the twentieth century."/>
   <string id="E11PE_adj_cul" text="Seljuk"/>
   <string id="E11PE_cul_name" text="Turko-Persian"/>
