@@ -68,21 +68,25 @@
 
 	<NPCCharacter id="caravan_master_crusader" 
 				name="{=E11CRt2}Outremer Caravan Master" 
+				level="26"
 				culture="Culture.crusader">
 	</NPCCharacter>
 	
 	<NPCCharacter id="armed_trader_crusader" 
 				name="{=E11CRt3}Outremer Armed Trader" 
+				level="16"
 				culture="Culture.crusader">
 	</NPCCharacter>
 
 	<NPCCharacter id="caravan_guard_crusader" 
 				name="{=E11CRt4}Outremer Caravan Guard" 
+				level="21"
 				culture="Culture.crusader">
 	</NPCCharacter>
 
 	<NPCCharacter id="veteran_caravan_guard_crusader" 
 				name="{=E11CRt5}Outremer Veteran Caravan Guard" 
+				level="26"
 				culture="Culture.crusader">
 	</NPCCharacter>
 
@@ -933,21 +937,25 @@
 
 	<NPCCharacter id="caravan_master_sicilian" 
 				name="{=E11SIt2}Sicilian Caravan Master" 
+				level="26"
 				culture="Culture.sicilian">
 	</NPCCharacter>
 
 	<NPCCharacter id="armed_trader_sicilian" 
-				name="{=E11SIt3}Sicilian Armed Trader" 
+				name="{=E11SIt3}Sicilian Armed Trader"
+				level="16" 
 				culture="Culture.sicilian">
 	</NPCCharacter>
 
 	<NPCCharacter id="caravan_guard_sicilian" 
 				name="{=E11SIt4}Sicilian Caravan Guard" 
+				level="21"
 				culture="Culture.sicilian">
 	</NPCCharacter>
 
 	<NPCCharacter id="veteran_caravan_guard_sicilian" 
 				name="{=E11SIt5}Sicilian Veteran Caravan Guard" 
+				level="26"
 				culture="Culture.sicilian">
 	</NPCCharacter>
 
