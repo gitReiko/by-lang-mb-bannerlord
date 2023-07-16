@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+
+  	<!-- From ROT-Content/bandits.xlst file !!! -->
+
+	<NPCCharacter id="looter"  
+				name="{=ROTReikoUnit001}Broken Man" 
+				culture="Culture.looters">
+	</NPCCharacter>
+
+	<NPCCharacter id="steppe_bandits_chief" 
+				name="{=ROTReikoUnit002}Dothraki Ambusher"  
+				culture="Culture.steppe_bandits">
+	</NPCCharacter>
+
+	<NPCCharacter id="steppe_bandits_raider" 
+				name="{=ROTReikoUnit003}Dothraki Pillager" 
+				culture="Culture.steppe_bandits">
+	</NPCCharacter>
+
+	<NPCCharacter id="sea_raiders_boss" 
+			name="{=ROTReikoUnit004}Marauder" 
+			culture="Culture.sea_raiders">
+	</NPCCharacter>
+
+	<NPCCharacter id="sea_raiders_bandit" 
+			name="{=ROTReikoUnit005}Pirate" 
+			culture="Culture.sea_raiders">
+	</NPCCharacter>
+
+	<NPCCharacter id="sea_raiders_raider" 
+				name="{=ROTReikoUnit006}Ravager" 
+				culture="Culture.sea_raiders">
+	</NPCCharacter>
+
+	<NPCCharacter id="sea_raiders_chief" 
+				name="{=ROTReikoUnit007}Reaver" 
+				culture="Culture.sea_raiders">
+	</NPCCharacter>
+
+	<NPCCharacter id="steppe_bandits_bandit" 
+				name="{=ROTReikoUnit008}Rogue Dothraki" 
+				culture="Culture.steppe_bandits">
+	</NPCCharacter>
+
+	<NPCCharacter id="steppe_bandits_boss" 
+				name="{=ROTReikoUnit009}Steppe Bandit Boss"  
+				culture="Culture.steppe_bandits">
+	</NPCCharacter>
+
+	<!-- From ROT-Content/ROT-Troops.xlst file !!! -->
+
+	<NPCCharacter id="fearsome_wight" 
+				name="{=ROTReikoUnit010}Fearsome Wight" 
+				culture="Culture.wights">
+	</NPCCharacter>
+
+	<NPCCharacter id="ferocious_wight" 
+				name="{=ROTReikoUnit011}Ferocious Wight" 
+				culture="Culture.wights">
+	</NPCCharacter>
+
+	<NPCCharacter id="night_king" 
+				name="{=ROTReikoUnit012}Night King" 
+				culture="Culture.wights">
+	</NPCCharacter>
+
+	<NPCCharacter id="wight" 
+				name="{=ROTReikoUnit013}Wight" 
+				culture="Culture.wights">
+	</NPCCharacter>
+
+	<NPCCharacter id="mormont_woodswoman"
+                name="{=ROTReikoUnit014}House Mormont Woodswoman"
+                culture="Culture.battania">
+	</NPCCharacter>
+  
+</NPCCharacters>

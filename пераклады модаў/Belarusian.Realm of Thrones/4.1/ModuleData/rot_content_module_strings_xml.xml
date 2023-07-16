@@ -1,0 +1,1024 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+  <strings>
+    
+
+	  <string id="str_crafting_template.ROT_onehanded_sword" text="{=rotReikoMod0001}ROT Onehanded Sword" />
+	  <string id="str_crafting_template.ROT_onehanded_spear" text="{=rotReikoMod0002}ROT onehanded Spear" />
+	  <string id="str_crafting_template.ROT_bastard_sword" text="{=rotReikoMod0003}ROT Bastard Sword" />
+	  <string id="str_crafting_template.ROT_twohanded_sword" text="{=rotReikoMod0004}ROT Twohanded Sword" />
+	  <string id="str_crafting_template.ROT_TwoHandedAxe" text="{=rotReikoMod0005}ROT Twohanded Axe and Hammer" />
+	  <string id="str_crafting_template.ROT_OneHandedAxe" text="{=rotReikoMod0006}ROT Onehanded Axe and Arakh" />
+	  <string id="str_crafting_template.ROT_TwoHandedPolearm" text="{=rotReikoMod0007}ROT Twohanded Polearms" />
+
+	  
+
+	  
+	  <!-- The formal name for a faction is derived from the culture, as the southern Empire doesn't consider itself the 'southern Empire,' it considers itself the sole legitimate empire -->
+	  <!-- "In the name of the Calradian Empire, I welcome you" -->
+	  <string id="str_faction_formal_name_for_culture.vlandia" text="{=rotReikoMod0008}Westerlands" />
+	  <string id="str_faction_formal_name_for_culture.battania" text="{=rotReikoMod0009}North" />
+	  <string id="str_faction_formal_name_for_culture.khuzait" text="{=rotReikoMod0010}Dothraki Khalasar" />
+	  <string id="str_faction_formal_name_for_culture.sturgia" text="{=rotReikoMod0011}Iron Islands" />
+	  <string id="str_faction_formal_name_for_culture.aserai" text="{=rotReikoMod0012}Dorne" />
+	  <string id="str_faction_formal_name_for_culture.empire" text="{=rotReikoMod0013}Braavos" />
+	  <!-- "The language and laws of the Empire" -->
+	  <string id="str_faction_informal_name_for_culture.vlandia" text="{=rotReikoMod0014}the Westermen" />
+	  <string id="str_faction_informal_name_for_culture.battania" text="{=rotReikoMod0015}the Northmen" />
+	  <string id="str_faction_informal_name_for_culture.khuzait" text="{=rotReikoMod0016}the Dothraki" />
+	  <string id="str_faction_informal_name_for_culture.sturgia" text="{=rotReikoMod0017}the Ironborn" />
+	  <string id="str_faction_informal_name_for_culture.aserai" text="{=rotReikoMod0018}the Dornish" />
+	  <string id="str_faction_informal_name_for_culture.empire" text="{=rotReikoMod0019}the Braavosi" />
+	  <!-- I will teach you imperial ways -->
+	  <string id="str_adjective_for_culture.khuzait" text="{=rotReikoMod0020}Dothraki" />
+	  <string id="str_adjective_for_culture.aserai" text="{=rotReikoMod0021}Dornish" />
+	  <string id="str_adjective_for_culture.battania" text="{=rotReikoMod0022}Northern" />
+	  <string id="str_adjective_for_culture.vlandia" text="{=rotReikoMod0023}Western" />
+	  <string id="str_adjective_for_culture.sturgia" text="{=rotReikoMod0024}Ironborn" />
+	  <string id="str_adjective_for_culture.empire" text="{=rotReikoMod0025}Braavosi" />
+	  <!-- I don't care for the imperials and their big, decadent cities -->
+	  <string id="str_neutral_term_for_culture.khuzait" text="{=rotReikoMod0026}Dothraki" />
+	  <string id="str_neutral_term_for_culture.aserai" text="{=rotReikoMod0027}Dorne" />
+	  <string id="str_neutral_term_for_culture.battania" text="{=rotReikoMod0028}North" />
+	  <string id="str_neutral_term_for_culture.vlandia" text="{=rotReikoMod0029}Westerlands" />
+	  <string id="str_neutral_term_for_culture.sturgia" text="{=rotReikoMod0030}Ironborn" />
+	  <string id="str_neutral_term_for_culture.empire" text="{=rotReikoMod0031}Braavos" />
+
+	  
+
+	  <string id="str_weapon_usage.ROT_onehanded_swords" text="{=ROT01892}One-Handed" />
+	  <string id="str_weapon_usage.ROT_twohanded_swords" text="{=ROT01893}Two-Handed" />
+	  <string id="str_weapon_usage.ROT_OneHandedPolearm" text="{=ROT01894}One-Handed" />
+	  <string id="str_weapon_usage.ROT_TwoHandedAxe" text="{=ROT01895}Two-Handed" />
+	  <string id="str_weapon_usage.ROT_OneHandedBastardSword" text="{=ROT01896}Bastard" />
+	  <string id="str_weapon_usage.ROT_OneHandedAxe" text="{=ROT01897}One-Handed" />
+	  <string id="str_weapon_usage.ROT_TwoHandedPolearm" text="{=ROT01897}Two-Handed" />
+	  <string id="str_weapon_usage.ROT_OneHandedBastardSwordAlternative" text="{=ROTbsalt}Bastard Alt." />
+	  <string id="str_weapon_usage.ROT_TwoHandedPolearm_Couchable" text="{=ROTcrouch}Crouchable" />
+	  <string id="str_weapon_usage.ROT_TwoHandedPolearm_Bracing" text="{=ROTbracing}Bracing" />
+
+	  <string id="str_culture_description.vlandia" text="{=rotReikoMod0032}The inhabitants of this area hail from the richest region of Westeros because of the abundance of gold and silver mined in the hills and crags." />
+	  <string id="str_culture_description.battania" text="{=rotReikoMod0033}The people of the North are a hardy breed. Descendents of the First Men that were ruled by the Kings of the North before Aegon's conquest." />
+	  <string id="str_culture_description.khuzait" text="{=rotReikoMod0034}The Dothraki are a war-like and nomadic people that move in great hordes called khalasars across the grasslands of Essos ." />
+	  <string id="str_culture_description.sturgia" text="{=rotReikoMod0035}The Ironborn inhabit the Iron Islands and worship the Drowned God. They pillage the western coasts of Westeros as a way of life." />
+	  <string id="str_culture_description.aserai" text="{=rotReikoMod0036}The Dornish are mostly descendents of a people that originated near the river Rhoyne in Essos. Princess Nymeria fled her homeland to escape the Valyrians and settled in Dorne with a huge host, explaining why most Donishmen look different than your average Westerosi." />
+	  <string id="str_culture_description.empire" text="{=rotReikoMod0037}The wealthiest of the Free Cities and home to the Iron Bank and House of Black and White." />
+	  <string id="str_culture_description.freefolk" text="{=ROT01898}Descendants of the First Men that were trapped north of the wall 8000 years ago. Often called wildlings by the peoples south of the wall." />
+	  <string id="str_culture_description.nightswatch" text="{=ROT01899}Military order charged with protecting the realms of men from any threat from north of the wall. There ranks are often filled with vegabonds and criminals trying to escape the complete wrath of justice." />
+	  <string id="str_culture_description.bolton" text="{=ROT01900}Houses that swore allegiance to the lords of their region, but are truly loyal to nobody." />
+	  <string id="str_culture_description.vale" text="{=ROT01901}The first Andals that arrived in Westeros settled in the area known as the Vale today. It is a harsh landscape surrounded by the Mountains of the Moon." />
+	  <string id="str_culture_description.river" text="{=ROT01902}The people of this region live at the crossroads of several other powerful kingdoms. At the time of the Targaryen conquest, the riverlands were ruled by the Ironborn. An uprising led by House Tully assisted Aegon's conquest of the area which led to their great holdings in the area." />
+	  <string id="str_culture_description.dragonstone" text="{=ROT01903}The inhabitants of the islands in and near Blackwater Bay that were put under the control of Stannis Baratheon by Robert after his rebellion." />
+	  <string id="str_culture_description.stormlands" text="{=ROT01904}The inhabitants of the land named for the frequent savage storms that ravage it's eastern coast from the Narrow Sea. This area made up it's own sovereign kingdom called The Storm Kingdom, before Aegon's conquest." />
+	  <string id="str_culture_description.reach" text="{=ROT01905}The peoples here hail from the second largest of the Seven Kingdoms behind The North. This area is the most fertile lands in all of Westeros." />
+	  <string id="str_culture_description.ghiscari" text="{=ROT01906}These people are the descendants of the Old Empire of Ghis that was destroyed by the Valyrians in the Ghiscari wars. The cities of Slaver's Bay still practice many of their old Ghiscari customs." />
+	  <string id="str_culture_description.crownlands" text="{=ROT01907}People from the contested lands between the Riverlands and Stormlands, who are ruled directly by the king in King's Landing since Aegon the Conqueror." />
+	  <string id="str_culture_description.sarnor" text="{=ROTsarnor}Known as the Tall Men, they hail from the region around the river Sarne and were nearly annihilated by the Dothraki hordes." />
+	  <string id="str_culture_description.norvos" text="{=ROTnorvos}The free city of Norvos is a true theocracy ruled by the Bearded Priests. The people's daily lives are strictly inforced by the rings of the three bells." />
+	  <string id="str_culture_description.valyrian" text="{=ROTvalyrian}Descendents of those that left Valyria before a cataclysmic event destroyed that city." />
+	  <string id="str_culture_description.volantine" text="{=ROTvolantine}People from the first of the Free Cities in Essos founded by the Valyrians." />
+	  <string id="str_culture_description.qohorik" text="{=ROTqohorik}People from one of the Free Cities in Essos. Known as the City of Sorcerers." />
+	  <string id="str_culture_description.lorathi" text="{=ROTlorathi}People from the northernmost of the Free Cities located on an island in the Shivering Sea." />
+	  <string id="str_culture_description.pentoshi" text="{=ROTpentoshi}People from the westernmost of the Free Cities located on the Bay of Pentos." />
+	  <string id="str_culture_description.myrish" text="{=ROTmyrish}People from the most advanced of the Free Cities located on the Sea of Myrth." />
+	  <string id="str_culture_description.tyroshi" text="{=ROTtyroshi}People from the Free City located in the Stepstones." />
+	  <string id="str_culture_description.lyseni" text="{=ROTlyseni}People from the Free City located on an island in the Summer Sea." />
+	  
+	  <string id="str_culture_rich_name.vlandia" text="{=rotReikoMod0038}Westerman" />
+	  <string id="str_culture_rich_name.battania" text="{=rotReikoMod0039}Northman" />
+	  <string id="str_culture_rich_name.khuzait" text="{=rotReikoMod0040}Dothraki" />
+	  <string id="str_culture_rich_name.sturgia" text="{=rotReikoMod0041}Ironborn" />
+	  <string id="str_culture_rich_name.aserai" text="{=rotReikoMod0042}Dornish" />
+	  <string id="str_culture_rich_name.empire" text="{=rotReikoMod0043}Braavosi" />
+	  <string id="str_culture_rich_name.freefolk" text="{=ROT01908}Freefolk" />
+	  <string id="str_culture_rich_name.nightswatch" text="{=ROT01909}Night's Watch" />
+	  <string id="str_culture_rich_name.bolton" text="{=ROT01910}Free Houses" />
+	  <string id="str_culture_rich_name.vale" text="{=ROT01911}Valeman" />
+	  <string id="str_culture_rich_name.river" text="{=ROT01912}Riverman" />
+	  <string id="str_culture_rich_name.dragonstone" text="{=ROT01913}Dragonstone" />
+	  <string id="str_culture_rich_name.stormlands" text="{=ROT01914}Stormlander" />
+	  <string id="str_culture_rich_name.reach" text="{=ROT01915}Reachman" />
+	  <string id="str_culture_rich_name.ghiscari" text="{=ROT01916}Ghiscari" />
+	  <string id="str_culture_rich_name.crownlands" text="{=ROT01917}Crownlander" />
+	  <string id="str_culture_rich_name.sarnor" text="{=ROTsarnor1}Sarnori" />
+	  <string id="str_culture_rich_name.norvos" text="{=ROTnorvos1}Norvoshi" />
+	  <string id="str_culture_rich_name.valyrian" text="{=ROTvalyrian1}Valyrian" />
+	  <string id="str_culture_rich_name.volantine" text="{=ROTvolantine1}Volantene" />
+	  <string id="str_culture_rich_name.qohorik" text="{=ROTqohorik1}Qohorik" />
+	  <string id="str_culture_rich_name.lorathi" text="{=ROTlorathi1}Lorathi" />
+	  <string id="str_culture_rich_name.pentoshi" text="{=ROTpentoshi1}Pentoshi" />
+	  <string id="str_culture_rich_name.myrish" text="{=ROTmyrish1}Myrish" />
+	  <string id="str_culture_rich_name.tyroshi" text="{=ROTtyroshi1}Tyroshi" />
+	  <string id="str_culture_rich_name.lyseni" text="{=ROTlyseni1}Lyseni" />
+
+	  <string id="str_faction_official.empire" text="{=rotReikoMod0044}a lord" />
+	  <string id="str_faction_official.empire_f" text="{=rotReikoMod0045}a lady" />
+	  <string id="str_faction_ruler.empire" text="{=rotReikoMod0046}Sealord" />
+	  <string id="str_faction_ruler.empire_f" text="{=rotReikoMod0047}Sealord" />
+	  <string id="str_faction_ruler_term_in_speech.empire" text="{=rotReikoMod0048}{?RULER.GENDER}the Sealord{?}the Sealord{\?} {RULER.NAME}" />
+
+	  
+	  
+	  <string id="str_faction_official.vlandia" text="{=rotReikoMod0049}a lord" />
+	  <string id="str_faction_official.vlandia_f" text="{=rotReikoMod0050}a lady" />
+	  <string id="str_faction_ruler.vlandia" text="{=rotReikoMod0051}Warden of the West" />
+	  <string id="str_faction_ruler.vlandia_f" text="{=rotReikoMod0052}Warden of the West" />
+	  <string id="str_faction_ruler_name_with_title.empire" text="{=rotReikoMod0053}{?RULER.GENDER}Seelord{?}Sealord{\?} {RULER.NAME}" />
+	  <string id="str_faction_noble_name_with_title.empire" text="{=rotReikoMod0054}{?RULER.GENDER}Lady{?}Lord{\?} {RULER.NAME}" />
+	  <string id="str_faction_ruler_name_with_title.vlandia" text="{=rotReikoMod0055}{?RULER.GENDER}Queen{?}Warden of the West{\?} {RULER.NAME}" />
+	  <string id="str_faction_noble_name_with_title.vlandia" text="{=rotReikoMod0056}{?RULER.GENDER}Lady{?}Lord{\?} {RULER.NAME}" />
+	  <string id="str_faction_ruler_name_with_title.battania" text="{=rotReikoMod0057}{?RULER.GENDER}Queen{?}King{\?} {RULER.NAME}" />
+	  <string id="str_faction_noble_name_with_title.battania" text="{=rotReikoMod0058}{?RULER.GENDER}Lady{?}Lord{\?} {RULER.NAME}" />
+	  <string id="str_faction_ruler_name_with_title.khuzait" text="{=rotReikoMod0059}{RULER.NAME} {?RULER.GENDER}{?}{\?}" />
+	  <string id="str_faction_noble_name_with_title.khuzait" text="{=rotReikoMod0060}{RULER.NAME} {?RULER.GENDER}{?}{\?}" />
+	  <string id="str_faction_ruler_name_with_title.aserai" text="{=rotReikoMod0061}{?RULER.GENDER}Princess{?}Prince{\?} {RULER.NAME}" />
+	  <string id="str_faction_noble_name_with_title.aserai" text="{=rotReikoMod0062}{?RULER.GENDER}Lady{?}Lord{\?} {RULER.NAME}" />
+	  <string id="str_faction_ruler_name_with_title.sturgia" text="{=rotReikoMod0063}{?RULER.GENDER}Queen{?}King{\?} {RULER.NAME}" />
+	  <string id="str_faction_noble_name_with_title.sturgia" text="{=rotReikoMod0064}{?RULER.GENDER}Lady{?}Lord{\?} {RULER.NAME}" />
+	  <string id="str_faction_ruler_name_with_title.freefolk" text="{=rotReikoMod0065}{?RULER.GENDER}Queen{?}King Beyond the Wall{\?} {RULER.NAME}" />
+	  <string id="str_faction_noble_name_with_title.freefolk" text="{=ROT01918}{?RULER.GENDER}{?}{\?} {RULER.NAME}" />
+	  <string id="str_faction_ruler_name_with_title.nightswatch" text="{=ROT01919}{?RULER.GENDER}Queen{?}Lord Commander{\?} {RULER.NAME}" />
+	  <string id="str_faction_noble_name_with_title.nightswatch" text="{=ROT01920}{?RULER.GENDER}{?}{\?} {RULER.NAME}" />
+	  <string id="str_faction_ruler_name_with_title.vale" text="{=ROT01921}{?RULER.GENDER}Warden of the East{?}Warden of the East{\?} {RULER.NAME}" />
+	  <string id="str_faction_noble_name_with_title.vale" text="{=ROT01922}{?RULER.GENDER}Lady{?}Lord{\?} {RULER.NAME}" />
+	  <string id="str_faction_ruler_name_with_title.river" text="{=ROT01923}{?RULER.GENDER}Lord of the Trident{?}Lord of the Trident{\?} {RULER.NAME}" />
+	  <string id="str_faction_noble_name_with_title.river" text="{=ROT01924}{?RULER.GENDER}Lady{?}Lord{\?} {RULER.NAME}" />
+	  <string id="str_faction_ruler_name_with_title.dragonstone" text="{=ROT01925}{?RULER.GENDER}Queen{?}King{\?} {RULER.NAME}" />
+	  <string id="str_faction_noble_name_with_title.dragonstone" text="{=ROT01926}{?RULER.GENDER}Lady{?}Lord{\?} {RULER.NAME}" />
+	  <string id="str_faction_ruler_name_with_title.stormlands" text="{=ROT01927}{?RULER.GENDER}Queen{?}King{\?} {RULER.NAME}" />
+	  <string id="str_faction_noble_name_with_title.stormlands" text="{=ROT01928}{?RULER.GENDER}Lady{?}Lord{\?} {RULER.NAME}" />
+	  <string id="str_faction_ruler_name_with_title.reach" text="{=ROT01929}{?RULER.GENDER}Warden of the South{?}Warden of the South{\?} {RULER.NAME}" />
+	  <string id="str_faction_noble_name_with_title.reach" text="{=ROT01930}{?RULER.GENDER}Lady{?}Lord{\?} {RULER.NAME}" />
+	  <string id="str_faction_ruler_name_with_title.ghiscari" text="{=ROT01931}{?RULER.GENDER}Queen{?}King{\?} {RULER.NAME}" />
+	  <string id="str_faction_noble_name_with_title.ghiscari" text="{=ROT01932}{?RULER.GENDER}Lady{?}Lord{\?} {RULER.NAME}" />
+	  <string id="str_faction_ruler_name_with_title.bolton" text="{=ROT01933}{?RULER.GENDER}Queen{?}King{\?} {RULER.NAME}" />
+	  <string id="str_faction_noble_name_with_title.bolton" text="{=ROT01934}{?RULER.GENDER}Lady{?}Lord{\?} {RULER.NAME}" />
+	  <string id="str_faction_ruler_name_with_title.crownlands" text="{=ROT01935}{?RULER.GENDER}Queen{?}King{\?} {RULER.NAME}" />
+	  <string id="str_faction_noble_name_with_title.crownlands" text="{=ROT01936}{?RULER.GENDER}Lady{?}Lord{\?} {RULER.NAME}" />
+	  <string id="str_faction_ruler_name_with_title.sarnor" text="{=ROTsarnor2}{?RULER.GENDER}High Queen{?}High King{\?} {RULER.NAME}" />
+	  <string id="str_faction_noble_name_with_title.sarnor" text="{=ROTsarnor3}{?RULER.GENDER}Lady{?}Lord{\?} {RULER.NAME}" />
+	  <string id="str_faction_ruler_name_with_title.norvos" text="{=ROTnorvos2}{?RULER.GENDER}High Priestess{?}High Priest{\?} {RULER.NAME}" />
+	  <string id="str_faction_noble_name_with_title.norvos" text="{=ROTnorvos3}{?RULER.GENDER}Lady{?}Lord{\?} {RULER.NAME}" />
+	  <string id="str_faction_ruler_name_with_title.valyrian" text="{=ROTvalyrian2}{?RULER.GENDER}Queen{?}King{\?} {RULER.NAME}" />
+	  <string id="str_faction_noble_name_with_title.valyrian" text="{=ROTvalyrian3}{?RULER.GENDER}Lady{?}Lord{\?} {RULER.NAME}" />
+	  <string id="str_faction_ruler_name_with_title.volantine" text="{=ROTvolantine2}{?RULER.GENDER}Triarch{?}Triarch{\?} {RULER.NAME}" />
+	  <string id="str_faction_noble_name_with_title.volantine" text="{=ROTvolantine3}{?RULER.GENDER}Lady{?}Lord{\?} {RULER.NAME}" />
+	  <string id="str_faction_ruler_name_with_title.qohorik" text="{=ROTqohorik2}{?RULER.GENDER}Queen{?}King{\?} {RULER.NAME}" />
+	  <string id="str_faction_noble_name_with_title.qohorik" text="{=ROTqohorik3}{?RULER.GENDER}Lady{?}Lord{\?} {RULER.NAME}" />
+	  <string id="str_faction_ruler_name_with_title.lorathi" text="{=ROTlorathi2}{?RULER.GENDER}Princess{?}Prince{\?} {RULER.NAME}" />
+	  <string id="str_faction_noble_name_with_title.lorathi" text="{=ROTlorathi3}{?RULER.GENDER}Lady{?}Lord{\?} {RULER.NAME}" />
+	  <string id="str_faction_ruler_name_with_title.pentoshi" text="{=ROTpentoshi2}{?RULER.GENDER}Magister{?}Magister{\?} {RULER.NAME}" />
+	  <string id="str_faction_noble_name_with_title.pentoshi" text="{=ROTpentoshi3}{?RULER.GENDER}Lady{?}Lord{\?} {RULER.NAME}" />
+	  <string id="str_faction_ruler_name_with_title.myrish" text="{=ROTmyrish2}{?RULER.GENDER}Magister{?}Magister{\?} {RULER.NAME}" />
+	  <string id="str_faction_noble_name_with_title.myrish" text="{=ROTmyrish3}{?RULER.GENDER}Lady{?}Lord{\?} {RULER.NAME}" />
+	  <string id="str_faction_ruler_name_with_title.tyroshi" text="{=ROTtyroshi2}{?RULER.GENDER}Archoness{?}Archon{\?} {RULER.NAME}" />
+	  <string id="str_faction_noble_name_with_title.tyroshi" text="{=ROTtyroshi3}{?RULER.GENDER}Lady{?}Lord{\?} {RULER.NAME}" />
+	  <string id="str_faction_ruler_name_with_title.lyseni" text="{=ROTlyseni2}{?RULER.GENDER}Magister{?}Magister{\?} {RULER.NAME}" />
+	  <string id="str_faction_noble_name_with_title.lyseni" text="{=ROTlyseni3}{?RULER.GENDER}Lady{?}Lord{\?} {RULER.NAME}" />
+	  
+
+	  <string id="str_faction_ruler_term_in_speech.vlandia" text="{=rotReikoMod0066}{?RULER.GENDER}Queen{?}King{\?} {RULER.NAME}" />
+	  <string id="str_faction_official.aserai" text="{=rotReikoMod0067}Lord" />
+	  <string id="str_faction_official.aserai_f" text="{=rotReikoMod0068}Lady" />
+	  <string id="str_faction_ruler.aserai" text="{=rotReikoMod0069}Prince" />
+	  <string id="str_faction_ruler.aserai_f" text="{=rotReikoMod0070}Princess" />
+	  <string id="str_faction_ruler.volantis" text="{=rotReikoMod0071}Triarch" />
+	  <string id="str_faction_ruler.volantis_f" text="{=rotReikoMod0072}Triarch" />
+	  <string id="str_faction_ruler_term_in_speech.aserai" text="{=rotReikoMod0073}{?RULER.GENDER}Princess{?}Prince{\?} {RULER.NAME}" />
+	  <string id="str_faction_official.battania" text="{=rotReikoMod0074}a lord" />
+	  <string id="str_faction_official.battania_f" text="{=rotReikoMod0075}a lady" />
+	  <string id="str_faction_ruler.battania" text="{=rotReikoMod0076}king" />
+	  <string id="str_faction_ruler.battania_f" text="{=rotReikoMod0077}queen" />
+	  <string id="str_faction_ruler_term_in_speech.battania" text="{=rotReikoMod0078}{?RULER.GENDER}Queen{?}King{\?} {RULER.NAME}" />
+	  <string id="str_faction_official.khuzait" text="{=rotReikoMod0079}Warrior" />
+	  <string id="str_faction_official.khuzait_f" text="{=rotReikoMod0080}Warrior" />
+	  <string id="str_faction_ruler.khuzait" text="{=rotReikoMod0081}Warrior" />
+	  <string id="str_faction_ruler.khuzait_f" text="{=rotReikoMod0082}Warrior" />
+	  <string id="str_faction_ruler_term_in_speech.khuzait" text="{=rotReikoMod0083}{RULER.NAME} {?RULER.GENDER}{?}{\?}" />
+	  <string id="str_faction_official.sturgia" text="{=rotReikoMod0084}a lord" />
+	  <string id="str_faction_official.sturgia_f" text="{=rotReikoMod0085}a lady" />
+	  <string id="str_faction_ruler.sturgia" text="{=rotReikoMod0086}king" />
+	  <string id="str_faction_ruler.sturgia_f" text="{=rotReikoMod0087}queen" />
+	  <string id="str_faction_ruler.freefolk" text="{=ROT01937}king" />
+	  <string id="str_faction_ruler.freefolk_f" text="{=ROT01938}queen" />
+	  <string id="str_faction_ruler.nightswatch" text="{=ROT01939}lord commander" />
+	  <string id="str_faction_ruler.nightswatch_f" text="{=ROT01940}lord commander" />
+	  <string id="str_faction_ruler.vale" text="{=ROT01941}Warden of the East" />
+	  <string id="str_faction_ruler.vale_f" text="{=ROT01942}Warden of the East" />
+	  <string id="str_faction_ruler.river" text="{=ROT01943}Lord of the Trident" />
+	  <string id="str_faction_ruler.river_f" text="{=ROT01944}Lord of the Trident" />
+	  <string id="str_faction_ruler.dragonstone" text="{=ROT01945}king" />
+	  <string id="str_faction_ruler.dragonstone_f" text="{=ROT01946}queen" />
+	  <string id="str_faction_ruler.stormlands" text="{=ROT01947}king" />
+	  <string id="str_faction_ruler.stormlands_f" text="{=ROT01948}queen" />
+	  <string id="str_faction_ruler.reach" text="{=ROT01949}Warden of the South" />
+	  <string id="str_faction_ruler.reach_f" text="{=ROT01950}Warden of the South" />
+	  <string id="str_faction_ruler.ghiscari" text="{=ROT01951}king" />
+	  <string id="str_faction_ruler.ghiscari_f" text="{=ROT01952}queen" />
+	  <string id="str_faction_ruler.bolton" text="{=ROT01953}king" />
+	  <string id="str_faction_ruler.bolton_f" text="{=ROT01954}queen" />
+	  <string id="str_faction_ruler.sarnor" text="{=ROTsarnor4}high king" />
+	  <string id="str_faction_ruler.sarnor_f" text="{=ROTsarnor5}high queen" />
+	  <string id="str_faction_ruler.norvos" text="{=ROTnorvos4}high priest" />
+	  <string id="str_faction_ruler.norvos_f" text="{=ROTnorvos5}high priestess" />
+	  <string id="str_faction_ruler.valyrian" text="{=ROTvalyrian4}king" />
+	  <string id="str_faction_ruler.valyrian_f" text="{=ROTvalyrian5}queen" />
+	  <string id="str_faction_ruler.volantine" text="{=ROTvolantine4}triarch" />
+	  <string id="str_faction_ruler.volantine_f" text="{=ROTvolantine5}triarch" />
+	  <string id="str_faction_ruler.qohorik" text="{=ROTqohorik4}king" />
+	  <string id="str_faction_ruler.qohorik_f" text="{=ROTqohorik5}queen" />
+	  <string id="str_faction_ruler.lorathi" text="{=ROTlorathi4}prince" />
+	  <string id="str_faction_ruler.lorathi_f" text="{=ROTlorathi5}princess" />
+	  <string id="str_faction_ruler.pentoshi" text="{=ROTpentoshi4}magister" />
+	  <string id="str_faction_ruler.pentoshi_f" text="{=ROTpentoshi5}magister" />
+	  <string id="str_faction_ruler.myrish" text="{=ROTmyrish4}magister" />
+	  <string id="str_faction_ruler.myrish_f" text="{=ROTmyrish5}magister" />
+	  <string id="str_faction_ruler.tyroshi" text="{=ROTtyroshi4}archon" />
+	  <string id="str_faction_ruler.tyroshi_f" text="{=ROTtyroshi5}archoness" />
+	  <string id="str_faction_ruler.lyseni" text="{=ROTlyseni4}magister" />
+	  <string id="str_faction_ruler.lyseni_f" text="{=ROTlyseni5}magister" />
+	  
+	  
+	  <string id="str_faction_official.freefolk" text="{=ROT01955}a lord" />
+	  <string id="str_faction_official.freefolk_f" text="{=ROT01956}a lady" />
+	  <string id="str_faction_official.nightswatch" text="{=ROT01957}a lord" />
+	  <string id="str_faction_official.nightswatch_f" text="{=ROT01958}a lady" />
+	  <string id="str_faction_official.vale" text="{=ROT01959}a lord" />
+	  <string id="str_faction_official.vale_f" text="{=ROT01960}a lady" />
+	  <string id="str_faction_official.river" text="{=ROT01961}a lord" />
+	  <string id="str_faction_official.river_f" text="{=ROT01962}a lady" />
+	  <string id="str_faction_official.dragonstone" text="{=ROT01963}a lord" />
+	  <string id="str_faction_official.dragonstone_f" text="{=ROT01964}a lady" />
+	  <string id="str_faction_official.stormlands" text="{=ROT01965}a lord" />
+	  <string id="str_faction_official.stormlands_f" text="{=ROT01966}a lady" />
+	  <string id="str_faction_official.reach" text="{=ROT01967}a lord" />
+	  <string id="str_faction_official.reach_f" text="{=ROT01968}a lady" />
+	  <string id="str_faction_official.ghiscari" text="{=ROT01969}a lord" />
+	  <string id="str_faction_official.ghiscari_f" text="{=ROT01970}a lady" />
+	  <string id="str_faction_official.bolton" text="{=ROT01971}a lord" />
+	  <string id="str_faction_official.bolton_f" text="{=ROT01972}a lady" />
+	  <string id="str_faction_official.crownlands" text="{=ROT01973}a lord" />
+	  <string id="str_faction_official.crownlands_f" text="{=ROT01974}a lady" />
+	  <string id="str_faction_official.sarnor" text="{=ROTsarnor6}a lord" />
+	  <string id="str_faction_official.sarnor_f" text="{=ROTsarnor7}a lady" />
+	  <string id="str_faction_official.norvos" text="{=ROTnorvos6}a lord" />
+	  <string id="str_faction_official.norvos_f" text="{=ROTnorvos7}a lady" />
+	  <string id="str_faction_official.valyrian" text="{=ROTvalyrian6}a lord" />
+	  <string id="str_faction_official.valyrian_f" text="{=ROTvalyrian7}a lady" />
+	  <string id="str_faction_official.volantine" text="{=ROTvolantine6}a lord" />
+	  <string id="str_faction_official.volantine_f" text="{=ROTvolantine7}a lady" />
+	  <string id="str_faction_official.qohorik" text="{=ROTqohorik6}a lord" />
+	  <string id="str_faction_official.qohorik_f" text="{=ROTqohorik7}a lady" />
+	  <string id="str_faction_official.lorathi" text="{=ROTlorathi6}a lord" />
+	  <string id="str_faction_official.lorathi_f" text="{=ROTlorathi7}a lady" />
+	  <string id="str_faction_official.pentoshi" text="{=ROTpentoshi6}a lord" />
+	  <string id="str_faction_official.pentoshi_f" text="{=ROTpentoshi7}a lady" />
+	  <string id="str_faction_official.myrish" text="{=ROTmyrish6}a lord" />
+	  <string id="str_faction_official.myrish_f" text="{=ROTmyrish7}a lady" />
+	  <string id="str_faction_official.tyroshi" text="{=ROTtyroshi6}a lord" />
+	  <string id="str_faction_official.tyroshi_f" text="{=ROTtyroshi7}a lady" />
+	  <string id="str_faction_official.lyseni" text="{=ROTlyseni6}a lord" />
+	  <string id="str_faction_official.lyseni_f" text="{=ROTlyseni7}a lady" />
+	  
+	  <string id="str_faction_ruler_term_in_speech.sturgia" text="{=ROT01975}{?RULER.GENDER}Princess{?}Prince{\?} {RULER.NAME}" />
+	  <string id="str_faction_ruler_term_in_speech.freefolk" text="{=ROT01976}{?RULER.GENDER}Queen{?}King Beyond the Wall{\?} {RULER.NAME}" />
+	  <string id="str_faction_ruler_term_in_speech.nightswatch" text="{=ROT01977}{?RULER.GENDER}Lady{?}Lord Commander{\?} {RULER.NAME}" />
+	  <string id="str_faction_ruler_term_in_speech.vale" text="{=ROT01978}{?RULER.GENDER}Warden of the East{?}Warden of the East{\?} {RULER.NAME}" />
+	  <string id="str_faction_ruler_term_in_speech.river" text="{=ROT01979}{?RULER.GENDER}Lord of the Trident{?}Lord of the Trident{\?} {RULER.NAME}" />
+	  <string id="str_faction_ruler_term_in_speech.dragonstone" text="{=ROT01980}{?RULER.GENDER}Queen{?}King{\?} {RULER.NAME}" />
+	  <string id="str_faction_ruler_term_in_speech.stormlands" text="{=ROT01981}{?RULER.GENDER}Queen{?}King{\?} {RULER.NAME}" />
+	  <string id="str_faction_ruler_term_in_speech.reach" text="{=ROT01982}{?RULER.GENDER}Warden of the South{?}Warden of the South{\?} {RULER.NAME}" />
+	  <string id="str_faction_ruler_term_in_speech.ghiscari" text="{=ROT01983}{?RULER.GENDER}Queen{?}King{\?} {RULER.NAME}" />
+	  <string id="str_faction_ruler_term_in_speech.bolton" text="{=ROT01984}{?RULER.GENDER}Queen{?}King{\?} {RULER.NAME}" />
+	  <string id="str_faction_ruler_term_in_speech.crownlands" text="{=ROT01985}{?RULER.GENDER}Queen{?}King{\?} {RULER.NAME}" />
+	  <string id="str_faction_ruler_term_in_speech.sarnor" text="{=ROTsarnor8}{?RULER.GENDER}High Queen{?} High King{\?} {RULER.NAME}" />
+	  <string id="str_faction_ruler_term_in_speech.norvos" text="{=ROTnorvos8}{?RULER.GENDER}High Priestess{?} High Priest{\?} {RULER.NAME}" />
+	  <string id="str_faction_ruler_term_in_speech.valyrian" text="{=ROTvalyrian8}{?RULER.GENDER}Queen{?} King{\?} {RULER.NAME}" />
+	  <string id="str_faction_ruler_term_in_speech.volantine" text="{=ROTvolantine8}{?RULER.GENDER}Triarch{?} Triarch{\?} {RULER.NAME}" />
+	  <string id="str_faction_ruler_term_in_speech.qohorik" text="{=ROTqohorik8}{?RULER.GENDER}Queen{?} King{\?} {RULER.NAME}" />
+	  <string id="str_faction_ruler_term_in_speech.lorathi" text="{=ROTlorathi8}{?RULER.GENDER}Princess{?} Prince{\?} {RULER.NAME}" />
+	  <string id="str_faction_ruler_term_in_speech.pentoshi" text="{=ROTpentoshi8}{?RULER.GENDER}Magister{?} Magister{\?} {RULER.NAME}" />
+	  <string id="str_faction_ruler_term_in_speech.myrish" text="{=ROTmyrish8}{?RULER.GENDER}Magister{?} Magister{\?} {RULER.NAME}" />
+	  <string id="str_faction_ruler_term_in_speech.tyroshi" text="{=ROTtyroshi8}{?RULER.GENDER}Archoness{?} Archon{\?} {RULER.NAME}" />
+	  <string id="str_faction_ruler_term_in_speech.lyseni" text="{=ROTlyseni8}{?RULER.GENDER}Magister{?} Magister{\?} {RULER.NAME}" />
+	  
+	  <!-- "The southern imperial forces have withdrawn" -->
+	  <string id="str_adjective_for_faction.khuzait" text="{=rotReikoMod0088}Dothraki Khalasar" />
+	  <string id="str_adjective_for_faction.aserai" text="{=rotReikoMod0089}Dorne" />
+	  <string id="str_adjective_for_faction.battania" text="{=rotReikoMod0090}North" />
+	  <string id="str_adjective_for_faction.vlandia" text="{=rotReikoMod0091}Westerlands" />
+	  <string id="str_adjective_for_faction.sturgia" text="{=rotReikoMod0092}Iron Islands" />
+	  <string id="str_adjective_for_faction.vale" text="{=ROT01986}Vale" />
+	  <string id="str_adjective_for_faction.reach" text="{=ROT01987}Reach" />
+	  <string id="str_adjective_for_faction.freefolk" text="{=ROT01988}Free Folk" />
+	  <string id="str_adjective_for_faction.volantis" text="{=ROT01989}Volantis" />
+	  <string id="str_adjective_for_faction.river" text="{=ROT01990}Riverlands" />
+	  <string id="str_adjective_for_faction.dragonstone" text="{=ROT01991}Dragonstone" />
+	  <string id="str_adjective_for_faction.stormlands" text="{=ROT01992}Stormlands" />
+	  <string id="str_adjective_for_faction.ghiscari" text="{=ROT01993}Targaryen" />
+	  <string id="str_adjective_for_faction.nightswatch" text="{=ROT01994}Night's Watch" />
+	  <string id="str_adjective_for_faction.bolton" text="{=ROT01995}Free Houses" />
+	  <string id="str_adjective_for_faction.crownlands" text="{=ROT01996}Crownlands" />
+	  <string id="str_adjective_for_faction.sarnor" text="{=ROTsarnor10}Sarnor" />
+	  <string id="str_adjective_for_faction.norvos" text="{=ROTnorvos10}Norvos" />
+	  <string id="str_adjective_for_faction.valyrian" text="{=ROTvalyrian10}Old Valeria" />
+	  <string id="str_adjective_for_faction.volantine" text="{=ROTvolantine10}Volantis" />
+	  <string id="str_adjective_for_faction.qohorik" text="{=ROTqohorik10}Qohor" />
+	  <string id="str_adjective_for_faction.lorathi" text="{=ROTlorathi10}Lorath" />
+	  <string id="str_adjective_for_faction.pentoshi" text="{=ROTpentoshi10}Pentos" />
+	  <string id="str_adjective_for_faction.myrish" text="{=ROTmyrish10}Myr" />
+	  <string id="str_adjective_for_faction.tyroshi" text="{=ROTtyroshi10}Tyrosh" />
+	  <string id="str_adjective_for_faction.lyseni" text="{=ROTlyseni10}Lys" />
+	  
+	  <!-- "Not much left after the Southern Empire raided the place" -->
+	  <string id="str_short_term_for_faction.khuzait" text="{=rotReikoMod0093}Dothraki" />
+	  <string id="str_short_term_for_faction.aserai" text="{=rotReikoMod0094}Dorne" />
+	  <string id="str_short_term_for_faction.battania" text="{=rotReikoMod0095}North" />
+	  <string id="str_short_term_for_faction.vlandia" text="{=rotReikoMod0096}Westerlands" />
+	  <string id="str_short_term_for_faction.sturgia" text="{=rotReikoMod0097}Ironborn" />
+	  <string id="str_short_term_for_faction.vale" text="{=ROT01997}Vale" />
+	  <string id="str_short_term_for_faction.reach" text="{=ROT01998}Reach" />
+	  <string id="str_short_term_for_faction.ghiscari" text="{=ROT01999}Targaryen" />
+	  <string id="str_short_term_for_faction.freefolk" text="{=ROT02000}Freefolk" />
+	  <string id="str_short_term_for_faction.nightswatch" text="{=ROT02001}Nightswatch" />
+	  <string id="str_short_term_for_faction.river" text="{=ROT02002}Riverlands" />
+	  <string id="str_short_term_for_faction.dragonstone" text="{=ROT02003}Dragonstone" />
+	  <string id="str_short_term_for_faction.stormlands" text="{=ROT02004}Stormlands" />
+	  <string id="str_short_term_for_faction.volantis" text="{=ROT02005}Volantis" />
+	  <string id="str_short_term_for_faction.bolton" text="{=ROT02006}Free Houses" />
+	  <string id="str_short_term_for_faction.crownlands" text="{=ROT02007}Crownlands" />
+	  <string id="str_short_term_for_faction.sarnor" text="{=ROTsarnor11}Sarnor" />
+	  <string id="str_short_term_for_faction.norvos" text="{=ROTnorvos11}Norvos" />
+	  <string id="str_short_term_for_faction.valyrian" text="{=ROTvalyrian11}Old Valeria" />
+	  <string id="str_short_term_for_faction.volantine" text="{=ROTvolantine11}Volantis" />
+	  <string id="str_short_term_for_faction.qohorik" text="{=ROTqohorik11}Qohor" />
+	  <string id="str_short_term_for_faction.lorathi" text="{=ROTlorathi11}Lorath" />
+	  <string id="str_short_term_for_faction.pentoshi" text="{=ROTpentoshi11}Pentos" />
+	  <string id="str_short_term_for_faction.myrish" text="{=ROTmyrish11}Myr" />
+	  <string id="str_short_term_for_faction.tyroshi" text="{=ROTtyroshi11}Tyrosh" />
+	  <string id="str_short_term_for_faction.lyseni" text="{=ROTlyseni11}Lys" />
+	  
+	  
+	  <!-- The formal name for a faction is derived from the culture, as the southern Empire doesn't consider itself the 'southern Empire,' it considers itself the sole legitimate empire -->
+	  <!-- "In the name of the Calradian Empire, I welcome you" -->
+	  <string id="str_faction_formal_name_for_culture.vlandia" text="{=rotReikoMod0098}Westerlands" />
+	  <string id="str_faction_formal_name_for_culture.battania" text="{=rotReikoMod0099}North" />
+	  <string id="str_faction_formal_name_for_culture.khuzait" text="{=rotReikoMod0100}Dothraki Khalasar" />
+	  <string id="str_faction_formal_name_for_culture.sturgia" text="{=rotReikoMod0101}Iron Islands" />
+	  <string id="str_faction_formal_name_for_culture.aserai" text="{=rotReikoMod0102}Dorne" />
+	  <string id="str_faction_formal_name_for_culture.freefolk" text="{=ROT02008}Free Folk" />
+	  <string id="str_faction_formal_name_for_culture.volantis" text="{=ROT02009}Volantis" />
+	  <string id="str_faction_formal_name_for_culture.nightswatch" text="{=ROT02010}Night's Watch" />
+	  <string id="str_faction_formal_name_for_culture.vale" text="{=ROT02011}Vale" />
+	  <string id="str_faction_formal_name_for_culture.river" text="{=ROT02012}Riverlands" />
+	  <string id="str_faction_formal_name_for_culture.dragonstone" text="{=ROT02013}Dragonstone" />
+	  <string id="str_faction_formal_name_for_culture.stormlands" text="{=ROT02014}Stormlands" />
+	  <string id="str_faction_formal_name_for_culture.reach" text="{=ROT02015}Reach" />
+	  <string id="str_faction_formal_name_for_culture.bravos" text="{=ROT02016}Bravos" />
+	  <string id="str_faction_formal_name_for_culture.bolton" text="{=ROT02017}Free Houses" />
+	  <string id="str_faction_formal_name_for_culture.crownlands" text="{=ROT02018}Crownlands" />
+	  <string id="str_faction_formal_name_for_culture.sarnor" text="{=ROTsarnor12}Sarnor" />
+	  <string id="str_faction_formal_name_for_culture.norvos" text="{=ROTnorvos12}Norvos" />
+	  <string id="str_faction_formal_name_for_culture.valyrian" text="{=ROTvalyrian12}Old Valyria" />
+	  <string id="str_faction_formal_name_for_culture.volantine" text="{=ROTvolantine12}Volantis" />
+	  <string id="str_faction_formal_name_for_culture.qohorik" text="{=ROTqohorik12}Qohor" />
+	  <string id="str_faction_formal_name_for_culture.lorathi" text="{=ROTlorathi12}Lorath" />
+	  <string id="str_faction_formal_name_for_culture.pentoshi" text="{=ROTpentoshi12}Pentos" />
+	  <string id="str_faction_formal_name_for_culture.myrish" text="{=ROTmyrish12}Myr" />
+	  <string id="str_faction_formal_name_for_culture.tyroshi" text="{=ROTtyroshi12}Tyrosh" />
+	  <string id="str_faction_formal_name_for_culture.lyseni" text="{=ROTlyseni12}Lys" />
+	  
+	  <!-- I will teach you the ways of the Empire -->
+	  <!-- I don't care for the imperials and their big, decadent cities -->
+	  <string id="str_neutral_term_for_culture.khuzait" text="{=rotReikoMod0103}Dothraki" />
+	  <string id="str_neutral_term_for_culture.aserai" text="{=rotReikoMod0104}Dorne" />
+	  <string id="str_neutral_term_for_culture.battania" text="{=rotReikoMod0105}North" />
+	  <string id="str_neutral_term_for_culture.vlandia" text="{=rotReikoMod0106}Westerlands" />
+	  <string id="str_neutral_term_for_culture.sturgia" text="{=rotReikoMod0107}Ironborn" />
+	  <string id="str_neutral_term_for_culture.empire" text="{=rotReikoMod0108}Essos" />
+	  <string id="str_neutral_term_for_culture.freefolk" text="{=ROT02019}Wildlings" />
+	  <string id="str_neutral_term_for_culture.nightswatch" text="{=ROT02020}Night's Watch" />
+	  <string id="str_neutral_term_for_culture.vale" text="{=ROT02021}Vale" />
+	  <string id="str_neutral_term_for_culture.river" text="{=ROT02022}Riverlands" />
+	  <string id="str_neutral_term_for_culture.dragonstone" text="{=ROT02023}Dragonstone" />
+	  <string id="str_neutral_term_for_culture.stormlands" text="{=ROT02024}Stormlands" />
+	  <string id="str_neutral_term_for_culture.reach" text="{=ROT02025}Reach" />
+	  <string id="str_neutral_term_for_culture.bolton" text="{=ROT02026}Free Houses" />
+	  <string id="str_neutral_term_for_culture.crownlands" text="{=ROT02027}Crownlands" />
+	  <string id="str_neutral_term_for_culture.sarnor" text="{=ROTsarnor13}Sarnor" />
+	  <string id="str_neutral_term_for_culture.norvos" text="{=ROTnorvos13}Norvos" />
+	  <string id="str_neutral_term_for_culture.valyrian" text="{=ROTvalyrian13}Old Valyria" />
+	  <string id="str_neutral_term_for_culture.volantine" text="{=ROTvolantine13}Volantis" />
+	  <string id="str_neutral_term_for_culture.qohorik" text="{=ROTqohorik13}Qohor" />
+	  <string id="str_neutral_term_for_culture.lorathi" text="{=ROTlorathi13}Lorath" />
+	  <string id="str_neutral_term_for_culture.pentoshi" text="{=ROTpentoshi13}Pentos" />
+	  <string id="str_neutral_term_for_culture.myrish" text="{=ROTmyrish13}Myr" />
+	  <string id="str_neutral_term_for_culture.tyroshi" text="{=ROTtyroshi13}Tyrosh" />
+	  <string id="str_neutral_term_for_culture.lyseni" text="{=ROTlyseni13}Lys" />
+
+	  <string id="str_faction_informal_name_for_culture.freefolk" text="{=ROT02028}Freefolk" />
+	  <string id="str_faction_informal_name_for_culture.nightswatch" text="{=ROT02029}Night's Watch" />
+	  <string id="str_faction_informal_name_for_culture.bolton" text="{=ROT02030}Free Houses" />
+	  <string id="str_faction_informal_name_for_culture.vale" text="{=ROT02031}Vale" />
+	  <string id="str_faction_informal_name_for_culture.river" text="{=ROT02032}Riverlands" />
+	  <string id="str_faction_informal_name_for_culture.dragonstone" text="{=ROT02033}Dragonstone" />
+	  <string id="str_faction_informal_name_for_culture.stormlands" text="{=ROT02034}Stormlands" />
+	  <string id="str_faction_informal_name_for_culture.reach" text="{=ROT02035}Reach" />
+	  <string id="str_faction_informal_name_for_culture.ghiscari" text="{=ROT02036}Ghiscari" />
+	  <string id="str_faction_informal_name_for_culture.crownlands" text="{=ROT02037}Crownlands" />
+	  <string id="str_faction_informal_name_for_culture.sarnor" text="{=ROTsarnor14}Sarnor" />
+	  <string id="str_faction_informal_name_for_culture.norvos" text="{=ROTnorvos14}Norvos" />
+	  <string id="str_faction_informal_name_for_culture.valyrian" text="{=ROTvalyrian14}Old Valyria" />
+	  <string id="str_faction_informal_name_for_culture.volantine" text="{=ROTvolantine14}Volantis" />
+	  <string id="str_faction_informal_name_for_culture.qohorik" text="{=ROTqohorik14}Qohor" />
+	  <string id="str_faction_informal_name_for_culture.lorathi" text="{=ROTlorathi14}Lorath" />
+	  <string id="str_faction_informal_name_for_culture.pentoshi" text="{=ROTpentoshi14}Pentos" />
+	  <string id="str_faction_informal_name_for_culture.myrish" text="{=ROTpentoshi14}Myr" />
+	  <string id="str_faction_informal_name_for_culture.tyroshi" text="{=ROTtyroshi14}Tyrosh" />
+	  <string id="str_faction_informal_name_for_culture.lyseni" text="{=ROTlyseni14}Lys" />
+
+	  <string id="str_adjective_for_culture.freefolk" text="{=ROT02038}Wildling" />
+	  <string id="str_adjective_for_culture.nightswatch" text="{=ROT02039}Night's Watch" />
+	  <string id="str_adjective_for_culture.bolton" text="{=ROT02040}Free Houses" />
+	  <string id="str_adjective_for_culture.vale" text="{=ROT02041}Valemen" />
+	  <string id="str_adjective_for_culture.river" text="{=ROT02042}Rivermen" />
+	  <string id="str_adjective_for_culture.dragonstone" text="{=ROT02043}Dragonstone" />
+	  <string id="str_adjective_for_culture.stormlands" text="{=ROT02044}Stormlander" />
+	  <string id="str_adjective_for_culture.reach" text="{=ROT02045}Reachmen" />
+	  <string id="str_adjective_for_culture.ghiscari" text="{=ROT02046}Ghiscari" />
+	  <string id="str_adjective_for_culture.crownlands" text="{=ROT02047}Crownlander" />
+	  <string id="str_adjective_for_culture.sarnor" text="{=ROTsarnor15}Sarnori" />
+	  <string id="str_adjective_for_culture.norvos" text="{=ROTnorvos15}Norvoshi" />
+	  <string id="str_adjective_for_culture.valyrian" text="{=ROTnorvos15}Valyrian" />
+	  <string id="str_adjective_for_culture.volantine" text="{=ROTnorvos15}Volantene" />
+	  <string id="str_adjective_for_culture.qohorik" text="{=ROTnorvos15}Qohorik" />
+	  <string id="str_adjective_for_culture.lorathi" text="{=ROTlorathi15}Lorathi" />
+	  <string id="str_adjective_for_culture.pentoshi" text="{=ROTpentoshi15}Pentoshi" />
+	  <string id="str_adjective_for_culture.myrish" text="{=ROTmyrish15}Myrish" />
+	  <string id="str_adjective_for_culture.tyroshi" text="{=ROTtyroshi15}Tyroshi" />
+	  <string id="str_adjective_for_culture.lyseni" text="{=ROTlyseni15}Lyseni" />
+
+	  <string id="backstory_a.ROTwanderer1" text="{=ROTwandTalk0001}I'm surprised you don't recognized the infamous Kingslayer. I'm Ser Jaime of House Lannister."/>
+	  <string id="prebackstory.ROTwanderer1" text="{=ROTwandTalk0002}Oh, why, of course."/>
+	  <string id="backstory_b.ROTwanderer1" text="{=ROTwandTalk0003}I put my sword in the back of the king I was sworn to protect, thus earning the title."/>
+	  <string id="backstory_c.ROTwanderer1" text="{=ROTwandTalk0004}Although I am an oath breaker and murderer, not to mention my other atrocities, stabbing the Mad King was probably the most selfless act I ever committed. He would have set ablaze the entire realm."/>
+	  <string id="response_1.ROTwanderer1" text="{=ROTwandTalk0005}I'm not judging you, we all have a past."/>
+	  <string id="response_2.ROTwanderer1" text="{=ROTwandTalk0006}The Lion of Lannister, oh how the mighty have fallen."/>
+	  <string id="backstory_d.ROTwanderer1" text="{=ROTwandTalk0007}My father only cares about his legacy and my sister is screwing the whole kingsguard. I've had enough the games they play in King's Landing. From this day forth, I'm just Jaime."/>
+	  <string id="prebackstory.ROTwanderer2" text="{=ROTwandTalk0008}Oh, so you don't know who I am? I knew who you were. My little birds tell me everything."/>
+	  <string id="backstory_a.ROTwanderer2" text="{=ROTwandTalk0009}I am none other than the Master of Whisperers my dear sir, nothing escapes my ears that happens in the realm."/>
+	  <string id="backstory_d.ROTwanderer2" text="{=ROTwandTalk0010}Even a company of valiant heroes such as yourself and your comrades could use what I provide. It may just halt the arrow coming from the rear, or even from within."/>
+	  <string id="backstory_b.ROTwanderer2" text="{=ROTwandTalk0011}Although I lack physical prowess, my skills are of a different sort."/>
+	  <string id="backstory_c.ROTwanderer2" text="{=ROTwandTalk0012}But yet spiders do bite and their venom can take down even a beast of a man."/>
+	  <string id="response_1.ROTwanderer2" text="{=ROTwandTalk0013}Even for my band of warriors, you may still prove useful."/>
+	  <string id="response_2.ROTwanderer2" text="{=ROTwandTalk0014}Spin your web elsewhere, word games matter little with arrows flying at your head."/>
+	  <string id="prebackstory.ROTwanderer3" text="{=ROTwandTalk0015}This better be good, or your chicken is mine. Sandor Clegane it is."/>
+	  <string id="backstory_a.ROTwanderer3" text="{=ROTwandTalk0016}I a killer just like all the men you see here."/>
+	  <string id="backstory_b.ROTwanderer3" text="{=ROTwandTalk0017}And don't pretend you don't enjoy it."/>
+	  <string id="backstory_c.ROTwanderer3" text="{=ROTwandTalk0018}There nothing sweeter than seeing a prick gasp for his last breath of air."/>
+	  <string id="response_1.ROTwanderer3" text="{=ROTwandTalk0019}A fellow with your size and attitude that is still alive must be a beast on the battlefield."/>
+	  <string id="response_2.ROTwanderer3" text="{=ROTwandTalk0020}What the hell is your problem?"/>
+	  <string id="backstory_d.ROTwanderer3" text="{=ROTwandTalk0021}I will slice a man from nave to chop and not loose a wink of sleep. Just don't get in my way when I find my dear brother."/>
+	  <string id="prebackstory.ROTwanderer4" text="{=ROTwandTalk0022}Only if you have a full coin purse."/>
+	  <string id="backstory_b.ROTwanderer4" text="{=ROTwandTalk0023}I sell my sword, really my only talent other than sticking my nose two inches deep in that one over there."/>
+	  <string id="backstory_a.ROTwanderer4" text="{=ROTwandTalk0024}The name's Bronn, although now I am an annointed knight, I may still be your man if the price is right."/>
+	  <string id="backstory_c.ROTwanderer4" text="{=ROTwandTalk0025}So if you don't mind, I'm about to go smell the roses."/>
+	  <string id="response_1.ROTwanderer4" text="{=ROTwandTalk0026}I feel you, who do you recommend?"/>
+	  <string id="response_2.ROTwanderer4" text="{=ROTwandTalk0027}Come on man, I thought you wanted to talk business."/>
+	  <string id="backstory_d.ROTwanderer4" text="{=ROTwandTalk0028}Hire me, job done, no questions asked, except one, how much?"/>
+	  <string id="prebackstory.ROTwanderer5" text="{=ROTwandTalk0029}Hello sir, don't mind me, just passing through on my way to Castle Black."/>
+	  <string id="backstory_a.ROTwanderer5" text="{=ROTwandTalk0030}I was once the heir of House Tarly, but my father banished me and deemed me unworthy."/>
+	  <string id="backstory_b.ROTwanderer5" text="{=ROTwandTalk0031}Perhaps he's right, maybe I deserve it. I was never the valiant warrior he wanted me to be."/>
+	  <string id="backstory_c.ROTwanderer5" text="{=ROTwandTalk0032}I'm just a pudgy, coward of a man, with my nose stuck in books instead of what a true lordly youth should do."/>
+	  <string id="response_1.ROTwanderer5" text="{=ROTwandTalk0033}Don't be so hard on yourself. A father like that is no father at all."/>
+	  <string id="response_2.ROTwanderer5" text="{=ROTwandTalk0034}In this grim land, cowards are easy prey."/>
+	  <string id="backstory_d.ROTwanderer5" text="{=ROTwandTalk0035}Can I follow your caravan? You won't even know I'm there.I've learned a few things about stymying infection from all the books Ive read. "/>
+	  <string id="prebackstory.ROTwanderer6" text="{=ROTwandTalk0036}I'm Podrick Payne."/>
+	  <string id="backstory_a.ROTwanderer6" text="{=ROTwandTalk0037}Don't judge be by my house. My cousin, the King's Justice scares me too."/>
+	  <string id="backstory_b.ROTwanderer6" text="{=ROTwandTalk0038}I'm not much of a warrior yet, but I did slay a Kingsguard on the battlefield."/>
+	  <string id="backstory_c.ROTwanderer6" text="{=ROTwandTalk0039}I can cook, clean and help you with your armor."/>
+	  <string id="response_2.ROTwanderer6" text="{=ROTwandTalk0040}I already got a wife."/>
+	  <string id="backstory_d.ROTwanderer6" text="{=ROTwandTalk0041}You want regret having me around. I'll make sure of that."/>
+	  <string id="response_1.ROTwanderer6" text="{=ROTwandTalk0042}You got to start somewhere."/>
+	  <string id="prebackstory.ROTwanderer7" text="{=ROTwandTalk0043}Just a smith's apprentice from Flea Bottom."/>
+	  <string id="backstory_a.ROTwanderer7" text="{=ROTwandTalk0044}The name's Gendry. Don't know if I'm a Hill, Rivers or Storm, but a bastard without a doubt."/>
+	  <string id="backstory_d.ROTwanderer7" text="{=ROTwandTalk0045}Every warband needs someone to knock out dents and sharpen swords if my smith's hammer is more of use to ya."/>
+	  <string id="response_2.ROTwanderer7" text="{=ROTwandTalk0046}Anybody would want to get out this shit hole and say whatever to do it."/>
+	  <string id="response_1.ROTwanderer7" text="{=ROTwandTalk0047}No doubt you would pulverize something."/>
+	  <string id="backstory_c.ROTwanderer7" text="{=ROTwandTalk0048}I got the strength and endurance of an ox from pounding steel from dawn til dusk."/>
+	  <string id="backstory_b.ROTwanderer7" text="{=ROTwandTalk0049}I haven't ever touched a battlefield, but put a war hammer in my hands and see what happens."/>
+	  <string id="prebackstory.ROTwanderer8" text="{=ROTwandTalk0050}Why the googly eyes? You never saw a dwarve before."/>
+	  <string id="backstory_a.ROTwanderer8" text="{=ROTwandTalk0051}I'm Tyrion of House Lannister."/>
+	  <string id="backstory_b.ROTwanderer8" text="{=ROTwandTalk0052}I saved all of King's Landing at the Battle of the Blackwater and what thanks did I get, a demotion and a hole where my nose used to be."/>
+	  <string id="backstory_c.ROTwanderer8" text="{=ROTwandTalk0053}I drink and know more than ever these days. Slurp!."/>
+	  <string id="response_1.ROTwanderer8" text="{=ROTwandTalk0054}I do need some new armor, can you shit me out a few golden dragons."/>
+	  <string id="response_2.ROTwanderer8" text="{=ROTwandTalk0055}What need do I have for an imp to guzzle all my ale."/>
+	  <string id="backstory_d.ROTwanderer8" text="{=ROTwandTalk0056}You seem to be a clever guy, you'll figure it out.Now if you would excuse me."/>
+	  <string id="backstory_a.ROTwanderer9" text="{=ROTwandTalk0057}My father is Selwyn if Evenfall Hall."/>
+	  <string id="prebackstory.ROTwanderer9" text="{=ROTwandTalk0058}I'm Brienne of House Tarth."/>
+	  <string id="backstory_b.ROTwanderer9" text="{=ROTwandTalk0059}Honor, duty and loyalty are of upmost importance of knighthood. "/>
+	  <string id="backstory_c.ROTwanderer9" text="{=ROTwandTalk0060}Although I'm not a knight, I live by this creed regardless."/>
+	  <string id="response_2.ROTwanderer9" text="{=ROTwandTalk0061}What a beast of a woman you are!"/>
+	  <string id="response_1.ROTwanderer9" text="{=ROTwandTalk0062}People like you are hard to find, I applaud you."/>
+	  <string id="backstory_d.ROTwanderer9" text="{=ROTwandTalk0063}If you will have me, my sword is yours till my dying breathe."/>
+	  <string id="prebackstory.ROTwanderer10" text="{=ROTwandTalk0064}A man has no name."/>
+	  <string id="backstory_a.ROTwanderer10" text="{=ROTwandTalk0065}For your purposes, you may call me Jaquin Hagar. "/>
+	  <string id="backstory_d.ROTwanderer10" text="{=ROTwandTalk0066}A man's path was not random, this encounter guided by the Many-faced god."/>
+	  <string id="backstory_c.ROTwanderer10" text="{=ROTwandTalk0067}In service to the Many-faced god."/>
+	  <string id="backstory_b.ROTwanderer10" text="{=ROTwandTalk0068}To be be unseen but yet seen a man must do."/>
+	  <string id="response_1.ROTwanderer10" text="{=ROTwandTalk0069}Mysterious, I need to here more."/>
+	  <string id="response_2.ROTwanderer10" text="{=ROTwandTalk0070}You're a wierd fellow."/>
+	  <string id="prebackstory.ROTwanderer11" text="{=ROTwandTalk0071}My name is Mya Stone."/>
+	  <string id="backstory_a.ROTwanderer11" text="{=ROTwandTalk0072}I'm a simple girl."/>
+	  <string id="backstory_b.ROTwanderer11" text="{=ROTwandTalk0073}I once led travelers to and from the Eyrie."/>
+	  <string id="backstory_c.ROTwanderer11" text="{=ROTwandTalk0074}Through the highest and most trecherous mountains in all of Westeros with nothing but my donkey."/>
+	  <string id="response_1.ROTwanderer11" text="{=ROTwandTalk0075}A girl with good pathfinding skills should be helpful."/>
+	  <string id="backstory_d.ROTwanderer11" text="{=ROTwandTalk0076}I could be your scout or perhaps lead a caravan. I would love see the world with you."/>
+	  <string id="response_2.ROTwanderer11" text="{=ROTwandTalk0077}This world will swallow a country girl like you alive."/>
+	  <string id="prebackstory.ROTwanderer12" text="{=ROTwandTalk0078}I am Qyburn."/>
+	  <string id="backstory_a.ROTwanderer12" text="{=ROTwandTalk0079}I'm trained in the arts of medicine."/>
+	  <string id="backstory_b.ROTwanderer12" text="{=ROTwandTalk0080}But lost my chains for exploring my medical curiosity in a, shall I say, unorthodox way."/>
+	  <string id="backstory_c.ROTwanderer12" text="{=ROTwandTalk0081}My skills still remain though. The ability to cure diseases, prolong life and of course, other things you may find useful."/>
+	  <string id="response_1.ROTwanderer12" text="{=ROTwandTalk0082}Keep my soldiers from dying and you are a friend of mine."/>
+	  <string id="response_2.ROTwanderer12" text="{=ROTwandTalk0083}I shudder to think of atrocities you must have committed."/>
+	  <string id="backstory_d.ROTwanderer12" text="{=ROTwandTalk0084}Keeping your men alive and untapping their complete potential, by whatever means necessary, is my utmost goal, dear sir."/>
+	  <string id="prebackstory.ROTwanderer13" text="{=ROTwandTalk0085}I am Syrio Forel."/>
+	  <string id="backstory_a.ROTwanderer13" text="{=ROTwandTalk0086}I was once the First Sword of Bravos."/>
+	  <string id="backstory_b.ROTwanderer13" text="{=ROTwandTalk0087}From where I'm from, true swordsmanship is an art form. Not just hacking away as you do here."/>
+	  <string id="backstory_c.ROTwanderer13" text="{=ROTwandTalk0088}A duel is not a test of wills but a water dance."/>
+	  <string id="response_1.ROTwanderer13" text="{=ROTwandTalk0089}I need swords, no matter if the one you use is pencil thin."/>
+	  <string id="response_2.ROTwanderer13" text="{=ROTwandTalk0090}There is no where to dance when you're surrounded or backed into a corner."/>
+	  <string id="backstory_d.ROTwanderer13" text="{=ROTwandTalk0091}The First Sword of Bravos faced worse odds and yet he lives."/>
+	  <string id="backstory_a.ROTwanderer14" text="{=ROTwandTalk0092}Hodor!"/>
+	  <string id="prebackstory.ROTwanderer14" text="{=ROTwandTalk0093}Hodor."/>
+	  <string id="backstory_b.ROTwanderer14" text="{=ROTwandTalk0094}Hodor?"/>
+	  <string id="backstory_c.ROTwanderer14" text="{=ROTwandTalk0095}Hodor??"/>
+	  <string id="response_2.ROTwanderer14" text="{=ROTwandTalk0096}Freaken dimwit."/>
+	  <string id="response_1.ROTwanderer14" text="{=ROTwandTalk0097}Damn, you got to have giant's blood."/>
+	  <string id="backstory_d.ROTwanderer14" text="{=ROTwandTalk0098}Hodor!!"/>
+
+	  <string id="prebackstory.ROTwanderer15" text="{=ROTwandTalk0099}You dare approach a Dothraki Blood rider!"/>
+	  <string id="backstory_a.ROTwanderer15" text="{=ROTwandTalk0100}What do you want ifak? Unless your paying for my time, I won't be interested. "/>
+	  <string id="backstory_b.ROTwanderer15" text="{=ROTwandTalk0101}My name is Rago, I was a Bloodrider for a Khal from the east. Protected his back, gave him counsel, even shared his Khaleesi. Life was grand."/>
+	  <string id="backstory_c.ROTwanderer15" text="{=ROTwandTalk0102}After some time, my Khal thought he was much stonger than he was. The chiftik thought he could challenge the great Khal Drogo. Suffice to say, Drogo's hair has never been cut. I had warned my Khal many times he could not win. He refused to listen. Afterwards I brought his Khaleesi to Vaes Dothrak. "/>
+	  <string id="response_2.ROTwanderer15" text="{=ROTwandTalk0103}Then what are you doing here sulking and drinking?"/>
+	  <string id="response_1.ROTwanderer15" text="{=ROTwandTalk0104}Atleast you gave him that honor."/>
+	  <string id="backstory_d.ROTwanderer15" text="{=ROTwandTalk0105}Now I travel the world, so that one day I may avenge my fallen Khal and go to the night lands with honor."/>
+
+	  <string id="prebackstory.ROTwanderer16" text="{=ROTwandTalk0106}I am Xaro Xhoan Daxos"/>
+	  <string id="backstory_a.ROTwanderer16" text="{=ROTwandTalk0107}I was once one of the richest men in Qarth."/>
+	  <string id="backstory_b.ROTwanderer16" text="{=ROTwandTalk0108}The mother of dragons refused my advice, destroyed our city's great trading economy"/>
+	  <string id="backstory_c.ROTwanderer16" text="{=ROTwandTalk0109}I left a blood stained glove on her pillow and now sail for home."/>
+	  <string id="response_2.ROTwanderer16" text="{=ROTwandTalk0110}Are you mad!? You started a war with the mother of dragons?"/>
+	  <string id="response_1.ROTwanderer16" text="{=ROTwandTalk0111}The richest man in Quarth, perhaps your future is still bright."/>
+	  <string id="backstory_d.ROTwanderer16" text="{=ROTwandTalk0112}Let me ask do you think the path from poverty to wealth is always pure and honorable? No? Then you and I could forge our own path together."/>
+
+	  <string id="prebackstory.ROTwanderer17" text="{=ROTwandTalk0113}I am Kinvara, a priestess of the lord of light"/>
+	  <string id="backstory_a.ROTwanderer17" text="{=ROTwandTalk0114}Everyone is what they are and where they are for a reason. Terrible things happen for a reason."/>
+	  <string id="backstory_b.ROTwanderer17" text="{=ROTwandTalk0115}Daenerys Stormborn is the one who was promised. From the fire she was reborn to remake the world... She has freed the slaves from their chains and crucified the Masters for their sins..."/>
+	  <string id="backstory_c.ROTwanderer17" text="{=ROTwandTalk0116}Her dragons are fire made flesh, a gift from the Lord of Light.... Daenerys has been sent to lead the people against the darkness in this war and in the great war still to come"/>
+	  <string id="response_2.ROTwanderer17" text="{=ROTwandTalk0117}You're no different than any other priestess. Insane, and following a dream."/>
+	  <string id="response_1.ROTwanderer17" text="{=ROTwandTalk0118}I have heard of the prestigous ways of the priests of light."/>
+	  <string id="backstory_d.ROTwanderer17" text="{=ROTwandTalk0119}I will spread the word of the lord of light, no matter what you believe."/>
+
+	  <string id="prebackstory.ROTwanderer18" text="{=ROTwandTalk0120}I am Osha of the Freefolk"/>
+	  <string id="backstory_a.ROTwanderer18" text="{=ROTwandTalk0121}I am a spearwife. A woman warrior from the beyond the wall."/>
+	  <string id="backstory_b.ROTwanderer18" text="{=ROTwandTalk0122}After being freed from my bonds of slavery to the north. I have been searching for my place in the world"/>
+	  <string id="backstory_c.ROTwanderer18" text="{=ROTwandTalk0123}Winter is coming, and we must prepare all that we can."/>
+	  <string id="response_2.ROTwanderer18" text="{=ROTwandTalk0124}You're a wildling? We would never trust the likes of you."/>
+	  <string id="response_1.ROTwanderer18" text="{=ROTwandTalk0125}Come Spearwife! Let's prepare them together!"/>
+	  <string id="backstory_d.ROTwanderer18" text="{=ROTwandTalk0126}True freedom, is only know to us wildlings."/>
+
+	  <string id="prebackstory.ROTwanderer19" text="{=ROTwandTalk0127}I am Shagga of the Stone crows!"/>
+	  <string id="backstory_a.ROTwanderer19" text="{=ROTwandTalk0128}A stone crows axe is always sharp. Shagga's axes are sharpest of all! "/>
+	  <string id="backstory_b.ROTwanderer19" text="{=ROTwandTalk0129}Shagga once cut a mans head off so fast, he didn't even know til he went to brush his hair!"/>
+	  <string id="backstory_c.ROTwanderer19" text="{=ROTwandTalk0130}Shagga works for anyone for the right price."/>
+	  <string id="response_2.ROTwanderer19" text="{=ROTwandTalk0131}Shagga is a monster, who should be put down"/>
+	  <string id="response_1.ROTwanderer19" text="{=ROTwandTalk0132}Ah! Shagga I have heard of your people, join me and we will spill lots of blood together!"/>
+	  <string id="backstory_d.ROTwanderer19" text="{=ROTwandTalk0133}Careful, or Shagga remove your manhood and feed it to the goats!"/>
+
+	  <string id="prebackstory.ROTwanderer20" text="{=ROTwandTalk0134}Theon Greyjoy is the name."/>
+	  <string id="backstory_a.ROTwanderer20" text="{=ROTwandTalk0135}Let me ask you do You Know What It's Like To Be Told How Lucky You Are To Be Someone's Prisoner?"/>
+	  <string id="backstory_b.ROTwanderer20" text="{=ROTwandTalk0136}I was a prisoner of the starks for a long time. After Eddards death, I left to make my own way."/>
+	  <string id="backstory_c.ROTwanderer20" text="{=ROTwandTalk0137}Now I wish to prove myself worthy to stand on my own, without the Starks, without my father."/>
+	  <string id="response_2.ROTwanderer20" text="{=ROTwandTalk0138}You're nothing more than a common pirate, with even less honor."/>
+	  <string id="response_1.ROTwanderer20" text="{=ROTwandTalk0139}Follow me into battle, and your name will be remembered."/>
+	  <string id="backstory_d.ROTwanderer20" text="{=ROTwandTalk0140}My Sword Is Yours, In Victory And Defeat, From This Day Until My Last Day."/>
+
+	  <string id="prebackstory.ROTwanderer21" text="{=ROTwandTalk0141}Myranda, from the Dreadfort."/>
+	  <string id="backstory_a.ROTwanderer21" text="{=ROTwandTalk0142}I have a great set of skills, from tending dogs, to warming your bed."/>
+	  <string id="backstory_b.ROTwanderer21" text="{=ROTwandTalk0143}After my lover showed he was more interested in others, I split my own way."/>
+	  <string id="backstory_c.ROTwanderer21" text="{=ROTwandTalk0144}My Father was a kennelmaster at the dreadfort. Mmm. Have you ever seen a body after the dogs have been at it? Not so pretty."/>
+	  <string id="response_2.ROTwanderer21" text="{=ROTwandTalk0145}I can't imagine having you by my side."/>
+	  <string id="response_1.ROTwanderer21" text="{=ROTwandTalk0146}Come, even if you don't warm my bed, there is plenty of others in my party who need that."/>
+	  <string id="backstory_d.ROTwanderer21" text="{=ROTwandTalk0147}*She chuckles* This is going to be so much fun!"/>
+
+	  <string id="prebackstory.ROTwanderer22" text="{=ROTwandTalk0148}Hizdahr zo Loraq"/>
+	  <string id="backstory_a.ROTwanderer22" text="{=ROTwandTalk0149}After my fathers crucification in Mareen, I set out to find allies to help restore the city to it's past glory"/>
+	  <string id="backstory_b.ROTwanderer22" text="{=ROTwandTalk0150}What is done is done. I am a servant of Meereen; a servant who does not wish to see its traditions eradicated."/>
+	  <string id="backstory_c.ROTwanderer22" text="{=ROTwandTalk0151}Perhaps you would help restore my great city?"/>
+	  <string id="response_2.ROTwanderer22" text="{=ROTwandTalk0152}Slavery is not something I would support in my vision of the world."/>
+	  <string id="response_1.ROTwanderer22" text="{=ROTwandTalk0153}Maybe you could help guide my hand to learn the customs of Mareen?"/>
+	  <string id="backstory_d.ROTwanderer22" text="{=ROTwandTalk0154}Then let us build it together."/>
+
+
+	  <string id="backstory_a.ROTwanderer23" text="{=ROTwandTalk0155}They call me Locke."/>
+	  <string id="prebackstory.ROTwanderer23" text="{=ROTwandTalk0156}All those lords and ladies, still think that the only thing that matters is gold. "/>
+	  <string id="backstory_a.ROTwanderer23" text="{=ROTwandTalk0157}You can imagine Jaime's Lannisters amazement when I chopped off his hand."/>
+	  <string id="backstory_b.ROTwanderer23" text="{=ROTwandTalk0158}That his gold couldn't save him. His noble name couldn't save him."/>
+	  <string id="backstory_c.ROTwanderer23" text="{=ROTwandTalk0159}I am one of the best hunters of the north. I have served the Boltons, and for the right reason I may serve you."/>
+	  <string id="response_2.ROTwanderer23" text="{=ROTwandTalk0160}I have no use for a cut throat like yourself."/>
+	  <string id="response_1.ROTwanderer23" text="{=ROTwandTalk0161}You and I could see the rise of a new empire, where all the nobles of westeros must bend the knee to common men."/>
+	  <string id="backstory_d.ROTwanderer23" text="{=ROTwandTalk0162}Sounds like a dream I would sign up for."/>
+
+	  <string id="prebackstory.ROTwanderer24" text="{=ROTwandTalk0163}I am Maester Cressen."/>
+	  <string id="backstory_a.ROTwanderer24" text="{=ROTwandTalk0164}I served Stannis Baratheon for many years, advising in science and medicine."/>
+	  <string id="backstory_b.ROTwanderer24" text="{=ROTwandTalk0165}He turned away from the light of the seven. Listening to the guidance of a red witch."/>
+	  <string id="backstory_c.ROTwanderer24" text="{=ROTwandTalk0166}Now I look to find myself in a new station, where my advice is wanted."/>
+	  <string id="response_2.ROTwanderer24" text="{=ROTwandTalk0167}What use do I have for an old man?"/>
+	  <string id="response_1.ROTwanderer24" text="{=ROTwandTalk0168}Medicine and Science, who couldn't use an advisor of your stature?"/>
+	  <string id="backstory_d.ROTwanderer24" text="{=ROTwandTalk0169}My Gratitude for appreciating my wisdom my lord."/>
+
+	  <string id="prebackstory.ROTwanderer25" text="{=ROTwandTalk0170}They call me Jacelyn Ironhand."/>
+	  <string id="backstory_a.ROTwanderer25" text="{=ROTwandTalk0171}I was knighted by the late Robert Baratheon for my valor at the siege of Pyke"/>
+	  <string id="backstory_b.ROTwanderer25" text="{=ROTwandTalk0172}I've protected queens, kings, and all sorts of noble men."/>
+	  <string id="backstory_c.ROTwanderer25" text="{=ROTwandTalk0173}Now, I sit here wasting, drinking this ale."/>
+	  <string id="response_2.ROTwanderer25" text="{=ROTwandTalk0174}I don't need a cripple."/>
+	  <string id="response_1.ROTwanderer25" text="{=ROTwandTalk0175}A knight shouldn't be wasting away in this crappy tavern. Can you still fight?"/>
+	  <string id="backstory_d.ROTwanderer25" text="{=ROTwandTalk0176}I would protect you at all costs, honor means all to a man of my stature."/>
+
+	  <string id="prebackstory.ROTwanderer26" text="{=ROTwandTalk0177}I am Quentyn Martell"/>
+	  <string id="backstory_a.ROTwanderer26" text="{=ROTwandTalk0178}I spent my younger days fostered by the Yronwoods to settle a blood debt."/>
+	  <string id="backstory_b.ROTwanderer26" text="{=ROTwandTalk0179}I was once promised the throne of Dorne, fate changed the plans though. Now I must obtain glory."/>
+	  <string id="backstory_c.ROTwanderer26" text="{=ROTwandTalk0180}The hero sets out with his friends and companions, faces dangers, comes home triumphant. Only some of his companions don't return at all. The hero never dies, though. I must be the hero"/>
+	  <string id="response_2.ROTwanderer26" text="{=ROTwandTalk0181}This hero has no need for a Martell."/>
+	  <string id="response_1.ROTwanderer26" text="{=ROTwandTalk0182}Come join us then, there will be plenty of glory to be had."/>
+	  <string id="backstory_d.ROTwanderer26" text="{=ROTwandTalk0183}This will be my grand adventure!"/>
+
+	  <string id="prebackstory.ROTwanderer27" text="{=ROTwandTalk0184}They call me Little Finger."/>
+	  <string id="backstory_a.ROTwanderer27" text="{=ROTwandTalk0185}Chaos isn’t a pit. Chaos is a ladder. Many who try to climb it fail, and never get to try again."/>
+	  <string id="backstory_b.ROTwanderer27" text="{=ROTwandTalk0186}The fall breaks them. And some are given a chance to climb, but refuse. They cling to the realm, or the gods, or love... illusions."/>
+	  <string id="backstory_c.ROTwanderer27" text="{=ROTwandTalk0187}Only the ladder is real. The climb is all there is"/>
+	  <string id="response_2.ROTwanderer27" text="{=ROTwandTalk0188}Climb your way back to the gutter and leave me be."/>
+	  <string id="response_1.ROTwanderer27" text="{=ROTwandTalk0189}Perhaps we will climb that ladder together Little Finger? Riches and nobility all lie in my destiny."/>
+	  <string id="backstory_d.ROTwanderer27" text="{=ROTwandTalk0190}Then we shall climb to the sun."/>
+
+
+	  <string id="prebackstory.ROTwanderer28" text="{=ROTwandTalk0191}I am Yoren a wandering crow."/>
+	  <string id="backstory_a.ROTwanderer28" text="{=ROTwandTalk0192}one day, Willem came riding back into town. And I buried an axe so deep into Willem’s skull they had to bury him with it. Willem’s horse got me to the Wall and I’ve been wearing black ever since."/>
+	  <string id="backstory_b.ROTwanderer28" text="{=ROTwandTalk0193}I am on a quest to recruit more men to the night's watch.  "/>
+	  <string id="backstory_c.ROTwanderer28" text="{=ROTwandTalk0194}Maybe you wish to bring honor to your name? Take the black?"/>
+	  <string id="response_2.ROTwanderer28" text="{=ROTwandTalk0195}What in the gods makes you think I would take the black?"/>
+	  <string id="response_1.ROTwanderer28" text="{=ROTwandTalk0196}Join my cause, and I will make it my mission to provide you with fresh men to defend the wall."/>
+	  <string id="backstory_d.ROTwanderer28" text="{=ROTwandTalk0197}As long as I can try to acquire more men to defend the wall, and a belly full of food. I'll protect your back."/>
+
+	  <string id="prebackstory.ROTwanderer29" text="{=ROTwandTalk0198}A word? I know lots of words. Tell me which your highness wants to hear, and Nimble Dick will say it.."/>
+	  <string id="backstory_a.ROTwanderer29" text="{=ROTwandTalk0199}I like to see a king dance, hey-nonny hey-nonny hey-nonny ho..You ever hear of Ser Clarence Crabb?"/>
+	  <string id="backstory_b.ROTwanderer29" text="{=ROTwandTalk0200}Ser Clarence Crabb, I said. I got his blood in me. He was eight feet tall and so strong he could uproot pine trees and chuck them half a mile. No horse could bear his weight so he rode an aurochs. His wife was a woods witch. "/>
+	  <string id="backstory_c.ROTwanderer29" text="{=ROTwandTalk0201}Whenever Ser Clarence killed a man, he'd fetch his head back home and his wife would kiss it on the lips and bring it back t' life. Lords, they were, and wizards and famous knights and pirates. One was king o' Duskendale. They gave old Crabb good counsel. Being they was just heads, they couldn't talk real loud, but they never shut up neither. When you're a head, talking's all you got to pass the day. So Crabb's keep got named the Whispers."/>
+	  <string id="response_2.ROTwanderer29" text="{=ROTwandTalk0202}You're an absolute nutter."/>
+	  <string id="response_1.ROTwanderer29" text="{=ROTwandTalk0203}You know what! You're the kind of Dick I could use in my party! Let's go! "/>
+	  <string id="backstory_d.ROTwanderer29" text="{=ROTwandTalk0204}Old Dick's a harmless fellow. Chivalrous as a knight, and honest as the day is long. "/>
+
+	  <string id="prebackstory.ROTwanderer30" text="{=ROTwandTalk0205}My name is Willem Lannister"/>
+	  <string id="backstory_a.ROTwanderer30" text="{=ROTwandTalk0206}I usually fight for House Lannister"/>
+	  <string id="backstory_b.ROTwanderer30" text="{=ROTwandTalk0207}But I may have gambled my gold away."/>
+	  <string id="backstory_c.ROTwanderer30" text="{=ROTwandTalk0208}I can pledge my sword to you for a price."/>
+	  <string id="response_2.ROTwanderer30" text="{=ROTwandTalk0209}I could use someone like you in my ranks"/>
+	  <string id="response_1.ROTwanderer30" text="{=ROTwandTalk0210}How can I trust a Lannister."/>
+	  <string id="backstory_d.ROTwanderer30" text="{=ROTwandTalk0211}A Lannister always pays their debts. "/>
+
+	  <string id="prebackstory.ROTwanderer31" text="{=ROTwandTalk0212}My name don't matter"/>
+	  <string id="backstory_a.ROTwanderer31" text="{=ROTwandTalk0213}You got the money, I'll do the job"/>
+	  <string id="backstory_b.ROTwanderer31" text="{=ROTwandTalk0214}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.ROTwanderer31" text="{=ROTwandTalk0215}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.ROTwanderer31" text="{=ROTwandTalk0216}Alright, I just need your sword"/>
+	  <string id="response_1.ROTwanderer31" text="{=ROTwandTalk0217}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.ROTwanderer31" text="{=ROTwandTalk0218}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.ROTwanderer32" text="{=ROTwandTalk0219}My name don't matter"/>
+	  <string id="backstory_a.ROTwanderer32" text="{=ROTwandTalk0220}You got the money, I'll do the job"/>
+	  <string id="backstory_b.ROTwanderer32" text="{=ROTwandTalk0221}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.ROTwanderer32" text="{=ROTwandTalk0222}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.ROTwanderer32" text="{=ROTwandTalk0223}Alright, I just need your sword"/>
+	  <string id="response_1.ROTwanderer32" text="{=ROTwandTalk0224}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.ROTwanderer32" text="{=ROTwandTalk0225}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.ROTwanderer33" text="{=ROTwandTalk0226}My name don't matter"/>
+	  <string id="backstory_a.ROTwanderer33" text="{=ROTwandTalk0227}You got the money, I'll do the job"/>
+	  <string id="backstory_b.ROTwanderer33" text="{=ROTwandTalk0228}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.ROTwanderer33" text="{=ROTwandTalk0229}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.ROTwanderer33" text="{=ROTwandTalk0230}Alright, I just need your sword"/>
+	  <string id="response_1.ROTwanderer33" text="{=ROTwandTalk0231}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.ROTwanderer33" text="{=ROTwandTalk0232}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.ROTwanderer34" text="{=ROTwandTalk0233}My name is Nina Vernier"/>
+	  <string id="backstory_a.ROTwanderer34" text="{=ROTwandTalk0234}You got the money, I'll do the job"/>
+	  <string id="backstory_b.ROTwanderer34" text="{=ROTwandTalk0235}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.ROTwanderer34" text="{=ROTwandTalk0236}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.ROTwanderer34" text="{=ROTwandTalk0237}Alright, I just need your sword"/>
+	  <string id="response_1.ROTwanderer34" text="{=ROTwandTalk0238}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.ROTwanderer34" text="{=ROTwandTalk0239}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.ROTwanderer35" text="{=ROTwandTalk0240}My name is Sandra the Great"/>
+	  <string id="backstory_a.ROTwanderer35" text="{=ROTwandTalk0241}You got the money, I'll do the job"/>
+	  <string id="backstory_b.ROTwanderer35" text="{=ROTwandTalk0242}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.ROTwanderer35" text="{=ROTwandTalk0243}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.ROTwanderer35" text="{=ROTwandTalk0244}Alright, I just need your sword"/>
+	  <string id="response_1.ROTwanderer35" text="{=ROTwandTalk0245}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.ROTwanderer35" text="{=ROTwandTalk0246}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.ROTwanderer36" text="{=ROTwandTalk0247}My name is Feix Reverdin the Hammer"/>
+	  <string id="backstory_a.ROTwanderer36" text="{=ROTwandTalk0248}You got the money, I'll do the job"/>
+	  <string id="backstory_b.ROTwanderer36" text="{=ROTwandTalk0249}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.ROTwanderer36" text="{=ROTwandTalk0250}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.ROTwanderer36" text="{=ROTwandTalk0251}Alright, I just need your sword"/>
+	  <string id="response_1.ROTwanderer36" text="{=ROTwandTalk0252}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.ROTwanderer36" text="{=ROTwandTalk0253}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.ROTwanderer37" text="{=ROTwandTalk0254}You look like someone who could use a sturdy shield at your side!"/>
+	  <string id="backstory_a.ROTwanderer37" text="{=ROTwandTalk0255}My name is Cregan Whytcross, I'm a sellsword for hire."/>
+	  <string id="backstory_b.ROTwanderer37" text="{=ROTwandTalk0256}For a small sum of coin, I'd keep you or your family safe just like my ancestors did back during the Skagosi Rebellions."/>
+	  <string id="backstory_c.ROTwanderer37" text="{=ROTwandTalk0257}The first ever Whytcross died defending the young Lord of Winterfell.  "/>
+	  <string id="response_1.ROTwanderer37" text="{=ROTwandTalk0258}Thanks for the history lesson, it must be good to know you have strong roots that you can be proud of."/>
+	  <string id="response_2.ROTwanderer37" text="{=ROTwandTalk0259}Alright, I just need your shield at my side. I hope you're as good as you say."/>
+	  <string id="backstory_d.ROTwanderer37" text="{=ROTwandTalk0260}Aye, I hope to make my ancestors proud."/>
+
+
+	  <string id="prebackstory.ROTwanderer38" text="{=ROTwandTalk0261}My name is Benjen Stark, a sworn bother of the Night's Watch."/>
+	  <string id="backstory_a.ROTwanderer38" text="{=ROTwandTalk0262}If you're traveling beyond the wall, you'll be needing a guide."/>
+	  <string id="backstory_b.ROTwanderer38" text="{=ROTwandTalk0263}You're lucky if you only run into ice spiders, shadow cats and direwolves."/>
+	  <string id="backstory_c.ROTwanderer38" text="{=ROTwandTalk0264}The Others, a different story."/>
+	  <string id="response_2.ROTwanderer38" text="{=ROTwandTalk0265}Welcome, you seem like the man for the job."/>
+	  <string id="response_1.ROTwanderer38" text="{=ROTwandTalk0266}Ice spiders, yeah right."/>
+	  <string id="backstory_d.ROTwanderer38" text="{=ROTwandTalk0267}We get going at first light."/>
+
+	  <string id="prebackstory.ROTwanderer39" text="{=ROTwandTalk0268}My name is Aurane Waters"/>
+	  <string id="backstory_a.ROTwanderer39" text="{=ROTwandTalk0269}You got the money, I'll do the job"/>
+	  <string id="backstory_b.ROTwanderer39" text="{=ROTwandTalk0270}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.ROTwanderer39" text="{=ROTwandTalk0271}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.ROTwanderer39" text="{=ROTwandTalk0272}Alright, I just need your sword"/>
+	  <string id="response_1.ROTwanderer39" text="{=ROTwandTalk0273}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.ROTwanderer39" text="{=ROTwandTalk0274}Not trying to be the hero, that's your story."/>
+
+	  <string id="prebackstory.ROTwanderer40" text="{=ROTwandTalk0275}My name is Cletus Yronwood"/>
+	  <string id="backstory_a.ROTwanderer40" text="{=ROTwandTalk0276}You got the money, I'll do the job"/>
+	  <string id="backstory_b.ROTwanderer40" text="{=ROTwandTalk0277}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.ROTwanderer40" text="{=ROTwandTalk0278}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.ROTwanderer40" text="{=ROTwandTalk0279}Alright, I just need your sword"/>
+	  <string id="response_1.ROTwanderer40" text="{=ROTwandTalk0280}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.ROTwanderer40" text="{=ROTwandTalk0281}Not trying to be the hero, that's your story."/>
+
+	  <string id="prebackstory.ROTwanderer41" text="{=ROTwandTalk0282}My name is Daemon Blackfyre"/>
+	  <string id="backstory_a.ROTwanderer41" text="{=ROTwandTalk0283}You got the money, I'll do the job"/>
+	  <string id="backstory_b.ROTwanderer41" text="{=ROTwandTalk0284}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.ROTwanderer41" text="{=ROTwandTalk0285}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.ROTwanderer41" text="{=ROTwandTalk0286}Alright, I just need your sword"/>
+	  <string id="response_1.ROTwanderer41" text="{=ROTwandTalk0287}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.ROTwanderer41" text="{=ROTwandTalk0288}Not trying to be the hero, that's your story."/>
+
+	  <string id="prebackstory.ROTwanderer42" text="{=ROTwandTalk0289}My name is Daemon Sand"/>
+	  <string id="backstory_a.ROTwanderer42" text="{=ROTwandTalk0290}You got the money, I'll do the job"/>
+	  <string id="backstory_b.ROTwanderer42" text="{=ROTwandTalk0291}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.ROTwanderer42" text="{=ROTwandTalk0292}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.ROTwanderer42" text="{=ROTwandTalk0293}Alright, I just need your sword"/>
+	  <string id="response_1.ROTwanderer42" text="{=ROTwandTalk0294}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.ROTwanderer42" text="{=ROTwandTalk0295}Not trying to be the hero, that's your story."/>
+
+	  <string id="prebackstory.ROTwanderer43" text="{=ROTwandTalk0296}My name is Slavanis the Bow Maiden"/>
+	  <string id="backstory_a.ROTwanderer43" text="{=ROTwandTalk0297}You got the money, I'll do the job"/>
+	  <string id="backstory_b.ROTwanderer43" text="{=ROTwandTalk0298}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.ROTwanderer43" text="{=ROTwandTalk0299}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.ROTwanderer43" text="{=ROTwandTalk0300}Alright, I just need your sword"/>
+	  <string id="response_1.ROTwanderer43" text="{=ROTwandTalk0301}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.ROTwanderer43" text="{=ROTwandTalk0302}Not trying to be the hero, that's your story."/>
+
+	  <string id="prebackstory.ROTwanderer44" text="{=ROTwandTalk0303}My name is Verina"/>
+	  <string id="backstory_a.ROTwanderer44" text="{=ROTwandTalk0304}You got the money, I'll do the job"/>
+	  <string id="backstory_b.ROTwanderer44" text="{=ROTwandTalk0305}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.ROTwanderer44" text="{=ROTwandTalk0306}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.ROTwanderer44" text="{=ROTwandTalk0307}Alright, I just need your sword"/>
+	  <string id="response_1.ROTwanderer44" text="{=ROTwandTalk0308}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.ROTwanderer44" text="{=ROTwandTalk0309}Not trying to be the hero, that's your story."/>
+	  
+
+	  <string id="prebackstory.spc_wanderer_sturgia_0" text="{=ROTwandTalk0310}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_sturgia_0" text="{=ROTwandTalk0311}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_sturgia_0" text="{=ROTwandTalk0312}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_sturgia_0" text="{=ROTwandTalk0313}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_sturgia_0" text="{=ROTwandTalk0314}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_sturgia_0" text="{=ROTwandTalk0315}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_sturgia_0" text="{=ROTwandTalk0316}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_sturgia_1" text="{=ROTwandTalk0317}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_sturgia_1" text="{=ROTwandTalk0318}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_sturgia_1" text="{=ROTwandTalk0319}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_sturgia_1" text="{=ROTwandTalk0320}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_sturgia_1" text="{=ROTwandTalk0321}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_sturgia_1" text="{=ROTwandTalk0322}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_sturgia_1" text="{=ROTwandTalk0323}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_sturgia_2" text="{=ROTwandTalk0324}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_sturgia_2" text="{=ROTwandTalk0325}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_sturgia_2" text="{=ROTwandTalk0326}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_sturgia_2" text="{=ROTwandTalk0327}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_sturgia_2" text="{=ROTwandTalk0328}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_sturgia_2" text="{=ROTwandTalk0329}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_sturgia_2" text="{=ROTwandTalk0330}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_battania_6" text="{=ROTwandTalk0331}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_battania_6" text="{=ROTwandTalk0332}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_battania_6" text="{=ROTwandTalk0333}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_battania_6" text="{=ROTwandTalk0334}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_battania_6" text="{=ROTwandTalk0335}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_battania_6" text="{=ROTwandTalk0336}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_battania_6" text="{=ROTwandTalk0337}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_vlandia_4" text="{=ROTwandTalk0338}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_vlandia_4" text="{=ROTwandTalk0339}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_vlandia_4" text="{=ROTwandTalk0340}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_vlandia_4" text="{=ROTwandTalk0341}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_vlandia_4" text="{=ROTwandTalk0342}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_vlandia_4" text="{=ROTwandTalk0343}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_vlandia_4" text="{=ROTwandTalk0344}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_vlandia_5" text="{=ROTwandTalk0345}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_vlandia_5" text="{=ROTwandTalk0346}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_vlandia_5" text="{=ROTwandTalk0347}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_vlandia_5" text="{=ROTwandTalk0348}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_vlandia_5" text="{=ROTwandTalk0349}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_vlandia_5" text="{=ROTwandTalk0350}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_vlandia_5" text="{=ROTwandTalk0351}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_vlandia_6" text="{=ROTwandTalk0352}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_vlandia_6" text="{=ROTwandTalk0353}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_vlandia_6" text="{=ROTwandTalk0354}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_vlandia_6" text="{=ROTwandTalk0355}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_vlandia_6" text="{=ROTwandTalk0356}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_vlandia_6" text="{=ROTwandTalk0357}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_vlandia_6" text="{=ROTwandTalk0358}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_sturgia_9" text="{=ROTwandTalk0359}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_sturgia_9" text="{=ROTwandTalk0360}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_sturgia_9" text="{=ROTwandTalk0361}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_sturgia_9" text="{=ROTwandTalk0362}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_sturgia_9" text="{=ROTwandTalk0363}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_sturgia_9" text="{=ROTwandTalk0364}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_sturgia_9" text="{=ROTwandTalk0365}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_sturgia_10" text="{=ROTwandTalk0366}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_sturgia_10" text="{=ROTwandTalk0367}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_sturgia_10" text="{=ROTwandTalk0368}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_sturgia_10" text="{=ROTwandTalk0369}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_sturgia_10" text="{=ROTwandTalk0370}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_sturgia_10" text="{=ROTwandTalk0371}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_sturgia_10" text="{=ROTwandTalk0372}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_empire_7" text="{=ROTwandTalk0373}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_empire_7" text="{=ROTwandTalk0374}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_empire_7" text="{=ROTwandTalk0375}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_empire_7" text="{=ROTwandTalk0376}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_empire_7" text="{=ROTwandTalk0377}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_empire_7" text="{=ROTwandTalk0378}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_empire_7" text="{=ROTwandTalk0379}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_empire_8" text="{=ROTwandTalk0380}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_empire_8" text="{=ROTwandTalk0381}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_empire_8" text="{=ROTwandTalk0382}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_empire_8" text="{=ROTwandTalk0383}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_empire_8" text="{=ROTwandTalk0384}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_empire_8" text="{=ROTwandTalk0385}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_empire_8" text="{=ROTwandTalk0386}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_sturgia_7" text="{=ROTwandTalk0387}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_sturgia_7" text="{=ROTwandTalk0388}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_sturgia_7" text="{=ROTwandTalk0389}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_sturgia_7" text="{=ROTwandTalk0390}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_sturgia_7" text="{=ROTwandTalk0391}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_sturgia_7" text="{=ROTwandTalk0392}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_sturgia_7" text="{=ROTwandTalk0393}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_vlandia_9" text="{=ROTwandTalk0394}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_vlandia_9" text="{=ROTwandTalk0395}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_vlandia_9" text="{=ROTwandTalk0396}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_vlandia_9" text="{=ROTwandTalk0397}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_vlandia_9" text="{=ROTwandTalk0398}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_vlandia_9" text="{=ROTwandTalk0399}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_vlandia_9" text="{=ROTwandTalk0400}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_aserai_0" text="{=ROTwandTalk0401}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_aserai_0" text="{=ROTwandTalk0402}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_aserai_0" text="{=ROTwandTalk0403}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_aserai_0" text="{=ROTwandTalk0404}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_aserai_0" text="{=ROTwandTalk0405}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_aserai_0" text="{=ROTwandTalk0406}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_aserai_0" text="{=ROTwandTalk0407}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_aserai_1" text="{=ROTwandTalk0408}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_aserai_1" text="{=ROTwandTalk0409}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_aserai_1" text="{=ROTwandTalk0410}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_aserai_1" text="{=ROTwandTalk0411}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_aserai_1" text="{=ROTwandTalk0412}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_aserai_1" text="{=ROTwandTalk0413}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_aserai_1" text="{=ROTwandTalk0414}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_sturgia_3" text="{=ROTwandTalk0415}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_sturgia_3" text="{=ROTwandTalk0416}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_sturgia_3" text="{=ROTwandTalk0417}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_sturgia_3" text="{=ROTwandTalk0418}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_sturgia_3" text="{=ROTwandTalk0419}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_sturgia_3" text="{=ROTwandTalk0420}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_sturgia_3" text="{=ROTwandTalk0421}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_sturgia_4" text="{=ROTwandTalk0422}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_sturgia_4" text="{=ROTwandTalk0423}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_sturgia_4" text="{=ROTwandTalk0424}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_sturgia_4" text="{=ROTwandTalk0425}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_sturgia_4" text="{=ROTwandTalk0426}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_sturgia_4" text="{=ROTwandTalk0427}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_sturgia_4" text="{=ROTwandTalk0428}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_battania_0" text="{=ROTwandTalk0429}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_battania_0" text="{=ROTwandTalk0430}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_battania_0" text="{=ROTwandTalk0431}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_battania_0" text="{=ROTwandTalk0432}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_battania_0" text="{=ROTwandTalk0433}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_battania_0" text="{=ROTwandTalk0434}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_battania_0" text="{=ROTwandTalk0435}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_battania_1" text="{=ROTwandTalk0436}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_battania_1" text="{=ROTwandTalk0437}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_battania_1" text="{=ROTwandTalk0438}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_battania_1" text="{=ROTwandTalk0439}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_battania_1" text="{=ROTwandTalk0440}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_battania_1" text="{=ROTwandTalk0441}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_battania_1" text="{=ROTwandTalk0442}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_khuzait_0" text="{=ROTwandTalk0443}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_khuzait_0" text="{=ROTwandTalk0444}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_khuzait_0" text="{=ROTwandTalk0445}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_khuzait_0" text="{=ROTwandTalk0446}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_khuzait_0" text="{=ROTwandTalk0447}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_khuzait_0" text="{=ROTwandTalk0448}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_khuzait_0" text="{=ROTwandTalk0449}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_khuzait_1" text="{=ROTwandTalk0450}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_khuzait_1" text="{=ROTwandTalk0451}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_khuzait_1" text="{=ROTwandTalk0452}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_khuzait_1" text="{=ROTwandTalk0453}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_khuzait_1" text="{=ROTwandTalk0454}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_khuzait_1" text="{=ROTwandTalk0455}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_khuzait_1" text="{=ROTwandTalk0456}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_empire_0" text="{=ROTwandTalk0457}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_empire_0" text="{=ROTwandTalk0458}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_empire_0" text="{=ROTwandTalk0459}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_empire_0" text="{=ROTwandTalk0460}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_empire_0" text="{=ROTwandTalk0461}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_empire_0" text="{=ROTwandTalk0462}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_empire_0" text="{=ROTwandTalk0463}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_empire_1" text="{=ROTwandTalk0464}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_empire_1" text="{=ROTwandTalk0465}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_empire_1" text="{=ROTwandTalk0466}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_empire_1" text="{=ROTwandTalk0467}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_empire_1" text="{=ROTwandTalk0468}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_empire_1" text="{=ROTwandTalk0469}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_empire_1" text="{=ROTwandTalk0470}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_empire_2" text="{=ROTwandTalk0471}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_empire_2" text="{=ROTwandTalk0472}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_empire_2" text="{=ROTwandTalk0473}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_empire_2" text="{=ROTwandTalk0474}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_empire_2" text="{=ROTwandTalk0475}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_empire_2" text="{=ROTwandTalk0476}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_empire_2" text="{=ROTwandTalk0477}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_khuzait_4" text="{=ROTwandTalk0478}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_khuzait_4" text="{=ROTwandTalk0479}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_khuzait_4" text="{=ROTwandTalk0480}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_khuzait_4" text="{=ROTwandTalk0481}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_khuzait_4" text="{=ROTwandTalk0482}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_khuzait_4" text="{=ROTwandTalk0483}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_khuzait_4" text="{=ROTwandTalk0484}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_khuzait_7" text="{=ROTwandTalk0485}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_khuzait_7" text="{=ROTwandTalk0486}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_khuzait_7" text="{=ROTwandTalk0487}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_khuzait_7" text="{=ROTwandTalk0488}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_khuzait_7" text="{=ROTwandTalk0489}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_khuzait_7" text="{=ROTwandTalk0490}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_khuzait_7" text="{=ROTwandTalk0491}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_khuzait_8" text="{=ROTwandTalk0492}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_khuzait_8" text="{=ROTwandTalk0493}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_khuzait_8" text="{=ROTwandTalk0494}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_khuzait_8" text="{=ROTwandTalk0495}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_khuzait_8" text="{=ROTwandTalk0496}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_khuzait_8" text="{=ROTwandTalk0497}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_khuzait_8" text="{=ROTwandTalk0498}Not trying to be the hero, that's your story. "/>
+
+	  
+	
+
+  </strings>

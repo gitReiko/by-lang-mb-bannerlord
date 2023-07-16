@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+
+  	<!-- From ROT-Content/notablesROT.xml file !!! -->
+  
+  	<NPCCharacter id="caravan_master_freefolk"
+                name="{=ROTReikoTrader001}Freefolk Caravan Master"
+				level="26"
+                culture="Culture.freefolk">
+    </NPCCharacter>
+
+	<NPCCharacter id="armed_trader_freefolk"
+                name="{=ROTReikoTrader002}Freefolk Armed Trader"
+				level="16"
+                culture="Culture.freefolk">
+    </NPCCharacter>
+
+	<NPCCharacter id="caravan_guard_freefolk"
+				name="{=ROTReikoTrader003}Freefolk Caravan Guard"
+				level="21"
+				culture="Culture.freefolk">
+	</NPCCharacter>
+  
+	<NPCCharacter id="veteran_caravan_guard_freefolk"
+				name="{=ROTReikoTrader004}Freefolk Veteran Caravan Guard"
+				level="26"
+				culture="Culture.freefolk">
+	</NPCCharacter>
+  
+	<NPCCharacter id="caravan_master_nightswatch"
+				  name="{=ROTReikoTrader005}Night's Watch Caravan Master"
+				  level="26"
+				  culture="Culture.nightswatch">
+	</NPCCharacter>
+	
+	<NPCCharacter id="armed_trader_nightswatch"
+				  name="{=ROTReikoTrader006}Night's Watch Armed Trader"
+				  level="16"
+				  culture="Culture.nightswatch">
+	</NPCCharacter>
+	
+	<NPCCharacter id="caravan_guard_nightswatch"
+				  name="{=ROTReikoTrader007}Night's Watch Caravan Guard"
+				  level="21"
+				  culture="Culture.nightswatch">
+	</NPCCharacter>
+	
+	<NPCCharacter id="veteran_caravan_guard_nightswatch"
+				  name="{=ROTReikoTrader008}Night's Watch Veteran Caravan Guard"
+				  level="26"
+				  culture="Culture.nightswatch">
+	</NPCCharacter>
+	
+	<NPCCharacter id="caravan_master_vale"
+				  name="{=ROTReikoTrader009}Vale Caravan Master"
+				  level="26"
+				  culture="Culture.vale">
+	</NPCCharacter>
+	
+	<NPCCharacter id="armed_trader_vale"
+				  name="{=ROTReikoTrader010}Vale Armed Trader"
+				  level="16"
+				  culture="Culture.vale">
+	</NPCCharacter>
+	
+	<NPCCharacter id="caravan_guard_vale"
+				  name="{=ROTReikoTrader011}Vale Caravan Guard"
+				  level="21"
+				  culture="Culture.vale">
+	</NPCCharacter>
+	
+	<NPCCharacter id="veteran_caravan_guard_vale"
+				  name="{=ROTReikoTrader012}Vale Veteran Caravan Guard"
+				  level="26"
+				  culture="Culture.vale">
+	</NPCCharacter>
+	
+	<NPCCharacter id="caravan_master_river"
+				  name="{=ROTReikoTrader013}Riverlands Caravan Master"
+				  level="26"
+				  culture="Culture.river">
+	</NPCCharacter>
+	
+	<NPCCharacter id="armed_trader_river"
+				  name="{=ROTReikoTrader014}Riverlands Armed Trader"
+				  level="16"
+				  culture="Culture.river">
+	</NPCCharacter>
+	
+	<NPCCharacter id="caravan_guard_river"
+				  name="{=ROTReikoTrader014a}Riverlands Caravan Guard"
+				  level="21"
+				  culture="Culture.river">
+	</NPCCharacter>
+	
+	<NPCCharacter id="veteran_caravan_guard_river"
+				  name="{=ROTReikoTrader015}Riverlands Veteran Caravan Guard"
+				  level="26"
+				  culture="Culture.river">
+	</NPCCharacter>
+
+	<NPCCharacter id="caravan_master_dragonstone"
+				  name="{=ROTReikoTrader016}Dragonstone Caravan Master"
+				  level="26"
+				  culture="Culture.dragonstone">
+	</NPCCharacter>
+	
+	<NPCCharacter id="armed_trader_dragonstone"
+				  name="{=ROTReikoTrader017}Dragonstone Armed Trader"
+				  level="16"
+				  culture="Culture.dragonstone">
+	</NPCCharacter>
+	
+	<NPCCharacter id="caravan_guard_dragonstone"
+				  name="{=ROTReikoTrader018}Dragonstone Caravan Guard"
+				  level="21"
+				  culture="Culture.dragonstone">
+	</NPCCharacter>
+	
+	<NPCCharacter id="veteran_caravan_guard_dragonstone"
+				  name="{=ROTReikoTrader019}Dragonstone Veteran Caravan Guard"
+				  level="26"
+				  culture="Culture.dragonstone">
+	</NPCCharacter>
+
+	<NPCCharacter id="caravan_master_stormlands"
+				  name="{=ROTReikoTrader020}Stormlands Caravan Master"
+				  level="26"
+				  culture="Culture.stormlands">
+	</NPCCharacter>
+	
+	<NPCCharacter id="armed_trader_stormlands"
+				  name="{=ROTReikoTrader021}Stormlands Armed Trader"
+				  level="16"
+				  culture="Culture.stormlands">
+	</NPCCharacter>
+	
+	<NPCCharacter id="caravan_guard_stormlands"
+				  name="{=ROTReikoTrader022}Stormlands Caravan Guard"
+				  level="21"
+				  culture="Culture.stormlands">
+	</NPCCharacter>
+	
+	<NPCCharacter id="veteran_caravan_guard_stormlands"
+				  name="{=ROTReikoTrader023}Stormlands Veteran Caravan Guard"
+				  level="26"
+				  culture="Culture.stormlands">
+	</NPCCharacter>
+
+	<NPCCharacter id="caravan_master_reach"
+				  name="{=ROTReikoTrader024}Reach Caravan Master"
+				  level="26"
+				  culture="Culture.reach">
+	</NPCCharacter>
+	
+	<NPCCharacter id="armed_trader_reach"
+				  name="{=ROTReikoTrader025}Reach Armed Trader"
+				  level="16"
+				  culture="Culture.reach">
+	</NPCCharacter>
+	
+	<NPCCharacter id="caravan_guard_reach"
+				  name="{=ROTReikoTrader026}Reach Caravan Guard"
+				  level="21"
+				  culture="Culture.reach">
+	</NPCCharacter>
+	
+	<NPCCharacter id="veteran_caravan_guard_reach"
+				  name="{=ROTReikoTrader027}Reach Veteran Caravan Guard"
+				  level="26"
+				  culture="Culture.reach">
+	</NPCCharacter>
+
+	<NPCCharacter id="caravan_master_ghiscari"
+				  name="{=ROTReikoTrader028}Ghiscari Caravan Master"
+				  level="26"
+				  culture="Culture.ghiscari">
+	</NPCCharacter>
+	
+	<NPCCharacter id="armed_trader_ghiscari"
+				  name="{=ROTReikoTrader029}Ghiscari Armed Trader"
+				  level="16"
+				  culture="Culture.ghiscari">
+	</NPCCharacter>
+	
+	<NPCCharacter id="caravan_guard_ghiscari"
+				  name="{=ROTReikoTrader030}Ghiscari Caravan Guard"
+				  level="21"
+				  culture="Culture.ghiscari">
+	</NPCCharacter>
+	
+	<NPCCharacter id="veteran_caravan_guard_ghiscari"
+				  name="{=ROTReikoTrader031}Veteran Caravan Guard"
+				  level="26"
+				  culture="Culture.ghiscari">
+	</NPCCharacter>
+
+	<NPCCharacter id="caravan_master_freehouses"
+				  name="{=ROTReikoTrader032}Free Houses Caravan Master"
+				  level="26"
+				  culture="Culture.bolton">
+	</NPCCharacter>
+	
+	<NPCCharacter id="armed_trader_freehouses"
+				  name="{=ROTReikoTrader033}Free Houses Armed Trader"
+				  level="16"
+				  culture="Culture.bolton">
+	</NPCCharacter>
+	
+	<NPCCharacter id="caravan_guard_freehouses"
+				  name="{=ROTReikoTrader034}Free Houses Caravan Guard"
+				  level="21"
+				  culture="Culture.bolton">
+	</NPCCharacter>
+	
+	<NPCCharacter id="veteran_caravan_guard_freehouses"
+				  name="{=ROTReikoTrader035}Free Houses Veteran Caravan Guard"
+				  level="26"
+				  culture="Culture.bolton">
+	</NPCCharacter>
+
+	<NPCCharacter id="caravan_master_crownlands"
+				  name="{=ROTReikoTrader036}Crownlands Caravan Master"
+				  level="26"
+				  culture="Culture.crownlands">
+	</NPCCharacter>
+	
+	<NPCCharacter id="armed_trader_crownlands"
+				  name="{=ROTReikoTrader037}Crownlands Armed Trader"
+				  level="16"
+				  culture="Culture.crownlands">
+	</NPCCharacter>
+	
+	<NPCCharacter id="caravan_guard_crownlands"
+				  name="{=ROTReikoTrader038}Crownlands Caravan Guard"
+				  level="21"
+				  culture="Culture.crownlands">
+	</NPCCharacter>
+	
+	<NPCCharacter id="veteran_caravan_guard_crownlands"
+				  name="{=ROTReikoTrader039}Crownlands Veteran Caravan Guard"
+				  level="26"
+				  culture="Culture.crownlands">
+	</NPCCharacter>
+
+	<NPCCharacter id="caravan_master_sarnor"
+				  name="{=ROTReikoTrader040}Sarnori Caravan Master"
+				  level="26"
+				  culture="Culture.sarnor">
+	</NPCCharacter>
+	
+	<NPCCharacter id="armed_trader_sarnor"
+				  name="{=ROTReikoTrader041}Sarnori Armed Trader"
+				  level="16"
+				  culture="Culture.sarnor">
+	</NPCCharacter>
+	
+	<NPCCharacter id="caravan_guard_sarnor"
+				  name="{=ROTReikoTrader042}Sarnori Caravan Guard"
+				  level="21"
+				  culture="Culture.sarnor">
+	</NPCCharacter>
+	
+	<NPCCharacter id="veteran_caravan_guard_sarnor"
+				  name="{=ROTReikoTrader043}Sarnori Veteran Caravan Guard"
+				  level="26"
+				  culture="Culture.sarnor">
+	</NPCCharacter>
+
+	<NPCCharacter id="caravan_master_giant"
+				  name="{=ROTReikoTrader044}Caravan Master"
+				  level="26"
+				  culture="Culture.giant">
+	</NPCCharacter>
+	
+	<NPCCharacter id="armed_trader_giant"
+				  name="{=ROTReikoTrader045}Armed Trader"
+				  level="16"
+				  culture="Culture.giant">
+	</NPCCharacter>
+	
+	<NPCCharacter id="caravan_guard_giant"
+				  name="{=ROTReikoTrader046}Caravan Guard"
+				  level="21"
+				  culture="Culture.giant">
+	</NPCCharacter>
+	
+	<NPCCharacter id="veteran_caravan_guard_giant"
+				  name="{=ROTReikoTrader047}Veteran Caravan Guard"
+				  level="26"
+				  culture="Culture.giant">
+	</NPCCharacter>	
+	
+	<NPCCharacter id="caravan_master_norvos"
+				  name="{=ROTReikoTrader048}Norvoshi Caravan Master"
+				  level="26"
+				  culture="Culture.norvos">
+	</NPCCharacter>
+	
+	<NPCCharacter id="armed_trader_norvos"
+				  name="{=ROTReikoTrader049}Norvoshi Armed Trader"
+				  level="16"
+				  culture="Culture.norvos">
+	</NPCCharacter>
+	
+	<NPCCharacter id="caravan_guard_norvos"
+				  name="{=ROTReikoTrader050}Norvoshi Caravan Guard"
+				  level="21"
+				  culture="Culture.norvos">
+	</NPCCharacter>
+	
+	<NPCCharacter id="veteran_caravan_guard_norvos"
+				  name="{=ROTReikoTrader051}Norvoshi Veteran Caravan Guard"
+				  level="26"
+				  culture="Culture.norvos">
+	</NPCCharacter>
+
+	<NPCCharacter id="caravan_master_valyrian"
+				  name="{=ROTReikoTrader052}Valyrian Caravan Master"
+				  level="26"
+				  culture="Culture.valyrian">
+	</NPCCharacter>
+	
+	<NPCCharacter id="armed_trader_valyrian"
+				  name="{=ROTReikoTrader053}Valyrian Armed Trader"
+				  level="16"
+				  culture="Culture.valyrian">
+	</NPCCharacter>
+	
+	<NPCCharacter id="caravan_guard_valyrian"
+				  name="{=ROTReikoTrader054}Valyrian Caravan Guard"
+				  level="21"
+				  culture="Culture.valyrian">
+	</NPCCharacter>
+	
+	<NPCCharacter id="veteran_caravan_guard_valyrian"
+				  name="{=ROTReikoTrader055}Valyrian Veteran Caravan Guard"
+				  level="26"
+				  culture="Culture.valyrian">
+	</NPCCharacter>
+
+	<NPCCharacter id="caravan_master_volantine"
+				  name="{=ROTReikoTrader056}Volantene Caravan Master"
+				  level="26"
+				  culture="Culture.volantine">
+	</NPCCharacter>
+	
+	<NPCCharacter id="armed_trader_volantine"
+				  name="{=ROTReikoTrader057}Volantene Armed Trader"
+				  level="16"
+				  culture="Culture.volantine">
+	</NPCCharacter>
+	
+	<NPCCharacter id="caravan_guard_volantine"
+				  name="{=ROTReikoTrader058}Volantene Caravan Guard"
+				  level="21"
+				  culture="Culture.volantine">
+	</NPCCharacter>
+	
+	<NPCCharacter id="veteran_caravan_guard_volantine"
+				  name="{=ROTReikoTrader059}Volantene Veteran Caravan Guard"
+				  level="26"
+				  culture="Culture.volantine">
+	</NPCCharacter>
+
+	<NPCCharacter id="caravan_master_qohorik"
+				  name="{=ROTReikoTrader060}Qohorik Caravan Master"
+				  level="26"
+				  culture="Culture.qohorik">
+	</NPCCharacter>
+	
+	<NPCCharacter id="armed_trader_qohorik"
+				  name="{=ROTReikoTrader061}Qohorik Armed Trader"
+				  level="16"
+				  culture="Culture.qohorik">
+	</NPCCharacter>
+	
+	<NPCCharacter id="caravan_guard_qohorik"
+				  name="{=ROTReikoTrader062}Qohorik Caravan Guard"
+				  level="21"
+				  culture="Culture.qohorik">
+	</NPCCharacter>
+	
+	<NPCCharacter id="veteran_caravan_guard_qohorik"
+				  name="{=ROTReikoTrader063}Qohorik Veteran Caravan Guard"
+				  level="26"
+				  culture="Culture.qohorik">
+	</NPCCharacter>
+
+	<NPCCharacter id="caravan_master_lorathi"
+				  name="{=ROTReikoTrader064}Lorathi Caravan Master"
+				  level="26"
+				  culture="Culture.lorathi">
+	</NPCCharacter>
+	
+	<NPCCharacter id="armed_trader_lorathi"
+				  name="{=ROTReikoTrader065}Lorathi Armed Trader"
+				  level="16"
+				  culture="Culture.lorathi">
+	</NPCCharacter>
+	
+	<NPCCharacter id="caravan_guard_lorathi"
+				  name="{=ROTReikoTrader066}Lorathi Caravan Guard"
+				  level="21"
+				  culture="Culture.lorathi">
+	</NPCCharacter>
+	
+	<NPCCharacter id="veteran_caravan_guard_lorathi"
+				  name="{=ROTReikoTrader067}Lorathi Veteran Caravan Guard"
+				  level="26"
+				  culture="Culture.lorathi">
+	</NPCCharacter>
+
+	<NPCCharacter id="caravan_master_pentoshi"
+				  name="{=ROTReikoTrader068}Pentoshi Caravan Master"
+				  level="26"
+				  culture="Culture.pentoshi">
+	</NPCCharacter>
+	
+	<NPCCharacter id="armed_trader_pentoshi"
+				  name="{=ROTReikoTrader069}Pentoshi Armed Trader"
+				  level="16"
+				  culture="Culture.pentoshi">
+	</NPCCharacter>
+	
+	<NPCCharacter id="caravan_guard_pentoshi"
+				  name="{=ROTReikoTrader070}Pentoshi Caravan Guard"
+				  level="21"
+				  culture="Culture.pentoshi">
+	</NPCCharacter>
+	
+	<NPCCharacter id="veteran_caravan_guard_pentoshi"
+				  name="{=ROTReikoTrader071}Pentoshi Veteran Caravan Guard"
+				  level="26"
+				  culture="Culture.pentoshi">
+	</NPCCharacter>
+
+	<NPCCharacter id="caravan_master_myrish"
+				  name="{=ROTReikoTrader072}Myrish Caravan Master"
+				  level="26"
+				  culture="Culture.myrish">
+	</NPCCharacter>
+	
+	<NPCCharacter id="armed_trader_myrish"
+				  name="{=ROTReikoTrader073}Myrish Armed Trader"
+				  level="16"
+				  culture="Culture.myrish">
+	</NPCCharacter>
+	
+	<NPCCharacter id="caravan_guard_myrish"
+				  name="{=ROTReikoTrader074}Myrish Caravan Guard"
+				  level="21"
+				  culture="Culture.myrish">
+	</NPCCharacter>
+	
+	<NPCCharacter id="veteran_caravan_guard_myrish"
+				  name="{=ROTReikoTrader075}Myrish Veteran Caravan Guard"
+				  level="26"
+				  culture="Culture.myrish">
+	</NPCCharacter>
+
+	<NPCCharacter id="caravan_master_tyroshi"
+				  name="{=ROTReikoTrader076}Tyroshi Caravan Master"
+				  level="26"
+				  culture="Culture.tyroshi">
+	</NPCCharacter>
+	
+	<NPCCharacter id="armed_trader_tyroshi"
+				  name="{=ROTReikoTrader077}Tyroshi Armed Trader"
+				  level="16"
+				  culture="Culture.tyroshi">
+	</NPCCharacter>
+	
+	<NPCCharacter id="caravan_guard_tyroshi"
+				  name="{=ROTReikoTrader078}Tyroshi Caravan Guard"
+				  level="21"
+				  culture="Culture.tyroshi">
+	</NPCCharacter>
+	
+	<NPCCharacter id="veteran_caravan_guard_tyroshi"
+				  name="{=ROTReikoTrader079}Tyroshi Veteran Caravan Guard"
+				  level="26"
+				  culture="Culture.tyroshi">
+	</NPCCharacter>
+
+	<NPCCharacter id="caravan_master_lyseni"
+				  name="{=ROTReikoTrader080}Lyseni Caravan Master"
+				  level="26"
+				  culture="Culture.lyseni">
+	</NPCCharacter>
+	
+	<NPCCharacter id="armed_trader_lyseni"
+				  name="{=ROTReikoTrader081}Lyseni Armed Trader"
+				  level="16"
+				  culture="Culture.lyseni">
+	</NPCCharacter>
+	
+	<NPCCharacter id="caravan_guard_lyseni"
+				  name="{=ROTReikoTrader082}Lyseni Caravan Guard"
+				  level="21"
+				  culture="Culture.lyseni">
+	</NPCCharacter>
+	
+	<NPCCharacter id="veteran_caravan_guard_lyseni"
+				  name="{=ROTReikoTrader083}Lyseni Veteran Caravan Guard"
+				  level="26"
+				  culture="Culture.lyseni">
+	</NPCCharacter>
+
+	<!-- From ROT-Content/spnpccharacters.xslt file !!! -->
+	<NPCCharacter id="caravan_master_battania"
+                name="{=ROTReikoTraderX001}First Men Caravan Master"
+				level="26"
+				culture="Culture.battania">
+	</NPCCharacter>
+
+	<NPCCharacter id="armed_trader_battania"
+					name="{=ROTReikoTraderX002}First Men Armed Trader"
+					level="16"	
+					culture="Culture.battania">
+	</NPCCharacter>
+
+	<NPCCharacter id="caravan_guard_battania"
+					name="{=ROTReikoTraderX003}First Men Caravan Guard"
+					level="21"
+					culture="Culture.battania">
+	</NPCCharacter>
+
+	<NPCCharacter id="veteran_caravan_guard_battania"
+					name="{=ROTReikoTraderX004}First Men Veteran Caravan Guard"
+					level="26"
+					culture="Culture.battania">
+	</NPCCharacter>
+
+	<NPCCharacter id="caravan_master_vlandia"
+                name="{=ROTReikoTraderX005}Andal Caravan Master"
+				level="26"
+				culture="Culture.vlandia">
+	</NPCCharacter>
+
+	<NPCCharacter id="armed_trader_vlandia"
+                name="{=ROTReikoTraderX006}Andal Armed Trader"
+				level="16"
+				culture="Culture.vlandia">
+	</NPCCharacter>
+
+	<NPCCharacter id="caravan_guard_vlandia"
+                name="{=ROTReikoTraderX007}Andal Caravan Guard"
+				level="21"
+                culture="Culture.vlandia">
+	</NPCCharacter>
+
+	<NPCCharacter id="veteran_caravan_guard_vlandia"
+                name="{=ROTReikoTraderX008}Andal Veteran Caravan Guard"
+				level="26"
+                culture="Culture.vlandia">
+	</NPCCharacter>
+
+	<NPCCharacter id="caravan_master_aserai"
+                name="{=ROTReikoTraderX009}Rhoynar Caravan Master"
+				level="26"
+				culture="Culture.aserai">
+	</NPCCharacter>
+
+	<NPCCharacter id="armed_trader_aserai"
+                name="{=ROTReikoTraderX010}Rhoynar Armed Trader"
+				level="16"
+				culture="Culture.aserai">
+	</NPCCharacter>
+
+	<NPCCharacter id="caravan_guard_aserai"
+                name="{=ROTReikoTraderX011}Rhoynar Caravan Guard"
+				level="21"
+                culture="Culture.aserai">
+	</NPCCharacter>
+
+	<NPCCharacter id="veteran_caravan_guard_aserai"   
+				name="{=ROTReikoTraderX012}Rhoynar Veteran Caravan Guard"
+				level="26"
+                culture="Culture.aserai">
+	</NPCCharacter>
+
+	<NPCCharacter id="caravan_master_khuzait"
+			   name="{=ROTReikoTraderX013}Grass Sea Caravan Master"
+			   level="26"
+			   culture="Culture.khuzait">
+	</NPCCharacter>
+
+	<NPCCharacter id="armed_trader_khuzait"
+                name="{=ROTReikoTraderX014}Grass Sea Armed Trader"
+				level="16"
+				culture="Culture.khuzait">
+	</NPCCharacter>
+
+	<NPCCharacter id="caravan_guard_khuzait"
+                name="{=ROTReikoTraderX015}Grass Sea Caravan Guard"
+				level="21"
+                culture="Culture.khuzait">
+	</NPCCharacter>
+
+	<NPCCharacter id="veteran_caravan_guard_khuzait"
+                name="{=ROTReikoTraderX016}Grass Sea Veteran Caravan Guard"
+				level="26"
+				culture="Culture.khuzait">
+	</NPCCharacter>
+
+	<NPCCharacter id="caravan_master_empire"
+                name="{=ROTReikoTraderX017}Essosi Caravan Master"
+				level="26"
+				culture="Culture.empire">
+	</NPCCharacter>
+
+	<NPCCharacter id="armed_trader_empire"
+                name="{=ROTReikoTraderX018}Essosi Armed Trader"
+				level="16"
+				culture="Culture.empire">
+	</NPCCharacter>
+
+	<NPCCharacter id="caravan_guard_empire"
+                name="{=ROTReikoTraderX019}Essosi Caravan Guard"
+				level="21"
+                culture="Culture.empire">
+	</NPCCharacter>
+
+  	<NPCCharacter id="veteran_caravan_guard_empire"
+                name="{=ROTReikoTraderX020}Essosi Veteran Caravan Guard"
+				level="26"
+				culture="Culture.empire">
+	</NPCCharacter>
+
+	<NPCCharacter id="caravan_master_sturgia"
+                name="{=ROTReikoTraderX021}Ironborn Caravan Master"
+				level="26"
+				culture="Culture.sturgia">
+	</NPCCharacter>
+
+	<NPCCharacter id="armed_trader_sturgia"
+                name="{=ROTReikoTraderX022}Ironborn Armed Trader"
+				level="16"
+				culture="Culture.sturgia">
+	</NPCCharacter>
+
+	<NPCCharacter id="caravan_guard_sturgia"
+                name="{=ROTReikoTraderX023}Ironborn Caravan Guard"
+				level="21"
+                culture="Culture.sturgia">
+	</NPCCharacter>
+
+	<NPCCharacter id="veteran_caravan_guard_sturgia"
+                name="{=ROTReikoTraderX024}Ironborn Veteran Caravan Guard"
+				level="26"
+				culture="Culture.sturgia">
+	</NPCCharacter>
+
+  
+</NPCCharacters>

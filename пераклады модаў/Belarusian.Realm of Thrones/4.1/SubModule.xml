@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Module>
+	<Name value = "Belarusian Realm of Thrones"/>
+	<Id value = "Belarusian Realm of Thrones"/>
+	<Version value = "v1.1.0"/>
+	<DefaultModule value="true"/>
+	<SingleplayerModule value="true"/>
+	<MultiplayerModule value="false"/>
+	<Author value="Denis Makouski (Reiko17)" />
+  	<Official value="false" />
+	<DependedModules>
+		<DependedModule Id="Native" DependentVersion="v1.1.0"/>
+		<DependedModule Id="SandBoxCore" DependentVersion="v1.1.0"/>
+		<DependedModule Id="Sandbox" DependentVersion="v1.1.0"/>
+		<DependedModule Id="StoryMode" DependentVersion="v1.1.0"/>
+		<DependedModule Id="Belarusian Core" DependentVersion="v1.1.0"/>
+	</DependedModules>
+	<SubModules/>
+	<Xmls>
+
+		<XmlNode>
+			<XmlName id="GameText" path="rot_content_module_strings_xlst"/>
+		</XmlNode>
+
+		<XmlNode>
+			<XmlName id="GameText" path="rot_content_module_strings_xml"/>
+		</XmlNode>
+
+		<XmlNode>
+			<XmlName id="Items" path="rot_dragon_items"/>
+			<IncludedGameTypes>
+				<GameType value="Campaign"/>
+				<GameType value="CampaignStoryMode"/>
+			</IncludedGameTypes>
+		</XmlNode>
+
+		<XmlNode>
+			<XmlName id="Factions" path="rot_content_clans"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+				<GameType value = "CustomGame"/>
+				<GameType value = "EditorGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+
+		<XmlNode>
+			<XmlName id="Kingdoms" path="rot_content_kingdoms"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+				<GameType value = "CustomGame"/>
+				<GameType value = "EditorGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+
+		<XmlNode>                
+			<XmlName id="NPCCharacters" path="rot_content_lords"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+			</IncludedGameTypes>
+		</XmlNode>
+
+		<XmlNode>                
+			<XmlName id="NPCCharacters" path="rot_content_trader_units"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+			</IncludedGameTypes>
+		</XmlNode>
+
+		<XmlNode>                
+			<XmlName id="NPCCharacters" path="rot_content_units"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+			</IncludedGameTypes>
+		</XmlNode>
+
+		<XmlNode>                
+			<XmlName id="NPCCharacters" path="rot_content_wanderers"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		
+	</Xmls>
+</Module>
