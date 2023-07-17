@@ -101,22 +101,5 @@
 	<xsl:template match="string[@id='str_neutral_term_for_culture.vlandia']"/>
 	<xsl:template match="string[@id='str_neutral_term_for_culture.sturgia']"/>
 	<xsl:template match="string[@id='str_neutral_term_for_culture.empire']"/>
-	<xsl:template match="string[@id='str_culture_rich_name.empire']"/>
-	<xsl:template match="string[@id='str_culture_rich_name.empire']"/>
-	<xsl:template match="string[@id='str_culture_rich_name.empire']"/>
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	
 </xsl:stylesheet>
-

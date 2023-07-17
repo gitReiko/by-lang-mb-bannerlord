@@ -121,9 +121,10 @@
   <string id="ROT03018" text="Oathkeeper"/>
   <string id="ROT03019" text="Arakh"/>
   <string id="ROT03020" text="Greyjoy Shield"/>
-  <string id="ROT03022" text="Night King Armor"/>
-  <string id="ROT03023" text="Night King Boots"/>
-  <string id="ROT03024" text="Night King Hands"/>
+  <string id="ROT03022" text="White Walker Armor"/>
+  <string id="ROT03023" text="White Walker Boots"/>
+  <string id="ROT03024" text="White Walker Bracers"/>
+  <string id="nkhands" text="White Walker Bracers"/>
   <string id="ROT03025" text="Night King Blade"/>
   <string id="ROT03026" text="Dothraki Boots"/>
   <string id="ROT03027" text="Dothraki Armor"/>
@@ -285,7 +286,7 @@
   <string id="ROThughesgloves" text="House Hughes Gloves"/>
   <string id="ROTtarggloves" text="Valyrian Gloves with Bracers"/>
   <string id="spikemace" text="Spiked Mace"/>
-  <string id="ROTthennsword" text="Thenn Bronze sword"/>
+  <string id="ROTthennsword" text="Dark Sister"/>
   <string id="ROTtigercloak" text="Tiger Cloak"/>
   <string id="ROTmorbracers" text="Mormont Bracers"/>
   <string id="ROTmorboots" text="Mormont Boots"/>
@@ -428,53 +429,10 @@
   <string id="viperspear" text="Red Viper Spear"/>
   <string id="nedclothes" text="Ned Stark Clothes"/>
   <string id="barkingclths" text="Baratheon King Clothes"/>
-  <string id="horseplate1" text="Decorated Plated Horse Armor"/>
-  <string id="horseplate2" text="Decorated Plated Horse Armor 2"/>
-  <string id="horseplate3" text="Plated Horse Armor"/>
-  <string id="horseplate4" text="Plated Horse Armor 2"/>
   <string id="unssword" text="Unsullied Short Sword"/>
-  <string id="renlyarmor" text="Renly Baratheon Armor"/>
-  <string id="rengreaves" text="Renly Baratheon Greaves"/>
-  <string id="renhelm" text="Renly Baratheon Helmet"/>
-  <string id="rengloves" text="Renly Baratheon Gauntlets"/>
-  <string id="runearmor" text="Rune Knight Armor"/>
-  <string id="runegreaves" text="Rune Knight Greaves"/>
-  <string id="eurgreaves" text="Euron Greyjoy Greaves"/>
-  <string id="eurgloves" text="Euron Greyjoy Gauntlets"/>
-  <string id="eurhelm" text="Euron Greyjoy Crown"/>
-  <string id="westbrig" text="Westerlands Full PLate Brigandine"/>
-  <string id="westbrig2" text="Westerlands Brigandine"/>
-  <string id="westbrig3" text="Westerlands Brigandine with Mail"/>
-  <string id="westbrig4" text="Westerlands Plated Brigandine with Mail"/>
-  <string id="westbrig5" text="Westerlands Plated Brigandine with Mail 2"/>
-  <string id="westgreaves" text="Westerlands Greaves"/>
-  <string id="westsallet" text="Westerlands Sallet"/>
-  <string id="westsallet2" text="Westerlands Decorated Sallet"/>
-  <string id="flutearmor" text="Stormlands Fluted Armor"/>
-  <string id="flutearmor2" text="Stormlands Fluted Armor 2"/>
-  <string id="flutearmor3" text="Stormlands Fluted Armor 3"/>
-  <string id="stormgreaves" text="Stormlands Greaves"/>
-  <string id="stormgreaves2" text="Stormlands Greaves 2"/>
-  <string id="stormgreaves3" text="Stormlands Greaves 3"/>
-  <string id="stormgloves" text="Stormlands Gauntlets"/>
-  <string id="stormgloves2" text="Stormlands Gauntlets 2"/>
-  <string id="stormgloves3" text="Stormlands Gauntlets 3"/>
-  <string id="stormarm" text="Stormlands Plumed Armet"/>
-  <string id="stormarm2" text="Stormlands Plumed Armet 2"/>
-  <string id="stormarm3" text="Stormlands Plumed Armet 3"/>
-  <string id="faceplate" text="Dornish Faceplate Helmet"/>
-  <string id="faceplate2" text="Dornish Faceplate Helmet 2"/>
-  <string id="faceplate3" text="Dornish Faceplate Helmet 3"/>
-  <string id="kastgloves" text="Kastenbrust Gauntlets"/>
-  <string id="kastgreaves" text="Kastenbrust Greaves"/>
-  <string id="harlawarmor" text="Harlaw Armor"/>
-  <string id="harhelm" text="Harlaw Helmet"/>
   <string id="mandpaul" text="Manderly Pauldrons"/>
-  <string id="stansword" text="Stannis Baratheon Sword"/>
-  <string id="vissword" text="Viserys Sword"/>
   <string id="lanroyarmor" text="Lannister Royal Armor"/>
   <string id="lanroyboot" text="Lannister Royal Boots"/>
-  <string id="velclothes" text="Velvet Clothes"/>
   <string id="whytsword" text="House Whytcross Sword"/>
   <string id="katana" text="Yi Ti Katana"/>
   <string id="yitiarmor" text="Yi Ti Armor"/>
@@ -493,5 +451,18 @@
   <string id="jaimeclths" text="Noble Clothes"/>
   <string id="ROTcasterlyhelmet2" text="Casterly Cavalry Helmet"/>
   <string id="ROTcasterlyhelmet3" text="Casterly Heavy Helmet"/>
+  <string id="heartsbane" text="Heartsbane"/>
+  <string id="valgauntlets" text="Valyrian Gauntlets"/>
+  <string id="nighthood" text="Night's Watch Hood"/>
+  <string id="fancyclths" text="Fancy Clothes"/>
+  <string id="vigilance" text="Vigilance"/>
+  <string id="bartspear" text="Baratheon Hunting Spear"/>
+  <string id="ranseur" text="Ranseur"/>
+  <string id="thennaxe" text="Thenn Bronze Axe"/>
+  <string id="bronzeshield" text="Thenn Bronze Shield"/>
+  <string id="bronzswd" text="Thenn Bronze Sword"/>
+  <string id="rapier" text="Braavosi Rapier"/>
+  <string id="noraxe" text="Northern Axe"/>
+  <string id="tarlyhelm" text="Tarly Helmet"/>
  </strings>
 </base>

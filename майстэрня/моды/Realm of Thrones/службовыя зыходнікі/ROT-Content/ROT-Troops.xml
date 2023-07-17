@@ -185,7 +185,7 @@
 		<Equipments>
 			<EquipmentRoster>
 				<equipment slot="Item0"
-						   id="Item.battania_axe_2_t4" />
+						   id="Item.northern_axe" />
 				<equipment slot="Item1"
 						   id="Item.wildling_shield2" />
 				<equipment slot="Body"
@@ -237,7 +237,7 @@
 		<Equipments>
 			<EquipmentRoster>
 				<equipment slot="Item0"
-						   id="Item.battania_axe_2_t4" />
+						   id="Item.northern_axe" />
 				<equipment slot="Item1"
 						   id="Item.wildling_shield2" />
 				<equipment slot="Body"
@@ -392,7 +392,7 @@
 				<equipment slot="Item2"
 						   id="Item.wildling_shield1" />
 				<equipment slot="Item3"
-						   id="Item.battania_axe_2_t4" />
+						   id="Item.northern_axe" />
 				<equipment slot="Body"
 						   id="Item.wildling_medium_armor" />
 				<equipment slot="Leg"
@@ -446,7 +446,7 @@
 				<equipment slot="Item2"
 						   id="Item.wildling_shield1" />
 				<equipment slot="Item3"
-						   id="Item.battania_axe_2_t4" />
+						   id="Item.northern_axe" />
 				<equipment slot="Body"
 						   id="Item.wildling_medium_armor" />
 				<equipment slot="Leg"
@@ -649,7 +649,7 @@
 		<Equipments>
 			<EquipmentRoster>
 				<equipment slot="Item0"
-						   id="Item.battania_axe_2_t4" />
+						   id="Item.northern_axe" />
 				<equipment slot="Item1"
 						   id="Item.nordic_shortbow" />
 				<equipment slot="Item2"
@@ -701,7 +701,7 @@
 		<Equipments>
 			<EquipmentRoster>
 				<equipment slot="Item0"
-						   id="Item.dragonglass_axe" />
+						   id="Item.bronze_axe" />
 				
 				<equipment slot="Body"
 						   id="Item.wildling_light_armor" />
@@ -749,11 +749,11 @@
 		<Equipments>
 			<EquipmentRoster>
 				<equipment slot="Item0"
-						   id="Item.dragonglass_axe" />
+						   id="Item.bronze_axe" />
 				<equipment slot="Item1"
-						   id="Item.thenn_sword" />
+						   id="Item.bronze_sword" />
 				<equipment slot="Item2"
-						   id="Item.wildling_shield2" />
+						   id="Item.bronze_shield" />
 				<equipment slot="Body"
 						   id="Item.thenn_plate" />
 				<equipment slot="Leg"
@@ -802,11 +802,11 @@
 		<Equipments>
 			<EquipmentRoster>
 				<equipment slot="Item0"
-						   id="Item.dragonglass_axe" />
+						   id="Item.bronze_axe" />
 				<equipment slot="Item1"
-						   id="Item.thenn_sword" />
+						   id="Item.bronze_sword" />
 				<equipment slot="Item2"
-						   id="Item.wildling_shield2" />
+						   id="Item.bronze_shield" />
 				<equipment slot="Body"
 						   id="Item.thenn_plate" />
 				<equipment slot="Leg"
@@ -856,13 +856,16 @@
 		<Equipments>
 			<EquipmentRoster>
 				<equipment slot="Item0"
-						   id="Item.dragonglass_axe" />
+						   id="Item.bronze_axe" />
 				<equipment slot="Item1"
-						   id="Item.northern_javelin_3_t4" />
+						   id="Item.bronze_sword" />
 				<equipment slot="Item2"
-						   id="Item.thenn_sword" />
+						   id="Item.bronze_shield" />
 				<equipment slot="Item3"
-						   id="Item.wildling_shield2" />
+						   id="Item.northern_javelin_3_t4" />
+				<equipment slot="Gloves"
+						   id="Item.kingsguard_gloves" />
+				
 				<equipment slot="Body"
 						   id="Item.thenn_plate" />
 				<equipment slot="Leg"
@@ -913,13 +916,15 @@
 		<Equipments>
 			<EquipmentRoster>
 				<equipment slot="Item0"
-						   id="Item.dragonglass_axe" />
+						   id="Item.bronze_axe" />
 				<equipment slot="Item1"
-						   id="Item.northern_javelin_3_t4" />
+						   id="Item.bronze_sword" />
 				<equipment slot="Item2"
-						   id="Item.thenn_sword" />
+						   id="Item.bronze_shield" />
 				<equipment slot="Item3"
-						   id="Item.wildling_shield2" />
+						   id="Item.northern_javelin_3_t4" />
+				<equipment slot="Gloves"
+						   id="Item.kingsguard_gloves" />
 
 				<equipment slot="Body"
 						   id="Item.thenn_plate" />
@@ -1173,7 +1178,7 @@
 				<equipment slot="Leg"
 						   id="Item.nightswatch_boots" />
 				<equipment slot="Gloves"
-						   id="Item.karstark_gloves" />
+						   id="Item.lannister_gloves" />
 				
 			</EquipmentRoster>
 			<EquipmentSet id="sturgia_troop_civilian_template_t1"
@@ -1225,7 +1230,7 @@
 				<equipment slot="Head"
 						   id="Item.thinhide_coif" />
 				<equipment slot="Gloves"
-						   id="Item.karstark_gloves" />
+						   id="Item.lannister_gloves" />
 			</EquipmentRoster>
 			<EquipmentSet id="sturgia_troop_civilian_template_t1"
 						  civilian="true" />
@@ -1275,7 +1280,7 @@
 				<equipment slot="Head"
 						   id="Item.imperial_open_mail_coif" />
 				<equipment slot="Gloves"
-						   id="Item.karstark_gloves" />
+						   id="Item.lannister_gloves" />
 				<equipment slot="Cape"
 						   id="Item.nw_cloak" />
 			</EquipmentRoster>
@@ -1328,7 +1333,7 @@
 				<equipment slot="Head"
 						   id="Item.thinhide_coif" />
 				<equipment slot="Gloves"
-						   id="Item.karstark_gloves" />
+						   id="Item.lannister_gloves" />
 				<equipment slot="Horse"
 						   id="Item.battania_horse_tournament" />
 				<equipment slot="HorseHarness"
@@ -1439,7 +1444,7 @@
 				<equipment slot="Head"
 						   id="Item.thinhide_coif" />
 				<equipment slot="Gloves"
-						   id="Item.karstark_gloves" />
+						   id="Item.lannister_gloves" />
 				
 			</EquipmentRoster>
 			<EquipmentSet id="sturgia_troop_civilian_template_t1"
@@ -1495,7 +1500,7 @@
 				<equipment slot="Head"
 						   id="Item.thinhide_coif" />
 				<equipment slot="Gloves"
-						   id="Item.karstark_gloves" />
+						   id="Item.lannister_gloves" />
 
 			</EquipmentRoster>
 			<EquipmentSet id="sturgia_troop_civilian_template_t1"
@@ -5168,7 +5173,7 @@
 	<NPCCharacter id="stormlands_basher"
           default_group="Infantry"
           level="21"
-          name="{=ROT00896}Stormlands Basher"
+          name="{=ROT00896}Stormlands Maceman"
           occupation="Soldier"
 	  is_basic_troop="false"
           culture="Culture.stormlands">
@@ -5223,7 +5228,7 @@
 	<NPCCharacter id="stormlands_crusher"
           default_group="Infantry"
           level="26"
-          name="{=ROT00897}Stormlands Crusher"
+          name="{=ROT00897}Stormlands Elite Maceman"
           occupation="Soldier"
 	  is_basic_troop="false"
           culture="Culture.stormlands">
@@ -6297,7 +6302,7 @@
 	<NPCCharacter id="baratheon_hammer"
           default_group="Infantry"
           level="21"
-          name="{=ROTbaratheonhammer}House Baratheon Hammer"
+          name="{=ROTbaratheonhammer}House Baratheon Hammerman"
           occupation="Soldier"
 	  is_basic_troop="false"
           culture="Culture.stormlands">
@@ -9956,13 +9961,15 @@
 				<equipment slot="Item2"
 						   id="Item.highland_throwing_axe_1_t2" />
 				<equipment slot="Body"
-						   id="Item.bolton_armor" />
+						   id="Item.dreadguard_armor" />
 				<equipment slot="Leg"
-						   id="Item.bolton_boots" />
+						   id="Item.dreadguard_boots" />
 				<equipment slot="Gloves"
-							   id="Item.karstark_gloves" />
+							   id="Item.dreadguard_bracers" />
+				<equipment slot="Cape"
+							   id="Item.dreadguard_pauldrons" />
 				<equipment slot="Head"
-							   id="Item.bolton_helmet" />
+							   id="Item.dreadguard_helmet" />
 			</EquipmentRoster>
 			<EquipmentSet id="sturgia_troop_civilian_template_t1"
 						  civilian="true" />
@@ -11058,13 +11065,12 @@
 				<equipment slot="Item3"
 						   id="Item.northern_spear_2_t3" />
 				<equipment slot="Body"
-						   id="Item.bolton_armor" />
+						   id="Item.dreadguard_armor" />
 				<equipment slot="Leg"
-						   id="Item.bolton_boots" />
-				<equipment slot="Gloves"
-							   id="Item.karstark_gloves" />
+						   id="Item.dreadguard_boots" />
+				
 				<equipment slot="Head"
-							   id="Item.bolton_helmet" />
+							   id="Item.dreadguard_helmet" />
 				
 			
 			</EquipmentRoster>
@@ -11115,13 +11121,13 @@
 				<equipment slot="Item3"
 						   id="Item.bolton_spear" />
 				<equipment slot="Body"
-						   id="Item.bolton_armor" />
+						   id="Item.dreadguard_armor" />
 				<equipment slot="Leg"
-						   id="Item.bolton_boots" />
+						   id="Item.dreadguard_boots" />
 				<equipment slot="Gloves"
-							   id="Item.karstark_gloves" />
+							   id="Item.dreadguard_bracers" />
 				<equipment slot="Head"
-							   id="Item.bolton_helmet" />
+							   id="Item.dreadguard_helmet" />
 				
 			</EquipmentRoster>
 
@@ -11166,13 +11172,15 @@
 				<equipment slot="Item2"
 						   id="Item.bolton_shield" />
 				<equipment slot="Body"
-						   id="Item.bolton_armor" />
+						   id="Item.dreadguard_armor" />
 				<equipment slot="Leg"
-						   id="Item.bolton_boots" />
+						   id="Item.dreadguard_boots" />
 				<equipment slot="Gloves"
-							   id="Item.karstark_gloves" />
+							   id="Item.dreadguard_bracers" />
 				<equipment slot="Head"
-							   id="Item.bolton_helmet" />
+							   id="Item.dreadguard_helmet" />
+			    <equipment slot="Cape"
+							   id="Item.dreadguard_pauldrons" />
 			</EquipmentRoster>
 
 			<EquipmentSet id="sturgia_troop_civilian_template_t1"
@@ -14899,7 +14907,7 @@
 				<equipment slot="Gloves" id="Item.common_bracers" />
 				<equipment slot="Cape" id="Item.common_pauldrons" />
 				<equipment slot="Horse" id="Item.t2_vlandia_horse" />
-				<equipment slot="HorseHarness" id="Item.t2_vlandia_horse" />
+				<equipment slot="HorseHarness" id="Item.chain_horse_harness" />
 			</EquipmentRoster>
 			
 		</Equipments>
@@ -14940,7 +14948,7 @@
 				<equipment slot="Gloves" id="Item.common_bracers" />
 				<equipment slot="Cape" id="Item.common_pauldrons" />
 				<equipment slot="Horse" id="Item.t2_vlandia_horse" />
-				<equipment slot="HorseHarness" id="Item.t2_vlandia_horse" />
+				<equipment slot="HorseHarness" id="Item.chain_horse_harness" />
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
@@ -16040,7 +16048,7 @@
 	</NPCCharacter>
 	<NPCCharacter id="casterly_marshal"
 				  default_group="Infantry"
-				  level="24"
+				  level="21"
 				  name="{=ROTcasterlymarshal}Casterly Rock Marshal"
 				  occupation="Soldier"
 				  culture="Culture.vlandia">
@@ -16097,7 +16105,7 @@
 
 	<NPCCharacter id="casterly_squire"
 					default_group="Cavalry"
-					level="11"
+					level="16"
 					name="{=ROT00379}Casterly Squire"
 					occupation="Soldier"
 					is_basic_troop="true"
@@ -16107,15 +16115,15 @@
 		</face>
 		<skills>
 			<skill id="Athletics"
-				   value="30" />
+				   value="80" />
 			<skill id="Riding"
-				   value="40" />
+				   value="80" />
 			<skill id="OneHanded"
-				   value="45" />
+				   value="80" />
 			<skill id="TwoHanded"
-				   value="10" />
+				   value="70" />
 			<skill id="Polearm"
-				   value="40" />
+				   value="80" />
 			<skill id="Bow"
 				   value="10" />
 			<skill id="Crossbow"
@@ -16152,7 +16160,7 @@
 
 	<NPCCharacter id="casterly_champion"
 				  default_group="Cavalry"
-				  level="20"
+				  level="21"
 				  name="{=ROT00382}Casterly Champion"
 				  upgrade_requires="ItemCategory.war_horse"
 				  occupation="Soldier"
@@ -16162,21 +16170,21 @@
 		</face>
 		<skills>
 			<skill id="Athletics"
-				   value="80" />
+				   value="110" />
 			<skill id="Riding"
-				   value="130" />
+				   value="110" />
 			<skill id="OneHanded"
-				   value="130" />
+				   value="100" />
 			<skill id="TwoHanded"
-				   value="60" />
+				   value="90" />
 			<skill id="Polearm"
-				   value="160" />
+				   value="110" />
 			<skill id="Bow"
 				   value="20" />
 			<skill id="Crossbow"
 				   value="50" />
 			<skill id="Throwing"
-				   value="80" />
+				   value="70" />
 		</skills>
 		<upgrade_targets>
 			<upgrade_target id="NPCCharacter.casterly_guardian" />
@@ -16213,7 +16221,7 @@
 
 	<NPCCharacter id="casterly_guardian"
                 default_group="Cavalry"
-                level="28"
+                level="26"
                 name="{=ROTcasterlyguardian}Guardian of the Rock"
                 occupation="Soldier"
 			    upgrade_requires="ItemCategory.war_horse"
@@ -16225,13 +16233,13 @@
 			<skill id="Athletics"
 				   value="140" />
 			<skill id="Riding"
-				   value="180" />
+				   value="150" />
 			<skill id="OneHanded"
-				   value="180" />
+				   value="150" />
 			<skill id="TwoHanded"
 				   value="120" />
 			<skill id="Polearm"
-				   value="180" />
+				   value="160" />
 			<skill id="Bow"
 				   value="15" />
 			<skill id="Crossbow"
@@ -16276,7 +16284,7 @@
 
 	<NPCCharacter id="casterly_pikeman"
                 default_group="Infantry"
-                level="28"
+                level="26"
                 name="{=ROTcasterlypikeman}Casterly Rock Master Pikeman"
                 occupation="Soldier"
 			    
@@ -22223,6 +22231,10 @@
 						   id="Item.aserai_armor_02" />
 				<equipment slot="Leg"
 						   id="Item.reinforced_suede_boots" />
+				<equipment slot="Cape"
+						   id="Item.chainmail_shoulder_armor" />
+				<equipment slot="Gloves"
+						   id="Item.reinforced_leather_vambraces" />
 
 			</EquipmentRoster>
 
@@ -22277,7 +22289,10 @@
 						   id="Item.aserai_armor_02" />
 				<equipment slot="Leg"
 						   id="Item.reinforced_suede_boots" />
-
+				<equipment slot="Cape"
+				           id="Item.chainmail_shoulder_armor" />
+				<equipment slot="Gloves"
+						   id="Item.reinforced_leather_vambraces" />
 			</EquipmentRoster>
 
 			<EquipmentSet id="khuzait_troop_civilian_template_t2"
@@ -22333,6 +22348,8 @@
 						   id="Item.aserai_armor_02" />
 				<equipment slot="Leg"
 						   id="Item.turndown_leather_boots" />
+				<equipment slot="Cape"
+						   id="Item.chainmail_shoulder_armor" />
 
 			</EquipmentRoster>
 
@@ -22388,6 +22405,8 @@
 						   id="Item.aserai_armor_02" />
 				<equipment slot="Leg"
 						   id="Item.reinforced_suede_boots" />
+				<equipment slot="Cape"
+						   id="Item.chainmail_shoulder_armor" />
 
 			</EquipmentRoster>
 
@@ -22442,6 +22461,10 @@
 						   id="Item.aserai_armor_02" />
 				<equipment slot="Leg"
 						   id="Item.reinforced_suede_boots" />
+				<equipment slot="Cape"
+						   id="Item.chainmail_shoulder_armor" />
+				<equipment slot="Gloves"
+						   id="Item.reinforced_leather_vambraces" />
 
 			</EquipmentRoster>
 
@@ -22557,6 +22580,10 @@
 						   id="Item.aserai_chain_plate_armor_c" />
 				<equipment slot="Leg"
 						   id="Item.reinforced_suede_boots" />
+				<equipment slot="Cape"
+						   id="Item.chainmail_shoulder_armor" />
+				<equipment slot="Gloves"
+						   id="Item.reinforced_leather_vambraces" />
 
 			</EquipmentRoster>
 
@@ -22612,6 +22639,10 @@
 						   id="Item.aserai_chain_plate_armor_c" />
 				<equipment slot="Leg"
 						   id="Item.reinforced_suede_boots" />
+				<equipment slot="Cape"
+						   id="Item.chainmail_shoulder_armor" />
+				<equipment slot="Gloves"
+						   id="Item.reinforced_leather_vambraces" />
 
 			</EquipmentRoster>
 
@@ -22668,6 +22699,10 @@
 						   id="Item.aserai_chain_plate_armor_c" />
 				<equipment slot="Leg"
 						   id="Item.reinforced_suede_boots" />
+				<equipment slot="Cape"
+						   id="Item.chainmail_shoulder_armor" />
+				<equipment slot="Gloves"
+						   id="Item.reinforced_leather_vambraces" />
 
 			</EquipmentRoster>
 
@@ -25092,13 +25127,13 @@
 	</NPCCharacter>
 
 
-	<NPCCharacter id="yiti_criminal" default_group="Infantry" name="{=yiticriminal}Yi Ti Criminal" level="11" occupation="Bandit" culture="Culture.yiti_bandits">
+	<NPCCharacter id="yiti_criminal" default_group="Ranged" name="{=yiticriminal}Yi Ti Criminal" level="11" occupation="Bandit" culture="Culture.yiti_bandits">
 		<face>
 			<face_key_template value="BodyProperty.villager_khuzait" />
 		</face>
 		<skills>
 			<skill id="Athletics" value="50" />
-			<skill id="Bow" value="0" />
+			<skill id="Bow" value="50" />
 			<skill id="OneHanded" value="50" />
 			<skill id="Polearm" value="40" />
 			<skill id="Riding" value="40" />
@@ -25120,8 +25155,8 @@
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.simple_sabre_sword_t2" />
-				
-
+				<equipment slot="Item1" id="Item.steppe_bow" />
+                <equipment slot="Item2" id="Item.bodkin_arrows_c" />
 				<equipment slot="Head" id="Item.nomad_cap" />
 				<equipment slot="Body" id="Item.reinforced_suede_armor" />
 				<equipment slot="Leg" id="Item.khuzait_curved_boots" />

@@ -101,17 +101,14 @@
 	<xsl:template match="string[@id='str_neutral_term_for_culture.vlandia']"/>
 	<xsl:template match="string[@id='str_neutral_term_for_culture.sturgia']"/>
 	<xsl:template match="string[@id='str_neutral_term_for_culture.empire']"/>
-	<xsl:template match="string[@id='str_culture_rich_name.empire']"/>
-	<xsl:template match="string[@id='str_culture_rich_name.empire']"/>
-	<xsl:template match="string[@id='str_culture_rich_name.empire']"/>
 	
-	
-	
-	
-	
-	
-	
-	
+	<xsl:template match="string[@id='str_clan_finance_current_gold']"/>
+	<xsl:template match="string[@id='str_gold']"/>
+
+	<xsl:template match="string[@id='str_political_philosophy_lord_1_14_for_lord_1_14']"/>
+	<xsl:template match="string[@id='str_political_philosophy_lord_5_1_for_lord_5_1']"/>
+	<xsl:template match="string[@id='str_political_philosophy_lord_5_1_for_lord_5_1_b']"/>
+	<xsl:template match="string[@id='str_political_philosophy_lord_5_1_for_lord_5_1_c']"/>
 	
 	
 	

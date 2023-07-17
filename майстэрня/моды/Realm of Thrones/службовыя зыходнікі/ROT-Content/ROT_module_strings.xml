@@ -3,13 +3,93 @@
   <strings>
     
 
-	  <string id="str_crafting_template.ROT_onehanded_sword" text="{=mbT1uNPa}ROT Onehanded Sword" />
-	  <string id="str_crafting_template.ROT_onehanded_spear" text="{=mbT1uNPa}ROT onehanded Spear" />
-	  <string id="str_crafting_template.ROT_bastard_sword" text="{=mbT1uNPa}ROT Bastard Sword" />
-	  <string id="str_crafting_template.ROT_twohanded_sword" text="{=mbT1uNPa}ROT Twohanded Sword" />
-	  <string id="str_crafting_template.ROT_TwoHandedAxe" text="{=mbT1uNPa}ROT Twohanded Axe and Hammer" />
-	  <string id="str_crafting_template.ROT_OneHandedAxe" text="{=mbT1uNPa}ROT Onehanded Axe and Arakh" />
-	  <string id="str_crafting_template.ROT_TwoHandedPolearm" text="{=mbT1uNPa}ROT Twohanded Polearms" />
+<string id="str_player_father_name.freefolk" text="Torren" />
+<string id="str_player_mother_name.freefolk" text="Nella" />
+
+<string id="str_player_father_name.nightswatch" text="Gared" />
+<string id="str_player_mother_name.nightswatch" text="Morya" />
+
+<string id="str_player_father_name.vale" text="Osric" />
+<string id="str_player_mother_name.vale" text="Alyssa" />
+
+<string id="str_player_father_name.river" text="Edwyn" />
+<string id="str_player_mother_name.river" text="Bethany" />
+
+<string id="str_player_father_name.dragonstone" text="Maekar" />
+<string id="str_player_mother_name.dragonstone" text="Daenora" />
+
+<string id="str_player_father_name.stormlands" text="Ormund" />
+<string id="str_player_mother_name.stormlands" text="Cassana" />
+
+<string id="str_player_father_name.reach" text="Garlan" />
+<string id="str_player_mother_name.reach" text="Leona" />
+
+<string id="str_player_father_name.ghiscari" text="Skahaz" />
+<string id="str_player_mother_name.ghiscari" text="Yherizan" />
+
+<string id="str_player_father_name.bolton" text="Rogar" />
+<string id="str_player_mother_name.bolton" text="Barbrey" />
+
+<string id="str_player_father_name.crownlands" text="Ardrian" />
+<string id="str_player_mother_name.crownlands" text="Serala" />
+
+<string id="str_player_father_name.empire" text="Tycho" />
+<string id="str_player_mother_name.empire" text="Shella" />
+
+<string id="str_player_father_name.aserai" text="Doran" />
+<string id="str_player_mother_name.aserai" text="Mellario" />
+
+<string id="str_player_father_name.sturgia" text="Harlon" />
+<string id="str_player_mother_name.sturgia" text="Alannys" />
+
+<string id="str_player_father_name.vlandia" text="Tygett" />
+<string id="str_player_mother_name.vlandia" text="Joanna" />
+
+<string id="str_player_father_name.battania" text="Rickard" />
+<string id="str_player_mother_name.battania" text="Lyarra" />
+
+<string id="str_player_father_name.khuzait" text="Mago" />
+<string id="str_player_mother_name.khuzait" text="Ornela" />
+
+<string id="str_player_father_name.nord" text="Hother" />
+<string id="str_player_mother_name.nord" text="Alysane" />
+
+<string id="str_player_father_name.vakken" text="Vakko" />
+<string id="str_player_mother_name.vakken" text="Vakka" />
+
+<string id="str_player_father_name.darshi" text="Daro" />
+<string id="str_player_mother_name.darshi" text="Dara" />
+
+<string id="str_player_father_name.norvos" text="Qarro" />
+<string id="str_player_mother_name.norvos" text="Tysha" />
+
+<string id="str_player_father_name.valyrian" text="Daeron" />
+<string id="str_player_mother_name.valyrian" text="Baela" />
+
+<string id="str_player_father_name.volantine" text="Aelor" />
+<string id="str_player_mother_name.volantine" text="Visenya" />
+
+<string id="str_player_father_name.qohorik" text="Vargo" />
+<string id="str_player_mother_name.qohorik" text="Qyburna" />
+
+<string id="str_player_father_name.lorathi" text="Loros" />
+<string id="str_player_mother_name.lorathi" text="Lora" />
+
+<string id="str_player_father_name.pentoshi" text="Illyrio" />
+<string id="str_player_mother_name.pentoshi" text="Serra" />
+
+<string id="str_player_father_name.myrish" text="Myrio" />
+<string id="str_player_mother_name.myrish" text="Myrielle" />
+
+<string id="str_player_father_name.tyroshi" text="Tyro" />
+<string id="str_player_mother_name.tyroshi" text="Tyra" />
+
+<string id="str_player_father_name.lyseni" text="Lysor" />
+<string id="str_player_mother_name.lyseni" text="Lysa" />
+
+
+
+	  
 
 	  
 
@@ -46,16 +126,7 @@
 
 	  
 
-	  <string id="str_weapon_usage.ROT_onehanded_swords" text="{=ROT01892}One-Handed" />
-	  <string id="str_weapon_usage.ROT_twohanded_swords" text="{=ROT01893}Two-Handed" />
-	  <string id="str_weapon_usage.ROT_OneHandedPolearm" text="{=ROT01894}One-Handed" />
-	  <string id="str_weapon_usage.ROT_TwoHandedAxe" text="{=ROT01895}Two-Handed" />
-	  <string id="str_weapon_usage.ROT_OneHandedBastardSword" text="{=ROT01896}Bastard" />
-	  <string id="str_weapon_usage.ROT_OneHandedAxe" text="{=ROT01897}One-Handed" />
-	  <string id="str_weapon_usage.ROT_TwoHandedPolearm" text="{=ROT01897}Two-Handed" />
-	  <string id="str_weapon_usage.ROT_OneHandedBastardSwordAlternative" text="{=ROTbsalt}Bastard Alt." />
-	  <string id="str_weapon_usage.ROT_TwoHandedPolearm_Couchable" text="{=ROTcrouch}Crouchable" />
-	  <string id="str_weapon_usage.ROT_TwoHandedPolearm_Bracing" text="{=ROTbracing}Bracing" />
+	  
 
 	  <string id="str_culture_description.vlandia" text="{=ZPaw3WuO}The inhabitants of this area hail from the richest region of Westeros because of the abundance of gold and silver mined in the hills and crags." />
 	  <string id="str_culture_description.battania" text="{=c1Ag8YJS}The people of the North are a hardy breed. Descendents of the First Men that were ruled by the Kings of the North before Aegon's conquest." />
@@ -84,7 +155,7 @@
 	  <string id="str_culture_description.tyroshi" text="{=ROTtyroshi}People from the Free City located in the Stepstones." />
 	  <string id="str_culture_description.lyseni" text="{=ROTlyseni}People from the Free City located on an island in the Summer Sea." />
 	  
-	  <string id="str_culture_rich_name.vlandia" text="{=Reikoooo}Westerman" />
+	  <string id="str_culture_rich_name.vlandia" text="{=8HMyTKF6}Westerman" />
 	  <string id="str_culture_rich_name.battania" text="{=bgjiFSHZ}Northman" />
 	  <string id="str_culture_rich_name.khuzait" text="{=vJOWy1QF}Dothraki" />
 	  <string id="str_culture_rich_name.sturgia" text="{=C4qjBqLO}Ironborn" />
@@ -416,6 +487,12 @@
 	  <string id="str_neutral_term_for_culture.tyroshi" text="{=ROTtyroshi13}Tyrosh" />
 	  <string id="str_neutral_term_for_culture.lyseni" text="{=ROTlyseni13}Lys" />
 
+	  <string id="str_faction_informal_name_for_culture.aserai" text="{=dorne10}Dorne" />
+	  <string id="str_faction_informal_name_for_culture.battania" text="{=north10}North" />
+	  <string id="str_faction_informal_name_for_culture.empire" text="{=bravos10}Braavos" />
+	  <string id="str_faction_informal_name_for_culture.sturgia" text="{=iron10}Iron Islands" />
+	  <string id="str_faction_informal_name_for_culture.vlandia" text="{=west10}Westerlands" />
+	  <string id="str_faction_informal_name_for_culture.khuzait" text="{=doth10}Dothraki" />
 	  <string id="str_faction_informal_name_for_culture.freefolk" text="{=ROT02028}Freefolk" />
 	  <string id="str_faction_informal_name_for_culture.nightswatch" text="{=ROT02029}Night's Watch" />
 	  <string id="str_faction_informal_name_for_culture.bolton" text="{=ROT02030}Free Houses" />
@@ -437,6 +514,12 @@
 	  <string id="str_faction_informal_name_for_culture.tyroshi" text="{=ROTtyroshi14}Tyrosh" />
 	  <string id="str_faction_informal_name_for_culture.lyseni" text="{=ROTlyseni14}Lys" />
 
+	  <string id="str_adjective_for_culture.battania" text="{=north11}North" />
+	  <string id="str_adjective_for_culture.aserai" text="{=dorne11}Dorne" />
+	  <string id="str_adjective_for_culture.vlandia" text="{=west11}Westerlands" />
+	  <string id="str_adjective_for_culture.empire" text="{=braavos11}Braavos" />
+	  <string id="str_adjective_for_culture.sturgia" text="{=iron11}Iron Islands" />
+	  <string id="str_adjective_for_culture.khuzait" text="{=doth11}Dothraki" />
 	  <string id="str_adjective_for_culture.freefolk" text="{=ROT02038}Wildling" />
 	  <string id="str_adjective_for_culture.nightswatch" text="{=ROT02039}Night's Watch" />
 	  <string id="str_adjective_for_culture.bolton" text="{=ROT02040}Free Houses" />
@@ -784,22 +867,8 @@
 	  <string id="response_2.ROTwanderer42" text="Alright, I just need your sword"/>
 	  <string id="response_1.ROTwanderer42" text="Aren't you a pleasure to talk to."/>
 	  <string id="backstory_d.ROTwanderer42" text="Not trying to be the hero, that's your story."/>
-
-	  <string id="prebackstory.ROTwanderer43" text="My name is Slavanis the Bow Maiden"/>
-	  <string id="backstory_a.ROTwanderer43" text="You got the money, I'll do the job"/>
-	  <string id="backstory_b.ROTwanderer43" text="It's a grim world out there, I'll do what I have to do."/>
-	  <string id="backstory_c.ROTwanderer43" text="Patch your wounds, manage your house, even sell your wares."/>
-	  <string id="response_2.ROTwanderer43" text="Alright, I just need your sword"/>
-	  <string id="response_1.ROTwanderer43" text="Aren't you a pleasure to talk to."/>
-	  <string id="backstory_d.ROTwanderer43" text="Not trying to be the hero, that's your story."/>
-
-	  <string id="prebackstory.ROTwanderer44" text="My name is Verina"/>
-	  <string id="backstory_a.ROTwanderer44" text="You got the money, I'll do the job"/>
-	  <string id="backstory_b.ROTwanderer44" text="It's a grim world out there, I'll do what I have to do."/>
-	  <string id="backstory_c.ROTwanderer44" text="Patch your wounds, manage your house, even sell your wares."/>
-	  <string id="response_2.ROTwanderer44" text="Alright, I just need your sword"/>
-	  <string id="response_1.ROTwanderer44" text="Aren't you a pleasure to talk to."/>
-	  <string id="backstory_d.ROTwanderer44" text="Not trying to be the hero, that's your story."/>
+	  
+	  
 	  
 
 	  <string id="prebackstory.spc_wanderer_sturgia_0" text="My name don't matter"/>
@@ -1018,7 +1087,17 @@
 	  <string id="response_1.spc_wanderer_khuzait_8" text="Aren't you a pleasure to talk to."/>
 	  <string id="backstory_d.spc_wanderer_khuzait_8" text="Not trying to be the hero, that's your story. "/>
 
+	  <string id="str_clan_finance_current_gold" text="{=stags}Stags" />
+	  <string id="str_gold" text="{=stags1}Stags" />
+
+	  <string id="str_political_philosophy_lord_1_14_for_lord_1_14" text="{=danyconvo}I am the rightful ruler of Westeros and I will reclaim the throne my ancestors built." />
+
+	  <string id="str_political_philosophy_lord_5_1_for_lord_5_1" text="{=robb1}There will never be peace until I avenge my father!" />
+	  <string id="str_political_philosophy_lord_5_1_for_lord_5_1_b" text="{=robb2}Tywin's armies will fall one by one." />
+	  <string id="str_political_philosophy_lord_5_1_for_lord_5_1_c" text="{=robb3}I will have Joffrey's head on a pike and slaughter every Lannister I see from here to King's Landing." />
+
+
 	  
-	
+
 
   </strings>

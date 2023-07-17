@@ -62,7 +62,7 @@
     </Traits>
     <Equipments>
       <EquipmentRoster />
-      <EquipmentSet id="val_bat_template_rune" />
+      <EquipmentSet id="val_bat_template_royce" />
       <EquipmentSet id="val_civ_template_flamboyant"
                     civilian="true" />
     </Equipments>
@@ -9527,7 +9527,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
     </Traits>
     <Equipments>
       <EquipmentRoster />
-      <EquipmentSet id="rea_bat_template_tarly" />
+      <EquipmentSet id="rea_bat_template_randyll" />
       <EquipmentSet id="vla_civ_template_default"
                     civilian="true" />
     </Equipments>
@@ -10140,7 +10140,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
   <!-- Ingalther, William character -->
   <NPCCharacter id="lord_4_16"
                 name="{=ROT00687}Baelor Hightower"
-                age="30"
+                age="45"
                 voice="curt"
                 default_group="Cavalry"
                 is_hero="true"
@@ -10176,7 +10176,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
     </Traits>
     <Equipments>
       <EquipmentRoster />
-      <EquipmentSet id="rea_bat_template_hightower" />
+      <EquipmentSet id="rea_bat_template_baelor" />
       <EquipmentSet id="vla_civ_template_default"
                     civilian="true" />
     </Equipments>
@@ -31797,7 +31797,3952 @@ voice="Male, northern accent, older, authoritative and competent"-->
 						  civilian="true" />
 		</Equipments>
 	</NPCCharacter>
+  <NPCCharacter id="ROTlord_381"
+                name="{=ROTgreatwalrus}Great Walrus"
+                voice="curt"
+                default_group="Cavalry"
+                age="40"
+                is_hero="true"
+                culture="Culture.freefolk"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                      weight="0.99"
+                      build="0.99"
+                      key="00054C0E5ACC2140967F5FFFFEE82B2F6754C9967C79066FA796FFCFB6BA9BC50FEFF6350CEFCEFF7FFFFF0000000000000000000000003C00000000279C9082"  />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="HuscarlFightingSkills"
+             value="7" />
+      <Trait id="Commander"
+             value="8" />
+      <Trait id="Politician"
+             value="5" />
+      <Trait id="Manager"
+             value="5" />
+      <Trait id="Mercy"
+             value="0" />
+      <Trait id="Valor"
+             value="1" />
+      <Trait id="Generosity"
+             value="1" />
+      <Trait id="Oligarchic"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="fre_bat_template_medium" />
+      <EquipmentSet id="stu_civ_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="ROTlord_382"
+                name="{=ROTdevynsealskinner}Devyn Sealskinner"
+                voice="curt"
+                default_group="Cavalry"
+                age="27"
+                is_hero="true"
+                culture="Culture.freefolk"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                      weight="0.2"
+                      build="0.4"
+                      key="00135C0E5ACC2344967F5FFF6A7B252F6754C9967C7C066FA796B87846859B75009F960309684B677FFFFF0000000000000000000000003C00000000272C9082"  />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="HuscarlFightingSkills"
+             value="7" />
+      <Trait id="Commander"
+             value="8" />
+      <Trait id="Politician"
+             value="5" />
+      <Trait id="Manager"
+             value="5" />
+      <Trait id="Mercy"
+             value="0" />
+      <Trait id="Valor"
+             value="1" />
+      <Trait id="Generosity"
+             value="1" />
+      <Trait id="Oligarchic"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="fre_bat_template_medium" />
+      <EquipmentSet id="stu_civ_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="ROTlord_383"
+                name="{=ROTtootegasnowbear}Tootega Snowbear"
+                voice="curt"
+                default_group="Cavalry"
+                age="16"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.freefolk"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                      weight="0.1"
+                      build="0.1"
+                      key="001BB80F1114100F6C63396B58A466112B3389AADD789458B79BEE1F7756217500A117030A44839B6200000000000000000000000000001B00000000016010C3"  />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="HuscarlFightingSkills"
+             value="7" />
+      <Trait id="Commander"
+             value="6" />
+      <Trait id="Politician"
+             value="5" />
+      <Trait id="Manager"
+             value="5" />
+      <Trait id="Mercy"
+             value="1" />
+      <Trait id="Valor"
+             value="1" />
+      <Trait id="Generosity"
+             value="1" />
+      <Trait id="Honor"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="fre_bat_template_medium" />
+      <EquipmentSet id="stu_civ_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="ROTlord_384"
+                name="{=ROTahnamoonsinger}Ahna Moonsinger"
+                voice="curt"
+                default_group="Cavalry"
+                age="30"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.freefolk"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                      weight="0.1"
+                      build="0.1"
+                      key="001BB80F19FC10086C63396B58A46C114BDA89AA6D7E7458BE9BEE0F783C067900B117030BEBEE9B6200000000000000000000000000001B00000000017010C3"  />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="HuscarlFightingSkills"
+             value="7" />
+      <Trait id="Commander"
+             value="6" />
+      <Trait id="Politician"
+             value="5" />
+      <Trait id="Manager"
+             value="5" />
+      <Trait id="Mercy"
+             value="1" />
+      <Trait id="Valor"
+             value="1" />
+      <Trait id="Generosity"
+             value="1" />
+      <Trait id="Honor"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="fre_bat_template_medium" />
+      <EquipmentSet id="stu_civ_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="ROTlord_385"
+                name="{=ROTookpikwolfcaller}Ookpik Wolfcaller"
+                voice="curt"
+                default_group="Cavalry"
+                age="28"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.freefolk"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                      weight="0.1"
+                      build="0.1"
+                      key="001B4C00111410096C63396B58A46C1199DA89AADD7F0458B79BFE0F78360679007AF7030740719B6200000000000000000000000000001B0000000000F040C3" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="HuscarlFightingSkills"
+             value="7" />
+      <Trait id="Commander"
+             value="6" />
+      <Trait id="Politician"
+             value="5" />
+      <Trait id="Manager"
+             value="5" />
+      <Trait id="Mercy"
+             value="1" />
+      <Trait id="Valor"
+             value="1" />
+      <Trait id="Generosity"
+             value="1" />
+      <Trait id="Honor"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="fre_bat_template_medium" />
+      <EquipmentSet id="stu_civ_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="ROTlord_386"
+                name="{=ROTmuktuk}Muktuk the Little Walrus"
+                voice="curt"
+                default_group="Cavalry"
+                age="12"
+                is_hero="true"
+                culture="Culture.freefolk"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                      weight="0.99"
+                      build="0.99"
+                      key="00054C0E49CC2140967F5FFFFEE82B2F6754C9967C79066FA796FFCFB6BA9BC5FFEFF6350CEFCEFFFFFFFF0000000000000000000000003C00000000279C9082" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="HuscarlFightingSkills"
+             value="7" />
+      <Trait id="Commander"
+             value="8" />
+      <Trait id="Politician"
+             value="5" />
+      <Trait id="Manager"
+             value="5" />
+      <Trait id="Mercy"
+             value="0" />
+      <Trait id="Valor"
+             value="1" />
+      <Trait id="Generosity"
+             value="1" />
+      <Trait id="Oligarchic"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="fre_bat_template_medium" />
+      <EquipmentSet id="stu_civ_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="ROTlord_387"
+                name="{=ROTtonraq}Tonraq Sealskinner"
+                voice="curt"
+                default_group="Cavalry"
+                age="11"
+                is_hero="true"
+                culture="Culture.freefolk"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                      weight="0.2"
+                      build="0.4"
+                      key="00135C0E5ACC2345967F5FAFBDBB752F6CB489967C7E066FA796B878768A9B77009F960309684B677FFFFF0000000000000000000000003C00000000272C9082"  />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="HuscarlFightingSkills"
+             value="7" />
+      <Trait id="Commander"
+             value="8" />
+      <Trait id="Politician"
+             value="5" />
+      <Trait id="Manager"
+             value="5" />
+      <Trait id="Mercy"
+             value="0" />
+      <Trait id="Valor"
+             value="1" />
+      <Trait id="Generosity"
+             value="1" />
+      <Trait id="Oligarchic"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="fre_bat_template_medium" />
+      <EquipmentSet id="stu_civ_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="ROTlord_388"
+                name="{=ROTpinga}Pinga Sealskinner"
+                voice="curt"
+                default_group="Cavalry"
+                age="14"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.freefolk"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                      weight="0.2"
+                      build="0.4"
+                      key="001B480F111410106C63396B58A46C1169DA89AAEDEE9458B79BEE7F783B067900563703054BE39B000000000000000000000000000000850000000000B810C3"  />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="HuscarlFightingSkills"
+             value="7" />
+      <Trait id="Commander"
+             value="8" />
+      <Trait id="Politician"
+             value="5" />
+      <Trait id="Manager"
+             value="5" />
+      <Trait id="Mercy"
+             value="-1" />
+      <Trait id="Valor"
+             value="1" />
+      <Trait id="Generosity"
+             value="-1" />
+      <Trait id="Oligarchic"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="fre_bat_template_medium" />
+      <EquipmentSet id="stu_civ_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="ROTlord_389"
+          name="{=ROTbrandonnorrey}Brandon The Norrey"
+          age="49"
+          voice="earnest"
+          default_group="Cavalry"
+          is_hero="true"
+          culture="Culture.battania"
+          occupation="Lord"
+          face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+              weight="0.2"
+              build="0.3"
+              key="00055C08C0FC255B7C8FB89F6B44CBD0813C389D5626C55CA7D5D3547CD7753401777656FCB5600A5000000000000000000000000000005C0000000037841002" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills"
+           value="6" />
+      <Trait id="Commander"
+           value="4" />
+      <Trait id="Politician"
+           value="3" />
+      <Trait id="Manager"
+           value="4" />
+      <Trait id="Honor"
+           value="1" />
+      <Trait id="Mercy"
+           value="1" />
+      <Trait id="Valor"
+           value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="bat_bat_template_medium" />
+      <EquipmentSet id="bat_civ_template_default"
+              civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="ROTlord_390"
+          name="{=ROTbrandonnorreyjr}Brandon the Younger"
+          age="30"
+          voice="earnest"
+          default_group="Cavalry"
+          is_hero="true"
+          culture="Culture.battania"
+          occupation="Lord"
+          face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+              weight="0.2"
+              build="0.3"
+              key="00055C08C9CC25477C8008996B45CBD4813C389D5626C55CA7D5D3547CD7753401324624FBB5600DA600000000000000000000000000002B0000000037641002" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills"
+           value="6" />
+      <Trait id="Commander"
+           value="4" />
+      <Trait id="Politician"
+           value="3" />
+      <Trait id="Manager"
+           value="4" />
+      <Trait id="Honor"
+           value="1" />
+      <Trait id="Mercy"
+           value="1" />
+      <Trait id="Valor"
+           value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="bat_bat_template_medium" />
+      <EquipmentSet id="bat_civ_template_default"
+              civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="ROTlord_391"
+          name="{=ROTowennorrey}Owen Norrey"
+          age="24"
+          voice="earnest"
+          default_group="Cavalry"
+          is_hero="true"
+          culture="Culture.battania"
+          occupation="Lord"
+          face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+              weight="0.1"
+              build="0.6"
+              key="00055C0E40CC20017C8008996B45CB14813C389D5626C55CA7D5D3547CD7753401324603F865600DA00000000000000000000000000000080000000037141002" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills"
+           value="6" />
+      <Trait id="Commander"
+           value="4" />
+      <Trait id="Politician"
+           value="3" />
+      <Trait id="Manager"
+           value="4" />
+      <Trait id="Honor"
+           value="1" />
+      <Trait id="Mercy"
+           value="1" />
+      <Trait id="Valor"
+           value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="bat_bat_template_medium" />
+      <EquipmentSet id="bat_civ_template_default"
+              civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="ROTlord_392"
+          name="{=ROTladynorrey}Lady Norrey"
+          age="45"
+          voice="earnest"
+          is_female="true"
+          default_group="Cavalry"
+          is_hero="true"
+          culture="Culture.battania"
+          occupation="Lord"
+          face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+              weight="0.99"
+              build="0.99"
+              key="0005CC0FC00009CE6374C70642509D97958B806295D556E5746A000F8BA81F04009996030903514770000000000000000000000000000036000000003D2C7002" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills"
+           value="5" />
+      <Trait id="Commander"
+           value="4" />
+      <Trait id="Politician"
+           value="3" />
+      <Trait id="Manager"
+           value="4" />
 
+      <Trait id="Mercy"
+           value="1" />
+      <Trait id="Valor"
+           value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="bat_bat_template_lady" />
+      <EquipmentSet id="bat_noncom_template_flamboyant"
+              civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="ROTlord_393"
+          name="{=ROTarranorrey}Arra Norrey"
+          age="16"
+          voice="earnest"
+          is_female="true"
+          default_group="Cavalry"
+          is_hero="true"
+          culture="Culture.battania"
+          occupation="Lord"
+          face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+              weight="0.1"
+              build="0.1"
+              key="0005CC0FD11409C76374C70642509D97958B806295D556E5746AF00F8BA81F04009116030903514770000000000000000000000000000036000000003D2C7002" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills"
+           value="5" />
+      <Trait id="Commander"
+           value="4" />
+      <Trait id="Politician"
+           value="3" />
+      <Trait id="Manager"
+           value="4" />
 
+      <Trait id="Mercy"
+           value="1" />
+      <Trait id="Valor"
+           value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="bat_bat_template_lady" />
+      <EquipmentSet id="bat_noncom_template_flamboyant"
+              civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="ROTlord_394"
+          name="{=ROTmarnanorrey}Marna Norrey"
+          age="12"
+          voice="earnest"
+          is_female="true"
+          default_group="Cavalry"
+          is_hero="true"
+          culture="Culture.battania"
+          occupation="Lord"
+          face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+              weight="0.99"
+              build="0.99"
+              key="0005CC0FD11409D06374C70642509D97958B806295D556E5746AF00F8BA81F04009116030903514770000000000000000000000000000036000000003D2C7002" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills"
+           value="5" />
+      <Trait id="Commander"
+           value="4" />
+      <Trait id="Politician"
+           value="3" />
+      <Trait id="Manager"
+           value="4" />
 
+      <Trait id="Honor"
+           value="1" />
+      <Trait id="Valor"
+           value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="bat_bat_template_lady" />
+      <EquipmentSet id="bat_noncom_template_flamboyant"
+              civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="ROTlord_395"
+                name="{=ROTdunstandrumm}Dunstan Drumm"
+                age="44"
+                voice="earnest"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                      weight="0.0177"
+                      build="0.5336"
+                      key="0005580AC058148059AB889F6A849A68AA779A998D8ED4767782AC7E2256AA74010006450BA47443B000000000000000000000000000004B000000003B742002" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills"
+             value="5" />
+      <Trait id="Commander"
+             value="5" />
+      <Trait id="Politician"
+             value="2" />
+      <Trait id="Manager"
+             value="3" />
+      <Trait id="Valor"
+             value="1" />
+      <Trait id="Calculating"
+             value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="stu_bat_template_heavy" />
+      <EquipmentSet id="stu_civ_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="ROTlord_396"
+                name="{=ROTdenysdrumm}Denys Drumm"
+                age="24"
+                voice="earnest"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                      weight="0.0577"
+                      build="0.6336"
+                      key="0005580AC058178A59AB889F6A849A68AA779A998D8ED4767782AC7E2256AA7701000614FBA47443C000000000000000000000000000001B000000003B742002" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills"
+             value="6" />
+      <Trait id="Commander"
+             value="5" />
+      <Trait id="Politician"
+             value="2" />
+      <Trait id="Manager"
+             value="3" />
+      <Trait id="Valor"
+             value="1" />
+      <Trait id="Calculating"
+             value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="stu_bat_template_heavy" />
+      <EquipmentSet id="stu_civ_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="ROTlord_397"
+                name="{=ROTdonneldrumm}Donnel Drumm"
+                age="22"
+                voice="earnest"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                      weight="0.99"
+                      build="0.6336"
+                      key="000A780F0000190994800B9F3B31288737AC765AF2D7A91197983F76731640730199C035FA0A770FB700000000000000000000000000003A000000005D604002" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills"
+             value="6" />
+      <Trait id="Commander"
+             value="5" />
+      <Trait id="Politician"
+             value="2" />
+      <Trait id="Manager"
+             value="3" />
+      <Trait id="Valor"
+             value="1" />
+      <Trait id="Calculating"
+             value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="stu_bat_template_heavy" />
+      <EquipmentSet id="stu_civ_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="ROTlord_398"
+                name="{=ROTandrikunsmiling}Andrik the Unsmiling"
+                age="30"
+                voice="earnest"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                      weight="0.99"
+                      build="0.99"
+                      key="0005500F00440A0249A67962000F2693E3EFBE7528914639236B90548BFBD5A500FFF6030F9CA7B667FFFF0000EEFF05000000000000002F0000000001FC5102" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills"
+             value="10" />
+      <Trait id="Commander"
+             value="5" />
+      <Trait id="Politician"
+             value="2" />
+      <Trait id="Manager"
+             value="3" />
+      <Trait id="Valor"
+             value="2" />
+      <Trait id="Calculating"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="stu_bat_template_heavy" />
+      <EquipmentSet id="stu_civ_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="ROTlord_399"
+                name="{=ROTladydrumm}Lady Drumm of Old Wyk"
+                age="40"
+                voice="earnest"
+                is_female="true"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                      weight="0.5"
+                      build="0.5"
+                      key="0000800FD114300AA0855D13510011101CEE893975504F037FE3F81F7EFA41410087760308F0131F00100000000000100000000000001708000000004D0C4003" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Manager"
+             value="3" />
+      <Trait id="Valor"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_lady" />
+      <EquipmentSet id="stu_civ_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="ROTlord_400"
+                name="{=ROTdenisedrumm}Denise Drumm"
+                age="16"
+                voice="earnest"
+                is_female="true"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                      weight="0.5"
+                      build="0.5"
+                      key="0000800FD1143010A0855410510011101CEE893975504F037FE3F81F7EFA4141009356030970131700100000000000100000000000001708000000004D3C1003" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Manager"
+             value="3" />
+      <Trait id="Valor"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_lady" />
+      <EquipmentSet id="stu_civ_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="ROTlord_401"
+                name="{=ROTdagonadrumm}Dagona Drumm"
+                age="10"
+                voice="earnest"
+                is_female="true"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                      weight="0.5"
+                      build="0.5"
+                      key="0000800FD1143006A0855410510011101CEE893975504F037FE3F81F7EFA414100B956030B70131700100000000000100000000000001708000000004D641003" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Manager"
+             value="3" />
+      <Trait id="Valor"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_lady" />
+      <EquipmentSet id="stu_civ_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="ROTlord_402"
+                name="{=ROTregnadrumm}Regna Drumm"
+                age="3"
+                voice="earnest"
+                is_female="true"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                      weight="0.5"
+                      build="0.5"
+                      key="0000800FD1143008A0855410510011101CEE893975504F037FE3F81F7EFA414100C106030C70131700100000000000100000000000001708000000004D841003" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Manager"
+             value="3" />
+      <Trait id="Valor"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_lady" />
+      <EquipmentSet id="stu_civ_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="ROTlord_403"
+                name="{=ROTmeldredmerlyn}Meldred Merlyn"
+                age="39"
+                voice="earnest"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                      weight="0.99"
+                      build="0.99"
+                      key="00159C0980CC0A402A7E5F71EFEE599FD999A8C688FE1744DCA7BB45A498AC47FFFEF635076B854AFF9ABE6A8E9F73F50000000000000037000000002AEC6142" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills"
+             value="6" />
+      <Trait id="Commander"
+             value="5" />
+      <Trait id="Politician"
+             value="2" />
+      <Trait id="Manager"
+             value="3" />
+      <Trait id="Valor"
+             value="1" />
+      <Trait id="Calculating"
+             value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="stu_bat_template_heavy" />
+      <EquipmentSet id="stu_civ_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="ROTlord_404"
+                name="{=ROTmaronmerlyn}Maron Merlyn"
+                age="20"
+                voice="earnest"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                      weight="0.2"
+                      build="0.99"
+                      key="00159C0980CC03892A7E5278EFE35992D999A8C688FE1744DCA7BB45A498AC47007FF603076B854A7F9ABE6A0E9F73F50000000000000037000000002AEC6142" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills"
+             value="6" />
+      <Trait id="Commander"
+             value="5" />
+      <Trait id="Politician"
+             value="2" />
+      <Trait id="Manager"
+             value="3" />
+      <Trait id="Valor"
+             value="1" />
+      <Trait id="Calculating"
+             value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="stu_bat_template_heavy" />
+      <EquipmentSet id="stu_civ_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="ROTlord_405"
+                name="{=ROTmarismerlyn}Maris Merlyn"
+                age="16"
+                voice="earnest"
+                is_female="true"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                      weight="0.2"
+                      build="0.2"
+                      key="00009C0D0000000F2A7E5270EFE15990D999A8C688FE1744DCA7EB4AA498AC4700742603076B854A7F9ABE6A0E9F73F50000000000000037000000002AEC1103" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Manager"
+             value="3" />
+      <Trait id="Valor"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_lady" />
+      <EquipmentSet id="stu_civ_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="ROTlord_406"
+                name="{=ROTladymerlyn}Lady Merlyn of Pebbleton"
+                age="37"
+                voice="earnest"
+                is_female="true"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                      weight="0.5"
+                      build="0.5"
+                      key="00004800100000042A7050000001E900D999A8C688F7B7440CA7B00FA498AC4700742603070B85407F9ABE6A0E9F73F50000000000000037000000002AEC1103" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Manager"
+             value="3" />
+      <Trait id="Valor"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_lady" />
+      <EquipmentSet id="stu_civ_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="ROTlord_407"
+                name="{=ROTmanfrydmerlyn}Manfryd Merlyn"
+                age="35"
+                voice="earnest"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                      weight="0.99"
+                      build="0.99"
+                      key="00154C0200A00A4AF67E10C032F880A711B8874771FB1F11EFE0EF7F7B300058D66FA61308EA871972E8CB9A74775EBA0000000000001F18000000001CFC70C2" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills"
+             value="6" />
+      <Trait id="Commander"
+             value="5" />
+      <Trait id="Politician"
+             value="2" />
+      <Trait id="Manager"
+             value="3" />
+      <Trait id="Valor"
+             value="1" />
+      <Trait id="Calculating"
+             value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="stu_bat_template_heavy" />
+      <EquipmentSet id="stu_civ_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="ROTlord_408"
+                name="{=ROTmerrellpyke}Merrell Pyke"
+                age="4"
+                voice="earnest"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                      weight="0.2"
+                      build="0.89"
+                      key="00154C0000A00A4AF67E10C032F880A011B8874771FB1F11EFE0EF7F7B3000580079360307EA871972E8CB9A74775EBA0000000000001F18000000001CFC70C2" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills"
+             value="7" />
+      <Trait id="Commander"
+             value="5" />
+      <Trait id="Politician"
+             value="2" />
+      <Trait id="Manager"
+             value="3" />
+      <Trait id="Valor"
+             value="1" />
+      <Trait id="Calculating"
+             value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="stu_bat_template_heavy" />
+      <EquipmentSet id="stu_civ_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="ROTlord_409"
+                name="{=ROTgylbertfarwynd}Gylbert Farwynd"
+                age="41"
+                voice="earnest"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                      weight="0.1"
+                      build="0.85"
+                      key="00006C0FC00030026080062900000031F5EE3BA6D010FF5CB2377F3F7B5E1E0300ED16030E49701F1000000000000000000000000000003E000000002DCC30C2" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills"
+             value="5" />
+      <Trait id="Commander"
+             value="5" />
+      <Trait id="Politician"
+             value="2" />
+      <Trait id="Manager"
+             value="3" />
+      <Trait id="Valor"
+             value="1" />
+      <Trait id="Calculating"
+             value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="stu_bat_template_heavy" />
+      <EquipmentSet id="stu_civ_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="ROTlord_410"
+                name="{=ROTgylesfarwynd}Gyles Farwynd"
+                age="26"
+                voice="earnest"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                      weight="0.2"
+                      build="0.55"
+                      key="00006C0FC00037836080062900000031F5EE3BA6D010FF5CB2377F3F7B5E1E03001016130C49701F9000000000000000000000000000001C000000002D9C30C2" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills"
+             value="6" />
+      <Trait id="Commander"
+             value="5" />
+      <Trait id="Politician"
+             value="2" />
+      <Trait id="Manager"
+             value="3" />
+      <Trait id="Valor"
+             value="1" />
+      <Trait id="Calculating"
+             value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="stu_bat_template_heavy" />
+      <EquipmentSet id="stu_civ_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="ROTlord_411"
+                name="{=ROTygonfarwynd}Ygon Farwynd"
+                age="20"
+                voice="earnest"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                      weight="0.2"
+                      build="0.55"
+                      key="00006C0FC00037906080062900000031F5EE3BA6D010FF5CB2377F3F7B5E1E0300C836030C49701F1000000000000000000000000000001C000000002D9C30C2" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills"
+             value="6" />
+      <Trait id="Commander"
+             value="5" />
+      <Trait id="Politician"
+             value="2" />
+      <Trait id="Manager"
+             value="3" />
+      <Trait id="Valor"
+             value="1" />
+      <Trait id="Calculating"
+             value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="stu_bat_template_heavy" />
+      <EquipmentSet id="stu_civ_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="ROTlord_412"
+                name="{=ROTyohnfarwynd}Yohn Farwynd"
+                age="16"
+                voice="earnest"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                      weight="0.2"
+                      build="0.55"
+                      key="00006C0FC00037836080062900000031F5EE3BA6D010FF5CB2377F3F7B5E1E03001016130C49701F9000000000000000000000000000001C000000002D9C30C2" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills"
+             value="6" />
+      <Trait id="Commander"
+             value="5" />
+      <Trait id="Politician"
+             value="2" />
+      <Trait id="Manager"
+             value="3" />
+      <Trait id="Valor"
+             value="1" />
+      <Trait id="Calculating"
+             value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="stu_bat_template_heavy" />
+      <EquipmentSet id="stu_civ_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="ROTlord_413"
+                name="{=ROTladyfarwynd}Lady Farwynd of Lonely Light"
+                age="40"
+                voice="earnest"
+                is_female="true"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                      weight="0.5"
+                      build="0.5"
+                      key="000248079014300A87486306EFF17661534E89975A9C8903A7E0FF3E86FD6302007106030700891D00000000000000000000000000000000000000006CF42043" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Manager"
+             value="3" />
+      <Trait id="Valor"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_lady" />
+      <EquipmentSet id="stu_civ_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="ROTlord_414"
+                name="{=ROTgyllafarwynd}Gylla Farwynd"
+                age="11"
+                voice="earnest"
+                is_female="true"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                      weight="0.5"
+                      build="0.5"
+                      key="0002540F1014301587700000E0907600534E89975A9C8903A7E0FF3E86FD6302007006030700891D00000000000000000000000000000000000000006CF42043" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Manager"
+             value="3" />
+      <Trait id="Valor"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_lady" />
+      <EquipmentSet id="stu_civ_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+        <NPCCharacter id="ROTlord_415"
+          name="{=ROTynafarwynd}Yna Farwynd"
+          age="7"
+          voice="earnest"
+          default_group="Cavalry"
+          is_hero="true"
+          culture="Culture.sturgia"
+          occupation="Lord"
+          face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                weight="0.2"
+                build="0.35"
+                key="00006C0F107038C26080062900000031F5EE3BA6D010FF5CB237FF3F7B5E1E03006536030649701F1000000000000000000000000000004E0000000066D430C2" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills"
+             value="6" />
+      <Trait id="Commander"
+             value="5" />
+      <Trait id="Politician"
+             value="2" />
+      <Trait id="Manager"
+             value="3" />
+      <Trait id="Valor"
+             value="1" />
+      <Trait id="Calculating"
+             value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="emp_bat_template_lady" />
+      <EquipmentSet id="stu_civ_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="ROTlord_416"
+                name="{=ROTtristonfarwynd}Triston Farwynd"
+                age="33"
+                voice="earnest"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                      weight="0.2"
+                      build="0.35"
+                      key="00006C0F0D7038C46080062900000031F5EE3BA6D010FF5CB2377F3F7B5E1E03001016460E49701F1000000000000000000000000000004E0000000067CC30C2" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills"
+             value="6" />
+      <Trait id="Commander"
+             value="5" />
+      <Trait id="Politician"
+             value="2" />
+      <Trait id="Manager"
+             value="3" />
+      <Trait id="Valor"
+             value="1" />
+      <Trait id="Calculating"
+             value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="stu_bat_template_heavy" />
+      <EquipmentSet id="stu_civ_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="ROTlord_417"
+                name="{=ROTwexsunderly}Wex Sunderly"
+                age="40"
+                voice="earnest"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                      weight="0.2"
+                      build="0.75"
+                      key="0005540F155812C24D5C779759898D6A556C9BA277B947A2713B8BB7D1222AA6008A660308444278000000000000000000000000000000000000000042FC80C2" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills"
+             value="6" />
+      <Trait id="Commander"
+             value="5" />
+      <Trait id="Politician"
+             value="2" />
+      <Trait id="Manager"
+             value="3" />
+      <Trait id="Valor"
+             value="1" />
+      <Trait id="Calculating"
+             value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="stu_bat_template_heavy" />
+      <EquipmentSet id="stu_civ_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="ROTlord_418"
+                name="{=ROTsylassunderly}Sylas Sunderly"
+                age="14"
+                voice="earnest"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                      weight="0.2"
+                      build="0.35"
+                      key="0005540F005813814D5C779759898D6A556C9BA277B947A2713B8BB7D1222AA6008A660308444278000000000000000000000000000000000000000042FC80C2" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills"
+             value="6" />
+      <Trait id="Commander"
+             value="5" />
+      <Trait id="Politician"
+             value="2" />
+      <Trait id="Manager"
+             value="3" />
+      <Trait id="Valor"
+             value="1" />
+      <Trait id="Calculating"
+             value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="stu_bat_template_heavy" />
+      <EquipmentSet id="stu_civ_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="ROTlord_419"
+          name="{=ROTshierasunderly}Shiera Sunderly"
+          age="11"
+          voice="earnest"
+          is_female="true"
+          default_group="Cavalry"
+          is_hero="true"
+          culture="Culture.sturgia"
+          occupation="Lord"
+          face_mesh_cache="true">
+  <face>
+  <BodyProperties version="4"
+                weight="0.5"
+                build="0.5"
+                key="0000540F000010014D5C779759898D6A556C9BA277B947A2713B8BB7D1222AA6008A660308444278000000000000000000000000000000000000000042FC40C3" />
+  </face>
+  <skills></skills>
+  <Traits>
+  <Trait id="Manager"
+       value="3" />
+  <Trait id="Valor"
+       value="1" />
+  </Traits>
+  <Equipments>
+  <EquipmentRoster />
+  <EquipmentSet id="emp_bat_template_lady" />
+  <EquipmentSet id="stu_civ_template_default"
+              civilian="true" />
+  </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="ROTlord_420"
+            name="{=ROTladysunderly}Lady Sunderly of Saltcliffe"
+            age="30"
+            voice="earnest"
+            is_female="true"
+            default_group="Cavalry"
+            is_hero="true"
+            culture="Culture.sturgia"
+            occupation="Lord"
+            face_mesh_cache="true">
+  <face>
+  <BodyProperties version="4"
+                  weight="0.5"
+                  build="0.5"
+                  key="0000B80F0000100B4D5C779759898D6A556C9BA277B947A2713B8BB7D1222AA6008A660308444278000000000000000000000000000000000000000042FC40C3" />
+  </face>
+  <skills></skills>
+  <Traits>
+  <Trait id="Manager"
+         value="3" />
+  <Trait id="Valor"
+         value="1" />
+  </Traits>
+  <Equipments>
+  <EquipmentRoster />
+  <EquipmentSet id="emp_bat_template_lady" />
+  <EquipmentSet id="stu_civ_template_default"
+                civilian="true" />
+  </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="ROTlord_421"
+              name="{=ROTdonnorsaltcliffe}Donnor Saltcliffe"
+              age="25"
+              voice="earnest"
+              default_group="Cavalry"
+              is_hero="true"
+              culture="Culture.sturgia"
+              occupation="Lord"
+              face_mesh_cache="true">
+  <face>
+    <BodyProperties version="4"
+                    weight="0.2"
+                    build="0.35"
+                    key="00007400180014DB4D5C779759898D6A556C9BA277B947A2713B8BB7D1222AA6008A660308444278000000000000000000000000000000000000000042FC80C2" />
+  </face>
+  <skills></skills>
+  <Traits>
+    <Trait id="BalancedFightingSkills"
+           value="6" />
+    <Trait id="Commander"
+           value="5" />
+    <Trait id="Politician"
+           value="2" />
+    <Trait id="Manager"
+           value="3" />
+    <Trait id="Valor"
+           value="1" />
+    <Trait id="Calculating"
+           value="-1" />
+  </Traits>
+  <Equipments>
+    <EquipmentRoster />
+    <EquipmentSet id="stu_bat_template_heavy" />
+    <EquipmentSet id="stu_civ_template_default"
+                  civilian="true" />
+  </Equipments>
+  </NPCCharacter>
+
+	<NPCCharacter id="ROTlord_422"
+                name="{=tormofregar}Tormo Fregar"
+                age="45"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+                face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="000A480FC0E400032957A86796658C6838C84A5A2B78864DCD37EA985786398500897603085979360000000000000000000000000000000000000000471C5142" />
+		</face>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="8" />
+			<Trait id="Commander"
+				   value="7" />
+			<Trait id="Politician"
+				   value="7" />
+			<Trait id="Manager"
+				   value="6" />
+			<!-- somewhat bitter child of a traitor, rehabilitated and loyal to Rhagaea -->
+			<Trait id="Valor"
+				   value="1" />
+			<Trait id="Generosity"
+				   value="0" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="emp_bat_template_flamboyant" />
+			<EquipmentSet id="emp_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="ROTlord_423"
+				  name="{=maryafregar}Marya Fregar"
+				  age="39"
+				  voice="ironic"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.empire"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="0018980C40700010A93976D8E9955A299BD7644C5B486A85869A744C8B9276860081760308BD7688000000000000000000000000000000000000000047142103" />
+		</face>
+		<Traits>
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Generosity"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="1" />
+			<Trait id="Honor"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="emp_bat_template_lady" />
+			<EquipmentSet id="emp_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_424"
+                name="{=timotfregar}Timot Fregar"
+                age="23"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+                face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="0008480AC00006C12957A8679665896838C84A5A2B788647CD37EA985786398500897603085979360000000000000000000000000000000000000000471C5142" />
+		</face>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="7" />
+			<Trait id="Commander"
+				   value="5" />
+			<Trait id="Politician"
+				   value="5" />
+			<Trait id="Manager"
+				   value="4" />
+			<!-- somewhat bitter child of a traitor, rehabilitated and loyal to Rhagaea -->
+			<Trait id="Valor"
+				   value="1" />
+			<Trait id="Generosity"
+				   value="0" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="emp_bat_template_medium" />
+			<EquipmentSet id="emp_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_425"
+				  name="{=anyafregar}Anya Fregar"
+				  age="18"
+				  voice="ironic"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.empire"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="0000480C400000032957A86796658C6838C84A5A2B78864DCD37EA985786398500897603085979360000000000000000000000000000000000000000471C4103" />
+		</face>
+		<Traits>
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Generosity"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="1" />
+			<Trait id="Honor"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="emp_bat_template_lady" />
+			<EquipmentSet id="emp_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_426"
+				  name="{=sharicefregar}Sharice Fregar"
+				  age="16"
+				  voice="ironic"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.empire"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="0000480C400000062957A8679665896838C84A5A2B788647CD37EA985786398500897603085979360000000000000000000000000000000000000000471C2103" />
+		</face>
+		<Traits>
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Generosity"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="1" />
+			<Trait id="Honor"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="emp_bat_template_lady" />
+			<EquipmentSet id="emp_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_427"
+                name="{=qarrovolentin}Qarro Volentin"
+                age="42"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+                face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="0031D40C40B417CDA08CA696687624CD989A80878747BB9C5887FA95697AC86700CA26030CE5C5DB00000000000000000000000000000000000000000F8400C2" />
+		</face>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="8" />
+			<Trait id="Commander"
+				   value="7" />
+			<Trait id="Politician"
+				   value="7" />
+			<Trait id="Manager"
+				   value="6" />
+			<!-- somewhat bitter child of a traitor, rehabilitated and loyal to Rhagaea -->
+			<Trait id="Valor"
+				   value="1" />
+			<Trait id="Generosity"
+				   value="0" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="emp_bat_template_flamboyant" />
+			<EquipmentSet id="emp_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="ROTlord_428"
+				  name="{=ninavolentin}Nina Volentin"
+				  age="39"
+				  voice="ironic"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.empire"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="0031280D00881006965C8CA4A865BA767B87EC9D5BB6C68DA9689668AE2958D80078760307373969000000000000000000000000000000000000000048E400C3" />
+		</face>
+		<Traits>
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Generosity"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="1" />
+			<Trait id="Honor"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="emp_bat_template_lady" />
+			<EquipmentSet id="emp_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_429"
+                name="{=qathovolentin}Qatho Volentin"
+                age="23"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.empire"
+                occupation="Lord"
+                face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="0026D80D007017485E58645968BADE97956729784CE57D2779887881788586890089A60308595BA800000000000000000000000000000000000000002AFC7042" />
+		</face>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="7" />
+			<Trait id="Commander"
+				   value="5" />
+			<Trait id="Politician"
+				   value="5" />
+			<Trait id="Manager"
+				   value="4" />
+			<!-- somewhat bitter child of a traitor, rehabilitated and loyal to Rhagaea -->
+			<Trait id="Valor"
+				   value="1" />
+			<Trait id="Generosity"
+				   value="0" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="emp_bat_template_medium" />
+			<EquipmentSet id="emp_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_430"
+				  name="{=tiavolentin}Tia Volentin"
+				  age="18"
+				  voice="ironic"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.empire"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="0023CC0B9AA0000A93CB6CC47A26E48875964CE35766C781779B73A288496A370099560309A9465A00000000000000000000000000000000000000003B1C1103" />
+		</face>
+		<Traits>
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Generosity"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="1" />
+			<Trait id="Honor"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="emp_bat_template_lady" />
+			<EquipmentSet id="emp_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_431"
+				  name="{=shaevolentin}Shae Volentin"
+				  age="16"
+				  voice="ironic"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.empire"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="001088054070001195997A4C5C736B3A95A8B85C376A278179279673BCD5C53400598603058B6A4300000000000000000000000000000000000000003AA41043" />
+		</face>
+		<Traits>
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Generosity"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="1" />
+			<Trait id="Honor"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="emp_bat_template_lady" />
+			<EquipmentSet id="emp_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_432"
+                name="{=ordelloestatis}Ordello Estatis"
+                age="46"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.pentoshi"
+                occupation="Lord"
+                face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="001BD00140700404C3CA2478E59B948777764226B5387411497486389BA88C24014396140475CB9800000000000000000000000000000000000000001E8C2042" />
+		</face>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="7" />
+			<Trait id="Commander"
+				   value="6" />
+			<Trait id="Politician"
+				   value="7" />
+			<Trait id="Manager"
+				   value="6" />
+			<!-- somewhat bitter child of a traitor, rehabilitated and loyal to Rhagaea -->
+			<Trait id="Valor"
+				   value="-1" />
+			<Trait id="Generosity"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="pen_bat_template_medium" />
+			<EquipmentSet id="emp_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="ROTlord_433"
+				  name="{=valenaestatis}Valena Estatis"
+				  age="40"
+				  voice="ironic"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.pentoshi"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="0029880000B41007C3DCA67448954CAABC6BB967FB6A787775D6479B67B6985B016A361406767548000000000000000000000000000000000000000056D41103" />
+		</face>
+		<Traits>
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Generosity"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="1" />
+			<Trait id="Honor"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="pen_bat_template_lady" />
+			<EquipmentSet id="emp_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_434"
+                name="{=horaceestatis}Horace Estatis"
+                age="24"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.pentoshi"
+                occupation="Lord"
+                face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="00187C0400CC111CAE4853178CD3A466927871AD6776876386747954566A966401758614076A7659000000000000000000000000000000000000000036FC70C2" />
+		</face>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="7" />
+			<Trait id="Commander"
+				   value="5" />
+			<Trait id="Politician"
+				   value="5" />
+			<Trait id="Manager"
+				   value="4" />
+			<!-- somewhat bitter child of a traitor, rehabilitated and loyal to Rhagaea -->
+			<Trait id="Valor"
+				   value="-1" />
+			<Trait id="Generosity"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="pen_bat_template_medium" />
+			<EquipmentSet id="emp_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_435"
+				  name="{=sibellaestatis}Sibella Estatis"
+				  age="18"
+				  voice="ironic"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.pentoshi"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="00187C0000001007AE4853178CD3A466927871AD6776876386747954566A966401758614076A7659000000000000000000000000000000000000000036FC1103" />
+		</face>
+		<Traits>
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Generosity"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="1" />
+			<Trait id="Honor"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="pen_bat_template_lady" />
+			<EquipmentSet id="emp_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_436"
+				  name="{=ROTrachyelmoesia}Rhael Estatis"
+				  age="14"
+				  voice="ironic"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.pentoshi"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="00206C0000A030042546D4785EB42486A3D35586976C74AA85587A4B77845C850188861408469BB40000000000000000000000000000000000000000150400C3" />
+		</face>
+		<Traits>
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Generosity"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="1" />
+			<Trait id="Honor"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="pen_bat_template_lady" />
+			<EquipmentSet id="emp_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_437"
+                name="{=joryssontho}Jorys Sontho"
+                age="43"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.pentoshi"
+                occupation="Lord"
+                face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="001B580E40B416589A7AC5832D95694887198998A546C88824D75583D6BA6B75016B661406A78AAE000000000000000000000000000000000000000014DC1042" />
+		</face>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="8" />
+			<Trait id="Commander"
+				   value="6" />
+			<Trait id="Politician"
+				   value="7" />
+			<Trait id="Manager"
+				   value="6" />
+			<!-- somewhat bitter child of a traitor, rehabilitated and loyal to Rhagaea -->
+			<Trait id="Valor"
+				   value="1" />
+			<Trait id="Generosity"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="pen_bat_template_medium" />
+			<EquipmentSet id="emp_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="ROTlord_438"
+				  name="{=miasontho}Mia Sontho"
+				  age="39"
+				  voice="ironic"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.pentoshi"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="0023A00E4058300E4B6784767BB9B329499866CB7ACA686AB40C87789BC87678015B6614059C9E3400000000000000000000000000000000000000004E9C3003" />
+		</face>
+		<Traits>
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Generosity"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="1" />
+			<Trait id="Honor"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="pen_bat_template_lady" />
+			<EquipmentSet id="emp_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_439"
+                name="{=jamissontho}Jamis Sontho"
+                age="22"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.pentoshi"
+                occupation="Lord"
+                face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="0000440A5B2C13537CA78BB474E59A89454A4A937933576D7D7416889995D9AB0168D61406AC8978000000000000000000000000000000000000000026CC40C2" />
+		</face>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="7" />
+			<Trait id="Commander"
+				   value="5" />
+			<Trait id="Politician"
+				   value="5" />
+			<Trait id="Manager"
+				   value="4" />
+			<!-- somewhat bitter child of a traitor, rehabilitated and loyal to Rhagaea -->
+			<Trait id="Valor"
+				   value="-1" />
+			<Trait id="Generosity"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="pen_bat_template_medium" />
+			<EquipmentSet id="emp_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_440"
+				  name="{=joellasontho}Joella Sontho"
+				  age="18"
+				  voice="ironic"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.pentoshi"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="0015BC0E4044000A9484C8D65A83C7544C5A7459B59A9127AAB47778932886A80138C61403426499000000000000000000000000000000000000000014541003" />
+		</face>
+		<Traits>
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Generosity"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="1" />
+			<Trait id="Honor"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="pen_bat_template_lady" />
+			<EquipmentSet id="emp_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_441"
+				  name="{=carminsontho}Carmin Sontho"
+				  age="15"
+				  voice="ironic"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.pentoshi"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="00138C0AC0FC00107469523DD9A2776768EA9829682AA74829C457DFE68BA89B01578614054A998600000000000000000000000000000000000000002AAC4003" />
+		</face>
+		<Traits>
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Generosity"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="1" />
+			<Trait id="Honor"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="pen_bat_template_lady" />
+			<EquipmentSet id="emp_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_442"
+                name="{=belichostaegone}Belicho Staegone"
+                age="45"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.tyroshi"
+                occupation="Lord"
+                face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="0015B802801419474999585396563A678AABC799C16B86A8A77575B8B755566901A6A6140AB87893000000000000000000000000000000000000000055640002" />
+		</face>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="7" />
+			<Trait id="Commander"
+				   value="7" />
+			<Trait id="Politician"
+				   value="7" />
+			<Trait id="Manager"
+				   value="6" />
+			<!-- somewhat bitter child of a traitor, rehabilitated and loyal to Rhagaea -->
+			<Trait id="Valor"
+				   value="-1" />
+			<Trait id="Generosity"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="tyr_bat_template_medium" />
+			<EquipmentSet id="tyr_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="ROTlord_443"
+				  name="{=alanastaegone}Alana Staegone"
+				  age="39"
+				  voice="ironic"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.tyroshi"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="0020500B80FC2001E857AEA882B9C5138BA5A49A373689813572B4A2C56B8ABD017976140769A379000000000000000000000000000000000000000064FC3003" />
+		</face>
+		<Traits>
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Generosity"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="1" />
+			<Trait id="Honor"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="tyr_bat_template_lady" />
+			<EquipmentSet id="tyr_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_444"
+                name="{=leonstaegone}Leon Staegone"
+                age="23"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.tyroshi"
+                occupation="Lord"
+                face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="00187C0203703349AE93CDAB8926A645D7356A2828D297C67B8688A1975687A90159661405D9477B000000000000000000000000000000000000000062AC6082" />
+		</face>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="7" />
+			<Trait id="Commander"
+				   value="5" />
+			<Trait id="Politician"
+				   value="5" />
+			<Trait id="Manager"
+				   value="4" />
+			<!-- somewhat bitter child of a traitor, rehabilitated and loyal to Rhagaea -->
+			<Trait id="Valor"
+				   value="1" />
+			<Trait id="Generosity"
+				   value="0" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="tyr_bat_template_medium" />
+			<EquipmentSet id="tyr_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_445"
+				  name="{=shanastaegone}Shana Staegone"
+				  age="18"
+				  voice="ironic"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.tyroshi"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="001B280356CC30054848B7A88AD8B6697C86654B399B5A7949B269463B24C6C80193D614091B8EDA0000000000000000000000000000000000000000572C2003" />
+		</face>
+		<Traits>
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Generosity"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="1" />
+			<Trait id="Honor"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="tyr_bat_template_lady" />
+			<EquipmentSet id="tyr_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_446"
+				  name="{=freyastaegone}Freya Staegone"
+				  age="12"
+				  voice="ironic"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.tyroshi"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="0023B40400A03007A694E494548763675AA698BE8AE372A679BB64B79D67CE49014146140493C6350000000000000000000000000000000000000000569440C3" />
+		</face>
+		<Traits>
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Generosity"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="1" />
+			<Trait id="Honor"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="tyr_bat_template_lady" />
+			<EquipmentSet id="tyr_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_447"
+                name="{=roroohoris}Roro Ohoros"
+                age="43"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.tyroshi"
+                occupation="Lord"
+                face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="00294406004433D4C4B597379AA26CD8569A6AA62A9BD9EBB3952178B4992AF5016916140674326E000000000000000000000000000000000000000034C430C2" />
+		</face>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="7" />
+			<Trait id="Commander"
+				   value="7" />
+			<Trait id="Politician"
+				   value="7" />
+			<Trait id="Manager"
+				   value="6" />
+			<!-- somewhat bitter child of a traitor, rehabilitated and loyal to Rhagaea -->
+			<Trait id="Valor"
+				   value="0" />
+			<Trait id="Generosity"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="tyr_bat_template_medium" />
+			<EquipmentSet id="tyr_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="ROTlord_448"
+				  name="{=niminaohoris}Nimina Ohoros"
+				  age="39"
+				  voice="ironic"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.tyroshi"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="0010400200CC001533849277D76DD797994744D2EB7B897BA57C7779976BA67D0167C61406A6C8A900000000000000000000000000000000000000002ECC3043" />
+		</face>
+		<Traits>
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Generosity"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="1" />
+			<Trait id="Honor"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="tyr_bat_template_lady" />
+			<EquipmentSet id="tyr_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_449"
+                name="{=ricoohoris}Rico Ohoros"
+                age="26"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.tyroshi"
+                occupation="Lord"
+                face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="0013E404C044258466969D7EC5117888584DC8C9568DC79D826A8A8A3324B56D011B6614016CA679000000000000000000000000000000000000000044248082" />
+		</face>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="7" />
+			<Trait id="Commander"
+				   value="5" />
+			<Trait id="Politician"
+				   value="5" />
+			<Trait id="Manager"
+				   value="4" />
+			<!-- somewhat bitter child of a traitor, rehabilitated and loyal to Rhagaea -->
+			<Trait id="Valor"
+				   value="1" />
+			<Trait id="Generosity"
+				   value="0" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="tyr_bat_template_medium" />
+			<EquipmentSet id="tyr_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_450"
+				  name="{=rianaohoris}Riana Ohoros"
+				  age="18"
+				  voice="ironic"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.tyroshi"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="002038034014300AC46C6377F486D754763BA35364673748AB764CA437246794018C6614083576590000000000000000000000000000000000000000290C3003" />
+		</face>
+		<Traits>
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Generosity"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="1" />
+			<Trait id="Honor"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="tyr_bat_template_lady" />
+			<EquipmentSet id="tyr_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_451"
+				  name="{=alyraohoris}Alyra Ohoros"
+				  age="10"
+				  voice="ironic"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.tyroshi"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="001E8C0A4070300D6B78B745A57083B672A94AA4A96972D674516B958A959CAC018276140884888400000000000000000000000000000000000000005F0C4003" />
+		</face>
+		<Traits>
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Generosity"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="1" />
+			<Trait id="Honor"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="tyr_bat_template_lady" />
+			<EquipmentSet id="tyr_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_452"
+                name="{=matenoorthys}Matteno Orthys"
+                age="43"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.lyseni"
+                occupation="Lord"
+                face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="001E2C06C0FC3A51B868944984939A86574B594B75A679EB47DA53CBD7B2A86D0016A6030172D9950000000000000000000000000000000000000000582C8102" />
+		</face>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="7" />
+			<Trait id="Commander"
+				   value="7" />
+			<Trait id="Politician"
+				   value="7" />
+			<Trait id="Manager"
+				   value="6" />
+			<!-- somewhat bitter child of a traitor, rehabilitated and loyal to Rhagaea -->
+			<Trait id="Valor"
+				   value="1" />
+			<Trait id="Generosity"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="lys_bat_template_heavy" />
+			<EquipmentSet id="lys_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="ROTlord_453"
+				  name="{=tianaorthys}Tiana Orthys"
+				  age="40"
+				  voice="ironic"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.lyseni"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="001BC00600581005DC9667B23B9A98A6C6765747673C469AA653673A68C9C39E0068360306D75869000000000000000000000000000000000000000028C40103" />
+		</face>
+		<Traits>
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Generosity"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="1" />
+			<Trait id="Honor"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="lys_bat_template_lady" />
+			<EquipmentSet id="lys_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_454"
+                name="{=pauliorthys}Pauli Orthys"
+                age="22"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.lyseni"
+                occupation="Lord"
+                face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="001E6C020070184B549BBA6479DA5A165897B7994DB691C586F6AB62C484B499009B76030958D8E8000000000000000000000000000000000000000049342002" />
+		</face>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="7" />
+			<Trait id="Commander"
+				   value="5" />
+			<Trait id="Politician"
+				   value="5" />
+			<Trait id="Manager"
+				   value="4" />
+			<!-- somewhat bitter child of a traitor, rehabilitated and loyal to Rhagaea -->
+			<Trait id="Valor"
+				   value="1" />
+			<Trait id="Generosity"
+				   value="0" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="lys_bat_template_medium" />
+			<EquipmentSet id="lys_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_455"
+				  name="{=mariaorthys}Maria Orthys"
+				  age="18"
+				  voice="ironic"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.lyseni"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="001E5400000010056588B8A6525AB68B27968A9A9446686356B8C384CC6467A40082760308DB47C4000000000000000000000000000000000000000048FC0103" />
+		</face>
+		<Traits>
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Generosity"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="1" />
+			<Trait id="Honor"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="lys_bat_template_lady" />
+			<EquipmentSet id="lys_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_456"
+				  name="{=roxiaorthys}Roxia Orthys"
+				  age="12"
+				  voice="ironic"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.lyseni"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="002B7C0200700008548B884778658AD947931954E67C68495A84E587D58376C90079D6030787A95600000000000000000000000000000000000000005CF40043" />
+		</face>
+		<Traits>
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Generosity"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="1" />
+			<Trait id="Honor"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="lys_bat_template_lady" />
+			<EquipmentSet id="lys_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_457"
+                name="{=galeoterys}Galeo Terys"
+                age="46"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.myrish"
+                occupation="Lord"
+                face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="0018CC0F004432D7C824BA47D4BBE12EB5986D44478A62786DCCE9887C59AA8800ADA6030A4C68050000000000000000000000000000000000000000274C0102" />
+		</face>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="8" />
+			<Trait id="Commander"
+				   value="7" />
+			<Trait id="Politician"
+				   value="7" />
+			<Trait id="Manager"
+				   value="6" />
+			<!-- somewhat bitter child of a traitor, rehabilitated and loyal to Rhagaea -->
+			<Trait id="Valor"
+				   value="0" />
+			<Trait id="Generosity"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="myr_bat_template_medium" />
+			<EquipmentSet id="myr_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="ROTlord_458"
+				  name="{=rashelleterys}Rashelle Terys"
+				  age="41"
+				  voice="ironic"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.myrish"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="001510020044000784A57641A147A337B8A759A7A2D88857AA48B29A24477A65006616030663696600000000000000000000000000000000000000002ED41043" />
+		</face>
+		<Traits>
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Generosity"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="1" />
+			<Trait id="Honor"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="myr_bat_template_lady" />
+			<EquipmentSet id="myr_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_459"
+                name="{=jamosterys}Jamos Terys"
+                age="25"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.myrish"
+                occupation="Lord"
+                face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="001E8C0D80B409CD767824E5665B3D3D8773796CC2899CC8888A4366B7A5A89800A5A6030A48B981000000000000000000000000000000000000000063443002" />
+		</face>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="7" />
+			<Trait id="Commander"
+				   value="5" />
+			<Trait id="Politician"
+				   value="5" />
+			<Trait id="Manager"
+				   value="6" />
+			<!-- somewhat bitter child of a traitor, rehabilitated and loyal to Rhagaea -->
+			<Trait id="Valor"
+				   value="1" />
+			<Trait id="Generosity"
+				   value="0" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="myr_bat_template_medium" />
+			<EquipmentSet id="myr_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_460"
+				  name="{=carmea Terys}Carmea Terys"
+				  age="19"
+				  voice="ironic"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.myrish"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="00237404C0A0000B49C6D49A7EA2ACB6A735AD693A79787B6884616676B9893B0055A6030556B72500000000000000000000000000000000000000004CB42083" />
+		</face>
+		<Traits>
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Generosity"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="1" />
+			<Trait id="Honor"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="myr_bat_template_lady" />
+			<EquipmentSet id="myr_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_461"
+				  name="{=eliaterys}Elia Terys"
+				  age="12"
+				  voice="ironic"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.myrish"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="001E980D805830027C9B63BA69AA4793797D5D84C5B7489D95764865554864530047560304A6D84B00000000000000000000000000000000000000005A8C2103" />
+		</face>
+		<Traits>
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Generosity"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="1" />
+			<Trait id="Honor"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="myr_bat_template_lady" />
+			<EquipmentSet id="myr_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_462"
+                name="{=belynnoEranos}Belynno Eranos"
+                age="43"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.lorathi"
+                occupation="Lord"
+                face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="0018680600701488526A6588A6A645A566567759AB88B6796C3A5955577888C803A646350A36883400000000000000000000000000000000000000004D4420C2" />
+		</face>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="7" />
+			<Trait id="Commander"
+				   value="6" />
+			<Trait id="Politician"
+				   value="7" />
+			<Trait id="Manager"
+				   value="6" />
+			<!-- somewhat bitter child of a traitor, rehabilitated and loyal to Rhagaea -->
+			<Trait id="Valor"
+				   value="1" />
+			<Trait id="Generosity"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="lor_bat_template_medium" />
+			<EquipmentSet id="emp_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="ROTlord_463"
+				  name="{=nadiaeranos}Nadia Eranos"
+				  age="40"
+				  voice="ironic"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.lorathi"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="0008E40280A03001C399A8A66C47D188B68873711C59726865CA466A686DA7320374863507986AC2000000000000000000000000000000000000000026DC1043" />
+		</face>
+		<Traits>
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Generosity"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="1" />
+			<Trait id="Honor"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="lor_bat_template_lady" />
+			<EquipmentSet id="emp_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_464"
+                name="{=chicoeranos}Chico Eranos"
+                age="25"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.lorathi"
+                occupation="Lord"
+                face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="0018380600A001995958575152C75BE499B74997487776769EB8AB467A95594403384635033A6AB700000000000000000000000000000000000000005E7450C2" />
+		</face>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="7" />
+			<Trait id="Commander"
+				   value="5" />
+			<Trait id="Politician"
+				   value="5" />
+			<Trait id="Manager"
+				   value="4" />
+			<!-- somewhat bitter child of a traitor, rehabilitated and loyal to Rhagaea -->
+			<Trait id="Valor"
+				   value="-1" />
+			<Trait id="Generosity"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="lor_bat_template_medium" />
+			<EquipmentSet id="emp_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_465"
+				  name="{=teresaeranos}Teresa Eranos"
+				  age="19"
+				  voice="ironic"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.lorathi"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="001E3C0800E40002278597A76568CA63C2CAAA6A25987EBB8875B78BA48877A403DC46350D564D98000000000000000000000000000000000000000033AC2003" />
+		</face>
+		<Traits>
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Generosity"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="1" />
+			<Trait id="Honor"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="lor_bat_template_lady" />
+			<EquipmentSet id="emp_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_466"
+				  name="{=evelineranos}Evelin Eranos"
+				  age="16"
+				  voice="ironic"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.lorathi"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="00138407800030067968A74C8A27479C5C4BCDD4BC864B756896C6B779835B6B03427635047356B6000000000000000000000000000000000000000072842103" />
+		</face>
+		<Traits>
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Generosity"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="1" />
+			<Trait id="Honor"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="lor_bat_template_lady" />
+			<EquipmentSet id="emp_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_467"
+                name="{=dorokasgos}Doro Kasgos"
+                age="42"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.norvos"
+                occupation="Lord"
+                face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="001BC00FC04433927618B769985A995758A98659B4B98AC7E7DD86B8786687B500984603092B877A00000000000000000000000000000000000000000D1C60C2" />
+		</face>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="7" />
+			<Trait id="Commander"
+				   value="6" />
+			<Trait id="Politician"
+				   value="7" />
+			<Trait id="Manager"
+				   value="6" />
+			<!-- somewhat bitter child of a traitor, rehabilitated and loyal to Rhagaea -->
+			<Trait id="Valor"
+				   value="-1" />
+			<Trait id="Generosity"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="nor_bat_template_medium" />
+			<EquipmentSet id="nor_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="ROTlord_468"
+				  name="{=joannakasgos}Joanna Kasgos"
+				  age="39"
+				  voice="ironic"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.norvos"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="002E600FC0141002AA44B84A9443CB93C99968977E468BBB77489687358AAC910064D60306886378000000000000000000000000000000000000000040C40043" />
+		</face>
+		<Traits>
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Generosity"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="1" />
+			<Trait id="Honor"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="nor_bat_template_lady" />
+			<EquipmentSet id="nor_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_469"
+                name="{=denyskasgos}Denys Kasgos"
+                age="22"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.norvos"
+                occupation="Lord"
+                face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="0029780340B437D8A879627BB958AC9B8D749EA97478CE933583A2A23A3587A7005A960305B5D77A000000000000000000000000000000000000000004AC5082" />
+		</face>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="7" />
+			<Trait id="Commander"
+				   value="5" />
+			<Trait id="Politician"
+				   value="5" />
+			<Trait id="Manager"
+				   value="4" />
+			<!-- somewhat bitter child of a traitor, rehabilitated and loyal to Rhagaea -->
+			<Trait id="Valor"
+				   value="-1" />
+			<Trait id="Generosity"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="nor_bat_template_medium" />
+			<EquipmentSet id="nor_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_470"
+				  name="{=breakasgos}Brea Kasgos"
+				  age="19"
+				  voice="ironic"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.norvos"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="00365C0280B4300AC887B8AA7615A8AA98674BC867BA9769A297DD6457757A93006696030696B99300000000000000000000000000000000000000001CBC2003" />
+		</face>
+		<Traits>
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Generosity"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="1" />
+			<Trait id="Honor"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="nor_bat_template_lady" />
+			<EquipmentSet id="nor_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_471"
+				  name="{=amiakasgos}Amia Kasgos"
+				  age="12"
+				  voice="ironic"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.norvos"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="001EE40140CC00071B6FC748B3B5735A91879B689246854678B693A865BBAB280075860307A9964600000000000000000000000000000000000000001CE42003" />
+		</face>
+		<Traits>
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Generosity"
+				   value="1" />
+			<Trait id="Calculating"
+				   value="-1" />
+			<Trait id="Honor"
+				   value="0" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="nor_bat_template_lady" />
+			<EquipmentSet id="nor_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_472"
+                name="{=craghastendiras}Craghas Tendiras"
+                age="42"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.qohorik"
+                occupation="Lord"
+                face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="0026A80800FC1005C6A3A1A664D9A1C5461B727C87582452963665A9752C8B650066A6030672858500000000000000000000000000000000000000006AD420C2" />
+		</face>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="7" />
+			<Trait id="Commander"
+				   value="6" />
+			<Trait id="Politician"
+				   value="7" />
+			<Trait id="Manager"
+				   value="6" />
+			<!-- somewhat bitter child of a traitor, rehabilitated and loyal to Rhagaea -->
+			<Trait id="Valor"
+				   value="1" />
+			<Trait id="Generosity"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="qoh_bat_template_medium" />
+			<EquipmentSet id="qoh_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="ROTlord_473"
+				  name="{=deniciatendiras}Denicia Tendiras"
+				  age="38"
+				  voice="ironic"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.qohorik"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="00318C0980001012666C538C89B5748B887658B86BB784789793896C4751660A00345603038683B900000000000000000000000000000000000000003E7440C3" />
+		</face>
+		<Traits>
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Generosity"
+				   value="0" />
+			<Trait id="Calculating"
+				   value="1" />
+			<Trait id="Honor"
+				   value="0" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="qoh_bat_template_lady" />
+			<EquipmentSet id="qoh_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_474"
+                name="{=gorostendiras}Goros Tendiras"
+                age="22"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.qohorik"
+                occupation="Lord"
+                face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="00262406D77002969956B4B7D8916B9328DBA6985499AAB99556886B875A476400978603093B6A77000000000000000000000000000000000000000057243002" />
+		</face>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="7" />
+			<Trait id="Commander"
+				   value="5" />
+			<Trait id="Politician"
+				   value="5" />
+			<Trait id="Manager"
+				   value="4" />
+			<!-- somewhat bitter child of a traitor, rehabilitated and loyal to Rhagaea -->
+			<Trait id="Valor"
+				   value="-1" />
+			<Trait id="Generosity"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="qoh_bat_template_medium" />
+			<EquipmentSet id="qoh_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_475"
+				  name="{=gisellatendiras}Gisella Tendiras"
+				  age="19"
+				  voice="ironic"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.qohorik"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="00235C0AC0FC100B7A3142A656A8D577AE93A44496982865A6652A79245578B6002C860302329CA1000000000000000000000000000000000000000038444103" />
+		</face>
+		<Traits>
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Generosity"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="1" />
+			<Trait id="Honor"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="qoh_bat_template_lady" />
+			<EquipmentSet id="qoh_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_476"
+				  name="{=helenatenderas}Helena Tendiras"
+				  age="13"
+				  voice="ironic"
+				  is_female="true"
+				  default_group="Cavalry"
+				  is_hero="true"
+				  culture="Culture.qohorik"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="00310C0AC0A00005786588882EB63252A8699889747715779A38CB49D779866800BA86030BD3A27700000000000000000000000000000000000000004B7420C3" />
+		</face>
+		<Traits>
+			<Trait id="Politician"
+				   value="3" />
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Generosity"
+				   value="-1" />
+			<Trait id="Calculating"
+				   value="1" />
+			<Trait id="Honor"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="qoh_bat_template_lady" />
+			<EquipmentSet id="qoh_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_477"
+                name="{=tomarsumai}Tomar Sumai"
+                age="42"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.sarnor"
+                occupation="Lord"
+                face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.562"
+							build="0.6083"
+							key="0039580D80002858676A5666E6948398875B63966686A62839175889897B276501B946140B66783900000000000000000000000000000000000000003B6C8002" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="7" />
+			<Trait id="Commander"
+				   value="7" />
+			<Trait id="Politician"
+				   value="7" />
+			<Trait id="Manager"
+				   value="6" />
+			<Trait id="Calculating"
+				   value="-1" />
+			<Trait id="Generosity"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="sar_bat_template_heavy" />
+			<EquipmentSet id="sar_civ_template_flamboyant"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_478"
+                name="{=reginasumai}Regina Sumai"
+                is_female="true"
+                age="39"
+                voice="softspoken"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.sarnor"
+                occupation="Lord"
+                face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.4"
+							build="0.5"
+							key="00362C0D80E430145AB731493C439A66BABC7274755573C76D9256A66728767801999614096D765B0000000000000000000000000000000000000000513C4103" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="CavalryFightingSkills"
+				 value="5" />
+			<Trait id="Commander"
+				   value="4" />
+			<Trait id="Politician"
+				   value="5" />
+			<Trait id="Manager"
+				 value="5" />
+			<Trait id="Honor"
+				 value="1" />
+			<Trait id="Valor"
+				 value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="sar_bat_template_lady" />
+			<EquipmentSet id="sar_noncom_template_flamboyant"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_479"
+                name="{=doxosumai}Doxo Sumai"
+                age="24"
+                voice="ironic"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.sarnor"
+                occupation="Lord"
+                face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.4762"
+							build="0.5083"
+							key="003CAC0FCAB424588585B4BBA83887A85899B4489899C9B8752657799212BB8901954614098B6695000000000000000000000000000000000000000053242082" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="7" />
+			<Trait id="Commander"
+				   value="5" />
+			<Trait id="Politician"
+				   value="5" />
+			<Trait id="Manager"
+				   value="5" />
+			<Trait id="Calculating"
+				   value="-1" />
+			<Trait id="Generosity"
+				   value="0" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="sar_bat_template_heavy" />
+			<EquipmentSet id="sar_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_480"
+                name="{=zianasumai}Ziana Sumai"
+                is_female="true"
+                age="18"
+                voice="softspoken"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.sarnor"
+                occupation="Lord"
+                face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.4"
+							build="0.5"
+							key="0036700E407020119D6E74DCA66D870898A5BBC14B5CA8A6A44AA88644994792019956140984483800000000000000000000000000000000000000004F2C1003" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="CavalryFightingSkills"
+				 value="3" />
+			<Trait id="Commander"
+				   value="3" />
+			<Trait id="Politician"
+				   value="4" />
+			<Trait id="Manager"
+				 value="3" />
+			<Trait id="Honor"
+				 value="1" />
+			<Trait id="Valor"
+				 value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="sar_bat_template_lady" />
+			<EquipmentSet id="sar_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_481"
+					name="{=kalinasumai}Kalina Sumai"
+					is_female="true"
+					age="15"
+					voice="softspoken"
+					default_group="Cavalry"
+					is_hero="true"
+					culture="Culture.sarnor"
+					occupation="Lord"
+					face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.4"
+							build="0.5"
+							key="0039940400CC00116C38D5896B57AB4D9B8972CB6539685925BD386AA284874601634614062B347A00000000000000000000000000000000000000006ED410C3" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="CavalryFightingSkills"
+				 value="3" />
+			<Trait id="Commander"
+				   value="3" />
+			<Trait id="Politician"
+				   value="4" />
+			<Trait id="Manager"
+				 value="3" />
+			<Trait id="Honor"
+				 value="1" />
+			<Trait id="Valor"
+				 value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="sar_bat_template_lady" />
+			<EquipmentSet id="sar_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_482"
+                name="{=toromomelane}Toromo Melane"
+                default_group="Cavalry"
+                age="39"
+                voice="earnest"
+                is_hero="true"
+                culture="Culture.volantine"
+                occupation="Lord"
+                face_mesh_cache="true">
+		<face>
+			<!--face_key value="001c892580001008a66a975e578a799294576eaa3a3954b6774485a4155abb6d0000a6d40dd3989700001105000030a30000001f000000000000000000009000" /-->
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="0031380FD42C3081254688A899CCB6963ADA677CAB899C647A9754C95898668B01B376140BDBE86C0000000000000000000000000000000000000000516C6002" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="8" />
+			<Trait id="Commander"
+				   value="6" />
+			<Trait id="Politician"
+				   value="6" />
+			<Trait id="Manager"
+				   value="7" />
+			<Trait id="Mercy"
+				   value="1" />
+			<Trait id="Valor"
+				   value="1" />
+			<Trait id="Calculating"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="vol_bat_template_heavy" />
+			<EquipmentSet id="emp_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="ROTlord_483"
+				  name="{=aliciamelane}Alicia Melane"
+				  default_group="Cavalry"
+				  is_female="true"
+				  age="38"
+				  voice="curt"
+				  is_hero="true"
+				  culture="Culture.volantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<!--face_key value="001c892580001008a66a975e578a799294576eaa3a3954b6774485a4155abb6d0000a6d40dd3989700001105000030a30000001f000000000000000000009000" /-->
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="0026300980CC000349B18057D3494588BA99CD596665C847778A728E8493BA53013876140338377400000000000000000000000000000000000000003E6C00C3" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="Manager"
+				   value="5" />
+			<Trait id="Mercy"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="vol_bat_template_lady" />
+			<EquipmentSet id="emp_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_484"
+                name="{=titusmelane}Titus Melane"
+                default_group="Cavalry"
+                age="19"
+                voice="earnest"
+                is_hero="true"
+                culture="Culture.volantine"
+                occupation="Lord"
+                face_mesh_cache="true">
+		<face>
+			<!--face_key value="001c892580001008a66a975e578a799294576eaa3a3954b6774485a4155abb6d0000a6d40dd3989700001105000030a30000001f000000000000000000009000" /-->
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="00319805404400925977E54774E96588E88598559689588A64869A9D8BC75A670185561408A6199C00000000000000000000000000000000000000003F047042" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="7" />
+			<Trait id="Commander"
+				   value="6" />
+			<Trait id="Politician"
+				   value="6" />
+			<Trait id="Manager"
+				   value="6" />
+			<Trait id="Mercy"
+				   value="1" />
+			<Trait id="Valor"
+				   value="1" />
+			<Trait id="Calculating"
+				   value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="vol_bat_template_heavy" />
+			<EquipmentSet id="emp_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_485"
+				  name="{=bellamelane}Bella Melane"
+				  default_group="Cavalry"
+				  is_female="true"
+				  age="10"
+				  voice="curt"
+				  is_hero="true"
+				  culture="Culture.volantine"
+				  occupation="Lord"
+				  face_mesh_cache="true">
+		<face>
+			<!--face_key value="001c892580001008a66a975e578a799294576eaa3a3954b6774485a4155abb6d0000a6d40dd3989700001105000030a30000001f000000000000000000009000" /-->
+			<BodyProperties version="4"
+							weight="0.5"
+							build="0.5"
+							key="0034840C46A0100368658565A53597887D79556C68833A963783C776C368956B0162961406988B84000000000000000000000000000000000000000064BC0103" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="Manager"
+				   value="3" />
+			<Trait id="Mercy"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="vol_bat_template_lady" />
+			<EquipmentSet id="emp_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_486"
+                name="{=yezzan}Yezzan zo Qaggaz"
+                age="41"
+                voice="softspoken"
+                is_female="false"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.ghiscari"
+                occupation="Lord"
+                face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.802"
+							build="0.6066"
+							key="00368408004413D1226B9289DD8982C85397C8A4C9B9246796A9785A6B8892C7017D561407D44BB8000000000000000000000000000000000000000034E47002" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="7" />
+			<Trait id="Commander"
+				   value="8" />
+			<Trait id="Politician"
+				   value="6" />
+			<Trait id="Manager"
+				   value="6" />
+			<Trait id="Honor"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="ghi_bat_template_flamboyant" />
+			<EquipmentSet id="khu_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_487"
+                name="{=tonara}Tonara zo Qaggaz"
+                age="38"
+                voice="softspoken"
+                is_female="true"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.ghiscari"
+                occupation="Lord"
+                face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.3"
+							build="0.3"
+							key="0031440AC0E4100CD5BA75571A65C9C5386448B5E7475B65874DC87867444D59017D56140775575C00000000000000000000000000000000000000002CE44083" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="Politician"
+				   value="4" />
+			<Trait id="Manager"
+				   value="4" />
+			<Trait id="Honor"
+				   value="1" />
+			<Trait id="Generosity"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="khu_bat_template_medium" />
+			<EquipmentSet id="khu_noncom_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="ROTlord_488"
+                name="{=yezzan}Zidar zo Qaggaz"
+                age="21"
+                voice="softspoken"
+                is_female="false"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.ghiscari"
+                occupation="Lord"
+                face_mesh_cache="true">
+		<face>
+			<BodyProperties version="4"
+							weight="0.802"
+							build="0.6066"
+							key="0036200980FC231A18BC4BB42983873C789D62BEBB9239256A3497C55DA47694019596140986B45B00000000000000000000000000000000000000002F3C2082" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<Trait id="BalancedFightingSkills"
+				   value="7" />
+			<Trait id="Commander"
+				   value="7" />
+			<Trait id="Politician"
+				   value="6" />
+			<Trait id="Manager"
+				   value="6" />
+			<Trait id="Honor"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster />
+			<EquipmentSet id="ghi_bat_template_flamboyant" />
+			<EquipmentSet id="khu_civ_template_default"
+						  civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	
 </NPCCharacters>
