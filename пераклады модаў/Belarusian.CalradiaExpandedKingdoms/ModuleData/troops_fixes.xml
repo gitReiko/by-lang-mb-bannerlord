@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+
+
+  	<!-- ariorum -->
+	<NPCCharacter id="ariorum_infantryman" name="{=CEK_troop_ariorum_1}Ariorum Infantryman" culture="Culture.ariorum"/>
+	<NPCCharacter id="ariorum_trained_infantryman" name="{=CEK_troop_ariorum_2}Ariorum Trained Infantryman" culture="Culture.ariorum"/>
+	<NPCCharacter id="ariorum_veteran_infantryman" name="{=CEK_troop_ariorum_3}Ariorum Veteran Infantryman" culture="Culture.ariorum"/>
+	<NPCCharacter id="ariorum_legionary" name="{=CEK_troop_ariorum_4}Ariorum Legionarius" culture="Culture.ariorum"/>
+	<NPCCharacter id="ariorum_2h_trained_infantryman" name="{=CEK_troop_ariorum_5}Ariorum Trained Swordsman" culture="Culture.ariorum"/>
+	<NPCCharacter id="ariorum_2h_veteran_infantryman" name="{=CEK_troop_ariorum_6}Ariorum Veteran Swordsman" culture="Culture.ariorum"/>
+	<NPCCharacter id="ariorum_2h_legionary" name="{=CEK_troop_ariorum_7}Ariorum Swordmaster" culture="Culture.ariorum"/>
+	<NPCCharacter id="ariorum_trained_archer" name="{=CEK_troop_ariorum_8}Ariorum Trained Archer" culture="Culture.ariorum"/>
+	<NPCCharacter id="ariorum_veteran_archer" name="{=CEK_troop_ariorum_9}Ariorum Veteran Archer" culture="Culture.ariorum"/>
+	<NPCCharacter id="ariorum_marksman" name="{=CEK_troop_ariorum_10}Ariorum Marksman" culture="Culture.ariorum"/>
+	<NPCCharacter id="ariorum_equite" name="{=CEK_troop_ariorum_11}Ariorum Equites" culture="Culture.ariorum"/>
+	<NPCCharacter id="ariorum_vigla_equestris" name="{=CEK_troop_ariorum_12}Ariorum Alaris" culture="Culture.ariorum"/>
+	<NPCCharacter id="ariorum_kataphrakt" name="{=CEK_troop_ariorum_13}Ariorum Kataphraktos" culture="Culture.ariorum"/>
+	<NPCCharacter id="ariorum_elite_kataphrakt" name="{=CEK_troop_ariorum_14}Ariorum Kataphraktos Honoratus" culture="Culture.ariorum"/>
+	<NPCCharacter id="ariorum_bomber" name="{=CEK_troop_ariorum_15}Ariorum Fire Thrower" culture="Culture.ariorum"/>
+
+
+	<!-- battanian -->
+	<NPCCharacter id="retinue_battanian_1" name="{=CEK_troop_battanian_1}Battanian Uasal Fian" culture="Culture.battania"/>
+
+
+	<!-- khuzait -->
+	<NPCCharacter id="retinue_khuzait_1" name="{=CEK_troop_khuzait_1}Khuzait Retinue Swordsman" culture="Culture.khuzait"/>
+	<NPCCharacter id="retinue_khuzait_2" name="{=CEK_troop_khuzait_2}Khuzait Xaan Swordsman" culture="Culture.khuzait"/>
+
+
+	<!-- lyrion -->
+	<NPCCharacter id="retinue_lyrion_1" name="{=CEK_troop_lyrion_1}Lyrion Citizen Cavalry" culture="Culture.lyrion"/>
+	<NPCCharacter id="retinue_lyrion_2" name="{=CEK_troop_lyrion_2}Lyrion Honored Cavalry" culture="Culture.lyrion"/>
+	<NPCCharacter id="southern_mercenary_3" name="{=CEK_troop_lyrion_3}Mercenary Camel Raider" culture="Culture.aserai"/>
+	<NPCCharacter id="southern_mercenary_2" name="{=CEK_troop_lyrion_4}Mercenary Camel Skirmisher" culture="Culture.aserai"/>
+	<NPCCharacter id="southern_mercenary_1" name="{=CEK_troop_lyrion_5}Mercenary Camel Tribesman" culture="Culture.aserai"/>
+
+
+	<!-- nordling -->
+	<NPCCharacter id="nordling_skirmisher" name="{=CEK_troop_nordling_1}Nordling Skirmisher" culture="Culture.nordling"/>
+	<NPCCharacter id="nordling_trained_skirmisher" name="{=CEK_troop_nordling_2}Nordling Veteran Skirmisher" culture="Culture.nordling"/>
+	<NPCCharacter id="nordling_skirmisher_veteran" name="{=CEK_troop_nordling_3}Nordling Wildling" culture="Culture.nordling"/>
+
+
+	<!-- npctemplates -->
+	<NPCCharacter id="villager_western" name="{=CEK_troop_npctemplates_1}Peasant" culture="Culture.west_germanic"/>
+
+
+	<!-- republic -->
+	<NPCCharacter id="caravan_master_republic" name="{=CEK_troop_republican_1}Republican Caravan Master" culture="Culture.republic"/>
+	<NPCCharacter id="armed_trader_republic" name="{=CEK_troop_republican_2}Republican Armed Trader" culture="Culture.republic"/>
+	<NPCCharacter id="caravan_guard_republic" name="{=CEK_troop_republican_3}Republican Caravan Guard" culture="Culture.republic"/>
+	<NPCCharacter id="veteran_caravan_guard_republic" name="{=CEK_troop_republican_4}Republican Veteran Caravan Guard" culture="Culture.republic"/>
+	<NPCCharacter id="republic_militia_archer" name="{=CEK_troop_republican_5}Republican Militia Archer" culture="Culture.republic"/>
+	<NPCCharacter id="republic_militia_veteran_archer" name="{=CEK_troop_republican_6}Republican Militia Veteran Archer" culture="Culture.republic"/>
+	<NPCCharacter id="republic_militia_spearman" name="{=CEK_troop_republican_7}Republican Militia Spearman" culture="Culture.republic"/>
+	<NPCCharacter id="republic_militia_veteran_spearman" name="{=CEK_troop_republican_8}Republican Militia Veteran Spearman" culture="Culture.republic"/>
+	<NPCCharacter id="villager_republic" name="{=CEK_troop_republican_man}Republican Peasant" culture="Culture.republic"/>
+	<NPCCharacter id="village_woman_republic" name="{=CEK_troop_republican_woman}Republican Peasant" culture="Culture.republic"/>
+
+
+	<!-- rhodok -->
+	<NPCCharacter id="retinue_rhodok_2" name="{=CEK_troop_rhodok_1}Rhodok Eisenlöwe" culture="Culture.rhodok"/>
+	<NPCCharacter id="retinue_rhodok_1" name="{=CEK_troop_rhodok_2}Rhodok Ritter" culture="Culture.rhodok">
+
+  
+</NPCCharacters>
