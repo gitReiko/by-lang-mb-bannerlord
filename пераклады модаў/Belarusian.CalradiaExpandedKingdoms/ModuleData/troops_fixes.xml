@@ -48,10 +48,10 @@
 
 
 	<!-- republic -->
-	<NPCCharacter id="caravan_master_republic" name="{=CEK_troop_republican_1}Republican Caravan Master" culture="Culture.republic"/>
-	<NPCCharacter id="armed_trader_republic" name="{=CEK_troop_republican_2}Republican Armed Trader" culture="Culture.republic"/>
-	<NPCCharacter id="caravan_guard_republic" name="{=CEK_troop_republican_3}Republican Caravan Guard" culture="Culture.republic"/>
-	<NPCCharacter id="veteran_caravan_guard_republic" name="{=CEK_troop_republican_4}Republican Veteran Caravan Guard" culture="Culture.republic"/>
+	<NPCCharacter id="caravan_master_republic" name="{=CEK_troop_republican_1}Republican Caravan Master" culture="Culture.republic" level="26"/>
+	<NPCCharacter id="armed_trader_republic" name="{=CEK_troop_republican_2}Republican Armed Trader" culture="Culture.republic" level="16"/>
+	<NPCCharacter id="caravan_guard_republic" name="{=CEK_troop_republican_3}Republican Caravan Guard" culture="Culture.republic" level="21"/>
+	<NPCCharacter id="veteran_caravan_guard_republic" name="{=CEK_troop_republican_4}Republican Veteran Caravan Guard" culture="Culture.republic" level="26"/>
 	<NPCCharacter id="republic_militia_archer" name="{=CEK_troop_republican_5}Republican Militia Archer" culture="Culture.republic"/>
 	<NPCCharacter id="republic_militia_veteran_archer" name="{=CEK_troop_republican_6}Republican Militia Veteran Archer" culture="Culture.republic"/>
 	<NPCCharacter id="republic_militia_spearman" name="{=CEK_troop_republican_7}Republican Militia Spearman" culture="Culture.republic"/>
