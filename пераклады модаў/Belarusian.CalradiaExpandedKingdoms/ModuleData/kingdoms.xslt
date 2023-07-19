@@ -18,6 +18,10 @@
         <xsl:attribute name="title">{=kingdom.empire_s.title}Calradian Empire</xsl:attribute>
     </xsl:template>
 
+    <xsl:template match="Kingdom[@id='empire_s']/@text">
+        <xsl:attribute name="title">{=kingdom.empire_s.text}</xsl:attribute>
+    </xsl:template>
+
     <xsl:template match="Kingdom[@id='vlandia']/@name">
         <xsl:attribute name="name">{=kingdom.vlandia.name}Cortanian Vlandia</xsl:attribute>
     </xsl:template>
