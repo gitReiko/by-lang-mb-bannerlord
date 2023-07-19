@@ -28,5 +28,23 @@
 			</IncludedGameTypes>
 		</XmlNode>
 
+		<XmlNode>                
+			<XmlName id="NPCCharacters" path="troops_fixes"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+			</IncludedGameTypes>
+		</XmlNode>
+
+		<XmlNode>
+			<XmlName id="Factions" path="clans"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+				<GameType value = "CustomGame"/>
+				<GameType value = "EditorGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+
 	</Xmls>
 </Module>
