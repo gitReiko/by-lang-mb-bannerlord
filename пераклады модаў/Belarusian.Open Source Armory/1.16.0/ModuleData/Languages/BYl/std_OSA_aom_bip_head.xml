@@ -1,5 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+
+
+
 	<strings>
 		<string id="osa_ao_crown_a" text="{.Zanocy}Zavostranaja Karona"/>
 		<string id="osa_ao_crown_b" text="{.Muzcynski}Vianok z Kaštoŭnaściami"/>
@@ -38,8 +41,9 @@
 		<string id="osa_ao_eorling_heavy_guarded_noblemans_helmet_b" text="{.Muzcynski}Horny Upryhožany Apierany Šałom Šlachty z Achovaj"/>
 		<string id="osa_ao_eorling_heavy_guarded_noblemans_helmet_c" text="{.Muzcynski}Horny Upryhožany Šałom Šlachty z Achovaj"/>
 		<string id="osa_ao_eorling_dunheres_crowned_helmet" text="{.Muzcynski}Horny Šałom-Karona"/>
-		<string id="osa_ao_eorling_guarded_nasal_helmet_with_leather" text="{.Muzcynski}Horny Šałom z Achovaj, Nanośnikam i Skuraju"/>
-		<string id="osa_ao_eorling_guarded_nasal_helmet_with_mail" text="{.Muzcynski}Horny Šałom z Achovaj, Nanośnikam i Kalčuhaju"/>
+		<string id="osa_ao_eorling_guarded_nasal_helmet_with_leather" text="{.Muzcynski}Paŭnočny Šałom z Achovaj, Nanośnikam i Skuraju"/>
+		<string id="osa_ao_eorling_guarded_nasal_helmet_with_mail" text="{.Muzcynski}Paŭnočny Šałom z Achovaj, Nanośnikam i Kalčuhaju"/>
+		<string id="osa_ao_eorling_guarded_nasal_helmet_with_closed_mail" text="{.Muzcynski}Paŭnočny Apierany Šałom z Achovaj, Nanośnikam i Zakrytaj Kalčuhaj"/>
 		<string id="osa_ao_eorling_guardian_helmet" text="{.Muzcynski}Horny Ciažki Šałom z Achovaj"/>
 		<!-- Empire Helmets -->
 		<string id="osa_ao_imperial_spangenhelm_with_mail" text="{.Muzcynski}Impierski Španhienchielm z Kalčuhaju"/>
@@ -89,6 +93,7 @@
 		<string id="osa_ao_battanian_segmented_helmet" text="{.Muzcynski}Horny Siehmientavany Šałom"/>
 		<string id="osa_ao_battanian_noblemans_ridge_helmet" text="{.Muzcynski}Horny Rabrysty Šałom z Kalčuhaj"/>
 		<string id="osa_ao_battanian_plumed_noblemans_helmet" text="{.Muzcynski}Horny Apierany Šałom"/>
+		<string id="osa_ao_battanian_noblemans_plumed_ridge_helmet" text="{.Muzcynski}Horny Apierany Rabrysty Šałom z Kalčuhaj"/>
 		<string id="osa_ao_battanian_guarded_segmented_helmet" text="{.Muzcynski}Horny Siehmientavany Šałom z Achovaj"/>
 		<string id="osa_ao_battanian_noblemans_guarded_helmet" text="{.Muzcynski}Horny Šałom Šlachty z Achovaj"/>
 		<string id="osa_ao_battanian_noblemans_cone_helmet" text="{.Muzcynski}Horny Kaničny Šałom Šlachty z Achovaj"/>
@@ -98,7 +103,9 @@
 		<string id="osa_ao_battanian_crowned_helmet" text="{.Muzcynski}Horny Płaścinkavy Šlachietny Nazalchielm-Karona z Piorami"/>
 		<!-- Sturgian Helmets -->
 		<string id="osa_ao_sturgian_feathered_helmet" text="{.Muzcynski}Paŭnočny Azdobleny Piorami Šałom z Nanośnikam"/>
+		<string id="osa_ao_sturgian_feathered_helmet_closed" text="{.Muzcynski}Paŭnočny Azdobleny Piorami Zakryty Šałom z Nanośnikam"/>
 		<string id="osa_ao_sturgian_feathered_helmet_with_mail" text="{.Muzcynski}Paŭnočny Azdobleny Piorami Šałom z Nanośnikam i Poŭnaj Kalčuhaj"/>
+		<string id="osa_ao_sturgian_feathered_helmet_with_closed_mail" text="{.Muzcynski}Paŭnočny Azdobleny Piorami Šałom z Zakrytaj Kalčuhaj"/>
 		<string id="osa_ao_sturgian_spiked_nasal_helmet" text="{.Muzcynski}Paŭnočny Prosty Šałom z Nanośnikam i Poŭnaj Kalčuhaj"/>
 		<string id="osa_ao_sturgian_helmet_with_leather" text="{.Muzcynski}Paŭnočny Šałom z Nanośnikam i Skuraju"/>
 		<string id="osa_ao_sturgian_spangenhelm_with_leather" text="{.Muzcynski}Paŭnočny Španhienchielm sa Skuraju"/>
