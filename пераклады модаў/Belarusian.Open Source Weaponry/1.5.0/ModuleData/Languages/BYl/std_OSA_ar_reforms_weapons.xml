@@ -12,14 +12,16 @@
 		<string id="osa_ar_throwing_pot" text="{.Mnozny}Kidalnyja Zbany"/>
 		<string id="osa_ar_war_dart_a" text="{.Mnozny}Vajskovyja Sulicy"/>
 		<string id="osa_ar_war_dart_b" text="{.Mnozny}Vajskovyja Sulicy"/>
+		<string id="osa_ar_seax_a" text="{.Muzcynski}Kidalny Sijaks"/>
 		<!-- Custom Weapons -->
 		<!-- Kapjos -->
 		<string id="osa_ar_aserai_short_spear_1_t2" text="{.Nijaki}Paŭdniovaje Karotkaje Zazubranaje Kapjo"/>
 		<string id="osa_ar_aserai_short_spear_2_t3" text="{.Nijaki}Paŭdniovy Karotkaje Vydatnaje Stalovy Zazubranaje Kapjo"/>
 		<string id="osa_ar_aserai_short_spear_3_t4" text="{.Nijaki}Paŭdniovaje Karotkaje Tamaskinskaje Stalovaje Zazubranaje Kapjo"/>
-		<string id="osa_ar_battania_spear_1_t2" text="{.Nijaki}Hornaje Karotkaje Kapjo"/>
-		<string id="osa_ar_battania_spear_2_t3" text="{.Nijaki}Hornaje Zazubranaje Karotkaje Kapjo"/>
-		<string id="osa_ar_battania_spear_4_t4" text="{.Nijaki}Hornaje Vydatnaje Stalovaje Zazubranaje Kapjo"/>
+		<string id="osa_ar_battania_spear_1_t2" text="{.Nijaki}Hornaje Kapjo"/>
+		<string id="osa_ar_battania_spear_2_t3" text="{.Nijaki}Hornaje Uciažaranaje Kapjo"/>
+		<string id="osa_ar_battania_spear_4_t4" text="{.Nijaki}Hornaje Vydatnaje Stalovaje Kapjo"/>
+		<string id="osa_ar_battania_spear_5_t4" text="{.Nijaki}Hornaje Vydatnaje Stalovaje Listavaje Kapjo"/>
 		<string id="osa_ar_darshi_spear_1_t2" text="{.Nijaki}Daršyjskaje Kapjo"/>
 		<string id="osa_ar_darshi_spear_3_t3" text="{.Nijaki}Daršyjskaje Uciažaranaje Kapjo"/>
 		<string id="osa_ar_darshi_spear_4_t4" text="{.Nijaki}Daršyjskaje Vydatnaje Stalovaje Kapjo"/>
@@ -40,6 +42,10 @@
 		<string id="osa_ar_iltanlar_spear_2_t3" text="{.Nijaki}Stepavaje Doŭhaje Hierbavaje Kapjo"/>
 		<string id="osa_ar_iltanlar_spear_4_t4" text="{.Nijaki}Stepavaje Cudoŭnaje Stalovaje Kapjo"/>
 		<string id="osa_ar_iltanlar_spear_5_t4" text="{.Nijaki}Stepavaje Cudoŭnaje Stalovaje Kapjo"/>
+		<string id="osa_ar_gladiator_fork_a" text="{.Mnozny}Viły Hładyjatara"/>
+		<string id="osa_ar_gladiator_fork_b" text="{.Mnozny}Upryhožanyja Viły Hładyjatara"/>
+		<string id="osa_ar_gladiator_fork_c" text="{.Muzcynski}Tryzub Hładyjatara"/>
+		<string id="osa_ar_gladiator_fork_d" text="{.Muzcynski}Upryhožany Tryzub Hładyjatara"/>
 		<!-- Javelins -->
 		<string id="osa_ar_crude_javelin" text="{.Mnozny}Syravinnyja Drotyki"/>
 		<string id="osa_ar_imperial_heavy_javelin_t2" text="{.Mnozny}Lohkija Łansii"/>
@@ -55,6 +61,8 @@
 		<string id="osa_ar_aserai_lance_1_t3" text="{.Zanocy}Paŭdniovaja Lohkaja Dzida"/>
 		<string id="osa_ar_aserai_lance_2_t4" text="{.Zanocy}Paŭdniovaja Ciažkaja Dzida"/>
 		<string id="osa_ar_aserai_lance_5_t5" text="{.Zanocy}Paŭdniovaja Dzida Katafrakta"/>
+		<!-- Polearm Weapons -->
+		<string id="osa_ar_khuzait_polearm_1_t3" text="{.Zanocy}Lohkaja Hlefa"/>
 		<!-- 1h Siakieras -->
 		<string id="osa_ar_aserai_axe_1_t3" text="{.Zanocy}Bambukavaja Adnaručnaja Bitaja Siakiera"/>
 		<string id="osa_ar_darshi_axe_t2" text="{.Muzcynski}Maleńki Daršyjski Tapor"/>
@@ -84,6 +92,10 @@
 		<string id="osa_ar_shotel_t4" text="{.Muzcynski}Vydatny Stalovy Šoteł"/>
 		<!-- 2h Swords -->
 		<string id="osa_ar_battania_2hsword_4_t4" text="{.Muzcynski}Karotki Falks"/>
+		<string id="osa_ar_battania_2hsword_5_t5" text="{.Muzcynski}Tamaskinski Stalovy Falks"/>
+		<string id="osa_ar_war_razor_2hsword_t3" text="{.Zanocy}Karotkaja Vajskovaja Brytva"/>
+		<string id="osa_ar_war_razor_2hsword_t5" text="{.Zanocy}Cudoŭnaja Stalovaja Vajskovaja Brytva"/>
+		<!-- Daggers -->
 		<!-- 1h Bułavas -->
 		<string id="osa_ar_empire_mace_1_t2" text="{.Zanocy}Impierskaja Lohkaja Šypataja Bułava"/>
 		<string id="osa_ar_darshi_mace_1_t2" text="{.Zanocy}Daršyjskaja Lohkaja Bułava"/>
@@ -96,5 +108,6 @@
 		<!-- 2h Bułavas -->
 		<string id="osa_ar_darshi_2h_mace_t4" text="{.Zanocy}Daršyjskaja Dvuchručnaja Bułava"/>
 		<string id="osa_ar_darshi_2h_mace_t5" text="{.Zanocy}Daršyjskaja Šlachietnaja Dvuchručnaja Bułava"/>
+		<string id="osa_ar_peasant_maul_t1_1" text="{.Zanocy}Žaleznaja Kuvałda"/>
 	</strings>
 </base>
