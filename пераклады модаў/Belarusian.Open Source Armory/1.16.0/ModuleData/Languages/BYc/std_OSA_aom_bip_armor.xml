@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+
+
+
+	<strings>
+		<!-- Плечавы Armors -->
+		<string id="osa_ao_durkhan_tassled_necklace" text="{.Mnozny}Усходнія Тасіраваныя Каралі"/>
+		<string id="osa_ao_generic_short_cape" text="{.Zanocy}Кароткая Накідка Раўнін"/>
+		<string id="osa_ao_focale" text="{.Zanocy}Імперская Фокалі"/>
+		<string id="osa_ao_battanian_cloak" text="{.Muzcynski}Горны Тканы Плашч"/>
+		<string id="osa_ao_battanian_medallion" text="{.Muzcynski}Горны Медальён"/>
+		<string id="osa_ao_caladogs_medallion" text="{.Muzcynski}Горны Шляхетны Медальён"/>
+		<string id="osa_ao_imperial_noblemans_sash" text="{.Muzcynski}Імперская Шляхетны Тальмах"/>
+		<string id="osa_ao_light_fur_shoulder" text="{.Muzcynski}Горны Плечавы Плашч"/>
+		<string id="osa_ao_battanian_mail_shoulders" text="{.Mnozny}Горныя Падстрыжаныя Кальчужныя Наплечнікі"/>
+		<string id="osa_ao_aserai_shoulders_a" text="{.Mnozny}Латуневыя Лускатыя Наплечнікі"/>
+		<string id="osa_ao_aserai_shoulders_a2" text="{.Mnozny}Жалезныя Лускатыя Наплечнікі"/>
+		<string id="osa_ao_aserai_shoulders_b" text="{.Zanocy}Латуневая Лускатая Абарона Плячэй"/>
+		<string id="osa_ao_aserai_shoulders_c" text="{.Mnozny}Латуневыя Лускатыя Палдроны з Накідкай"/>
+		<string id="osa_ao_aserai_shoulders_d" text="{.Mnozny}Латуневыя Лускатыя Наплечнікі з Плашчом"/>
+		<string id="osa_ao_aserai_shoulders_d2" text="{.Mnozny}Жалезныя Лускатыя Наплечнікі з Плашчом"/>
+		<!-- Arm Armors -->
+		<string id="osa_ao_imperial_decorated_bracers" text="{.Mnozny}Пласьцінкавыя Поручы"/>
+		<string id="osa_ao_imperial_decorated_bracers_b" text="{.Mnozny}Цяжкія Пласьцінкавыя Поручы"/>
+		<string id="osa_ao_durkhan_gauntlets_a" text="{.Mnozny}Ламелярныя Поручы"/>
+		<string id="osa_ao_durkhan_gauntlets_b" text="{.Mnozny}Пазалочаныя Ламелярная Поручы"/>
+		<!-- Leg Armors -->
+		<string id="osa_ao_durkhan_tassled_boots" text="{.Mnozny}Усходнія Тасіраваныя Боты"/>
+		<string id="osa_ao_durkhan_boots_b" text="{.Mnozny}Усходнія Тасіраваныя Боты з Шыпаванай Скурай"/>
+		<string id="osa_ao_durkhan_boots_c" text="{.Mnozny}Усходнія Тасіраваныя Шынныя Боты"/>
+		<string id="osa_ao_leather_shoes" text="{.Mnozny}Чэрненыя Скураныя Туфлі"/>
+		<!-- Body Armors -->
+		<string id="osa_ao_battanian_hauberk_with_kilt" text="{.Muzcynski}Горны Гаўберк з Кілтам"/>
+		<string id="osa_ao_battanian_mail_shirt_with_kilt" text="{.Zanocy}Горная Кальчужная Кашуля з Кілтам"/>
+		<string id="osa_ao_battanian_gambeson" text="{.Muzcynski}Горны Гамбезон над Тунікай"/>
+		<string id="osa_ao_battanian_gambeson_with_kilt" text="{.Muzcynski}Горны Гамбезон над Тунікай з Кілтам"/>
+		<string id="osa_ao_battanian_Лускаты_armor" text="{.Zanocy}Горная Трывалая Лускатая Браня над Тунікай"/>
+		<string id="osa_ao_battanian_cloth_tunic_with_kilt" text="{.Zanocy}Горная Тканая Туніка з Кілтам"/>
+		<string id="osa_ao_battanian_woolen_tunic_with_kilt" text="{.Zanocy}Горная Ваўняная Туніка з Кілтам"/>
+		<string id="osa_ao_battanian_bronze_Лускаты_over_tunic_with_kilt" text="{.Zanocy}Горная Бронзавая Лускатая Браня з Кілтам"/>
+		<string id="osa_ao_battanian_Жалезны_Лускаты_over_tunic_with_kilt" text="{.Zanocy}Горная Жалезная Лускатая Браня з Кілтам"/>
+		<string id="osa_ao_battanian_alt_Лускаты_over_tunic_with_kilt" text="{.Zanocy}Горная Чаргаваная Лускатая Браня з Кілтам"/>
+		<string id="osa_ao_battanian_leather_tunic_with_kilt" text="{.Zanocy}Горная Скураная Туніка з Кілтам"/>
+		<string id="osa_ao_battanian_decorated_Лускаты_armor" text="{.Zanocy}Горная Упрыгожаная Бронзавая Луската над Кальчугай з Кілтам"/>
+		<string id="osa_ao_battanian_decorated_Лускаты_armor_b" text="{.Zanocy}Горная Упрыгожаная Жалезная Луската над Кальчугай з Кілтам"/>
+		<string id="osa_ao_battanian_decorated_Лускаты_armor_c" text="{.Zanocy}Горная Упрыгожаная Чаргаваная Луската над Кальчугай з Кілтам"/>
+		<string id="osa_ao_durkhan_hide_poncho" text="{.Zanocy}Усходняя Шкураная Камізэлька"/>
+		<string id="osa_ao_durkhan_tunic" text="{.Zanocy}Усходняя Ірваная Туніка"/>
+		<string id="osa_ao_durkhan_trousers" text="{.Mnozny}Усходнія Тканыя Штаны"/>
+		<string id="osa_ao_durkhan_leather_lamellar" text="{.Muzcynski}Усходні Скураны Ламеляр"/>
+		<string id="osa_ao_durkhan_sleeveless_leather_lamellar" text="{.Muzcynski}Усходні Скураны Ламеляр без Рукавоў"/>
+		<string id="osa_ao_durkhan_chestplate" text="{.Zanocy}Усходняя Скураная Грудная Пласьціна"/>
+		<string id="osa_ao_durkhan_topless_leather_lamellar" text="{.Muzcynski}Усходні Адкрыты Скураны Ламеляр"/>
+		<string id="osa_ao_durkhan_light_lamellar" text="{.Muzcynski}Усходні Лёгкі Ламеляр"/>
+		<string id="osa_ao_durkhan_lamellar" text="{.Muzcynski}Усходні Ламеляр"/>
+		<string id="osa_ao_durkhan_lamellar_thighguard" text="{.Muzcynski}Усходні Ламеляр з Насьцегнавай Павязкай"/>
+		<string id="osa_ao_durkhan_heavy_lamellar" text="{.Muzcynski}Усходні Цяжкі Ламеляр"/>
+		<string id="osa_ao_durkhan_nobles_lamellar" text="{.Muzcynski}Усходні Шляхетны Ламеляр"/>
+		<string id="osa_ao_durkhan_lamellar_with_mail" text="{.Muzcynski}Усходні Цяжкі Ламеляр з Кальчугай"/>
+		<string id="osa_ao_eorling_plates_over_mail" text="{.Zanocy}Заходняя Жалезная Луската над Кальчугай"/>
+		<string id="osa_ao_eorling_plates_over_gambeson" text="{.Zanocy}Заходняя Жалезная Луската над Гамбезонам"/>
+		<string id="osa_ao_eorling_bronze_Лускаты_over_mail" text="{.Zanocy}Паўночная Бронзавая Луската над Кальчугай"/>
+		<string id="osa_ao_eorling_Жалезны_Лускаты_over_mail" text="{.Zanocy}Паўночная Жалезная Луската над Кальчугай"/>
+		<string id="osa_ao_gen_sleeveless_leather_tunic" text="{.Zanocy}Скураная Туніка без Рукавоў"/>
+		<string id="osa_ao_gen_gambeson_over_mail" text="{.Nijaki}Паўночнае Мякка6 Паліто над Кальчугай"/>
+		<string id="osa_ao_crude_mail_with_tunic" text="{.Zanocy}Сыравінная Кальчуга над Тунікай"/>
+		<string id="osa_ao_imperial_southern_Лускаты_armor_over_mail" text="{.Zanocy}Імперская Цяжкая Лускатая Браня над Кальчугай"/>
+		<string id="osa_ao_imperial_southern_Лускаты_armor_over_mail_b" text="{.Zanocy}Імперская Цяжкая Латуневая Лускатая Браня над Кальчугай"/>
+		<string id="osa_ao_imperial_lamellar_vest" text="{.Muzcynski}Імперскі Сталёвы Ламеляр над Мяккай Тканьню"/>
+		<string id="osa_ao_imperial_lamellar_vest_b" text="{.Muzcynski}Імперскі Латуневы Ламеляр над Мяккай Тканьню"/>
+		<string id="osa_ao_imperial_lamellar_vest_over_mail" text="{.Muzcynski}Імперскі Белы Латуневы Ламеляр над Кальчугай"/>
+		<string id="osa_ao_imperial_lamellar_vest_over_mail_b" text="{.Muzcynski}Імперскі Латуневы Ламеляр над Кальчугай"/>
+		<string id="osa_ao_imperial_cataphracts_lamellar" text="{.Muzcynski}Імперскі Белы Латуневы Ламеляр над Лускатай"/>
+		<string id="osa_ao_imperial_cataphracts_lamellar_b" text="{.Muzcynski}Імперскі Латуневы Ламеляр над Лускатай"/>
+		<string id="osa_ao_imperial_scouts_tunic" text="{.Zanocy}Імперская Туніка Дасьледніка"/>
+		<string id="osa_ao_imperial_Латуневы_Лускаты_armor" text="{.Nijaki}Латуневае Лускатае Паліто над Мяккай Кальчугай"/>
+		<string id="osa_ao_imperial_Латуневы_Лускаты_armor_b" text="{.Nijaki}Жалезнае Лускатае Паліто над Мяккай Кальчугай"/>
+		<string id="osa_ao_imperial_light_leather" text="{.Zanocy}Імперская Трывалая Скураная Браня"/>
+		<string id="osa_ao_sturgian_lamellar_vest" text="{.Zanocy}Ламелярная Камізэлька над Гаўберкам"/>
+		<string id="osa_ao_sturgian_leather_over_mail" text="{.Nijaki}Паўночнае Скураное Паліто над Гаўберкам"/>
+		<string id="osa_ao_sturgian_leather_over_cloth" text="{.Nijaki}Паўночнае Скураное Паліто"/>
+		<string id="osa_ao_khuzait_leather_vest" text="{.Zanocy}Усходняя Скураная Камізэлька над Тунікай"/>
+		<string id="osa_ao_nordic_sloven_mail_sleeveless" text="{.Zanocy}Нардычная Неахайная Кальчужная Кашуля"/>
+		<string id="osa_ao_sleeveless_mail_hauberk" text="{.Muzcynski}Паўночны Гаўберк без Рукавоў"/>
+		<string id="osa_ao_mail_shirt_sleeveless" text="{.Zanocy}Заходняя Кальчужная Кашуля без Рукавоў"/>
+		<string id="osa_ao_mabili_hide_skirt" text="{.Zanocy}Паўднёвая Шкураная Спадніца"/>
+		<string id="osa_ao_mabili_leopard_skirt" text="{.Zanocy}Паўднёвая Спадніца з Леапардавай Скурай"/>
+		<string id="osa_ao_mabili_zebra_skirt" text="{.Zanocy}Паўднёвая Спадніца з Зебравай Скурай"/>
+		<string id="osa_ao_mabili_hide_armor_a" text="{.Muzcynski}Паўднёвы Скураны Ламеляр над Шкураной Спадніцай"/>
+		<string id="osa_ao_mabili_hide_armor_a2" text="{.Muzcynski}Паўднёвы Скураны Ламеляр над Спадніцай з Леапардавай Скурай"/>
+		<string id="osa_ao_mabili_hide_armor_a3" text="{.Muzcynski}Паўднёвы Скураны Ламеляр над Спадніцай з Зебравай Скурай"/>
+		<string id="osa_ao_mabili_hide_armor_b" text="{.Zanocy}Паўднёвая Скураная Камізэлька над Шкураной Спадніцай"/>
+		<string id="osa_ao_mabili_hide_armor_b2" text="{.Zanocy}Паўднёвая Скураная Камізэлька над Спадніцай з Леапардавай Скурай"/>
+		<string id="osa_ao_mabili_hide_armor_b3" text="{.Zanocy}Паўднёвая Скураная Камізэлька над Спадніцай з Зебравай Скурай"/>
+		<string id="osa_ao_vlandian_tabard_over_aketon" text="{.Muzcynski}Заходні Табард над Акетонам"/>
+		<string id="osa_ao_vlandian_tabard_over_aketon_b" text="{.Muzcynski}Заходні Табард Раўнін над Акетонам"/>
+		<string id="osa_ao_aserai_armor_a" text="{.Zanocy}Латуневая Лускатая Браня над Доўгай Тунікай"/>
+		<string id="osa_ao_aserai_armor_b" text="{.Zanocy}Жалезная Лускатая Браня над Доўгай Тунікай"/>
+		<string id="osa_ao_aserai_armor_c" text="{.Zanocy}Латуневая Лускатая Камізэлька над Доўгай Тунікай"/>
+		<string id="osa_ao_aserai_armor_d" text="{.Zanocy}Жалезная Лускатая Камізэлька над Доўгай Тунікай"/>
+	</strings>
+</base>

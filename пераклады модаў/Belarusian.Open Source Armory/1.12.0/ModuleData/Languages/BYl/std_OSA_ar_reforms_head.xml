@@ -1,0 +1,325 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<strings>
+		<!-- Hats -->
+		<string id="osa_ar_roman_hat_a" text="{.Muzcynski}Impierski Ŭpryhožany Kapialuch"/>
+		<string id="osa_ar_roman_hat_a2" text="{.Muzcynski}Impierski Azdobleny Piorami Ŭpryhožany Kapialuch"/>
+		<string id="osa_ar_roman_hat_b" text="{.Muzcynski}Impierski Futravy Kapialuch"/>
+		<string id="osa_ar_roman_hat_b2" text="{.Muzcynski}Impierski Kaničny Futravy Kapialuch"/>
+		<string id="osa_ar_roman_hat_c" text="{.Muzcynski}Impierski Ŭpryhožany Skurany Kapialuch"/>
+		<string id="osa_ar_roman_hat_d" text="{.Muzcynski}Kaničny Tkany Kapialuch"/>
+		<string id="osa_ar_roman_hat_e" text="{.Muzcynski}Hładki Kaničny Tkany Kapialuch"/>
+		<string id="osa_ar_roman_hat_f" text="{.Muzcynski}Kaničny Skurany Kapialuch"/>
+		<string id="osa_ar_phrygian_cap_a" text="{.Muzcynski}Pałasaty Sahnuty Kaničny Kapialuch"/>
+		<string id="osa_ar_phrygian_cap_b" text="{.Muzcynski}Vysoki Pałasaty Sahnuty Kaničny Kapialuch"/>
+		<string id="osa_ar_sturgia_womens_hat_a" text="{.Muzcynski}Paŭnočny Žanočy Kapialuch"/>
+		<string id="osa_ar_khuzait_helmet_a" text="{.Zanocy}Ŭschodniaja Futravaja Šapka"/>
+		<string id="osa_ar_hat_a" text="{.Zanocy}Sałamiany Kapialuch"/>
+		<string id="osa_ar_hat_b" text="{.Zanocy}Sałamiany Kapialuch z Piarom"/>
+		<string id="osa_ar_hat_c" text="{.Muzcynski}Paŭdniovy Hruby Tkany Kapialuch"/>
+		<string id="osa_ar_hat_d" text="{.Muzcynski}Paŭdniovy Tkany Kapialuch"/>
+		<string id="osa_ar_hat_e" text="{.Zanocy}Hrubaja Miakkaja Tkanaja Šapka"/>
+		<string id="osa_ar_hat_f" text="{.Zanocy}Miakkaja Tkanaja Šapka"/>
+		<string id="osa_ar_hat_g" text="{.Zanocy}Hładkaja Miakkaja Tkanaja Šapka"/>
+		<string id="osa_ar_empire_laurel_a" text="{.Mnozny}Łaŭry"/>
+		<!-- Aserai Helmets -->
+		<string id="osa_ar_aserai_archer_helmet_a" text="{.Muzcynski}Paŭdniovy Adkryty Šałom Strałka"/>
+		<string id="osa_ar_aserai_archer_helmet_b" text="{.Muzcynski}Paŭdniovy Zakryty Šałom Strałka"/>
+		<string id="osa_ar_aserai_archer_helmet_c" text="{.Muzcynski}Paŭdniovy Šałom Strałka nad Kalčuhaj"/>
+		<string id="osa_ar_aserai_archer_helmet_d" text="{.Muzcynski}Paŭdniovy Šlachietny Šałom Strałka"/>
+		<string id="osa_ar_aserai_archer_helmet_e" text="{.Muzcynski}Paŭdniovy Adkryty Kupałavaty Šałom Strałka"/>
+		<string id="osa_ar_aserai_archer_helmet_f" text="{.Muzcynski}Paŭdniovy Zakryty Kupałavaty Šałom Strałka"/>
+		<string id="osa_ar_aserai_archer_helmet_g" text="{.Muzcynski}Paŭdniovy Kupałavaty Šałom Strałka nad Kalčuhaj"/>
+		<string id="osa_ar_aserai_archer_helmet_h" text="{.Muzcynski}Paŭdniovy Šlachietny Kupałavaty Šałom Strałka"/>
+		<string id="osa_ar_aserai_cataphract_helmet_a" text="{.Muzcynski}Paŭdniovy Šałom Katafrakta"/>
+		<string id="osa_ar_aserai_cataphract_helmet_b" text="{.Muzcynski}Pustelny Šałom Katafrakta"/>
+		<string id="osa_ar_aserai_cataphract_helmet_c" text="{.Muzcynski}Paŭdniovy Pazałočany Vysoki Šałom Katafrakta"/>
+		<string id="osa_ar_aserai_cataphract_helmet_d" text="{.Muzcynski}Paŭdniovy Vysoki Šałom Katafrakta"/>
+		<string id="osa_ar_aserai_helmet_a" text="{.Muzcynski}Paŭdniovy Zahornuty Šałom"/>
+		<string id="osa_ar_aserai_helmet_b" text="{.Muzcynski}Paŭdniovy Šałom-Kaŭpak z Chustkaj"/>
+		<string id="osa_ar_aserai_helmet_c" text="{.Muzcynski}Paŭdniovy Španhienchielm nad Pryčeplenaj Tkanniu"/>
+		<string id="osa_ar_aserai_helmet_c2" text="{.Muzcynski}Paŭdniovy Španhienchielm nad Skuraju"/>
+		<string id="osa_ar_aserai_helmet_d" text="{.Muzcynski}Paŭdniovy Adkryty Španhienchielm"/>
+		<string id="osa_ar_aserai_helmet_e" text="{.Muzcynski}Paŭdniovy Zahornuty Španhienchielm nad Kalčuhaj"/>
+		<string id="osa_ar_aserai_helmet_f" text="{.Muzcynski}Paŭdniovy Španhienchielm z Chvastom nad Kalčuhaj"/>
+		<string id="osa_ar_aserai_helmet_g" text="{.Muzcynski}Daršyjski Vysoki Šałom nad Kalčuhaj"/>
+		<string id="osa_ar_aserai_helmet_h" text="{.Muzcynski}Daršyjski Vysoki Šałom nad Zakrytaj Kalčuhaj"/>
+		<string id="osa_ar_aserai_helmet_i" text="{.Muzcynski}Daršyjski Adkryty Vysoki Šałom"/>
+		<string id="osa_ar_aserai_helmet_j" text="{.Muzcynski}Daršyjski Vysoki Šałom z Chvastom"/>
+		<string id="osa_ar_aserai_helmet_k" text="{.Muzcynski}Paŭdniovy Zavostrany Žalezny Šałom z Chvastom"/>
+		<string id="osa_ar_aserai_helmet_k2" text="{.Muzcynski}Paŭdniovy Zavostrany Bronzavy Šałom z Chvastom"/>
+		<string id="osa_ar_aserai_helmet_l" text="{.Muzcynski}Paŭdniovy Zahornuty Zavostrany Žalezny Šałom"/>
+		<string id="osa_ar_aserai_helmet_l2" text="{.Muzcynski}Paŭdniovy Zahornuty Zavostrany Bronzavy Šałom"/>
+		<string id="osa_ar_aserai_helmet_m" text="{.Muzcynski}Paŭdniovy Adkryty Zavostrany Žalezny Šałom"/>
+		<string id="osa_ar_aserai_helmet_m2" text="{.Muzcynski}Paŭdniovy Adkryty Zavostrany Bronzavy Šałom"/>
+		<string id="osa_ar_aserai_helmet_n" text="{.Muzcynski}Paŭdniovy Zavostrany Žalezny Šałom z Kalčuhaj"/>
+		<string id="osa_ar_aserai_helmet_n2" text="{.Muzcynski}Paŭdniovy Zavostrany Bronzavy Šałom z Kalčuhaj"/>
+		<string id="osa_ar_aserai_helmet_o" text="{.Muzcynski}Daršyjski Rabrysty Šałom nad Tkanniu"/>
+		<string id="osa_ar_aserai_helmet_p" text="{.Muzcynski}Daršyjski Šałom z Hrebieniem nad Kalčuhaj"/>
+		<string id="osa_ar_aserai_helmet_q" text="{.Muzcynski}Daršyjski Šałom z Piorami i Hrebieniem nad Kalčuhaj"/>
+		<string id="osa_ar_aserai_helmet_r" text="{.Muzcynski}Daršyjski Šałom Niesmiarotnaha z Piorami i Hrebieniem"/>
+		<string id="osa_ar_aserai_helmet_s" text="{.Muzcynski}Paŭdniovy Zahornuty Zavostrany Žalezny Šałom-Kaŭpak"/>
+		<string id="osa_ar_aserai_helmet_s2" text="{.Muzcynski}Paŭdniovy Zahornuty Zavostrany Bronzavy Šałom-Kaŭpak"/>
+		<string id="osa_ar_aserai_helmet_t" text="{.Muzcynski}Paŭdniovy Žalezny Šałom sa Skuranymi Zasłankami"/>
+		<string id="osa_ar_aserai_helmet_t2" text="{.Muzcynski}Paŭdniovy Žalezny Šałom-Turban sa Skuranymi Zasłankami"/>
+		<string id="osa_ar_aserai_helmet_u" text="{.Muzcynski}Paŭdniovy Žalezny Šałom"/>
+		<string id="osa_ar_aserai_helmet_u2" text="{.Muzcynski}Paŭdniovy Žalezny Šałom z Turbanam"/>
+		<string id="osa_ar_aserai_helmet_v" text="{.Muzcynski}Paŭdniovy Žalezny Zakryty Šałom"/>
+		<string id="osa_ar_aserai_helmet_v2" text="{.Muzcynski}Paŭdniovy Žalezny Zakryty Šałom z Turbanam"/>
+		<string id="osa_ar_aserai_helmet_w" text="{.Muzcynski}Daršyjski Łamielarny Šałom nad Tkanniu"/>
+		<string id="osa_ar_aserai_helmet_x" text="{.Muzcynski}Daršyjski Łamielarny Šałom nad Kalčuhaj"/>
+		<string id="osa_ar_aserai_helmet_y" text="{.Muzcynski}Daršyjski Łamielarny Šałom z Piorami nad Kalčuhaj"/>
+		<string id="osa_ar_aserai_helmet_z" text="{.Muzcynski}Daršyjski Łamielarny Šałom Niesmiarotnaha z Piorami"/>
+		<string id="osa_ar_aserai_lord_helmet_a" text="{.Muzcynski}Pustelny Šałom Šlachty"/>
+		<string id="osa_ar_aserai_lord_helmet_b" text="{.Muzcynski}Pustelny Šałom Šlachty z Tvaravaj Płascinaj"/>
+		<string id="osa_ar_aserai_lord_helmet_c" text="{.Muzcynski}Paŭdniovy Pazałočany Vysoki Šałom z Kalčuhaj i Tkanniu"/>
+		<string id="osa_ar_aserai_lord_helmet_d" text="{.Muzcynski}Paŭdniovy Vysoki Šałom z Kalčuhaj i Tkanniu"/>
+		<string id="osa_ar_aserai_lord_helmet_e" text="{.Muzcynski}Paŭdniovy Šałom Niesmiarotnaha"/>
+		<string id="osa_ar_aserai_lord_helmet_f" text="{.Muzcynski}Daršyjski Zakryty Šlachietny Šałom Vieršnika"/>
+		<string id="osa_ar_aserai_lord_helmet_f2" text="{.Muzcynski}Daršyjski Adkryty Šlachietny Šałom Vieršnika"/>
+		<string id="osa_ar_aserai_lord_helmet_g" text="{.Muzcynski}Paŭdniovy Šlachietny Zavostrany Žalezny Šałom"/>
+		<string id="osa_ar_aserai_lord_helmet_g2" text="{.Muzcynski}Paŭdniovy Šlachietny Zavostrany Bronzavy Šałom"/>
+		<string id="osa_ar_aserai_lord_helmet_h" text="{.Muzcynski}Paŭdniovy Šlachietny Łamielarny Šałom z Tvaravaj Płascinaj"/>
+		<string id="osa_ar_aserai_lord_helmet_i" text="{.Muzcynski}Daršyjski Šlachietny Łamielarny Šałom-Karona"/>
+		<string id="osa_ar_aserai_lord_helmet_j" text="{.Muzcynski}Daršyjski Vysoki Šałom z Piorami"/>
+		<!-- Light Helmets -->
+		<string id="osa_ar_roman_helmet_cap" text="{.Muzcynski}Impierski Šałom-Kaŭpak"/>
+		<string id="osa_ar_roman_helmet_a_fur_a" text="{.Muzcynski}Impierski Rabrysty Kaŭpak Vyviednika"/>
+		<string id="osa_ar_roman_helmet_a_fur_b" text="{.Muzcynski}Impierski Pałasaty Kaŭpak Vyviednika"/>
+		<string id="osa_ar_sturgia_helmet_f" text="{.Muzcynski}Španhienchielm-Kaŭpak"/>
+		<string id="osa_ar_sturgia_helmet_g" text="{.Muzcynski}Španhienchielm-Kaŭpak z Futram"/>
+		<string id="osa_ar_sturgia_helmet_g2" text="{.Muzcynski}Španhienchielm-Kaŭpak z Rudym Futram"/>
+		<string id="osa_ar_sturgia_helmet_h" text="{.Muzcynski}Španhienchielm z Futram i Miakkaj Tkaninaj"/>
+		<string id="osa_ar_sturgia_helmet_h2" text="{.Muzcynski}Španhienchielm z Rudym Futram Miakkaj Tkaninaj"/>
+		<string id="osa_ar_sturgia_helmet_i" text="{.Muzcynski}Španhienchielm z Futram i Skuraju"/>
+		<string id="osa_ar_sturgia_helmet_i2" text="{.Muzcynski}Španhienchielm z Rudym Futram i Skuraju"/>
+		<string id="osa_ar_empire_desert_helmet_c" text="{.Muzcynski}Paŭdniovy Španhienchielm-Kaŭpak"/>
+		<string id="osa_ar_vlandia_helmet_f" text="{.Muzcynski}Upryhožany Ciažki Skałkep nad Šnuravanym Koifam"/>
+		<string id="osa_ar_vlandia_helmet_g" text="{.Muzcynski}Ciažki Skałkep nad Skuraju"/>
+		<string id="osa_ar_vlandia_helmet_h" text="{.Muzcynski}Ciažki Skałkep z Abaronaj Tvaru"/>
+		<string id="osa_ar_vlandia_helmet_k" text="{.Muzcynski}Zachodni Španhienchielm nad Šnuravanym Koifam"/>
+		<string id="osa_ar_vlandia_helmet_l" text="{.Muzcynski}Zachodni Španhienchielm nad Skuraju"/>
+		<string id="osa_ar_vlandia_helmet_o" text="{.Muzcynski}Bronzavy Španhienchielm nad Tkanym Koifam"/>
+		<string id="osa_ar_vlandia_helmet_p" text="{.Muzcynski}Bronzavy Španhienchielm nad Miakkim Koifam"/>
+		<string id="osa_ar_vlandia_helmet_w" text="{.Muzcynski}Zachodni Adkryty Pałasaty Šałom z Abaronaj Tvaru"/>
+		<string id="osa_ar_roman_helmet_a" text="{.Muzcynski}Impierski Adkryty Šałom z Abaronaj Tvaru"/>
+		<string id="osa_ar_intercisa_helmet_b" text="{.Muzcynski}Impierski Adkryty Rabrysty Šałom z Mietalovym Klajnotam"/>
+		<string id="osa_ar_battania_helmet_c" text="{.Muzcynski}Horny Kapalin"/>
+		<string id="osa_ar_khuzait_helmet_b" text="{.Muzcynski}Uschodni Šałom z Piorami i Futram"/>
+		<string id="osa_ar_khuzait_helmet_d" text="{.Muzcynski}Skurany Šałom Kačeŭnika"/>
+		<string id="osa_ar_khuzait_helmet_e" text="{.Muzcynski}Skurany Stepavy Šałom"/>
+		<string id="osa_ar_khuzait_helmet_f" text="{.Muzcynski}Skurany Stepavy Šałom z Futram"/>
+		<string id="osa_ar_khuzait_helmet_p" text="{.Muzcynski}Uschodni Španhienchielm-Kaŭpak z Futram"/>
+		<string id="osa_ar_vaegir_helmet_b" text="{.Muzcynski}Nazalchielm Varaha z Futram"/>
+		<string id="osa_ar_sturgia_helmet_base" text="{.Muzcynski}Paŭnočny Šałom Vieršnika"/>
+		<string id="osa_ar_empire_archer_helmet_b" text="{.Muzcynski}Impierski Šałom Sadžytaryjusa nad Tkanniu"/>
+		<string id="osa_ar_empire_archer_helmet_b2" text="{.Muzcynski}Impierski Pazałočany Šałom Sadžytaryjusa nad Tkanniu"/>
+		<string id="osa_ar_battania_helmet_l" text="{.Muzcynski}Horny Adkryty Stalovy Šałom z Abaronaj Tvaru"/>
+		<string id="osa_ar_battania_helmet_m" text="{.Muzcynski}Horny Adkryty Bronzavy Šałom z Abaronaj Tvaru"/>
+		<string id="osa_ar_battania_helmet_p" text="{.Muzcynski}Horny Adkryty Stalovy Rabrysty Šałom"/>
+		<string id="osa_ar_battania_helmet_q" text="{.Muzcynski}Horny Adkryty Bronzavy Rabrysty Šałom"/>
+		<string id="osa_ar_battania_helmet_w" text="{.Muzcynski}Horny Adkryty Stalovy Vysoki Šałom"/>
+		<string id="osa_ar_battania_helmet_w2" text="{.Muzcynski}Horny Adkryty Bronzavy Vysoki Šałom"/>
+		<string id="osa_ar_battania_helmet_za" text="{.Muzcynski}Horny Žalezny Šałom z Hrebieniem nad Tkanniu"/>
+		<string id="osa_ar_empire_desert_helmet_b" text="{.Muzcynski}Paŭdniovy Nazalchielm nad Impierskaj Tkanniu"/>
+		<string id="osa_ar_sturgia_helmet_k" text="{.Muzcynski}Paŭnočny Šałom-Kaŭpak nad Skuraju"/>
+		<string id="osa_ar_bone_helmet_a" text="{.Muzcynski}Kasciany Łamielarny Šałom Šamana"/>
+		<string id="osa_ar_bone_helmet_b" text="{.Muzcynski}Azdobleny Piorami Kasciany Łamielarny Šałom Šamana"/>
+		<string id="osa_ar_bone_helmet_c" text="{.Muzcynski}Kasciany Łamielarny Šałom Šamana z Rahami"/>
+		<!-- Medium Helmets -->
+		<string id="osa_ar_empire_legatus_helm_a" text="{.Muzcynski}Impierski Ŭpryhožany Šałom Šlachty z Klajnotam"/>
+		<string id="osa_ar_empire_legatus_helm_b" text="{.Muzcynski}Impierski Pazałočany Šałom Šlachty z Klajnotam"/>
+		<string id="osa_ar_empire_legatus_helm_c" text="{.Muzcynski}Impierski Uzmocnieny Šałom Vieršnika"/>
+		<string id="osa_ar_empire_legatus_helm_d" text="{.Muzcynski}Impierski Azdobleny Piorami Uzmocnieny Šałom Vieršnika"/>
+		<string id="osa_ar_empire_legatus_helm_e" text="{.Muzcynski}Impierski Uzmocnieny Šałom Vieršnika z Piorami"/>
+		<string id="osa_ar_intercisa_helmet_a" text="{.Muzcynski}Impierski Rabrysty Šałom z Mietalovym Klajnotam"/>
+		<string id="osa_ar_intercisa_helmet_c" text="{.Muzcynski}Impierski Azdobleny Piorami Rabrysty Šałom z Mietalovym Klajnotam"/>
+		<string id="osa_ar_intercisa_helmet_d" text="{.Muzcynski}Impierski Azdobleny Piorami Ŭpryhožany Rabrysty Šałom z Mietalovym Klajnotam"/>
+		<string id="osa_ar_intercisa_helmet_e" text="{.Muzcynski}Impierski Azdobleny Piorami Pazałočany Rabrysty Šałom z Mietalovym Klajnotam"/>
+		<string id="osa_ar_empire_crested_helm_a" text="{.Muzcynski}Impierski Šałom z Klajnotam i Abaronaj Tvaru"/>
+		<string id="osa_ar_roman_helmet_b_plumed" text="{.Muzcynski}Šałom z Piorami i Abaronaj Tvaru"/>
+		<string id="osa_ar_roman_helmet_b_plumed_b" text="{.Muzcynski}Azdobleny Piorami Šałom z Abaronaj Tvaru"/>
+		<string id="osa_ar_battania_helmet_a" text="{.Muzcynski}Horny Vysoki Šałom"/>
+		<string id="osa_ar_battania_helmet_a2" text="{.Muzcynski}Horny Vysoki Šałom z Haržietam"/>
+		<string id="osa_ar_battania_helmet_b" text="{.Muzcynski}Horny Vysoki Šałom z Piorami"/>
+		<string id="osa_ar_battania_helmet_b2" text="{.Muzcynski}Horny Vysoki Šałom z Piorami nad Kalčuhaj"/>
+		<string id="osa_ar_battania_helmet_d" text="{.Muzcynski}Horny Kapalin z Piorami"/>
+		<string id="osa_ar_battania_helmet_j" text="{.Muzcynski}Horny Stalovy Šałom z Abaronaj Tvaru"/>
+		<string id="osa_ar_battania_helmet_k" text="{.Muzcynski}Horny Bronzavy Šałom z Abaronaj Tvaru"/>
+		<string id="osa_ar_battania_helmet_n" text="{.Muzcynski}Horny Stalovy Šałom z Piorami i Abaronaj Tvaru"/>
+		<string id="osa_ar_battania_helmet_o" text="{.Muzcynski}Horny Bronzavy Šałom z Piorami i Abaronaj Tvaru"/>
+		<string id="osa_ar_battania_helmet_r" text="{.Muzcynski}Horny Stalovy Rabrysty Šałom"/>
+		<string id="osa_ar_battania_helmet_s" text="{.Muzcynski}Horny Bronzavy Rabrysty Šałom"/>
+		<string id="osa_ar_battania_helmet_t" text="{.Muzcynski}Horny Stalovy Rabrysty Šałom nad Kalčuhaj"/>
+		<string id="osa_ar_battania_helmet_u" text="{.Muzcynski}Horny Bronzavy Rabrysty Šałom nad Kalčuhaj"/>
+		<string id="osa_ar_battania_helmet_v" text="{.Muzcynski}Horny Stalovy Vysoki Šałom z Abaronaj Tvaru"/>
+		<string id="osa_ar_battania_helmet_v2" text="{.Muzcynski}Horny Bronzavy Vysoki Šałom z Abaronaj Tvaru"/>
+		<string id="osa_ar_battania_helmet_x" text="{.Muzcynski}Horny Stalovy Vysoki Šałom nad Kalčuhaj"/>
+		<string id="osa_ar_battania_helmet_y" text="{.Muzcynski}Horny Pałasaty Šałom nad Skuraju"/>
+		<string id="osa_ar_battania_helmet_y2" text="{.Muzcynski}Horny Pałasaty Šałom nad Tkanniu"/>
+		<string id="osa_ar_battania_helmet_x2" text="{.Muzcynski}Horny Bronzavy Vysoki Šałom nad Kalčuhaj"/>
+		<string id="osa_ar_battania_helmet_zb" text="{.Muzcynski}Horny Žalezny Šałom z Hrebieniem i Skuraju"/>
+		<string id="osa_ar_battania_helmet_zc" text="{.Muzcynski}Horny Žalezny Šałom z Hrebieniem nad Pałasataj Kalčuhaj"/>
+		<string id="osa_ar_battania_helmet_zd" text="{.Muzcynski}Horny Ciažki Nazalchielm nad Tkanniu"/>
+		<string id="osa_ar_battania_helmet_ze" text="{.Muzcynski}Horny Ciažki Nazalchielm nad Skuraju"/>
+		<string id="osa_ar_sturgia_helmet_a" text="{.Muzcynski}Paŭnočny Nazalchielm nad Tkanniu"/>
+		<string id="osa_ar_sturgia_helmet_b" text="{.Muzcynski}Paŭnočny Ciažki Šałom Vieršnika z Piorami"/>
+		<string id="osa_ar_sturgia_helmet_d" text="{.Muzcynski}Paŭnočny Azdobleny Piorami Šałom z Nanosnikam"/>
+		<string id="osa_ar_sturgia_helmet_e" text="{.Muzcynski}Španhienchielm nad Kalčuhaj"/>
+		<string id="osa_ar_sturgia_helmet_j" text="{.Muzcynski}Španhienchielm z Futram nad Kalčuhaj"/>
+		<string id="osa_ar_sturgia_helmet_j2" text="{.Muzcynski}Španhienchielm z Rudym Futram nad Kalčuhaj"/>
+		<string id="osa_ar_sturgia_helmet_l" text="{.Muzcynski}Paŭnočny Šałom sa Skuraju"/>
+		<string id="osa_ar_empire_helmet_c" text="{.Muzcynski}Stepavy Azdobleny Piorami Španhienchielm nad Kalčužnym Koifam"/>
+		<string id="osa_ar_empire_helmet_d" text="{.Muzcynski}Stepavy Azdobleny Piorami Španhienchielm nad Skuraju"/>
+		<string id="osa_ar_empire_helmet_e" text="{.Muzcynski}Stepavy Španhienchielm z Piorami nad Kalčuhaj"/>
+		<string id="osa_ar_empire_helmet_f" text="{.Muzcynski}Stepavy Španhienchielm z Piorami"/>
+		<string id="osa_ar_empire_helmet_j" text="{.Muzcynski}Impierski Šałom Bałlistaryjosa"/>
+		<string id="osa_ar_empire_helmet_k" text="{.Muzcynski}Impierski Adkryty Šałom Bałlistaryjosa"/>
+		<string id="osa_ar_empire_helmet_l" text="{.Muzcynski}Impierski Pałasaty Šałom"/>
+		<string id="osa_ar_empire_helmet_m" text="{.Muzcynski}Impierski Pałasaty Šałom sa Skuranymi Pałoskami"/>
+		<string id="osa_ar_empire_helmet_n" text="{.Muzcynski}Impierski Pałasaty Šałom z Piorami i Mietalovymi Pałoskami"/>
+		<string id="osa_ar_empire_helmet_o" text="{.Muzcynski}Impierski Łatunievy Łuskavaty Koif"/>
+		<string id="osa_ar_empire_helmet_o2" text="{.Muzcynski}Impierski Čarhavany Łuskavaty Koif"/>
+		<string id="osa_ar_empire_helmet_o3" text="{.Muzcynski}Impierski Stalovy Łuskavaty Koif"/>
+		<string id="osa_ar_empire_helmet_p" text="{.Muzcynski}Impierski Miakki Tkany Koif"/>
+		<string id="osa_ar_empire_helmet_q" text="{.Muzcynski}Impierski Španhienchielm nad Tkanniu"/>
+		<string id="osa_ar_empire_helmet_r" text="{.Muzcynski}Impierski Španhienchielm nad Pałasataj Tkanniu"/>
+		<string id="osa_ar_empire_helmet_s" text="{.Muzcynski}Uschodni Španhienchielm nad Tkanniu"/>
+		<string id="osa_ar_khuzait_helmet_c" text="{.Muzcynski}Uschodni Łamielarny Šałom z Futram"/>
+		<string id="osa_ar_khuzait_helmet_k" text="{.Muzcynski}Uschodni Španhienchielm z Futram i Piarom"/>
+		<string id="osa_ar_khuzait_helmet_l" text="{.Muzcynski}Uschodni Španhienchielm z Futram"/>
+		<string id="osa_ar_khuzait_helmet_n" text="{.Muzcynski}Uschodni Španhienchielm z Futravaj Šapkaj"/>
+		<string id="osa_ar_khuzait_helmet_c_fur" text="{.Muzcynski}Uschodni Łamielarny Šałom z Pierahornutaj Šapkaj"/>
+		<string id="osa_ar_khuzait_lord_helmet_h" text="{.Muzcynski}Uschodni Šaŭkovy Zahornuty Ŭpryhožany Šlachietny Kaŭpak"/>
+		<string id="osa_ar_empire_archer_helmet_a" text="{.Muzcynski}Impierski Šałom Sadžytaryjusa nad Skuraju"/>
+		<string id="osa_ar_empire_archer_helmet_a2" text="{.Muzcynski}Impierski Pazałočany Šałom Sadžytaryjusa nad Skuraju"/>
+		<string id="osa_ar_empire_archer_helmet_c" text="{.Muzcynski}Impierski Šałom Sadžytaryjusa nad Kalčuhaj"/>
+		<string id="osa_ar_empire_archer_helmet_c2" text="{.Muzcynski}Impierski Pazałočany Šałom Sadžytaryjusa nad Kalčuhaj"/>
+		<string id="osa_ar_empire_desert_helmet_a" text="{.Muzcynski}Paŭdniovy Nazalchielm z Piorami nad Impierskaj Kalčuhaj"/>
+		<string id="osa_ar_empire_desert_helmet_d" text="{.Muzcynski}Paŭdniovy Nazalchielm nad Skuraju"/>
+		<string id="osa_ar_empire_lord_helmet_i" text="{.Muzcynski}Impierski Ŭpryhožany Pałasaty Šałom z Piorami i Mietalovymi Pałoskami"/>
+		<string id="osa_ar_roman_helmet_b_decorated" text="{.Muzcynski}Impierski Ŭpryhožany Šałom z Abaronaj Tvaru"/>
+		<string id="osa_ar_roman_helmet_b_fur_a" text="{.Muzcynski}Impierski Šałom Vyviednika z Abaronaj Tvaru"/>
+		<string id="osa_ar_roman_helmet_b_fur_b" text="{.Muzcynski}Impierski Vysoki Šałom Vyviednika"/>
+		<string id="osa_ar_roman_helmet_d_strips" text="{.Muzcynski}Vysoki Šałom z Piorami nad Pałasataj Tkanniu"/>
+		<string id="osa_ar_vlandia_helmet_c" text="{.Muzcynski}Upryhožany Ciažki Skałkep nad Miakkaj Tkanniu"/>
+		<string id="osa_ar_vlandia_helmet_c2" text="{.Muzcynski}Azdobleny Piorami Ciažki Skałkep nad Miakkaj Tkanniu"/>
+		<string id="osa_ar_vlandia_helmet_d" text="{.Muzcynski}Upryhožany Ciažki Skałkep nad Kalčužnym Koifam"/>
+		<string id="osa_ar_vlandia_helmet_e" text="{.Muzcynski}Upryhožany Ciažki Skałkep z Achovaj nad Kalčužnym Koifam"/>
+		<string id="osa_ar_vlandia_helmet_u" text="{.Muzcynski}Zachodni Pazałočany Nazalchielm z Zabrałam"/>
+		<string id="osa_ar_vlandia_helmet_x" text="{.Muzcynski}Zachodni Pałasaty Nazalchielm z Abaronaj Tvaru"/>
+		<string id="osa_ar_vlandia_helmet_z" text="{.Muzcynski}Zachodni Šałom z Zabrałam i Hrebieniem nad Tkanniu"/>
+		<string id="osa_ar_goth_helmet_d" text="{.Muzcynski}Uschodni Łamielarny Šałom nad Tkanniu"/>
+		<string id="osa_ar_goth_helmet_e" text="{.Muzcynski}Uschodni Łamielarny Šałom nad Skuraju"/>
+		<string id="osa_ar_goth_helmet_f" text="{.Muzcynski}Uschodni Łamielarny Šałom nad Kalčuhaj"/>
+		<!-- Ciažki Helmets -->
+		<string id="osa_ar_empire_lord_helmet_c_a" text="{.Muzcynski}Impierski Šałom z Piorami i Mietalovymi Pałoskami"/>
+		<string id="osa_ar_empire_lord_guarded_face_helmet" text="{.Muzcynski}Impierski Šałom Šlachty z Achovaj i Tvaravaj Płascinaj"/>
+		<string id="osa_ar_empire_Katafraktas_helmet_a" text="{.Muzcynski}Impierski Šałom Katafrakta z Piorami"/>
+		<string id="osa_ar_imperial_archons_helmet_a" text="{.Muzcynski}Impierski Pazałočany Šałom Archonta"/>
+		<string id="osa_ar_imperial_archons_helmet_b" text="{.Muzcynski}Impierski Srebny Šałom Archonta"/>
+		<string id="osa_ar_imperial_crowned_helmet_a" text="{.Muzcynski}Impierski Šałom-Karona"/>
+		<string id="osa_ar_imperial_crowned_helmet_b" text="{.Muzcynski}Impierski Šałom-Karona z Tvaravaj Płascinaj"/>
+		<string id="osa_ar_roman_helmet_d_plumed_a" text="{.Muzcynski}Upryhožany Šałom z Piorami"/>
+		<string id="osa_ar_roman_helmet_d_plumed_b" text="{.Muzcynski}Pazałočany Šałom z Piorami"/>
+		<string id="osa_ar_roman_helmet_d_plumed_c" text="{.Muzcynski}Pazałočany Šałom z Piorami i Tvaravaj Płascinaj"/>
+		<string id="osa_ar_roman_helmet_d_strips_mail" text="{.Muzcynski}Vysoki Šałom z Piorami nad Pałasataj Kalčuhaj"/>
+		<string id="osa_ar_roman_helmet_e_strips_mail" text="{.Muzcynski}Vysoki Šałom nad Pałasataj Kalčuhaj"/>
+		<string id="osa_ar_roman_helmet_b_fur_c" text="{.Muzcynski}Impierski Šałom Vyviednika z Piorami"/>
+		<string id="osa_ar_roman_helmet_b_decorated_b" text="{.Muzcynski}Impierski Ŭpryhožany Šałom z Klajnotam i Abaronaj Tvaru"/>
+		<string id="osa_ar_roman_helmet_b_decorated_c" text="{.Muzcynski}Impierski Pazałočany Ŭpryhožany Šałom z Klajnotam i Abaronaj Tvaru"/>
+		<string id="osa_ar_khuzait_helmet_g" text="{.Muzcynski}Uschodni Šypaty Šałom sa Skuraju"/>
+		<string id="osa_ar_khuzait_helmet_j" text="{.Muzcynski}Uschodni Zakryty Ciažki Šałom"/>
+		<string id="osa_ar_khuzait_helmet_m" text="{.Muzcynski}Uschodni Španhienchielm z Piorami i Futram nad Łamielaram"/>
+		<string id="osa_ar_khuzait_helmet_o" text="{.Muzcynski}Uschodni Azdobleny Piorami Šałom Katafrakta"/>
+		<string id="osa_ar_khuzait_lord_helmet_a" text="{.Muzcynski}Uschodni Šałom Šlachietny z Piorami i Tvaravaj Płascinaj"/>
+		<string id="osa_ar_khuzait_lord_helmet_b" text="{.Muzcynski}Uschodni Šałom Katafrakta"/>
+		<string id="osa_ar_khuzait_lord_helmet_c" text="{.Muzcynski}Uschodni Pazałočany Šałom sa Skuranymi Pałoskami"/>
+		<string id="osa_ar_khuzait_lord_helmet_d" text="{.Muzcynski}Uschodni Zakryty Pazałočany Šałom z Płascinistaj Skuraju"/>
+		<string id="osa_ar_khuzait_lord_helmet_e" text="{.Muzcynski}Uschodni Ciažki Šlachietny Šałom z Piorami"/>
+		<string id="osa_ar_khuzait_lord_helmet_f" text="{.Muzcynski}Uschodni Ciažki Šałom z Piorami i Maskaj"/>
+		<string id="osa_ar_khuzait_lord_helmet_g" text="{.Muzcynski}Uschodni Ciažki Vendeł sa Skuraju"/>
+		<string id="osa_ar_vlandian_crown_mask_a" text="{.Zanocy}Zachodniaja Karona z Maskaj"/>
+		<string id="osa_ar_vlandian_crown_mask_b" text="{.Muzcynski}Zachodni Šałom-Karona z Maskaj"/>
+		<string id="osa_ar_vlandian_knights_helmet_a" text="{.Muzcynski}Zachodni Šałom Rycara"/>
+		<string id="osa_ar_vlandian_knights_helmet_b" text="{.Muzcynski}Zachodni Azdobleny Piorami Šałom Rycara"/>
+		<string id="osa_ar_vlandian_knights_helmet_c" text="{.Muzcynski}Zachodni Šałom Rycara z Achovaj"/>
+		<string id="osa_ar_vlandia_helmet_a" text="{.Muzcynski}Zachodni Ryfleny Šałom nad Miakkaj Kalčuhaj"/>
+		<string id="osa_ar_vlandia_helmet_b" text="{.Muzcynski}Zachodni Ryfleny Šałom z Piorami nad Miakkaj Kalčuhaj"/>
+		<string id="osa_ar_vlandia_helmet_i" text="{.Muzcynski}Šałom z Nanosnikam i Abaronaj Tvaru nad Kalčuhaj"/>
+		<string id="osa_ar_vlandia_helmet_j" text="{.Muzcynski}Zachodni Ciažki Ciervieler nad Kalčuhaj"/>
+		<string id="osa_ar_vlandia_helmet_m" text="{.Muzcynski}Zachodni Španhienchielm z Abaronaj Tvaru nad Kalčuhaj"/>
+		<string id="osa_ar_vlandia_helmet_n" text="{.Muzcynski}Zachodni Ciažki Španhienchielm nad Kalčuhaj"/>
+		<string id="osa_ar_vlandia_helmet_q" text="{.Muzcynski}Bronzavy Španhienchielm z Piorami nad Kalčužnym Koifam"/>
+		<string id="osa_ar_vlandia_helmet_q2" text="{.Muzcynski}Bronzavy Španhienchielm z Klajnotam nad Kalčužnym Koifam"/>
+		<string id="osa_ar_vlandia_helmet_r" text="{.Muzcynski}Bronzavy Španhienchielm z Piorami nad Płascinistym Kalčužnym Koifam"/>
+		<string id="osa_ar_vlandia_helmet_r2" text="{.Muzcynski}Bronzavy Španhienchielm z Klajnotam nad Płascinistym Kalčužnym Koifam"/>
+		<string id="osa_ar_vlandia_helmet_s" text="{.Muzcynski}Zachodni Vostrakancovy Šałom Katafrakta"/>
+		<string id="osa_ar_vlandia_helmet_t" text="{.Muzcynski}Zachodni Šałom Katafrakta"/>
+		<string id="osa_ar_vlandia_helmet_v" text="{.Muzcynski}Zachodni Pazałočany Nazalchielm z Zabrałam nad Kalčuhaj"/>
+		<string id="osa_ar_vlandia_helmet_y" text="{.Muzcynski}Zachodni Bandedchielm z Piorami i Abaronaj Vačej nad Kalčuhaj"/>
+		<string id="osa_ar_vlandia_helmet_z2" text="{.Muzcynski}Zachodni Šałom z Zabrałam i Hrebieniem nad Kalčuhaj"/>
+		<string id="osa_ar_vlandia_lord_helmet_a" text="{.Muzcynski}Zachodni Šlachietny Nazalchielm z Piarom i Klajnotam"/>
+		<string id="osa_ar_vlandia_lord_helmet_b" text="{.Muzcynski}Zachodni Šlachietny Pazałočany Nazalchielm z Klajnotam i Zabrałam"/>
+		<string id="osa_ar_vlandia_lord_helmet_c" text="{.Muzcynski}Zachodni Šlachietny Bandedchielm z Abaronaj Vačej"/>
+		<string id="osa_ar_vlandia_lord_helmet_d" text="{.Muzcynski}Zachodni Šlachietny Šałom z Hrebieniem i Tvaravaj Płascinaj"/>
+		<string id="osa_ar_battania_lord_helmet_a" text="{.Muzcynski}Horny Šałom-Karona z Piorami"/>
+		<string id="osa_ar_battania_lord_helmet_b" text="{.Muzcynski}Pazałočany Horny Šałom-Karona z Piorami"/>
+		<string id="osa_ar_battania_lord_helmet_c" text="{.Muzcynski}Horny Šlachietny Šałom z Piorami"/>
+		<string id="osa_ar_battania_lord_helmet_d" text="{.Muzcynski}Horny Šlachietny Stalovy Ŭpryhožany Šałom z Piarom"/>
+		<string id="osa_ar_battania_lord_helmet_e" text="{.Muzcynski}Horny Šlachietny Bronzavy Ŭpryhožany Šałom z Piarom"/>
+		<string id="osa_ar_battania_lord_helmet_f" text="{.Muzcynski}Horny Šlachietny Stalovy Rabrysty Šałom"/>
+		<string id="osa_ar_battania_lord_helmet_g" text="{.Muzcynski}Horny Šlachietny Bronzavy Rabrysty Šałom"/>
+		<string id="osa_ar_battania_lord_helmet_h" text="{.Muzcynski}Horny Šlachietny Stalovy Vysoki Šałom"/>
+		<string id="osa_ar_battania_lord_helmet_i" text="{.Muzcynski}Horny Šlachietny Bronzavy Vysoki Šałom"/>
+		<string id="osa_ar_battania_lord_helmet_j" text="{.Muzcynski}Horny Šlachietny Šałom z Piarom i Klajnotam"/>
+		<string id="osa_ar_battania_lord_helmet_k" text="{.Muzcynski}Horny Šlachietny Stalovy Ŭpryhožany Šałom z Ptuškaj"/>
+		<string id="osa_ar_battania_lord_helmet_l" text="{.Muzcynski}Horny Bronzavy Šałom z Klajnotam i Piarom"/>
+		<string id="osa_ar_battania_lord_helmet_m" text="{.Muzcynski}Horny Šałom z Hrebieniem, Piarom i Klajnotam"/>
+		<string id="osa_ar_battania_lord_helmet_n" text="{.Muzcynski}Horny Žalezny Šałom Vojskavoda z Hrebieniem i Klajnotam"/>
+		<string id="osa_ar_battania_lord_helmet_o" text="{.Muzcynski}Horny Pazałočany Šałom Vojskavoda z Hrebieniem i Klajnotam"/>
+		<string id="osa_ar_battania_lord_helmet_p" text="{.Muzcynski}Horny Pazałočany Šlachietny Ciažki Nazalchielm nad Łuskataj"/>
+		<string id="osa_ar_battania_lord_helmet_q" text="{.Muzcynski}Horny Šlachietny Ciažki Nazalchielm nad Łuskataj"/>
+		<string id="osa_ar_battania_helmet_f_decorated" text="{.Muzcynski}Horny Ŭpryhožany Šałom z Hrebieniem"/>
+		<string id="osa_ar_battania_helmet_f" text="{.Muzcynski}Horny Ŭpryhožany Šałom Piorami i Hrebieniem"/>
+		<string id="osa_ar_battania_helmet_g" text="{.Muzcynski}Horny Španhienchielm"/>
+		<string id="osa_ar_battania_helmet_h" text="{.Muzcynski}Horny Azdobleny Piorami Španhienchielm nad Zamšam"/>
+		<string id="osa_ar_battania_helmet_i" text="{.Muzcynski}Horny Španhienchielm z Piorami nad Kalčuhaj"/>
+		<string id="osa_ar_battania_helmet_z" text="{.Muzcynski}Horny Pałasaty Šałom nad Kalčuhaj"/>
+		<string id="osa_ar_battania_helmet_zf" text="{.Muzcynski}Horny Ciažki Nazalchielm nad Kalčuhaj"/>
+		<string id="osa_ar_empire_helmet_a" text="{.Muzcynski}Impierski Šlachietny Ciažki Nazalchielm z Kaštoŭnasciami"/>
+		<string id="osa_ar_empire_helmet_b" text="{.Muzcynski}Impierski Šlachietny Pazałočany Ciažki Nazalchielm z Kaštoŭnasciami"/>
+		<string id="osa_ar_empire_helmet_g" text="{.Muzcynski}Impierski Pazałočany Šałom z Mietalovymi Pałoskami"/>
+		<string id="osa_ar_empire_helmet_h" text="{.Muzcynski}Impierski Pazałočany Zakryty Šałom z Mietalovymi Pałoskami"/>
+		<string id="osa_ar_empire_helmet_i" text="{.Muzcynski}Impierski Šałom Bałlistaryjosa z Piorami nad Kalčuhaj"/>
+		<string id="osa_ar_empire_lord_helmet_a" text="{.Muzcynski}Impierski Šałom Šlachty z Abaronaj Tvaru"/>
+		<string id="osa_ar_empire_lord_helmet_b" text="{.Muzcynski}Impierski Šałom Šlachty z Tvaravaj Płascinaj"/>
+		<string id="osa_ar_empire_lord_helmet_d" text="{.Muzcynski}Pazałočany Impierski Šałom Šlachty z Achovaj"/>
+		<string id="osa_ar_empire_lord_helmet_e" text="{.Muzcynski}Impierski Azdobleny Piorami Šałom z Kaštoŭnasciami"/>
+		<string id="osa_ar_empire_lord_helmet_f" text="{.Muzcynski}Impierski Španhienchielm z Achovaj, Piarom i Klajnotam"/>
+		<string id="osa_ar_empire_lord_helmet_g" text="{.Muzcynski}Impierski Srebny Šałom z Hrebieniem"/>
+		<string id="osa_ar_empire_lord_helmet_h" text="{.Muzcynski}Impierski Pazałočany Šałom z Kaštoŭnasciami i Hrebieniem"/>
+		<string id="osa_ar_empire_lord_helmet_j" text="{.Muzcynski}Impierski Šałom z Kaštoŭnasciami i Hrebieniem"/>
+		<string id="osa_ar_empire_lord_helmet_k" text="{.Muzcynski}Impierski Šałom z Kaštoŭnasciami, Hrebieniem i Pazałočanaj Tvaravaj Płascinaj"/>
+		<string id="osa_ar_empire_lord_helmet_l" text="{.Muzcynski}Impierski Šałom z Kaštoŭnasciami, Hrebieniem i Srebnaj Tvaravaj Płascinaj"/>
+		<string id="osa_ar_empire_archer_helmet_d" text="{.Muzcynski}Impierski Šałom Sadžytaryjusa nad Łuskataj"/>
+		<string id="osa_ar_empire_archer_helmet_d2" text="{.Muzcynski}Impierski Pazałočany Šałom Sadžytaryjusa nad Łuskataj"/>
+		<string id="osa_ar_empire_desert_helmet_e" text="{.Muzcynski}Paŭdniovy Šałom z Mietalovymi Pałoskami"/>
+		<string id="osa_ar_empire_legatus_helm_f" text="{.Muzcynski}Impierski Ŭpryhožany Šałom Šlachty z Klajnotam i Tvaravaj Płascinaj"/>
+		<string id="osa_ar_empire_crested_helm_b" text="{.Muzcynski}Impierski Šałom z Klajnotam i Tvaravaj Płascinaj"/>
+		<string id="osa_ar_sturgia_helmet_c" text="{.Muzcynski}Paŭnočny Zakryty Šałom Vieršnika z Piorami"/>
+		<string id="osa_ar_sturgia_helmet_m" text="{.Muzcynski}Paŭnočny Zavostrany Šałom z Piarom"/>
+		<string id="osa_ar_closed_kettle_helmet_a" text="{.Muzcynski}Impierski Kapalin z Piorami nad Zakrytaj Kalčuhaj"/>
+		<string id="osa_ar_vaegir_helmet_a" text="{.Muzcynski}Paŭnočny Šypaty Šałom z Kalčuhaj"/>
+		<string id="osa_ar_vaegir_helmet_c" text="{.Muzcynski}Paŭnočny Futravy Šypaty Šałom z Kalčuhaj"/>
+		<string id="osa_ar_vaegir_helmet_d" text="{.Muzcynski}Paŭnočny Futravy Vendeł"/>
+		<string id="osa_ar_vaegir_helmet_e" text="{.Muzcynski}Paŭnočny Šypaty Šałom nad Skuraju"/>
+		<string id="osa_ar_vaegir_helmet_f" text="{.Muzcynski}Paŭnočny Futravy Šypaty Šałom nad Skuraju"/>
+		<string id="osa_ar_vaegir_helmet_g" text="{.Muzcynski}Paŭnočny Šypaty Šałom z Ŭpryhožanaj Maskaj"/>
+		<string id="osa_ar_goth_helmet_a" text="{.Muzcynski}Žalezny Šałom z Hrubaj Łuskataj"/>
+		<string id="osa_ar_goth_helmet_b" text="{.Muzcynski}Žalezny Šałom z Hrubaj Łuskataj i Abaronaj Tvaru"/>
+		<string id="osa_ar_goth_helmet_c" text="{.Muzcynski}Žalezny Šałom z Piorami, Hrubaj Łuskataj i Abaronaj Tvaru"/>
+		<string id="osa_ar_goth_helmet_g" text="{.Muzcynski}Uschodni Zakryty Łamielarny Šałom z Piorami"/>
+		<string id="osa_ar_lion_head_c" text="{.Muzcynski}Šałom z Hrebieniem i Hałavoj Ilva"/>
+	</strings>
+</base>

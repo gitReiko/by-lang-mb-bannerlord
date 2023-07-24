@@ -1,0 +1,325 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<strings>
+		<!-- Hats -->
+		<string id="osa_ar_roman_hat_a" text="{.Muzcynski}Імперскі Ўпрыгожаны Капялюх"/>
+		<string id="osa_ar_roman_hat_a2" text="{.Muzcynski}Імперскі Аздоблены Пёрамі Ўпрыгожаны Капялюх"/>
+		<string id="osa_ar_roman_hat_b" text="{.Muzcynski}Імперскі Футравы Капялюх"/>
+		<string id="osa_ar_roman_hat_b2" text="{.Muzcynski}Імперскі Канічны Футравы Капялюх"/>
+		<string id="osa_ar_roman_hat_c" text="{.Muzcynski}Імперскі Ўпрыгожаны Скураны Капялюх"/>
+		<string id="osa_ar_roman_hat_d" text="{.Muzcynski}Канічны Тканы Капялюх"/>
+		<string id="osa_ar_roman_hat_e" text="{.Muzcynski}Гладкі Канічны Тканы Капялюх"/>
+		<string id="osa_ar_roman_hat_f" text="{.Muzcynski}Канічны Скураны Капялюх"/>
+		<string id="osa_ar_phrygian_cap_a" text="{.Muzcynski}Паласаты Сагнуты Канічны Капялюх"/>
+		<string id="osa_ar_phrygian_cap_b" text="{.Muzcynski}Высокі Паласаты Сагнуты Канічны Капялюх"/>
+		<string id="osa_ar_sturgia_womens_hat_a" text="{.Muzcynski}Паўночны Жаночы Капялюх"/>
+		<string id="osa_ar_khuzait_helmet_a" text="{.Zanocy}Ўсходняя Футравая Шапка"/>
+		<string id="osa_ar_hat_a" text="{.Zanocy}Саламяны Капялюх"/>
+		<string id="osa_ar_hat_b" text="{.Zanocy}Саламяны Капялюх з Пяром"/>
+		<string id="osa_ar_hat_c" text="{.Muzcynski}Паўднёвы Грубы Тканы Капялюх"/>
+		<string id="osa_ar_hat_d" text="{.Muzcynski}Паўднёвы Тканы Капялюх"/>
+		<string id="osa_ar_hat_e" text="{.Zanocy}Грубая Мяккая Тканая Шапка"/>
+		<string id="osa_ar_hat_f" text="{.Zanocy}Мяккая Тканая Шапка"/>
+		<string id="osa_ar_hat_g" text="{.Zanocy}Гладкая Мяккая Тканая Шапка"/>
+		<string id="osa_ar_empire_laurel_a" text="{.Mnozny}Лаўры"/>
+		<!-- Aserai Helmets -->
+		<string id="osa_ar_aserai_archer_helmet_a" text="{.Muzcynski}Паўднёвы Адкрыты Шалом Стралка"/>
+		<string id="osa_ar_aserai_archer_helmet_b" text="{.Muzcynski}Паўднёвы Закрыты Шалом Стралка"/>
+		<string id="osa_ar_aserai_archer_helmet_c" text="{.Muzcynski}Паўднёвы Шалом Стралка над Кальчугай"/>
+		<string id="osa_ar_aserai_archer_helmet_d" text="{.Muzcynski}Паўднёвы Шляхетны Шалом Стралка"/>
+		<string id="osa_ar_aserai_archer_helmet_e" text="{.Muzcynski}Паўднёвы Адкрыты Купалаваты Шалом Стралка"/>
+		<string id="osa_ar_aserai_archer_helmet_f" text="{.Muzcynski}Паўднёвы Закрыты Купалаваты Шалом Стралка"/>
+		<string id="osa_ar_aserai_archer_helmet_g" text="{.Muzcynski}Паўднёвы Купалаваты Шалом Стралка над Кальчугай"/>
+		<string id="osa_ar_aserai_archer_helmet_h" text="{.Muzcynski}Паўднёвы Шляхетны Купалаваты Шалом Стралка"/>
+		<string id="osa_ar_aserai_cataphract_helmet_a" text="{.Muzcynski}Паўднёвы Шалом Катафракта"/>
+		<string id="osa_ar_aserai_cataphract_helmet_b" text="{.Muzcynski}Пустэльны Шалом Катафракта"/>
+		<string id="osa_ar_aserai_cataphract_helmet_c" text="{.Muzcynski}Паўднёвы Пазалочаны Высокі Шалом Катафракта"/>
+		<string id="osa_ar_aserai_cataphract_helmet_d" text="{.Muzcynski}Паўднёвы Высокі Шалом Катафракта"/>
+		<string id="osa_ar_aserai_helmet_a" text="{.Muzcynski}Паўднёвы Загорнуты Шалом"/>
+		<string id="osa_ar_aserai_helmet_b" text="{.Muzcynski}Паўднёвы Шалом-Каўпак з Хусткай"/>
+		<string id="osa_ar_aserai_helmet_c" text="{.Muzcynski}Паўднёвы Шпангенхельм над Прычэпленай Тканню"/>
+		<string id="osa_ar_aserai_helmet_c2" text="{.Muzcynski}Паўднёвы Шпангенхельм над Скураю"/>
+		<string id="osa_ar_aserai_helmet_d" text="{.Muzcynski}Паўднёвы Адкрыты Шпангенхельм"/>
+		<string id="osa_ar_aserai_helmet_e" text="{.Muzcynski}Паўднёвы Загорнуты Шпангенхельм над Кальчугай"/>
+		<string id="osa_ar_aserai_helmet_f" text="{.Muzcynski}Паўднёвы Шпангенхельм з Хвастом над Кальчугай"/>
+		<string id="osa_ar_aserai_helmet_g" text="{.Muzcynski}Даршыйскі Высокі Шалом над Кальчугай"/>
+		<string id="osa_ar_aserai_helmet_h" text="{.Muzcynski}Даршыйскі Высокі Шалом над Закрытай Кальчугай"/>
+		<string id="osa_ar_aserai_helmet_i" text="{.Muzcynski}Даршыйскі Адкрыты Высокі Шалом"/>
+		<string id="osa_ar_aserai_helmet_j" text="{.Muzcynski}Даршыйскі Высокі Шалом з Хвастом"/>
+		<string id="osa_ar_aserai_helmet_k" text="{.Muzcynski}Паўднёвы Завостраны Жалезны Шалом з Хвастом"/>
+		<string id="osa_ar_aserai_helmet_k2" text="{.Muzcynski}Паўднёвы Завостраны Бронзавы Шалом з Хвастом"/>
+		<string id="osa_ar_aserai_helmet_l" text="{.Muzcynski}Паўднёвы Загорнуты Завостраны Жалезны Шалом"/>
+		<string id="osa_ar_aserai_helmet_l2" text="{.Muzcynski}Паўднёвы Загорнуты Завостраны Бронзавы Шалом"/>
+		<string id="osa_ar_aserai_helmet_m" text="{.Muzcynski}Паўднёвы Адкрыты Завостраны Жалезны Шалом"/>
+		<string id="osa_ar_aserai_helmet_m2" text="{.Muzcynski}Паўднёвы Адкрыты Завостраны Бронзавы Шалом"/>
+		<string id="osa_ar_aserai_helmet_n" text="{.Muzcynski}Паўднёвы Завостраны Жалезны Шалом з Кальчугай"/>
+		<string id="osa_ar_aserai_helmet_n2" text="{.Muzcynski}Паўднёвы Завостраны Бронзавы Шалом з Кальчугай"/>
+		<string id="osa_ar_aserai_helmet_o" text="{.Muzcynski}Даршыйскі Рабрысты Шалом над Тканню"/>
+		<string id="osa_ar_aserai_helmet_p" text="{.Muzcynski}Даршыйскі Шалом з Грэбенем над Кальчугай"/>
+		<string id="osa_ar_aserai_helmet_q" text="{.Muzcynski}Даршыйскі Шалом з Пёрамі і Грэбенем над Кальчугай"/>
+		<string id="osa_ar_aserai_helmet_r" text="{.Muzcynski}Даршыйскі Шалом Несмяротнага з Пёрамі і Грэбенем"/>
+		<string id="osa_ar_aserai_helmet_s" text="{.Muzcynski}Паўднёвы Загорнуты Завостраны Жалезны Шалом-Каўпак"/>
+		<string id="osa_ar_aserai_helmet_s2" text="{.Muzcynski}Паўднёвы Загорнуты Завостраны Бронзавы Шалом-Каўпак"/>
+		<string id="osa_ar_aserai_helmet_t" text="{.Muzcynski}Паўднёвы Жалезны Шалом са Скуранымі Засланкамі"/>
+		<string id="osa_ar_aserai_helmet_t2" text="{.Muzcynski}Паўднёвы Жалезны Шалом-Турбан са Скуранымі Засланкамі"/>
+		<string id="osa_ar_aserai_helmet_u" text="{.Muzcynski}Паўднёвы Жалезны Шалом"/>
+		<string id="osa_ar_aserai_helmet_u2" text="{.Muzcynski}Паўднёвы Жалезны Шалом з Турбанам"/>
+		<string id="osa_ar_aserai_helmet_v" text="{.Muzcynski}Паўднёвы Жалезны Закрыты Шалом"/>
+		<string id="osa_ar_aserai_helmet_v2" text="{.Muzcynski}Паўднёвы Жалезны Закрыты Шалом з Турбанам"/>
+		<string id="osa_ar_aserai_helmet_w" text="{.Muzcynski}Даршыйскі Ламелярны Шалом над Тканню"/>
+		<string id="osa_ar_aserai_helmet_x" text="{.Muzcynski}Даршыйскі Ламелярны Шалом над Кальчугай"/>
+		<string id="osa_ar_aserai_helmet_y" text="{.Muzcynski}Даршыйскі Ламелярны Шалом з Пёрамі над Кальчугай"/>
+		<string id="osa_ar_aserai_helmet_z" text="{.Muzcynski}Даршыйскі Ламелярны Шалом Несмяротнага з Пёрамі"/>
+		<string id="osa_ar_aserai_lord_helmet_a" text="{.Muzcynski}Пустэльны Шалом Шляхты"/>
+		<string id="osa_ar_aserai_lord_helmet_b" text="{.Muzcynski}Пустэльны Шалом Шляхты з Тваравай Пласцінай"/>
+		<string id="osa_ar_aserai_lord_helmet_c" text="{.Muzcynski}Паўднёвы Пазалочаны Высокі Шалом з Кальчугай і Тканню"/>
+		<string id="osa_ar_aserai_lord_helmet_d" text="{.Muzcynski}Паўднёвы Высокі Шалом з Кальчугай і Тканню"/>
+		<string id="osa_ar_aserai_lord_helmet_e" text="{.Muzcynski}Паўднёвы Шалом Несмяротнага"/>
+		<string id="osa_ar_aserai_lord_helmet_f" text="{.Muzcynski}Даршыйскі Закрыты Шляхетны Шалом Вершніка"/>
+		<string id="osa_ar_aserai_lord_helmet_f2" text="{.Muzcynski}Даршыйскі Адкрыты Шляхетны Шалом Вершніка"/>
+		<string id="osa_ar_aserai_lord_helmet_g" text="{.Muzcynski}Паўднёвы Шляхетны Завостраны Жалезны Шалом"/>
+		<string id="osa_ar_aserai_lord_helmet_g2" text="{.Muzcynski}Паўднёвы Шляхетны Завостраны Бронзавы Шалом"/>
+		<string id="osa_ar_aserai_lord_helmet_h" text="{.Muzcynski}Паўднёвы Шляхетны Ламелярны Шалом з Тваравай Пласцінай"/>
+		<string id="osa_ar_aserai_lord_helmet_i" text="{.Muzcynski}Даршыйскі Шляхетны Ламелярны Шалом-Карона"/>
+		<string id="osa_ar_aserai_lord_helmet_j" text="{.Muzcynski}Даршыйскі Высокі Шалом з Пёрамі"/>
+		<!-- Light Helmets -->
+		<string id="osa_ar_roman_helmet_cap" text="{.Muzcynski}Імперскі Шалом-Каўпак"/>
+		<string id="osa_ar_roman_helmet_a_fur_a" text="{.Muzcynski}Імперскі Рабрысты Каўпак Выведніка"/>
+		<string id="osa_ar_roman_helmet_a_fur_b" text="{.Muzcynski}Імперскі Паласаты Каўпак Выведніка"/>
+		<string id="osa_ar_sturgia_helmet_f" text="{.Muzcynski}Шпангенхельм-Каўпак"/>
+		<string id="osa_ar_sturgia_helmet_g" text="{.Muzcynski}Шпангенхельм-Каўпак з Футрам"/>
+		<string id="osa_ar_sturgia_helmet_g2" text="{.Muzcynski}Шпангенхельм-Каўпак з Рудым Футрам"/>
+		<string id="osa_ar_sturgia_helmet_h" text="{.Muzcynski}Шпангенхельм з Футрам і Мяккай Тканінай"/>
+		<string id="osa_ar_sturgia_helmet_h2" text="{.Muzcynski}Шпангенхельм з Рудым Футрам Мяккай Тканінай"/>
+		<string id="osa_ar_sturgia_helmet_i" text="{.Muzcynski}Шпангенхельм з Футрам і Скураю"/>
+		<string id="osa_ar_sturgia_helmet_i2" text="{.Muzcynski}Шпангенхельм з Рудым Футрам і Скураю"/>
+		<string id="osa_ar_empire_desert_helmet_c" text="{.Muzcynski}Паўднёвы Шпангенхельм-Каўпак"/>
+		<string id="osa_ar_vlandia_helmet_f" text="{.Muzcynski}Упрыгожаны Цяжкі Скалкэп над Шнураваным Коіфам"/>
+		<string id="osa_ar_vlandia_helmet_g" text="{.Muzcynski}Цяжкі Скалкэп над Скураю"/>
+		<string id="osa_ar_vlandia_helmet_h" text="{.Muzcynski}Цяжкі Скалкэп з Абаронай Твару"/>
+		<string id="osa_ar_vlandia_helmet_k" text="{.Muzcynski}Заходні Шпангенхельм над Шнураваным Коіфам"/>
+		<string id="osa_ar_vlandia_helmet_l" text="{.Muzcynski}Заходні Шпангенхельм над Скураю"/>
+		<string id="osa_ar_vlandia_helmet_o" text="{.Muzcynski}Бронзавы Шпангенхельм над Тканым Коіфам"/>
+		<string id="osa_ar_vlandia_helmet_p" text="{.Muzcynski}Бронзавы Шпангенхельм над Мяккім Коіфам"/>
+		<string id="osa_ar_vlandia_helmet_w" text="{.Muzcynski}Заходні Адкрыты Паласаты Шалом з Абаронай Твару"/>
+		<string id="osa_ar_roman_helmet_a" text="{.Muzcynski}Імперскі Адкрыты Шалом з Абаронай Твару"/>
+		<string id="osa_ar_intercisa_helmet_b" text="{.Muzcynski}Імперскі Адкрыты Рабрысты Шалом з Металёвым Кляйнотам"/>
+		<string id="osa_ar_battania_helmet_c" text="{.Muzcynski}Горны Капалін"/>
+		<string id="osa_ar_khuzait_helmet_b" text="{.Muzcynski}Усходні Шалом з Пёрамі і Футрам"/>
+		<string id="osa_ar_khuzait_helmet_d" text="{.Muzcynski}Скураны Шалом Качэўніка"/>
+		<string id="osa_ar_khuzait_helmet_e" text="{.Muzcynski}Скураны Стэпавы Шалом"/>
+		<string id="osa_ar_khuzait_helmet_f" text="{.Muzcynski}Скураны Стэпавы Шалом з Футрам"/>
+		<string id="osa_ar_khuzait_helmet_p" text="{.Muzcynski}Усходні Шпангенхельм-Каўпак з Футрам"/>
+		<string id="osa_ar_vaegir_helmet_b" text="{.Muzcynski}Назальхельм Варага з Футрам"/>
+		<string id="osa_ar_sturgia_helmet_base" text="{.Muzcynski}Паўночны Шалом Вершніка"/>
+		<string id="osa_ar_empire_archer_helmet_b" text="{.Muzcynski}Імперскі Шалом Саджытарыюса над Тканню"/>
+		<string id="osa_ar_empire_archer_helmet_b2" text="{.Muzcynski}Імперскі Пазалочаны Шалом Саджытарыюса над Тканню"/>
+		<string id="osa_ar_battania_helmet_l" text="{.Muzcynski}Горны Адкрыты Сталёвы Шалом з Абаронай Твару"/>
+		<string id="osa_ar_battania_helmet_m" text="{.Muzcynski}Горны Адкрыты Бронзавы Шалом з Абаронай Твару"/>
+		<string id="osa_ar_battania_helmet_p" text="{.Muzcynski}Горны Адкрыты Сталёвы Рабрысты Шалом"/>
+		<string id="osa_ar_battania_helmet_q" text="{.Muzcynski}Горны Адкрыты Бронзавы Рабрысты Шалом"/>
+		<string id="osa_ar_battania_helmet_w" text="{.Muzcynski}Горны Адкрыты Сталёвы Высокі Шалом"/>
+		<string id="osa_ar_battania_helmet_w2" text="{.Muzcynski}Горны Адкрыты Бронзавы Высокі Шалом"/>
+		<string id="osa_ar_battania_helmet_za" text="{.Muzcynski}Горны Жалезны Шалом з Грэбенем над Тканню"/>
+		<string id="osa_ar_empire_desert_helmet_b" text="{.Muzcynski}Паўднёвы Назальхельм над Імперскай Тканню"/>
+		<string id="osa_ar_sturgia_helmet_k" text="{.Muzcynski}Паўночны Шалом-Каўпак над Скураю"/>
+		<string id="osa_ar_bone_helmet_a" text="{.Muzcynski}Касцяны Ламелярны Шалом Шамана"/>
+		<string id="osa_ar_bone_helmet_b" text="{.Muzcynski}Аздоблены Пёрамі Касцяны Ламелярны Шалом Шамана"/>
+		<string id="osa_ar_bone_helmet_c" text="{.Muzcynski}Касцяны Ламелярны Шалом Шамана з Рагамі"/>
+		<!-- Medium Helmets -->
+		<string id="osa_ar_empire_legatus_helm_a" text="{.Muzcynski}Імперскі Ўпрыгожаны Шалом Шляхты з Кляйнотам"/>
+		<string id="osa_ar_empire_legatus_helm_b" text="{.Muzcynski}Імперскі Пазалочаны Шалом Шляхты з Кляйнотам"/>
+		<string id="osa_ar_empire_legatus_helm_c" text="{.Muzcynski}Імперскі Узмоцнены Шалом Вершніка"/>
+		<string id="osa_ar_empire_legatus_helm_d" text="{.Muzcynski}Імперскі Аздоблены Пёрамі Узмоцнены Шалом Вершніка"/>
+		<string id="osa_ar_empire_legatus_helm_e" text="{.Muzcynski}Імперскі Узмоцнены Шалом Вершніка з Пёрамі"/>
+		<string id="osa_ar_intercisa_helmet_a" text="{.Muzcynski}Імперскі Рабрысты Шалом з Металёвым Кляйнотам"/>
+		<string id="osa_ar_intercisa_helmet_c" text="{.Muzcynski}Імперскі Аздоблены Пёрамі Рабрысты Шалом з Металёвым Кляйнотам"/>
+		<string id="osa_ar_intercisa_helmet_d" text="{.Muzcynski}Імперскі Аздоблены Пёрамі Ўпрыгожаны Рабрысты Шалом з Металёвым Кляйнотам"/>
+		<string id="osa_ar_intercisa_helmet_e" text="{.Muzcynski}Імперскі Аздоблены Пёрамі Пазалочаны Рабрысты Шалом з Металёвым Кляйнотам"/>
+		<string id="osa_ar_empire_crested_helm_a" text="{.Muzcynski}Імперскі Шалом з Кляйнотам і Абаронай Твару"/>
+		<string id="osa_ar_roman_helmet_b_plumed" text="{.Muzcynski}Шалом з Пёрамі і Абаронай Твару"/>
+		<string id="osa_ar_roman_helmet_b_plumed_b" text="{.Muzcynski}Аздоблены Пёрамі Шалом з Абаронай Твару"/>
+		<string id="osa_ar_battania_helmet_a" text="{.Muzcynski}Горны Высокі Шалом"/>
+		<string id="osa_ar_battania_helmet_a2" text="{.Muzcynski}Горны Высокі Шалом з Гаржетам"/>
+		<string id="osa_ar_battania_helmet_b" text="{.Muzcynski}Горны Высокі Шалом з Пёрамі"/>
+		<string id="osa_ar_battania_helmet_b2" text="{.Muzcynski}Горны Высокі Шалом з Пёрамі над Кальчугай"/>
+		<string id="osa_ar_battania_helmet_d" text="{.Muzcynski}Горны Капалін з Пёрамі"/>
+		<string id="osa_ar_battania_helmet_j" text="{.Muzcynski}Горны Сталёвы Шалом з Абаронай Твару"/>
+		<string id="osa_ar_battania_helmet_k" text="{.Muzcynski}Горны Бронзавы Шалом з Абаронай Твару"/>
+		<string id="osa_ar_battania_helmet_n" text="{.Muzcynski}Горны Сталёвы Шалом з Пёрамі і Абаронай Твару"/>
+		<string id="osa_ar_battania_helmet_o" text="{.Muzcynski}Горны Бронзавы Шалом з Пёрамі і Абаронай Твару"/>
+		<string id="osa_ar_battania_helmet_r" text="{.Muzcynski}Горны Сталёвы Рабрысты Шалом"/>
+		<string id="osa_ar_battania_helmet_s" text="{.Muzcynski}Горны Бронзавы Рабрысты Шалом"/>
+		<string id="osa_ar_battania_helmet_t" text="{.Muzcynski}Горны Сталёвы Рабрысты Шалом над Кальчугай"/>
+		<string id="osa_ar_battania_helmet_u" text="{.Muzcynski}Горны Бронзавы Рабрысты Шалом над Кальчугай"/>
+		<string id="osa_ar_battania_helmet_v" text="{.Muzcynski}Горны Сталёвы Высокі Шалом з Абаронай Твару"/>
+		<string id="osa_ar_battania_helmet_v2" text="{.Muzcynski}Горны Бронзавы Высокі Шалом з Абаронай Твару"/>
+		<string id="osa_ar_battania_helmet_x" text="{.Muzcynski}Горны Сталёвы Высокі Шалом над Кальчугай"/>
+		<string id="osa_ar_battania_helmet_y" text="{.Muzcynski}Горны Паласаты Шалом над Скураю"/>
+		<string id="osa_ar_battania_helmet_y2" text="{.Muzcynski}Горны Паласаты Шалом над Тканню"/>
+		<string id="osa_ar_battania_helmet_x2" text="{.Muzcynski}Горны Бронзавы Высокі Шалом над Кальчугай"/>
+		<string id="osa_ar_battania_helmet_zb" text="{.Muzcynski}Горны Жалезны Шалом з Грэбенем і Скураю"/>
+		<string id="osa_ar_battania_helmet_zc" text="{.Muzcynski}Горны Жалезны Шалом з Грэбенем над Паласатай Кальчугай"/>
+		<string id="osa_ar_battania_helmet_zd" text="{.Muzcynski}Горны Цяжкі Назальхельм над Тканню"/>
+		<string id="osa_ar_battania_helmet_ze" text="{.Muzcynski}Горны Цяжкі Назальхельм над Скураю"/>
+		<string id="osa_ar_sturgia_helmet_a" text="{.Muzcynski}Паўночны Назальхельм над Тканню"/>
+		<string id="osa_ar_sturgia_helmet_b" text="{.Muzcynski}Паўночны Цяжкі Шалом Вершніка з Пёрамі"/>
+		<string id="osa_ar_sturgia_helmet_d" text="{.Muzcynski}Паўночны Аздоблены Пёрамі Шалом з Наноснікам"/>
+		<string id="osa_ar_sturgia_helmet_e" text="{.Muzcynski}Шпангенхельм над Кальчугай"/>
+		<string id="osa_ar_sturgia_helmet_j" text="{.Muzcynski}Шпангенхельм з Футрам над Кальчугай"/>
+		<string id="osa_ar_sturgia_helmet_j2" text="{.Muzcynski}Шпангенхельм з Рудым Футрам над Кальчугай"/>
+		<string id="osa_ar_sturgia_helmet_l" text="{.Muzcynski}Паўночны Шалом са Скураю"/>
+		<string id="osa_ar_empire_helmet_c" text="{.Muzcynski}Стэпавы Аздоблены Пёрамі Шпангенхельм над Кальчужным Коіфам"/>
+		<string id="osa_ar_empire_helmet_d" text="{.Muzcynski}Стэпавы Аздоблены Пёрамі Шпангенхельм над Скураю"/>
+		<string id="osa_ar_empire_helmet_e" text="{.Muzcynski}Стэпавы Шпангенхельм з Пёрамі над Кальчугай"/>
+		<string id="osa_ar_empire_helmet_f" text="{.Muzcynski}Стэпавы Шпангенхельм з Пёрамі"/>
+		<string id="osa_ar_empire_helmet_j" text="{.Muzcynski}Імперскі Шалом Баллістарыёса"/>
+		<string id="osa_ar_empire_helmet_k" text="{.Muzcynski}Імперскі Адкрыты Шалом Баллістарыёса"/>
+		<string id="osa_ar_empire_helmet_l" text="{.Muzcynski}Імперскі Паласаты Шалом"/>
+		<string id="osa_ar_empire_helmet_m" text="{.Muzcynski}Імперскі Паласаты Шалом са Скуранымі Палоскамі"/>
+		<string id="osa_ar_empire_helmet_n" text="{.Muzcynski}Імперскі Паласаты Шалом з Пёрамі і Металёвымі Палоскамі"/>
+		<string id="osa_ar_empire_helmet_o" text="{.Muzcynski}Імперскі Латуневы Лускаваты Коіф"/>
+		<string id="osa_ar_empire_helmet_o2" text="{.Muzcynski}Імперскі Чаргаваны Лускаваты Коіф"/>
+		<string id="osa_ar_empire_helmet_o3" text="{.Muzcynski}Імперскі Сталёвы Лускаваты Коіф"/>
+		<string id="osa_ar_empire_helmet_p" text="{.Muzcynski}Імперскі Мяккі Тканы Коіф"/>
+		<string id="osa_ar_empire_helmet_q" text="{.Muzcynski}Імперскі Шпангенхельм над Тканню"/>
+		<string id="osa_ar_empire_helmet_r" text="{.Muzcynski}Імперскі Шпангенхельм над Паласатай Тканню"/>
+		<string id="osa_ar_empire_helmet_s" text="{.Muzcynski}Усходні Шпангенхельм над Тканню"/>
+		<string id="osa_ar_khuzait_helmet_c" text="{.Muzcynski}Усходні Ламелярны Шалом з Футрам"/>
+		<string id="osa_ar_khuzait_helmet_k" text="{.Muzcynski}Усходні Шпангенхельм з Футрам і Пяром"/>
+		<string id="osa_ar_khuzait_helmet_l" text="{.Muzcynski}Усходні Шпангенхельм з Футрам"/>
+		<string id="osa_ar_khuzait_helmet_n" text="{.Muzcynski}Усходні Шпангенхельм з Футравай Шапкай"/>
+		<string id="osa_ar_khuzait_helmet_c_fur" text="{.Muzcynski}Усходні Ламелярны Шалом з Перагорнутай Шапкай"/>
+		<string id="osa_ar_khuzait_lord_helmet_h" text="{.Muzcynski}Усходні Шаўковы Загорнуты Ўпрыгожаны Шляхетны Каўпак"/>
+		<string id="osa_ar_empire_archer_helmet_a" text="{.Muzcynski}Імперскі Шалом Саджытарыюса над Скураю"/>
+		<string id="osa_ar_empire_archer_helmet_a2" text="{.Muzcynski}Імперскі Пазалочаны Шалом Саджытарыюса над Скураю"/>
+		<string id="osa_ar_empire_archer_helmet_c" text="{.Muzcynski}Імперскі Шалом Саджытарыюса над Кальчугай"/>
+		<string id="osa_ar_empire_archer_helmet_c2" text="{.Muzcynski}Імперскі Пазалочаны Шалом Саджытарыюса над Кальчугай"/>
+		<string id="osa_ar_empire_desert_helmet_a" text="{.Muzcynski}Паўднёвы Назальхельм з Пёрамі над Імперскай Кальчугай"/>
+		<string id="osa_ar_empire_desert_helmet_d" text="{.Muzcynski}Паўднёвы Назальхельм над Скураю"/>
+		<string id="osa_ar_empire_lord_helmet_i" text="{.Muzcynski}Імперскі Ўпрыгожаны Паласаты Шалом з Пёрамі і Металёвымі Палоскамі"/>
+		<string id="osa_ar_roman_helmet_b_decorated" text="{.Muzcynski}Імперскі Ўпрыгожаны Шалом з Абаронай Твару"/>
+		<string id="osa_ar_roman_helmet_b_fur_a" text="{.Muzcynski}Імперскі Шалом Выведніка з Абаронай Твару"/>
+		<string id="osa_ar_roman_helmet_b_fur_b" text="{.Muzcynski}Імперскі Высокі Шалом Выведніка"/>
+		<string id="osa_ar_roman_helmet_d_strips" text="{.Muzcynski}Высокі Шалом з Пёрамі над Паласатай Тканню"/>
+		<string id="osa_ar_vlandia_helmet_c" text="{.Muzcynski}Упрыгожаны Цяжкі Скалкэп над Мяккай Тканню"/>
+		<string id="osa_ar_vlandia_helmet_c2" text="{.Muzcynski}Аздоблены Пёрамі Цяжкі Скалкэп над Мяккай Тканню"/>
+		<string id="osa_ar_vlandia_helmet_d" text="{.Muzcynski}Упрыгожаны Цяжкі Скалкэп над Кальчужным Коіфам"/>
+		<string id="osa_ar_vlandia_helmet_e" text="{.Muzcynski}Упрыгожаны Цяжкі Скалкэп з Аховай над Кальчужным Коіфам"/>
+		<string id="osa_ar_vlandia_helmet_u" text="{.Muzcynski}Заходні Пазалочаны Назальхельм з Забралам"/>
+		<string id="osa_ar_vlandia_helmet_x" text="{.Muzcynski}Заходні Паласаты Назальхельм з Абаронай Твару"/>
+		<string id="osa_ar_vlandia_helmet_z" text="{.Muzcynski}Заходні Шалом з Забралам і Грэбенем над Тканню"/>
+		<string id="osa_ar_goth_helmet_d" text="{.Muzcynski}Усходні Ламелярны Шалом над Тканню"/>
+		<string id="osa_ar_goth_helmet_e" text="{.Muzcynski}Усходні Ламелярны Шалом над Скураю"/>
+		<string id="osa_ar_goth_helmet_f" text="{.Muzcynski}Усходні Ламелярны Шалом над Кальчугай"/>
+		<!-- Цяжкі Helmets -->
+		<string id="osa_ar_empire_lord_helmet_c_a" text="{.Muzcynski}Імперскі Шалом з Пёрамі і Металёвымі Палоскамі"/>
+		<string id="osa_ar_empire_lord_guarded_face_helmet" text="{.Muzcynski}Імперскі Шалом Шляхты з Аховай і Тваравай Пласцінай"/>
+		<string id="osa_ar_empire_Катафрактаs_helmet_a" text="{.Muzcynski}Імперскі Шалом Катафракта з Пёрамі"/>
+		<string id="osa_ar_imperial_archons_helmet_a" text="{.Muzcynski}Імперскі Пазалочаны Шалом Архонта"/>
+		<string id="osa_ar_imperial_archons_helmet_b" text="{.Muzcynski}Імперскі Срэбны Шалом Архонта"/>
+		<string id="osa_ar_imperial_crowned_helmet_a" text="{.Muzcynski}Імперскі Шалом-Карона"/>
+		<string id="osa_ar_imperial_crowned_helmet_b" text="{.Muzcynski}Імперскі Шалом-Карона з Тваравай Пласцінай"/>
+		<string id="osa_ar_roman_helmet_d_plumed_a" text="{.Muzcynski}Упрыгожаны Шалом з Пёрамі"/>
+		<string id="osa_ar_roman_helmet_d_plumed_b" text="{.Muzcynski}Пазалочаны Шалом з Пёрамі"/>
+		<string id="osa_ar_roman_helmet_d_plumed_c" text="{.Muzcynski}Пазалочаны Шалом з Пёрамі і Тваравай Пласцінай"/>
+		<string id="osa_ar_roman_helmet_d_strips_mail" text="{.Muzcynski}Высокі Шалом з Пёрамі над Паласатай Кальчугай"/>
+		<string id="osa_ar_roman_helmet_e_strips_mail" text="{.Muzcynski}Высокі Шалом над Паласатай Кальчугай"/>
+		<string id="osa_ar_roman_helmet_b_fur_c" text="{.Muzcynski}Імперскі Шалом Выведніка з Пёрамі"/>
+		<string id="osa_ar_roman_helmet_b_decorated_b" text="{.Muzcynski}Імперскі Ўпрыгожаны Шалом з Кляйнотам і Абаронай Твару"/>
+		<string id="osa_ar_roman_helmet_b_decorated_c" text="{.Muzcynski}Імперскі Пазалочаны Ўпрыгожаны Шалом з Кляйнотам і Абаронай Твару"/>
+		<string id="osa_ar_khuzait_helmet_g" text="{.Muzcynski}Усходні Шыпаты Шалом са Скураю"/>
+		<string id="osa_ar_khuzait_helmet_j" text="{.Muzcynski}Усходні Закрыты Цяжкі Шалом"/>
+		<string id="osa_ar_khuzait_helmet_m" text="{.Muzcynski}Усходні Шпангенхельм з Пёрамі і Футрам над Ламелярам"/>
+		<string id="osa_ar_khuzait_helmet_o" text="{.Muzcynski}Усходні Аздоблены Пёрамі Шалом Катафракта"/>
+		<string id="osa_ar_khuzait_lord_helmet_a" text="{.Muzcynski}Усходні Шалом Шляхетны з Пёрамі і Тваравай Пласцінай"/>
+		<string id="osa_ar_khuzait_lord_helmet_b" text="{.Muzcynski}Усходні Шалом Катафракта"/>
+		<string id="osa_ar_khuzait_lord_helmet_c" text="{.Muzcynski}Усходні Пазалочаны Шалом са Скуранымі Палоскамі"/>
+		<string id="osa_ar_khuzait_lord_helmet_d" text="{.Muzcynski}Усходні Закрыты Пазалочаны Шалом з Пласціністай Скураю"/>
+		<string id="osa_ar_khuzait_lord_helmet_e" text="{.Muzcynski}Усходні Цяжкі Шляхетны Шалом з Пёрамі"/>
+		<string id="osa_ar_khuzait_lord_helmet_f" text="{.Muzcynski}Усходні Цяжкі Шалом з Пёрамі і Маскай"/>
+		<string id="osa_ar_khuzait_lord_helmet_g" text="{.Muzcynski}Усходні Цяжкі Вэндэл са Скураю"/>
+		<string id="osa_ar_vlandian_crown_mask_a" text="{.Zanocy}Заходняя Карона з Маскай"/>
+		<string id="osa_ar_vlandian_crown_mask_b" text="{.Muzcynski}Заходні Шалом-Карона з Маскай"/>
+		<string id="osa_ar_vlandian_knights_helmet_a" text="{.Muzcynski}Заходні Шалом Рыцара"/>
+		<string id="osa_ar_vlandian_knights_helmet_b" text="{.Muzcynski}Заходні Аздоблены Пёрамі Шалом Рыцара"/>
+		<string id="osa_ar_vlandian_knights_helmet_c" text="{.Muzcynski}Заходні Шалом Рыцара з Аховай"/>
+		<string id="osa_ar_vlandia_helmet_a" text="{.Muzcynski}Заходні Рыфлены Шалом над Мяккай Кальчугай"/>
+		<string id="osa_ar_vlandia_helmet_b" text="{.Muzcynski}Заходні Рыфлены Шалом з Пёрамі над Мяккай Кальчугай"/>
+		<string id="osa_ar_vlandia_helmet_i" text="{.Muzcynski}Шалом з Наноснікам і Абаронай Твару над Кальчугай"/>
+		<string id="osa_ar_vlandia_helmet_j" text="{.Muzcynski}Заходні Цяжкі Цервельэр над Кальчугай"/>
+		<string id="osa_ar_vlandia_helmet_m" text="{.Muzcynski}Заходні Шпангенхельм з Абаронай Твару над Кальчугай"/>
+		<string id="osa_ar_vlandia_helmet_n" text="{.Muzcynski}Заходні Цяжкі Шпангенхельм над Кальчугай"/>
+		<string id="osa_ar_vlandia_helmet_q" text="{.Muzcynski}Бронзавы Шпангенхельм з Пёрамі над Кальчужным Коіфам"/>
+		<string id="osa_ar_vlandia_helmet_q2" text="{.Muzcynski}Бронзавы Шпангенхельм з Кляйнотам над Кальчужным Коіфам"/>
+		<string id="osa_ar_vlandia_helmet_r" text="{.Muzcynski}Бронзавы Шпангенхельм з Пёрамі над Пласціністым Кальчужным Коіфам"/>
+		<string id="osa_ar_vlandia_helmet_r2" text="{.Muzcynski}Бронзавы Шпангенхельм з Кляйнотам над Пласціністым Кальчужным Коіфам"/>
+		<string id="osa_ar_vlandia_helmet_s" text="{.Muzcynski}Заходні Востраканцовы Шалом Катафракта"/>
+		<string id="osa_ar_vlandia_helmet_t" text="{.Muzcynski}Заходні Шалом Катафракта"/>
+		<string id="osa_ar_vlandia_helmet_v" text="{.Muzcynski}Заходні Пазалочаны Назальхельм з Забралам над Кальчугай"/>
+		<string id="osa_ar_vlandia_helmet_y" text="{.Muzcynski}Заходні Бандэдхельм з Пёрамі і Абаронай Вачэй над Кальчугай"/>
+		<string id="osa_ar_vlandia_helmet_z2" text="{.Muzcynski}Заходні Шалом з Забралам і Грэбенем над Кальчугай"/>
+		<string id="osa_ar_vlandia_lord_helmet_a" text="{.Muzcynski}Заходні Шляхетны Назальхельм з Пяром і Кляйнотам"/>
+		<string id="osa_ar_vlandia_lord_helmet_b" text="{.Muzcynski}Заходні Шляхетны Пазалочаны Назальхельм з Кляйнотам і Забралам"/>
+		<string id="osa_ar_vlandia_lord_helmet_c" text="{.Muzcynski}Заходні Шляхетны Бандэдхельм з Абаронай Вачэй"/>
+		<string id="osa_ar_vlandia_lord_helmet_d" text="{.Muzcynski}Заходні Шляхетны Шалом з Грэбенем і Тваравай Пласцінай"/>
+		<string id="osa_ar_battania_lord_helmet_a" text="{.Muzcynski}Горны Шалом-Карона з Пёрамі"/>
+		<string id="osa_ar_battania_lord_helmet_b" text="{.Muzcynski}Пазалочаны Горны Шалом-Карона з Пёрамі"/>
+		<string id="osa_ar_battania_lord_helmet_c" text="{.Muzcynski}Горны Шляхетны Шалом з Пёрамі"/>
+		<string id="osa_ar_battania_lord_helmet_d" text="{.Muzcynski}Горны Шляхетны Сталёвы Ўпрыгожаны Шалом з Пяром"/>
+		<string id="osa_ar_battania_lord_helmet_e" text="{.Muzcynski}Горны Шляхетны Бронзавы Ўпрыгожаны Шалом з Пяром"/>
+		<string id="osa_ar_battania_lord_helmet_f" text="{.Muzcynski}Горны Шляхетны Сталёвы Рабрысты Шалом"/>
+		<string id="osa_ar_battania_lord_helmet_g" text="{.Muzcynski}Горны Шляхетны Бронзавы Рабрысты Шалом"/>
+		<string id="osa_ar_battania_lord_helmet_h" text="{.Muzcynski}Горны Шляхетны Сталёвы Высокі Шалом"/>
+		<string id="osa_ar_battania_lord_helmet_i" text="{.Muzcynski}Горны Шляхетны Бронзавы Высокі Шалом"/>
+		<string id="osa_ar_battania_lord_helmet_j" text="{.Muzcynski}Горны Шляхетны Шалом з Пяром і Кляйнотам"/>
+		<string id="osa_ar_battania_lord_helmet_k" text="{.Muzcynski}Горны Шляхетны Сталёвы Ўпрыгожаны Шалом з Птушкай"/>
+		<string id="osa_ar_battania_lord_helmet_l" text="{.Muzcynski}Горны Бронзавы Шалом з Кляйнотам і Пяром"/>
+		<string id="osa_ar_battania_lord_helmet_m" text="{.Muzcynski}Горны Шалом з Грэбенем, Пяром і Кляйнотам"/>
+		<string id="osa_ar_battania_lord_helmet_n" text="{.Muzcynski}Горны Жалезны Шалом Войскавода з Грэбенем і Кляйнотам"/>
+		<string id="osa_ar_battania_lord_helmet_o" text="{.Muzcynski}Горны Пазалочаны Шалом Войскавода з Грэбенем і Кляйнотам"/>
+		<string id="osa_ar_battania_lord_helmet_p" text="{.Muzcynski}Горны Пазалочаны Шляхетны Цяжкі Назальхельм над Лускатай"/>
+		<string id="osa_ar_battania_lord_helmet_q" text="{.Muzcynski}Горны Шляхетны Цяжкі Назальхельм над Лускатай"/>
+		<string id="osa_ar_battania_helmet_f_decorated" text="{.Muzcynski}Горны Ўпрыгожаны Шалом з Грэбенем"/>
+		<string id="osa_ar_battania_helmet_f" text="{.Muzcynski}Горны Ўпрыгожаны Шалом Пёрамі і Грэбенем"/>
+		<string id="osa_ar_battania_helmet_g" text="{.Muzcynski}Горны Шпангенхельм"/>
+		<string id="osa_ar_battania_helmet_h" text="{.Muzcynski}Горны Аздоблены Пёрамі Шпангенхельм над Замшам"/>
+		<string id="osa_ar_battania_helmet_i" text="{.Muzcynski}Горны Шпангенхельм з Пёрамі над Кальчугай"/>
+		<string id="osa_ar_battania_helmet_z" text="{.Muzcynski}Горны Паласаты Шалом над Кальчугай"/>
+		<string id="osa_ar_battania_helmet_zf" text="{.Muzcynski}Горны Цяжкі Назальхельм над Кальчугай"/>
+		<string id="osa_ar_empire_helmet_a" text="{.Muzcynski}Імперскі Шляхетны Цяжкі Назальхельм з Каштоўнасцямі"/>
+		<string id="osa_ar_empire_helmet_b" text="{.Muzcynski}Імперскі Шляхетны Пазалочаны Цяжкі Назальхельм з Каштоўнасцямі"/>
+		<string id="osa_ar_empire_helmet_g" text="{.Muzcynski}Імперскі Пазалочаны Шалом з Металёвымі Палоскамі"/>
+		<string id="osa_ar_empire_helmet_h" text="{.Muzcynski}Імперскі Пазалочаны Закрыты Шалом з Металёвымі Палоскамі"/>
+		<string id="osa_ar_empire_helmet_i" text="{.Muzcynski}Імперскі Шалом Баллістарыёса з Пёрамі над Кальчугай"/>
+		<string id="osa_ar_empire_lord_helmet_a" text="{.Muzcynski}Імперскі Шалом Шляхты з Абаронай Твару"/>
+		<string id="osa_ar_empire_lord_helmet_b" text="{.Muzcynski}Імперскі Шалом Шляхты з Тваравай Пласцінай"/>
+		<string id="osa_ar_empire_lord_helmet_d" text="{.Muzcynski}Пазалочаны Імперскі Шалом Шляхты з Аховай"/>
+		<string id="osa_ar_empire_lord_helmet_e" text="{.Muzcynski}Імперскі Аздоблены Пёрамі Шалом з Каштоўнасцямі"/>
+		<string id="osa_ar_empire_lord_helmet_f" text="{.Muzcynski}Імперскі Шпангенхельм з Аховай, Пяром і Кляйнотам"/>
+		<string id="osa_ar_empire_lord_helmet_g" text="{.Muzcynski}Імперскі Срэбны Шалом з Грэбенем"/>
+		<string id="osa_ar_empire_lord_helmet_h" text="{.Muzcynski}Імперскі Пазалочаны Шалом з Каштоўнасцямі і Грэбенем"/>
+		<string id="osa_ar_empire_lord_helmet_j" text="{.Muzcynski}Імперскі Шалом з Каштоўнасцямі і Грэбенем"/>
+		<string id="osa_ar_empire_lord_helmet_k" text="{.Muzcynski}Імперскі Шалом з Каштоўнасцямі, Грэбенем і Пазалочанай Тваравай Пласцінай"/>
+		<string id="osa_ar_empire_lord_helmet_l" text="{.Muzcynski}Імперскі Шалом з Каштоўнасцямі, Грэбенем і Срэбнай Тваравай Пласцінай"/>
+		<string id="osa_ar_empire_archer_helmet_d" text="{.Muzcynski}Імперскі Шалом Саджытарыюса над Лускатай"/>
+		<string id="osa_ar_empire_archer_helmet_d2" text="{.Muzcynski}Імперскі Пазалочаны Шалом Саджытарыюса над Лускатай"/>
+		<string id="osa_ar_empire_desert_helmet_e" text="{.Muzcynski}Паўднёвы Шалом з Металёвымі Палоскамі"/>
+		<string id="osa_ar_empire_legatus_helm_f" text="{.Muzcynski}Імперскі Ўпрыгожаны Шалом Шляхты з Кляйнотам і Тваравай Пласцінай"/>
+		<string id="osa_ar_empire_crested_helm_b" text="{.Muzcynski}Імперскі Шалом з Кляйнотам і Тваравай Пласцінай"/>
+		<string id="osa_ar_sturgia_helmet_c" text="{.Muzcynski}Паўночны Закрыты Шалом Вершніка з Пёрамі"/>
+		<string id="osa_ar_sturgia_helmet_m" text="{.Muzcynski}Паўночны Завостраны Шалом з Пяром"/>
+		<string id="osa_ar_closed_kettle_helmet_a" text="{.Muzcynski}Імперскі Капалін з Пёрамі над Закрытай Кальчугай"/>
+		<string id="osa_ar_vaegir_helmet_a" text="{.Muzcynski}Паўночны Шыпаты Шалом з Кальчугай"/>
+		<string id="osa_ar_vaegir_helmet_c" text="{.Muzcynski}Паўночны Футравы Шыпаты Шалом з Кальчугай"/>
+		<string id="osa_ar_vaegir_helmet_d" text="{.Muzcynski}Паўночны Футравы Вэндэл"/>
+		<string id="osa_ar_vaegir_helmet_e" text="{.Muzcynski}Паўночны Шыпаты Шалом над Скураю"/>
+		<string id="osa_ar_vaegir_helmet_f" text="{.Muzcynski}Паўночны Футравы Шыпаты Шалом над Скураю"/>
+		<string id="osa_ar_vaegir_helmet_g" text="{.Muzcynski}Паўночны Шыпаты Шалом з Ўпрыгожанай Маскай"/>
+		<string id="osa_ar_goth_helmet_a" text="{.Muzcynski}Жалезны Шалом з Грубай Лускатай"/>
+		<string id="osa_ar_goth_helmet_b" text="{.Muzcynski}Жалезны Шалом з Грубай Лускатай і Абаронай Твару"/>
+		<string id="osa_ar_goth_helmet_c" text="{.Muzcynski}Жалезны Шалом з Пёрамі, Грубай Лускатай і Абаронай Твару"/>
+		<string id="osa_ar_goth_helmet_g" text="{.Muzcynski}Усходні Закрыты Ламелярны Шалом з Пёрамі"/>
+		<string id="osa_ar_lion_head_c" text="{.Muzcynski}Шалом з Грэбенем і Галавой Ільва"/>
+	</strings>
+</base>
