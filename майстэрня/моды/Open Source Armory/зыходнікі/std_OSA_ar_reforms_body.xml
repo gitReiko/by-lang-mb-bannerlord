@@ -21,7 +21,7 @@
 		<string id="osa_ar_aserai_armor_j" text="Darshi Decorated Kaftan Over Mail"/>
 		<string id="osa_ar_aserai_armor_k" text="Darshi Leather Vest Over Kaftan"/>
 		<string id="osa_ar_aserai_armor_l" text="Darshi Heavy Leather Vest Over Kaftan"/>
-		<string id="osa_ar_aserai_armor_m" text="Darshi Mailled Heavy Leather Vest Over Kaftan"/>
+		<string id="osa_ar_aserai_armor_m" text="Darshi Mailed Heavy Leather Vest Over Kaftan"/>
 		<string id="osa_ar_aserai_armor_n" text="Southern Wrapped Tunic"/>
 		<string id="osa_ar_aserai_armor_o" text="Southern Fur Coat Over Tunic"/>
 		<string id="osa_ar_aserai_armor_p" text="Southern Gambeson"/>
@@ -32,8 +32,8 @@
 		<string id="osa_ar_aserai_armor_t2" text="Darshi Alternating Lamellar Over Stripped Cloth"/>
 		<string id="osa_ar_aserai_armor_u" text="Darshi Lamellar Over Stripped Mail"/>
 		<string id="osa_ar_aserai_armor_u2" text="Darshi Alternating Lamellar Over Stripped Mail"/>
-		<string id="osa_ar_aserai_armor_v" text="Darshi Mailled Lamellar Vest Over Kaftan"/>
-		<string id="osa_ar_aserai_armor_v2" text="Darshi Mailled Alternating Lamellar Vest Over Kaftan"/>
+		<string id="osa_ar_aserai_armor_v" text="Darshi Mailed Lamellar Vest Over Kaftan"/>
+		<string id="osa_ar_aserai_armor_v2" text="Darshi Mailed Alternating Lamellar Vest Over Kaftan"/>
 		<string id="osa_ar_aserai_armor_w" text="Eastern Light Lamellar"/>
 		<string id="osa_ar_aserai_armor_w2" text="Eastern Light Alternating Lamellar"/>
 		<string id="osa_ar_aserai_armor_x" text="Eastern Alternating Lamellar Over Mail Armor"/>
@@ -49,14 +49,32 @@
 		<string id="osa_ar_aserai_scale_armor_b" text="Mastercrafted Southern Steel Scale over Chain Mail"/>
 		<string id="osa_ar_aserai_scale_armor_c" text="Mastercrafted Southern Steel Scale over Chain Hauberk"/>
 		<!-- Battanian Armors -->
-		<string id="osa_ar_battania_armor_a" text="Highland Savage Scale Mail"/>
-		<string id="osa_ar_battania_armor_b" text="Highland Savage Scale Over Mail"/>
+		<string id="osa_ar_battania_armor_a" text="Highland Savage Scale Cuirass"/>
+		<string id="osa_ar_battania_armor_a2" text="Highland Savage Scale Over Mail Shirt"/>
+		<string id="osa_ar_battania_armor_b" text="Highland Decorated Savage Scale Over Mail"/>
+		<string id="osa_ar_battania_armor_b2" text="Highland Savage Scale Over Mail"/>
 		<string id="osa_ar_battania_armor_c" text="Highland Cloth Trousers"/>
 		<string id="osa_ar_battania_armor_d" text="Highland Plaid Cloth Trousers"/>
 		<string id="osa_ar_battania_armor_e" text="Highland Striped Cloth Trousers"/>
 		<string id="osa_ar_battania_armor_f" text="Highland Rough Mail Hauberk With Fur"/>
 		<string id="osa_ar_battania_armor_g" text="Highland Sleeveless Leather Tunic"/>
 		<string id="osa_ar_battania_armor_h" text="Highland Rugged Leather Vest"/>
+		<string id="osa_ar_battania_armor_i" text="Highland Rugged Mail Vest"/>
+		<string id="osa_ar_battania_armor_j" text="Highland Plated Mail Vest"/>
+		<string id="osa_ar_battania_armor_k" text="Highland Tartan Tunic with Rolled Cloth"/>
+		<string id="osa_ar_battania_armor_l" text="Highland Mail Shirt With Rolled Cloth"/>
+		<string id="osa_ar_battania_armor_m" text="Highland Brass Scale Shirt With Rolled Cloth"/>
+		<string id="osa_ar_battania_armor_m2" text="Highland Steel Scale Shirt With Rolled Cloth"/>
+		<string id="osa_ar_battania_armor_n" text="Highland Mailled Brass Scale Shirt With Rolled Cloth"/>
+		<string id="osa_ar_battania_armor_n2" text="Highland Mailled Steel Scale Shirt With Rolled Cloth"/>
+		<string id="osa_ar_battania_armor_o" text="Highland Padded Steel Breastplate"/>
+		<string id="osa_ar_battania_armor_o2" text="Highland Padded Decorated Steel Breastplate"/>
+		<string id="osa_ar_battania_armor_p" text="Highland Brass Breastplate Over Tunic"/>
+		<string id="osa_ar_battania_armor_p2" text="Highland Steel Breastplate Over Tunic"/>
+		<string id="osa_ar_battania_armor_p3" text="Highland Decorated Steel Breastplate Over Tunic"/>
+		<string id="osa_ar_battania_armor_q" text="Highland Brass Breastplate Over Mail"/>
+		<string id="osa_ar_battania_armor_q2" text="Highland Steel Breastplate Over Mail"/>
+		<string id="osa_ar_battania_armor_q3" text="Highland Decorated Steel Breastplate Over Mail"/>
 		<!-- Empire Armors -->
 		<string id="osa_ar_empire_armor_a" text="Imperial Leather Subarmalis Over Tunic"/>
 		<string id="osa_ar_empire_armor_b" text="Imperial Toga With Tunic"/>
@@ -66,7 +84,7 @@
 		<string id="osa_ar_empire_armor_f" text="Imperial Skirted Trousers"/>
 		<string id="osa_ar_empire_armor_g" text="Imperial Belted Skirt"/>
 		<string id="osa_ar_empire_armor_h" text="Imperial Lamellar Cuirass Over Stripped Cloth"/>
-		<string id="osa_ar_empire_armor_i" text="Imperial Lamellar Cuirass Over Mailled Leather"/>
+		<string id="osa_ar_empire_armor_i" text="Imperial Lamellar Cuirass Over Mailed Leather"/>
 		<string id="osa_ar_empire_armor_j" text="Imperial Legionary Mail With Strips"/>
 		<string id="osa_ar_empire_armor_k" text="Tunic With Shoulder Pads And Pteruges"/>
 		<string id="osa_ar_empire_armor_l" text="Western Mail Shirt With Rolled Cloth"/>
@@ -102,21 +120,30 @@
 		<string id="osa_ar_monk_robe_a" text="Western Colored Robe"/>
 		<string id="osa_ar_monk_robe_a2" text="Western Plain Robe"/>
 		<string id="osa_ar_monk_robe_b" text="Western Brown Robe"/>
-		<string id="osa_ar_monk_robe_c" text="Western Mailled Colored Robe"/>
-		<string id="osa_ar_monk_robe_c2" text="Western Mailled Plain Robe"/>
-		<string id="osa_ar_monk_robe_d" text="Western Mailled Black Robe"/>
+		<string id="osa_ar_monk_robe_c" text="Western Mailed Colored Robe"/>
+		<string id="osa_ar_monk_robe_c2" text="Western Mailed Plain Robe"/>
+		<string id="osa_ar_monk_robe_d" text="Western Mailed Black Robe"/>
 		<!-- Sturgia Armors -->
 		<string id="osa_ar_sturgia_armor_a" text="Northern Padded Leather Vest Over Mail"/>
 		<string id="osa_ar_sturgia_armor_b" text="Northern Padded Leather Vest"/>
+		<string id="osa_ar_sturgia_armor_c" text="Northern Leather Tabard Over Mail"/>
+		<string id="osa_ar_sturgia_armor_d" text="Northern Leather Coat"/>
+		<string id="osa_ar_sturgia_armor_d2" text="Northern Leather Coat"/>
+		<string id="osa_ar_sturgia_armor_e" text="Northern Leather Coat Over Mail"/>
+		<string id="osa_ar_sturgia_armor_e2" text="Northern Leather Coat Over Mail"/>
+		<string id="osa_ar_sturgia_armor_f" text="Northern Lamellar Coat Over Mail"/>
+		<string id="osa_ar_sturgia_armor_f2" text="Northern Lamellar Coat Over Mail"/>
 		<!-- Vlandian Armors -->
 		<string id="osa_ar_vlandia_armor_a" text="Western Heavy Padded Coat Over Mail"/>
 		<string id="osa_ar_vlandia_armor_b" text="Western Heavy Padded Coat Over Mail And Lamellar"/>
 		<string id="osa_ar_vlandia_armor_c" text="Western Tabard Over Mail Hauberk"/>
 		<string id="osa_ar_vlandia_armor_d" text="Western Mail Shirt"/>
+		<string id="osa_ar_vlandia_armor_d2" text="Western Chainmail Shirt"/>
 		<string id="osa_ar_vlandia_armor_e" text="Western Plated Mail Shirt"/>
 		<string id="osa_ar_vlandia_armor_f" text="Western Long Hauberk"/>
 		<string id="osa_ar_vlandia_armor_g" text="Western Tunic With Clavi"/>
 		<string id="osa_ar_vlandia_armor_h" text="Western Reticulated Plate Over Long Hauberk"/>
+		<string id="osa_ar_vlandia_armor_h2" text="Western Reticulated Plate Over Aketon"/>
 		<string id="osa_ar_vlandia_armor_i" text="Western Long Woolen Tunic"/>
 		<string id="osa_ar_vlandia_armor_j" text="Western Padded Gambeson"/>
 		<string id="osa_ar_vlandia_armor_k" text="Western Sleeveless Padded Gambeson"/>
